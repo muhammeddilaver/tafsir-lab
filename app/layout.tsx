@@ -4,10 +4,13 @@ import Peek from "@/components/Peek";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "Tefsir — ayet ayet Kur'an tefsiri", template: "%s — Tefsir" },
+  title: {
+    default: "Claude Tefsir — ayet ayet Kur'an tefsiri",
+    template: "%s — Claude Tefsir",
+  },
   description:
-    "Kur'an'ın 114 sûresinin tamamı: ayet ayet, kök tahlili esaslı Türkçe tefsir.",
-  openGraph: { type: "website", siteName: "Tefsir", locale: "tr_TR" },
+    "Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri. 114 sûrenin tamamı.",
+  openGraph: { type: "website", siteName: "Claude Tefsir", locale: "tr_TR" },
 };
 
 export const viewport = { themeColor: "#EFF1EF" };
@@ -26,7 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <header className="top">
           <div className="top-in">
-            <Link className="home" href="/">Tefsir</Link>
+            <Link className="home" href="/">Claude Tefsir</Link>
             <span className="sp" />
             <Link href="/kok">Kök dizini</Link>
             <Link href="/usul">Usul</Link>

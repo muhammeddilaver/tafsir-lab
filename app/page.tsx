@@ -1,3 +1,4 @@
+import Link from "next/link";
 import ContinueCard from "@/components/ContinueCard";
 import SuraFilter from "@/components/SuraFilter";
 import { stats, suraList } from "@/lib/content";
@@ -12,6 +13,11 @@ export default function Home() {
         <p>
           Kur&apos;an&apos;ın tamamı: her sûre, her ayet. Kelimeler köklerine kadar açılıyor;
           müfessirler ayrıldığında ihtilaf gizlenmiyor, tablo hâlinde veriliyor.
+        </p>
+        <p className="muted">
+          Metnin tamamı Claude (Anthropic) tarafından yazılmıştır; klasik tefsir
+          literatürünün yerine geçmez, önemli konularda kaynaklarından doğrulanmalıdır.
+          Uygulanan kurallar için <Link href="/usul">Usul</Link> sayfasına bakınız.
         </p>
         <p className="muted">
           Her satırın yanındaki bağlantı işaretine dokunarak o satırı paylaşabilirsiniz.
