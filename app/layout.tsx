@@ -37,6 +37,29 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <div id="progress" />
         </header>
         {children}
+        <footer className="foot">
+          <div className="foot-in">
+            <nav className="foot-nav">
+              <Link href="/hakkinda">Hakkında</Link>
+              <Link href="/usul">Usul</Link>
+              <Link href="/kok">Kök dizini</Link>
+              <Link href="/kosullar">Kullanım koşulları</Link>
+              <Link href="/gizlilik">Gizlilik</Link>
+              <a
+                className="foot-gh"
+                href="https://github.com/muhammeddilaver/llm-tefsir-project"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub
+              </a>
+            </nav>
+            <p className="foot-note">
+              Metnin tamamı bir dil modeli (Claude, Anthropic) tarafından yazılmıştır.
+              Dinî otoritesi yoktur; klasik kaynaklardan doğrulanmalıdır.
+            </p>
+          </div>
+        </footer>
         <Peek />
       </body>
     </html>

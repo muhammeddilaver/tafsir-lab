@@ -284,3 +284,27 @@ tbody tr:last-child td{border-bottom:0}
 }
 @media (prefers-reduced-motion:reduce){.peek-wrap{animation:none}}
 
+
+/* ---------- alt bilgi ---------- */
+.foot{border-top:1px solid var(--rule-soft); background:var(--paper-2); margin-top:60px}
+.foot-in{max-width:1100px; margin:0 auto; padding:26px 20px 34px}
+.foot-nav{display:flex; flex-wrap:wrap; gap:8px 20px; font-family:var(--sans); font-size:13.5px}
+.foot-nav a{color:var(--ink-2); text-decoration:none}
+.foot-nav a:hover{color:var(--lapis)}
+.foot-gh::after{content:" ↗"; font-size:11px; color:var(--ink-3)}
+.foot-note{
+  margin:14px 0 0; max-width:62ch;
+  font-family:var(--sans); font-size:12.5px; line-height:1.6; color:var(--ink-3);
+}
+
+/* ---------- duz metin sayfalari (hakkinda, kosullar, gizlilik) ---------- */
+.doc{padding-bottom:56px}   /* duz metin sayfalarinda alt bosluk daha az */
+.doc h2{
+  font-family:var(--display); font-size:22px; line-height:1.3;
+  margin:2em 0 .5em; padding-top:.4em; border-top:1px solid var(--rule-soft);
+}
+.doc p{margin:0 0 1em}
+.doc ul{margin:0 0 1.2em; padding-left:1.25em}
+.doc li{margin:.4em 0}
+.doc .tw{margin:1.2em 0}
+.doc code{font-size:.85em}
