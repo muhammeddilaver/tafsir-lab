@@ -11,6 +11,7 @@
   --sans:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
   --arabic:"Amiri","Noto Naskh Arabic",serif;
   --measure:68ch;
+  --link-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1'/%3E%3Cpath d='M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1'/%3E%3C/svg%3E");
 }
 @media (prefers-color-scheme:dark){
   :root{
@@ -47,6 +48,12 @@ a{color:var(--lapis)}
 .top a:hover{color:var(--lapis)}
 .top .home{font-family:var(--display); font-weight:700; font-size:19px; color:var(--ink); letter-spacing:-.01em}
 .top .sp{flex:1}
+/* Dar ekranda "LLM Tefsir Project" iki satira dusuyordu */
+@media (max-width:420px){
+  .top-in{gap:10px; padding:10px 14px}
+  .top .home{font-size:16px; white-space:nowrap}
+  .top a{font-size:13px}
+}
 #progress{
   position:absolute; left:0; bottom:-1px; height:2px; width:100%; background:var(--lapis);
   transform:scaleX(0); transform-origin:0 50%; will-change:transform;
@@ -115,6 +122,12 @@ main{max-width:var(--measure); margin:0 auto; padding:40px 0 140px}
   display:flex; align-items:center; justify-content:center; width:24px; height:24px;
   color:var(--ink-3); text-decoration:none; border-radius:6px;
   opacity:0; transition:opacity .13s ease, color .13s ease;
+}
+/* Baglanti ikonu: her satira SVG gommek yerine tek bir maske. */
+.anchor::before{
+  content:""; width:15px; height:15px; background:currentColor;
+  -webkit-mask:var(--link-icon) center/contain no-repeat;
+  mask:var(--link-icon) center/contain no-repeat;
 }
 .blk:hover>.anchor,.anchor:focus-visible{opacity:1}
 .anchor:hover{color:var(--lapis); background:var(--lapis-soft)}

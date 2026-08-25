@@ -5,16 +5,11 @@
 // Tek bir dizeye cevirince hem yuk yariya iniyor hem de hydration kalkiyor.
 import type { Block } from "./md";
 
-// Zincir ikonu: § isareti okurun cogu icin anlamsiz; baglanti ikonu
-// web'de yerlesik ve aciklama gerektirmiyor.
-const LINK_ICON =
-  '<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" ' +
-  'stroke-width="2" stroke-linecap="round" aria-hidden="true">' +
-  '<path d="M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1"/>' +
-  '<path d="M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1"/></svg>';
-
+// Zincir (baglanti) ikonu CSS'te maske olarak duruyor: § isareti okurun
+// cogu icin anlamsizdi, ama SVG'yi her satira gomunce en buyuk surede
+// 624 KB ediyordu (2124 capa x 301 bayt). Isaret artik .anchor::before.
 const anchor = (id: string) =>
-  `<a class="anchor" href="#${id}" data-anchor="${id}" aria-label="Bu satırı paylaş" title="Bu satırı paylaş">${LINK_ICON}</a>`;
+  `<a class="anchor" href="#${id}" data-anchor="${id}" aria-label="Bu satırı paylaş" title="Bu satırı paylaş"></a>`;
 
 /** Modal parcasi icin: id, capa ve § isareti olmadan sade govde. */
 export function renderBare(blocks: Block[]): string {

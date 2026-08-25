@@ -1,4 +1,4 @@
-# Claude Tefsir
+# LLM Tefsir Project
 
 Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri.
 114 sûrenin tamamı, 6.236 ayet.
@@ -61,7 +61,7 @@ statik üretilir — sunucuda çalışan bir şey yok.
 ```bash
 npm install
 npm run dev      # http://localhost:3000
-npm run build    # 3.116 sayfa, ~20 sn
+npm run build    # 3.115 sayfa, ~15 sn
 npm start
 ```
 

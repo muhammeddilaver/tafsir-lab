@@ -5,12 +5,12 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Claude Tefsir — ayet ayet Kur'an tefsiri",
-    template: "%s — Claude Tefsir",
+    default: "LLM Tefsir Project — ayet ayet Kur'an tefsiri",
+    template: "%s — LLM Tefsir Project",
   },
   description:
     "Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri. 114 sûrenin tamamı.",
-  openGraph: { type: "website", siteName: "Claude Tefsir", locale: "tr_TR" },
+  openGraph: { type: "website", siteName: "LLM Tefsir Project", locale: "tr_TR" },
 };
 
 export const viewport = { themeColor: "#EFF1EF" };
@@ -29,7 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <header className="top">
           <div className="top-in">
-            <Link className="home" href="/">Claude Tefsir</Link>
+            <Link className="home" href="/">LLM Tefsir Project</Link>
             <span className="sp" />
             <Link href="/kok">Kök dizini</Link>
             <Link href="/usul">Usul</Link>
