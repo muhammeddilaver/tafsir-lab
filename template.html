@@ -1,0 +1,370 @@
+<title>Kök ve Ayet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=IBM+Plex+Sans:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,600&family=Petrona:wght@500;600;700&display=swap">
+
+<style>
+:root{
+  --paper:#EFF1EF; --paper-2:#E6E9E6; --paper-3:#DDE1DE;
+  --ink:#15181A; --ink-2:#4E555A; --ink-3:#7C848A;
+  --rule:#CDD3CF; --rule-soft:#DFE3E0;
+  --lapis:#1F4E85; --lapis-soft:#E2EAF3;
+  --rubric:#8E3428;
+  --ar:#22262A;
+  --shadow:0 1px 2px rgba(21,24,26,.05),0 8px 24px rgba(21,24,26,.06);
+  --serif:"Literata",Georgia,"Times New Roman",serif;
+  --display:"Petrona",Georgia,serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  --arabic:"Amiri","Noto Naskh Arabic",serif;
+  --measure:66ch;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#111417; --paper-2:#171B1F; --paper-3:#1E242A;
+    --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#798187;
+    --rule:#272E34; --rule-soft:#1F252A;
+    --lapis:#84ABDD; --lapis-soft:#1A2632;
+    --rubric:#D2887A;
+    --ar:#E8ECEA;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#111417; --paper-2:#171B1F; --paper-3:#1E242A;
+  --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#798187;
+  --rule:#272E34; --rule-soft:#1F252A;
+  --lapis:#84ABDD; --lapis-soft:#1A2632;
+  --rubric:#D2887A;
+  --ar:#E8ECEA;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:var(--serif); font-size:17px; line-height:1.72;
+  -webkit-font-smoothing:antialiased;
+}
+::selection{background:var(--lapis-soft); color:var(--ink)}
+:focus-visible{outline:2px solid var(--lapis); outline-offset:2px; border-radius:2px}
+
+.wrap{display:grid; grid-template-columns:286px minmax(0,1fr); min-height:100vh}
+
+/* ---------- kenar ---------- */
+.side{
+  border-right:1px solid var(--rule); background:var(--paper-2);
+  position:sticky; top:0; height:100vh; overflow-y:auto; padding:26px 0 40px;
+}
+.brand{padding:0 24px 20px; border-bottom:1px solid var(--rule-soft); margin-bottom:16px}
+.brand h1{
+  font-family:var(--display); font-weight:700; font-size:25px; line-height:1.15;
+  margin:0 0 6px; letter-spacing:-.01em;
+}
+.brand p{margin:0; font-family:var(--sans); font-size:12.5px; color:var(--ink-3); line-height:1.5}
+.stats{
+  display:flex; gap:14px; margin-top:12px; font-family:var(--sans);
+  font-size:11px; color:var(--ink-3); font-variant-numeric:tabular-nums;
+}
+.stats b{display:block; font-size:15px; color:var(--ink-2); font-weight:600}
+
+.tabs{display:flex; gap:2px; padding:0 18px 14px}
+.tab{
+  flex:1; font-family:var(--sans); font-size:12px; font-weight:500; padding:7px 4px;
+  background:none; border:1px solid transparent; border-radius:4px; color:var(--ink-3);
+  cursor:pointer; transition:color .12s,background .12s;
+}
+.tab:hover{color:var(--ink-2)}
+.tab[aria-selected="true"]{background:var(--paper-3); color:var(--ink); border-color:var(--rule)}
+
+.seek{padding:0 18px 16px}
+.seek input{
+  width:100%; padding:8px 11px; font-family:var(--sans); font-size:13px;
+  background:var(--paper); border:1px solid var(--rule); border-radius:4px; color:var(--ink);
+}
+.seek input::placeholder{color:var(--ink-3)}
+
+.navlist{list-style:none; margin:0; padding:0 12px}
+.navlist li{margin:0}
+.navlist button{
+  width:100%; text-align:left; background:none; border:0; cursor:pointer;
+  padding:7px 12px; border-radius:4px; color:var(--ink-2);
+  font-family:var(--sans); font-size:13.5px; display:flex; align-items:baseline; gap:10px;
+  transition:background .12s,color .12s;
+}
+.navlist button:hover{background:var(--paper-3); color:var(--ink)}
+.navlist button[aria-current="true"]{background:var(--lapis-soft); color:var(--ink); font-weight:500}
+.navlist .n{
+  font-size:11px; color:var(--ink-3); min-width:22px; font-variant-numeric:tabular-nums;
+}
+.navlist button[aria-current="true"] .n{color:var(--lapis)}
+.navlist .meta{margin-left:auto; font-size:10.5px; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.group{
+  font-family:var(--sans); font-size:10.5px; letter-spacing:.09em; text-transform:uppercase;
+  color:var(--ink-3); padding:18px 24px 7px;
+}
+
+/* ---------- ana ---------- */
+main{padding:56px 56px 120px; max-width:calc(var(--measure) + 112px)}
+.sura-head{margin-bottom:44px; padding-bottom:26px; border-bottom:1px solid var(--rule)}
+.eyebrow{
+  font-family:var(--sans); font-size:11px; letter-spacing:.11em; text-transform:uppercase;
+  color:var(--lapis); margin:0 0 9px; font-weight:500;
+}
+.sura-head h1{
+  font-family:var(--display); font-size:44px; line-height:1.08; font-weight:700;
+  margin:0; letter-spacing:-.022em; text-wrap:balance;
+}
+
+main h2{
+  font-family:var(--display); font-size:27px; line-height:1.2; font-weight:600;
+  margin:60px 0 18px; letter-spacing:-.014em; text-wrap:balance;
+}
+main h3{
+  font-family:var(--sans); font-size:13px; font-weight:600; letter-spacing:.045em;
+  text-transform:uppercase; color:var(--ink-2); margin:40px 0 12px;
+}
+main h4{font-family:var(--display); font-size:19px; margin:30px 0 10px; font-weight:600}
+main p{margin:0 0 18px; max-width:var(--measure)}
+main ul{margin:0 0 20px; padding-left:20px; max-width:var(--measure)}
+main li{margin-bottom:7px}
+main strong{font-weight:600}
+main em{font-style:italic; color:var(--ink-2)}
+code{
+  font-family:ui-monospace,"SF Mono",Menlo,monospace; font-size:.87em;
+  background:var(--paper-2); padding:1px 5px; border-radius:3px;
+}
+hr{border:0; height:1px; background:var(--rule); margin:52px 0}
+blockquote{
+  margin:24px 0; padding:2px 0 2px 20px; border-left:2px solid var(--lapis);
+  color:var(--ink-2); font-style:italic; max-width:var(--measure);
+}
+
+/* ayet blogu */
+.ayah{margin:64px 0 22px; scroll-margin-top:24px}
+.ayah-head{margin-bottom:10px}
+.ayah-no{
+  font-family:var(--sans); font-size:11px; font-weight:600; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--lapis);
+  border:1px solid var(--rule); border-radius:3px; padding:3px 9px; display:inline-block;
+}
+.ayah-ar{
+  font-family:var(--arabic); font-size:30px; line-height:2.05; color:var(--ar);
+  margin:0; padding:14px 22px 14px 0; border-right:2px solid var(--lapis);
+  text-align:right; max-width:none;
+}
+.ayah-ar.standalone{
+  font-size:25px; border-right-color:var(--rule); margin:22px 0;
+}
+.ar{font-family:var(--arabic); font-size:1.14em; color:var(--ar); line-height:1.9}
+
+/* tablo */
+.tw{overflow-x:auto; margin:0 0 26px; border:1px solid var(--rule); border-radius:5px}
+table{border-collapse:collapse; width:100%; font-size:14.5px; font-family:var(--sans)}
+th,td{padding:10px 14px; text-align:left; border-bottom:1px solid var(--rule-soft); vertical-align:top}
+th{
+  background:var(--paper-2); font-weight:600; font-size:11px; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--ink-2); white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:0}
+td em{font-style:italic}
+
+/* kok dizini */
+.roots{display:grid; gap:1px; background:var(--rule); border:1px solid var(--rule); border-radius:5px; overflow:hidden}
+.rootrow{background:var(--paper); padding:14px 18px; display:grid; grid-template-columns:118px 1fr; gap:20px; align-items:start}
+.rootkey{
+  font-family:var(--arabic); font-size:22px; color:var(--rubric); direction:rtl; text-align:right;
+  letter-spacing:.04em;
+}
+.rootkey.lat{font-family:var(--sans); font-size:14px; direction:ltr; text-align:left; letter-spacing:.05em; font-weight:600}
+.rootrow .hits{display:flex; flex-wrap:wrap; gap:6px}
+.hit{
+  font-family:var(--sans); font-size:11.5px; padding:3px 9px; border-radius:3px;
+  background:var(--paper-2); border:1px solid var(--rule); color:var(--ink-2);
+  cursor:pointer; transition:background .12s,color .12s;
+}
+.hit:hover{background:var(--lapis-soft); color:var(--ink)}
+
+/* arama */
+.result{
+  padding:16px 0; border-bottom:1px solid var(--rule-soft); cursor:pointer; max-width:var(--measure);
+}
+.result:hover .rtitle{color:var(--lapis)}
+.rtitle{font-family:var(--sans); font-size:12px; font-weight:600; color:var(--ink-2); margin-bottom:5px; letter-spacing:.03em}
+.rsnip{font-size:15px; color:var(--ink-2); line-height:1.6; margin:0}
+.rsnip mark{background:var(--lapis-soft); color:var(--ink); padding:0 2px; border-radius:2px}
+.empty{color:var(--ink-3); font-style:italic}
+
+.note{
+  font-family:var(--sans); font-size:12.5px; color:var(--ink-3); line-height:1.6;
+  border-top:1px solid var(--rule); padding-top:20px; margin-top:70px; max-width:var(--measure);
+}
+
+.menu{display:none}
+@media(max-width:920px){
+  .wrap{grid-template-columns:1fr}
+  .side{
+    position:fixed; inset:0 auto 0 0; width:290px; z-index:20;
+    transform:translateX(-100%); transition:transform .22s ease; box-shadow:var(--shadow);
+  }
+  .side.open{transform:none}
+  main{padding:76px 22px 100px}
+  .sura-head h1{font-size:33px}
+  .ayah-ar{font-size:25px}
+  .menu{
+    display:flex; align-items:center; gap:8px; position:fixed; top:12px; left:12px; z-index:30;
+    font-family:var(--sans); font-size:13px; font-weight:500; padding:8px 14px;
+    background:var(--paper-2); border:1px solid var(--rule); border-radius:5px;
+    color:var(--ink); cursor:pointer; box-shadow:var(--shadow);
+  }
+  .rootrow{grid-template-columns:1fr; gap:9px}
+  .rootkey{text-align:left; direction:ltr}
+}
+@media(prefers-reduced-motion:reduce){*{transition:none!important; animation:none!important}}
+</style>
+
+<button class="menu" id="menu" aria-label="Sûre listesini aç">☰ Sûreler</button>
+
+<div class="wrap">
+  <aside class="side" id="side">
+    <div class="brand">
+      <h1>Kök ve Ayet</h1>
+      <p>Ayet ayet, kök tahliline dayalı Kur'an tefsiri</p>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" data-view="sura" aria-selected="true">Sûreler</button>
+      <button class="tab" role="tab" data-view="root" aria-selected="false">Kökler</button>
+      <button class="tab" role="tab" data-view="find" aria-selected="false">Ara</button>
+    </div>
+    <div class="seek"><input id="q" type="search" placeholder="Metinde ara…" autocomplete="off"></div>
+    <ul class="navlist" id="nav"></ul>
+  </aside>
+  <main id="main"></main>
+</div>
+
+<script>
+/*__DATA__*/
+
+const $ = s => document.querySelector(s);
+const nav = $("#nav"), main = $("#main"), q = $("#q"), side = $("#side");
+let view = "sura", current = SURAS.length ? SURAS[0].no : null;
+
+$("#stats").innerHTML =
+  `<div><b>${STATS.suras}</b>sûre</div><div><b>${STATS.ayahs}</b>ayet</div>` +
+  `<div><b>${(STATS.words/1000).toFixed(0)}b</b>kelime</div>`;
+
+function group(no){
+  if (no === 1) return "Açılış";
+  if (no <= 5) return "Uzun sûreler";
+  if (no >= 78) return "Kısa sûreler";
+  return "Diğer";
+}
+
+function drawNav(){
+  if (view !== "sura"){ nav.innerHTML = ""; return; }
+  let out = "", last = null;
+  SURAS.forEach(s => {
+    const g = group(s.no);
+    if (g !== last){ out += `<li class="group">${g}</li>`; last = g; }
+    out += `<li><button data-sura="${s.no}" aria-current="${s.no===current}">
+      <span class="n">${s.no}</span><span>${s.name}</span>
+      <span class="meta">${s.ayahs||"—"}</span></button></li>`;
+  });
+  nav.innerHTML = out;
+}
+
+function showSura(no, anchor){
+  const s = SURAS.find(x => x.no === no);
+  if (!s) return;
+  current = no; view = "sura";
+  document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-selected", t.dataset.view === "sura"));
+  main.innerHTML =
+    `<header class="sura-head"><p class="eyebrow">${s.no}. sûre · ${s.ayahs||0} ayet bölümü · ${s.words.toLocaleString("tr")} kelime</p>
+     <h1>${s.title.replace(/^\d+\.\s*/, "")}</h1></header>` + s.html +
+    `<p class="note">Bu bölümde nakil ile kendi çıkarımı ayrı tutulmuş, ihtilaflar bastırılmadan tablo halinde verilmiştir. Fıkhî hüküm verilmez.</p>`;
+  drawNav();
+  side.classList.remove("open");
+  if (anchor){
+    const el = document.getElementById(anchor);
+    if (el){ el.scrollIntoView({behavior:"smooth", block:"start"}); return; }
+  }
+  window.scrollTo({top:0});
+}
+
+function showRoots(){
+  view = "root"; nav.innerHTML = "";
+  const isLat = r => /^[a-zçğışöü]/i.test(r);
+  main.innerHTML =
+    `<header class="sura-head"><p class="eyebrow">Konkordans</p><h1>Kök Dizini</h1></header>
+     <p>Metin boyunca çözümlenen Arapça kökler, geçtikleri yerlerle birlikte. Bir köke tıklayınca çözümlendiği ayete gidersiniz.</p>
+     <div class="roots">` +
+    ROOTS.map(r => `<div class="rootrow">
+        <div class="rootkey${isLat(r.root) ? " lat" : ""}">${r.root}</div>
+        <div class="hits">${r.hits.map(h =>
+          `<span class="hit" data-go="${h.sura}" data-anchor="${h.anchor}">${h.suraName}</span>`).join("")}</div>
+      </div>`).join("") + `</div>`;
+  window.scrollTo({top:0});
+}
+
+const strip = h => h.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ");
+
+function search(term){
+  view = "find"; nav.innerHTML = "";
+  const t = term.trim();
+  if (t.length < 2){
+    main.innerHTML = `<header class="sura-head"><p class="eyebrow">Arama</p><h1>Metinde Ara</h1></header>
+      <p class="empty">En az iki harf yazın.</p>`;
+    return;
+  }
+  const rx = new RegExp(t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+  let out = "", total = 0;
+  SURAS.forEach(s => {
+    const txt = strip(s.html);
+    let m, seen = 0;
+    rx.lastIndex = 0;
+    while ((m = rx.exec(txt)) && seen < 4){
+      const a = Math.max(0, m.index - 110), b = Math.min(txt.length, m.index + 150);
+      const snip = (a > 0 ? "…" : "") + txt.slice(a, b) + (b < txt.length ? "…" : "");
+      out += `<div class="result" data-go="${s.no}">
+        <div class="rtitle">${s.no}. ${s.name}</div>
+        <p class="rsnip">${snip.replace(rx, x => `<mark>${x}</mark>`)}</p></div>`;
+      seen++; total++;
+    }
+  });
+  main.innerHTML = `<header class="sura-head"><p class="eyebrow">Arama</p><h1>“${t}”</h1></header>` +
+    (total ? `<p class="eyebrow" style="color:var(--ink-3)">${total} sonuç</p>` + out
+           : `<p class="empty">Sonuç bulunamadı.</p>`);
+  window.scrollTo({top:0});
+}
+
+document.addEventListener("click", e => {
+  const tab = e.target.closest(".tab");
+  if (tab){
+    document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-selected", t === tab));
+    const v = tab.dataset.view;
+    if (v === "sura"){ showSura(current); }
+    else if (v === "root"){ showRoots(); }
+    else { search(q.value); q.focus(); }
+    return;
+  }
+  const b = e.target.closest("[data-sura]");
+  if (b){ showSura(+b.dataset.sura); return; }
+  const g = e.target.closest("[data-go]");
+  if (g){ showSura(+g.dataset.go, g.dataset.anchor); return; }
+  if (e.target.closest("#menu")){ side.classList.toggle("open"); }
+  else if (!e.target.closest("#side") && side.classList.contains("open")){ side.classList.remove("open"); }
+});
+
+let tmr;
+q.addEventListener("input", () => {
+  clearTimeout(tmr);
+  tmr = setTimeout(() => {
+    if (!q.value.trim()){ showSura(current); return; }
+    document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-selected", t.dataset.view === "find"));
+    search(q.value);
+  }, 180);
+});
+
+drawNav();
+if (current) showSura(current);
+</script>
