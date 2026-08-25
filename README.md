@@ -134,19 +134,6 @@ denetlenmez.
 
 ---
 
-## Vercel
-
-Depoyu GitHub'a gönderip Vercel'de "Import Project" demek yeterli — ayar
-gerekmiyor (framework otomatik algılanır, kök dizin depo kökü).
-
-```bash
-git remote add origin <repo-url> && git push -u origin main
-```
-
-Ya da CLI ile: `npx vercel` (ilk seferde `npx vercel login`).
-
----
-
 ## Not
 
 `build.py` + `template.html` eski tek sayfalık HTML üreticisidir; hâlâ çalışır
