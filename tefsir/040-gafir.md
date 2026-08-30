@@ -30,7 +30,7 @@
 
 **ج-د-ل** kökünün somut anlamı — **ipi sıkıca bükmek**, güreşte rakibi yere yıkmak — `002-bakara.md` 2/197'de işlendi. **Tekrarlamıyorum.**
 
-**Kendi okumam olarak kaydediyorum:** sûre, inkârı bir düşünce olarak değil, **bir tartışma tavrı** olarak ele alıyor. Ve dördüncü ayette bunun ölçüsü veriliyor: *bi-ğayri sultânin etâhüm* — **ellerine geçmiş bir delil olmadan.** Yani kınanan tartışmanın kendisi değil, **dayanaksız yürütülmesi.**
+**Kendi okumam olarak kaydediyorum:** sûre, inkârı bir düşünce olarak değil, **bir tartışma tavrı** olarak ele alıyor. Ve otuz beşinci ayette bunun ölçüsü veriliyor: *bi-ğayri sultânin etâhüm* — **ellerine geçmiş bir delil olmadan.** Yani kınanan tartışmanın kendisi değil, **dayanaksız yürütülmesi.**
 
 ---
 
@@ -319,11 +319,11 @@ Ve zamir kaydedilmeye değer: *yensuru**nâ*** — "**bize** kim yardım eder." 
 
 **Aynı terkip, iki ağızda.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
-**Bunu kendi okumam olarak kaydediyorum:** iki taraf da aynı şeyi vaat ediyor ve aynı kelimeyi kullanıyor. **Ayrım, iddianın lafzında değil.** Ve sûrenin dördüncü ayetindeki ölçü tam da burada işliyor: *bi-ğayri sultânin* — **dayanak var mı?** Fir'avn'ın cümlesinde dayanak olarak sunulan tek şey **kendi görüşüdür** (*mâ erâ*).
+**Bunu kendi okumam olarak kaydediyorum:** iki taraf da aynı şeyi vaat ediyor ve aynı kelimeyi kullanıyor. **Ayrım, iddianın lafzında değil.** Ve sûrenin otuz beşinci ayetindeki ölçü tam da burada işliyor: *bi-ğayri sultânin* — **dayanak var mı?** Fir'avn'ın cümlesinde dayanak olarak sunulan tek şey **kendi görüşüdür** (*mâ erâ*).
 
 **وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ** — *yevmü't-tenâd*: **"çağrışma günü"** — VI. bâb, karşılıklılık: birbirine seslenme.
 
-**On beşinci ayetteki *yevmü't-telâk* (buluşma günü) ile birlikte okunmalıdır.** **Ve sûrenin dördüncü bloğu (47-50) bu adı doğruluyor: orada gerçekten birbirlerine seslenecekler.**
+**On beşinci ayetteki *yevmü't-telâk* (buluşma günü) ile birlikte okunmalıdır.** **Ve sûrenin dördüncü bloğu (47-56) bu adı doğruluyor: orada gerçekten birbirlerine seslenecekler.**
 
 **Ve mü'min adamın korkusunun konusu kaydedilmeye değer:** *ehâfü **aleyküm*** — "**sizin için** korkuyorum." **Yirmi altıncı ayette Fir'avn da korkmuştu:** *innî ehâfü en yübeddile dîneküm* — "**dininizi değiştirmesinden** korkuyorum." **Aynı fiil, iki ayrı kaygı.**
 
@@ -372,7 +372,7 @@ Ve zamir kaydedilmeye değer: *yensuru**nâ*** — "**bize** kim yardım eder." 
 
 ### Hitabın seçimi
 
-**Adam beş kez *yâ kavmi* (ey kavmim) diyerek başlıyor** (38, 39, 41, 32'de de geçmişti). **Yani karşı tarafı dışlamıyor; kendini onların içinde sayarak konuşuyor.**
+**Adam bu bölümde üç kez *yâ kavmi* (ey kavmim) diyerek başlıyor** (38, 39, 41); aynı hitap daha önce de geçmişti. **Yani karşı tarafı dışlamıyor; kendini onların içinde sayarak konuşuyor.**
 
 **Bunu bir gözlem olarak kaydediyorum:** yirmi sekizinci ayette **imanını gizleyen** biri olarak tanıtılmıştı. **Konuşması ilerledikçe açıklık artıyor, ama hitap hiç değişmiyor.**
 
@@ -430,7 +430,7 @@ Ve zamir kaydedilmeye değer: *yensuru**nâ*** — "**bize** kim yardım eder." 
 
 "Şüphesiz biz, peygamberlerimize ve iman edenlere **hem dünya hayatında** hem **şahitlerin duracağı günde** yardım ederiz."
 
-**ٱلْأَشْهَٰد** — *şâhid*in çoğulu. **Sûrenin 20-21. ayetlerinde şahitlik meselesi işlenmişti** (*ya'lemü hâinete'l-a'yün*); burada şahitler bir gün adı olarak anılıyor.
+**ٱلْأَشْهَٰد** — *şâhid*in çoğulu. **Sûrenin 19. ayetinde şahitlik meselesi işlenmişti** (*ya'lemü hâinete'l-a'yün*); burada şahitler bir gün adı olarak anılıyor.
 
 **Yardımın "dünya hayatında" da olduğunun söylenmesi kaydedilmeye değer** ve sûrenin kendi örneğiyle doğrulanıyor: **kırk beşinci ayette, imanını gizleyen adamın korunduğu bildirilmişti** (*fe-vekāhullâhu seyyiâti mâ mekerû*). **Yani vaat, sûrenin içinde bir kez gerçekleşmiş olarak duruyor.**
 
@@ -535,7 +535,7 @@ Ve zamir kaydedilmeye değer: *yensuru**nâ*** — "**bize** kim yardım eder." 
 
 Yani ret, bir baştan reddediş olarak değil, **delil geldikten sonraki** bir konum olarak anlatılıyor.
 
-**Bu, sûrenin ölçüsüyle tam örtüşüyor:** dördüncü ayette tartışanlar *bi-ğayri sultânin* (dayanaksız) diye nitelenmişti. **Burada konuşan taraf kendi dayanağını söylüyor.**
+**Bu, sûrenin ölçüsüyle tam örtüşüyor:** otuz beşinci ayette tartışanlar *bi-ğayri sultânin* (dayanaksız) diye nitelenmişti. **Burada konuşan taraf kendi dayanağını söylüyor.**
 
 **نُهِيتُ** — meçhul: **"yasaklandım".** Fiil kendisine ait değil. **`046-ahkaf.md` 46/9'da (*in ettebiu illâ mâ yûhâ ileyy*) işlenen çizginin aynısı: kaynağın kendinde olmaması.**
 
@@ -632,7 +632,7 @@ Yani ret, bir baştan reddediş olarak değil, **delil geldikten sonraki** bir k
 
 **Kapanış, sûrenin baştan beri kurduğu ölçüyü yerine oturtuyor.**
 
-**Dördüncü ayette tartışanların ölçüsü sorulmuştu:** *bi-ğayri sultânin* — dayanaksız. **Yirmi sekizinci ayette mü'min adam iki ihtimalli bir argüman kurmuştu.** **Elli altıncı ayette tartışmanın altındaki şey adlandırılmıştı: *kibr*.**
+**Otuz beşinci ayette tartışanların ölçüsü sorulmuştu:** *bi-ğayri sultânin* — dayanaksız. **Yirmi sekizinci ayette mü'min adam iki ihtimalli bir argüman kurmuştu.** **Elli altıncı ayette tartışmanın altındaki şey adlandırılmıştı: *kibr*.**
 
 **Ve burada, tartışmanın nasıl bittiği anlatılıyor: azap görülünce.**
 

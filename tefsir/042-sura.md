@@ -55,7 +55,7 @@ Sûre on bloğa ayrılabilir. Blok sınırlarının çoğu ya bir konu değişim
 | **VI** | 20-23 | İki ekin, izinsiz şeriat, iki korku, ecir meselesi | *ğafûrun şekûr* (23) |
 | **VII** | 24-28 | İftira ithamı, tövbenin kabulü, rızkın ölçüsü, yağmur | *el-veliyyü'l-hamîd* (28) |
 | **VIII** | 29-35 | Canlılar, musibet ve af, gemiler, rüzgârın durması | *mâ lehüm min mahîs* (35) |
-| **IX** | 36-43 | Müminin yedi vasfı, **şûrâ**, karşılık ve af dengesi | *le-min azmi'l-umûr* (43) |
+| **IX** | 36-43 | Müminin sekiz vasfı, **şûrâ**, karşılık ve af dengesi | *le-min azmi'l-umûr* (43) |
 | **X** | 44-53 | Sapmanın sonucu, azaba arz, çağrı, tebliğ sınırı, çocuklar, vahyin üç yolu | *tesîru'l-umûr* (53) |
 
 ### Sûre içi tekrarlar — sayılabilir veriler
@@ -847,7 +847,7 @@ Bir şeyi doğru bildiğine inanan kişinin en sık düştüğü yer, karşı ta
 
 **İşte ayetin en dikkat çekici tarafı burasıdır ve üzerinde ayrıca durulmalıdır.**
 
-**Cümle şudur: "Hiçbir şey O'na benzemez. **Ve O işitendir, görendir.**"**
+**Cümle şudur: "Hiçbir şey O'na benzemez. Ve O işitendir, görendir."**
 
 **İki cümle arasında hiçbir geçiş yok. Aynı ayet, iki nokta arası.**
 
@@ -951,9 +951,9 @@ Bir şeyi doğru bildiğine inanan kişinin en sık düştüğü yer, karşı ta
 
 ### إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ — ve bir önceki ayetle bağı
 
-**On birinci ayet *şey'* kelimesiyle bir olumsuzlama kurmuştu: *leyse ke-mislihî **şey'***.**
+**On birinci ayet *şey'* kelimesiyle bir olumsuzlama kurmuştu: *leyse ke-mislihî şey'*.**
 
-**On ikinci ayet aynı kelimeyle bir olumlama kuruyor: *bi-külli **şey'in** alîm*.**
+**On ikinci ayet aynı kelimeyle bir olumlama kuruyor: *bi-külli şey'in alîm*.**
 
 | Ayet | Cümle | *Şey'* ne yapıyor |
 |---|---|---|
@@ -1915,7 +1915,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 **Bu, `002-bakara.md`'de kaydedilen usulle uyumludur:** metnin birden çok okumaya elverdiği yerlerde, okumalardan birini "doğru" ilan etmek metnin kendisinin yaptığından fazlasını yapmaktır.
 
-### İki okumada da ortak olan
+### Üç okumada da ortak olan
 
 **Ve şunu kaydetmek gerekiyor, çünkü tartışmanın gölgesinde kalıyor: üç okumanın üçü de aynı cümlenin ilk yarısını kabul ediyor.**
 
@@ -1931,7 +1931,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 **Ve kelimenin bir özelliği kaydedilmelidir:** Arapçada *iktirâf* çoğunlukla **kötü** şeylerin kazanılması için kullanılır — *iktirefe zenben* (günah işledi). Nitekim Kur'an'da başka yerlerde bu yönde geçer (En'âm 6/113, 6/120).
 
-***Burada ise iyilik için kullanılıyor: yakterif **haseneten**.***
+***Burada ise iyilik için kullanılıyor: yakterif haseneten.***
 
 **Bunu bir kelime gözlemi olarak kaydediyorum.** Ve kelimenin somut anlamı bir şey daha söylüyor: kabuğu soyarak elde etmek, **çaba ile elde etmek**tir. Yani iyilik burada tesadüfen olan bir şey değil, **kazanılan** bir şey olarak adlandırılıyor.
 
@@ -2025,7 +2025,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 ### يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِ — bir harf nüktesi
 
-**Cümlede *min* değil, ***an*** kullanılmış: *yakbelü't-tevbete **an** ibâdih*.**
+**Cümlede *min* değil, *an* kullanılmış: *yakbelü't-tevbete an ibâdih*.**
 
 **Bu, gramercilerin üzerinde durduğu bir ayrıntıdır.** *Min* "-den" (kaynak), *an* ise "-den, üzerinden, adına" bildirir ve bir **uzaklaşma** ya da **üstünden alma** anlamı taşır.
 
@@ -2221,7 +2221,7 @@ Bu, bir ahlak kuralı olarak değil, bir **işleyiş** olarak söyleniyor. Ve ke
 
 **كوك غ-ي-ث: yardıma koşmak, imdada yetişmek.** *İğâse* — yardım etmek; *müğîs* — imdada yetişen. **Nitekim *istiğāse* (yardım isteme) aynı köktendir.**
 
-**Yani *ğays*, "yağan su" değil, **imdada yetişen su**tur.** Kelimenin kendisi, yağmuru bir yardım olarak adlandırıyor.
+**Yani *ğays*, "yağan su" değil, imdada yetişen sutur.** Kelimenin kendisi, yağmuru bir yardım olarak adlandırıyor.
 
 **Karşılaştırma için:**
 
@@ -2303,7 +2303,7 @@ Bu, bir ahlak kuralı olarak değil, bir **işleyiş** olarak söyleniyor. Ve ke
 
 ### دَآبَّة — kök د-ب-ب
 
-***Dâbbe*, kökün asıl anlamıyla **yerde debelenen, hareket eden** demektir.** *Debbe* — yavaş yavaş yürüdü, kımıldadı.
+***Dâbbe*, kökün asıl anlamıyla yerde debelenen, hareket eden demektir.** *Debbe* — yavaş yavaş yürüdü, kımıldadı.
 
 **Ve tanım geniştir: kelime, hareket eden her canlıyı kapsar.** Kur'an bunu açıkça söyler: *"Yeryüzünde hiçbir *dâbbe* yoktur ki rızkı Allah'a ait olmasın"* (Hûd 11/6).
 
@@ -2357,7 +2357,7 @@ Bu, bir ahlak kuralı olarak değil, bir **işleyiş** olarak söyleniyor. Ve ke
 
 ### فَبِمَا كَسَبَتْ أَيْدِيكُمْ — cümlenin lafzı
 
-***Kesebet **eydîküm*** — "ellerinizin kazandığı".** El kelimesinin kullanılması bir kinayedir: fiilin **yapılmış** olduğunu, dışa çıktığını vurgular.
+***Kesebet eydîküm* — "ellerinizin kazandığı".** El kelimesinin kullanılması bir kinayedir: fiilin **yapılmış** olduğunu, dışa çıktığını vurgular.
 
 **Kalıp sûrede üç kez geçiyor:**
 
@@ -2519,7 +2519,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 ### يُسْكِنِ ٱلرِّيحَ — delilin kurulduğu yer
 
-**Delil, geminin **yürümesi** değil, **durabilecek olması** üzerine kuruluyor.**
+**Delil, geminin yürümesi değil, durabilecek olması üzerine kuruluyor.**
 
 **Ve bu, `056-vakia.md` 56/65'te kaydedilen delil yapısının aynısıdır.** Orada şu yazılmıştı:
 
@@ -2658,7 +2658,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Yani dört ayet, gramer olarak tek bir ismin sıfatlarıdır.** Bu, doğrulanabilir bir yapı olgusudur.
 
-**Sayıldığında yedi vasıf çıkıyor:**
+**Sayıldığında sekiz vasıf çıkıyor:**
 
 | # | Vasıf | Ayet | Alan |
 |---|---|---|---|
@@ -2833,7 +2833,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 ***Şûrâ*, *fu'lâ* vezninde bir isimdir** — *büşrâ* (müjde), *zikrâ* (hatırlatma), *husnâ* (güzellik) gibi. **Masdar-isim kalıbıdır.**
 
-**Ve cümle şudur: *ve emruhum **şûrâ** beynehum.***
+**Ve cümle şudur: *ve emruhum şûrâ beynehum.***
 
 | Cümlenin öğesi | Ne |
 |---|---|
@@ -2939,7 +2939,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Kök on dördüncü ayette işlendi ve `049-hucurat.md` 49/9'a dayandırıldı: isteğin haddi aşmış hâli.**
 
-**Buradaki kullanımda kelime **belirli takı** almış: *el-bağy*.** Nekre olsaydı "bir haksızlık" olurdu; belirli olduğu için "o bilinen haddi aşma" — yani sûrenin daha önce adını koyduğu şey.
+**Buradaki kullanımda kelime belirli takı almış: *el-bağy*.** Nekre olsaydı "bir haksızlık" olurdu; belirli olduğu için "o bilinen haddi aşma" — yani sûrenin daha önce adını koyduğu şey.
 
 **Ve dikkat: fiil *esâbe*dir — otuzuncu ayetteki *esâbeküm* ile aynı kök (ص-و-ب).**
 
@@ -2990,9 +2990,9 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 ---
 
-## 42/40-43 — Karşılık, af ve hak: üç ayetin kurduğu denge
+## 42/40-43 — Karşılık, af ve hak: dört ayetin kurduğu denge
 
-**Bu üç ayet birlikte okunmalıdır, çünkü tek başına alındığında her biri farklı bir sonuca götürür. Önce üçünü metin olarak veriyorum, sonra kurdukları dengeyi ayrıntılı işleyeceğim.**
+**Bu dört ayet birlikte okunmalıdır, çünkü tek başına alındığında her biri farklı bir sonuca götürür. Önce her birini tek tek ele alıyorum, sonra kurdukları dengeyi topluca göstereceğim.**
 
 ---
 
@@ -3012,7 +3012,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Ama kelimenin seçimi yalnız bir üslup meselesi değildir ve kendi okumam olarak şunu kaydediyorum:**
 
-**Karşılığa "kötülük" denmesi, hakkın kullanılmasıyla erdemin **aynı şey olmadığını** gösteriyor.** Kişi hakkını alır ve bunda kınanmaz — kırk birinci ayet bunu açıkça söyleyecek. **Ama aldığı şey, güzel bir şey olarak adlandırılmıyor.**
+**Karşılığa "kötülük" denmesi, hakkın kullanılmasıyla erdemin aynı şey olmadığını gösteriyor.** Kişi hakkını alır ve bunda kınanmaz — kırk birinci ayet bunu açıkça söyleyecek. **Ama aldığı şey, güzel bir şey olarak adlandırılmıyor.**
 
 **Ve bu, hemen ardından gelen cümleyi hazırlıyor:** *fe-men afâ ve asleha fe-ecruhû ala'llâh.*
 
@@ -3058,9 +3058,9 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Ve dizimin en keskin noktası burasıdır.**
 
-**Cümlenin ilk yarısında karşılık **ölçülü**dür: *seyyietün mislühâ* — dengi kadar.**
+**Cümlenin ilk yarısında karşılık ölçülüdür: *seyyietün mislühâ* — dengi kadar.**
 
-**İkinci yarısında karşılık **ölçüsüz**dür: *fe-ecruhû ala'llâh* — miktar söylenmiyor.**
+**İkinci yarısında karşılık ölçüsüzdür: *fe-ecruhû ala'llâh* — miktar söylenmiyor.**
 
 | | **Karşılık verme** | **Affetme** |
 |---|---|---|
@@ -3071,7 +3071,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki yarının karşılaştırılmasıdır:**
 
-**Hakkını alan kişi, alacağını **kendisi** alır ve **ne kadar** alacağı bellidir. Affeden kişi, alacağını **başkasından** alır ve **ne kadar** olduğu belli değildir.**
+**Hakkını alan kişi, alacağını kendisi alır ve ne kadar alacağı bellidir. Affeden kişi, alacağını başkasından alır ve ne kadar olduğu belli değildir.**
 
 **Ve *alâ* harfi kaydedilmelidir:** *ecruhû **alâ**'llâh* — "Allah'ın **üzerine**". Arapçada *alâ* yükümlülük bildirir. **Cümle, affedenin alacağını bir taahhüde bağlıyor.**
 
@@ -3127,7 +3127,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 ### إِنَّمَا — hasr edatı
 
-***İnnemâ* Arapçada **kasr** (sınırlama) bildirir: "ancak, yalnızca".** Yani cümle "yol ayrıca zalimlerin de aleyhinedir" demiyor; **"yalnız onların aleyhinedir"** diyor.
+***İnnemâ* Arapçada kasr (sınırlama) bildirir: "ancak, yalnızca".** Yani cümle "yol ayrıca zalimlerin de aleyhinedir" demiyor; **"yalnız onların aleyhinedir"** diyor.
 
 **Bir önceki ayetle birlikte, iki cümle bir denklem kuruyor:**
 
@@ -3192,7 +3192,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 | **Lokmân 31/17** | *"…başına gelene **sabret**. İşte bu, azmü'l-umûrdandır"* |
 | **Şûrâ 42/43** | *"Kim **sabreder** ve bağışlarsa — işte bu, azmü'l-umûrdandır"* |
 
-**Üç geçişin üçünde de terkip **sabır** ile birlikte geliyor.** Bu, doğrulanabilir bir olgudur.
+**Üç geçişin üçünde de terkip sabır ile birlikte geliyor.** Bu, doğrulanabilir bir olgudur.
 
 ### Kelimenin işi
 
@@ -3204,7 +3204,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Bunu kendi okumam olarak kaydediyorum; dayanağı kelimenin sözlük anlamıdır.**
 
-### Üç ayetin kurduğu denge — bütünü
+### Dört ayetin kurduğu denge — bütünü
 
 **Şimdi kırkıncıdan kırk üçüncüye kadar olan dört ayeti bir arada tablolayarak dengenin nasıl kurulduğunu gösteriyorum. Bu, metinden doğrulanabilir bir dizim yapısıdır.**
 
@@ -3273,7 +3273,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 | **44** | *Hel ilâ **meraddin** min sebîl* | **Zalimler** — soru olarak |
 | **47** | *Yevmün lâ **meradde** lehû mine'llâh* | **Metin** — bildirim olarak |
 
-**Yani soru sorulmadan önce cevabı verilmiş oluyor** — kırk yedinci ayet kırk dördüncüde sorulan soruyu kapatıyor. **Ve dizim düzeyinde sıra terstir: soru önce, cevap sonra; ama cevap muhataba **bu dünyada** veriliyor.**
+**Yani soru sorulmadan önce cevabı verilmiş oluyor** — kırk yedinci ayet kırk dördüncüde sorulan soruyu kapatıyor. **Ve dizim düzeyinde sıra terstir: soru önce, cevap sonra; ama cevap muhataba bu dünyada veriliyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum.**
 
@@ -3351,7 +3351,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 **Ayet, sûrenin iki anahtar kökünü aynı cümlede topluyor: و-ل-ي ve ن-ص-ر.**
 
-**Ve bu ikili sûrede daha önce iki kez, isim olarak geçmişti** (8 ve 31: *min veliyyin ve lâ nasîr*). **Burada biri isim, öteki fiil olarak geliyor: *evliyâe **yensurûnehum***.**
+**Ve bu ikili sûrede daha önce iki kez, isim olarak geçmişti** (8 ve 31: *min veliyyin ve lâ nasîr*). **Burada biri isim, öteki fiil olarak geliyor: *evliyâe yensurûnehum*.**
 
 | Ayet | Biçim |
 |---|---|
@@ -3620,7 +3620,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 ### لِبَشَر — kelime seçimi
 
-***Beşer* — kök ب-ش-ر.** `054-kamer.md`'de bu kelimenin seçiminden bir okuma çıkarılmıştı. **Kökün somut anlamı *beşere* — **deri**, ten. *Beşer*, insanı bedeni ve teni yönüyle adlandıran kelimedir.**
+***Beşer* — kök ب-ش-ر.** `054-kamer.md`'de bu kelimenin seçiminden bir okuma çıkarılmıştı. **Kökün somut anlamı *beşere* — deri, ten. *Beşer*, insanı bedeni ve teni yönüyle adlandıran kelimedir.**
 
 **Ve *insân* ile farkı dilcilerce şöyle konur:**
 
@@ -3661,7 +3661,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 ***Hicâb* — kök ح-ج-ب.** `083-mutaffifin.md`'de işlendi. Oradaki kayıt: **somut anlamı iki şey arasına girip birbirini görmelerini engellemek**; *hâcib* — kapıcı, hükümdarla halk arasına giren görevli; ve **kaş** — gözün üstünde duran.
 
-**Ve `083-mutaffifin.md`'de kelime bir mahrumiyet bağlamında geçiyordu** (*innehum an rabbihim yevmeizin **le-mahcûbûn***). **Şûrâ'da ise aynı kök bir **iletişim biçiminin** adı oluyor.**
+**Ve `083-mutaffifin.md`'de kelime bir mahrumiyet bağlamında geçiyordu** (*innehum an rabbihim yevmeizin **le-mahcûbûn***). **Şûrâ'da ise aynı kök bir iletişim biçiminin adı oluyor.**
 
 | Yer | Kelime | Ne yapıyor |
 |---|---|---|
@@ -3670,7 +3670,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 **Aynı kök, biri kesme biri geçirme.** Bu, doğrulanabilir bir olgudur.
 
-**Ve dizim nüktesi: *min verâi hicâb* terkibi, engelin **kaldırılmadığını** söylüyor.** Konuşma perdeye rağmen değil, **perde aracılığıyla** oluyor. **Yani perde, konuşmanın şartıdır.**
+**Ve dizim nüktesi: *min verâi hicâb* terkibi, engelin kaldırılmadığını söylüyor.** Konuşma perdeye rağmen değil, **perde aracılığıyla** oluyor. **Yani perde, konuşmanın şartıdır.**
 
 **Kendi okumam olarak kaydediyorum ve dayanağı on birinci ayettir:** *leyse ke-mislihî şey'* cümlesi, benzerliği kaldırmıştı. **Perde, o kaldırılmış benzerliğin iletişimdeki karşılığıdır** — araya bir şey konmadan aktarım olmuyor.
 
@@ -3845,7 +3845,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 **Kendi okumam olarak kaydediyorum:** iki cümlenin yan yana durması, yol göstermenin kaynağını göstermeye yetiyor. **Bilmeyen birinin yol göstericiye dönüşmesi, arada ne olduğunu söylemeden anlatıyor.**
 
-**Ve fiilin nesnesi kaydedilmelidir: *tehdî **ilâ** sırâtin müstakîm* — "dosdoğru bir yola **doğru** iletiyorsun".** Yani ulaştırılan yer, yolun kendisi. **Hidayet burada varış değil, yola çıkarmadır.**
+**Ve fiilin nesnesi kaydedilmelidir: *tehdî ilâ sırâtin müstakîm* — "dosdoğru bir yola doğru iletiyorsun".** Yani ulaştırılan yer, yolun kendisi. **Hidayet burada varış değil, yola çıkarmadır.**
 
 **Ve bir sonraki ayet o yolun adını verecek.**
 
@@ -3903,7 +3903,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 **Kendi okumam olarak kaydediyorum ve bağlayıcı değildir:** sûre "iş" kelimesini üç kez kullanıyor ve üçünde de bir sahiplik sorusu var — **iş kimin?** Otuz sekizinci ayette topluluğun, kırk üçüncüde kişinin, elli üçüncüde ise hepsinin varacağı yer söyleniyor. **Ve üçü çelişmiyor:** iş insanın elindedir, kararı insan verir, ama gittiği yer belirlidir.
 
-**Üçüncüsü: *elâ* edatı.** Sûrede üç kez geçiyor ve üçü de bir uyarı işareti:
+**Üçüncüsü: *elâ* edatı.** Sûrede dört kez geçiyor ve dördü de bir uyarı işareti:
 
 | Ayet | Cümle |
 |---|---|
@@ -4029,7 +4029,7 @@ Sûre bir ayrılık sûresi olarak açıldı: insanlar bölünüyor, tartışıy
 | **3** | *Kezâlike*nin neye işaret ettiği |
 | **5** | *Min fevkihinne* — neyin üstünden; ve çatlamanın sebebi. *Yetefattarne / yenfatırne* kıraati |
 | **5** | Meleklerin istiğfarının kapsamı: genel mi, mukayyet mi |
-| **7** | *Bi'l-hakk* kaydının neye bağlandığı (17. ayette) |
+| **17** | *Bi'l-hakk* kaydının neye bağlandığı |
 | **11** | ***Kâf* ve *misl* edatlarının birlikte gelmesi** — dört izah tablolandı, tercih yapılmadı |
 | **11** | *Yezraüküm **fîh*** zamirinin mercii |
 | **12** | *Mekālîd* kelimesinin tekili ve aslı |

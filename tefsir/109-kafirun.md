@@ -69,7 +69,7 @@ Kalıbın burada seçilmesi, cevabın **açıktan ve yüze karşı** verildiğin
 **Kök: ك-ف-ر.** Kökün somut anlamı **örtmek, gizlemek, üstünü kapatmak**tır. Bu somut anlam Arapçada canlıdır:
 
 - Geceye *kâfir* denir — çünkü her şeyin üstünü örter.
-- **Çiftçiye** *kâffâr* denir — çünkü tohumu toprakla örter. Kur'an bu kullanımı bizzat kaydeder: *"…çiftçilerin (el-küffâr) hoşuna giden bir bitki gibi…"* (Hadîd 57/20). Bu ayet, kelimenin kök anlamını görmek için önemlidir: aynı kelime, orada hiçbir olumsuz yük taşımadan "ekinciler" anlamında geçer.
+- **Çiftçiye** *kâfir* denir — çünkü tohumu toprakla örter. Kur'an bu kullanımı bizzat kaydeder: *"…çiftçilerin (el-küffâr) hoşuna giden bir bitki gibi…"* (Hadîd 57/20). Bu ayet, kelimenin kök anlamını görmek için önemlidir: aynı kelime, orada hiçbir olumsuz yük taşımadan "ekinciler" anlamında geçer.
 - Aynı kökten **keffâret** — bir kusurun üstünü örten telafi.
 - **Küfrân-ı nimet** — verilen bir nimetin üstünü örtmek, yani nankörlük.
 
@@ -291,7 +291,7 @@ Yani ayet iki kez, aynı gramer aracıyla, bir **mülkiyet ve sorumluluk sınır
 
 **Fasıla için yâ'nın düşmesi.** Kelime aslında *dînî* (benim dinim) olmalıydı; sonundaki mütekellim yâ'sı düşürülmüş, *dîn* kalmıştır. Sebep fasıladır: sûrenin diğer ayetleri *-ûn* / *-üm* ile bitiyor, son ayet de *dîn* ile kapanarak ses düzenini koruyor. Bazı kıraatlerde bu yâ'nın okunduğu nakledilir; anlam değişmez.
 
-Bir de simetri var: *leküm dînüküm* — üç kelimelik değil, iki kelimelik ve tam dengeli iki yarım. Cümle, çizdiği sınırı kendi yapısında da gösteriyor: ortadan ikiye bölünmüş, iki yarısı birbirinin aynası.
+Bir de simetri var: *leküm dînüküm ve liye dîn* — her biri iki kelimelik, tam dengeli iki yarım. Cümle, çizdiği sınırı kendi yapısında da gösteriyor: ortadan ikiye bölünmüş, iki yarısı birbirinin aynası.
 
 ### Bu ayet ne söylüyor, ne söylemiyor
 
@@ -332,7 +332,7 @@ Kâfirûn sûresi bir sınır çizer ama o sınırın hangi alanı kapsadığın
 
 *"Allah, din konusunda sizinle savaşmayan ve sizi yurtlarınızdan çıkarmayan kimselere iyilik etmenizi ve onlara adaletli davranmanızı yasaklamaz. Allah adaletli davrananları sever."* (Mümtehine 60/8)
 
-*"Allah'ın yasakladığı, ancak din konusunda sizinle savaşan, sizi yurtlarınızdan çıkaran ve çıkarılmanıza destek olanlarla dostluk kurmanızdır."* (Mümtehine 60/9)
+*"Allah'ın yasakladığı, ancak din konusunda sizinle savaşan, sizi yurtlarınızdan çıkaran ve çıkarılmanıza destek olanları veli edinmenizdir."* (Mümtehine 60/9)
 
 Bu iki ayet çok net bir ayrım kurar. Ölçü **inanç farkı değil, fiilî düşmanlıktır.** Sadece farklı inanmak, iyilik ve adaletin dışında bırakılma sebebi değildir; ayet bunu açıkça söyler ve üstelik *"Allah adaletli davrananları sever"* diyerek adaleti bir sevgi ölçüsüne bağlar.
 
@@ -390,7 +390,7 @@ Sonraki dönem âlimlerinin çoğunluğu bu itirazı benimsemiş ve nesih iddias
 
 **Üçüncüsü: reddin dili.** Sûre bir şey söylerken üç şeyi söylemiyor: karşı tarafa hakaret etmiyor, tehdit kurmuyor, üstünlük iddiası dile getirmiyor. Bir ayrılığı ilan etmenin, düşmanlık ilan etmekle aynı şey olmadığını gösteren bir metin. Bugün "sınır koymak" ile "ilişkiyi düşmanlığa çevirmek" sık sık karıştırılır — hem kişisel ilişkilerde hem toplumsal düzeyde. Sûre bu ikisini birbirinden ayıran bir örnek sunuyor: net, ama saldırgan değil.
 
-**Dördüncüsü: kapsanmaya direnmek.** Kureyş'in teklifi bir yasak değil, bir **davetti**: gel, seni de sisteme dahil edelim. Bu, baskıdan çok daha etkili bir yöntemdir, çünkü karşı tarafı reddediyor gibi görünmez. Bugün de bir konumu etkisizleştirmenin en yaygın yolu onu yasaklamak değil, onu bir seçeneklerden birine dönüştürmektir. Sûrenin reddettiği şey tam olarak budur: bir seçenek olmayı kabul etmemek.
+**Dördüncüsü: kapsanmaya direnmek.** Kureyş'in teklifi bir yasak değil, bir **davetti**: gel, seni de sisteme dahil edelim. Bu, baskıdan çok daha etkili bir yöntemdir, çünkü karşı tarafı reddediyor gibi görünmez. Bugün de bir konumu etkisizleştirmenin en yaygın yolu onu yasaklamak değil, onu seçeneklerden birine dönüştürmektir. Sûrenin reddettiği şey tam olarak budur: bir seçenek olmayı kabul etmemek.
 
 **Beşincisi: son ayetin dengeli okunması.** "Sizin dininiz size, benim dinim bana" cümlesi bugün iki farklı amaçla kullanılıyor: bazen "herkesin doğrusu kendinedir" anlamında, bazen "aramızda hiçbir şey olamaz" anlamında. Yukarıda gösterildiği gibi, metin ikisini de vermiyor. Verdiği şey daha ince ve daha zor: **inancında kesin olmak ile başkasını kendi haline bırakmak aynı anda mümkündür.** Bu ikisinin bir arada durabilmesi, ne kesinliğin baskıya, ne hoşgörünün kayıtsızlığa dönüşmesine izin verir.
 

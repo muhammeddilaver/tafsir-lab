@@ -334,7 +334,7 @@ Bir gözlem eklemek isterim ve bunun kendi çıkarımım olduğunu belirtiyorum:
 
 Sûrenin karı-kocayı birlikte anması ayrıca dikkat çekicidir. Kadın burada kocasının bir uzantısı olarak değil, **kendi fiiliyle** anılıyor — *hammâle*, ona ait bir sıfattır.
 
-Kur'an'da eşlerin birlikte anılması genellikle olumlu bağlamdadır. Burada olumsuz yönde bir ortaklık tarif ediliyor: iki kişi, aynı işi birlikte yapıyor. Bu, Kur'an'ın eş ilişkisi hakkında kurduğu genel çerçeveye uyar — Tahrîm 66/10-11'de hem inanmayanların eşi olup kurtulan (Firavun'un karısı) hem peygamber eşi olup kurtulamayan örnekler verilir. Bağ, hükmü ne kurtarıyor ne mahkûm ediyor; belirleyici olan kişinin kendi tavrı.
+Kur'an'da eşlerin birlikte anılması genellikle olumlu bağlamdadır. Burada olumsuz yönde bir ortaklık tarif ediliyor: iki kişi, aynı işi birlikte yapıyor. Bu, Kur'an'ın eş ilişkisi hakkında kurduğu genel çerçeveye uyar — Tahrîm 66/10-11'de hem inanmayanların eşi olup kurtulan (Firavun'un karısı) hem peygamber eşi olup kurtulamayan örnekler verilir. Bağ ne kurtarıyor ne mahkûm ediyor; belirleyici olan kişinin kendi tavrı.
 
 ---
 
@@ -424,7 +424,7 @@ Olgular şunlardır:
 
 Bu yorumu aktarırken üç kaydı düşmek gerekir; aksi halde olduğundan güçlü bir delil gibi görünür:
 
-**Bir.** Hüküm, âhiret hükmüdür ve âhiret hükmü **kalbe dairdir.** Ebû Leheb'in dilyle "iman ettim" demesi, hükmü teknik olarak geçersiz kılmazdı — çünkü ateşe girmeyi belirleyen şey söz değil, inançtır. Dolayısıyla bu, mantık bakımından **temiz bir sınama değildir.** Bunu açıkça kaydetmek gerekir.
+**Bir.** Hüküm, âhiret hükmüdür ve âhiret hükmü **kalbe dairdir.** Ebû Leheb'in diliyle "iman ettim" demesi, hükmü teknik olarak geçersiz kılmazdı — çünkü ateşe girmeyi belirleyen şey söz değil, inançtır. Dolayısıyla bu, mantık bakımından **temiz bir sınama değildir.** Bunu açıkça kaydetmek gerekir.
 
 **İki.** Buna karşılık şu da doğrudur: karşı taraf, davete karşı çok daha zayıf ve dolaylı argümanlar kullandı; Kur'an bunları kaydeder ("şairdir", "büyücüdür", "eskilerin masalları"). Elinin altındaki bu doğrudan imkânı kullanmamış olması dikkat çekicidir. Bu, kanıt değil, **gözlem** düzeyinde bir noktadır.
 
@@ -553,7 +553,7 @@ Bugün insanların kendilerine kurduğu kimlikler — profil, unvan, marka, "ki�
 - Ebû Leheb'in ambargoda karşı tarafta yer alması ve panayırlarda Peygamber'i takip ederek yalanlaması gibi ayrıntılar siyer rivayetleridir; sıhhat dereceleri farklıdır ve "nakledilir" kaydıyla verildi.
 - **"Kur'an'da adı geçen tek çağdaş"** ifadesi düzeltildi: Muhammed, Ahmed ve Zeyd de adıyla anılır. Doğru ifade, Ebû Leheb'in **ismen anılan tek muhalif** olması ve bir sûrenin tamamının tek kişiye ayrılmasının başka örneğinin bulunmamasıdır.
 - Künyenin yüzünün kırmızılığından geldiği bilgisi rivayettir; kesin değildir.
-- *Hattâbe* / "odun taşıma" ifadesi hakkındaki dört görüş tablo halinde verildi; tercih yapılmadı.
+- *Hammâlete'l-hatab* / "odun taşıma" ifadesi hakkındaki dört görüş tablo halinde verildi; tercih yapılmadı.
 - Ümmü Cemîl'in gerdanlığı hakkındaki rivayet aktarıldı, ama ayetin anlamının bu rivayete bağlı olmadığı belirtildi.
 - **"Açık meydan okuma" yorumu** aktarılırken üç çekince ayrıca yazıldı; en önemlisi, dille söylenecek bir imanın âhiret hükmünü teknik olarak değiştirmeyeceği — yani bunun mantıken temiz bir sınama sayılamayacağıdır.
 - Sûrenin inişi ile Ebû Leheb'in ölümü arasındaki "yaklaşık on yıl" bir tahmindir; nüzul tarihi rivayete dayanır ve kesin değildir.

@@ -69,7 +69,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 "**Rabbin seni hak üzere evinden çıkardığında, müminlerden bir grup bundan hoşlanmıyordu. Gerçek ortaya çıktıktan sonra bile, sanki göz göre göre ölüme sürükleniyorlarmış gibi seninle tartışıyorlardı.**"
 
-**Ayetin dürüstlüğü kaydedilmeye değer: *ve inne ferîkan mine'l-**mü'minîne** le-kârihûn*.**
+**Ayetin dürüstlüğü kaydedilmeye değer: *ve inne ferîkan mine'l-mü'minîne le-kârihûn*.**
 
 **Bunu bir gözlem olarak kaydediyorum:** hoşlanmayan taraf **mümin** diye anılıyor. **Metin, kendi safındaki isteksizliği örtmüyor.**
 
@@ -79,7 +79,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 **وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ** (7) — ***zâtü'ş-şevke*: "diken sahibi olan", yani silahlı ve çetin olan taraf.**
 
-**ش-و-ك** kökü: **diken.** Dilciler bu deyimi **silah ve savaş gücü** için kullanıldığını kaydeder.
+**ش-و-ك** kökü: **diken.** Dilciler bu deyimin **silah ve savaş gücü** için kullanıldığını kaydeder.
 
 **Ve ayet, tercihin ne yönde olduğunu açıkça söylüyor: kolay olanı istiyorlardı.** **Bunu bir gözlem olarak kaydediyorum: sûre, ganimet tartışmasını (1. ayet) anlatmadan önce, o ganimetin beklendiği anı kaydediyor.**
 
@@ -93,14 +93,14 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 ### Yardımın işlevi
 
-**Ayet, gönderilen yardımın **ne için** gönderildiğini kendisi söylüyor ve bu kaydedilmeye değer:**
+**Ayet, gönderilen yardımın ne için gönderildiğini kendisi söylüyor ve bu kaydedilmeye değer:**
 
 | Söylenen | Söylenmeyen |
 |---|---|
 | *Büşrâ* — **müjde** | Savaşın onlarla kazanıldığı |
 | *Li-tatmeinne bihî kulûbüküm* — **kalplerin yatışması** | — |
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı *innemâ* kalıbıdır** (*ve mâ cealehullâhu illâ*): **yardımın işlevi psikolojik bir etkiyle sınırlanıyor** ve sonuç başka yere bağlanıyor: *ve me'n-nasru illâ min indillâh.*
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı *mâ … illâ* hasr kalıbıdır** (*ve mâ cealehullâhu illâ*): **yardımın işlevi psikolojik bir etkiyle sınırlanıyor** ve sonuç başka yere bağlanıyor: *ve me'n-nasru illâ min indillâh.*
 
 **ط-م-ن kökü `013-rad.md` 13/28'de ve `002-bakara.md` 2/260'ta işlendi.** **Burada olumlu: kalplerin savaş anında yatışması.**
 
@@ -130,7 +130,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 | İstisna | Anlamı |
 |---|---|
-| *Mütehariifen li-kıtâl* | **Savaş için yer değiştirmek** — taktik hareket |
+| *Müteharrifen li-kıtâl* | **Savaş için yer değiştirmek** — taktik hareket |
 | *Ev mütehayyizen ilâ fie* | **Bir birliğe katılmak** |
 
 **Bunu kendi okumam olarak kaydediyorum:** emir mutlak konmuyor. **Ayet, kaçmak ile *manevra* arasındaki farkı kendisi ayırıyor** — ve ölçü, hareketin **yönü ve amacı**.
@@ -150,7 +150,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 | Yarı | Kalıp |
 |---|---|
 | 1 | *Fe-lem taktülûhüm ve lâkinnallâhe katelehüm* — **fiil doğrudan reddediliyor** |
-| 2 | *Ve mâ **rameyte iz rameyte*** ve lâkinnallâhe ramâ | **fiil önce kabul, sonra reddediliyor** |
+| 2 | *Ve mâ **rameyte iz rameyte*** ve lâkinnallâhe ramâ — **fiil önce kabul, sonra reddediliyor** |
 
 **İkinci yarıdaki *iz rameyte* (attığın zaman) ifadesi, atma fiilinin gerçekleştiğini kaydediyor** — ve aynı cümlede sonucun ona ait olmadığı söyleniyor.
 
@@ -332,7 +332,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 **لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ** (42) — "**helâk olan açık bir delille helâk olsun, yaşayan da açık bir delille yaşasın.**"
 
-**Bunu kendi okumam olarak kaydediyorum:** iki sonuç da aynı kayda bağlanıyor — *an beyyine.* **Yani olayın işlevi, tarafların kendi konumlarını **görerek** almaları.**
+**Bunu kendi okumam olarak kaydediyorum:** iki sonuç da aynı kayda bağlanıyor — *an beyyine.* **Yani olayın işlevi, tarafların kendi konumlarını görerek almaları.**
 
 ---
 
@@ -362,9 +362,9 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 "**Hani şeytan onlara amellerini süslü göstermiş ve 'bugün insanlardan size galip gelecek yoktur; ben de sizin yanınızdayım' demişti. İki ordu karşı karşıya gelince, iki topuğu üzerine geri döndü ve 'ben sizden uzağım; ben sizin görmediğinizi görüyorum' dedi.**"
 
-**زَيَّنَ** — **fiil, dizinde birçok yerde **meçhul** geçmişti** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *züyyine*). **Burada ise fiil etken ve öznesi açıkça anılıyor.**
+**زَيَّنَ** — **fiil, dizinde birçok yerde meçhul geçmişti** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *züyyine*). **Burada ise fiil etken ve öznesi açıkça anılıyor.**
 
-**Burada fiil **etken** ve öznesi açıkça anılıyor: *zeyyene lehümü'ş-şeytân*.** **Bu farkı kaydediyorum: aynı fiil, bir yerde faili söylenmeden, bir yerde söylenerek geliyor.**
+**Burada fiil etken ve öznesi açıkça anılıyor: *zeyyene lehümü'ş-şeytân*.** **Bu farkı kaydediyorum: aynı fiil, bir yerde faili söylenmeden, bir yerde söylenerek geliyor.**
 
 **نَكَصَ عَلَىٰ عَقِبَيْهِ** — **ن-ك-ص**: **geri geri gitmek, topukları üzerinde dönmek.** **Deyim, yüz çevirmeden geri çekilmeyi bildirir.**
 
@@ -423,27 +423,6 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 ---
 
-## 8/63 — وَأَلَّفَ بَيْنَ قُلُوبِهِمْ لَوْ أَنفَقْتَ مَا فِى ٱلْأَرْضِ جَمِيعًا مَّآ أَلَّفْتَ بَيْنَ قُلُوبِهِمْ
-
-"**Onların kalplerini birleştirdi. Yeryüzündeki her şeyi harcasaydın, onların kalplerini birleştiremezdin.**"
-
-**أَلَّفَ** — kök **أ-ل-ف**: **birleştirmek, kaynaştırmak, alıştırmak.** *Ülfet* aynı kökten.
-
-**Ölçü kaydedilmeye değer: *mâ fi'l-ardı cemîan* — yeryüzündeki her şey.**
-
-**Aynı ölçü `039-zumer.md` 39/47 ve `013-rad.md` 13/18'de fidye bağlamında geçmişti.** **Enfâl'de aynı ölçü, **satın alınamayacak olan** için kullanılıyor.**
-
-| Yer | *Mâ fi'l-ardı cemîan* |
-|---|---|
-| Zümer 39/47 · Ra'd 13/18 | **Fidye olarak verilse kabul edilmez** |
-| **Enfâl 8/63** | **Harcansa kalpler birleşmez** |
-
-**Bunu kendi okumam olarak kaydediyorum:** aynı ölçü, üç sûrede de **paranın yetmediği yeri** göstermek için kullanılıyor.
-
-**Ve sûrenin ilk ayetiyle bağı kaydedilmelidir:** orada *aslihû zâte beyniküm* emredilmişti. **Altmış üçüncü ayet, o işin asıl failinin kim olduğunu söylüyor.** Sûre, emri verip sonunda sınırını çiziyor.
-
----
-
 ## 8/62 — Yeterlilik
 
 *Ve in yürîdû en yahdeûke fe-inne hasbekallâh hüve'llezî eyyedeke bi-nasrihî ve bi'l-mü'minîn*
@@ -455,6 +434,27 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 **Bunu kendi okumam olarak kaydediyorum:** barış emri, güvenlik kaygısıyla iptal edilmiyor — **kaygı ayrı bir cümleyle cevaplanıyor.** Ve cevap *hasbekallâh* (sana Allah yeter) ile veriliyor.
 
 ***Hasb* kelimesi `039-zumer.md` 39/36'da (*eleysallâhu bi-kâfin abdeh*) işlendi.**
+
+---
+
+## 8/63 — وَأَلَّفَ بَيْنَ قُلُوبِهِمْ لَوْ أَنفَقْتَ مَا فِى ٱلْأَرْضِ جَمِيعًا مَّآ أَلَّفْتَ بَيْنَ قُلُوبِهِمْ
+
+"**Onların kalplerini birleştirdi. Yeryüzündeki her şeyi harcasaydın, onların kalplerini birleştiremezdin.**"
+
+**أَلَّفَ** — kök **أ-ل-ف**: **birleştirmek, kaynaştırmak, alıştırmak.** *Ülfet* aynı kökten.
+
+**Ölçü kaydedilmeye değer: *mâ fi'l-ardı cemîan* — yeryüzündeki her şey.**
+
+**Aynı ölçü `039-zumer.md` 39/47 ve `013-rad.md` 13/18'de fidye bağlamında geçmişti.** **Enfâl'de aynı ölçü, satın alınamayacak olan için kullanılıyor.**
+
+| Yer | *Mâ fi'l-ardı cemîan* |
+|---|---|
+| Zümer 39/47 · Ra'd 13/18 | **Fidye olarak verilse kabul edilmez** |
+| **Enfâl 8/63** | **Harcansa kalpler birleşmez** |
+
+**Bunu kendi okumam olarak kaydediyorum:** aynı ölçü, üç sûrede de **paranın yetmediği yeri** göstermek için kullanılıyor.
+
+**Ve sûrenin ilk ayetiyle bağı kaydedilmelidir:** orada *aslihû zâte beyniküm* emredilmişti. **Altmış üçüncü ayet, o işin asıl failinin kim olduğunu söylüyor.** Sûre, emri verip sonunda sınırını çiziyor.
 
 ---
 

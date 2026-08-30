@@ -1464,7 +1464,7 @@ Bunu bir tercih olarak değil, bir okuma imkânı olarak kaydediyorum.
 
 ### جَاهِدْ — mücadele et
 
-**Kök ج ه د (c-h-d).** Kökün somut anlamı **güç harcamak, takat sarf etmek, zorlanmak**tır. *Cehd* — güç, çaba. *Cühd* — takat. *İctihâd* — bir meselede bütün gücünü harcayarak sonuca varmaya çalışmak. Türkçedeki "içtihat" ve "mücadele" bu ailedendir.
+**Kök ج ه د (c-h-d).** Kökün somut anlamı **güç harcamak, takat sarf etmek, zorlanmak**tır. *Cehd* — güç, çaba. *Cühd* — takat. *İctihâd* — bir meselede bütün gücünü harcayarak sonuca varmaya çalışmak. Türkçedeki "içtihat" ve "cihat" bu ailedendir.
 
 **Kalıp: مُفَاعَلَة (müfâale).** Bu bab, `070-mearic.md` bahsinde de kaydedildiği gibi, iki taraflı bir çabayı bildirir: fiil karşılıklı olarak yapılır, ya da bir tarafın diğerine karşı sürdürdüğü bir uğraş anlatılır.
 
@@ -2014,11 +2014,11 @@ Kök, bir ayette bilginin açığa çıkmasını, sonraki ayette iki tür arka �
 
 ### İkinci örgü: ن ب أ — haber
 
-Kök, sûrede beş kez geçiyor ve dördü tek bir ayette:
+Kök, sûrede sekiz kez geçiyor ve dördü tek bir ayette:
 
 | Ayet | Kelime | Kim |
 |---|---|---|
-| 1, 3, 9 | **النَّبِيّ** | Hitabın kelimesi |
+| 1, 3, 8, 9 | **النَّبِيّ** | Hitabın kelimesi |
 | 3 | **نَبَّأَتْ** | Bir insan haber verdi |
 | 3 | **نَبَّأَهَا** | Peygamber haber verdi |
 | 3 | **أَنبَأَكَ** | "Sana kim bildirdi?" |
@@ -2051,7 +2051,7 @@ Kök, sûrede üç kez ve üç farklı kipte geçiyor: teklif → nitelik → em
 
 ### Altıncı örgü: hitap kalıpları
 
-Sûre dört kez **يَا أَيُّهَا** ile sesleniyor:
+Sûre beş kez **يَا أَيُّهَا** ile sesleniyor:
 
 | Ayet | Hitap |
 |---|---|

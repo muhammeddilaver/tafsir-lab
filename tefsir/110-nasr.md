@@ -117,7 +117,7 @@ Bunun anlamı, kelimenin kendi mantığında yatıyor. **Açmak, yaratmak değil
 
 **Belirlilik takısı.** *el-feth* — belirli bir fetih. Müfessirlerin çoğunluğu bunu **Mekke'nin fethi** olarak anlar; sûrenin Medenî oluşu ve tarihî bağlam bunu destekler. Bir kısmı ise takıyı cins takısı sayıp genel bir açılma olarak okur. İki okuma pratikte çelişmez: Mekke'nin fethi zaten daha geniş bir açılmanın kapısıydı.
 
-Şuna dikkat etmek gerekir: Kur'an'da "feth" kelimesinin en meşhur kullanımı olan *"Biz sana apaçık bir fetih verdik"* (Fetih 48/1) ayetinin, klasik tefsirlerde yaygın olarak **Hudeybiye antlaşması** için indiği söylenir. Orada hiçbir şehir alınmamıştı; hatta o yıl umre bile yapılamadan dönülmüştü. Buna rağmen bir **fetih** deniyor. Bu, kelimenin "şehir alma" değil "kapı açılma" anlamının en açık delilidir — çünkü Hudeybiye'de açılan şey topraktı değil, temastı: iki taraf arasında savaşın durması, insanların birbiriyle konuşabilir hale gelmesi.
+Şuna dikkat etmek gerekir: Kur'an'da "feth" kelimesinin en meşhur kullanımı olan *"Biz sana apaçık bir fetih verdik"* (Fetih 48/1) ayetinin, klasik tefsirlerde yaygın olarak **Hudeybiye antlaşması** için indiği söylenir. Orada hiçbir şehir alınmamıştı; hatta o yıl umre bile yapılamadan dönülmüştü. Buna rağmen bir **fetih** deniyor. Bu, kelimenin "şehir alma" değil "kapı açılma" anlamının en açık delilidir — çünkü Hudeybiye'de açılan şey toprak değil, temastı: iki taraf arasında savaşın durması, insanların birbiriyle konuşabilir hale gelmesi.
 
 ### وَ — bağlacın işi
 

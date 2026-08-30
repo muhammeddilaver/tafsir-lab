@@ -26,7 +26,7 @@
 | **17** | *Ve hel nücâzî ille'l-**kefûr*** | **Sebe'** — emrin karşılığı verilmedi |
 | **19** | *Le-âyâtin li-külli sabbârin **şekûr*** | **Ders alacak olan** |
 
-**Dört geçiş, üç ayrı yerde: emir, karşıtı, ve dersi alan.** Bu, metinden doğrulanabilir bir örgüdür.
+**Dört geçiş, üç ayrı işlevde: emir, karşıtı, ve dersi alan.** Bu, metinden doğrulanabilir bir örgüdür.
 
 **Ve zincir otuz yedinci ayette bir hükme bağlanır:** *ve mâ emvâlüküm ve lâ evlâdüküm billetî tükarribüküm indenâ zülfâ.* **Yani sûre, "elinde ne var" sorusundan "elindekiyle ne yaptın" sorusuna geçiyor.**
 
@@ -205,7 +205,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Tek fark fiilin zamanıdır: beşincide mâzî (*seav*), otuz sekizincide muzâri (*yes'avne*).** **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin yeridir:** beşinci ayet bir **hüküm listesi** içinde geliyor, otuz sekizinci ayet ise **süregelen bir davranışın** tarifi içinde. Mâzî hükmü, muzâri hâli anlatıyor.
 
-**رِجْز** — kök **ر-ج-ز**: **sarsıntı, düzensiz hareket; ve buradan pislik, azap.** Dilciler kelimeyi devenin arka ayaklarındaki titremeyle (*recez*) ilişkilendirir. **Terkip dikkat çekicidir: *azâbün **min** riczin elîm*** — "azabın en kötüsünden bir azap". **Yani azap, kendi cinsinin içinden ayrıca nitelenmiş.**
+**رِجْز — kök ر-ج-ز: sarsıntı, düzensiz hareket; ve buradan pislik, azap. Dilciler kelimeyi devenin arka ayaklarındaki titremeyle (*recez*) ilişkilendirir. Terkip dikkat çekicidir: *azâbün min riczin elîm* — "azabın en kötüsünden bir azap". Yani azap, kendi cinsinin içinden ayrıca nitelenmiş.**
 
 ---
 
@@ -444,7 +444,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 ### سَٰبِغَٰت — kök: ص/س-ب-غ
 
-**Kelimenin kökü **س-ب-غ**'dır** (ص-ب-غ ile karıştırılmamalı; ikincisi *sıbğa* — boya, renk verme köküdür). **س-ب-غ kökünün anlamı: bol olmak, tam ve geniş olmak, üzerini örtecek kadar uzun olmak.**
+**Kelimenin kökü س-ب-غ'dır (ص-ب-غ ile karıştırılmamalı; ikincisi *sıbğa* — boya, renk verme köküdür). س-ب-غ kökünün anlamı: bol olmak, tam ve geniş olmak, üzerini örtecek kadar uzun olmak.**
 
 *Sâbiğ* — bol, tam, eksiksiz. **Ve Kur'an'da aynı kök nimet için kullanılır:** *ve **esbeğa** aleyküm niameh* (Lokmân 31/20) — "nimetlerini üzerinize bol bol yaydı."
 
@@ -506,11 +506,11 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 | **12** | *Ve **eselnâ** lehû ayne'l-kıtr* | **Erimiş maden** — nimet | **Süleymân** |
 | **16** | *Fe-erselnâ aleyhim **seyle**'l-arim* | **Sel** — felaket | **Sebe'** |
 
-**Aynı fiil kökü: biri "onun **için** akıttık", öteki "onların **üzerine** gönderdik".** **Edat değişince yön değişiyor: *lehû* (lehine) / *aleyhim* (aleyhine).** Bu, metinden doğrulanabilir bir karşıtlıktır.
+**Aynı fiil kökü: biri "onun için akıttık", öteki "onların üzerine gönderdik". Edat değişince yön değişiyor: *lehû* (lehine) / *aleyhim* (aleyhine).** Bu, metinden doğrulanabilir bir karşıtlıktır.
 
 **ٱلْقِطْر** — dilcilerin verdiği karşılık: **erimiş bakır** (bazıları genel olarak "erimiş maden" der). **Kelime *katr* (damlamak) köküyle ilişkilendirilir: damlayan, akan şey.**
 
-**Ve *ayn* kelimesi kaydedilmelidir: *ayne'l-kıtr* — "bakır **kaynağı**".** *Ayn*, Arapçada hem göz hem pınar demektir. **Yani erimiş maden, bir pınar gibi anılıyor** — su kaynağı için kullanılan kelime madene aktarılmış.
+**Ve *ayn* kelimesi kaydedilmelidir: *ayne'l-kıtr* — "bakır kaynağı". *Ayn*, Arapçada hem göz hem pınar demektir. Yani erimiş maden, bir pınar gibi anılıyor** — su kaynağı için kullanılan kelime madene aktarılmış.
 
 **Bir önceki ayetle bağı kaydedilmeye değer:** Dâvûd'a demir yumuşatıldı, Süleymân'a bakır akıtıldı. **İki peygambere iki maden, ikisi de sertliğinin çözülmüş hâlinde.**
 
@@ -534,9 +534,9 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Bu ayet, sûrenin omurgasının adının konduğu yerdir.** On iki ayet boyunca verilenler sayılmıştı; burada verilenlerin karşılığında ne istendiği söyleniyor.
 
-**Ve emrin biçimi kaydedilmelidir: *i'melû âle Dâvûde **şükrâ***.**
+**Ve emrin biçimi kaydedilmelidir: *i'melû âle Dâvûde şükrâ*.**
 
-**Kelimenin i'râbı üzerinde dilciler durur ve iki izah nakledilir:**
+**Kelimenin i'râbı üzerinde dilciler durur ve üç izah nakledilir:**
 
 | Okuma | *Şükrâ* nedir | Anlam |
 |---|---|---|
@@ -567,7 +567,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Bu ayrıntı önemlidir ve kendi okumam olarak kaydediyorum, dayanağı kalıbın kendisidir:** azlık hükmü, şükrün kendisine değil, **sürekliliğine** konuyor. Bir kez şükretmek yaygın olabilir; kelimenin tarif ettiği ise bir huy hâline gelmiş şükürdür.
 
-**Ve *şekûr* kelimesi sûrede iki kez daha geçecek:**
+**Ve bu kalıp sûrede iki kez daha karşımıza çıkacak:**
 
 | Ayet | Kelime | Kim |
 |---|---|---|
@@ -575,7 +575,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 | **17** | *El-**kefûr*** | **Karşılığı görecek** olan |
 | **19** | *Sabbârin **şekûr*** | **Ders alacak** olan |
 
-**Üç kelimenin üçü de aynı mübalağa kalıbındadır: *fa'ûl*.** *Şekûr*, *kefûr*, *sabbâr* (bu sonuncusu *fa''âl* kalıbında). **Yani sûre, üç ayrı yerde huy hâline gelmiş nitelikleri adlandırıyor.** Bu, metinden doğrulanabilir bir örgüdür.
+**Üçü de mübalağa kalıbıdır:** *şekûr* ve *kefûr* *fa'ûl*, *sabbâr* ise *fa''âl* kalıbında. **Yani sûre, üç ayrı yerde huy hâline gelmiş nitelikleri adlandırıyor.** Bu, metinden doğrulanabilir bir örgüdür.
 
 ### Sayılan yapılar
 
@@ -768,7 +768,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Üçlünün sırası kaydedilmeye değer ve bunu bir gözlem olarak veriyorum:** yenmez hâle gelmiş yemiş → hiç yenmeyen ağaç → **biraz** yenen ağaç. **Liste, yararsızdan azıcık yararlıya doğru gidiyor ve orada bitiyor.** Yani tablo tamamen yıkım değil — **yetersizlik.**
 
-**Ve *kalîl* kelimesi kaydedilmelidir:** on üçüncü ayette *ve **kalîlün** min ıbâdiye'ş-şekûr* denmişti. **Aynı kelime, dört ayet sonra kalan sedir ağaçları için geliyor.**
+**Ve *kalîl* kelimesi kaydedilmelidir:** on üçüncü ayette *ve **kalîlün** min ıbâdiye'ş-şekûr* denmişti. **Aynı kelime, üç ayet sonra kalan sedir ağaçları için geliyor.**
 
 | Ayet | *Kalîl* neyi niteliyor |
 |---|---|
@@ -1066,7 +1066,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Ve kalıp dikkat çekicidir: *füzzia* — II. bâbdan meçhul.** **II. bâbın burada *izâle* (giderme) bildirdiği kaydedilir:** Arapçada bazı fiiller II. bâba girdiğinde anlamı **tersine çevirir** — *cellede* (deriyi soydu), *merrada* (hastalığı giderdi) gibi. **Yani *füzzia an kulûbihim*, "kalplerine korku salındı" değil, "kalplerinden korku giderildi" demektir.**
 
-**Ve edat bunu doğruluyor: *füzzia **an** kulûbihim* — "kalplerinden".** *An* edatı **uzaklaşma** bildirir.
+**Ve edat bunu doğruluyor: *füzzia an kulûbihim* — "kalplerinden". *An* edatı uzaklaşma** bildirir.
 
 **Kıraat farkı vardır ve kaydedilmelidir:**
 
@@ -1429,7 +1429,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 | Zayıfların sözü | **İstek** — yükü paylaş | **Suçlama** — sağdan gelirdiniz | **Suçlama** — siz olmasaydınız |
 | Büyüklenenlerin cevabı | *İnnâ küllün fîhâ* — durum bildirimi | *Bel lem tekûnû mü'minîn* — **ret** | *Bel küntüm mücrimîn* — **ret** |
 | Üçüncü taraf | **Var** — bekçiler | **Yok** | **Yok** |
-| Sonuç | Çözümsüz | Ortak itiraf: *innâ küllün fîhâ*… | **Pişmanlığın gizlenmesi** |
+| Sonuç | Çözümsüz | Ortak azap: *fe-innehüm yevmeizin fi'l-azâbi müşterikûn* | **Pişmanlığın gizlenmesi** |
 
 **En belirgin fark son satırdadır ve Sebe'ye özgüdür:** Ğāfir'de tartışma bir başvuruyla, Sâffât'ta bir hesaplaşmayla sürer. **Sebe'de tartışma bir *susma* ile biter:** *ve eserru'n-nedâmete lemmâ raevü'l-azâb.*
 
@@ -1719,7 +1719,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Soru, tapılanlara sorulmuyor — *meleklere* soruluyor.** Ve bu, sûrenin yirmi ikinci ayetiyle bağlanıyor: orada *ellezîne zeamtüm* (ileri sürdükleriniz) denmişti ve kimlikleri açık bırakılmıştı. **Burada bir kimlik anılıyor.**
 
-**Sorunun dizimi kaydedilmelidir: *e-hâülâi **iyyâküm** kânû ya'büdûn*.**
+**Sorunun dizimi kaydedilmelidir: *e-hâülâi iyyâküm kânû ya'büdûn*.**
 
 ***İyyâküm* (sizemi) mef'ûldür ve fiilin önüne alınmış.** Arapçada bu takdim **hasr** (sınırlama) bildirir: **"tapılan siz miydiniz?"** Vurgu fiilde değil, nesnede.
 
@@ -1858,7 +1858,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 | Ayet | İddia / cevap |
 |---|---|
 | **35** | *Nahnü **ekseru** emvâlen* — **çokluk koruma sağlar** |
-| **45** | *Ve mâ belağû **mi'şâre** mâ âteynâhüm* — **onda birine bile ulaşamadınız; onlar korunamadı** |
+| **45** | *Ve mâ belağû **mi'şâre** mâ âteynâhüm* — **onda birine bile ulaşamadılar; onlar korunamadı** |
 
 **Bu, sûre içinde doğrulanabilir bir cevaplaşmadır.**
 
@@ -2137,7 +2137,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 ### فَزِعُوا۟ — sûrede ikinci kez
 
-**ف-ز-ع kökü yirmi üçüncü ayette geçmişti: *hattâ izâ **füzzia** an kulûbihim* — kalplerinden dehşet giderildiğinde.** **Burada aynı kök, I. bâbda ve malum olarak geliyor: *fezi'û* — dehşete kapıldılar.**
+**ف-ز-ع kökü yirmi üçüncü ayette geçmişti: *hattâ izâ füzzia an kulûbihim* — kalplerinden dehşet giderildiğinde. Burada aynı kök, I. bâbda ve malum olarak geliyor: *fezi'û* — dehşete kapıldılar.**
 
 | Ayet | Fiil | Kim | Yön |
 |---|---|---|---|
@@ -2150,7 +2150,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Kök `067-mulk.md` 67/3'te (*mâ terâ fî halkı'r-rahmâni min tefâvüt*) ayrıntılı çözümlendi.** Orada kaydedilenlerin özeti şudur: **kökün asıl anlamı kaçırmak, elden gitmek, aradan sıyrılıp gitmek; *fâtehü'l-emr* — iş elinden kaçtı. Ve *tefâvüt* (VI. bâb), iki şeyin birbirini tutmaması, aralarında açıklık kalmasıdır.** **Tekrarlamıyorum.**
 
-**Buraya ait olan, kökün *yalın* hâlde ve olumsuzlanarak kullanılmasıdır: *fe-lâ **fevte***.**
+**Buraya ait olan, kökün *yalın* hâlde ve olumsuzlanarak kullanılmasıdır: *fe-lâ fevte*.**
 
 **Kalıp *lâ-yı nâfiye li'l-cins*tir** (cinsi bütünüyle olumsuzlayan *lâ*): **"hiçbir kaçış yoktur."** Türkçedeki "artık kaçacak yer yok" ifadesine karşılık gelir.
 
@@ -2285,7 +2285,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **مُرِيب** — kök **ر-ي-ب**: **şüphe, tereddüt, huzursuz kuşku.** IV. bâbdan ism-i fâil: **şüpheye düşüren, huzursuz eden.**
 
-**Ve terkip kaydedilmeye değer: *şekkin **mürîb*** — "şüphelendiren şüphe".** **Aynı anlam alanından iki kelime yan yana konmuş.**
+**Ve terkip kaydedilmeye değer: *şekkin mürîb* — "şüphelendiren şüphe".** **Aynı anlam alanından iki kelime yan yana konmuş.**
 
 **Dilciler *şekk* ile *reyb* arasında bir fark kaydeder:** *şekk*, iki ihtimalin eşitliğidir — bilgi eksikliği. ***Reyb* ise huzursuzluk taşıyan şüphedir** — kişiyi rahatsız eden, içine kurt düşüren kuşku.
 

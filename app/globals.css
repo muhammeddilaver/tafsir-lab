@@ -48,11 +48,18 @@ a{color:var(--lapis)}
 .top a:hover{color:var(--lapis)}
 .top .home{font-family:var(--display); font-weight:700; font-size:19px; color:var(--ink); letter-spacing:-.01em}
 .top .sp{flex:1}
+/* Dil degistirici: gezinme baglantilarindan ayirt edilsin diye cerceveli */
+.top .lang{
+  border:1px solid var(--rule); border-radius:999px; padding:2px 10px;
+  font-size:13px; line-height:1.6; white-space:nowrap; color:var(--ink-2);
+}
+.top .lang:hover{border-color:var(--lapis); color:var(--lapis)}
 /* Dar ekranda "LLM Tefsir Project" iki satira dusuyordu */
 @media (max-width:420px){
   .top-in{gap:10px; padding:10px 14px}
   .top .home{font-size:16px; white-space:nowrap}
   .top a{font-size:13px}
+  .top .lang{padding:1px 8px; font-size:12px}
 }
 #progress{
   position:absolute; left:0; bottom:-1px; height:2px; width:100%; background:var(--lapis);

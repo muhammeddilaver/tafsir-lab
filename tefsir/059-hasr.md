@@ -1307,11 +1307,12 @@ Yani tek bir cümlede **dört ayrı pekiştirme aracı** üst üste konmuş. Tü
 
 ### Cevabın yapısı: üç vaat, dört red
 
-Onikinci ayet, üç vaadi tek tek ele alıyor ve **aynı sırayla** çürütüyor:
+Onikinci ayet, bu vaatleri **aynı sırayla** ele alıyor:
 
 | Vaat (11) | Red (12) |
 |---|---|
 | "Çıkarılırsanız çıkarız" | "Çıkarılsalar çıkmazlar" |
+| "Asla kimseye itaat etmeyiz" | — |
 | "Savaşa uğrarsanız yardım ederiz" | "Savaşa uğrasalar yardım etmezler" |
 | — | "Yardım etseler bile arkalarını dönerler" |
 | — | "Sonra kendilerine de yardım edilmez" |
@@ -1646,7 +1647,7 @@ Ve ayetin bağlamına oturuyor: mesel boyunca anlatılan şey, sorumluluğun yer
 
 ### Bölümün değişen muhatabı
 
-Onbirinci ayetten onyedinciye kadar anlatılanlar üçüncü şahıs hakkındaydı: *nâfekū*, *yekūlûne*, *lâ yuḳātilûneküm*. Metin bir topluluğu dışarıdan seyrediyordu.
+Onbirinci ayetten onyedinciye kadar anlatılanlar üçüncü şahıs hakkındaydı: *nâfekū*, *yekūlûne*, *lâ yukātilûneküm*. Metin bir topluluğu dışarıdan seyrediyordu.
 
 Onsekizinci ayette hitap birden döner: **يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟.**
 
@@ -1746,7 +1747,7 @@ Onsekizinci ayet *nefsün* ile kurulmuştu: bir nefis baksın. Ondokuzuncu ayet 
 
 | Ayet | Kelime | Fiil | Yön |
 |---|---|---|---|
-| 18 | *nefsün* | *lteŋzur* (baksın) | Nefse **doğru** bakış |
+| 18 | *nefsün* | *ltenzur* (baksın) | Nefse **doğru** bakış |
 | 19 | *enfüsehüm* | *ensâhüm* (unutturdu) | Nefisten **uzaklaşma** |
 
 İki ayet, tek bir eksenin iki ucudur. Ve ortadaki emir — "onlar gibi olmayın" — bu iki uç arasında bir seçim olduğunu söylüyor.
@@ -1851,7 +1852,7 @@ Ve yerleri de ayrı: *felâh*, dokuzuncu ayette **cimrilikten korunanlar** için
 
 ## 59/21 — لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
 
-*Lev enzelnâ hâze'l-kur'âne alâ cebelin le-raeytehû hâşian mütesaddian min haşyetillâh, ve tilke'l-emsâlü nadribühâ li'n-nâsi lealléhüm yetefekkerûn*
+*Lev enzelnâ hâze'l-kur'âne alâ cebelin le-raeytehû hâşian mütesaddian min haşyetillâh, ve tilke'l-emsâlü nadribühâ li'n-nâsi leallehüm yetefekkerûn*
 
 "Biz bu Kur'ân'ı bir dağın üzerine indirseydik, onu Allah korkusundan boyun eğmiş, paramparça olmuş görürdün. Bu meselleri insanlara veriyoruz; belki düşünürler."
 
@@ -1903,7 +1904,7 @@ Kökün toprakla ilgili kullanımı önemlidir: **الأرض الخاشعة** �
 
 **ص-د-ع kökü.** Somut anlam: **sert bir şeyin yarılması.** Dilciler kökün özellikle katı cisimler için kullanıldığını kaydeder — cam, taş, kemik.
 
-**Kökün Kur'an'daki geçişleri bu tefsirde iki yerde daha karşımıza çıktı:**
+**Kökün Kur'an'daki geçişleri bu tefsirde üç yerde daha karşımıza çıktı:**
 
 | Yer | Kelime | Ne yarılıyor |
 |---|---|---|
@@ -2376,10 +2377,10 @@ Bunlar doğrulanabilir metin verileridir; kasıt iddiası değildir.
 |---|---|---|
 | **س-ب-ح** | 1, 23, 24 | Sûrenin çerçevesi |
 | **ح-ص-ن** | 2 (*husûn*), 14 (*muhassane*) | İki kez savunma yapısı, iki kez yetersiz |
-| **خ-ر-ج** | 2 (üç kez), 8, 11, 12 | Çıkarma / çıkma; sürgünün fiili |
+| **خ-ر-ج** | 2 (iki kez), 8, 11, 12 | Çıkarma / çıkma; sürgünün fiili |
 | **ص-د-ر** | 9 (*sudûr*), 10, 13 | Görünmeyen iç katman |
 | **ف-س-ق** | 5, 19 | Dışarıdakinin sıfatı → muhataba uyarı |
-| **ع-ق-ب** | 4 (*ikāb*), 17 (*âkıbet*) | Ardından gelen |
+| **ع-ق-ب** | 4 (*ikāb*), 7 (*ikāb*), 17 (*âkıbet*) | Ardından gelen |
 | **ب-ر-أ** | 16 (*berî'*), 24 (*el-Bâri'*) | İddia edilen ayrılık / gerçekleştirilen ayırma |
 | **ن-ف-س** | 9, 18, 19 | Cimrilik / bakan nefis / unutulan nefis |
 | **ع-ز-ز** | 1, 23, 24 | Sertlik — çözülmeyen |
@@ -2427,7 +2428,7 @@ Ve bakılacak yer geçmiştir — *mâ kaddemet.* Bu, bugün yaygın olan iki al
 
 **Yedincisi: ağırlığın ölçülmesi.** Yirmi birinci ayet, bir metnin ağırlığını dağ üzerinden ölçtürüyor. Ve şunu ima ediyor: aynı şey insana geldiğinde bu etkiyi yapmıyor olabilir.
 
-Bunun bugüne bakan yanı, alışkanlığın etkisizleştirici gücüdür. Sık okunan, ezberlenen, günlük dilin parçası haline gelen bir metin, ağırlığını taşımayı bırakabilir. Ayet bunu bir kusur olarak ilan etmiyor; bir karşılaştırma bırakıyor ve *lealléhüm yetefekkerûn* diyerek kapıyı açık tutuyor.
+Bunun bugüne bakan yanı, alışkanlığın etkisizleştirici gücüdür. Sık okunan, ezberlenen, günlük dilin parçası haline gelen bir metin, ağırlığını taşımayı bırakabilir. Ayet bunu bir kusur olarak ilan etmiyor; bir karşılaştırma bırakıyor ve *leallehüm yetefekkerûn* diyerek kapıyı açık tutuyor.
 
 **Sekizincisi: cevabın biçimi.** Sûre, "neye güveneceksin?" sorusuna bir talimatla değil bir tanıtımla cevap veriyor. Son üç ayette emir yok, yasak yok, muhatap bile yok.
 

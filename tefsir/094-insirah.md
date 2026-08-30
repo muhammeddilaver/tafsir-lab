@@ -159,7 +159,7 @@ Dolayısıyla ayeti o rivayete bağlamak bir tefsir yorumudur, metnin gereği de
 
 **Kök: و-ض-ع.** Aşağı koymak, bırakmak, indirmek.
 
-Türkçedeki "vaziyet", "mevzu" (konu — konulmuş olan), "vazife" bu kökten gelir.
+Türkçedeki "vaziyet", "mevzu" (konu — konulmuş olan) bu kökten gelir.
 
 **İlginç bir kullanım:** aynı fiil Arapçada **doğurmak** için de kullanılır. *"Onu kız olarak doğurdum"* (Âl-i İmrân 3/36); *"Her hamile taşıdığını bırakır"* (Hac 22/2). Sebebi doğrudan: doğurmak, taşınan yükün indirilmesidir. Arapça "haml" kelimesi hem yük hem gebelik anlamına gelir.
 

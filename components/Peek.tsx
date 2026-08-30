@@ -1,13 +1,15 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { ROUTES, T, type Lang } from "@/lib/i18n";
 
 type Parca = { no: number; name: string; label: string; url: string; html: string };
 type Ref = { no: number; start: number };
 
 const cache = new Map<string, Parca>();
 
-export default function Peek() {
+export default function Peek({ lang }: { lang: Lang }) {
+  const t = T[lang];
   const [stack, setStack] = useState<Ref[]>([]);
   const [data, setData] = useState<Parca | null>(null);
   const [loading, setLoading] = useState(false);
@@ -68,7 +70,7 @@ export default function Peek() {
   // --- parcayi getir ---
   useEffect(() => {
     if (!top) return;
-    const key = `${top.no}/${top.start}`;
+    const key = `${lang}:${top.no}/${top.start}`;
     const hit = cache.get(key);
     if (hit) {
       setData(hit);
@@ -76,7 +78,7 @@ export default function Peek() {
     }
     let alive = true;
     setLoading(true);
-    fetch(`/parca/${top.no}/${top.start}`)
+    fetch(`${ROUTES[lang].part}/${top.no}/${top.start}`)
       .then((r) => (r.ok ? r.json() : Promise.reject(r.status)))
       .then((j: Parca) => {
         cache.set(key, j);
@@ -87,7 +89,7 @@ export default function Peek() {
     return () => {
       alive = false;
     };
-  }, [top]);
+  }, [top, lang]);
 
   // yeni parcaya gecince icerigi basa sar
   useEffect(() => {
@@ -139,13 +141,13 @@ export default function Peek() {
         className="peek"
         role="dialog"
         aria-modal="true"
-        aria-label={data ? `${data.name} ${data.label}` : "Atıf"}
+        aria-label={data ? `${data.name} ${data.label}` : t.peekFallbackTitle}
         tabIndex={-1}
         ref={box}
       >
         <header className="peek-head">
           {stack.length > 1 && (
-            <button className="peek-back" onClick={() => setStack((s) => s.slice(0, -1))} aria-label="Önceki atıfa dön">
+            <button className="peek-back" onClick={() => setStack((s) => s.slice(0, -1))} aria-label={t.peekBack}>
               ←
             </button>
           )}
@@ -155,9 +157,9 @@ export default function Peek() {
                 {trail.map((t) => `${t.no}/${t.start}`).join(" › ")} ›{" "}
               </span>
             )}
-            <strong>{data ? `${data.name} ${data.label}` : loading ? "…" : "Bulunamadı"}</strong>
+            <strong>{data ? `${data.name} ${data.label}` : loading ? "…" : t.peekNotFound}</strong>
           </div>
-          <button className="peek-x" onClick={close} aria-label="Kapat">
+          <button className="peek-x" onClick={close} aria-label={t.peekClose}>
             ✕
           </button>
         </header>
@@ -166,9 +168,9 @@ export default function Peek() {
           {data ? (
             <article dangerouslySetInnerHTML={{ __html: data.html }} />
           ) : loading ? (
-            <p className="muted">Yükleniyor…</p>
+            <p className="muted">{t.peekLoading}</p>
           ) : (
-            <p className="muted">Bu bölüm getirilemedi.</p>
+            <p className="muted">{t.peekFailed}</p>
           )}
         </div>
 
@@ -189,9 +191,9 @@ export default function Peek() {
                 } catch {}
               }}
             >
-              {copied ? "Bağlantı kopyalandı" : "Paylaş"}
+              {copied ? t.linkCopied : t.peekShare}
             </button>
-            <a href={data.url}>Sûrede aç →</a>
+            <a href={data.url}>{t.peekOpen}</a>
           </footer>
         )}
       </div>

@@ -14,7 +14,7 @@
 
 ### Sûrenin omurgası: ٱلرَّحْمَٰن
 
-**Bu isim sûrede **on altı kez** geçiyor — Kur'an'da hiçbir sûrede bu yoğunlukta değildir.** Ve dağılımı düzenlidir: Zekeriyyâ kıssasında, Meryem'in sığınmasında (*innî eûzü bi'r-rahmâni minke*), İbrâhim'in babasına söylediklerinde, ve son blokta iddianın konusu olarak.
+**Bu isim sûrede on altı kez geçiyor — Kur'an'da hiçbir sûrede bu yoğunlukta değildir.** Ve dağılımı düzenlidir: Zekeriyyâ kıssasında, Meryem'in sığınmasında (*innî eûzü bi'r-rahmâni minke*), İbrâhim'in babasına söylediklerinde, ve son blokta iddianın konusu olarak.
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, kıssaları anlatırken hep aynı ismi kullanıyor; **ve son blokta o isme yöneltilen iddiayı ele alıyor** (88: *ve kālü'ttehaze'r-rahmânü veledâ*). **Yani kıssalar, iddianın cevabını önceden hazırlamış oluyor.**
 
@@ -170,7 +170,7 @@
 
 **Yani sahne, ilâhî yardımın insanın fiilini ortadan kaldırmadığını gösteriyor.** **`028-kasas.md` 28/7'de anneye verilen emirde de aynı yapı vardı** (en riskli fiil ondan isteniyordu); oraya dayanıyorum.
 
-**فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا** — üç emir: ye, iç, **gözün aydın olsun.** ***Karra aynen* deyimi `025-furkan.md` 25/74'te işlendi** (gözün bir yerde durup kayması). **Oraya dayanıyorum.**
+**فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا** — üç emir: ye, iç, **gözün aydın olsun.** ***Karra aynen* deyimi `025-furkan.md` 25/74'te işlendi** (gözün bir yerde durup kaymaması). **Oraya dayanıyorum.**
 
 **فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا** — **ve ona konuşmama emri veriliyor.**
 
@@ -188,7 +188,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin yapısıdır:** sûre, seksen sekizinci ayette *ve kālü'ttehaze'r-rahmânü veledâ* (Rahmân çocuk edindi dediler) iddiasını ele alacak. **Ve o iddianın konusu olan kişinin ağzından çıkan ilk kelime, *abd*dir.**
 
-**Yani cevap, altmış ayet önce, kıssanın içinde verilmiş oluyor.** Bu, metinden doğrulanabilir bir yapıdır.
+**Yani cevap, elli sekiz ayet önce, kıssanın içinde verilmiş oluyor.** Bu, metinden doğrulanabilir bir yapıdır.
 
 **فَرِيًّا** — kök **ف-ر-ي**: **kesmek, biçmek; ve uydurmak.** Dilciler kelimeyi burada **"görülmemiş, şaşırtıcı" ya da "uydurma"** olarak açıklar; **iki okumayı da aktarıyorum.**
 
@@ -352,7 +352,7 @@
 
 ### Dokuzuncu ayetin dönüşü
 
-**Cevap, sûrenin dokuzuncu ayetiyle kelime kelime örtüşüyor** — yapı bölümünde tablolamıştım. **Zekeriyyâ'ya söylenen cümle, burada dirilişi inkâr edene söyleniyor.**
+**Cevap, sûrenin dokuzuncu ayetiyle kelime kelime örtüşüyor** — 19/7-11 bölümünde tablolamıştım. **Zekeriyyâ'ya söylenen cümle, burada dirilişi inkâr edene söyleniyor.**
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, aynı delili **iki ayrı şüpheye** karşı kullanıyor — biri "yaşlıyım, çocuğum olmaz", öteki "öldüm, dirilmem". **İkisi de bir imkânsızlık iddiasıdır ve ikisi de aynı geçmişle karşılanıyor.**
 
@@ -553,7 +553,7 @@
 | Ayet | İhtilaf |
 |---|---|
 | 1 | Mukattaa harflerinin anlamı |
-| 27 | *Fer' iyyâ* kelimesinin karşılığı |
+| 27 | *Feriyyâ* kelimesinin karşılığı |
 | 28 | *Yâ uhte Hârûn* hitabının izahı |
 | 57 | *Ve rafa'nâhü mekânen aliyyâ* terkibinin anlattığı |
 | 71 | *Vürûd* kelimesinin karşılığı |

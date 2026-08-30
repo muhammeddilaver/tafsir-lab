@@ -112,7 +112,7 @@ Ayet bu iki kelimeyi yan yana koyuyor: *el-mûriyâti kadhâ* — **vurarak ate�
 
 Buradan doğal bir çıkarım yapılır ve müfessirlerin çoğu bunu yapar: **kıvılcım karanlıkta görülür.** Gündüz nal kıvılcımı fark edilmez. Yani ikinci ayet, sahnenin gece geçtiğini söylüyor — ve üçüncü ayet sabahı getirecek. İki ayet arasında bir zaman çizgisi var: gece boyu yol, sabaha karşı varış.
 
-Bu, bir baskının gerçek lojistiğidir ve aşağıda tarihî arka plan bölümünde açacağım.
+Bu, bir baskının gerçek lojistiğidir.
 
 ### Bir ayrıntı
 
@@ -209,7 +209,7 @@ Bunu kendi okumam olarak kaydediyorum. Ama fiilin Kur'an'daki iki kullanımı da
 
 Aynı kökün başka bir kullanımı da vardır: *nakî'* — bir yerde birikip duran su, bekletilmiş sıvı; *enkaa* — suda bekletmek. Bir kısım dilci iki anlam arasında "bir yerde durup kalma, çökelmeme" çekirdeğini kurar. Bu bağı kesin bir etimoloji olarak değil, dilcilerin kurduğu bir ilişki olarak aktarıyorum.
 
-Havada asılı kalan toz — sûrenin ilerideki bölümlerinde tekrar karşımıza çıkacak bir görüntüdür. Kâria sûresinde dağlar *"atılmış yün"* olacak, insanlar *"savrulan kelebekler"* olacak. Ağırlığını kaybedip havada asılı kalan şey, bu üç sûrenin ortak imgelerinden biri.
+Havada asılı kalan toz — Kâria sûresinde tekrar karşımıza çıkacak bir görüntüdür. Kâria sûresinde dağlar *"atılmış yün"* olacak, insanlar *"savrulan kelebekler"* olacak. Ağırlığını kaybedip havada asılı kalan şey, bu üç sûrenin ortak imgelerinden biri.
 
 ### بِهِۦ — zamir kime ait?
 
@@ -645,7 +645,7 @@ Bu iki ayetin birlikte söylediği şey, sûrenin en önemli hükmüdür:
 
 *Tahsîl* fiilinin seçilmiş olması bu yüzden anlamlıdır: fiil **yok etme** fiili değil, **ayırma** fiilidir. Savurma işleminde hiçbir şey yok edilmez; sadece ağır olan ile hafif olan birbirinden ayrılır.
 
-Ve şu ayrıntıya dikkat: **hafif olan uçar, ağır olan kalır.** Bu ölçü, iki sûre sonra Kâria'da terazi olarak karşımıza çıkacak. Âdiyât harmanı savuruyor; Kâria kalanı tartıyor.
+Ve şu ayrıntıya dikkat: **hafif olan uçar, ağır olan kalır.** Bu ölçü, bir sûre sonra Kâria'da terazi olarak karşımıza çıkacak. Âdiyât harmanı savuruyor; Kâria kalanı tartıyor.
 
 ### Kur'an'ın Kur'an'la tefsiri
 

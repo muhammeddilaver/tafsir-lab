@@ -594,7 +594,7 @@ Kökün bu anlamı ayete tam oturuyor. Anlatılan kişiler bir şeyi yerinden et
 
 Bu benzetmenin gücünü tam anlamak için, o dönemde bir kitabın ne olduğunu bilmek gerekiyor.
 
-7. yüzyılda kitap ucuz bir nesne değildi. Deri ya da papirüs üzerine elle yazılırdı; bir cildin üretimi aylar alabilir, ciddi bir maliyet gerektirirdi. Bu yüzden kitap taşımak fiilen bir **statü işi**ydi: kitabı olan, kitabı olmayandan ayrılırdı.
+Yedinci yüzyılda kitap ucuz bir nesne değildi. Deri ya da papirüs üzerine elle yazılırdı; bir cildin üretimi aylar alabilir, ciddi bir maliyet gerektirirdi. Bu yüzden kitap taşımak fiilen bir **statü işi**ydi: kitabı olan, kitabı olmayandan ayrılırdı.
 
 Ve tam da bu yüzden kitapla kurulan ilişki iki yönlü bozulmaya açıktı. Kitap hem okunacak bir metin hem de **sahip olunacak bir nesne** idi. İkincisi birincisinin yerine geçebilirdi.
 
@@ -646,14 +646,14 @@ Kelimenin Arapçadaki yeri özeldir. *Kâle* (dedi) nötrdür; *zaame* ise söyl
 
 Kur'an'ın bu kelimeyi kullandığı yerlere bakmak öğretici, çünkü bir örüntü var:
 
-- *"Sizden birinizin, malına ortak olmasını **istemediğiniz** kişileri..."* değil — doğrudan örnek: Sebe' 34/22: *"De ki: Allah'ın dışında **ileri sürdüklerinizi** (*zeamtüm*) çağırın."*
+- Doğrudan örnek: Sebe' 34/22: *"De ki: Allah'ın dışında **ileri sürdüklerinizi** (*zeamtüm*) çağırın."*
 - Kehf 18/48: *"...**iddia ediyordunuz** (*zeamtüm*) ki size bir buluşma vakti belirlemeyeceğiz."*
 - Teğâbün 64/7: *"İnkâr edenler, asla diriltilmeyeceklerini **ileri sürdüler** (*zaame*)."*
 - En'âm 6/94: *"...**iddia ettiğiniz** (*zeamtüm*) ortaklarınızı yanınızda görmüyoruz."*
 
 Dört yerde de kelime, Kur'an'ın **reddettiği** bir iddia için kullanılıyor. Yani *za'm*, Kur'an'ın sözlüğünde neredeyse teknik bir terim haline gelmiş: dayanaksız iddianın adı.
 
-Ve dikkat edilirse burada üçüncüsü Teğâbün'dür — Münâfikûn'dan hemen sonraki sûre. Üç komşu sûre aynı kelime ailesini paylaşıyor.
+Ve dikkat edilirse burada üçüncüsü Teğâbün'dür — Münâfikûn'dan hemen sonraki sûre. Cum'a ile Teğâbün aynı kelime ailesini paylaşıyor.
 
 Arap dilinde *za'm* kelimesinin güvenilmezliğini bildiren yaygın bir söz vardır; hadis külliyatında da bu anlamda bir rivayet nakledilir. Lafzını ve kaynağını burada kesin olarak vermiyorum, çünkü emin değilim. Ancak kelimenin dildeki yerinin bu olduğu, sözlüklerin ortak kaydıdır.
 

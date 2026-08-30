@@ -12,7 +12,7 @@
 | **IV** | 36-52 | Yeter mi sorusu, umutsuzluğun yasaklanması | *Ve lâkinne eksera'n-nâsi lâ ya'lemûn* (52) |
 | **V** | 53-75 | Rahmet çağrısı ve iki alay | *Ve kīle'l-hamdü lillâhi rabbi'l-âlemîn* (75) |
 
-**Sûrenin omurgası *ihlâs*tır — yani dinin katıksız kılınması.** Kelime ilk on ayette **üç kez** geçiyor (2, 3, 11) ve sûrenin geri kalanı bu tek kavramın etrafında dönüyor.
+**Sûrenin omurgası *ihlâs*tır — yani dinin katıksız kılınması.** Kelime sûrenin başında **üç kez** geçiyor (2, 3, 11) ve sûrenin geri kalanı bu tek kavramın etrafında dönüyor.
 
 **Ve sûre ikilerle kurulmuştur:** iki insan tipi (8-9), iki tabaka (16), iki temsil (29), iki grup (71 ve 73), iki üfürüş (68). **Sûrenin adı da bir çokluk değil, *bölünme* bildiriyor.**
 
@@ -63,7 +63,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin yapısıdır:** ayet iddiayı doğrudan reddetmeden önce, **iddianın kendi mantığı içinde sonucunu gösteriyor** — böyle bir şey olsaydı, seçilen yine **yaratılanlardan** biri olurdu. **Yani "çocuk" kavramı, yaratılmışlık kategorisinin dışına çıkamıyor.**
 
-**ٱصْطَفَىٰ** — kök **ص-ف-و**: saflaştırmak, ayıklayarak seçmek. **Kökün *ihlâs* ile aynı alanda olduğu kaydedilmeye değer:** sûrenin ilk üç ayeti *hâlis* kelimesiyle kurulmuştu (ص-ل-ص değil, **خ-ل-ص**), burada **ص-ف-و** geliyor. **İki kök de "karışıktan ayırma" resmi taşıyor.**
+**ٱصْطَفَىٰ** — kök **ص-ف-و**: saflaştırmak, ayıklayarak seçmek. **Kökün *ihlâs* ile aynı alanda olduğu kaydedilmeye değer:** sûrenin ilk üç ayeti *hâlis* kelimesiyle kurulmuştu (**خ-ل-ص**), burada **ص-ف-و** geliyor. **İki kök de "karışıktan ayırma" resmi taşıyor.**
 
 **ٱلْوَٰحِدُ ٱلْقَهَّار** — bu iki isim `040-gafir.md` 40/16'da birlikte işlendi. **Oraya dayanıyorum.**
 
@@ -391,6 +391,18 @@
 
 ---
 
+## 39/41 — إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ لِلنَّاسِ بِٱلْحَقِّ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ
+
+"Biz sana kitabı, **insanlar için** hak ile indirdik. Kim doğru yolu bulursa kendi lehine; kim saparsa kendi aleyhine sapar. **Sen onların üzerinde bir vekil değilsin.**"
+
+**لِلنَّاسِ** — "insanlar için". **Muhatap daraltılmıyor.**
+
+**وَمَآ أَنتَ عَلَيْهِم بِوَكِيل** — *vekîl*: kök **و-ك-ل**, bir işi üstlenip yürüten, sorumluluğu taşıyan.
+
+**Sınır burada açıkça çiziliyor** ve on dokuzuncu ayetteki soruyu (*e-fe-ente tunkızü men fi'n-nâr*) hükme bağlıyor. **`046-ahkaf.md` 46/35'te (*belâğ*) ve `050-kaf.md` 50/45'te (*ve mâ ente aleyhim bi-cebbâr*) aynı sınır işlendi.** **Üç sûre aynı şeyi üç ayrı kelimeyle söylüyor: ulaştırma, zorlayıcı olmama, vekil olmama.**
+
+---
+
 ## 39/42 — ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى
 
 "Allah, ölüm vakti gelen canları alır; **ölmeyeni de uykusunda.** Sonra **hakkında ölüm hükmü verdiğini tutar**, ötekini **belirli bir süreye kadar salıverir.**"
@@ -411,18 +423,6 @@
 **Bunu kendi okumam olarak kaydediyorum:** ayet, her gece yaşanan bir şeyi (uyku) ölümle aynı kategoriye koyarak **delili günlük hayata indiriyor.** İnsan her gece bilinçsiz kalıyor ve geri dönüyor; **dönüşün kendisi bir izin olarak anlatılıyor.**
 
 **أَجَلٍ مُّسَمًّى** — "adı konmuş süre". **`046-ahkaf.md` 46/3'te aynı terkip işlendi** (evrenin süresi için) — **burada aynı ifade tek bir insan için kullanılıyor.**
-
----
-
-## 39/41 — إِنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ لِلنَّاسِ بِٱلْحَقِّ فَمَنِ ٱهْتَدَىٰ فَلِنَفْسِهِۦ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍ
-
-"Biz sana kitabı, **insanlar için** hak ile indirdik. Kim doğru yolu bulursa kendi lehine; kim saparsa kendi aleyhine sapar. **Sen onların üzerinde bir vekil değilsin.**"
-
-**لِلنَّاسِ** — "insanlar için". **Muhatap daraltılmıyor.**
-
-**وَمَآ أَنتَ عَلَيْهِم بِوَكِيل** — *vekîl*: kök **و-ك-ل**, bir işi üstlenip yürüten, sorumluluğu taşıyan.
-
-**Sınır burada açıkça çiziliyor** ve on dokuzuncu ayetteki soruyu (*e-fe-ente tunkızü men fi'n-nâr*) hükme bağlıyor. **`046-ahkaf.md` 46/35'te (*belâğ*) ve `050-kaf.md` 50/45'te (*ve mâ ente aleyhim bi-cebbâr*) aynı sınır işlendi.** **Üç sûre aynı şeyi üç ayrı kelimeyle söylüyor: ulaştırma, zorlayıcı olmama, vekil olmama.**
 
 ---
 
@@ -518,7 +518,7 @@
 
 **Cümlenin ilk kelimesi kaydedilmelidir: *yâ ıbâdî* — "ey kullarım".**
 
-**Yani hitap, aşırı gitmiş olanlara da **kul** diyerek başlıyor.** Sıfat sonra geliyor: *ellezîne esrafû alâ enfüsihim.*
+**Yani hitap, aşırı gitmiş olanlara da kul diyerek başlıyor.** Sıfat sonra geliyor: *ellezîne esrafû alâ enfüsihim.*
 
 **أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ** — kök **س-ر-ف**: ölçüyü aşmak, israf etmek. **Ve edat *alâ* — "kendi aleyhlerine".** Yani aşırılık, başkasına değil **kendine** yapılmış bir şey olarak adlandırılıyor.
 
@@ -535,7 +535,7 @@
 
 **وَٱتَّبِعُوٓا۟ أَحْسَنَ مَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُم** — "Rabbinizden size indirilenin **en güzeline uyun.**"
 
-**On sekizinci ayette müjdelenen kullar *fe-yettebiûne ahsenehû* (en güzeline uyanlar) diye tarif edilmişti.** **Otuz beş ayet sonra aynı ifade bir emre dönüşüyor.**
+**On sekizinci ayette müjdelenen kullar *fe-yettebiûne ahsenehû* (en güzeline uyanlar) diye tarif edilmişti.** **Otuz yedi ayet sonra aynı ifade bir emre dönüşüyor.**
 
 | Ayet | Kalıp |
 |---|---|
@@ -709,7 +709,7 @@
 |---|---|
 | 6 | "Üç karanlık"ın ne olduğu |
 | 23 | *Mesânî* kelimesinin anlamı |
-| 55 | *Fî cenbillâh* terkibinin karşılığı |
+| 56 | *Fî cenbillâh* terkibinin karşılığı |
 | 67 | Ayetteki ifadelerin anlaşılma biçimi (*tefvîz* / *te'vîl*) |
 | 68 | İstisna edilenlerin kimler olduğu |
 | 73 | *Ve fütihat*taki *vâv*ın işi |

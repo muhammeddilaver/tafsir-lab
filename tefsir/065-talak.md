@@ -68,7 +68,7 @@ Sûre iki yarıya ayrılır ve ikinci yarı, birincinin üzerine bir çerçeve g
 | **II. Uyarı** | 8-10 | Emirden çıkan şehirlerin akıbeti; *ûli'l-elbâb*a hitap | Mâzî, anlatı |
 | **III. Kapanış** | 11-12 | Elçi, ayetler, karanlıktan aydınlığa çıkarma; ve yedi kat gök | Şimdiki-geniş zaman, kozmik ölçek |
 
-Ve bölümler arasında birinci bölümün içine serpiştirilmiş bir dördüncü katman var: **takvâ cümleleri.** Sûrede *"kim Allah'a karşı korunursa…"* kalıbı dört kez geçer (2, 4, 5. ayetlerde; bir de 1. ve 10. ayetlerde emir kipiyle *ittekullâh*). Her defasında bir hükmün hemen ardından gelir ve o hükme bir karşılık bağlar:
+Ve bölümler arasında birinci bölümün içine serpiştirilmiş bir dördüncü katman var: **takvâ cümleleri.** Sûrede *"kim Allah'a karşı korunursa…"* kalıbı üç kez geçer (2, 4, 5. ayetlerde; bir de 1. ve 10. ayetlerde emir kipiyle *ittekullâh*). Her defasında bir hükmün hemen ardından gelir ve o hükme bir karşılık bağlar:
 
 | Yer | Vaat |
 |---|---|
@@ -341,7 +341,7 @@ Ayet, altı hükümden sonra, birden başka bir dile geçiyor. Ve bu son cümle,
 
 ### Dizim: çoğuldan tekile geçiş
 
-Bütün ayet çoğuldu: *tallaktüm, tallikū, ahsû, ittekū, lâ tuhricû*. Beş emir, hepsi ikinci çoğul.
+Bütün ayet çoğuldu: *tallaktüm, tallikū, ahsû, ittekū, lâ tuhricû*. Beş fiil, hepsi ikinci çoğul.
 
 Ve son cümlede birden: **لَا تَدْرِى** — "**sen** bilemezsin". İkinci **tekil**.
 
@@ -1417,7 +1417,7 @@ Bu geçiş kopuk görünür ve açıklanması gerekir. Klasik tefsirlerde öneri
 
 ### أَمْر — sûrenin omurga kelimesi
 
-Kelime sûrede **yedi** yerde geçiyor ve her defasında farklı bir ölçekte:
+Kelime sûrede **sekiz** yerde geçiyor ve her defasında farklı bir ölçekte:
 
 | # | Ayet | İfade | Ölçek |
 |---|---|---|---|
@@ -1456,7 +1456,7 @@ Ve kelimenin **ط غ ي (t-ğ-y)** ile akrabalığı anlam düzeyindedir, kök d
 
 **حَاسَبَ — kök ح س ب**, **مُفَاعَلَة (müfâale)** babında. Ve kalıp burada anlamlı: müfâale karşılıklılık bildirir. *Muhâsebe*, iki tarafın hesaplaşmasıdır — birinin ötekine hesap sorması değil, **hesabın karşılıklı görülmesi.**
 
-Ve bu kök, sûrede dördüncü kez geçiyor. 65/2-3'te kurduğum tabloyu hatırlatıyorum: *ahsû* (sayın), *lâ yahtesib* (hesaba katmaz), *hasbüh* (ona yeter), ve şimdi *hâsebnâhâ* (hesaba çektik).
+Ve bu kök, sûrede üçüncü kez geçiyor. 65/2-3'te kurduğum tabloyu hatırlatıyorum: *lâ yahtesib* (hesaba katmaz), *hasbüh* (ona yeter), ve şimdi *hâsebnâhâ* (hesaba çektik).
 
 **Sûre bir hesap dili kurmuştu ve burada onu kapatıyor.** İnsanın saydığı süre, insanın sayamadığı kaynak, insana yeten makam — ve en sonda, insanın hesabının görüldüğü yer.
 

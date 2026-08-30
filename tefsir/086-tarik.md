@@ -88,7 +88,7 @@ Kâria sûresi bölümünde **ق-ر-ع** kökünü ele almıştık ve orada kayd
 | Kur'an'daki kullanımı | Kıyametin adı | Gece gelenin adı |
 | Vurgusu | Vuruşun **kendisi** | Vurmak zorunda olan **gelen** |
 
-İki kökün ilk iki harfi farklıdır ve bunlar ayrı köklerdir; aralarında türeme ilişkisi kurmuyorum. Ama anlam alanlarının bu kadar örtüşmesi, Arapçanın "yol" kavramını nereden ürettiğini gösteriyor: **yol, üzerine vurula vurula oluşan şeydir.** İki kök de aynı yerden yola çıkıyor, aynı yere varıyor.
+İki kökün birinci ve üçüncü harfi farklıdır ve bunlar ayrı köklerdir; aralarında türeme ilişkisi kurmuyorum. Ama anlam alanlarının bu kadar örtüşmesi, Arapçanın "yol" kavramını nereden ürettiğini gösteriyor: **yol, üzerine vurula vurula oluşan şeydir.** İki kök de aynı yerden yola çıkıyor, aynı yere varıyor.
 
 Farkları ise sûrelerin farkını belirliyor. *Kâria*, ism-i fâildir ve vuruşun kendisini adlandırır: gelen değil, gelişin darbesi. Bu yüzden Kâria sûresinde kelime sûrenin adı olarak üç kez tekrarlanır ve sonra bir daha hiç geçmez — vuruş bir kez olur ve biter.
 

@@ -2,15 +2,16 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { LOCALE, NS, ROUTES, T, type Lang } from "@/lib/i18n";
 
 type Kayit = { no: number; name: string; id: string; ayah?: string; ts: number };
 
-const POS = /^tefsir:pos:(\d+)$/;
-
-/** En son okunan yer. tefsir:last silinmis olabilir diye kayitlar taranir. */
-function sonKayit(): Kayit | null {
+/** En son okunan yer. <ns>last silinmis olabilir diye kayitlar taranir. */
+function sonKayit(lang: Lang): Kayit | null {
+  const ns = NS[lang];
+  const POS = new RegExp(`^${ns}pos:(\\d+)$`);
   try {
-    const son = JSON.parse(localStorage.getItem("tefsir:last") || "null") as Kayit | null;
+    const son = JSON.parse(localStorage.getItem(`${ns}last`) || "null") as Kayit | null;
     if (son?.no && son.id) return son;
     const hepsi: Kayit[] = [];
     for (let i = 0; i < localStorage.length; i++) {
@@ -25,29 +26,33 @@ function sonKayit(): Kayit | null {
   }
 }
 
-function neZaman(ts: number) {
+function neZaman(ts: number, lang: Lang) {
+  const t = T[lang];
   const gun = Math.floor((Date.now() - ts) / 86400000);
-  if (gun <= 0) return "bugün";
-  if (gun === 1) return "dün";
-  if (gun < 30) return `${gun} gün önce`;
-  return new Date(ts).toLocaleDateString("tr-TR", { day: "numeric", month: "long" });
+  if (gun <= 0) return t.today;
+  if (gun === 1) return t.yesterday;
+  if (gun < 30) return t.daysAgo(gun);
+  return new Date(ts).toLocaleDateString(LOCALE[lang], { day: "numeric", month: "long" });
 }
 
-export default function ContinueCard() {
+export default function ContinueCard({ lang }: { lang: Lang }) {
   const [kayit, setKayit] = useState<Kayit | null>(null);
+  const t = T[lang];
 
-  useEffect(() => setKayit(sonKayit()), []);
+  useEffect(() => setKayit(sonKayit(lang)), [lang]);
 
   if (!kayit) return null;
 
   return (
-    <Link className="continue" href={`/sure/${kayit.no}#${kayit.id}`}>
-      <span className="continue-k">Kaldığınız yer</span>
+    <Link className="continue" href={`${ROUTES[lang].sura}/${kayit.no}#${kayit.id}`}>
+      <span className="continue-k">{t.continueKicker}</span>
       <strong>
         {kayit.name}
         {kayit.ayah ? ` · ${kayit.ayah}` : ""}
       </strong>
-      <span className="continue-m">{neZaman(kayit.ts)} · okumaya devam et →</span>
+      <span className="continue-m">
+        {neZaman(kayit.ts, lang)} · {t.continueGo}
+      </span>
     </Link>
   );
 }

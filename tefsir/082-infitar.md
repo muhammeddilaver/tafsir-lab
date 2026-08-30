@@ -888,7 +888,7 @@ Sûrenin ses yapısında burada dikkat çekici bir şey oluyor.
 
 Yani sûrenin kafiyesi iki ayet boyunca **"seni"** oluyor. Ve o iki ayet, tam olarak muhatabın yapılışını anlatan iki ayettir.
 
-Dahası, 6. ayetin içinde de aynı ses üç kez geçer: *ğarra-**ke** bi-rabbi-**ke*** ve devamında *haleka-**ke**, sevvâ-**ke**, adele-**ke**, rakkebe-**ke**.* Altı ayetlik bir kesitte muhatap zamiri altı kez tekrarlanıyor ve ikisinde ayet sonunu tutuyor.
+Dahası, 6. ayetin içinde de aynı ses iki kez geçer: *ğarra-**ke** bi-rabbi-**ke*** ve devamında *haleka-**ke**, sevvâ-**ke**, adele-**ke**, rakkebe-**ke**.* Üç ayetlik bir kesitte muhatap zamiri altı kez tekrarlanıyor ve ikisinde ayet sonunu tutuyor.
 
 **Bunu bir mucize iddiası olarak değil, biçim ile içeriğin uyumu olarak kaydediyorum:** konusu "sen" olan iki ayetin sesinin de "sen" olması, kısa Mekkî sûrelerde sık görülen bir tutarlılıktır. Hümeze bölümünde aynı türden bir gözlem yapılmıştı.
 
@@ -946,7 +946,7 @@ Ayetin ikinci dikkat çekici tarafı zamirdir.
 
 6-8. ayetler **tekil** hitap kullanıyordu: *ğarra**ke**, rabbi**ke**, haleka**ke**, sevvâ**ke**, adele**ke**, rakkebe**ke**.*
 
-9. ayet **çoğula** geçiyor: *tükezzibû**ne*** — "siz yalanlıyorsunuz". Ve bu çoğulluk sûrenin sonuna kadar sürecek: *aleyküm* (10), *tef'alûn* (12).
+Dokuzuncu ayet **çoğula** geçiyor: *tükezzibû**ne*** — "siz yalanlıyorsunuz". Ve bu çoğulluk sûrenin sonuna kadar sürecek: *aleyküm* (10), *tef'alûn* (12).
 
 Bu geçişin izahları:
 
@@ -1180,7 +1180,7 @@ Ve bu, kayıt tutan insanlar için bir ölçü içeriyor. Başkasının hatasın
 | Tekit lâmı + harf | لَفِى | لَفِى |
 | Yer | نَعِيمٍ | جَحِيمٍ |
 
-Beş öğenin dördü aynı, ikisi karşıt. Ve iki karşıt kelime de aynı vezindedir: *naîm* ve *cahîm* — **فَعِيل** kalıbı, aynı ses, aynı hece sayısı.
+Dört öğenin ikisi aynı, ikisi karşıt. Ve iki karşıt kelime de aynı vezindedir: *naîm* ve *cahîm* — **فَعِيل** kalıbı, aynı ses, aynı hece sayısı.
 
 **Bu tam simetri, Kâria sûresinde ele alınan yapının tersidir.** Orada iki grup anlatılırken simetri bilinçli olarak kırılmıştı (Kâria 101/6-9); burada hiç kırılmıyor. Fark anlamlıdır: Kâria'da terazi vardı — ölçülen bir şey — ve ölçünün sonucu farklı biçimlerde anlatılmıştı. Burada ölçü değil, **iki vasıf** karşılaştırılıyor ve vasıflar birbirinin tam karşıtı.
 
@@ -1202,7 +1202,7 @@ Ve Kur'an *birr*i bir yerde açıkça tanımlar; Bakara bölümünde bu tanım v
 
 **Yani ebrâr, Kur'an'ın kendi tanımına göre, inancı davranışa dönüşmüş olanlardır.** Bu, sûrenin dokuzuncu ayetiyle doğrudan bağlantılıdır: orada hesabı yalanlayanlar anıldı; burada onun karşıtı, hesabı davranışına yansıtanlar.
 
-Kelime Kur'an'da genellikle bu bağlamda geçer: *"İyiler, kâfûr katılmış bir kadehten içerler."* (İnsân 76/5), *"Şüphesiz iyilerin kitabı İlliyyûn'dadır."* (Mutaffifîn 83/18). Bir sonraki sûrede aynı kelime beş ayet aralıkla iki kez geçecek.
+Kelime Kur'an'da genellikle bu bağlamda geçer: *"İyiler, kâfûr katılmış bir kadehten içerler."* (İnsân 76/5), *"Şüphesiz iyilerin kitabı İlliyyûn'dadır."* (Mutaffifîn 83/18). Bir sonraki sûrede aynı kelime dört ayet aralıkla iki kez geçecek.
 
 ### ٱلْفُجَّار — füccâr
 

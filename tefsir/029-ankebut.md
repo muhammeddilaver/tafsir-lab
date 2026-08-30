@@ -132,7 +132,7 @@
 
 ### Teklifin yapısı
 
-**Teklif, tehditle değil **güvence** ile kuruluyor:** *velnahmil hatâyâküm* — "günahlarınızı biz taşıyalım."
+**Teklif, tehditle değil güvence ile kuruluyor:** *velnahmil hatâyâküm* — "günahlarınızı biz taşıyalım."
 
 **Ve ayet bunu iki cümleyle çürütüyor:**
 
@@ -203,7 +203,7 @@
 
 ### مَّوَدَّةَ بَيْنِكُمْ — teşhisin yeri
 
-**İbrâhim'in cümlesi, putçuluğu bir inanç meselesi olarak değil, bir **bağ** meselesi olarak teşhis ediyor.**
+**İbrâhim'in cümlesi, putçuluğu bir inanç meselesi olarak değil, bir bağ meselesi olarak teşhis ediyor.**
 
 **مَوَدَّة** — kök **و-د-د**: sevgi, bağlılık. **Kök `042-sura.md` 42/23'te işlendi.**
 
@@ -233,7 +233,7 @@
 
 **وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ** — *nâdî*: **toplantı yeri, meclis.** Kelime, yapılan şeyin **açıkta** yapıldığını bildiriyor.
 
-**Ve İbrâhim'in melekelerle konuşması (31-32) kaydedilmeye değer:** *inne fîhâ Lûtâ · kālû nahnü a'lemü bi-men fîhâ.* **İtiraz ediliyor ve itiraz reddedilmiyor — bilgiyle karşılanıyor.**
+**Ve İbrâhim'in meleklerle konuşması (31-32) kaydedilmeye değer:** *inne fîhâ Lûtâ · kālû nahnü a'lemü bi-men fîhâ.* **İtiraz ediliyor ve itiraz reddedilmiyor — bilgiyle karşılanıyor.**
 
 ### فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ (40)
 
@@ -283,7 +283,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimelerin seçimidir:** örümcek ağı **işlevsiz değildir** — örümcek için gayet işe yarar; avını orada tutar. **Ayetin söylediği şey, ağın *ev* olarak dayanıksız olduğudur.** Yani rüzgâra, yağmura, bir el hareketine karşı.
 
-**Yani benzetme, edinilen dostların **hiçbir işe yaramadığını** değil, **sığınak olamayacağını** söylüyor.** Cümlenin kelimesi *beyt*tir, *sayd* (av) değil.
+**Yani benzetme, edinilen dostların hiçbir işe yaramadığını değil, sığınak olamayacağını söylüyor.** Cümlenin kelimesi *beyt*tir, *sayd* (av) değil.
 
 **وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَٰلِمُونَ** (43) — "**bu örnekleri insanlar için veriyoruz; onları ancak bilenler akleder.**"
 
@@ -355,7 +355,7 @@
 
 ### Tartışmanın biçimi
 
-**Emir bir yasak olarak değil, bir **biçim şartı** olarak kuruluyor:** *illâ billetî hiye ahsen* — **"en güzel olan dışında."** **Yani tartışma yasaklanmıyor; usulü belirleniyor.**
+**Emir bir yasak olarak değil, bir biçim şartı olarak kuruluyor:** *illâ billetî hiye ahsen* — **"en güzel olan dışında."** **Yani tartışma yasaklanmıyor; usulü belirleniyor.**
 
 **Ve bu terkip `041-fussilet.md` 41/34'te işlenmişti:** *idfa' billetî hiye ahsen* — "en güzel olanla sav." **Orada kaydedilen şey buraya taşınabilir: itme fiili duruyor, aracı değişiyor.**
 
@@ -402,7 +402,7 @@
 
 "**Sen bundan önce ne bir kitap okuyordun ne de onu sağ elinle yazıyordun.** Öyle olsaydı, **bâtıl peşinde olanlar** elbette şüpheye düşerlerdi."
 
-**Ayet bir delil kuruyor ve delilin dayanağı bir **yokluk**tur:** ne okuma ne yazma.
+**Ayet bir delil kuruyor ve delilin dayanağı bir yokluktur:** ne okuma ne yazma.
 
 **تَخُطُّهُ بِيَمِينِك** — *hatt*: **çizmek, yazmak.** Ve *bi-yemînik* (sağ elinle) kaydı, yazma fiilinin somut resmini veriyor.
 
@@ -522,7 +522,7 @@
 
 **Kelime kaydedilmeye değer: *el-hayevân*, kök ح-ي-ي.**
 
-**Dilciler bu kalıbın **mübalağa ve tam olma** bildirdiğini kaydeder: "hayatın kendisi, canlılığın en dolu hâli".** Kelime Kur'an'da yalnız burada geçer.
+**Dilciler bu kalıbın mübalağa ve tam olma bildirdiğini kaydeder: "hayatın kendisi, canlılığın en dolu hâli".** Kelime Kur'an'da yalnız burada geçer.
 
 **Ve dizim kaydedilmelidir:** *ve inne'd-dâre'l-âhirate **le-hiye** el-hayevân* — **fasıl zamiri (*hiye*) ile tekit.** Yani "âhiret yurdunda hayat vardır" değil: **"asıl hayat odur."**
 

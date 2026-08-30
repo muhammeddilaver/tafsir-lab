@@ -72,7 +72,7 @@ Bir de şu var: *hadîs*, "kitap" ya da "vahiy" gibi ağır bir kelime değil. K
 
 ### ٱلْغَٰشِيَة — bürüyen
 
-**Kök: ğ-ş-y.** Kökün tahlili Şems bahsinde (91/4) yapıldı; oradaki tespitleri tekrarlamıyorum, sadece özetliyorum: kökün somut anlamı **bir şeyin üstünü kaplamak, sarmak, üzerine gelip bürümek**tir. Türevleri *ğışâve* (göz üzerindeki perde, Bakara 2/7) ve *tağşiye* (bir şeyin üstünü kılıfla örtmek) kökün elle tutulur yanını gösteriyor. Kur'an aynı fiili gecenin gündüzü örtmesi için kullanır (A'râf 7/54).
+**Kök: غ-ش-ي.** Kökün tahlili Şems bahsinde (91/4) yapıldı; oradaki tespitleri tekrarlamıyorum, sadece özetliyorum: kökün somut anlamı **bir şeyin üstünü kaplamak, sarmak, üzerine gelip bürümek**tir. Türevleri *ğışâve* (göz üzerindeki perde, Bakara 2/7) ve *tağşiye* (bir şeyin üstünü kılıfla örtmek) kökün elle tutulur yanını gösteriyor. Kur'an aynı fiili gecenin gündüzü örtmesi için kullanır (A'râf 7/54).
 
 Leyl bahsinde (92/1) buna bir katman eklenmişti ve burada işe yarıyor: kök, **korkunun ve bilinç kaybının** kaplaması için de kullanılır — *"üzerlerine ölüm baygınlığı çökmüş gibi"* (Ahzâb 33/19; Muhammed 47/20'de benzer). Yani örtmek yalnızca görüntüyü değil, **algıyı** da kapatmaktır.
 

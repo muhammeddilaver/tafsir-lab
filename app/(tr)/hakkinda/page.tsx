@@ -1,15 +1,21 @@
 import Link from "next/link";
 import { stats } from "@/lib/content";
+import { ROUTES } from "@/lib/i18n";
+import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Hakkında",
   description: "LLM Tefsir Project nedir, metni kim yazdı, hangi kurallara uyuldu.",
+  alternates: {
+    canonical: ROUTES.tr.about,
+    ...alternates({ tr: ROUTES.tr.about, en: ROUTES.en.about }),
+  },
 };
 
 const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
 
 export default function HakkindaPage() {
-  const s = stats();
+  const s = stats("tr");
   return (
     <div className="wrap">
       <main className="doc">

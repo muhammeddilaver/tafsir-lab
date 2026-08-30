@@ -385,7 +385,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **İki görüş de nakledilir; tercih dayatmıyorum.** **İki görüşün buluştuğu nokta kaydedilmeye değer:** kelimenin çekirdeğinde **çevrilmiş, korunmuş bahçe** fikri vardır.
 
-**Ve zamir kaydedilmelidir: *hüm **fîhâ** hâlidûn* — müennes tekil zamir.** *Firdevs* müzekker sayılır; dilciler zamirin **cennet** kelimesine döndüğünü kaydeder (Kehf 18/107'de terkip *cennâti'l-firdevs*tir).
+**Ve zamir kaydedilmelidir: *hüm fîhâ hâlidûn* — müennes tekil zamir.** *Firdevs* müzekker sayılır; dilciler zamirin **cennet** kelimesine döndüğünü kaydeder (Kehf 18/107'de terkip *cennâti'l-firdevs*tir).
 
 ### Blok sonu — listenin nereye bağlandığı
 
@@ -499,7 +499,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### نُطْفَة
 
-**Kök ن-ط-ف: dilcilerin verdiği çekirdek anlam **damlamak, sızmak**tır.** *Netafe'l-mâ'* — su damladı; *nutfe* — az miktarda su, damla. **Kelime `075-kiyame.md` 75/37'de (*e-lem yekü nutfeten min meniyyin yümnâ*), `076-insan.md` 76/2'de (*min nutfetin emşâc*) ve `040-gafir.md` 40/67'de işlendi.** **Tekrarlamıyorum.**
+**Kök ن-ط-ف: dilcilerin verdiği çekirdek anlam damlamak, sızmaktır.** *Netafe'l-mâ'* — su damladı; *nutfe* — az miktarda su, damla. **Kelime `075-kiyame.md` 75/37'de (*e-lem yekü nutfeten min meniyyin yümnâ*), `076-insan.md` 76/2'de (*min nutfetin emşâc*) ve `040-gafir.md` 40/67'de işlendi.** **Tekrarlamıyorum.**
 
 **USLUP sınırı yukarıda konuldu; kelimenin anlamı bundan ibarettir ve üzerine bir teknik tarif kurulmuyor.**
 
@@ -599,7 +599,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Bir. Edat *sümme*dir** — yani bir öncekiyle arasına aralık konuyor. **Yedi basamağın en büyük aralığı buradadır**, çünkü bu *sümme*den sonra fiil de değişiyor.
 
-**İki. Nesne zamiri **هُ**dur — "onu".** Yani **aynı varlık** devam ediyor. Cümle "başka bir şey yarattık" demiyor; **"onu başka bir yaratılışla inşa ettik"** diyor. **Öznenin sürekliliği zamirle korunuyor.**
+**İki. Nesne zamiri هُdur — "onu".** Yani **aynı varlık** devam ediyor. Cümle "başka bir şey yarattık" demiyor; **"onu başka bir yaratılışla inşa ettik"** diyor. **Öznenin sürekliliği zamirle korunuyor.**
 
 **Üç. *Halkan âhar* — i'râbı üzerinde dilciler ayrılır:**
 
@@ -617,8 +617,8 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Klasik tefsir geleneğinde yaygın olarak nakledilen izahlar şunlardır:**
 
-| İzah | Dayanağı |
-|---|---|
+| # | İzah | Dayanağı |
+|---|---|---|
 | 1 | **Ruhun üflenmesi** | Secde 32/9'daki *ve nefeha fîhi min rûhihî* ile birleştirme |
 | 2 | **Canlanma ve hareket** — cansız bir yığından canlı bir varlığa geçiş | Fiilin (*enşee*) "kurup ayağa dikmek" anlamı |
 | 3 | **İnsanî yetilerin verilmesi** — akıl, konuşma, ayırt etme | Ayetin *ahsenü'l-hâlikīn* ile bitmesi |
@@ -914,7 +914,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **ن-ف-ع** kökü: **fayda.** Kelime çoğul ve sıfatlı geliyor: *menâfiu kesîra* — "birçok fayda". **Ayet saymıyor.**
 
-**Aynı ifade Nahl 16/5'te (*leküm fîhâ **dif'un ve menâfiu*** ve minhâ te'külûn) ve Hac 22/33'te geçer.**
+**Aynı ifade Nahl 16/5'te (*leküm fîhâ dif'un ve menâfiu ve minhâ te'külûn*) ve Hac 22/33'te geçer.**
 
 ### وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ
 
@@ -972,13 +972,13 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ
 
-**Cümle, otuz ikinci ayette **birebir** tekrar edilecek** — orada adı verilmeyen bir elçinin ağzından. **İki davet arasında tek kelime farkı yoktur.**
+**Cümle, otuz ikinci ayette birebir tekrar edilecek** — orada adı verilmeyen bir elçinin ağzından. **İki davet arasında tek kelime farkı yoktur.**
 
 **Ve dizim kaydedilmelidir:** *mâ leküm min ilâhin ğayruh* — olumsuzlama **zâid *min*** ile pekiştirilmiş. Arapçada olumsuz cümlede *min* nekreye girdiğinde **istiğrak** (hiç, asla) bildirir; dilciler bunu düzenli olarak kaydeder. **Yani "başka ilâhınız yok" değil, "hiçbir başka ilâhınız yok."**
 
 **أَفَلَا تَتَّقُونَ** — "sakınmaz mısınız?" **Davet bir soruyla bitiyor, bir tehditle değil.**
 
-**Ve bu soru sûrede dört kez, üç ayrı kalıpla dönecek:** *e-fe-lâ tettekūn* (23, 32), *e-fe-lâ ta'kılûn* (80), *e-fe-lâ tezekkerûn* (85), *e-fe-lâ tettekūn* (87). **Sûrenin sorularının tamamı bu kalıptadır.**
+**Ve bu soru sûrede beş kez, üç ayrı kalıpla dönecek:** *e-fe-lâ tettekūn* (23, 32), *e-fe-lâ ta'kılûn* (80), *e-fe-lâ tezekkerûn* (85), *e-fe-lâ tettekūn* (87). **Sûrenin sorularının tamamı bu kalıptadır.**
 
 ---
 
@@ -1088,7 +1088,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### Duanın kısalığı
 
-**Cümle üç kelimedir ve sûrede otuz dokuzuncu ayette **birebir** tekrar edilecek** — orada adı verilmeyen bir elçinin ağzından.
+**Cümle üç kelimedir ve sûrede otuz dokuzuncu ayette birebir tekrar edilecek** — orada adı verilmeyen bir elçinin ağzından.
 
 **Dizim kaydedilmelidir: *bimâ kezzebûn* — *bâ* burada sebep bildirir** ("beni yalanladıkları için"). Bir başka i'râb da nakledilir: *mâ* masdariyye sayılır ve "yalanlamalarına karşılık" anlamı verilir. **İki i'râb da aynı yere çıkar.**
 
@@ -1401,7 +1401,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ — birebir tekrar
 
-**Yirmi altıncı ayetle **tek harf farkı olmadan** aynıdır.** İki elçi, iki kavim, aynı dua. **Bu, sûre içinde doğrulanabilir bir tekrardır.**
+**Yirmi altıncı ayetle tek harf farkı olmadan aynıdır.** İki elçi, iki kavim, aynı dua. **Bu, sûre içinde doğrulanabilir bir tekrardır.**
 
 **Ve iki duanın aldığı cevap farklıdır ve bu kaydedilmelidir:**
 
@@ -1466,7 +1466,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### تَتْرَا — kök: و-ت-ر
 
-**Kelimenin aslı *vetrâ*dır; baştaki *vâv* *tâ*'ya dönüşmüştür** — dilciler bu değişimi düzenli olarak kaydeder (*vüctün* → *tüctün* gibi).
+**Kelimenin aslı *vetrâ*dır; baştaki *vâv* *tâ*'ya dönüşmüştür** — dilciler bu değişimi düzenli olarak kaydeder.
 
 **Kökün somut anlamı: *vitr* — tek, çift olmayan.** Ve buradan **birbiri ardınca gelme** anlamı doğar.
 
@@ -1584,7 +1584,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Üçüncüsü kaydedilmeye değer:** itiraz burada cinse değil, **toplumsal sıralamaya** dayanıyor.
 
-**Ve edat kaydedilmelidir: *nü'minü **li**-beşerayn*.** Arapçada *âmene bi-* (bir şeye inanmak) ile *âmene li-* (birine güvenmek, sözünü kabul etmek) arasında bir nüans vardır ve dilciler bunu kaydeder. **Buradaki edat *lâm*dır: söz konusu olan, iki kişinin sözünü kabul etmektir.**
+**Ve edat kaydedilmelidir: *nü'minü li-beşerayn*.** Arapçada *âmene bi-* (bir şeye inanmak) ile *âmene li-* (birine güvenmek, sözünü kabul etmek) arasında bir nüans vardır ve dilciler bunu kaydeder. **Buradaki edat *lâm*dır: söz konusu olan, iki kişinin sözünü kabul etmektir.**
 
 ### وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
 
@@ -1592,7 +1592,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Kökün somut anlamı dilcilerce şöyle verilir: *tarîkun muabbed* — çiğnene çiğnene düzleşmiş, yumuşamış yol.** Buradan **boyun eğme, hizmet etme** anlamı gelir.
 
-**Ve kelime burada Allah'a değil, **insanlara** yönelik bir hizmet için kullanılıyor:** *lenâ âbidûn.* **Yani kelime, tapınma anlamıyla sınırlı değildir; hizmet ve tâbiiyet için de kullanılır.** Dilciler bunu kaydeder.
+**Ve kelime burada Allah'a değil, insanlara yönelik bir hizmet için kullanılıyor:** *lenâ âbidûn.* **Yani kelime, tapınma anlamıyla sınırlı değildir; hizmet ve tâbiiyet için de kullanılır.** Dilciler bunu kaydeder.
 
 **Bunu bir dil gözlemi olarak veriyorum:** karşı taraf kendi konumunu, **kimin kime hizmet ettiğine** bakarak kuruyor. **Ve bu, sûrenin ilk ayetindeki *mü'minûn* tarifiyle karşıtlık içindedir:** orada kimlik bir vasıflar listesiyle, burada bir hiyerarşiyle belirleniyor. Bu karşıtlığı kendi okumam olarak kaydediyorum.
 
@@ -1702,8 +1702,8 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Muhatabın kim olduğu üzerinde müfessirler ayrılır:**
 
-| Görüş | Gerekçe |
-|---|---|
+| # | Görüş | Gerekçe |
+|---|---|---|
 | 1 | **Bütün elçiler** — her birine kendi zamanında söylenmiş ortak bir emir | Çoğul hitap |
 | 2 | **Tek bir elçi** (bağlamdaki) — çoğul, tazim ya da genelleme için | Bir önceki ayetlerin tek tek elçileri anması |
 | 3 | **Elçiler üzerinden ümmetlere** — hitap elçileredir, hüküm geneldir | Emrin içeriğinin herkese uyması |
@@ -1759,7 +1759,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ***Sâlih* — kök ص-ل-ح: bozuk olmamak, düzgün ve işe yarar olmak.** *Islâh* — düzeltme; *sulh* — bozuğun onarılması. **Kelime dizinde birçok yerde geçti.**
 
-**Ve dizim kaydedilmelidir: *sâlihan* **nekre**dir** — "bir sâlih (amel)". Belirli değil. **Yani emir bir liste vermiyor.**
+**Ve dizim kaydedilmelidir: *sâlihan* nekredir** — "bir sâlih (amel)". Belirli değil. **Yani emir bir liste vermiyor.**
 
 **إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ** — cümlenin kapanışı **amele** bağlanıyor, yemeğe değil. **Ve *bimâ ta'melûne* öne alınmış** (takdîm): "yaptıklarınızı — bilirim."
 
@@ -1934,7 +1934,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### حَتَّىٰ حِينٍ — ve yirmi beşinci ayetle bağı
 
-**Bu iki kelime, yirmi beşinci ayette **karşı tarafın ağzında** geçmişti:** *fe-terabbasû bihî hattâ hîn* — "bir süre onu gözetleyin".
+**Bu iki kelime, yirmi beşinci ayette karşı tarafın ağzında geçmişti:** *fe-terabbasû bihî hattâ hîn* — "bir süre onu gözetleyin".
 
 | Ayet | Kim söylüyor | Emir | Kimin için |
 |---|---|---|---|
@@ -2073,7 +2073,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Ve dizim kaydedilmelidir: *bi-âyâti rabbihim* öne alınmış.** Yani "inanırlar" değil, "Rablerinin âyetlerine — inanırlar".
 
-**Ve altmış altıncı ayetle karşıtlık kurulacak:** *kad kânet âyâtî tütlâ aleyküm fe-küntüm alâ a'kābiküm tenküsûn.* **Aynı kelime (*âyât*), iki ayrı tavırla.**
+**Ve altmış altıncı ayetle karşıtlık kurulacak:** *kad kânet âyâtî tütlâ aleyküm fe-küntüm alâ a'kābiküm tenkisûn.* **Aynı kelime (*âyât*), iki ayrı tavırla.**
 
 ### وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ
 
@@ -2653,7 +2653,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | **73** | *Sırâtın müstakīm* | **Nekre** — belirsiz |
 | **74** | *Ani**'s-sırât*** | **Ma'rife** — belirli |
 
-**Yetmiş dördüncü ayet, bir önceki ayette anılan yolu **elif-lâm**la geri alıyor.** Arapçada bu, **ahd-i zikrî** denen bir işlemdir: önce belirsiz anılan şey, sonra belirli olarak tekrarlanır. **Dilciler bunu düzenli olarak kaydeder.**
+**Yetmiş dördüncü ayet, bir önceki ayette anılan yolu elif-lâmla geri alıyor.** Arapçada bu, **ahd-i zikrî** denen bir işlemdir: önce belirsiz anılan şey, sonra belirli olarak tekrarlanır. **Dilciler bunu düzenli olarak kaydeder.**
 
 ### نَٰكِبُون — kök: ن-ك-ب
 
@@ -2732,7 +2732,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 | Görüş | Kök | İzah |
 |---|---|---|
-| 1 | **س-ك-ن** | *İsteknee* — X. bâb: **durgunlaşmak, boyun eğmek.** Elif, uzatma için |
+| 1 | **س-ك-ن** | *İstekâne* — X. bâb: **durgunlaşmak, boyun eğmek.** Elif, uzatma için |
 | 2 | **ك-ي-ن / ك-و-ن** | *Kâne*den — **alçalmak, küçülmek**; *el-kevn* (alçak konum) |
 
 **İki görüş de nakledilir; tercih dayatmıyorum.** **İkisinde de anlam yakındır: boyun eğmek, alçalmak.**
@@ -3023,7 +3023,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **İki. Soru kalıbı değişiyor:** birincisi *li-men* (kime ait), ikinci ve üçüncüsü *men* (kim). **Yani birincisi mülkiyeti, ötekiler kimliği soruyor.**
 
-**Üç. Karşılıklar iniyor:** düşünme → sakınma → şaşkınlık. **`023/80` ayetindeki *e-fe-lâ ta'kılûn* ile birlikte dört basamak olur ve orada tablolandı.**
+**Üç. Karşılıklar iniyor:** düşünme → sakınma → şaşkınlık. **23/80 ayetindeki *e-fe-lâ ta'kılûn* ile birlikte dört basamak olur ve orada tablolandı.**
 
 ### سَيَقُولُونَ لِلَّهِ — kıraat farkı
 
@@ -3391,8 +3391,8 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Ayetin lafzıyla sınırlı kalıyorum ve ayet üç şey söylüyor:**
 
-| Ne | Lafız |
-|---|---|
+| # | Ne | Lafız |
+|---|---|---|
 | 1 | **Bir engel vardır** | *Berzah* |
 | 2 | **Ardlarındadır** | *Min verâihim* |
 | 3 | **Bir zamana kadardır** | *İlâ yevmi yüb'asûn* |
@@ -3476,7 +3476,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **س-أ-ل** kökü: **sormak, istemek.** **Kalıp VI. bâbdır (*tesâele*): karşılıklı sormak.**
 
-**Ve aynı fiil Kur'an'da kıyamet sahnelerinde **hem olumlu hem olumsuz** geçer:**
+**Ve aynı fiil Kur'an'da kıyamet sahnelerinde hem olumlu hem olumsuz geçer:**
 
 | Yer | Cümle | Ne diyor |
 |---|---|---|
@@ -3488,8 +3488,8 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Bu, görünürde bir çelişki oluşturur ve müfessirler üzerinde durur. Verilen izahlar şunlardır:**
 
-| İzah | Gerekçe |
-|---|---|
+| # | İzah | Gerekçe |
+|---|---|---|
 | 1 | **Farklı vakitler** — sûra üflendiği anda sormazlar; sonra sorarlar | Ayet *yevmeizin* (o gün) kaydını koyuyor |
 | 2 | **Farklı içerikler** — soy bağı üzerinden bir şey **isteme**leri olmaz; hâl sorma olur | *Tesâül* fiilinin "isteme" anlamı |
 | 3 | **Farklı taraflar** — sormayanlar başka, soranlar başkadır | Bağlam farkı |
@@ -3921,7 +3921,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Ve bu ayet, dizide işlenen bir başka kelimeyle karşılaştırılmalıdır.**
 
-**`044-duhan.md` 44/38'de (*ve mâ halakne's-semâvâti ve'l-arda ve mâ beynehümâ **lâibîn***) ayrıntılı işlendi.** Orada kaydedilenler:
+**`044-duhan.md` 44/38'de (*ve mâ halakne's-semâvâti ve'l-arda ve mâ beynehümâ lâibîn*) ayrıntılı işlendi.** Orada kaydedilenler:
 
 > **Cümle "yaratmadık" demiyor.** *Mâ halaknâ … lâibîn* — olumsuzlanan şey **fiil değil, fiilin hâlidir.**
 

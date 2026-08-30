@@ -2,7 +2,7 @@
 
 Otuz ayet. Mekkî. Adını ilk ayetteki **ٱلْمُلْك** kelimesinden alıyor; ilk kelimesi dolayısıyla **Tebâreke** diye de anılır.
 
-Sûre bir yüceltme cümlesiyle açılıyor ve bir bardak suyla kapanıyor. Arada geçen şey şudur: mülkün kimde olduğu iddia edilir, sonra o iddia için deliller sıralanır — gök, ölüm, yer, kuşlar, rızık — ve her delil bir soruya bağlanır. Sûre boyunca muhataba yöneltilen soru sayısı, verilen haber sayısından fazladır.
+Sûre bir yüceltme cümlesiyle açılıyor ve bir bardak suyla kapanıyor. Arada geçen şey şudur: mülkün kimde olduğu iddia edilir, sonra o iddia için deliller sıralanır — gök, ölüm, yer, kuşlar, rızık — ve her delil bir soruya bağlanır. Sûre boyunca muhataba on iki soru yöneltilir ve bu sorular sûrenin omurgasını kurar.
 
 Ve sorular tek bir kalıba oturur: **"Peki ya o olmasaydı, kim?"** Kim tutuyor kuşları? Kim koruyor sizi? Kim veriyor rızkı? Kim getirir suyu?
 
@@ -29,7 +29,7 @@ Ve sorular tek bir kalıba oturur: **"Peki ya o olmasaydı, kim?"** Kim tutuyor 
 
 ## Bir ses gözlemi
 
-Sûrenin ilk yirmi bir ayetinin hepsi aynı sesle biter: uzun bir ünlü ve ardından **rа̂** — *kadîr, ğafûr, futûr, hasîr, se'îr, masîr, tefûr, nezîr, kebîr, se'îr, se'îr, kebîr, sudûr, habîr, nüşûr, temûr, nezîr, nekîr, basîr, ğurûr, nüfûr.* Yirmi bir ayet boyunca hiç kırılmayan bir kafiye.
+Sûrenin ilk yirmi bir ayetinin hepsi aynı sesle biter: uzun bir ünlü ve ardından **râ** — *kadîr, ğafûr, futûr, hasîr, se'îr, masîr, tefûr, nezîr, kebîr, se'îr, se'îr, kebîr, sudûr, habîr, nüşûr, temûr, nezîr, nekîr, basîr, ğurûr, nüfûr.* Yirmi bir ayet boyunca hiç kırılmayan bir kafiye.
 
 Ve tam yirmi ikinci ayette kırılıyor: **müstakîm.**
 
@@ -485,7 +485,7 @@ Yani göz hem başaramadı hem tükendi. Boş dönmek başka, boş ve bitkin dö
 
 Burada bir yanlış anlama ihtimali var ve baştan kapatmak gerekiyor.
 
-**Ayet, "bakmayın, boşuna" demiyor.** Tersini yapıyor: bakmayı **emrediyor**, hem de tekrar tekrar. Emir kipi iki ayette üç kez geliyor (*fe'rci'*, *sümme'rci'*).
+**Ayet, "bakmayın, boşuna" demiyor.** Tersini yapıyor: bakmayı **emrediyor**, hem de tekrar tekrar. Emir kipi iki ayette iki kez geliyor (*fe'rci'*, *sümme'rci'*).
 
 Yenilgiye uğrayan şey **arama değil, kusur bulma iddiası**dır. Göz gönderiliyor ve bulamıyor; bulamaması, bakmanın değersizliğini değil, **bakılan şeyin sağlamlığını** gösteriyor.
 
@@ -1111,7 +1111,7 @@ Bakara 2/22 bahsinde *firâş* (döşek) işlenmiş ve şu kayıt düşülmüşt
 
 ### فَٱمْشُوا۟ — yürüyün
 
-Emir kipi. Ve sûrenin ilk emri budur — dördüncü ayetteki "bak" emrinden sonra ikinci emir.
+Emir kipi. Ve bu, sûredeki üçüncü emirdir — üçüncü ve dördüncü ayetlerdeki "bak" emirlerinden sonra. İlk ikisi göze verilmişti; bu, ayağa.
 
 **مَشَى — kök م-ش-ي.** Yürümek. Kelimenin altında **ayakla, adım adım gitmek** vardır; koşmak (*seâ*, *cerâ*) ya da yolculuk etmek (*sâra*) değil. Gündelik, sıradan, yavaş hareket.
 
@@ -1641,7 +1641,7 @@ Ve Ğâşiye bahsinde kaydedilen tespit burada tersinden işliyor: orada *huşû
 *Kul hüve'llezî enşeeküm ve ceale lekümü's-sem'a ve'l-ebsâra ve'l-ef'ide, kalîlen mâ teşkürûn — kul hüve'llezî zeraeküm fi'l-ardı ve ileyhi tuhşerûn*
 "De ki: Sizi yaratıp geliştiren, size işitme, gözler ve gönüller veren O'dur. Ne kadar az şükrediyorsunuz! De ki: Sizi yeryüzünde çoğaltıp yayan O'dur; O'na toplanacaksınız."
 
-Sûrede ilk kez **قُلْ** (de ki) emri geliyor ve bundan sonra beş kez daha gelecek (23, 24, 26, 28, 29, 30). Yani sûrenin son sekiz ayetinin altısı bu emirle başlıyor.
+Sûrede ilk kez **قُلْ** (de ki) emri geliyor ve bundan sonra beş kez daha gelecek (24, 26, 28, 29, 30). Yani sûrenin son sekiz ayetinin altısı bu emirle başlıyor.
 
 **Bu, sûrenin son bölümünün karakterini belirliyor:** buraya kadar konuşan doğrudan doğruya metnin sahibiydi; şimdi araya elçi giriyor. Ve elçiye söyletilenler, muhatabın itirazlarına verilecek cevaplardır.
 
@@ -2094,7 +2094,7 @@ Ve sayılamayan ölçünün bir özelliği var: **kimse senin yerine ölçemez.*
 
 Ayet iki uçtan da uzak duruyor:
 
-- **"Bakma, sorgulamа"** demiyor — tersine, tekrar tekrar bakmayı emrediyor.
+- **"Bakma, sorgulama"** demiyor — tersine, tekrar tekrar bakmayı emrediyor.
 - **"Bakarsan her şeyi çözersin"** de demiyor — bakışın yorgun döneceğini baştan söylüyor.
 
 **Arada duran tutum şudur: araştır, ama aracının sınırını bil.**

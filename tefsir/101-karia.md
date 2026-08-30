@@ -356,13 +356,13 @@ Sûre bu kalıbı kullanarak insanlığı ikiye bölüyor. Dördüncü ayette *"
 
 Yani sûrenin hareketi şudur: **tek → iki.** Önce herkes aynı hale gelir (kelebekler), sonra ikiye ayrılır (terazi).
 
-Ve şunu belirtmek gerekiyor: **sûre kimin hangi tarafta olduğunu söylemiyor.** Ölçütü veriyor, listeyi vermiyor. Bu, bu tefsirin USLUP'unda kayıtlı olan ilkeyle uyumludur: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
+Ve şunu belirtmek gerekiyor: **sûre kimin hangi tarafta olduğunu söylemiyor.** Ölçütü veriyor, listeyi vermiyor. Bu, bu tefsirin `USLUP.md`'de kayıtlı olan ilkeyle uyumludur: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
 
 ### ثَقُلَتْ — ağır gelmek
 
 **Kök: ث-ق-ل** — ve bu, iki sûre önce Zilzâl'de iki kez geçen kökün ta kendisidir.
 
-Üç sûrede kökün seyri:
+Üç yerde kökün seyri:
 
 | Yer | Kelime | Ne için |
 |---|---|---|
@@ -378,7 +378,7 @@ Bunu mushaf tertibine dair bir gözlem olarak kaydediyorum; nüzul sırasına da
 
 **Kök: و-ز-ن.** Tartmak. **مِيزَان** — terazi; *mif'âl* vezninde alet ismidir (aslı *miwzân*, *vâv* *yâ*ya dönüşmüştür). Çoğulu **مَوَازِين**.
 
-**Neden çoğul?** İki temel görüş vardır:
+**Neden çoğul?** Üç temel görüş vardır:
 
 | Görüş | İzah | Sonucu |
 |---|---|---|
@@ -596,7 +596,7 @@ Yani bu harf bir anlam taşımıyor; **sesin korunması için** orada.
 
 Kâria'nın *mâ hiyeh*i ile Hâkka'nın bu dizisi aynı gramer olayıdır. Ve iki sûrenin ilk üç ayetinin de aynı kalıpta olduğunu hatırlarsak, iki sûre arasında ses bakımından belirgin bir yakınlık var.
 
-**Bir kıraat notu.** Bu *hâ*nın vakf halinde okunduğunda korunduğunda görüş birliği vardır. Vasl halinde (durmadan devam edildiğinde) korunup korunmayacağı konusunda kıraat imamları arasında fark nakledilir. Hangi imamın hangi tercihte olduğunu kesin veremediğim için isim vermiyorum; anlamı değiştirmiyor.
+**Bir kıraat notu.** Bu *hâ*nın vakf halinde okunduğunda korunduğu konusunda görüş birliği vardır. Vasl halinde (durmadan devam edildiğinde) korunup korunmayacağı konusunda kıraat imamları arasında fark nakledilir. Hangi imamın hangi tercihte olduğunu kesin veremediğim için isim vermiyorum; anlamı değiştirmiyor.
 
 ---
 

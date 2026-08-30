@@ -591,7 +591,7 @@ Kelimenin *husr*'dan (Asr sûresi) farkı ince ama gerçek. **Husr** bir muhaseb
 
 Bu fark ayete bir şey katıyor: nefsini gömen kişi hiçbir şey ummayan biri değildir. Bir şey ummuştur — belki rahat, belki güvenlik, belki görünmemenin huzuru. Kelime, o umudun boşa çıktığını söylüyor.
 
-Kur'an'daki diğer kullanımlar bu tadı doğruluyor: *"Her inatçı zorba hüsrana uğradı"* (İbrâhîm 14/15); *"İftira eden kaybetmiştir"* (Tâhâ 20/61); *"Peygamberler fetih istediler ve her inatçı zorba hüsrana uğradı."*
+Kur'an'daki diğer kullanımlar bu tadı doğruluyor: *"Her inatçı zorba hüsrana uğradı"* (İbrâhîm 14/15); *"İftira eden kaybetmiştir"* (Tâhâ 20/61)
 
 ### دَسَّى — gömmek
 
@@ -682,7 +682,7 @@ Semûd hakkında Kur'an'ın verdiği bilgiler, bütün sûreler bir araya getiri
 - **Deveye zarar vermemeleri emredilmiştir** (A'râf 7/73; Hûd 11/64).
 - **Deveyi kestiler** (A'râf 7/77; Hûd 11/65; Şems 91/14).
 - **Kesme işini bir kişi yapmıştır** — Kamer sûresi tekil fiil kullanır: *"Arkadaşlarını çağırdılar, o da (kılıcı) alıp kesti"* (Kamer 54/29). Şems ise çoğul kullanır: *"onu kestiler"* (91/14).
-- **Helâk edilmişlerdir.** Kullanılan kelimeler sûreden sûreye değişir: *sayha* (korkunç ses — Hûd 11/67), *râcife/sâika* (sarsıntı, yıldırım — A'râf 7/78; Fussilet 41/17), ve Şems'te *demdeme*.
+- **Helâk edilmişlerdir.** Kullanılan kelimeler sûreden sûreye değişir: *sayha* (korkunç ses — Hûd 11/67), *racfe/sâika* (sarsıntı, yıldırım — A'râf 7/78; Fussilet 41/17), ve Şems'te *demdeme*.
 - **Bir kısım rivayette geçen üç günlük mühlet, Kur'an'da da vardır**: *"Yurdunuzda üç gün daha yararlanın"* (Hûd 11/65).
 
 ### Kur'an'ın söylemedikleri

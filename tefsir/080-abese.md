@@ -260,7 +260,7 @@ Bu ayrım kaçırılırsa sûre yanlış okunur. Sûre "fakiri tercih et, zengin
 
 **Kök: ذ-ك-ر.** Hatırlamak, anmak, zikretmek. *Zikr* — anma, öğüt; Kur'an'ın kendi adlarından biri. *Zikrâ* — hatırlatma, ibret. *Tezkira* — hatırlatıcı şey.
 
-**Bu kök sûrenin ikinci omurgasıdır.** 3-12. ayetler arasında dört kez geçer: *yezzekkeru*, *ez-zikrâ*, *tezkira*, *zekera-hû*. Sûrenin merkezinde bir hatırlatma fiili duruyor.
+**Bu kök sûrenin ikinci omurgasıdır.** 4-12. ayetler arasında dört kez geçer: *yezzekkeru*, *ez-zikrâ*, *tezkira*, *zekera-hû*. Sûrenin merkezinde bir hatırlatma fiili duruyor.
 
 Kökün somut anlamı üzerinde bir not: dilcilerin bir kısmı *ذَكَر* (erkek) ve *ذِكْر* (anma) arasında, ayrıca "keskinlik" anlamı taşıyan kullanımlarla (*seyfün zeker* — keskin kılıç) bir bağ kurar. Bu türetme tartışmalıdır; ihtiyat kaydıyla aktarıyorum.
 
@@ -646,7 +646,7 @@ Birinci okuyuş en güçlüdür. Ama ikincisinin bir güzelliği var: soru olara
 
 **Buradaki kalıp *ef'ale* babındadır** ve taaccüb kalıbı olarak okunduğunda "ne kadar çok örtüyor" demektir.
 
-**Ve sûrenin dokusunda bu kök iki uçta duruyor:** on yedinci ayette *mâ ekferah*, kırk ikinci ayette *el-keferatü*. Arada geçen yirmi beş ayet, insana örttüğü şeylerin dökümünü sunuyor: yaratılışı, ölçüsü, yolu, ölümü, kabri, dirilişi, suyu, toprağı, tanesi, üzümü, zeytini, hurması.
+**Ve sûrenin dokusunda bu kök iki uçta duruyor:** on yedinci ayette *mâ ekferah*, kırk ikinci ayette *el-keferatü*. Arada geçen yirmi dört ayet, insana örttüğü şeylerin dökümünü sunuyor: yaratılışı, ölçüsü, yolu, ölümü, kabri, dirilişi, suyu, toprağı, tanesi, üzümü, zeytini, hurması.
 
 **Yani sûre bir suçlamayı açıyor, delilleri sıralıyor, sonra hükmü veriyor.** On yedinci ayet iddianame, 18-32 deliller, kırk ikinci ayet karar. Bu yapıyı sûrenin bütününde tekrar toplayacağım.
 
@@ -855,11 +855,11 @@ Bu, siyakla uyumlu: on yedinci ayetten beri muhatap "el-insân"dır, tekil bir k
 
 **إِلَىٰ harfi** birinciyi öne çıkarıyor. *Nazara ilâ* — bir şeye gözünü çevirmek. *Nazara fî* olsaydı "üzerinde düşünmek" daha baskın olurdu. Yani ayet önce **fiilen bakmayı** istiyor: gerçekten tabağa bakmayı.
 
-Ama arkasından gelen dokuz ayet, bakışın nereye götürmesi gerektiğini gösteriyor — yağmura, toprağa, yarılmaya. Yani ayet gözle bakmayı isteyip düşünceye götürüyor. **Bakış, düşüncenin başlangıç noktası olarak konuyor, yerine geçen bir şey olarak değil.**
+Ama arkasından gelen sekiz ayet, bakışın nereye götürmesi gerektiğini gösteriyor — yağmura, toprağa, yarılmaya. Yani ayet gözle bakmayı isteyip düşünceye götürüyor. **Bakış, düşüncenin başlangıç noktası olarak konuyor, yerine geçen bir şey olarak değil.**
 
 **طَعَام — yemek.** Kök **ط-ع-م**: tatmak, yemek. Bu kök Mâûn 107/3'te (*taâmi'l-miskîn*) işlendi; oradaki not burada da geçerli: kelime hem "yemek" (madde) hem "yedirmek" (fiil) anlamına gelebilir. Burada birinci anlam açıktır.
 
-**Bir başka okuyuş.** Kaynaklarda, "taâm"ın burada mecazen **aldığı bilgi/öğreti** anlamında okunduğu ve "insan neyi, kimden aldığına baksın" diye anlaşıldığı nakledilir. Bu okuyuşun kime ait olduğunda emin olmadığım için isim vermiyorum. Siyak buna izin vermiyor gibi duruyor — arkasından gelen dokuz ayet tamamen tarım anlatıyor. Ama bir ufuk olarak kaydediyorum: insanın içine aldığı şeyin kaynağını sorması, sadece gıdaya ait bir soru değil.
+**Bir başka okuyuş.** Kaynaklarda, "taâm"ın burada mecazen **aldığı bilgi/öğreti** anlamında okunduğu ve "insan neyi, kimden aldığına baksın" diye anlaşıldığı nakledilir. Bu okuyuşun kime ait olduğunda emin olmadığım için isim vermiyorum. Siyak buna izin vermiyor gibi duruyor — arkasından gelen sekiz ayet tamamen tarım anlatıyor. Ama bir ufuk olarak kaydediyorum: insanın içine aldığı şeyin kaynağını sorması, sadece gıdaya ait bir soru değil.
 
 ---
 
@@ -904,8 +904,8 @@ Bu üç kök bu tefsirde ayrı yerlerde işlendi ve şimdi yan yana konabilir.
 
 | Kök | Somut anlamı | İşlendiği yer | Kur'an'daki tipik kullanımı |
 |---|---|---|---|
-| **ف-ل-ق** | Yarmak; kapalı olanın açılıp içinden bir şeyin çıkması | 113-felak | *Fâliku'l-habbi ve'n-nevâ* (taneyi ve çekirdeği yaran, En'âm 6/95); *fâliku'l-isbâh* (sabahı yaran, En'âm 6/96) |
-| **ف-ل-ح** | Toprağı yarmak; buradan *fellâh* (çiftçi) ve *felâh* (kurtuluş) | 001-fatiha, 002-bakara, 091-sems | *Kad efleha men zekkâhâ* (Şems 91/9) |
+| **ف-ل-ق** | Yarmak; kapalı olanın açılıp içinden bir şeyin çıkması | `113-felak.md` | *Fâliku'l-habbi ve'n-nevâ* (taneyi ve çekirdeği yaran, En'âm 6/95); *fâliku'l-isbâh* (sabahı yaran, En'âm 6/96) |
+| **ف-ل-ح** | Toprağı yarmak; buradan *fellâh* (çiftçi) ve *felâh* (kurtuluş) | `001-fatiha.md`, `002-bakara.md`, `091-sems.md` | *Kad efleha men zekkâhâ* (Şems 91/9) |
 | **ش-ق-ق** | Yarmak, ikiye ayırmak | Burada | *Şakakne'l-arda* (Abese 80/26); *inşakkati's-semâ* (İnşikâk 84/1) |
 
 **Üçü ayrı köktür.** Aralarında türetme ilişkisi kurmuyorum; Felak bölümünde *felak* ile *felâh* arasındaki yakınlık için düşülen ihtiyat kaydı burada da geçerlidir. Arapçada anlamca yakın köklerin ilk iki harfinin ortak olması bir örüntüdür ve dil geleneğinde tartışılmıştır; ama bu tartışma kesin sonuca bağlanmış değildir ve buradan bir hüküm çıkarmıyorum.
@@ -957,7 +957,7 @@ Kelimenin seçimi güzel: **galibiyet kökü, ağaçların sıklığını anlatm
 
 Kelimenin ne anlama geldiği kesin değildir. Yaygın izah: **otlak, hayvanların otladığı yeşillik**; bir görüşe göre "insanın yemediği, hayvanın yediği her bitki". Kelime Kur'an'da yalnızca burada geçer ve Arapçada da nadirdir.
 
-Erken dönemde bu kelimenin sorulduğuna ve soranın "bunun peşine düşmek tekellüftür / bilmediğimizi söylemek daha doğrudur" mealinde bir cevap verdiğine dair haberler nakledilir. Bu haberin kime ait olduğu konusunda nakiller ayrılır ve senedi üzerinde tartışma vardır; bu yüzden isim vermiyorum ve nakil olarak sunmuyorum.
+Erken dönemde bu kelimenin sorulduğuna ve sorulanın "bunun peşine düşmek tekellüftür / bilmediğimizi söylemek daha doğrudur" mealinde bir cevap verdiğine dair haberler nakledilir. Bu haberin kime ait olduğu konusunda nakiller ayrılır ve senedi üzerinde tartışma vardır; bu yüzden isim vermiyorum ve nakil olarak sunmuyorum.
 
 Ama haberin ilettiği tavır, bu tefsirin usulüyle örtüşüyor: **anlamı kesin olmayan bir kelimeye kesin anlam giydirmek, tefsir değil eklemedir.** Ayetin işlevi zaten açık — hayvanların otladığı şeyi saymak. Kelimenin tam botanik karşılığını bilmemek, ayetin ne dediğini bilmemek anlamına gelmiyor.
 
@@ -1256,7 +1256,7 @@ Sûre beş bölüm ve iki menteşeden oluşuyor:
 | 1-10 | **Olay** | Bir gelme ve bir yüz çevirme | 3. → 2. şahıs |
 | **11** | *kellâ* | **Menteşe** | |
 | 11-16 | **Metin** | Bu bir hatırlatmadır; nereden geliyor | 3. şahıs |
-| 17-22 | **İnsan** | Beddua ve insanın altı adımlık hikâyesi | 3. şahıs, genel |
+| 17-23 | **İnsan** | Beddua ve insanın altı adımlık hikâyesi | 3. şahıs, genel |
 | **23** | *kellâ* | **Menteşe** | |
 | 24-32 | **Sofra** | Su, toprak, sekiz kalem gıda | 1. çoğul (biz) |
 | 33-42 | **O gün** | Ses, kaçış, iki yüz | 3. şahıs |
@@ -1310,7 +1310,7 @@ Adam istiğnâ istemişti; verilecek.
 | 17 | *mâ ekferah* | İddianame |
 | 42 | *el-keferatü* | Karar |
 
-Arada geçen yirmi beş ayet, delillerin dökümü.
+Arada geçen yirmi dört ayet, delillerin dökümü.
 
 **Beş. Yarma kökleri.** *Şakakne'l-arda* (26) ile *el-fecera* (42): aynı hareket, iki yön. Toprağın yarılması hayat verir, sınırın yarılması hesaba yazılır.
 
@@ -1318,7 +1318,7 @@ Arada geçen yirmi beş ayet, delillerin dökümü.
 
 ### Ses yapısı
 
-Sûre, kısa Mekkî sûrelerin en belirgin ses örgülerinden birine sahip ve kafiye üç kez değişiyor:
+Sûre, kısa Mekkî sûrelerin en belirgin ses örgülerinden birine sahip ve kafiye dört kez değişiyor:
 
 | Ayet | Fasıla | Örnek |
 |---|---|---|
@@ -1326,7 +1326,7 @@ Sûre, kısa Mekkî sûrelerin en belirgin ses örgülerinden birine sahip ve ka
 | 11-16 | **-erah** | *tezkira, zekerah, mükerreme, mutahhara, sefera, berera* |
 | 17-23 | **-erah** | *ekferah, halakah, kadderah, yesserah, akberah, enşerah, emerah* |
 | 24-32 | **-â / -ebbâ** | *taâmih, sabbâ, şakkâ, habbâ, kadbâ, nahlâ, ğulbâ, ebbâ, en'âmiküm* |
-| 33-37 | **-îh** | *es-sâhha, ahîh, ebîh, benîh, yuğnîh* |
+| 33-37 | **-îh** | *ahîh, ebîh, benîh, yuğnîh* |
 | 38-42 | **-erah** | *müsfira, müstebşira, ğabera, katera, el-fecera* |
 
 **Ve kaydedilmesi gereken şey şu: -erah sesi üç kez dönüyor.** 11-16'da metnin kendisi ve taşıyıcıları, 17-23'te insanın hikâyesi, 38-42'de son yüzler. Üç bölüm, aynı ses.

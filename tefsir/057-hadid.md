@@ -2041,7 +2041,7 @@ Bu ayeti okurken düşülen en yaygın hata, onu bir **dünya reddi** olarak anl
 
 **Bir. Benzetmenin unsurları olumludur.** *Ğays* imdada yetişen yağmurdur; bitki gerçekten güzeldir; hayranlık gerçektir. Ayet, dünyanın çekiciliğini bir yanılsama olarak sunmuyor — **gerçek ama geçici** olarak sunuyor.
 
-**İki. Ayet "dünya kötüdür" demiyor; "dünya hayatı **ancak** şunlardır" diyor.** *Ennemâ* kalıbı hasr (sınırlama) bildirir. Yani mesele dünyanın kötülüğü değil, **kapsamının sınırlı olmasıdır.** Bir sınır tespiti, bir değer hükmü değil.
+**İki. Ayet "dünya kötüdür" demiyor; "dünya hayatı ancak şunlardır" diyor.** *Ennemâ* kalıbı hasr (sınırlama) bildirir. Yani mesele dünyanın kötülüğü değil, **kapsamının sınırlı olmasıdır.** Bir sınır tespiti, bir değer hükmü değil.
 
 **Üç. Aynı sûre, dünyada yapılacak işler sıralıyor:** infak (7), savaş (10), borç verme (11), adaletin ayakta tutulması (25). Bunların hepsi dünyada yapılan şeylerdir. Dünyayı reddeden bir metin bunları emretmezdi.
 

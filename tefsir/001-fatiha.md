@@ -191,7 +191,7 @@ Bunu tersinden düşünün. "Âlemlerin Rabbi" dedikten sonra doğrudan "Din gü
 
 ### Hamdin gerekçeleri
 
-Sûrenin ilk dört ayetini bir bütün olarak okuyun: ilk ayet bir hüküm koyuyor ("hamd Allah'a aittir"), sonrakiler bu hükmün gerekçelerini sıralıyor.
+Sûrenin ilk üç ayetini bir bütün olarak okuyun: ilk ayet bir hüküm koyuyor ("hamd Allah'a aittir"), sonrakiler bu hükmün gerekçelerini sıralıyor.
 
 | | Gerekçe |
 |---|---|

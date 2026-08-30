@@ -379,7 +379,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Emirlerin sırası kaydedilmelidir: *lâ terkudû* (kaçmayın) → *irciû* (dönün) → *lealleküm tüs'elûn* (belki sorguya çekilirsiniz).**
 
-**Klasik tefsirlerde bu cümlenin **tehzîl/istihzâ** (alay, azarlama) yollu olduğu yaygın olarak söylenir:** dönmeleri gerçekten istenmiyor; imkânsızlık, emir kipiyle gösteriliyor. **Bunu nakledilen bir izah olarak aktarıyorum.**
+**Klasik tefsirlerde bu cümlenin tehzîl/istihzâ (alay, azarlama) yollu olduğu yaygın olarak söylenir:** dönmeleri gerçekten istenmiyor; imkânsızlık, emir kipiyle gösteriliyor. **Bunu nakledilen bir izah olarak aktarıyorum.**
 
 **Ve dizim bakımından şunu ekliyorum — kendi okumam olarak:** *lealleküm tüs'elûn* fiili **س-أ-ل** kökündendir ve bu kök yirmi üçüncü ayette sûrenin en yoğun cümlesini kuracak: *lâ yüs'elü ammâ yef'alü ve hüm yüs'elûn.* **Aynı fiil, aynı mechûl kalıp. Onuncu ayet grubunda alay yollu söylenen şey, yirmi üçüncü ayette bir hüküm olarak konuyor.** Bu, sûre içinde doğrulanabilir bir lafız ortaklığıdır.
 
@@ -466,7 +466,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **نَقْذِفُ — kök ق-ذ-ف.** Dilcilerin verdiği anlam: **bir şeyi uzağa ve hızla atmak, fırlatmak.** *Kazefe bi'l-hacer* — taşı fırlattı. **Kelime Kur'an'da atılma bildiren yerlerde geçer** ve Nûr sûresinde iftira için kullanılır (*yermûne*/*kazf* terimi buradan gelir): **söz de bir fırlatma sayılır.**
 
-**Ve harfi cer kaydedilmelidir: *nakzifü **bi**'l-hakkı **alâ**'l-bâtıl*.** *Bi* aleti, *alâ* hedefi bildiriyor. **Yani hak, bâtılın *üzerine* atılan bir cisim gibi kurulmuş.**
+**Ve harfi cer kaydedilmelidir: *nakzifü bi'l-hakkı alâ'l-bâtıl*.** *Bi* aleti, *alâ* hedefi bildiriyor. **Yani hak, bâtılın *üzerine* atılan bir cisim gibi kurulmuş.**
 
 **يَدْمَغُ — kök د-م-غ.** **Ve kelime bu tefsirde ilk kez çözümleniyor.**
 
@@ -486,7 +486,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Zehaka* — yok olup gitmek, çıkıp gitmek.** Ve dilcilerin kaydettiği asıl kullanım: ***zehaketi'n-nefs* — can çıktı.** Kur'an bu kullanımı da içerir: *ve tezheka enfüsühüm ve hüm kâfirûn* (Tevbe 9/55, 85).
 
-**Yani *zâhik*, "yanlış" demek değildir. *Zâhik*, **canı çıkmış olan**dır.**
+**Yani *zâhik*, "yanlış" demek değildir. *Zâhik*, canı çıkmış olandır.**
 
 ***Fe-izâ hüve zâhik*** — ve burada **izâ-i fücâiyye** var: "bir de bakarsın." **Sonuç, süreç anlatılmadan geliyor.**
 
@@ -572,7 +572,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve burada nahivcilerin üzerinde durduğu bir incelik var, çünkü cümlenin anlamı buna bağlıdır:**
 
-***İllâ* burada istisnâ değil, sıfattır** — *ğayr* (başka) anlamındadır. **Delili şudur:** *âlihetün* **nekre**dir (belirsiz); Arapçada nekreden sonra gelen *illâ*, çoğunlukla sıfat işlevi görür. **Yani cümle "Allah hariç ilâhlar" değil, "Allah'tan **başka** ilâhlar" demektir.**
+***İllâ* burada istisnâ değil, sıfattır** — *ğayr* (başka) anlamındadır. **Delili şudur:** *âlihetün* **nekre**dir (belirsiz); Arapçada nekreden sonra gelen *illâ*, çoğunlukla sıfat işlevi görür. **Yani cümle "Allah hariç ilâhlar" değil, "Allah'tan başka ilâhlar" demektir.**
 
 **Fark önemsiz değildir ve kaydedilmelidir:**
 
@@ -607,7 +607,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve kapanışta seçilen sıfat, delilin konusuyla birebir örtüşüyor — bunu kendi okumam olarak kaydediyorum.**
 
-***Rabbü'l-arş*** — ve **arş**, Kur'an'da **yönetimin/hükmün** anıldığı yerlerde geçen kelimedir. **Ayet, Allah'ı *Hâlik* (yaratan) ya da *Kādir* (güç yetiren) diye değil, **arşın Rabbi** diye anıyor.**
+***Rabbü'l-arş*** — ve **arş**, Kur'an'da **yönetimin/hükmün** anıldığı yerlerde geçen kelimedir. **Ayet, Allah'ı *Hâlik* (yaratan) ya da *Kādir* (güç yetiren) diye değil, arşın Rabbi diye anıyor.**
 
 **Delil bir *nizam* delilidir; kapanış sıfatı da *yönetim* bildiriyor.** **Yani cümle, kendi konusunu kendi sıfatıyla mühürlüyor.**
 
@@ -627,7 +627,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve bu ayet, yalnız dizimiyle okunmalıdır. Önce fiillerin biçimini kaydediyorum, çünkü tartışmanın çoğu burada başlar ve burada biter.**
 
-**İki fiil de **س-أ-ل** kökündendir ve **ikisi de mechûldür** (edilgen):**
+**İki fiil de س-أ-ل kökündendir ve ikisi de mechûldür (edilgen):**
 
 | Cümle | Fiil | Kip | Öznesi söyleniyor mu |
 |---|---|---|---|
@@ -685,7 +685,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Hâtû* — isim fiil, "getirin" anlamında.** ***Burhân* — kesin, tartışılmaz delil.** Dilciler kelimeyi *berihe* (parlamak, apaçık olmak) ile ilişkilendirir; **burhân, karanlıkta bırakmayan delildir.**
 
-**Ve kaydedilmesi gereken şey, talebin **karşı tarafa** yöneltilmiş olmasıdır.** **Beşinci ayette muhataplar *fe'lye'tinâ bi-âyeh* demişti — "bize bir işaret getirsin".** **Burada aynı yapı tersine dönüyor: *hâtû burhâneküm*.**
+**Ve kaydedilmesi gereken şey, talebin karşı tarafa yöneltilmiş olmasıdır.** **Beşinci ayette muhataplar *fe'lye'tinâ bi-âyeh* demişti — "bize bir işaret getirsin".** **Burada aynı yapı tersine dönüyor: *hâtû burhâneküm*.**
 
 | Ayet | Kim istiyor | Ne istiyor |
 |---|---|---|
@@ -710,7 +710,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### 21/25 — dizinin özeti, dizi başlamadan
 
-**Ve yirmi beşinci ayet, sûrenin kırk sekizinci ayetinde başlayacak olan peygamber dizisinin **hükmünü** önceden veriyor.**
+**Ve yirmi beşinci ayet, sûrenin kırk sekizinci ayetinde başlayacak olan peygamber dizisinin hükmünü önceden veriyor.**
 
 ***Ve mâ erselnâ min kablike min rasûlin illâ nûhî ileyhi…*** — **yedinci ayetin kalıbıyla birebir aynıdır:** *ve mâ erselnâ kableke illâ ricâlen nûhî ileyhim.*
 
@@ -756,7 +756,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Yesbikūnehû bi'l-kavl*** — "sözde O'nun önüne geçmezler". **س-ب-ق kökü: yarışta öne geçmek.**
 
-**Ve dizim nüktesi: sınır *itaat* üzerinden değil, **söz** üzerinden konuyor.** Önce konuşmama, sonra emirle iş görme. **Yani tarif, davranıştan önce ağzı kayda alıyor.**
+**Ve dizim nüktesi: sınır *itaat* üzerinden değil, söz üzerinden konuyor.** Önce konuşmama, sonra emirle iş görme. **Yani tarif, davranıştan önce ağzı kayda alıyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum.**
 
@@ -812,7 +812,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | **رَتْق** | ر-ت-ق | **Bitişik olmak, kapalı olmak, arada açıklık bulunmaması** | *Retaka's-sevb* — **yırtığı dikip kapatmak** |
 | **فَتْق** | ف-ت-ق | **Yarıp ayırmak, dikişi sökmek, açmak** | *Fetaka's-sevb* — **dikişi sökmek, kumaşı ayırmak** |
 
-**İki kelimenin ortak alanı **dikiş**tir.** *Retk*, iki parçayı birleştirip aralarında açıklık bırakmamaktır; *fetk*, birleşmiş olanı **söküp aralamak**tır. **Türkçedeki "fıtık" (fetk) kelimesi de bu köktendir: karın duvarının açılması.**
+**İki kelimenin ortak alanı dikiştir.** *Retk*, iki parçayı birleştirip aralarında açıklık bırakmamaktır; *fetk*, birleşmiş olanı **söküp aralamak**tır. **Türkçedeki "fıtık" (fetk) kelimesi de bu köktendir: karın duvarının açılması.**
 
 **Ve iki kelime de Kur'an'da yalnızca bu ayette geçer.** Bunu bir kelime kaydı olarak veriyorum.
 
@@ -970,7 +970,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Kök `037-saffat.md` 37/143'te ayrıntılı çözümlendi ve orada tam da bu ayet delil olarak anıldı.** Oradaki kayıt:
 
-> **"Kökün asıl anlamı: *suda ya da havada yüzmek, akıp gitmek.* […] Yüzme anlamıyla bağı: yüzen, bulunduğu yerden **uzaklaşıp gider**."**
+> **"Kökün asıl anlamı: *suda ya da havada yüzmek, akıp gitmek.* […] Yüzme anlamıyla bağı: yüzen, bulunduğu yerden uzaklaşıp gider."**
 
 **Oraya dayanıyorum. Ve burada kökün *asıl* anlamı işliyor: *sebh* — yüzmek.**
 
@@ -982,7 +982,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve ayetin en dikkat çekici gramer nüktesi buradadır.**
 
-**Fiil *yesbehûne*dir — vâv-nûn ile, yani **âkıl varlıklar** (akıl sahipleri) için kullanılan çoğul.** Oysa özneler güneş, ay, gece ve gündüzdür.
+**Fiil *yesbehûne*dir — vâv-nûn ile, yani âkıl varlıklar (akıl sahipleri) için kullanılan çoğul.** Oysa özneler güneş, ay, gece ve gündüzdür.
 
 **Nahivcilerin izahı:** akılsız varlıklar, akıl sahiplerine ait bir iş yapıyor gibi anlatıldığında **âkıl muamelesi** görür. Kur'an'da bu birkaç yerde vardır.
 
@@ -1030,7 +1030,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 > **"İki ayet birlikte okunduğunda, göç çağrısının hemen ardına her hâlükârda ölüneceği kaydı düşülmüş oluyor. Yani yer değiştirmek ölümden kaçmak değil — hangi hâlde ölüneceğini seçmek."**
 
-**Ve iki sûrenin farkı, cümlenin **yanına** ne konduğudur:**
+**Ve iki sûrenin farkı, cümlenin yanına ne konduğudur:**
 
 | | **Ankebût 29/56-57** | **Enbiyâ 21/34-35** |
 |---|---|---|
@@ -1046,7 +1046,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve Enbiyâ'nın kattığı asıl şey budur.**
 
-**ب-ل-و kökü:** bir şeyi yıpratarak denemek; *belâ* — eskitmek, yıpratmak. **Sınama, kökü itibarıyla **aşındırarak** ortaya çıkarmaktır.**
+**ب-ل-و kökü:** bir şeyi yıpratarak denemek; *belâ* — eskitmek, yıpratmak. **Sınama, kökü itibarıyla aşındırarak ortaya çıkarmaktır.**
 
 **ف-ت-ن kökü `029-ankebut.md` 29/2-10'da ayrıntılı işlendi** (altını ateşte eritip sınamak) ve `025-furkan.md` 25/20'de kelimenin **insanlar eliyle** geldiği kaydedilmişti. **Oraya dayanıyorum.**
 
@@ -1214,7 +1214,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı beşinci ayettir:** orada muhataplar *âyet* — görünür bir işaret — istemişti. **Burada cevap veriliyor: elimdeki tek şey vahiydir.** Yani ayet, elçinin elindeki aracın **ne olmadığını** da söylüyor.
 
-**`025-furkan.md` 25/56 ve `034-sebe.md` 34/28'de elçiliğin kapsamı iki ayrı kelimeyle veriliyordu; bu ayet ise **aracını** veriyor.** **Üçü birlikte yüz yedinci ayette tablolanacak.**
+**`025-furkan.md` 25/56 ve `034-sebe.md` 34/28'de elçiliğin kapsamı iki ayrı kelimeyle veriliyordu; bu ayet ise aracını veriyor.** **Üçü birlikte yüz yedinci ayette tablolanacak.**
 
 **وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ** — bu cümlenin benzeri `030-rum.md` 30/52'de işlendi: *fe-inneke lâ tüsmiu'l-mevtâ ve lâ tüsmiu's-summe'd-duâ*. **Oraya dayanıyorum.**
 
@@ -1230,7 +1230,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### نَفْحَةٌ — üç kat azaltma
 
-**Ve kırk altıncı ayet, sûrenin en ince dizimlerinden biridir. Cümlede **üç ayrı azaltma** üst üste geliyor:**
+**Ve kırk altıncı ayet, sûrenin en ince dizimlerinden biridir. Cümlede üç ayrı azaltma üst üste geliyor:**
 
 | Öge | Kök | Ne azaltıyor |
 |---|---|---|
@@ -1260,7 +1260,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **و-ز-ن kökü ve *mîzân* kelimesi `057-hadid.md` 57/25'te işlendi.** Orada üç şeyin birlikte indirildiği tablolanmıştı: **kitap, mîzân, demir** — ve *mîzân* **ölçünün aleti** olarak kaydedilmişti. **Oraya dayanıyorum.**
 
-***Mîzân*, *mif'âl* kalıbındadır ve bu kalıp Arapçada **alet ismi** kurar** (*miftâh* — anahtar, *misbâh* — lamba). **Yani kelime, ölçme işini yapan **araç**tır.**
+***Mîzân*, *mif'âl* kalıbındadır ve bu kalıp Arapçada alet ismi kurar** (*miftâh* — anahtar, *misbâh* — lamba). **Yani kelime, ölçme işini yapan araçtır.**
 
 **Ve buradaki çoğul üzerinde ihtilaf vardır:**
 
@@ -1368,7 +1368,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı yukarıdaki tablodur:** dizi, peygamberlerin **başarılarını** değil, **seslerini** kaydediyor. Ve dördünde de cevap **aynı kelimeyle** veriliyor. **Yani sûre, karşılığın kişiye göre değişmediğini dizimiyle gösteriyor.**
 
-**Ve ikinci bir kalıp: üç dua, *ente* ile biten bir sıfatla kapanıyor.**
+**Ve ikinci bir kalıp: üç duanın ikisi, *ente* ile biten bir sıfatla kapanıyor.**
 
 | Ayet | Kim | Kapanış |
 |---|---|---|
@@ -1394,7 +1394,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Oraya dayanıyorum ve tekrarlamıyorum. Buraya Enbiyâ'ya özgü olan şeyi ekliyorum, çünkü çarpıcıdır:**
 
-**Furkān sûresinde bu ad **Kur'an'a** verilmişti. Burada aynı ad **Mûsâ ve Hârûn'a verilene** veriliyor.**
+**Furkān sûresinde bu ad Kur'an'a verilmişti. Burada aynı ad Mûsâ ve Hârûn'a verilene veriliyor.**
 
 | | **Furkān 25/1** | **Enbiyâ 21/48** |
 |---|---|---|
@@ -1434,7 +1434,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Ruşd* — ر-ش-د kökü: doğru yolu bulma, isabet etme.** Karşıtı *ğayy*dır.
 
-**Ve dizim nüktesi kaydedilmelidir: kelime **zamirle tamlanmış** — *ruşde**hû***, "onun ruşdunu".** *Ruşden* (belirsiz) değil.
+**Ve dizim nüktesi kaydedilmelidir: kelime zamirle tamlanmış — *ruşde**hû***, "onun ruşdunu".** *Ruşden* (belirsiz) değil.
 
 **Nahivcilerin izahı:** izâfet burada **ona yakışan, ona özgü olan** anlamını verir. **Yani verilen şey genel bir yetenek değil, *ona ait olan* pay.**
 
@@ -1454,7 +1454,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve şimdi bu bölümün en dikkat çekici olgusuna geliyorum. Tamamen metin verisidir ve sayılabilir.**
 
-**Aynı nesneler, sahne boyunca **beş ayrı adla** anılıyor — ve adlandırma, konuşana göre değişiyor:**
+**Aynı nesneler, sahne boyunca beş ayrı adla anılıyor — ve adlandırma, konuşana göre değişiyor:**
 
 | Ayet | Kelime | Kim söylüyor |
 |---|---|---|
@@ -1469,7 +1469,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **İbrâhim, o nesneleri bir kez bile *ilâh* diye anmıyor.** **Kavim ise bir kez bile *heykel* ya da *put* demiyor.**
 
-**Yani sahnedeki tartışma, daha ilk cümlede **adlandırma** üzerinden başlıyor.** İbrâhim'in sorusu bir bilgi sorusu değildir: *mâ hâzihi't-temâsîl* — "bunlar nedir?" **Soruyu sorarken cevabı zaten adla vermiş oluyor.**
+**Yani sahnedeki tartışma, daha ilk cümlede adlandırma üzerinden başlıyor.** İbrâhim'in sorusu bir bilgi sorusu değildir: *mâ hâzihi't-temâsîl* — "bunlar nedir?" **Soruyu sorarken cevabı zaten adla vermiş oluyor.**
 
 ***Temâsîl* — م-ث-ل kökü, *timsâl*in çoğulu: bir şeyin benzeri, sureti, tasviri.** **Kelime, nesneyi *bir şeyin kopyası* olarak adlandırıyor** — kendi başına bir şey olarak değil.
 
@@ -1534,7 +1534,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | Sonra | *fe-cealnâhümü'l-**esfelîn*** | *fe-cealnâhümü'l-**ahserîn*** (70) |
 | Aynı kök tekrar | — | **Kavim de *keyd* ediyor** (70): *ve erâdû bihî keydâ* |
 
-**Enbiyâ'da kök **iki kez** geçiyor ve iki tarafça da kullanılıyor: önce İbrâhim (57), sonra kavim (70).** **Sâffât'ta yalnız kavim tarafından kullanılıyor.**
+**Enbiyâ'da kök iki kez geçiyor ve iki tarafça da kullanılıyor: önce İbrâhim (57), sonra kavim (70).** **Sâffât'ta yalnız kavim tarafından kullanılıyor.**
 
 **Bunu bir lafız gözlemi olarak kaydediyorum.** Ve şunu ekliyorum: **kelime, bu sûrede bir tarafın tekelinde değil.** Aynı fiil iki yönde işliyor ve sonucu ayıran şey fiilin adı değil, akıbeti oluyor.
 
@@ -1675,7 +1675,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Nükisû* — kök ن-ك-س, mechûl.** **Ve kökün somut anlamı: bir şeyi ters çevirmek, başaşağı etmek.** *Nekese'ş-şey'* — bir şeyin üstünü altına getirdi. *Menkûs* — tersine dönmüş. **Aynı kökten *nüks*: bir hastalığın nüksetmesi, geri dönmesi.**
 
-**Ve fiil **mechûl**dür: *nükisû* — "döndürüldüler".** **Kendi kendilerine dönmediler.**
+**Ve fiil mechûldür: *nükisû* — "döndürüldüler".** **Kendi kendilerine dönmediler.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** altmış dördüncü ayette **kendileri** dönmüştü (*raceû*, malum/etken). Altmış beşinci ayette **döndürüldüler** (*nükisû*, mechûl). **İki fiilin çatısı zıt.**
 
@@ -1703,7 +1703,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Aynı kelime, iki yerde, iki zıt değerlendirme.** **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki bağlamın kendisidir:** kelimeyi kınanır kılan şey kelimenin kendisi değil, **kime söylendiğidir.** Ahkāf'ta hakkı olana söyleniyor; Enbiyâ'da hakkı olmayana.
 
-**Ve *üffin* kelimesinin muhatabı **ikilidir**: *leküm* (size) **ve** *limâ ta'büdûn* (taptıklarınıza).** **Yani ifade hem tapanı hem tapılanı kapsıyor.**
+**Ve *üffin* kelimesinin muhatabı ikilidir: *leküm* (size) ve *limâ ta'büdûn* (taptıklarınıza).** **Yani ifade hem tapanı hem tapılanı kapsıyor.**
 
 **أَفَلَا تَعْقِلُونَ** — **ve bu soru sûrede ikinci kez.** Onuncu ayette metnin kendisi sormuştu; burada İbrâhim soruyor. **Sûre içinde doğrulanabilir bir tekrardır.**
 
@@ -1719,7 +1719,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve altmış sekizinci ayette bir dizim inceliği var.**
 
-**Kavim, ilâhlarına **yardım edilmesini** istiyor: *vensurû âliheteküm*.**
+**Kavim, ilâhlarına yardım edilmesini istiyor: *vensurû âliheteküm*.**
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı kırk üçüncü ayettir:** sûre yirmi beş ayet önce şöyle demişti — *lâ yestatîûne **nasra** enfüsihim* — "kendilerine bile yardım edemezler." **Aynı kök (ن-ص-ر).**
 
@@ -1861,13 +1861,13 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **ٱلْخَبَٰٓئِث** — kök **خ-ب-ث**: **kötü, pis, iğrenç olan.** Karşıtı *tayyib*tir. **Ve kelime çoğul ve belirlidir: *el-habâis*.** **Ayet fiilin ne olduğunu söylemiyor** — Kur'an'ın başka yerlerinde bu kavmin durumu ayrıntılandırılır. **Bu sûre vermiyor; ben de vermiyorum.**
 
-**Ve dizim nüktesi: şehir bir **fiil cümlesi** ile niteleniyor: *kânet ta'melü'l-habâis*.** **Yani şehir, adıyla değil **yaptığıyla** anılıyor — sûrenin on birinci ayetindeki *karyetin kânet zâlimeh* ile aynı kalıp.** **Sûre içinde doğrulanabilir bir tekrardır.**
+**Ve dizim nüktesi: şehir bir fiil cümlesi ile niteleniyor: *kânet ta'melü'l-habâis*.** **Yani şehir, adıyla değil yaptığıyla anılıyor — sûrenin on birinci ayetindeki *karyetin kânet zâlimeh* ile aynı kalıp.** **Sûre içinde doğrulanabilir bir tekrardır.**
 
 **قَوْمَ سَوْءٍ** — **ve bu terkip sûrede iki kez geçiyor: 74 (Lût'un kavmi) ve 77 (Nûh'un kavmi).** **Aynı iki kelime, iki ayrı topluluk için.** **Sayılabilir bir olgudur.**
 
 **وَأَدْخَلْنَٰهُ فِى رَحْمَتِنَا** — **ve bu cümle de sûrede iki kez geçiyor: 75 (Lût) ve 86 (İsmâil, İdrîs, Zülkifl).** **Birebir aynı lafızla.**
 
-**Ve *fî* harfi kaydedilmeye değer: *edhalnâhu **fî** rahmetinâ* — "rahmetimizin **içine** aldık".** **Rahmet, bir mekân gibi tasavvur ediliyor: girilen bir yer.**
+**Ve *fî* harfi kaydedilmeye değer: *edhalnâhu fî rahmetinâ* — "rahmetimizin içine aldık".** **Rahmet, bir mekân gibi tasavvur ediliyor: girilen bir yer.**
 
 ---
 
@@ -1885,7 +1885,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **ٱلْكَرْبِ ٱلْعَظِيمِ** — ***kerb* — kök ك-ر-ب.** **Dilcilerin verdiği anlam: göğsü daraltan, nefesi tıkayan tasa.** *Kürbe* — sıkıntı; *mekrûb* — sıkıntıya boğulmuş. **Ve kökün bir başka türevi *kerebe'ş-şems* — güneşin batmaya yaklaşması: bir şeyin *yaklaşıp sıkıştırması*.**
 
-**Yani kelime, uzaktaki bir tehlikeyi değil, **üzerine gelmiş** bir sıkıntıyı bildiriyor.**
+**Yani kelime, uzaktaki bir tehlikeyi değil, üzerine gelmiş bir sıkıntıyı bildiriyor.**
 
 ### وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ — harfi cerin değişmesi
 
@@ -1893,7 +1893,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Nasara* fiili Arapçada normalde *alâ* ile gelir:** *nasarahû **alâ** adüvvih* — "onu düşmanına karşı destekledi."
 
-**Burada *min* geliyor: *nasarnâhu **mine**'l-kavm*.**
+**Burada *min* geliyor: *nasarnâhu mine'l-kavm*.**
 
 **Nahivcilerin izahı: fiil, *tazmîn* yoluyla başka bir fiilin anlamını yüklenmiştir** — *menea* (korudu) ya da *neccâ* (kurtardı). **Yani cümle "ona karşı yardım ettik" değil, "onu o topluluktan kurtardık" anlamını taşıyor.**
 
@@ -1911,7 +1911,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Nefeşet* — kök ن-ف-ش.** **Bu kök bu tefsirde ilk kez çözümleniyor ve Kur'an'da yalnız burada geçer.**
 
-**Dilcilerin çoğunun kaydettiği anlam: *nefş*, davarın **geceleyin** çobansız olarak otlaması, sürünün dağılıp yayılmasıdır.** **Ve dilciler bunu bir kardeş kelimeyle ayırır:** gündüz başıboş otlamaya *heml* denir. **Yani kelime, olayın **gece** olduğunu tek başına bildiriyor.**
+**Dilcilerin çoğunun kaydettiği anlam: *nefş*, davarın geceleyin çobansız olarak otlaması, sürünün dağılıp yayılmasıdır.** **Ve dilciler bunu bir kardeş kelimeyle ayırır:** gündüz başıboş otlamaya *heml* denir. **Yani kelime, olayın gece olduğunu tek başına bildiriyor.**
 
 **Aynı kökün bir başka türevi kelimenin resmini tamamlıyor: *menfûş* — atılmış, kabartılmış yün.** **`101-karia.md` 101/5'te dağlar için kullanılır:** *ke'l-ıhni'l-**menfûş***. **Kök, "dağılıp kabarmak" resmini taşıyor.**
 
@@ -1921,7 +1921,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### وَكُنَّا لِحُكْمِهِمْ شَٰهِدِينَ — çoğul zamir
 
-**Ve bir gramer nüktesi kaydedilmelidir: hüküm veren **iki** kişidir (*yahkümâni*, tesniye), ama zamir **çoğuldur**: *li-hukm**ihim***.**
+**Ve bir gramer nüktesi kaydedilmelidir: hüküm veren iki kişidir (*yahkümâni*, tesniye), ama zamir çoğuldur: *li-hukm**ihim***.**
 
 **Nahivcilerin izahları:**
 
@@ -1937,7 +1937,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve şimdi bu bölümün en dikkatle okunması gereken cümlesine geliyorum.**
 
-***Fehhemnâ* — II. bâb (*tef'îl*), ف-ه-م kökü.** **Bâbın yükü: bir şeyi **kavratmak**, anlaşılmasını sağlamak.** *Fehime* anlamaktır; *fehhame* anlatmaktır.
+***Fehhemnâ* — II. bâb (*tef'îl*), ف-ه-م kökü.** **Bâbın yükü: bir şeyi kavratmak, anlaşılmasını sağlamak.** *Fehime* anlamaktır; *fehhame* anlatmaktır.
 
 ***-hâ* zamiri müennestir ve *hükm* ya da *kaziyye* (dava) mercine döner.**
 
@@ -1998,14 +1998,14 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***Min be'siküm*** — "**sizin** şiddetinizden".
 
-**Zırh, dışarıdan gelen bir tehlikeye karşı değil, **muhatapların kendi şiddetine** karşı tanımlanıyor.** **Ayet "düşmanınızın gücünden" demiyor.**
+**Zırh, dışarıdan gelen bir tehlikeye karşı değil, muhatapların kendi şiddetine karşı tanımlanıyor.** **Ayet "düşmanınızın gücünden" demiyor.**
 
 | İfade | Kime ait |
 |---|---|
 | *li-tuhsine**küm*** — **sizi** korusun | Muhataplar |
 | *min be'si**küm*** — **sizin** şiddetinizden | **Yine muhataplar** |
 
-**İki zamir de aynı kişilere dönüyor.** **Yani ayet, savaş aletini bir savunma değil, **insanın kendi ürettiği tehlikeye karşı bir tedbir** olarak adlandırıyor.**
+**İki zamir de aynı kişilere dönüyor.** **Yani ayet, savaş aletini bir savunma değil, insanın kendi ürettiği tehlikeye karşı bir tedbir olarak adlandırıyor.**
 
 ***Be's* — ب-أ-س kökü:** şiddet, zorluk, savaştaki güç. **Kelime Kur'an'da hem savaş gücü hem sıkıntı için kullanılır** — ve bu sûrenin on ikinci ayetinde azap için geçmişti: *fe-lemmâ ehassû **be'senâ***. **Aynı kelime, biri Allah'a biri insana nispet edilmiş.** Sûre içinde doğrulanabilir bir tekrardır.
 
@@ -2045,7 +2045,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **`038-sad.md` 38/41-44'te Eyyûb ayrıntılı işlendi.** Orada kaydedilenlerin özeti:
 
-> **"Eyyûb, derdi **şeytana** nispet ediyor: *messeniye'ş-şeytân*. Ama **seslendiği** kişi Rabbidir: *nâdâ rabbeh*. […] Yani cümlede bir sitem yok."**
+> **"Eyyûb, derdi şeytana nispet ediyor: *messeniye'ş-şeytân*. Ama seslendiği kişi Rabbidir: *nâdâ rabbeh*. […] Yani cümlede bir sitem yok."**
 
 **Oraya dayanıyorum. Ve şimdi iki sûreyi yan yana koyuyorum; karşılaştırma tamamen lafız verisidir:**
 
@@ -2071,7 +2071,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve seksen üçüncü ayetin en dikkat çekici yanı budur.**
 
-**Cümlede **hiçbir istek yok.** Yalnız iki bilgi var:**
+**Cümlede hiçbir istek yok. Yalnız iki bilgi var:**
 
 | Parça | Ne bildiriyor |
 |---|---|
@@ -2117,7 +2117,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | ***Kifl* — pay, nasip** | "Pay sahibi" — kendisine bir nasip verilmiş olan |
 | ***Kefâlet* — üstlenme, kefil olma** | "Üstlenen" — bir işi taahhüt eden |
 
-**Ve klasik tefsirlerde bu kişinin **peygamber olup olmadığı** dahi tartışılmıştır.**
+**Ve klasik tefsirlerde bu kişinin peygamber olup olmadığı dahi tartışılmıştır.**
 
 **İhtilafı aktarıyorum, tercih dayatmıyorum.** **Ve Kur'an'ın vermediği hiçbir ayrıntıya — isim, yer, olay — girmiyorum.** **Bu tefsirde İdrîs hakkında da aynı sınır geçerlidir: Kur'an onun hakkında bu sûrede bir olay anlatmıyor.**
 
@@ -2181,7 +2181,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ — ihtilafın merkezi
 
-**Ve bu cümle, klasik tefsirlerde en dikkatle ele alınan yerlerden biridir. İhtilafın kaynağı **ق-د-ر** kökünün iki ayrı anlamıdır.**
+**Ve bu cümle, klasik tefsirlerde en dikkatle ele alınan yerlerden biridir. İhtilafın kaynağı ق-د-ر kökünün iki ayrı anlamıdır.**
 
 | Görüş | *Nakdira aleyh* ne demek | Dayanağı |
 |---|---|---|
@@ -2217,7 +2217,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve orada şu kaydedilmişti:**
 
-> **"Ayet 'tesbih ettiği için' demiyor, 'tesbih edenler**den** olduğu için' diyor. Yani kurtaran şey o andaki bir fiil değil, bir aidiyet."**
+> **"Ayet 'tesbih ettiği için' demiyor, 'tesbih edenlerden olduğu için' diyor. Yani kurtaran şey o andaki bir fiil değil, bir aidiyet."**
 
 **Şimdi Enbiyâ'ya bakıyorum ve iki sûre arasında doğrulanabilir bir örtüşme buluyorum:**
 
@@ -2227,7 +2227,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | Kök | **س-ب-ح** | **س-ب-ح** |
 | Biçim | **Vasıf** — bir gruba aidiyet | **Fiilin kendisi** — söylenen söz |
 
-**Yani Sâffât onun *tesbih edenlerden* olduğunu söylüyor; Enbiyâ o tesbihin **lafzını** aktarıyor.**
+**Yani Sâffât onun *tesbih edenlerden* olduğunu söylüyor; Enbiyâ o tesbihin lafzını aktarıyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin ortak köküdür:** iki sûre çelişmiyor, **birbirini tamamlıyor.** Biri niteliği, öteki metni veriyor. **İki sûrenin birbirine gönderme yaptığı iddiasında değilim; kaydettiğim şey kökün ortaklığıdır.**
 
@@ -2260,7 +2260,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### لَا تَذَرْنِى فَرْدًا — dizinin dördüncü seslenişi
 
-**Ve bu, dizideki dört seslenişin sonuncusudur. Ve ilk üçünden bir yönüyle ayrılıyor: burada bir **talep** var.**
+**Ve bu, dizideki dört seslenişin sonuncusudur. Ve ilk üçünden bir yönüyle ayrılıyor: burada bir talep var.**
 
 | Ayet | Sesleniş | Talep var mı |
 |---|---|---|
@@ -2329,7 +2329,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve dizinin son halkası, en kısa olanıdır: tek ayet.**
 
-**Ve ayetin ilk kaydedilecek yanı şudur: **ad verilmiyor.** Anılan kişi bir ism-i mevsûlle geliyor: *velletî* — "o kadın ki".**
+**Ve ayetin ilk kaydedilecek yanı şudur: ad verilmiyor. Anılan kişi bir ism-i mevsûlle geliyor: *velletî* — "o kadın ki".**
 
 **Bu, sûrenin dizisinde ikinci kez oluyor:**
 
@@ -2360,7 +2360,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### أَحْصَنَتْ — fiilin öznesi
 
-***Ahsanet* — ح-ص-ن kökü, IV. bâb, **etken** (malum).**
+***Ahsanet* — ح-ص-ن kökü, IV. bâb, etken (malum).**
 
 ***Hısn* — kale;** *hasîn* — sağlam, korunaklı. **Kökün çekirdek anlamı: bir şeyi korunaklı kılmak, sağlamlaştırmak.**
 
@@ -2376,15 +2376,15 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **`039-zumer.md` 39/67'de benzer bir izâfet için konan tenzih kaydı burada da geçerlidir:** bu ifadeler Allah'a **cüz, parça ya da organ nispet edecek şekilde anlaşılamaz.**
 
-**Dilcilerin ve müfessirlerin yaygın olarak kaydettiği izah: buradaki izâfet **teşrîf izâfeti**dir** — yani "bizim rûhumuz" derken kastedilen, o şeyin **şerefini** bildiren bir nispettir; Kur'an'da *beytî* (evim), *nâkatullâh* (Allah'ın devesi) gibi terkiplerde aynı yapı vardır. **Bunu nakledilen bir izah olarak aktarıyorum.**
+**Dilcilerin ve müfessirlerin yaygın olarak kaydettiği izah: buradaki izâfet teşrîf izâfetidir** — yani "bizim rûhumuz" derken kastedilen, o şeyin **şerefini** bildiren bir nispettir; Kur'an'da *beytî* (evim), *nâkatullâh* (Allah'ın devesi) gibi terkiplerde aynı yapı vardır. **Bunu nakledilen bir izah olarak aktarıyorum.**
 
 **Ve klasik tefsirlerde *rûh*un ne olduğu tartışılmıştır. Bu tefsirde o tartışmaya girmiyorum; ayetin verdiği şey bir nispettir, bir tanım değil.**
 
 ### ءَايَةً لِّلْعَٰلَمِينَ — tekil "âyet"
 
-**Ve bir gramer nüktesi kaydedilmelidir: iki kişi anılıyor (*cealnâhâ **ve'bnehâ***) ama işaret **tekildir**: *âyeten*, *âyeteyni* değil.**
+**Ve bir gramer nüktesi kaydedilmelidir: iki kişi anılıyor (*cealnâhâ ve'bnehâ*) ama işaret tekildir: *âyeten*, *âyeteyni* değil.**
 
-**Nahivcilerin izahı: ikisi **birlikte tek bir işaret** oluşturmaktadır** — ayrı ayrı iki işaret değil.
+**Nahivcilerin izahı: ikisi birlikte tek bir işaret oluşturmaktadır** — ayrı ayrı iki işaret değil.
 
 **Bunu bir dizim gözlemi olarak kaydediyorum ve ayrıntısına girmiyorum.**
 
@@ -2400,7 +2400,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### Dizinin hükmü
 
-**Ve doksan ikinci ayet, kırk beş ayet süren dizinin **sonucu**dur. Bunu kendi okumam olarak kaydediyorum, dayanağı ayetin sûredeki yeridir:** on altı isim art arda sıralanmış, hiçbiri için ayrı bir din ya da ayrı bir çağrı zikredilmemiştir. **Ve dizi bitince tek bir cümle geliyor.**
+**Ve doksan ikinci ayet, kırk dört ayet süren dizinin sonucudur. Bunu kendi okumam olarak kaydediyorum, dayanağı ayetin sûredeki yeridir:** on altı isim art arda sıralanmış, hiçbiri için ayrı bir din ya da ayrı bir çağrı zikredilmemiştir. **Ve dizi bitince tek bir cümle geliyor.**
 
 **Ayet, *hâzihî* (bu) diyerek geriye işaret ediyor.** **İşaretin kime döndüğü üzerinde ihtilaf vardır:**
 
@@ -2439,11 +2439,11 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Şûrâ'daki kayıt şuydu:**
 
-> **"Ortak olan: zaman kaydı — *min ba'di mâ câehüm*, 'geldikten **sonra**'; sebep — *bağyen beynehum*, 'aralarındaki çekememezlik'."**
+> **"Ortak olan: zaman kaydı — *min ba'di mâ câehüm*, 'geldikten sonra'; sebep — *bağyen beynehum*, 'aralarındaki çekememezlik'."**
 
 **Bakara'daki kayıt şuydu:**
 
-> **"Yani ayrılığın sebebi bilgisizlik olarak gösterilmiyor. Metin açıkça söylüyor: *min ba'di mâ câethümü'l-beyyinât* — deliller geldikten **sonra**."**
+> **"Yani ayrılığın sebebi bilgisizlik olarak gösterilmiyor. Metin açıkça söylüyor: *min ba'di mâ câethümü'l-beyyinât* — deliller geldikten sonra."**
 
 **Şimdi üç ayeti yan yana koyuyorum:**
 
@@ -2473,7 +2473,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### كُفْرَان — emeğin örtülmesi
 
-***Küfrân* — ك-ف-ر kökü, *fu'lân* kalıbı.** **Ve kökün çekirdek anlamı **örtmek**tir:** *kâfir*, tohumu örten çiftçi için de kullanılır. **Kalıp, kökün çekirdek anlamını bir işlem hâline getiriyor: *küfrân* — bir şeyin üzerini örtmek, yok saymak.**
+***Küfrân* — ك-ف-ر kökü, *fu'lân* kalıbı.** **Ve kökün çekirdek anlamı örtmektir:** *kâfir*, tohumu örten çiftçi için de kullanılır. **Kalıp, kökün çekirdek anlamını bir işlem hâline getiriyor: *küfrân* — bir şeyin üzerini örtmek, yok saymak.**
 
 **Ve ayetin nesnesi kaydedilmelidir: örtülmesi reddedilen şey iman değil, *sa'y*tir** — çaba.
 
@@ -2481,7 +2481,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı kelimenin seçimidir:** ayet "ameli boşa gitmez" demiyor. ***Çabası*** örtülmez diyor. **Yani karşılık, sonuca değil, harcanan emeğe bağlanmış.**
 
-**وَإِنَّا لَهُۥ كَٰتِبُونَ** — **ve *lehû* harfi cerinde bir incelik var: "onun **lehine** yazıcılarız."** *Aleyhi* değil, *lehû*. **Yani kayıt, kişinin aleyhine değil lehine tutuluyor.**
+**وَإِنَّا لَهُۥ كَٰتِبُونَ** — **ve *lehû* harfi cerinde bir incelik var: "onun lehine yazıcılarız."** *Aleyhi* değil, *lehû*. **Yani kayıt, kişinin aleyhine değil lehine tutuluyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum.**
 
@@ -2521,7 +2521,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **حَدَب** — kök **ح-د-ب**: **yükselti, tümsek, sırt gibi kabaran yer.** *Ahdeb* — kambur. **Kelimenin resminde bir *kabarma* var.**
 
-**يَنسِلُون** — kök **ن-س-ل**: **hızlı ve arka arkaya ilerlemek.** **Ve aynı kökten *nesl* — döl, soy: arka arkaya gelen.** **Yani fiil, tek tek değil **art arda** gelmeyi bildiriyor.**
+**يَنسِلُون** — kök **ن-س-ل**: **hızlı ve arka arkaya ilerlemek.** **Ve aynı kökten *nesl* — döl, soy: arka arkaya gelen.** **Yani fiil, tek tek değil art arda gelmeyi bildiriyor.**
 
 **Bunu bir kelime kaydı olarak veriyorum.**
 
@@ -2549,7 +2549,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **شَٰخِصَة** — kök **ش-خ-ص**: **bir şeyin yerinden kalkıp yükselmesi, bir yere dikilip kalması.** *Şahs* — uzaktan görülen dikili karaltı. **Ve göz için kullanıldığında: kırpılmadan bir noktaya dikilmek.**
 
-**Ve dizim nüktesi: *fe-izâ **hiye** şâhısatün ebsâru…*** — nahivciler buradaki *hiye*yi **zamîrü'ş-şe'n** (durum zamiri) sayar: "işte o zaman, durum şu ki…". **Ve *izâ*, yine fücâiyyedir: "bir de bakarsın."**
+**Ve dizim nüktesi: *fe-izâ hiye şâhısatün ebsâru…*** — nahivciler buradaki *hiye*yi **zamîrü'ş-şe'n** (durum zamiri) sayar: "işte o zaman, durum şu ki…". **Ve *izâ*, yine fücâiyyedir: "bir de bakarsın."**
 
 **بَلْ كُنَّا ظَٰلِمِينَ** — **ve sûrenin nakaratı üçüncü kez.** **Ama burada bir ek var ve kaydedilmelidir: itiraf düzeltiliyor.**
 
@@ -2577,7 +2577,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### حَصَب — kelimenin resmi
 
-***Hasab* — kök ح-ص-ب.** **Dilcilerin verdiği anlam: **ateşe atılan şey** — çakıl, odun, atılan cisim.** *Hasabe* — çakıl attı; *hasbâ* — küçük taşlar.
+***Hasab* — kök ح-ص-ب.** **Dilcilerin verdiği anlam: ateşe atılan şey — çakıl, odun, atılan cisim.** *Hasabe* — çakıl attı; *hasbâ* — küçük taşlar.
 
 **Ve aynı kök `054-kamer.md` 54/34, `067-mulk.md` 67/17 ve `029-ankebut.md` 29/40'ta *hâsib* biçiminde işlendi:** **taş yağdıran şiddetli rüzgâr.** **Oraya dayanıyorum.**
 
@@ -2668,7 +2668,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **سَبَقَتْ لَهُم مِّنَّا ٱلْحُسْنَىٰ** — ***sebekat* — س-ب-ق kökü: öne geçmek, önce olmak.** **Ve fiilin öznesi *el-hüsnâ*dır: güzellik, önden gelmiş.**
 
-**Ve *lehüm* harfi cerinde yine bir incelik var: "onlar **için**".** **Ve *minnâ* kaydı kaynağı bildiriyor.** **Yani cümle üç şeyi birden söylüyor: zaman (önce), yön (onlar için), kaynak (bizden).**
+**Ve *lehüm* harfi cerinde yine bir incelik var: "onlar için".** **Ve *minnâ* kaydı kaynağı bildiriyor.** **Yani cümle üç şeyi birden söylüyor: zaman (önce), yön (onlar için), kaynak (bizden).**
 
 **ٱلْفَزَعُ ٱلْأَكْبَر** — kök **ف-ز-ع**: ani korku, irkilme. **Ve sıfat ism-i tafdîldir: *el-ekber* — en büyük.** **Neyi kastettiği söylenmiyor; klasik tefsirlerde birkaç izah nakledilir. Ayet vermiyor; ben de vermiyorum.**
 
@@ -2732,9 +2732,9 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ayetten evrenin sonuna dair fiziksel bir model çıkarmıyorum.** **Gerekçem, otuzuncu ayette verdiğim gerekçelerin aynısıdır ve bir tanesi burada özellikle güçlüdür:**
 
-**Ayetin kendisi bir **benzetme** kuruyor: *ke-tayyi…* — "…dürülmesi gibi".** ***Kâf*** teşbih harfidir. **Yani cümle, olayın **nasıl olacağını** değil, **neye benzediğini** söylüyor.** **Bir teşbihten fizik çıkarmak, teşbihin ne olduğunu görmemektir.**
+**Ayetin kendisi bir benzetme kuruyor: *ke-tayyi…* — "…dürülmesi gibi".** ***Kâf*** teşbih harfidir. **Yani cümle, olayın nasıl olacağını değil, neye benzediğini söylüyor.** **Bir teşbihten fizik çıkarmak, teşbihin ne olduğunu görmemektir.**
 
-**Ve benzetmenin öteki tarafı bir **yazı**dır — bir gök cismi değil.** **Kelimeler yazı ve kâğıt dünyasından alınmış.**
+**Ve benzetmenin öteki tarafı bir yazıdır — bir gök cismi değil.** **Kelimeler yazı ve kâğıt dünyasından alınmış.**
 
 **Bunu kendi okumam olarak kaydediyorum.**
 
@@ -2750,11 +2750,11 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **İhtilafı aktarıyorum, tercih dayatmıyorum.**
 
-**Ve cümlenin kurduğu şey kaydedilmelidir: bir **kıyas**.** İkinci yaratma, birincisine benzetiliyor. **Yani delil, gelecekten değil geçmişten alınıyor.**
+**Ve cümlenin kurduğu şey kaydedilmelidir: bir kıyas.** İkinci yaratma, birincisine benzetiliyor. **Yani delil, gelecekten değil geçmişten alınıyor.**
 
-**وَعْدًا عَلَيْنَا** — ***va'den* mansûb, masdar-ı müekkid.** **Ve *aleynâ* harfi cerinde bir incelik var: *alâ*, Arapçada **yükümlülük** bildirir.** **Yani söz, bir vaat olmakla kalmıyor — üstlenilmiş bir yük olarak adlandırılıyor.**
+**وَعْدًا عَلَيْنَا** — ***va'den* mansûb, masdar-ı müekkid.** **Ve *aleynâ* harfi cerinde bir incelik var: *alâ*, Arapçada yükümlülük bildirir.** **Yani söz, bir vaat olmakla kalmıyor — üstlenilmiş bir yük olarak adlandırılıyor.**
 
-**إِنَّا كُنَّا فَٰعِلِينَ** — **ve bu cümle sûrede üçüncü kez geçiyor.**
+**إِنَّا كُنَّا فَٰعِلِينَ** — **ve bu cümle sûrede dördüncü kez geçiyor.**
 
 | Ayet | İfade | Kim |
 |---|---|---|
@@ -2775,7 +2775,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### ٱلزَّبُور ve ٱلذِّكْر — iki kelime, iki ihtilaf
 
-***Zebûr* — kök ز-ب-ر.** **Kök `054-kamer.md` ve `035-fatir.md`'de işlendi.** **Kökün anlamı: **yazmak, taşa kazımak**;** *zebere'l-kitâb* — kitabı yazdı. *Zübür* — yazılı sayfalar. **Kelime, kalıcı olarak kazınmış yazıyı bildiriyor.**
+***Zebûr* — kök ز-ب-ر.** **Kök `054-kamer.md` ve `035-fatir.md`'de işlendi.** **Kökün anlamı: yazmak, taşa kazımak;** *zebere'l-kitâb* — kitabı yazdı. *Zübür* — yazılı sayfalar. **Kelime, kalıcı olarak kazınmış yazıyı bildiriyor.**
 
 **Ve iki kelimenin neye karşılık geldiği üzerinde ihtilaf vardır:**
 
@@ -2801,7 +2801,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Dört geçiş; üçü dizide, dördüncüsü dizinin dışında.**
 
-**Bunu kendi okumam olarak kaydediyorum, dayanağı yukarıdaki sayımdır:** sûre, dizide üç kez kullandığı sıfatı sonda **bir vaadin öznesi** yapıyor. **Yani vaat, bir topluluğa değil, dizide tarif edilen **vasfa** bağlanıyor.**
+**Bunu kendi okumam olarak kaydediyorum, dayanağı yukarıdaki sayımdır:** sûre, dizide üç kez kullandığı sıfatı sonda **bir vaadin öznesi** yapıyor. **Yani vaat, bir topluluğa değil, dizide tarif edilen vasfa bağlanıyor.**
 
 **Ve USLUP gereği bir kayıt düşüyorum:** ayet bir etnik ya da dinî gruba mülk vaadi kurmuyor. **Şart, ayetin kendi lafzındadır: *ıbâdî* (kullarım) ve *es-sâlihûn* (iyi olanlar).** **Kim o vasfı taşırsa ona dahildir.**
 
@@ -2833,7 +2833,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ve `034-sebe.md`'de bu kalıp hakkında şu kaydedilmişti:**
 
-> **"*Ve mâ erselnâke **illâ*** — olumsuzlama + istisna kalıbı, kapsamı daraltmıyor; **daraltma ihtimalini kaldırıyor.**"**
+> **"*Ve mâ erselnâke illâ* — olumsuzlama + istisna kalıbı, kapsamı daraltmıyor; daraltma ihtimalini kaldırıyor."**
 
 **Oraya dayanıyorum ve şunu ekliyorum, kendi okumam olarak:**
 
@@ -2845,7 +2845,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | **Kime?** | Sebe': bütün insanlara |
 | **Ne olarak?** | **Enbiyâ: bir rahmet olarak** |
 
-**Ve üçüncüsü, ilk ikisinden bir yönüyle ayrılıyor: *beşîr* ve *nezîr* bir **görev**dir; *kâffeten* bir **kapsam**dır; *rahmet* ise bir **nitelik**tir.** **Yani Enbiyâ, elçiliği yaptığı işle değil, **ne olduğuyla** tanımlıyor.**
+**Ve üçüncüsü, ilk ikisinden bir yönüyle ayrılıyor: *beşîr* ve *nezîr* bir görevdir; *kâffeten* bir kapsamdır; *rahmet* ise bir niteliktir.** **Yani Enbiyâ, elçiliği yaptığı işle değil, ne olduğuyla tanımlıyor.**
 
 **Ve *el-âlemîn* kelimesi, Sebe'deki *en-nâs*tan geniştir.** **Bu bir lafız farkıdır; üzerine bir kapsam hükmü kurmuyorum, yalnız kaydediyorum.**
 
@@ -2895,7 +2895,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### İki hasr edatı, bir cümlede
 
-**Ve yüz sekizinci ayetin dizimi kaydedilmelidir: cümlede **iki** hasr edatı var.**
+**Ve yüz sekizinci ayetin dizimi kaydedilmelidir: cümlede iki hasr edatı var.**
 
 | Edat | Neyi sınırlıyor |
 |---|---|
@@ -2906,7 +2906,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **فَهَلْ أَنتُم مُّسْلِمُونَ** — **ve soru, isim cümlesiyle kuruluyor** — sekseninci ayetteki *fe-hel entüm şâkirûn* ile aynı kalıp. **Sûre içinde doğrulanabilir bir tekrardır.**
 
-**Ve klasik tefsirlerde bu soru biçiminin **emir** yerine geçtiği kaydedilir:** "teslim olun" demek yerine "teslim oluyor musunuz?" **Bunu nakledilen bir izah olarak aktarıyorum.**
+**Ve klasik tefsirlerde bu soru biçiminin emir yerine geçtiği kaydedilir:** "teslim olun" demek yerine "teslim oluyor musunuz?" **Bunu nakledilen bir izah olarak aktarıyorum.**
 
 ### عَلَىٰ سَوَآءٍ
 
@@ -2929,7 +2929,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ***İn edrî* — burada *in* nâfiyedir (*mâ* anlamında): "bilmiyorum."**
 
-**Ve bu ifade sûrede **iki kez** geçiyor: 109 ve 111.**
+**Ve bu ifade sûrede iki kez geçiyor: 109 ve 111.**
 
 | Ayet | Cümle | Ne bilinmiyor |
 |---|---|---|
@@ -2975,15 +2975,15 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **ٱلْجَهْر** — kök **ج-ه-ر**: açığa çıkmak, sesi yükseltmek. *Cehrî* — sesli. **Ve *ketm* (ك-ت-م) onun karşıtıdır: saklamak, içinde tutmak.**
 
-**Ve *mine'l-kavl* kaydı bir gramer nüktesi taşıyor: *el-cehr* mutlak bırakılmamış, *kavl* ile kayıtlanmış.** **Yani konu, sesin yüksekliği değil, **sözün** açığa vurulanı.**
+**Ve *mine'l-kavl* kaydı bir gramer nüktesi taşıyor: *el-cehr* mutlak bırakılmamış, *kavl* ile kayıtlanmış.** **Yani konu, sesin yüksekliği değil, sözün açığa vurulanı.**
 
 ### لَعَلَّهُۥ فِتْنَةٌ لَّكُمْ
 
 **Ve yüz on birinci ayet, sûrenin otuz beşinci ayetine bağlanıyor.**
 
-**Otuz beşinci ayet demişti: *ve neblûküm bi'ş-şerri ve'l-hayri **fitneten***.**
+**Otuz beşinci ayet demişti: *ve neblûküm bi'ş-şerri ve'l-hayri fitneten*.**
 
-**Burada aynı kelime, **gecikmenin kendisi** için kullanılıyor: *leallehû **fitnetün** leküm*.**
+**Burada aynı kelime, gecikmenin kendisi için kullanılıyor: *leallehû fitnetün leküm*.**
 
 | Ayet | *Fitne* ne | Kim için |
 |---|---|---|
@@ -3046,7 +3046,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | *Hak* | *nakzifü **bi'l-hakkı** ale'l-bâtıl* | *rabbi'hkum **bi'l-hakk*** |
 | *Vasf* | *ve lekümü'l-veylü **mimmâ tasifûn*** | *el-müsteânü **alâ mâ tasifûn*** |
 
-**On sekizinci ayette hak **atılan** bir şeydi; son ayette **istenen** bir hükümdür.** **Ve iki ayette de aynı harfi cer var: *bi'l-hakk*.**
+**On sekizinci ayette hak atılan bir şeydi; son ayette istenen bir hükümdür.** **Ve iki ayette de aynı harfi cer var: *bi'l-hakk*.**
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı iki ayetin ortak kelimeleridir:** sûre, ortasında bâtılın hakla parçalandığını söylemişti. **Sonunda aynı hakkın bir hüküm olarak istendiğini gösteriyor.** **Ve arada değişen şey, fiilin kime ait olduğudur: orada *nakzifü* (biz atarız), burada *ihkum* (sen hükmet).**
 

@@ -1,11 +1,13 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { NS, T, type Lang } from "@/lib/i18n";
 
-type Props = { no: number; name: string; ayahCount: number };
+type Props = { no: number; name: string; ayahCount: number; lang: Lang };
 
-const POS = (no: number) => `tefsir:pos:${no}`;
-const LAST = "tefsir:last";
+// Okuma konumu dil basina ayri tutulur: ayni sure iki dilde ayri sayfadir.
+const POS = (lang: Lang, no: number) => `${NS[lang]}pos:${no}`;
+const LAST = (lang: Lang) => `${NS[lang]}last`;
 
 function save(key: string, val: unknown) {
   try {
@@ -28,7 +30,8 @@ function load<T>(key: string): T | null {
   }
 }
 
-export default function Reader({ no, name, ayahCount }: Props) {
+export default function Reader({ no, name, ayahCount, lang }: Props) {
+  const t = T[lang];
   const [toast, setToast] = useState<{ msg: string; undo?: () => void } | null>(null);
   const cur = useRef<{ id: string; ayah: string } | null>(null);
   const timer = useRef<number | null>(null);
@@ -79,8 +82,8 @@ export default function Reader({ no, name, ayahCount }: Props) {
     function persist() {
       if (!cur.current || !engaged.current) return;
       const rec = { ...cur.current, no, name, ts: Date.now(), scroll: Math.round(window.scrollY) };
-      save(POS(no), rec);
-      save(LAST, rec);
+      save(POS(lang, no), rec);
+      save(LAST(lang), rec);
     }
     function schedule() {
       if (timer.current) return;
@@ -101,7 +104,7 @@ export default function Reader({ no, name, ayahCount }: Props) {
       if (timer.current) window.clearTimeout(timer.current);
       persist();
     };
-  }, [no, name]);
+  }, [no, name, lang]);
 
   // --- acilista: hash varsa oraya, yoksa kaldigi yere ---
   useEffect(() => {
@@ -118,18 +121,18 @@ export default function Reader({ no, name, ayahCount }: Props) {
       }
       return;
     }
-    const saved = load<{ id: string; ayah?: string }>(POS(no));
+    const saved = load<{ id: string; ayah?: string }>(POS(lang, no));
     if (!saved?.id) return;
     const el = document.getElementById(saved.id);
     if (!el) return;
     jump(el);
     requestAnimationFrame(() => jump(el));
     setToast({
-      msg: saved.ayah ? `Kaldığınız yer: ${saved.ayah}` : "Kaldığınız yere dönüldü",
+      msg: saved.ayah ? t.resumedAt(saved.ayah) : t.resumed,
       undo: () => window.scrollTo({ top: 0, behavior: "smooth" }),
     });
     window.setTimeout(() => setToast(null), 6000);
-  }, [no]);
+  }, [no, lang, t]);
 
   // --- satir baglantisi: kopyala / paylas ---
   useEffect(() => {
@@ -151,7 +154,7 @@ export default function Reader({ no, name, ayahCount }: Props) {
           return;
         }
         await navigator.clipboard.writeText(url);
-        setToast({ msg: "Bağlantı kopyalandı" });
+        setToast({ msg: t.linkCopied });
       } catch {
         setToast({ msg: url });
       }
@@ -159,7 +162,7 @@ export default function Reader({ no, name, ayahCount }: Props) {
     }
     document.addEventListener("click", onClick);
     return () => document.removeEventListener("click", onClick);
-  }, [name]);
+  }, [name, t]);
 
   // --- okuma ilerlemesi cubugu ---
   useEffect(() => {
@@ -188,7 +191,7 @@ export default function Reader({ no, name, ayahCount }: Props) {
     <div className="toast" role="status">
       <span>{toast.msg}</span>
       {toast.undo && (
-        <button onClick={() => { toast.undo!(); setToast(null); }}>başa dön</button>
+        <button onClick={() => { toast.undo!(); setToast(null); }}>{t.backToTop}</button>
       )}
     </div>
   );

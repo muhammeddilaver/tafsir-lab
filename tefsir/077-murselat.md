@@ -8,9 +8,9 @@ Bu sûre, Kur'an'da yapısı en görünür sûrelerden biridir. Sebebi tek bir c
 
 Bu cümle sûrede **on kez** geçer. Ve her seferinde bir bölümün sonunda geçer. Yani sûre, on kez tekrarlanan tek bir cümlenin böldüğü bir metindir; bölümlerin nerede başlayıp nerede bittiğini okuyucunun çıkarmasına gerek yoktur, metin bunu kendisi işaretler.
 
-Bu, Kur'an'da benzeri az olan bir düzendir. Kısa Mekkî sûrelerin çoğunda bölümler ses değişimiyle ayrılır — Ğâşiye bölümünde üç ses bölgesi, Âdiyât bölümünde üç fasıla grubu gösterilmişti. Mürselât'ta ise ayırıcı ses değil, **lafzın kendisidir**: aynı cümle, dokuz yerde tekrar edilerek dönüyor.
+Bu, Kur'an'da benzeri az olan bir düzendir. Kısa Mekkî sûrelerin çoğunda bölümler ses değişimiyle ayrılır — Ğâşiye bölümünde üç ses bölgesi, Âdiyât bölümünde üç fasıla grubu gösterilmişti. Mürselât'ta ise ayırıcı ses değil, **lafzın kendisidir**: aynı cümle, on yerde tekrar edilerek dönüyor.
 
-Bu bölümün sonunda, tekrarın nerede geldiğini ve neyin ardından geldiğini ayrı bir tablo halinde göstereceğim. Şimdilik şu kadarı: **on tekrar, dokuz bölüm ayırır.** Ve bölümlerin uzunlukları sûre ilerledikçe kısalır — sonlara doğru bir bölüm tek ayete iner. Sûre hızlanarak biter.
+Bu bölümün sonunda, tekrarın nerede geldiğini ve neyin ardından geldiğini ayrı bir tablo halinde göstereceğim. Şimdilik şu kadarı: **on tekrar, on bölüm kapatır.** Ve bölümlerin uzunlukları sûre ilerledikçe kısalır — sonlara doğru bir bölüm tek ayete iner. Sûre hızlanarak biter.
 
 Sûrenin muhtevası da bu yapıya uygun. Beş ayetlik bir yeminle açılır, yeminin cevabı tek cümledir (*"size vaad edilen mutlaka gerçekleşecektir"*), ve geri kalan kırk üç ayet o tek cümlenin açılımıdır: önce günün sahnesi, sonra üç delil, sonra iki tablo, sonra kapanış.
 
@@ -168,7 +168,7 @@ Bu iki koldan iki ayrı okuma doğuyor ve **ikisi de klasik kaynaklarda savunulm
 
 **İki okuma da savunulur ve aralarında kesin bir tercih yapmıyorum.** Ama iki şeyi kaydetmek gerekiyor:
 
-**Bir.** İkinci okumanın Kur'an içinde doğrudan bir dayanağı var: A'râf 7/199'da *"vе'mur bi'l-**urf**"* — "marufu emret". Yani *urf* kelimesi Kur'an'ın kendi kullanımında "iyilik" anlamında geçiyor. Bu, birinci okumada bulunmayan bir avantajdır.
+**Bir.** İkinci okumanın Kur'an içinde doğrudan bir dayanağı var: A'râf 7/199'da *"ve'mur bi'l-**urf**"* — "marufu emret". Yani *urf* kelimesi Kur'an'ın kendi kullanımında "iyilik" anlamında geçiyor. Bu, birinci okumada bulunmayan bir avantajdır.
 
 **İki.** Birinci okumanın ise **dizim** avantajı var: kelime, ism-i fâille aynı kökten olmadığı için mef'ûl-i mutlak olamıyor; ve dizinin öbür ucundaki *zikrâ* de mef'ûl-i mutlak değil. İki uç kelime aynı sebeple istisna oluşturuyorsa, ikisinin de benzer bir iş yapması beklenir. *Zikrâ* içerik bildiriyor (*ne* bırakılıyor); o zaman *urfâ*'nın da içerik ya da amaç bildirmesi — yani ikinci okuma — daha tutarlı görünür.
 
@@ -1105,7 +1105,7 @@ Bunun okuma üzerindeki etkisi doğrudandır: sûre **hızlanıyor.** Sondaki d�
 
 **İki — bölümlerin türü değişiyor ve düzenli bir sıra izliyor:**
 
-> Sahne (1) → **üç delil** (2, 3, 4) → **dört sahne** (5, 6, 7) → karşı tablo (8) → hitap (9) → teşhis (10)
+> Sahne (1) → **üç delil** (2, 3, 4) → **üç sahne** (5, 6, 7) → karşı tablo (8) → hitap (9) → teşhis (10)
 
 Ortadaki üç delil bölümü, sûrenin argüman kısmıdır. Ve üçü de aynı kalıpla açılır — bu, aşağıda 16. ayette ele alınacak.
 
@@ -1982,7 +1982,7 @@ Bunu bir okuma olarak kaydediyorum.
 
 Beşinci nakarat. Cehenneme sevk sahnesinin ardından.
 
-Ve tam ortada: on nakaratın beşincisi. Sûrenin 50 ayetinin 34. ayeti; ama nakarat sayımına göre tam orta nokta.
+Ve tam ortada: on nakaratın beşincisi. Sûrenin 50 ayetinin 34. ayeti; ama nakarat sayımına göre ortadaki durak.
 
 ---
 
@@ -2271,7 +2271,7 @@ Mürselât aynı hükmü başka bir yolla kuruyor: karşı tarafa özne olma **d
 
 Yedinci nakarat. Toplanma ve meydan okuma sahnesinin ardından.
 
-**Ve burada sûrenin ikinci yarısı kapanıyor.** 29-40 arası dört sahneydi (sevk, sessizlik, toplanma). Bir sonraki bölüm sûrenin tek karşı tablosudur.
+**Ve burada sûrenin ikinci yarısı kapanıyor.** 29-40 arası üç bölümdü: sevk, sessizlik, toplanma ve meydan okuma. Bir sonraki bölüm sûrenin tek karşı tablosudur.
 
 ---
 
@@ -2826,7 +2826,7 @@ Sûrenin yapısı, yukarıda "Tekrarın işlevi" başlığında tablo halinde ve
 
 Sûre üç ayrı düzeyde bölümlenmiştir ve üç düzey birbirinin üstüne biniyor:
 
-**Birinci düzey — nakarat.** On kez tekrarlanan *veylün yevmeizin li'l-mükezzibîn*, dokuz bölüm ayırıyor. Bu, sûrenin en görünür bölmesidir ve kulakla duyulur.
+**Birinci düzey — nakarat.** On kez tekrarlanan *veylün yevmeizin li'l-mükezzibîn*, on bölüm kapatıyor. Bu, sûrenin en görünür bölmesidir ve kulakla duyulur.
 
 **İkinci düzey — أَلَمْ dizisi.** Üç bölüm aynı kalıpla açılıyor: *elem nühlik* (16), *elem nahlukküm* (20), *elem nec'al* (25). Bu üç bölüm sûrenin **argüman kısmıdır** ve birbirine bağlıdır.
 

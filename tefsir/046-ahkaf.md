@@ -545,7 +545,7 @@ Arapçada *sümme*, *fâ*dan farklı olarak **arada bir mesafe** bildirir. **Yan
 |---|---|---|
 | **أ-ف-ك** | *ifkün kadîm* (11) — *ifkühüm* (28) | İthamın sahibine dönmesi |
 | **ك-ب-ر** | *vestekbertüm* (10) — *testekbirûn* (20) | Aynı teşhis, iki blokta |
-| **ع-ر-ض** | *ârıdan* (24) — *ârıdun mumtırunâ* (24) | Sevinçle karşılanan helâk |
+| **ع-ر-ض** | *ârıdan* (24, anlatıcının sözü) — *ârıdun mumtırunâ* (24, onların sözü) | Sevinçle karşılanan helâk |
 | **ح-ق-ف** | *el-Ahkāf* (21) | Yurdun adı, rüzgârın yığdığı kum |
 | **Yorulmama** | *lem ya'ye* (33) | Bakara 2/255 ve Kāf 50/38 ile aynı hat |
 | **Delil mesafesi** | 4, 15, 26, 27, 33 | Hepsi muhatabın uzanabileceği yerde |

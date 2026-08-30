@@ -129,11 +129,11 @@ Bu iki görüntü aynı şeyi anlatıyor. Toprağın altındaki tohum kapalıdı
 
 Çoğunluk birinci görüşü tercih eder. Ama ikinci görüş birinciyi dışlamaz; tam tersine, birinciyi genişletir. Sabahın yarılması, "yarılma" olayının en görünür ve en düzenli örneğidir — her gün tekrarlanan, herkesin gördüğü bir yarılma. Kelimenin bu somut örnekten genel anlama açılması, Arapçanın alışıldık işleyişidir.
 
-**Neden bu isim, bu bağlamda?** Sûre şerden sığınma sûresidir. Şerrin en yoğun temsili karanlıktır. Ve sığınılan zât, **karanlığı yarıp içinden aydınlık çıkaranın** Rabbi olarak tanıtılıyor.
+**Neden bu isim, bu bağlamda?** Sûre şerden sığınma sûresidir. Şerrin en yoğun temsili karanlıktır. Ve sığınılan zât, **karanlığı yarıp içinden aydınlığı çıkaran o yarılmanın** Rabbi olarak tanıtılıyor.
 
 Yani daha ilk ayette, sûrenin bütün cevabı verilmiş oluyor: karanlığın kendisi kapalı ve mutlak görünür; ama karanlığı yaran bir güç vardır ve sığınılan O'dur. Sabah, karanlığın son sözü olmadığının kanıtıdır — ve her gün tekrarlanır.
 
-Bunu bir adım daha götürebiliriz. Yarılma görüntüsünün üç ölçeği vardır ve üçü de Kur'an'ın kullandığı görüntülerdir: **tohumun yarılması** (bitki), **rahmin/yumurtanın açılması** (canlı doğumu — Kur'an *"iki ölüden diri çıkarır"* diliyle bunu da kapsar), **sabahın yarılması** (kozmos). Üç ölçekte de aynı yasa işler: hayat, kapalı ve karanlık bir yerin yarılmasıyla çıkar. Bu bir "bilimsel mucize" iddiası değil; Kur'an'ın seçtiği görüntünün, tabiatta gerçekten tekrar eden bir örüntüyü tuttuğunun tespitidir.
+Bunu bir adım daha götürebiliriz. Yarılma görüntüsünün üç ölçeği vardır ve üçü de Kur'an'ın kullandığı görüntülerdir: **tohumun yarılması** (bitki), **rahmin/yumurtanın açılması** (canlı doğumu — Kur'an *"ölüden diri çıkarır"* diliyle bunu da kapsar), **sabahın yarılması** (kozmos). Üç ölçekte de aynı yasa işler: hayat, kapalı ve karanlık bir yerin yarılmasıyla çıkar. Bu bir "bilimsel mucize" iddiası değil; Kur'an'ın seçtiği görüntünün, tabiatta gerçekten tekrar eden bir örüntüyü tuttuğunun tespitidir.
 
 ### فلق ile فلح: dikkatli olunması gereken bir yakınlık
 

@@ -592,7 +592,7 @@ Yani ayet, bir "din tarifi" olarak değil, **bir itiraz** olarak geliyor. Cümle
 
 Ve cümle yine **hasr** yapısıyla kuruluyor: **مَآ … إِلَّا** — "ancak … emredildiler, başka bir şey değil." 4. ayet bölünmenin zamanını hasrla kilitlemişti; 5. ayet emrin muhtevasını hasrla kilitliyor. İki ayet, aynı gramer aracını iki ayrı yerde kullanıyor.
 
-**Ortaya çıkan tablo şudur:** Emir küçüktü, bölünme büyük oldu. Emredilen dört maddeydi; üzerinde ayrılınan şey ise sayılamaz. Sûre bu orantısızlığı bir suçlama olarak kullanıyor.
+**Ortaya çıkan tablo şudur:** Emir küçüktü, bölünme büyük oldu. Emredilen beş maddeydi; üzerinde ayrılınan şey ise sayılamaz. Sûre bu orantısızlığı bir suçlama olarak kullanıyor.
 
 Bu, sûrenin en pratik gözlemidir ve bugün de doğrudur: **bölünmeler çoğu zaman emrin kendisinde değil, emrin etrafında birikmiş olanda çıkar.** Bir metnin nasıl anlaşılacağı, kimin doğru anladığı, kimin yetkili olduğu, hangi ayrıntının neyi gerektirdiği — kavga bunların üzerinde çıkar. Metnin açık hükmü ise çoğu zaman kavganın konusu bile değildir.
 
@@ -610,9 +610,9 @@ Birinci okuyuş siyak bakımından en güçlüsüdür ve en çarpıcı sonucu do
 
 Bu iddia Kur'an'da başka yerlerde de kurulur: *"Nûh'a tavsiye ettiğini, sana vahyettiğimizi, İbrâhim'e, Mûsâ'ya ve Îsâ'ya tavsiye ettiğimizi size de din olarak koydu: Dini ayakta tutun ve onda bölünmeyin"* (Şûrâ 42/13). Orada da hemen ardından bölünme uyarısı gelir; ve orada kullanılan fiil *ekīmü'd-dîn*, yine *k-v-m* kökündendir.
 
-### Dört madde
+### Beş madde
 
-Ayet dini dört fiile indiriyor. Sıralamaya dikkat:
+Ayet dini beş maddeye indiriyor. Sıralamaya dikkat:
 
 | # | Madde | Ne tür bir şey | Yönü |
 |---|---|---|---|
@@ -1155,7 +1155,7 @@ Sekiz ayet, dört hamlede ilerliyor:
 |---|---|---|
 | **Sorun ve çözüm** | 1-3 | İnsanlık çözülmeyen bir haldeydi; onu çözecek şey beyyinedir — ve beyyine bir kişidir. |
 | **Paradoks** | 4 | Beyyine geldi ve *ondan sonra* bölünüldü. |
-| **Emrin sadeliği** | 5 | Oysa emredilen dört maddeydi. Bölünmenin konusu, bölünmeye değmeyecek kadar açıktı. |
+| **Emrin sadeliği** | 5 | Oysa emredilen beş maddeydi. Bölünmenin konusu, bölünmeye değmeyecek kadar açıktı. |
 | **İki akıbet** | 6-8 | İki grup, aynı kalıpta iki hüküm; ve sonda, ödülün üstünde bir şey: rıza. |
 
 Bu yapının bir özelliği var: **sûre bir hikâye anlatmıyor, bir mekanizma kuruyor.** Kıssa yok, isim yok, olay yok. Anlatılan şey, delil ile insan arasında her defasında tekrarlanan bir süreç.
@@ -1201,7 +1201,7 @@ Sûrenin bir adının **el-Kayyime** olmasının sebebi budur.
 
 ### Bir üçüncü örgü: gelmek ve vermek
 
-Daha küçük ama gerçek bir bağ: **أ ت ي** kökü sûrede üç kez geçiyor ve yönü değişiyor.
+Daha küçük ama gerçek bir bağ: **أ ت ي** kökü sûrede iki kez geçiyor ve yönü değişiyor.
 
 - **تَأْتِيَهُم** (1) — beyyine onlara *gelir*.
 - **جَآءَتْهُم** (4) — beyyine onlara *geldi* (bu farklı bir kök, *c-y-'*, ama aynı hareket).
@@ -1249,7 +1249,7 @@ Ve bir uyarı içerir: kendini bir davanın temsilcisi sayan herkes, farkında o
 
 **Üç. Emrin sadeliği, tartışmanın karmaşıklığı.**
 
-5. ayetin söylediği şey rahatsız edicidir: emredilen dört maddeydi. Bölünme, emrin kendisinde değil, etrafında çıktı.
+Beşinci ayetin söylediği şey rahatsız edicidir: emredilen dört maddeydi. Bölünme, emrin kendisinde değil, etrafında çıktı.
 
 Bugünkü karşılığı görünürdür. Dinî tartışmaların büyük kısmı, üzerinde ittifak edilen çekirdeğin değil, çekirdeğin etrafında birikmiş yorumların, aidiyetlerin ve rekabetlerin konusudur. Kimse "namaz kılınmalı mı" diye tartışmıyor; tartışma başka yerlerde.
 
@@ -1257,13 +1257,13 @@ Bu, ihtilafın tamamının gereksiz olduğu anlamına gelmez — bazı ihtilafla
 
 **Dört. "En şerli" ölçüsü, en çok bilenleri tehdit eder.**
 
-6. ayetin mantığı — hükmün ağırlığının alınan ışıkla orantılı olması — bu ayeti bir üstünlük belgesi olarak kullanmayı imkânsız kılar. Ölçüt bilgiye bağlıysa, ölçütün altında en çok bilgiye sahip olan durur.
+Altıncı ayetin mantığı — hükmün ağırlığının alınan ışıkla orantılı olması — bu ayeti bir üstünlük belgesi olarak kullanmayı imkânsız kılar. Ölçüt bilgiye bağlıysa, ölçütün altında en çok bilgiye sahip olan durur.
 
 Bu, dinî metinlerle kurulan ilişkide en sık yapılan hatanın panzehiridir: sert ayetleri hep dışarıya okumak. Sûre bunu engelleyecek şekilde kurulmuş — 7. ayette iyi tarafa hiçbir ad vermeyerek, kimsenin kendini otomatik olarak orada bulmasına izin vermiyor.
 
 **Beş. Rıza — ilişki mi, muhasebe mi?**
 
-8. ayet, ödülün zirvesine bir nesne değil bir ilişki koyuyor. Bunun bugünkü karşılığı, dindarlığın nasıl kurulduğuyla ilgili.
+Sekizinci ayet, ödülün zirvesine bir nesne değil bir ilişki koyuyor. Bunun bugünkü karşılığı, dindarlığın nasıl kurulduğuyla ilgili.
 
 Bir tür dindarlık tamamen muhasebe dilinde işler: yapılanlar, kazanılanlar, eksikler, telafiler. Bu dil yanlış değildir — Kur'an da hesap dilini kullanır. Ama tek başına kaldığında bir şeyi kaçırır: **muhasebede iki taraf birbirinden razı olmak zorunda değildir.** Borç kapanır, ilişki kurulmaz.
 

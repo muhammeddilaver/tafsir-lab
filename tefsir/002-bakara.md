@@ -1787,7 +1787,7 @@ Kelimenin çoğul gelmesi önemli: tek bir delil değil, **deliller.** Sûre bun
 
 Cümlenin sonundaki bu kayıt, sûrenin en sık tekrarlanan kaydının bir başka biçimidir: *ve entüm ta'lemûn* — "hem de bilerek" (2/22, 2/42, 2/75, 2/188).
 
-Burada bilgi yerine **zulüm** kelimesi konuyor. İkisi bu sûrede birbirine bağlıdır: bilinerek yapılan şey, artık hata değil haksızlıktır. Ve *z-l-m* kökünün "bir şeyi yerinden başka yere koymak" anlamı 35. ayette geçmişti — buzağının Allah'ın yerine konması, kelimenin tam karşılığıdır.
+Burada bilgi yerine **zulüm** kelimesi konuyor. İkisi bu sûrede birbirine bağlıdır: bilinerek yapılan şey, artık hata değil haksızlıktır. Ve *z-l-m* kökünün "bir şeyi yerinden başka yere koymak" anlamı elli dördüncü ayette geçmişti — buzağının Allah'ın yerine konması, kelimenin tam karşılığıdır.
 
 Ve isim cümlesi kullanılıyor: *ve entüm zâlimûn* — "zulmettiniz" değil, "zalimlerdiniz." Arapçada bu yapı, fiili bir defalık bir olay olarak değil, **o andaki hâlin niteliği** olarak bildirir.
 
@@ -2766,7 +2766,7 @@ Kıble tartışmasının kapanışı bu cümledir ve tartışmayı bambaşka bir
 
 **فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ** — kök *s-b-k*: **yarışta öne geçmek.** At yarışı için kullanılan kelimedir; *sâbık* (önde giden) ve *müsâbaka* aynı kökten.
 
-Bu tefsirde daha önce iki yarış görmüştük ve ikisi de yerilmişti:
+Bu tefsirde daha önce iki yarış görmüştük; biri yerilmiş, biri emredilmişti:
 
 | | Yarışın konusu | Hüküm |
 |---|---|---|
@@ -2982,7 +2982,7 @@ Liste soyut değil; bir topluluğun somut olarak yaşayabileceği şeylerin sır
 Kök *s-v-b*: **isabet etmek, hedefi bulmak.** Bu kök, bu tefsirde daha önce iki yerde geçti:
 
 - **Bakara 2/125** — *mesâbe*: dönülen yer
-- **Felak sûresi** çevresinde — *sayyib*: hedefini bulan sağanak
+- **Bu sûrenin on dokuzuncu ayetinde** — *sayyib*: hedefini bulan sağanak
 
 Aynı kökten *isabet* ve *savâb* (doğru) gelir. Yani *musibet*, kelimenin kendi mantığında **"isabet eden şey"**dir — rastgele düşen değil, hedefi bulan. Kelime, olayın içinde bir yön bulunduğunu peşinen söylüyor.
 
@@ -3744,7 +3744,7 @@ Ve bir sonraki ayet (185), bu tercihi kolaylık ilkesiyle dengeleyecektir: *"All
 
 Hüküm verilirken gerekçesinin de verilmesi, bu bölümün karakteristiğidir. Ve kayıt sadece söylenmiyor, uygulanıyor: hasta ve yolcu için ruhsat aynı ayetin içinde.
 
-**094. sûrede** *usr* ve *yüsr* kelimelerinin ilişkisi işlenmişti — orada zorluk ile kolaylığın "beraber" olduğu söyleniyordu. Burada başka bir şey söyleniyor: **teklifin kendisi kolaylık üzerine kurulmuştur.** İkisi çelişmiyor; biri hayatın yapısı hakkında, diğeri hükmün tasarımı hakkında.
+**`094-insirah.md`'de** *usr* ve *yüsr* kelimelerinin ilişkisi işlenmişti — orada zorluk ile kolaylığın "beraber" olduğu söyleniyordu. Burada başka bir şey söyleniyor: **teklifin kendisi kolaylık üzerine kurulmuştur.** İkisi çelişmiyor; biri hayatın yapısı hakkında, diğeri hükmün tasarımı hakkında.
 
 ## 2/186 — Aracısız cevap
 
@@ -4003,7 +4003,7 @@ Buradan iki okuma çıkar ve ikisi de nakledilir: **girenin tamamı** (herkes gi
 
 **زَلَلْتُم** — kök **ز-ل-ل**: ayağın kayması. Kelimenin seçimi dikkat çekicidir: dönme, inkâr etme, reddetme değil — **kayma.** Yani konu bir karar değil, tutunamama.
 
-Ve 213. ayetteki ifadenin aynısı burada da geçiyor: *min ba'di mâ câetkümü'l-beyyinât* — **deliller geldikten sonra.** İki ayet arayla aynı kayıt: sorun bilgide değil.
+Ve 213. ayetteki ifadenin aynısı burada da geçiyor: *min ba'di mâ câetkümü'l-beyyinât* — **deliller geldikten sonra.** Dört ayet arayla aynı kayıt: sorun bilgide değil.
 
 *"Sana İsrâiloğullarına sor: onlara nice apaçık **âyet** verdik…"*
 
@@ -4649,7 +4649,7 @@ Ayet, sûrenin en yoğun tenzih metnidir ve baştan sona **haber cümleleridir**
 
 **ٱلْحَىّ** — kök **ح-ي-ي**: hayat. **Sıfat-ı müşebbehe** kalıbında: **süreklilik ve sabitlik** bildirir.
 
-**ٱلْقَيُّوم** — kök **ق-و-م**: ayakta durmak, bir işin başında durup onu yürütmek. **Kalıp *fayyûl* veznindedir ve Arapçada mübalağa bildirir.**
+**ٱلْقَيُّوم** — kök **ق-و-م**: ayakta durmak, bir işin başında durup onu yürütmek. **Kalıp *fay'ûl* veznindedir ve Arapçada mübalağa bildirir.**
 
 Dilciler kelimeyi iki yönlü açıklar ve ikisi de nakledilir: **kendi kendine ayakta duran** (başkasına muhtaç olmayan) ve **her şeyi ayakta tutan** (her şeyin varlığı O'na bağlı).
 
@@ -4734,7 +4734,7 @@ Bu, sûrede daha önce kurulan çizgiyle uyumludur: 48. ayette şefaatin kabul e
 
 **عُرْوَة** — bir kabın ya da giysinin tutulacak yeri, kulp. **وُثْقَىٰ** — *evsak*ın müennesi: **en sağlam, kopmayan.**
 
-**Benzetme somuttur:** tutunulan şeyin kopmaması, tutunanın gücünden değil **kulpun sağlamlığından** gelir. **Ve fiil *istemseke* — VIII. bâb: kendi isteğiyle sıkıca tutunmak.** Cümlede zorlayan yok; **tutunan var.**
+**Benzetme somuttur:** tutunulan şeyin kopmaması, tutunanın gücünden değil **kulpun sağlamlığından** gelir. **Ve fiil *istemseke* — X. bâb: kendi isteğiyle sıkıca tutunmak.** Cümlede zorlayan yok; **tutunan var.**
 
 **لَا ٱنفِصَامَ لَهَا** — "onda kopma yoktur." **ف-ص-م** kökü: bir şeyin **kırılmadan çatlaması, ayrılması.** Dilciler *fasm* ile *kasm* arasındaki farkı kaydeder: biri tam kopmadır, öteki ayrılmadan çatlak. **Ayet daha ince olanı bile reddediyor.**
 
@@ -5172,7 +5172,7 @@ Altı geçişin hepsinde kalp, bir **fiilin yapıldığı yer** olarak anılıyo
 
 **لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ** — "peygamberlerinden hiçbirini ayırt etmeyiz." **Sûrenin uzun İsrâiloğulları bölümünde işlenen ayrım tavrının tam karşısında duran cümle.**
 
-**وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا** — "işittik ve itaat ettik." **Sûrenin 93. ayetinde nakledilen *semi'nâ ve asaynâ* (işittik ve isyan ettik) sözünün karşılığı.** İki cümle arasında tek harflik bir fark var; sûre bu iki tavrı iki ucuna koymuş.
+**وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا** — "işittik ve itaat ettik." **Sûrenin 93. ayetinde nakledilen *semi'nâ ve asaynâ* (işittik ve isyan ettik) sözünün karşılığı.** İki cümle arasında tek kelimelik bir fark var; sûre bu iki tavrı iki ucuna koymuş.
 
 **286. ayet, sûrenin son ayetidir ve bir dua olarak kuruluyor:**
 
@@ -5194,7 +5194,7 @@ Altı geçişin hepsinde kalp, bir **fiilin yapıldığı yer** olarak anılıyo
 | *Rabbenâ ve lâ tahmil aleynâ ısran* | **Ağır yük** yüklenmesin |
 | *Rabbenâ ve lâ tuhammilnâ mâ lâ tâkate lenâ bih* | **Gücün yetmeyeceği** yüklenmesin |
 
-**إِصْر** — kök **أ-ص-ر**: bağlamak, hapsetmek; ağır yük. **Kelime, sûrenin 286. ayetinde geçmeden önce başka bir bağlamda anılmıştı: geçmiş toplulukların üzerindeki ağırlıklar.**
+**إِصْر** — kök **أ-ص-ر**: bağlamak, hapsetmek; ağır yük. **Kelime, geçmiş toplulukların üzerindeki ağırlıkları anlatır.**
 
 **وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ** — sûre, 286 ayetlik uzun bir hüküm, tarih ve tartışma metninden sonra **bir istekle** bitiyor.
 

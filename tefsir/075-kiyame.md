@@ -2046,7 +2046,7 @@ Bunu kendi okumam olarak sunuyorum; tekrarların kendisi metnin verisidir ve say
 
 ### Ses dokusu
 
-Kıyâme'nin fasıla düzeni, Kur'an'ın en düzenli örneklerinden biridir. **Altı ses bölgesi var ve her biri bir konu bloğuna karşılık geliyor:**
+Kıyâme'nin fasıla düzeni, Kur'an'ın en düzenli örneklerinden biridir. **Yedi ses bölgesi var ve her biri bir konu bloğuna karşılık geliyor:**
 
 | Ayetler | Fasıla | Kelimeler | Etki |
 |---|---|---|---|

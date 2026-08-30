@@ -196,7 +196,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 | Sesleniş | ***Nûdiye en bûrike men fi'n-nâri ve men havlehâ*** | *Nûdiye min şâtıi'l-vâdi'l-eymeni fi'l-buk'ati'l-mübâraketi mine'ş-şecerati* |
 | Seslenişin içeriği | **Bereket bildirimi** + *sübhânallâh* | **Kimlik bildirimi** — *innî ene'llâhu rabbü'l-âlemîn* |
 
-**Dört fark kaydedilmeye değer.**
+**Üç fark kaydedilmeye değer.**
 
 **Birincisi — korun adı.** Kasas'ta *cezve*, Neml'de *şihâbün kabes*.
 
@@ -277,7 +277,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Kur'an Mûsâ'ya verilen işaretleri iki yerde *dokuz* olarak sayar: burada ve İsrâ 17/101.** **Bu, metinden doğrulanabilir bir olgudur** ve `054-kamer.md` 54/41-42'de kaydedilmişti: **Kamer sûresi aynı işaretleri *küllihâ* (hepsi) diye tek kelimede topluyordu.**
 
-**İki sûrenin yöntemi yan yana konabilir:**
+**Üç sûrenin yöntemi yan yana konabilir:**
 
 | Yer | İfade | Ne yapıyor |
 |---|---|---|
@@ -557,7 +557,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **س-ك-ن** kökü: **durulmak, hareketin dinmesi.** *Sekîne*, *mesken*, *sükûn* aynı köktendir. **Kök `048-fetih.md` 48/4'te işlendi.**
 
-**Ve kelimenin seçimi kaydedilmeye değer: karıncanın yuvası için *mesken* deniyor — insanın evi için kullanılan kelime.** **Aynı kelime bu sûrenin 52. ayetinde Semûd'un evleri için kullanılacak: *fe-tilke büyûtühüm hâviyeten*.** **Orada kelime *beyt*tir; ama iki sahne aynı şeyi konu ediyor: bir topluluğun barındığı yer.**
+**Ve kelimenin seçimi kaydedilmeye değer: karıncanın yuvası için *mesken* deniyor — insanın evi için kullanılan kelime.** **Semûd'un evleri için bu sûrenin 52. ayetinde başka bir kelime gelecek: *fe-tilke büyûtühüm hâviyeten*.** **Orada kelime *beyt*tir; ama iki sahne aynı şeyi konu ediyor: bir topluluğun barındığı yer.**
 
 **Bunu bir gözlem olarak kaydediyorum:** karıncalar meskenlerine girerek kurtuluyor; **Semûd'un evleri boş kalıyor.** İki sahne sûrenin iki ayrı bloğundadır ve bir tezat kurulduğu iddiasında değilim — **kaydettiğim şey, sûrenin iki yerinde "barınak" fikrinin iki ayrı sonuçla geçmesidir.**
 
@@ -689,7 +689,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Ahkāf 46/4 ile karşılaştırma — delil talebinin iki yeri
 
-**`046-ahkaf.md` 46/4'te delil talebi ayrıntılı işlendi** ve orada kaydedilen şuydu: **talep iki tür delil istiyor — gözlem ve nakil — ve en düşük eşikten kuruluyor** (*ev esârein min ilm* — bir bilgi kalıntısı bile).
+**`046-ahkaf.md` 46/4'te delil talebi ayrıntılı işlendi** ve orada kaydedilen şuydu: **talep iki tür delil istiyor — gözlem ve nakil — ve en düşük eşikten kuruluyor** (*ev esâratin min ilm* — bir bilgi kalıntısı bile).
 
 **İki talep yan yana konabilir ve fark, talebi kimin yaptığındadır:**
 
@@ -791,7 +791,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **عَرْش** — kök **ع-ر-ش**: **yükseltmek, çardak kurmak.** Arapçada tahtı, çardağı, üzeri örtülü yüksek yapıyı karşılar ve hükümranlığın simgesi olarak kullanılır. **Kök `057-hadid.md` 57/4'te işlendi** ve orada bu ayet zaten anılmıştı. **Tekrarlamıyorum.**
 
-**Ve kelime bu sûrede dört kez daha geçecek: 23, 26, 38, 41, 42.** **Bunlardan biri (26) Allah içindir; dördü melikenin tahtı içindir.** Bir sonraki bölümde tablolanacak.
+**Ve kelime bu sûrede beş kez daha geçecek: 23, 26, 38, 41, 42.** **Bunlardan biri (26) Allah içindir; dördü melikenin tahtı içindir.** Bir sonraki bölümde tablolanacak.
 
 ---
 
@@ -902,7 +902,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Süleymân'ın cevabı bir hüküm değil, bir yoklama kararıdır: *se-nenzuru* — "bakacağız", *sîn* ile gelecek zaman.**
 
-**Ve iki şık simetrik verilmiş:** *esadakte* (doğru mu söyledin) — **fiil**; *em künte mine'l-kâzibîn* (yoksa yalancılardan mısın) — **isim cümlesi.**
+**Ve iki şık asimetrik verilmiş:** *esadakte* (doğru mu söyledin) — **fiil**; *em künte mine'l-kâzibîn* (yoksa yalancılardan mısın) — **isim cümlesi.**
 
 **Bu asimetri klasik tefsirlerde de kaydedilir ve bir dizim gözlemi olarak veriyorum:** birinci şık **bir fiili**, ikinci şık **bir vasfı** soruyor. **Yani "yalan söyledin mi" değil, "yalancılardan mısın" deniyor.** **Doğru söylemek bir iş, yalancılık ise bir sınıftır** — ve cümle ikisini aynı ağırlıkta tutmuyor.
 
@@ -929,7 +929,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ
 
-**Emir üç basamaklıdır ve sırası kaydedilmeye değer:**
+**Emir dört basamaklıdır ve sırası kaydedilmeye değer:**
 
 | Sıra | Emir | Ne |
 |---|---|---|
@@ -1137,7 +1137,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki fiilin sırasıdır:** ayet, ikinci adımı birinciden ayırıyor. **Yani anlatılan şey yalnız maddî tahribat değil; bir topluluğun kendi içindeki değer sıralamasının dışarıdan bozulmasıdır.** **Ve ikincisi, birincisinden daha kalıcı bir sonuçtur** — çünkü bina yeniden yapılabilir, itibar düzeni kolay yeniden kurulmaz.
 
-**Ve `028-kasas.md` 28/4'te aynı iki kelime bir arada geçmişti:** *ve ceale ehlehâ **şiya'an** yestad'ıfü **tâifeten** minhüm.* **Orada kaydedilen tespit buraya doğrudan uyar: zulüm önce toplumu parçalıyor, sonra bir kesimi zayıf düşürüyor.** **Neml'in bu ayeti aynı süreci dışarıdan gelen bir güç için tarif ediyor; Kasas içeriden gelen bir güç için tarif etmişti.**
+**Ve `028-kasas.md` 28/4'te benzer bir ikili bir arada geçmişti:** *ve ceale ehlehâ **şiya'an** yestad'ıfü **tâifeten** minhüm.* **Orada kaydedilen tespit buraya doğrudan uyar: zulüm önce toplumu parçalıyor, sonra bir kesimi zayıf düşürüyor.** **Neml'in bu ayeti aynı süreci dışarıdan gelen bir güç için tarif ediyor; Kasas içeriden gelen bir güç için tarif etmişti.**
 
 | | Kasas 28/4 | **Neml 27/34** |
 |---|---|---|
@@ -1216,7 +1216,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### قَبْلَ أَن يَأْتُونِى مُسْلِمِينَ — bir zaman kaydı
 
-**Talebin şartı kaydedilmelidir: taht, onlar teslim olarak gelmeden **önce** isteniyor.**
+**Talebin şartı kaydedilmelidir: taht, onlar teslim olarak gelmeden önce isteniyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, işin bir zaman sınırı içinde yapılmasını istiyor. **Ve sınırın kendisi 31. ayetteki mektubun talebidir** (*ve'tûnî müslimîn*) — **yani sûre, aynı ifadeyi bir talep ve bir zaman ölçüsü olarak iki kez kullanıyor.**
 
@@ -1426,7 +1426,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **قَوَارِير** — *kārûre*nin çoğulu: **cam, billur.** **Kelime `076-insan.md` 76/15-16'da işlendi** (*kavârîra min fıdda*) **ve orada kaydedilen özellik burada işliyor: camın ayırt edici niteliği, içini göstermesidir.**
 
-**Ve sahnenin mekaniği tam olarak buna dayanıyor ve bunu bir gözlem olarak kaydediyorum:** yüzey pürüzsüz (*mümerrad*) ve saydam (*min kavârîr* ) olduğu için **su gibi görünüyor.** **Yani yanılgı, iki fiziksel özelliğin bir araya gelmesinden doğuyor** — ve metin ikisini de ayrı ayrı söylüyor.
+**Ve sahnenin mekaniği tam olarak buna dayanıyor ve bunu bir gözlem olarak kaydediyorum:** yüzey pürüzsüz (*mümerrad*) ve saydam (*min kavârîr*) olduğu için **su gibi görünüyor.** **Yani yanılgı, iki fiziksel özelliğin bir araya gelmesinden doğuyor** — ve metin ikisini de ayrı ayrı söylüyor.
 
 ### حَسِبَتْهُ لُجَّةً — ve 88. ayetle bağı
 
@@ -1468,7 +1468,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve Neml'e ait olan devam cümlesi, kıssanın en dikkat çekici dizim nüktesidir ve kaydedilmesi gerekir:**
 
-***Ve eslemtü **mea** Süleymâne **lillâhi** rabbi'l-âlemîn.***
+***Ve eslemtü mea Süleymâne lillâhi rabbi'l-âlemîn.***
 
 **Cümle iki harfle kuruluyor ve ikisi ayrı iş yapıyor:**
 
@@ -1870,7 +1870,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Aynı yönden gelen iki şey, iki zıt sonuç.** Bu, sûre içinde doğrulanabilir bir tekrardır ve **iki ayet arasında yalnız bir ayet vardır (59).**
 
-**Bunu kendi okumam olarak kaydediyorum:** sûre, ceza bloğundan delil bloğuna geçerken **aynı kanalı kullanıyor.** **Ve fark kelimede değil sonuçtadır** — nitekim 58. ayette kelime *matar*, 60. ayette *mâ*'dır.
+**Bunu kendi okumam olarak kaydediyorum:** sûre, ceza bloğundan delil bloğuna geçerken **aynı kanalı kullanıyor.** **Ve fark kelimededir** — nitekim 58. ayette kelime *matar*, 60. ayette *mâ*'dır.
 
 **ٱلْمُنذَرِين** — **ن-ذ-ر** kökü: uyarmak. **İsm-i mef'ûl: uyarılmış olanlar.**
 
@@ -1905,7 +1905,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve selâmın kime verildiği belirsiz bırakılıyor: *ıbâdihi'llezîne'stafâ* — "seçtiği kulları."** **Ad verilmiyor.**
 
-**Bunu bir gözlem olarak kaydediyorum:** bir önceki blokta dört peygamber anıldı (Mûsâ, Dâvûd, Süleymân, Sâlih, Lût). **Cümle, hepsini tek bir tamlamada topluyor ve isim saymıyor.**
+**Bunu bir gözlem olarak kaydediyorum:** bir önceki blokta beş peygamber anıldı (Mûsâ, Dâvûd, Süleymân, Sâlih, Lût). **Cümle, hepsini tek bir tamlamada topluyor ve isim saymıyor.**
 
 ### ءَآللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ
 
@@ -2123,7 +2123,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Terkip kaydedilmelidir: *zulümât* çoğuldur — "karanlıklar."**
 
-**Dilciler çoğulun burada iki şeyi birden karşıladığını kaydeder:** gecenin karanlığı, bulutun karanlığı, denizin derinliği — **yani tek bir karanlık değil, üst üste binmiş olanlar.**
+**Dilciler çoğulun burada üç şeyi birden karşıladığını kaydeder:** gecenin karanlığı, bulutun karanlığı, denizin derinliği — **yani tek bir karanlık değil, üst üste binmiş olanlar.**
 
 **Ve iki alanın birlikte anılışı bir dizim verisidir: *el-berr* ve *el-bahr*.** **Yani yol gösterme, hem kara hem deniz için anılıyor.**
 
@@ -2219,9 +2219,9 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Cümlenin kuruluşu kaydedilmelidir ve dizim nüktesi buradadır:**
 
-***Lâ ya'lemü **men fi's-semâvâti ve'l-ardı** el-ğaybe **illallâh**.***
+***Lâ ya'lemü men fi's-semâvâti ve'l-ardı el-ğaybe illallâh.***
 
-**Yani olumsuzlama önce **bütün varlıkları** kapsıyor, sonra istisna geliyor.** **Ve istisnanın kapsamı dikkat çekicidir: *men fi's-semâvâti ve'l-ard* — göklerde ve yerde olan herkes.**
+**Yani olumsuzlama önce bütün varlıkları kapsıyor, sonra istisna geliyor.** **Ve istisnanın kapsamı dikkat çekicidir: *men fi's-semâvâti ve'l-ard* — göklerde ve yerde olan herkes.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, bilginin bir kısmının insana kapalı olduğunu söylemiyor — **hiçbir yaratılmışa açık olmadığını söylüyor.** **Melekler de, cinler de bu kapsamdadır** — nitekim sûrede cinlerden bir ifrit konuşmuştu (39).
 

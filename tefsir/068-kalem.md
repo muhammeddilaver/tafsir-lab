@@ -1575,7 +1575,7 @@ Yani mesele bir kelime söylemek değil; bir gerçeği tanımak. On sekizinci ay
 
 **Cümlenin kısalığı dikkat çekici.** On altı ayet süren bir anlatı, dört kelimeyle özetleniyor.
 
-**Ve ardından bir karşılaştırma: *ve le-azâbü'l-âhırati **ekber*** — "âhiret azabı daha büyüktür."**
+**Ve ardından bir karşılaştırma: *ve le-azâbü'l-âhırati ekber* — "âhiret azabı daha büyüktür."**
 
 Yani kıssada anlatılan bütün felaket — bir gecede yok olan bahçe, sabahki şok, karşılıklı suçlamalar — bir **küçük örnek** olarak konumlandırılıyor.
 
@@ -1969,7 +1969,7 @@ Bir insanın bir şeyi yapmaması, çoğunlukla bir tercihtir. Ama tercih tekrar
 
 **Kökün somut anlamı: basamak, derece, kademe.** *Derece* — basamak; *deraca* — adım adım ilerlemek, kademe kademe çıkmak. *Dürc* — küçük kutu (içine kademeli konan). *İdrâc* — bir şeyi başka bir şeyin içine katmak.
 
-**İstif'âl babında (*istedrace*): birini **derece derece** kendine çekmek, adım adım yaklaştırarak yakalamak.**
+**İstif'âl babında (*istedrace*): birini derece derece kendine çekmek, adım adım yaklaştırarak yakalamak.**
 
 **Ve kelimenin resmi şudur:** avcı, avı ürkütmeden yaklaştırır. Her adımda av kendini güvende hisseder; çünkü hiçbir adım tehlikeli görünmez. Tehlike, adımların **toplamı**ndadır.
 
@@ -2191,12 +2191,12 @@ Yani ayet, duygunun kendisini değil, duygunun **yerinden ettiği fiili** hedef 
 
 ### Yûnus kıssasının Kur'an'daki diğer parçaları
 
-**Kalem sûresi kıssayı anlatmıyor; ona **atıfta** bulunuyor. Kur'an'ın başka yerlerinde parçalar veriliyor.**
+**Kalem sûresi kıssayı anlatmıyor; ona atıfta bulunuyor. Kur'an'ın başka yerlerinde parçalar veriliyor.**
 
 **Emin olduğum geçişler:**
 
 - *"Zü'n-Nûn'u da an…"* (Enbiyâ 21/87-88) — gidişi, karanlıklardaki duası, kurtarılması.
-- *"Doğrusu Yûnus da gönderilenlerdendi… Balık onu yuttu… Onu çıplak bir yere attık, hastaydı"* (Sâffât 37/139-145 çerçevesinde). **Ve orada şu ifade geçer: *fe-nebeznâhü bi'l-arâi ve hüve **sakîm***.**
+- *"Doğrusu Yûnus da gönderilenlerdendi… Balık onu yuttu… Onu çıplak bir yere attık, hastaydı"* (Sâffât 37/139-145 çerçevesinde). **Ve orada şu ifade geçer: *fe-nebeznâhü bi'l-arâi ve hüve sakîm*.**
 - *"Bir kasaba olsaydı da iman etseydi… Ancak Yûnus'un kavmi müstesna"* (Yûnus 10/98).
 
 **Yûnus 10/98 kayda değer:** Kur'an'da azap gelmeden iman eden tek toplum olarak Yûnus'un kavmi anılır. **Yani peygamberin bıraktığı kavim, iman etmiştir.**
@@ -2386,7 +2386,7 @@ Ve sabrın tarifi, kelimenin kökünde duruyor: **kendini bir yerde tutmak.** Du
 
 **Sûre boyunca tartışma bir kişi üzerinden yürüdü:** o mecnûn mu değil mi? Ahlâkı nasıl? Ücret istiyor mu?
 
-**Son cümle özneyi değiştiriyor: *ve mâ **hüve*** — "o".**
+**Son cümle özneyi değiştiriyor: *ve mâ hüve* — "o".**
 
 Ve "o" kim? Peygamber değil — **mesaj.**
 

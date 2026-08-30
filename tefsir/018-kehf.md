@@ -24,7 +24,7 @@
 | Mûsâ ve o kul | **Olayların arkasındaki gerekçe** (68, 78, 82) |
 | Zülkarneyn | **Setin ne zaman yıkılacağı** (98) |
 
-**Dördünde de bilgi eksikliği bir kusur olarak değil, **insanın konumu** olarak veriliyor.** Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi cümleleridir: *kul rabbî a'lemü bi-iddetihim* (22), *ve lâ tekūlenne li-şey'in innî fâilün zâlike ğaden illâ en yeşâallâh* (23-24), *ve kellâ tuhıt bihî hubrâ* (68).
+**Dördünde de bilgi eksikliği bir kusur olarak değil, insanın konumu olarak veriliyor.** Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi cümleleridir: *kul rabbî a'lemü bi-iddetihim* (22), *ve lâ tekūlenne li-şey'in innî fâilün zâlike ğaden illâ en yeşâallâh* (23-24), *ve mâ lem tuhıt bihî hubrâ* (68).
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 18/9-12 — أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا · إِذْ أَوَى ٱلْفِتْيَةُ إِلَى ٱلْكَهْفِ فَقَالُوا۟ رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا · فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا
 
-"**Mağara ve Rakīm ehlinin, âyetlerimizden şaşılacak bir şey olduğunu mı sandın?** Hani o gençler mağaraya sığınmış ve şöyle demişlerdi: '**Rabbimiz! Bize katından bir rahmet ver ve işimizde bize bir doğruluk hazırla.**' **Bunun üzerine yıllarca mağarada kulaklarına perde vurduk.**"
+"**Mağara ve Rakīm ehlinin, âyetlerimizden şaşılacak bir şey olduğu mu sandın?** Hani o gençler mağaraya sığınmış ve şöyle demişlerdi: '**Rabbimiz! Bize katından bir rahmet ver ve işimizde bize bir doğruluk hazırla.**' **Bunun üzerine yıllarca mağarada kulaklarına perde vurduk.**"
 
 **ٱلرَّقِيم** — **kelimenin ne olduğu kesin olarak bilinmemektedir.** **ر-ق-م kökü `083-mutaffifin.md`'de (*kitâbün merkūm*) işlendi:** yazmak, işaretlemek.
 
@@ -441,7 +441,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **İkinci cümle, sûrenin bütün kıssalarını açıklayan anahtardır ve bunu kendi okumam olarak kaydediyorum.**
 
-**Cümle, sabrı bir **karakter** meselesi olmaktan çıkarıp **bilgi** meselesine bağlıyor:** *ve keyfe tasbiru alâ mâ lem tuhıt bihî hubrâ.*
+**Cümle, sabrı bir karakter meselesi olmaktan çıkarıp bilgi meselesine bağlıyor:** *ve keyfe tasbiru alâ mâ lem tuhıt bihî hubrâ.*
 
 **إحاطة** — kök **ح-و-ط**: **etrafını çevirmek, kuşatmak.** **Kök `002-bakara.md` 2/255'te çözümlendi** (*ve lâ yuhîtûne bi-şey'in min ilmih*) ve orada kaydedilmişti: **reddedilen şey bilmek değil, *kuşatmak*.** **Oraya dayanıyorum.**
 
@@ -526,7 +526,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **Ve ona iki seçenek bırakılıyor.** **Cevabı kaydedilmeye değer (87-88):** zulmedeni cezalandırma, iman edip sâlih amel işleyene ise *cezâen'l-hüsnâ.*
 
-**Bunu bir gözlem olarak kaydediyorum:** yetki verilen kişi, **ayrım yaparak** kullanıyor. **Ve `022-hac.md` 22/41'de (*ellezîne in mekkennâhüm fi'l-ard*) iktidarın şartı işlendi (dosya varsa);** aynı hat burada bir kıssayla veriliyor.
+**Bunu bir gözlem olarak kaydediyorum:** yetki verilen kişi, **ayrım yaparak** kullanıyor. **Ve `022-hac.md` 22/41'de (*ellezîne in mekkennâhüm fi'l-ard*) iktidarın şartı işlendi;** aynı hat burada bir kıssayla veriliyor.
 
 ### يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ (94)
 
@@ -552,7 +552,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **قَالَ هَٰذَا رَحْمَةٌ مِّن رَّبِّى فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ** (98)
 
-**Ve kıssa, yapılan işin **geçiciliğini** söyleyerek bitiyor.**
+**Ve kıssa, yapılan işin geçiciliğini söyleyerek bitiyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin sekizinci ayetidir:** *ve innâ le-câilûne mâ aleyhâ saîden cürüzâ.* **Sûrenin en sağlam yapısı bile aynı hükme tâbi tutuluyor** — ve bunu söyleyen, yapan kişinin kendisi.
 
@@ -592,7 +592,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **Aynı organ, iki zıt işlevde.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
-**أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ** (102) — **ve *hasibe* fiili sûrede dördüncü kez geçiyor** (9, 18, 102, 104). **Sûrenin "sanmak" ekseni, geriye bakış tablosunda toplanmıştır.**
+**أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ** (102) — **ve *hasibe* fiili sûrede üçüncü kez geçiyor** (9, 18, 102). **Sûrenin "sanmak" ekseni, geriye bakış tablosunda toplanmıştır.**
 
 ---
 
@@ -610,7 +610,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **`041-fussilet.md` 41/23'te (*ve zâliküm zannüküm … erdâküm*) ve `045-casiye.md` 45/24'te zannın helâk sebebi olduğu işlendi.** **Oraya dayanıyorum.**
 
-**Ve *yahsebûn* fiili, sûrenin dokuzuncu ayetinde de geçmişti** (*em hasibte*) ve on sekizinci ayette (*ve tahsebühüm eykāzan ve hüm rukûd*). **Üç geçiş: biri okuyucuya, biri sahneye, biri kendilerine ait.** Bu, sûre içinde doğrulanabilir bir örgüdür.
+**Ve *yahsebûn* fiili, sûrenin dokuzuncu ayetinde de geçmişti** (*em hasibte*) ve on sekizinci ayette (*ve tahsebühüm eykāzan ve hüm rukūd*). **Bu üç geçiş: biri okuyucuya, biri sahneye, biri kendilerine ait.** Bu, sûre içinde doğrulanabilir bir örgüdür.
 
 ---
 
@@ -620,9 +620,9 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 ### فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَزْنًا
 
-**Cümle kaydedilmeye değer: tartının **kurulmaması**.**
+**Cümle kaydedilmeye değer: tartının kurulmaması.**
 
-**`021-enbiya.md` 21/47'de (*ve nedau'l-mevâzîne'l-kıst*) tartının konması işlenmiş olabilir (dosya varsa); `057-hadid.md`'de *mîzân* çözümlendi.**
+**`021-enbiya.md` 21/47'de (*ve nedau'l-mevâzîne'l-kıst*) tartının konması işlenmiş olabilir; `057-hadid.md`'de *mîzân* çözümlendi.**
 
 **Bunu kendi okumam olarak kaydediyorum:** ayet bir ceza bildirmiyor — **işlemin yapılmadığını** bildiriyor. **Ve bu, yüz dördüncü ayetteki teşhisin doğal sonucudur:** çabaları boşa gitmiş olanların tartılacak bir şeyi kalmıyor.
 

@@ -11,7 +11,7 @@ Sûre, *hâ-mîm* ile açılan yedi sûreden biridir ve Ahkāf'ın hemen öncesi
 | **I** | 1-6 | Üç basamaklı delil listesi | *Fe-bi-eyyi hadîsin ba'dallâhi ve âyâtihî yü'minûn* (6) |
 | **II** | 7-11 | Duyduğu hâlde direnen tip | *Ve lehüm azâbün min riczin elîm* (11) |
 | **III** | 12-20 | Emre verilenler ve İsrâiloğulları örneği | *Hüden ve rahmeten li-kavmin yûkınûn* (20) |
-| **IV** | 21-26 | İki ölçü: eşitlenemeyecek olanlar | *Ve lâkinne ekserä'n-nâsi lâ ya'lemûn* (26) |
+| **IV** | 21-26 | İki ölçü: eşitlenemeyecek olanlar | *Ve lâkinne ekseru'n-nâsi lâ ya'lemûn* (26) |
 | **V** | 27-37 | Diz çökmüş ümmetler ve kapanış | *Ve hüve'l-azîzü'l-hakîm* (37) |
 
 **Sûrenin omurgası bir bilgi meselesidir.** Baştan sona tekrarlanan kelimeler bunu gösterir: *yûkınûn*, *ya'kılûn*, *ilm*, *zann*, *lâ ya'lemûn*. **Sûre inkârı bir bilgi iddiası olarak ele alıyor ve o iddianın dayanağını soruyor.**
@@ -424,7 +424,7 @@ Sûre, *hâ-mîm* ile açılan yedi sûreden biridir ve Ahkāf'ın hemen öncesi
 | 23 | *Alâ ilmin* | İhtilaflı — kimin bilgisi |
 | 24 | *Mâ lehüm bi-zâlike min ilm · yezunnûn* | **Zan üzerinden hüküm verenler** |
 | 26 | *Lâ ya'lemûn* | İnsanların çoğu |
-| 32 | *Mâ nedrî · nezunnü · lestü müstaykınîn* | **Kendi ağızlarından itiraf** |
+| 32 | *Mâ nedrî · nezunnü · mâ nahnü bi-müstaykınîn* | **Kendi ağızlarından itiraf** |
 
 **Bu dağılım tesadüf sayılamayacak kadar düzenlidir ve sûrenin tek bir mesele etrafında kurulduğunu gösterir.**
 

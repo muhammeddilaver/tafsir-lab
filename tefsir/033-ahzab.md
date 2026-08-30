@@ -1779,7 +1779,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı ر-أ-ي ve ب-ص-ر köklerin
 
 ### وَمَا زَادَهُمْ إِلَّآ إِيمَٰنًا وَتَسْلِيمًا — imanın artması
 
-**Bu cümle `048-fetih.md`'de imanın artıp artmayacağı tartışmasında **delil listesine alınmıştı**. Oraya dayanıyorum ve o tartışmayı burada tekrarlamıyorum.**
+**Bu cümle `048-fetih.md`'de imanın artıp artmayacağı tartışmasında delil listesine alınmıştı. Oraya dayanıyorum ve o tartışmayı burada tekrarlamıyorum.**
 
 Orada kaydedilen: iman artar mı sorusu kelam tarihinin en eski tartışmalarından biridir; iki görüş ve dayanakları tablo hâlinde verilmiş, taraf tutulmamış, ve meselenin bir **tanım farkından** doğduğu kaydedilmiştir.
 
@@ -1957,7 +1957,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı iki ayetin aynı grup hakkınd
 
 **Harf-i cerr *bâ*, burada sebebiyet bildiriyor:** "sadâkatleri sebebiyle".
 
-**Ve ص-د-ق kökü bu sûrede üçüncü kez, bu ayette iki kez geçiyor:**
+**Ve ص-د-ق kökü bu sûrede dördüncü kez, bu ayette iki kez geçiyor:**
 
 | Ayet | Kelime | Kim |
 |---|---|---|
@@ -1987,7 +1987,7 @@ Bu bağı kendi okumam olarak kaydediyorum; dayanağı iki terkibin tek harf far
 
 **Kuşatma bölümü, iki merhamet ismiyle kapanıyor.** On dokuz ayet boyunca korku, ihanet, mazeret, keskin dil anlatıldı; ve bölüm **bağışlama** ile bitiyor.
 
-**Bu, `048-fetih.md`'de kaydedilen bir örüntünün tekrarıdır:** Kur'an, sert bölümleri sıklıkla mağfiret bildirimiyle kapatır. Fetih sûresi hem 11. ayeti hem 29. ayeti bağışlama ile bitirmişti.
+**Bu, `048-fetih.md`'de kaydedilen bir örüntünün tekrarıdır:** Kur'an, sert bölümleri sıklıkla mağfiret bildirimiyle kapatır. Fetih sûresi hem 14. ayeti hem 29. ayeti bağışlama ile bitirmişti.
 
 ---
 
@@ -2185,7 +2185,7 @@ Bu bağı kendi okumam olarak kaydediyorum; dayanağı iki kelimenin aynı kök 
 
 **Tercih dayatmıyorum.** Ayetin lafzı bir yer adı vermiyor.
 
-**Ve bir kayıt daha:** ayet *lem tetaûhâ* diyerek olumsuz bir sıfat kullanıyor. **Yani yer, sahip olunmakla değil, henüz **basılmamış** olmakla tarif ediliyor.** Bu, `048-fetih.md`'de kaydedilen "vaad ile gerçekleşme arasındaki mesafe" örüntüsüyle uyumludur.
+**Ve bir kayıt daha:** ayet *lem tetaûhâ* diyerek olumsuz bir sıfat kullanıyor. **Yani yer, sahip olunmakla değil, henüz basılmamış olmakla tarif ediliyor.** Bu, `048-fetih.md`'de kaydedilen "vaad ile gerçekleşme arasındaki mesafe" örüntüsüyle uyumludur.
 
 ### وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا — bölümün kapanışı
 
@@ -2270,7 +2270,7 @@ Bu iki nükteyi kendi okumam olarak kaydediyorum.
 
 **Kelimenin kendisi bir hüküm taşımıyor:** dünya, "kötü" demek değil; "**yakın**" demek. Karşısındaki *âhira* da "sonraki" demek. **İkisi de zaman kelimesi.**
 
-**زِينَة — kök ز-ي-ن.** Süs. Ve bu kök sûrede bir kez daha geçecek: otuz üçüncü ayette *teberrüc* bağlamında değil ama aynı anlam alanında.
+**زِينَة — kök ز-ي-ن.** Süs. Ve bu anlam alanı otuz üçüncü ayette *teberrüc* ile bir kez daha karşımıza çıkacak — başka bir kökle, ama aynı alanda.
 
 **Ve *zîne* kelimesinin eklenmesi kayda değer:** ayet "dünya hayatı" demekle yetinmiyor, "**ve süsü**" ekliyor. Yani kastedilen, hayatta kalmak değil; **hayatın fazlası.**
 
@@ -2554,7 +2554,7 @@ Bu, iletişim üzerine söylenebilecek en pratik şeylerden biridir: aynı cüml
 
 **تَبَرُّج — kök ب-ر-ج.** Ve kökün somut anlamı **görünürlük**tür: *burc* — kule, hisar; yüksek olduğu için uzaktan görünen yapı. *Tebercet* — kadın süsünü açığa vurdu.
 
-**`085-buruc.md`'de bu kök sûre adı olarak işlendi** ve orada bu ayet zaten örnek gösterilmişti: *"tebrrüc — bir kadının süsünü ve güzelliğini göstermesi, açığa vurması."* Oraya dayanıyorum.
+**`085-buruc.md`'de bu kök sûre adı olarak işlendi** ve orada bu ayet zaten örnek gösterilmişti: *"teberrüc — bir kadının süsünü ve güzelliğini göstermesi, açığa vurması."* Oraya dayanıyorum.
 
 **ٱلْجَٰهِلِيَّة — kök ج-ه-ل.** Bilgisizlik; ve Kur'an'da bir dönem adı olarak kullanılır.
 
@@ -2621,7 +2621,7 @@ Bunu kendi okumam olarak kaydediyorum.
 | **23** | *mâ beddelû tebdîlâ* |
 | **33** | *yutahhiraküm tathîrâ* |
 
-Ve dördüncüsü 56. ayette gelecek (*sellimû teslîmâ*).
+Ve aynı kalıp 56. ayette de gelecek (*sellimû teslîmâ*).
 
 ### أَهْلَ ٱلْبَيْت — terkip
 
@@ -2943,7 +2943,7 @@ Bir işi tamamlamak, hükme bağlamak, bitirmek. **Yirmi üçüncü ayette *kad�
 
 **ضَلَّ — kök ض-ل-ل.** Yolu kaybetmek, sapmak; ve kökün somut anlamı **bir şeyin içinde kaybolmak**tır: *dalle'l-mâü fi'l-leben* — su sütün içinde kayboldu.
 
-**Yine bir mef'ûl-i mutlak:** *dalle **dalâlen** mübînâ*. **Sûredeki beşinci pekiştirme.**
+**Yine bir mef'ûl-i mutlak:** *dalle **dalâlen** mübînâ*. **Sûredeki dördüncü pekiştirme.**
 
 ### Bugüne bakan yönü
 
@@ -2979,7 +2979,7 @@ Bunu kendi okumam olarak kaydediyorum ve ayetin dinî bağlamı ile bu genel gö
 
 **Ve tam bu yüzden, tek istisnanın nerede yapıldığı önemlidir.**
 
-**Ayette Zeyd'in adı, cümlenin tam ortasında geçiyor: *fe-lemmâ kadâ **Zeydün** minhâ vetarâ*.** Ve o ana kadar aynı kişi, adıyla değil bir tanımlamayla anılmıştı: *"Allah'ın kendisine nimet verdiği, senin de kendisine nimet verdiğin kişi."*
+**Ayette Zeyd'in adı, cümlenin tam ortasında geçiyor: *fe-lemmâ kadâ Zeydün minhâ vetarâ*.** Ve o ana kadar aynı kişi, adıyla değil bir tanımlamayla anılmıştı: *"Allah'ın kendisine nimet verdiği, senin de kendisine nimet verdiğin kişi."*
 
 **Kendi okumam olarak kaydediyorum:** ayetin adı verdiği yer, hükmün kurulduğu yerdir. **Bir adın Kur'an'a yazılması, o adın taşıdığı nispetin (Zeyd b. Muhammed) kaldırıldığı bağlamda oluyor.** Yani kaldırılan bir ad değil, düzeltilen bir nispet; ve Kur'an bunu yaparken kişinin **kendi adını** kayda geçiriyor.
 
@@ -4290,9 +4290,9 @@ Bu bir dizim olgusudur ve kaydediyorum.
 
 **فَ harfi** burada sonuç bildiriyor: tanınmanın **sonucu** incitilmemek.
 
-**Ve *yü'zeyne* fiili — أ-ذ-ي kökü — bu sûrede yedinci ve son kez geçiyor.**
+**Ve *yü'zeyne* fiili — أ-ذ-ي kökü — bu sûrede altıncı kez geçiyor.**
 
-**Yani sûrenin eziyet ekseni burada kapanıyor** ve kapanış, bir tedbirle oluyor.
+**Yani sûrenin eziyet ekseni burada bir tedbire bağlanıyor** ve kapanış, bir tedbirle oluyor.
 
 **Ayetin gerekçesi hakkında üç kayıt düşüyorum:**
 
@@ -4634,7 +4634,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı ifadenin iki geçişinin de bi
 
 ### Eziyet ekseninin son halkası
 
-**أ-ذ-ي kökü bu ayette sekizinci ve son kez geçiyor.**
+**أ-ذ-ي kökü bu ayette yedinci ve son kez geçiyor.**
 
 **Ve sûre, kökü bir geçmiş örneğe bağlayarak kapatıyor.** Kırk sekizinci ayette Peygamber'e "eziyetlerine aldırma" denmişti; elli üçüncü ayette farkında olunmadan verilen rahatsızlık kaydedilmişti; elli yedi-elli sekizinci ayetlerde hüküm verilmişti; elli dokuzuncu ayette tedbir önerilmişti.
 
@@ -4662,7 +4662,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı kökün sûredeki dağılımı
 
 ### وَجِيه — kök و-ج-ه
 
-**Ve kökün asıl anlamı **yüz**tür: *vech*. *Vecîh* — yüzü olan, itibarlı, saygın; bir topluluğun önünde yüzü ak olan.**
+**Ve kökün asıl anlamı yüztür: *vech*. *Vecîh* — yüzü olan, itibarlı, saygın; bir topluluğun önünde yüzü ak olan.**
 
 **Ve bu kelimenin seçimi, bir önceki ayetle karşıtlık kuruyor ve bu, kaydedilmesi gereken bir dizim olgusudur:**
 
@@ -4854,7 +4854,7 @@ Bunu bir gözlem olarak kaydediyorum, bir tercih olarak değil.
 
 **Aynı varlıklar, iki farklı çağrıya iki zıt cevap veriyor.**
 
-**Ve fark, çağrının **türünde**.**
+**Ve fark, çağrının türünde.**
 
 **Fussilet'te bir *emir* vardı:** *i'tiyâ* — gelin. Ve emrin karşılığı itaattir. **Cevap: isteyerek geldik.**
 
@@ -5054,7 +5054,7 @@ Bunu kendi okumam olarak kaydediyorum ve bir kelam iddiası olarak değil, iki a
 | **Yön** | Hepsi olumlu | İki olumsuz, bir olumlu |
 | **Kapanış** | *mağfiraten ve ecran azîmâ* | *ğafûran rahîmâ* |
 
-**Sûre, erkek-kadın çiftini üç yerde kullanıyor: 35 (vasıflar), 36 (yükümlülük), 58 (incitilenler), 73 (sonuçlar).** Dördü de kapsamı açıkça iki tarafa açıyor.
+**Sûre, erkek-kadın çiftini dört yerde kullanıyor: 35 (vasıflar), 36 (yükümlülük), 58 (incitilenler), 73 (sonuçlar).** Dördü de kapsamı açıkça iki tarafa açıyor.
 
 Bunu bir metin verisi olarak kaydediyorum.
 
@@ -5064,7 +5064,7 @@ Bunu bir metin verisi olarak kaydediyorum.
 
 **Bu, `048-fetih.md`'de kaydedilen örüntünün tekrarıdır:** Kur'an, sert bölümleri sıklıkla mağfiret bildirimiyle kapatır.
 
-**Ve bu sûrede aynı fasıla dördüncü kez geliyor:** *ğafûran rahîmâ* (5, 24, 50, 59 ve 73 — beş kez).
+**Ve bu sûrede aynı fasıla beşinci kez geliyor:** *ğafûran rahîmâ* (5, 24, 50, 59 ve 73 — beş kez).
 
 ### يَتُوبَ ٱللَّهُ عَلَى — kalıbın yönü
 
@@ -5152,7 +5152,7 @@ Anlatılanlar: bir rüzgâr, gözlerin hâli, yüreklerin hâli, zanlar, söylen
 | **ق-ل-ب** | 4, 10, 12, 26, 32, 51, 53, 66 | Kalple açılıp yüzün çevrilmesiyle kapanıyor |
 | **س-ل-م** | 22 (*teslîm*), 35 (*müslimîn*), 44 (*selâm*), 56 (*sellimû*) | Hâlden vasfa, vasıftan karşılığa |
 | **ص-د-ق** | 8, 22, 23, 24, 35 | Sorulan sadâkat, karşılık gören sadâkat |
-| **أ-ذ-ي** | 48, 53 (iki kez), 57, 58, 59, 69 | Sekiz geçiş: eziyetin bütün yönleri |
+| **أ-ذ-ي** | 48, 53 (iki kez), 57, 58, 59, 69 | Yedi geçiş: eziyetin bütün yönleri |
 | **ب-د-ل** | 23, 52, 62 | Söz, ilişki, ilâhî işleyiş — üç düzeyde değişmezlik |
 | **ح-م-ل** | 58 (*ihtemelû*), 72 (*hamele*) | İstenmeden alınan yük / üstlenilen yük |
 | **ح-ر-ج** | 37, 38, 50 | Aynı sıkışıklığın kaldırılması, üç tarafta |
@@ -5172,7 +5172,7 @@ Anlatılanlar: bir rüzgâr, gözlerin hâli, yüreklerin hâli, zanlar, söylen
 | **41** | *üzkürû'llâhe **zikran** kesîrâ* | Zikrin çokluğu |
 | **56** | *sellimû **teslîmâ*** | Teslimiyetin tamlığı |
 | **61** | *kuttilû **taktîlâ*** | Yaptırımın kesinliği |
-| **70** | *fâze **fevzen** azîmâ* | Kurtuluşun büyüklüğü |
+| **71** | *fâze **fevzen** azîmâ* | Kurtuluşun büyüklüğü |
 
 **Ve bu tercih, sûrenin muhtevasıyla uyumludur ve kendi okumam olarak kaydediyorum:** sûre baştan sona **söz ile gerçeklik arasındaki mesafeyi** konu ediyor. Ve mef'ûl-i mutlak, Arapçada bir sözü **kendi masdarıyla** doğrulama aracıdır — cümleyi, ifade ettiği fiilin kendisiyle sağlamlaştırır.
 

@@ -327,7 +327,7 @@ Klasik kaynaklarda ikisi de nakledilir ve birçok müfessir ikisini birleştirir
 
 Bu, Kâria bölümünde kaydedilen kayıtla okunmalıdır: ses-anlam uyumu bütün dillerde bulunan bir olgudur ve Arapçada özellikle işlektir. Bunu bir mucize delili olarak sunmuyorum; kelimenin biçimiyle anlamının burada örtüştüğünü kaydediyorum.
 
-**Kur'an'daki diğer geçişleri.** Kelime Kur'an'da dört yerde geçer ve **hepsi Âd kavmi hakkındadır**: burası, Fussilet 41/16, Kamer 54/19, ve (aynı olayın anlatıldığı) yerler. Yani *sarsar*, Kur'an'da tek bir olayın adı gibidir.
+**Kur'an'daki diğer geçişleri.** Kelime Kur'an'da üç yerde geçer ve **hepsi Âd kavmi hakkındadır**: burası, Fussilet 41/16, Kamer 54/19. Yani *sarsar*, Kur'an'da tek bir olayın adı gibidir.
 
 Kamer 54/19 ayeti ayrıca kayda değer: *"Uğursuz ve sürekli bir günde üzerlerine uğultulu bir rüzgâr gönderdik."* Orada **tek gün**, burada **yedi gece sekiz gün** deniyor. Klasik izah, Kamer'deki *"müstemirr"* (sürekli) kaydının süreklilik bildirdiği ve iki ayetin çelişmediği yönündedir: *"uğursuz gün"* olayın başladığı günü, Hâkka ise süresini veriyor.
 
@@ -554,7 +554,7 @@ Farkı şudur ve Mâûn bölümünde de kaydedilmişti: **düz cümle bilgi veri
 
 Ve muhatabın bakabileceği bir yer vardı. Şems ve Fecr bölümlerinde kaydedildiği gibi, Mekke-Şam kervan yolu helâk edilmiş kavimlerin yurtlarından geçiyordu; harabeler görülebilir haldeydi. Soru soyut değil.
 
-### مِن — istiğrak bâ'sı
+### مِن — istiğrak için zâide
 
 **مِّن بَاقِيَةٍ** — buradaki *min* zâide (fazladan) bir harftir ve işlevi **istiğrak**tır: olumsuzluğu genelleştirmek.
 
@@ -705,7 +705,7 @@ Bu, iki şekilde izah edilir ve ikisi de dilde mümkündür:
 
 İkinci izah Kur'an'ın kendi vurgusuyla uyumludur: elçiler farklıdır, çağrı tektir.
 
-**"Rablerinin elçisi".** Ayet "Allah'ın elçisi" demiyor, **"Rablerinin elçisi"** diyor. Fecr bölümünde *Rab* kelimesinin bu sûredeki sekiz geçişi tablolaştırılmış ve kelimenin "terbiye, bakım, sahiplik" yükü kaydedilmişti.
+**"Rablerinin elçisi".** Ayet "Allah'ın elçisi" demiyor, **"Rablerinin elçisi"** diyor. Fecr bölümünde *Rab* kelimesinin o sûredeki sekiz geçişi tablolaştırılmış ve kelimenin "terbiye, bakım, sahiplik" yükü kaydedilmişti.
 
 Buradaki işlevi şudur: **isyan edilen makam, yabancı bir makam değil.** Kendilerini besleyip büyüten, hallerini düzenleyen taraf. İsyan, bir yabancıya değil, bakıcıya karşı yapılıyor.
 
@@ -778,7 +778,7 @@ Yani ayetin **kelimesi** üç kez kullanıldı, **kendisi** hiç işlenmedi. Şi
 
 Kök tahlili yukarıda anılan üç bölümde yapıldı. Buradan sonrası için gereken tek özet şudur: **ط-غ-ي, bir şeyin kendi sınırını aşmasıdır**; ve kelimenin en somut kullanımı suyun kabından taşmasıdır.
 
-Şimdi bu bilgiyi sûrenin içine koyalım. Ayet, **beş ayet önce** aynı kökten *ٱلطَّاغِيَة* kelimesini kullanmıştı:
+Şimdi bu bilgiyi sûrenin içine koyalım. Ayet, **altı ayet önce** aynı kökten *ٱلطَّاغِيَة* kelimesini kullanmıştı:
 
 | Ayet | Kelime | Kim/ne taşıyor |
 |---|---|---|
@@ -1462,7 +1462,7 @@ Bu karşılaştırmayı kendi okumam olarak kaydediyorum; iki ayetin lafızları
 
 ### Ve karşı sahneyle karşıtlık
 
-Asıl kilit, altıncı ayetteki karşılaştırmadır ve onu şimdi kurmak gerekiyor, çünkü yirmi beşinci ayette geri gelecek:
+Asıl kilit, bu iki sahnenin karşılaştırmasıdır ve onu şimdi kurmak gerekiyor, çünkü yirmi beşinci ayette geri gelecek:
 
 | | **Sağdaki (19-20)** | **Soldaki (25-29)** |
 |---|---|---|
@@ -1660,7 +1660,7 @@ Ve bu, cennet nimetlerinin niteliğini değiştiriyor. Verilen şey bir **bağı
 - *"Kendiniz için **önceden ne gönderirseniz** onu Allah katında bulursunuz."* (Bakara 2/110)
 - *"Herkes **önden gönderdiğini** ve geride bıraktığını bilir."* (İnfitâr 82/5)
 
-Dördü de aynı fikri taşıyor: amel, **öne gönderilen** bir şeydir; kişi ondan sonra gelir.
+Bu üç ayet ve buradaki *eslaftüm* aynı fikri taşıyor: amel, **öne gönderilen** bir şeydir; kişi ondan sonra gelir.
 
 **Ve "peşin ödeme" çerçevesi bir şey daha söylüyor.** Peşin ödeme sözleşmesinde ödeyen kişi, malı görmeden öder. Ödediği anda elinde bir şey yoktur; sadece bir söz vardır.
 
@@ -1797,7 +1797,7 @@ Ortak çekirdek **bitirmek, kapatmak, tamamlamak**tır. Bir işi askıda bırakm
 
 | Görüş | İzah | Dayanağı |
 |---|---|---|
-| **[İlk] ölüm** | *el-mevte* müzekkerdir ama *el-mevte* (ölüm hadisesi, *mevte*) müennes okunabilir; ya da "ölüm" zımnen kastedilmiştir | En yaygın görüş; Kur'an'ın başka yerlerinde aynı temenni ölüm için dile getirilir |
+| **[İlk] ölüm** | *el-mevt* müzekkerdir ama *el-mevte* (tek bir ölüm hadisesi) müennes okunabilir; ya da "ölüm" zımnen kastedilmiştir | En yaygın görüş; Kur'an'ın başka yerlerinde aynı temenni ölüm için dile getirilir |
 | **Dünyadaki hayatı / hali** | "Keşke o hayatım her şeyi bitirseydi" | Zamirin müennes oluşu |
 | **Ölüm anındaki durum** | Ölüm sırasındaki hal kastediliyor | Aynı |
 
@@ -2010,7 +2010,7 @@ Yani sahnede sayılabilir olan tek nesne, adamın sahip olduğu şeyler değil; 
 
 **Kök: س-ل-ك.** Ve bu fiilin seçimi görüntüyü tamamlıyor.
 
-*Seleke* — bir yola girmek, bir yoldan gitmek (*sülûk*, *mesleك* — yol); ve **bir şeyi bir şeyin içinden geçirmek**: ipliği iğneden geçirmek, bir cismi dar bir aralıktan sokmak.
+*Seleke* — bir yola girmek, bir yoldan gitmek (*sülûk*, *meslek* — yol); ve **bir şeyi bir şeyin içinden geçirmek**: ipliği iğneden geçirmek, bir cismi dar bir aralıktan sokmak.
 
 Kur'an'daki geçişleri iki dalı da gösteriyor:
 
@@ -2126,7 +2126,7 @@ Bunu sûre içi doğrulanabilir bir kelime bağı olarak kaydediyorum; iki geçi
 
 **طَعَامِ ٱلْمِسْكِينِ** tamlaması da Mâûn bölümünde ayrıntılı işlendi: iki okuyuş (masdar tamlaması / mülkiyet tamlaması) verildi ve mülkiyet okuyuşu **Meâric 70/24-25** ile desteklendi. O tahlile Meâric bölümünde döneceğim.
 
-**Buraya eklenecek olan, bu tamlamanın sûre içindeki kaderi.**
+**Buraya eklenecek olan, bu tamlamanın sûre içindeki kaderidir.**
 
 ---
 
@@ -2410,7 +2410,7 @@ Bu cümle **Tekvîr 81/19** bölümünde ayrıntılı işlendi ve orada bu ayetl
 - **قَوْلُ رَسُول tamlamasının anlamı:** *"elçinin **taşıdığı** söz", elçinin **telif ettiği** söz değil.* Gerekçe kelimenin kendi mantığındadır: *"Bir elçinin tanımı, kendisine ait olmayan bir sözü taşımasıdır. Söz onun olsaydı elçi olmazdı."*
 - **Aynı ifade, iki farklı elçi** tablosu: Tekvîr'de kastedilen **melek**, Hâkka'da **Peygamber**. Ve ayrımı yapan şey cümlenin kendisi değil, **arkasından gelenler.**
 - Tekvîr'de çıkarılan kural: *"bir ifadenin anlamı, ifadenin içinde değil, durduğu yerde bulunur."*
-- **Beş nitelikli aktarım zinciri argümanı** (kerîm, zû kuvve, mekîn, mutâ', emîn, ğayru danîn) ve hadis usulündeki râvi şartlarıyla (zabt, adalet, ittisal) kurulan benzerlik — bir çıkarım olarak kaydedilmişti.
+- **Altı nitelikli aktarım zinciri argümanı** (kerîm, zû kuvve, mekîn, mutâ', emîn, ğayru danîn) ve hadis usulündeki râvi şartlarıyla (zabt, adalet, ittisal) kurulan benzerlik — bir çıkarım olarak kaydedilmişti.
 
 **Buraya eklenecek olan, iki sûrenin argümanlarının nasıl birbirini tamamladığıdır.** Tekvîr bölümünde bu karşılaştırma yapılmadı.
 
@@ -2928,7 +2928,7 @@ Ama kelimenin burada ne yaptığını kaydetmeye değer: **örten kişi, örtün
 | **69/1** | **ٱلْحَآقَّة** | **ح-ق-ق** |
 | **69/51** | **حَقُّ ٱلْيَقِينِ** | **ح-ق-ق** |
 
-Elli bir ayet arayla aynı kök. Sûre adını söyleyerek başlıyor ve adının kökünü söyleyerek bitiyor.
+Elli ayet arayla aynı kök. Sûre adını söyleyerek başlıyor ve adının kökünü söyleyerek bitiyor.
 
 Ve arada geçen her şey o iki kelime arasında duruyor: bir iddia gerçekleşecek (1), ve o iddiayı taşıyan söz gerçeğin kendisidir (51).
 
@@ -3053,10 +3053,10 @@ Bunu kendi okumam olarak kaydediyorum. Dayanağı iki kökün sözlük anlamlar�
 | Bölüm | Ayetler | Konu | Anahtar kelime |
 |---|---|---|---|
 | **Açılış** | 1-3 | Ad ve cevaplanmayan soru | **ٱلْحَآقَّة** |
-| **Birinci bölüm** | 4-12 | Geçmişte gerçekleşenler | **كَذَّبَتْ** / **تَذْكِرَة** |
-| **İkinci bölüm** | 13-18 | Kıyamet sahnesi | **وَقَعَتِ ٱلْوَاقِعَةُ** |
-| **Üçüncü bölüm** | 19-37 | İki kitap, iki akıbet | **فَأَمَّا … وَأَمَّا** |
-| **Dördüncü bölüm** | 38-47 | Metnin kaynağı | **قَوْلُ رَسُولٍ كَرِيمٍ** |
+| **Birinci alt bölüm** | 4-12 | Geçmişte gerçekleşenler | **كَذَّبَتْ** / **تَذْكِرَة** |
+| **İkinci alt bölüm** | 13-18 | Kıyamet sahnesi | **وَقَعَتِ ٱلْوَاقِعَةُ** |
+| **Üçüncü alt bölüm** | 19-37 | İki kitap, iki akıbet | **فَأَمَّا … وَأَمَّا** |
+| **Dördüncü alt bölüm** | 38-47 | Metnin kaynağı | **قَوْلُ رَسُولٍ كَرِيمٍ** |
 | **Kapanış** | 48-52 | Metnin iki etkisi ve emir | **حَقُّ ٱلْيَقِينِ** |
 
 ### Fasılanın haritası
@@ -3069,7 +3069,7 @@ Sûrenin ses düzeni, muhtevasının bölümleriyle **birebir örtüşüyor.** B
 | **19-20, 25-29** | **-iyeh** (sükt hâsı: *kitâbiyeh, hisâbiyeh, mâliyeh, sultâniyeh*) | **İki adamın konuşması** |
 | **21-24, 27** | **-iye** (*râdıye, âliye, dâniye, hâliye, kādıye*) | Ödül ve temenni |
 | **30-32** | **-ûh** (*ğullûh, sallûh, uslükûh*) | **Emirler** |
-| **33-37** | **-îm / -în** (*el-azîm, el-miskîn, hamîm, ğıslîn, el-hâtiûn*) | Gerekçe ve azap |
+| **33-37** | **-îm / -în / -ûn** (*el-azîm, el-miskîn, hamîm, ğıslîn, el-hâtiûn*) | Gerekçe ve azap |
 | **38-52** | **-ûn / -în** (*tubsırûn, kerîm, tü'minûn, tezekkerûn, el-âlemîn, el-ekāvîl, el-yemîn, el-vetîn, hâcizîn, el-müttekīn, mükezzibîn, el-kâfirîn, el-yakîn, el-azîm*) | **Vahyin savunulması** |
 
 **Üç şey dikkat çekiyor:**

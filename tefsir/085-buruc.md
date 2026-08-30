@@ -887,7 +887,7 @@ Ve bu, üçüncü ayetteki yeminlerin cevabı olduğu görüşünü destekleyen 
 *İnnehû hüve yübdiü ve yuîd · Ve hüve'l-Ğafûru'l-Vedûd · Zü'l-arşi'l-Mecîd · Fe''âlün limâ yürîd*
 "Şüphesiz O, başlatır ve tekrarlar. O, çok bağışlayandır, çok sevendir. Arşın sahibidir, şanı yücedir. Dilediğini yapandır."
 
-Dört ayet, art arda beş isim ve iki fiil. Sûrenin en yoğun bölümü ve **dizilişi tesadüf değil.**
+Dört ayet, art arda altı isim ve fiil. Sûrenin en yoğun bölümü ve **dizilişi tesadüf değil.**
 
 ### يُبْدِئُ وَيُعِيدُ — başlatır ve tekrarlar
 
@@ -1011,7 +1011,7 @@ Sûre boyunca sayılan şeyler — şiddetli yakalama, başlatma ve tekrarlama, 
 
 Ve bu cümlenin bir de sûre bağlamında keskin bir tarafı var. Ateşin başında oturanlar, dilediklerini yaptıklarını sanıyorlardı — bir hükümdarın en tanımlayıcı vasfı budur. Ayet, o sıfatı elinden alıp gerçek sahibine veriyor.
 
-### Beş ismin dizilişi
+### Altı ismin dizilişi
 
 Dört ayette sayılan isimleri sırayla okuyun:
 
@@ -1103,7 +1103,7 @@ Firavun ve Semûd, Kur'an'ın **dünyada helâk edildiğini** açıkça söyledi
 | Okuma | İzah |
 |---|---|
 | **Kıyas yoluyla uyarı** | "Onlar da güçlüydü ve yakalandılar; siz de yakalanırsınız." Örnekler, on ikinci ayetteki *batş* hükmünün delilidir |
-| **Muhatabın Mekkeliler olması** | Ayet artık hendek sahiplerine değil, Mekke'de aynı işi yapanlara bakıyor. Ondokuzuncu ayet bunu destekler: *"Aksine, inkâr edenler yalanlamaktadır"* — muzâri kipi, o an devam eden bir hali anlatır |
+| **Muhatabın Mekkeliler olması** | Ayet artık hendek sahiplerine değil, Mekke'de aynı işi yapanlara bakıyor. On dokuzuncu ayet bunu destekler: *"Aksine, inkâr edenler yalanlamaktadır"* — muzâri kipi, o an devam eden bir hali anlatır |
 
 İkinci okuma bağlamla daha uyumludur ve on dokuzuncu ayetin zaman kipi bunu destekliyor. **Ama sûre bunu açıkça söylemiyor;** iki okuma da metne aykırı değildir.
 

@@ -355,7 +355,7 @@ Bu tefsirde bir tercih yapmıyorum; üçü de savunulmuştur ve Kur'an konuyu a�
 
 **Ama siyakta bir şey var ve kaydedilmeli.**
 
-Beşinci ayet hayvanların toplanmasını söylüyor. **Sekizinci ayet, öldürülmüş bir çocuğa soruluyor.** Aradaki iki ayet nefislerin eşleştirilmesi ve — sekizinci ayet.
+Beşinci ayet hayvanların toplanmasını söylüyor. **Sekizinci ayet, öldürülmüş bir çocuğa soruluyor.** Aradaki iki ayet denizlerin kaynatılması ve nefislerin eşleştirilmesidir.
 
 Yani sûre, hesabın kapsamını genişleten bir sıra kuruyor: **hayvanlar bile toplanıyorsa, hiç kimsenin hesabını sormadığı bir çocuk elbette sorulacaktır.**
 
@@ -782,7 +782,7 @@ Bu, Mâûn sûresinin mimarîsiyle aynı hareket — kozmik iddiadan bir tencere
 
 **Bu, ayetin en çok konuşulan yeri.**
 
-On üç şart cümlesinin öznelerine bakın: *eş-şems* (belirli), *en-nücûm* (çoğul, belirli), *el-cibâl*, *el-işâr*, *el-vuhûş*, *el-bihâr*, **en-nüfûs** (çoğul!), *el-mev'ûde*, *es-suhuf*, *es-semâ*, *el-cahîm*, *el-cennet*.
+On iki şart cümlesinin öznelerine bakın: *eş-şems* (belirli), *en-nücûm* (çoğul, belirli), *el-cibâl*, *el-işâr*, *el-vuhûş*, *el-bihâr*, **en-nüfûs** (çoğul!), *el-mev'ûde*, *es-suhuf*, *es-semâ*, *el-cahîm*, *el-cennet*.
 
 Hepsi ya belirli ya çoğul ya ikisi birden. Yedinci ayette **nefisler** (çoğul) eşleştiriliyordu.
 
@@ -1085,7 +1085,7 @@ Nitekim ayet, elçinin niteliklerini saymaya başlıyor — ve saydığı niteli
 
 Bu, Kur'an okumasının temel bir kuralını gösteriyor: bir ifadenin anlamı, ifadenin içinde değil, durduğu yerde bulunur.
 
-### Beş nitelik: bir taşıyıcıdan ne beklenir?
+### Altı nitelik: bir taşıyıcıdan ne beklenir?
 
 Şimdi 19-24. ayetlerde sayılanları sıraya koyun. Sayılanların hepsi, bir **haberin sağlam ulaşması** için gerekli şartlar:
 
@@ -1573,7 +1573,7 @@ Yirmi dokuz ayet boyunca askıda tutulan soru — *bunları kim yapıyor?* — e
 
 Bu, sûrenin en güçlü yapı özelliğidir. Ve şu etkiyi üretiyor: okuyucu on üç ayet boyunca fâili arar; ikinci yarıda bir zincir tarif edilir (elçi, Arş sahibi, taşıyıcı) ama zincirin başı hâlâ unvanla anılır (*zi'l-arş*); ve ancak son cümlede isim konur.
 
-**Ayrıca son iki kelime, sûrenin bir önceki ayetiyle de kafiye kuruyor:** 27. ayet *li'l-âlemîn* ile bitiyordu, 29. ayet *rabbü'l-âlemîn* ile bitiyor. **Metin âlemler için, ve âlemlerin bir Rabbi var.** Aynı kelime, biri hedef biri kaynak.
+**Ayrıca son iki kelime, sûrenin iki ayet öncesiyle de kafiye kuruyor:** 27. ayet *li'l-âlemîn* ile bitiyordu, 29. ayet *rabbü'l-âlemîn* ile bitiyor. **Metin âlemler için, ve âlemlerin bir Rabbi var.** Aynı kelime, biri hedef biri kaynak.
 
 **Ve bir bağ daha:** *rabbü'l-âlemîn*, Fâtiha'nın ikinci ayetidir. Tekvîr, Fâtiha'nın başladığı yerde bitiyor. Bunu bir okuma imkânı olarak kaydediyorum — mushaf tertibi ile nüzul tertibi farklıdır ve bu tür bağlantılar delil değil, bir okuma imkânıdır.
 
@@ -1748,7 +1748,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **سُئِلَتْ / سَأَلَتْ kıraati.** İki okuyuş tablo halinde verildi; **imam adı verilmedi.**
 - **ضَنِين / ظَنِين kıraati.** İki okuyuş tablo halinde verildi ve ikisinin de siyakta dayanağı olduğu gösterildi. Kendi tercihimi (*ضَنِين*) gerekçesiyle belirttim; **bağlayıcı değildir** ve öteki okuyuşun dayanağı da açıkça yazıldı. **İmam adı verilmedi.**
 - **الخُنَّس / الكُنَّس'in ne olduğu.** Üç görüş tablo halinde verildi; **tercih yapılmadı.** Gezegen yorumunun cazibesi kaydedildi ama "ayet yörünge hareketini haber veriyor" iddiası açıkça reddedildi ve gerekçesi yazıldı.
-- **عَسْعَسَ'nin yönü.** *Ezdâd* olduğu belirtildi; "çekildiğinde" okuyuşunu tercih ettim ve gerekçesini (19. ayetle aynı ana denk gelmesi) yazdım. **Bağlayıcı değildir.** "İncelme" çözümü, en güçlü bulduğum izah olarak sunuldu, nakil olarak değil.
+- **عَسْعَسَ'nin yönü.** *Ezdâd* olduğu belirtildi; "çekildiğinde" okuyuşunu tercih ettim ve gerekçesini (18. ayetle aynı ana denk gelmesi) yazdım. **Bağlayıcı değildir.** "İncelme" çözümü, en güçlü bulduğum izah olarak sunuldu, nakil olarak değil.
 - **Necm 53/5-8'deki görme olayının kimi gösterdiği.** Tartışmanın varlığı kaydedildi ve o tartışmanın Necm sûresine ait olduğu belirtildi; burada karara bağlanmadı.
 - **رَسُول'ün melek olduğu.** Siyakla gerekçelendirildi ve Hâkka 69/40 ile karşılaştırıldı; ama bunun bir **çıkarım** olduğu, ayetin adı vermediği açıkça belirtildi.
 - **Peygamber'in el-Emîn diye anılması.** "Kaynaklarda genişçe yer alır, tek bir rivayete dayanmaz" kaydıyla verildi.

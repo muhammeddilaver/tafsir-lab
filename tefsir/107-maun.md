@@ -30,7 +30,7 @@ Burada dürüst olmak gerekiyor: kesin bir cevap yok, ve olan görüşler nakle 
 
 ## Nüzul sebebi rivayetleri
 
-Rivayetlerde ilk ayetlerin şu kişiler hakkında indiği söylenir: Ebû Cehil (himayesindeki bir yetimin hakkını verdiği), Âs b. Vâil es-Sehmî, Velîd b. Muğîre, Ebû Süfyân (deve keserken kendisinden bir şey isteyen yetimi kovduğu). Son dört ayet için ise Abdullah b. Übey ve münafıklar zikredilir.
+Rivayetlerde ilk ayetlerin şu kişiler hakkında indiği söylenir: Ebû Cehil (himayesindeki bir yetimin hakkını vermediği), Âs b. Vâil es-Sehmî, Velîd b. Muğîre, Ebû Süfyân (deve keserken kendisinden bir şey isteyen yetimi kovduğu). Son dört ayet için ise Abdullah b. Übey ve münafıklar zikredilir.
 
 Bu rivayetlere ihtiyatla bakmak gerekir ve bunun somut bir sebebi var: **isimler birbirini tutmuyor.** Aynı üç ayet için dört ayrı ad verilmesi, bu adların olaydan sonra, "acaba kim kastedilmişti" sorusuna verilen cevaplar olduğunu düşündürür. Rivayetlerin kendisi de çoğunlukla mürsel, yani sahâbî halkası atlanmış haldedir.
 
@@ -275,7 +275,7 @@ Bu okuyuşun Kur'an içinden çok güçlü bir desteği var:
 
 Bunun sonuçları ciddi:
 
-1. **Verenin üstünlüğü ortadan kalkar.** Borcunu ödeyen adam minnet beklemez. Bu yüzden Kur'an sadakayı başa kakmayı (*mennn*) sadakayı iptal eden bir şey sayar (*Bakara 2/264*).
+1. **Verenin üstünlüğü ortadan kalkar.** Borcunu ödeyen adam minnet beklemez. Bu yüzden Kur'an sadakayı başa kakmayı (*menn*) sadakayı iptal eden bir şey sayar (*Bakara 2/264*).
 2. **Alanın utancı ortadan kalkar.** Hakkını alan kişi el açmış olmaz.
 3. **Vermemek "cömert olmamak" değil, "hakkı vermemek" olur.** Ahlakî bir eksiklikten hukukî bir ihlale geçilir.
 
@@ -295,7 +295,7 @@ Ve en kapsamlısı *Müddessir 74/42-46*. Cehennemdekilere soruluyor: *"Sizi Sek
 3. *"Boş şeylere dalanlarla birlikte dalıyorduk."*
 4. *"Ve hesap gününü yalanlıyorduk."*
 
-Bu listeye dikkat edin: **namaz, yoksulu doyurmak, hesap gününü yalanlamak.** Mâûn sûresinin üç ana unsuru, Müddessir'de aynı sırayla bir arada. İki metin aynı şeyi söylüyor; biri cehennemdekilerin ağzından itiraf olarak, diğeri dünyadayken teşhis olarak.
+Bu listeye dikkat edin: **namaz, yoksulu doyurmak, hesap gününü yalanlamak.** Mâûn sûresinin üç ana unsuru, Müddessir'de ters sırayla bir arada. İki metin aynı şeyi söylüyor; biri cehennemdekilerin ağzından itiraf olarak, diğeri dünyadayken teşhis olarak.
 
 ---
 
@@ -551,7 +551,7 @@ Bu, kısa Mekkî sûrelerin ortak özelliğidir ve işlevi ezberlenebilirlik, ri
 
 Son ayetin ne dediğini anlamak için, o toplumda ödünç alıp vermenin ne demek olduğunu bilmek gerekiyor.
 
-7. yüzyıl Arabistan'ında bir hane, ihtiyaç duyduğu her aletin kendisine ait bir kopyasına sahip değildi. Büyük bir tencere, un öğütmek için değirmen taşı, kuyudan su çekmek için kova ve ip, balta, hayvan kesmek için bıçak — bunlar pahalı, dayanıklı ve seyrek kullanılan aletlerdi. Mahalle bunları **paylaşarak** kullanıyordu.
+Yedinci yüzyıl Arabistan'ında bir hane, ihtiyaç duyduğu her aletin kendisine ait bir kopyasına sahip değildi. Büyük bir tencere, un öğütmek için değirmen taşı, kuyudan su çekmek için kova ve ip, balta, hayvan kesmek için bıçak — bunlar pahalı, dayanıklı ve seyrek kullanılan aletlerdi. Mahalle bunları **paylaşarak** kullanıyordu.
 
 Bu, hayır işi değildi; **altyapıydı.** Bugün elektrik şebekesi neyse, o günkü ödünç ağı oydu. Ve karşılıklıydı: bugün senin kovanı alan, yarın kendi baltasını verecekti. Sistem bir sigorta gibi çalışıyordu — kimse her şeye sahip olmak zorunda kalmadan herkes her şeye erişebiliyordu.
 

@@ -375,7 +375,7 @@
 
 ### مِّن ذُنُوبِكُمْ — teb'îz mi, zâid mi
 
-**Ayette bir edat var ve dilciler üzerinde durur: *li-yağfira leküm **min** zünûbiküm* — "günahlarınız**dan**".**
+**Ayette bir edat var ve dilciler üzerinde durur: *li-yağfira leküm min zünûbiküm* — "günahlarınızdan".**
 
 | Okuma | *Min*'in işlevi | Anlam |
 |---|---|---|
@@ -419,7 +419,7 @@
 
 ### وَقَدْ هَدَىٰنَا سُبُلَنَا — çoğul yollar
 
-***Sübül* (yollar) çoğul, ve tamlama zamiri kaydedilmelidir: *sübüle-**nâ*** — "**bizim** yollarımız."**
+***Sübül* (yollar) çoğul, ve tamlama zamiri kaydedilmelidir: *sübüle-nâ* — "bizim yollarımız."**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı zamirdir:** cümle "bize yolu gösterdi" demiyor; **"bize kendi yollarımızı gösterdi" diyor.** Yani hidayet, dışarıdan dayatılan tek bir güzergâh olarak değil, **her birinin kendi yolunu bulması** olarak anılıyor.
 
@@ -439,9 +439,9 @@
 
 "**İnkâr edenler elçilerine dediler ki: 'Ya sizi yurdumuzdan çıkarırız, ya da mutlaka bizim dinimize dönersiniz.'** Rableri de onlara vahyetti: '**Zalimleri mutlaka helâk edeceğiz · ve onlardan sonra sizi o yurda mutlaka yerleştireceğiz. Bu, makamımdan korkan ve tehdidimden korkan içindir.**'"
 
-### Dört te'kîdli fiil arka arkaya
+### Altı te'kîdli fiil arka arkaya
 
-**Kaydedilmesi gereken bir dizim olgusu var:** dört ayet boyunca **lâm + şeddeli nûn** kalıbı beş kez geliyor.
+**Kaydedilmesi gereken bir dizim olgusu var:** dört ayet boyunca **lâm + şeddeli nûn** kalıbı altı kez geliyor.
 
 | Ayet | Fiil | Kim söylüyor |
 |---|---|---|
@@ -462,8 +462,8 @@
 
 **Dilciler bu kullanımı iki şekilde açıklar:**
 
-| İzah | Gerekçe |
-|---|---|
+| # | İzah | Gerekçe |
+|---|---|---|
 | 1 | Fiil "olmak, hâle gelmek" anlamındadır; geçmiş bir durumu gerektirmez | Arapçada *âde* bu anlamda kullanılır |
 | 2 | Karşı taraf, kendi dinini **asıl** sayıyor; ondan ayrılanı "dönmüş" değil "sapmış" görüyor | Hitabın mantığı |
 
@@ -483,7 +483,7 @@
 
 **Üçü de nakledilir; tercih dayatmıyorum.**
 
-**İkinci okuma için verilen dayanak, Ra'd sûresinin 33. ayetidir. Bu ayet dizinde henüz işlenmedi** (Ra'd sûresi dosyası bulunmuyor), **bu yüzden bir atıf değil, yalnız bir karşılaştırma imkânı olarak anıyorum.**
+**İkinci okuma için verilen dayanak, Ra'd sûresinin 33. ayetidir.** Bu ayet `013-rad.md` 13/32-38 bölümünde işlendi (*kāimün alâ külli nefsin bimâ kesebet*); **oraya dayanıyorum.**
 
 **Ve terkip `055-rahman.md` 55/46'da geçmişti** (*ve li-men hâfe makāme rabbihî cennetân*). **Orada aynı ifade bir mükâfatla, burada bir yerleştirmeyle birlikte anılıyor.**
 
@@ -581,7 +581,7 @@
 
 ### ٱشْتَدَّتْ بِهِ ٱلرِّيحُ — dizim
 
-**Fiil ilginç kurulmuş: *işteddet **bihi**'r-rîh* — kelimesi kelimesine "rüzgâr onunla şiddetlendi."**
+**Fiil ilginç kurulmuş: *işteddet bihi'r-rîh* — kelimesi kelimesine "rüzgâr onunla şiddetlendi."**
 
 **Beklenen kalıp "rüzgâr onu savurdu" olurdu.** Ayet bunun yerine, **külü rüzgârın şiddetinin içine katıyor.**
 
@@ -633,7 +633,7 @@
 
 **بِعَزِيزٍ** — ve kelime kaydedilmeye değer: sûrenin birinci ve dördüncü ayetlerinde *el-Azîz* **Allah'ın ismi** olarak geçmişti. **Burada aynı kelime bir *iş* için kullanılıyor: "bu, Allah'a *azîz* (zor, güç yetirilmez) değildir."**
 
-**Yani aynı kelime bir yerde "karşı konulamayan", öteki yerde "başa çıkılamayan" anlamında.** **Bunu bir kelime gözlemi olarak kaydediyorum: kökün çekirdeği (**ع-ز-ز** — sağlamlık, güçlük, nadirlik) her iki kullanımı da taşıyor.**
+**Yani aynı kelime bir yerde "karşı konulamayan", öteki yerde "başa çıkılamayan" anlamında.** **Bunu bir kelime gözlemi olarak kaydediyorum: kökün çekirdeği (ع-ز-ز — sağlamlık, güçlük, nadirlik) her iki kullanımı da taşıyor.**
 
 ---
 
@@ -647,7 +647,7 @@
 
 **ب-ر-ز** kökü: **açık alana çıkmak, gizlendiği yerden meydana çıkmak.** *Berâz* — açıklık, boş arazi. Aynı kökten *bâriz* (belirgin) ve *mübâreze* (meydana çıkıp teke tek dövüşme).
 
-**Ve fiil **mâzî** (geçmiş) kipinde geliyor, oysa anlatılan olay gelecektedir.** Arapçada bu, **gerçekleşmesi kesin olan geleceği geçmiş kipiyle anlatma** üslûbudur ve dizinde birkaç yerde işlendi (`081-tekvir.md` ve `069-hakka.md`'de kıyamet sahnelerinde aynı kullanım kaydedildi). **Oraya dayanıyorum.**
+**Ve fiil mâzî (geçmiş) kipinde geliyor, oysa anlatılan olay gelecektedir. Arapçada bu, gerçekleşmesi kesin olan geleceği geçmiş kipiyle anlatma üslûbudur ve dizinde birkaç yerde işlendi (`081-tekvir.md` ve `069-hakka.md`'de kıyamet sahnelerinde aynı kullanım kaydedildi). Oraya dayanıyorum.**
 
 **Fiil sûrede iki kez geçecek: burada ve 48. ayette** (*ve berazû lillâhi'l-Vâhidi'l-Kahhâr*). **İki geçiş arasında bir fark var:**
 
@@ -868,7 +868,7 @@
 
 **Kökün altındaki resim: bir şeyin toprakla bağının kesilmesi.**
 
-**Ve fiil **meçhul**dür: *ictüsset* — "koparıldı."** **Kim kopardığı söylenmiyor.**
+**Ve fiil meçhuldür: *ictüsset* — "koparıldı." Kim kopardığı söylenmiyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** güzel ağacın kökü hakkında bir fiil değil, bir sıfat verilmişti (*sâbit* — sabittir, bir hâl). **Kötü ağaç için ise bir fiil verilmiş, üstelik edilgen bir fiil.** İki tarif farklı gramer kategorilerinde: **biri durum, öteki başına gelen bir iş.**
 
@@ -1002,7 +1002,7 @@
 
 ### أَندَاد
 
-***Nidd*in çoğulu. Kök **ن-د-د**: bir şeyin dengi, benzeri, karşılığı olmak; ve buradan "kaçmak, ürküp dağılmak" anlamı.**
+***Nidd*in çoğulu. Kök ن-د-د: bir şeyin dengi, benzeri, karşılığı olmak; ve buradan "kaçmak, ürküp dağılmak" anlamı.**
 
 **Dilciler *nidd* ile *misl* arasında bir ayrım kaydeder:** *misl* genel benzerlik, *nidd* ise **karşı karşıya konan, rakip sayılan denk**tir. **Yani kelime bir benzeyişi değil, bir *karşıya koyuşu* bildiriyor.**
 
@@ -1030,8 +1030,8 @@
 
 **Dilciler bu yapıyı iki şekilde açıklar:**
 
-| İzah | Gerekçe |
-|---|---|
+| # | İzah | Gerekçe |
+|---|---|---|
 | 1 | Fiiller, gizli bir emrin cevabıdır: "söyle ki kılsınlar" | Şart-cevap yapısı |
 | 2 | Fiiller emir kipinin gâib biçimidir: "kılsınlar" | *Lâm-ı emr*in düşmesi |
 
@@ -1039,7 +1039,7 @@
 
 ### سِرًّا وَعَلَانِيَةً
 
-**İki zarf kaydedilmelidir: gizli **ve** açık.** İkisinden biri seçilmiyor.
+**İki zarf kaydedilmelidir: gizli ve açık.** İkisinden biri seçilmiyor.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bağlacın *ve* olmasıdır:** ayet gizli vermeyi açıktan vermeye üstün tutmuyor; **ikisini de emrediyor.** İkisi arasında bir tercih kurulsaydı bağlaç *ev* (veya) olurdu.
 
@@ -1066,7 +1066,7 @@
 
 ### Beş kez *sahhara*
 
-**Fiil üç ayette **beş kez** tekrarlanıyor:** gemiler, nehirler, güneş ve ay, gece ve gündüz.
+**Fiil üç ayette dört kez tekrarlanıyor:** gemiler, nehirler, güneş ve ay, gece ve gündüz.
 
 **س-خ-ر** kökü: **bir şeyi boyun eğdirip belirli bir işe koşmak.** Dilciler kelimenin somut kullanımını "ücretsiz çalıştırma" ile açıklar: *sühre* — karşılıksız iş gördürme. **(Aynı kök *sühriyye* — alay etme anlamını da taşır; dilciler iki dalın ortak noktasını "birini küçültüp kendi maksadına tâbi kılmak" olarak kaydeder.)**
 
@@ -1157,7 +1157,7 @@
 
 ### ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًا
 
-**Aynı dua `002-bakara.md` 2/126'da az farklı bir kelimeyle geçer: *rabbi'c'al hâzâ **beleden** âminâ* — "burayı güvenli bir belde kıl."**
+**Aynı dua `002-bakara.md` 2/126'da az farklı bir kelimeyle geçer: *rabbi'c'al hâzâ beleden âminâ* — "burayı güvenli bir belde kıl."**
 
 **Fark bir harftir ve dilciler üzerinde durur:**
 
@@ -1192,7 +1192,7 @@
 
 ### إِنَّهُنَّ أَضْلَلْنَ — putlara fiil isnadı
 
-**Zamir ve fiil **müennes çoğul** geliyor: *innehünne adlelne* — "onlar saptırdılar."**
+**Zamir ve fiil müennes çoğul geliyor: *innehünne adlelne* — "onlar saptırdılar."**
 
 **Bir dil notu:** Arapçada akılsız varlıkların çoğulu müennes tekil ya da müennes çoğul olarak zamirlenebilir. **Burada müennes çoğul seçilmiş.**
 
@@ -1272,11 +1272,11 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı Necm bölümünde çözümlenen kök verisidir:** Arapçada bir yere **yönelmek** için başka fiiller vardır (*tetevecceh*, *temîlü*, *tenzi'u*). **Seçilen fiil, iradeyle değil ağırlıkla olan hareketi bildiriyor.**
 
-**Yani dua, insanların oraya *karar vererek* gitmesini değil, oraya doğru **çekilmelerini** istiyor.** Ve fiilin muzâri gelmesi (*tehvî*) bu hareketi sürekli kılıyor: bir kerelik bir varış değil, **süregelen bir akış.**
+**Yani dua, insanların oraya *karar vererek* gitmesini değil, oraya doğru çekilmelerini istiyor. Ve fiilin muzâri gelmesi (*tehvî*) bu hareketi sürekli kılıyor: bir kerelik bir varış değil, süregelen bir akış.**
 
 **Ve kökün ikinci dalı burada bir ilave anlam taşıyor:** *hevâ* kelimesi Kur'an'da nefsin arzusunu, insanı aşağı çeken şeyi adlandırır (`025-furkan.md` 25/43'te *ittehaze ilâhehû hevâh* için kaydedildi). **Aynı kök, bir yerde insanı yoldan çıkaran çekim, burada bir yere yönelten çekim.** **Bu ortaklığı bir kelime gözlemi olarak kaydediyorum; ondan bir hüküm çıkarmıyorum.**
 
-**Ve kök bu sûrede bir kez daha, kırk üçüncü ayette dönecek: *ve ef'idetühüm **hevâ***.** **İki geçiş arasındaki halka, o ayette ayrıca tablolanacaktır.**
+**Ve kök bu sûrede bir kez daha, kırk üçüncü ayette dönecek: *ve ef'idetühüm hevâ*.** **İki geçiş arasındaki halka, o ayette ayrıca tablolanacaktır.**
 
 ### لَعَلَّهُمْ يَشْكُرُونَ
 
@@ -1303,8 +1303,8 @@
 
 **Buradaki işlevi üzerinde dilciler iki izah verir:**
 
-| İzah | Cümle kime ait |
-|---|---|
+| # | İzah | Cümle kime ait |
+|---|---|---|
 | 1 | **İbrâhim'in sözünün devamı** — duasını genel bir hükümle pekiştiriyor | Duanın parçası |
 | 2 | **Metnin araya girmesi** — duayı onaylayan bir kayıt | Anlatıcının sözü |
 
@@ -1362,9 +1362,9 @@
 
 ### وَمِن ذُرِّيَّتِى — yine bir *min*
 
-**Ve talep genişletilirken bir kayıt konuyor: *ve **min** zürriyyetî* — "soyumdan **da bir kısmını**."**
+**Ve talep genişletilirken bir kayıt konuyor: *ve min zürriyyetî* — "soyumdan da bir kısmını."**
 
-**Otuz yedinci ayette de aynı edat vardı: *eskentü **min** zürriyyetî.*** **İki geçişte de *min* teb'îz bildiriyor.**
+**Otuz yedinci ayette de aynı edat vardı: *eskentü min zürriyyetî.* İki geçişte de *min* teb'îz bildiriyor.**
 
 **Bunu bir gözlem olarak kaydediyorum:** dua, soyun tamamı için bir garanti istemiyor. **Ve bu, Bakara 2/124'te (`002-bakara.md`) İbrâhim'in soyu için istediğinde verilen cevapla uyumludur:** *lâ yenâlü ahdi'z-zâlimîn* — "ahdim zalimlere ulaşmaz." **Oraya dayanıyorum.**
 
@@ -1390,7 +1390,7 @@
 
 **Ve duanın son kelimeleri bir zaman kaydıdır.**
 
-***Yekūmü* fiili, otuz dokuz kelime önce geçen *mukīme's-salât* ile aynı köktendir (ق-و-م).**
+***Yekūmü* fiili, on üç kelime önce geçen *mukīme's-salât* ile aynı köktendir (ق-و-م).**
 
 | Ayet | Kelime | Ne ayakta duruyor |
 |---|---|---|
@@ -1485,7 +1485,7 @@
 
 **Kelime kaydedilmelidir: *hevâ'* — kök ه-و-ي.**
 
-***Hevâ'*, Arapçada iki şey arasındaki **boşluk**tur: yer ile gök arasındaki boş uzam.** Ve dilciler bu kelimeyi kökün "düşme" anlamına bağlar: **düşülen yer, altında dayanak olmayan boşluk.**
+***Hevâ'*, Arapçada iki şey arasındaki boşluktur: yer ile gök arasındaki boş uzam. Ve dilciler bu kelimeyi kökün "düşme" anlamına bağlar: düşülen yer, altında dayanak olmayan boşluk.**
 
 **Ve şimdi sûre içi halka kaydedilmelidir — bu, doğrulanabilir bir metin verisidir:**
 
@@ -1517,7 +1517,7 @@
 
 ### أَخِّرْنَآ — üçüncü kez aynı fiil
 
-**Fiil sûrede üçüncü kez geliyor ve bu defa **talep** olarak:**
+**Fiil sûrede üçüncü kez geliyor ve bu defa talep olarak:**
 
 | Ayet | Kim | Ne |
 |---|---|---|
@@ -1568,7 +1568,7 @@
 
 **م-ك-ر** kökü: **gizli tedbir, sezdirmeden kurulan düzen.** **Kök `035-fatir.md` 35/10 ve 35/43'te (*ve lâ yehîku'l-mekru's-seyyiü illâ bi-ehlih*) işlendi. Oraya dayanıyorum.**
 
-**Kelime kırk altıncı ayette **üç kez** geçiyor:** *mekerû **mekrahüm** ve ındallâhi **mekruhüm** ve in kâne **mekruhüm***.
+**Kelime kırk altıncı ayette üç kez geçiyor: *mekerû mekrahüm ve ındallâhi mekruhüm ve in kâne mekruhüm***.
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** tekrar bir yığılma etkisi kuruyor. **Ve ikinci geçişte cümle bir yer bildiriyor: *ındallâh* — "Allah katında."** Tuzak inkâr edilmiyor, **adresi veriliyor.**
 
@@ -1643,7 +1643,7 @@
 
 ### مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ
 
-**ق-ر-ن** kökü: **iki şeyi yan yana bağlamak.** *Karn* — boynuz; *karîn* — yoldaş, yan yana olan; *ikrân* — birbirine bağlamak. **Kelime `043-zuhruf.md` 43/53'te (*el-melâiketü **mukterinîn***) ve 43/36'da (*fe-hüve lehû **karîn***) işlendi. Oraya dayanıyorum.**
+**ق-ر-ن** kökü: **iki şeyi yan yana bağlamak.** *Karn* — boynuz; *karîn* — yoldaş, yan yana olan; *ikrân* — birbirine bağlamak. **Kelime `043-zuhruf.md` 43/53'te (*el-melâiketü mukterinîn*) ve 43/36'da (*fe-hüve lehû karîn*) işlendi. Oraya dayanıyorum.**
 
 **ص-ف-د** kökü: **bağ, pranga.** *Safed* — bukağı; *safd* — bağlamak.
 
@@ -1689,7 +1689,7 @@
 
 > *"Tek kelimelik cümle: belâğ — 'bir ulaştırmadır'. Kelime, sûrenin kendisi hakkında bir hüküm veriyor: bu metnin işi ulaştırmaktır… Zorlamak, sonucu üstlenmek ya da hesap sormak, metnin kendine verdiği iş değildir."*
 
-**Buraya ait olan fark şudur ve kaydedilmelidir: Ahkāf'ta kelime yalnız başına geliyordu. Burada bir muhatap belirtilmiş: *belâğun **li'n-nâs*** — "**insanlara** bir bildirim."**
+**Buraya ait olan fark şudur ve kaydedilmelidir: Ahkāf'ta kelime yalnız başına geliyordu. Burada bir muhatap belirtilmiş: *belâğun li'n-nâs* — "insanlara bir bildirim."**
 
 | Yer | İfade | Kayıt |
 |---|---|---|

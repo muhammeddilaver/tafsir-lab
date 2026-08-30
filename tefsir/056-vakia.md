@@ -89,7 +89,7 @@ Yani sûre "siz hiçbir şey yapmıyorsunuz" demiyor. **Yaptığınız şeyin ne
 
 ### Üçüncü blok: yeminden ölüme
 
-75-96 arası dört adımda ilerler:
+75-96 arası altı adımda ilerler:
 
 | Adım | Ayetler | Ne yapılıyor |
 |---|---|---|
@@ -1523,7 +1523,7 @@ Kökün Arapçada iki dalı vardır ve ikisi de canlıdır:
 
 ### Önce bir yapı gözlemi: yedi kelime, yedi ism-i mef'ûl
 
-Yirmi sekizinci ayetten otuz dördüncüye kadar sayılan yedi öğenin **hepsi** aynı gramer kalıbıyla nitelenmiştir:
+Yirmi sekizinci ayetten otuz dördüncüye kadar sayılan altı öğenin **hepsi** aynı gramer kalıbıyla — toplam yedi ism-i mef'ûlle — nitelenmiştir:
 
 | Ayet | Nesne | Sıfat | Kalıp |
 |---|---|---|---|
@@ -2358,7 +2358,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 **İki okuma da klasik tefsirlerde yer alır ve gramer ikisine de izin verir. Tercih dayatmıyorum.**
 
-*Nübeddile* — kök ب-د-ل: bir şeyin yerine başkasını koymak.** *Emsâleküm* — "benzerleriniz". **Yani gelen, sizden başka bir cins değil; **sizin gibi** olan.
+*Nübeddile* — kök ب-د-ل: bir şeyin yerine başkasını koymak. *Emsâleküm* — "benzerleriniz". **Yani gelen, sizden başka bir cins değil; sizin gibi olan.**
 
 **Bunu kendi okumam olarak kaydediyorum:** ayet ölümü bir yok oluş olarak değil, **bir yer değiştirme düzeni** olarak anlatıyor. Nesiller birbirinin yerine geçiyor ve geçen de "benzer" diye anılıyor.
 
@@ -2982,7 +2982,7 @@ Zamir müennes: *terciûne**hâ*** — yani seksen üçüncü ayette adı söyle
 
 "Şüphesiz bu, kesin gerçeğin ta kendisidir. Öyleyse yüce Rabbinin adını tesbih et."
 
-### üç tekit üst üste
+### Üç tekit üst üste
 
 **Cümlede üç tekit vardır:** *inne* + *le* + *hüve* (fasıl zamiri). **Arapçada bu yığılma, söylenenin tartışmaya kapatılması demektir.**
 
@@ -2999,7 +2999,7 @@ Zamir müennes: *terciûne**hâ*** — yani seksen üçüncü ayette adı söyle
 |---|---|---|
 | *İlme'l-yakīn* | Tekâsür 102/5 | `102-tekasur.md` |
 | *Ayne'l-yakīn* | Tekâsür 102/7 | `102-tekasur.md` |
-| ***Hakka'l-yakīn*** | **Vâkıa 56/95** ve Hâkka 69/51 | `069-hakka.md` |
+| ***Hakku'l-yakīn*** | **Vâkıa 56/95** ve Hâkka 69/51 | `069-hakka.md` |
 
 **Klasik tefsirlerde bu üçlü genellikle bir derecelenme olarak açıklanır: bilerek kesinlik, görerek kesinlik, yaşayarak kesinlik. Bu izahı geleneğinde yaygın bir açıklama olarak aktarıyorum;** terkiplerin lafzından zorunlu olarak çıkan bir sıralama değildir ve dilciler *hakku'l-yakīn* ifadesinin izafet yapısını da farklı açıklar.
 

@@ -1185,7 +1185,7 @@ Bunu açalım. Sadaka şartı kondu. Rivayetlere göre çok az kişi — bir riv
 
 Ama düzenlemenin asıl işlevi, bir tavrı **görünür kılmak**tı. Şart konmadan önce, kimin gerçekten önemli bir meselesi olduğu ile kimin sadece görünmek istediği ayırt edilemiyordu. Şart konduğunda talep azaldı. Yani ölçüm yapıldı ve sonuç alındı.
 
-Ondördüncü ayetin sorusu — "çekindiniz mi?" — tam olarak bu ölçümün sonucudur. Kalkan hüküm, geride bir teşhis bıraktı.
+On üçüncü ayetin sorusu — "çekindiniz mi?" — tam olarak bu ölçümün sonucudur. Kalkan hüküm, geride bir teşhis bıraktı.
 
 Bu okuma bir çıkarımdır ve nakil olarak sunmuyorum. Ama ayetlerin sıralanışı bunu destekliyor: hüküm konuyor, uygulanmıyor, ve kaldırılırken bir soru soruluyor. Soru, hükmün asıl amacının bilgi toplamak olduğunu düşündürüyor.
 
@@ -1422,7 +1422,7 @@ Ve bu kalıp sûrede üç kez, hep aynı yapıda dönecek:
 | **58/19** | *elâ inne hizbe'ş-şeytâni hümü'l-**hâsirûn*** |
 | **58/22** | *elâ inne hizballâhi hümü'l-**müflihûn*** |
 
-Üç ayet, aynı kalıpla üç hüküm veriyor: yalancılar, hüsrana uğrayanlar, kurtuluşa erenler. Sûrenin son üç ayeti bu üçlü tekrarla kapanıyor ve yapı bir kapanış ritmi kuruyor.
+Üç ayet, aynı kalıpla üç hüküm veriyor: yalancılar, hüsrana uğrayanlar, kurtuluşa erenler. Bu üçlü tekrar 18, 19 ve 22. ayetlere yayılıyor ve sûre onunla kapanıyor; yapı bir kapanış ritmi kuruyor.
 
 ---
 
@@ -1566,7 +1566,7 @@ Bu görüşler birbirini dışlamıyor ve klasik tefsirlerde çoğu zaman birlik
 
 **Ve şu kaydı düşmek zorunludur:** bu ayet, herhangi bir grubun, hareketin ya da devletin kendi zaferini önceden garanti etmesi için kullanılamaz. Ayet Allah'a ve elçilerine galebeyi yazıyor; kendisini onların yerine koyan hiçbir yapıya değil. USLUP gereği güncel siyasî okumalara girmiyorum; ama bu ayetin nasıl kullanılamayacağını söylemek tefsirin işidir.
 
-Nitekim aynı sûre, üç ayet sonra *hizbullâh*ı tanımlarken bunu bir **vasıflar listesi** olarak verecek — bir kurum, bir örgüt, bir taraf adı olarak değil.
+Nitekim aynı sûre, bir ayet sonra *hizbullâh*ı tanımlarken bunu bir **vasıflar listesi** olarak verecek — bir kurum, bir örgüt, bir taraf adı olarak değil.
 
 ### إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 
@@ -1797,13 +1797,13 @@ Birkaç kök sûrede birden çok yerde geçiyor ve dolaşımları bir örüntü 
 
 **ح-د-د (sınır)** — *hudûdullâh* (4), *yuhâddûne* (5, 20, 22). Allah'ın çizdiği sınır ile insanın karşı çizdiği sınır. Sûrenin omurgası.
 
-**ن-ج-و (bir kenara çekilmek)** — 7, 8, 9 (üç kez), 10, 12, 13. Kelime yedi kez geçiyor; sûrenin en yoğun kökü.
+**ن-ج-و (bir kenara çekilmek)** — 7, 8 (iki kez), 9 (üç kez), 10, 12, 13. Kelime dokuz kez geçiyor; sûrenin en yoğun kökü.
 
 **ح-ل-ف (yemin)** — 14, 18; ve *eymân* (16). Yeminin bir kalkana dönüşmesi ve bu kalkanın diriliş gününde de kullanılmaya çalışılması.
 
 **ك-ت-ب (yazmak)** — 21, 22. Tarihe yazılan hüküm ve kalbe yazılan iman.
 
-**ح-ز-ب (bölük)** — 19, 22 (üç kez). Sûrenin kapanış kavramı.
+**ح-ز-ب (bölük)** — 19 (iki kez), 22 (iki kez); dört kez. Sûrenin kapanış kavramı.
 
 **س-م-ع (işitmek)** — 1 (üç kez). Yalnızca ilk ayette; ama bütün sûrenin zeminini kuruyor.
 
@@ -1857,4 +1857,4 @@ USLUP gereği, bu sûrede kesinlik iddia edilmeyen noktaları açıkça listeliy
 - **58/22'deki "kendinden bir ruh"** ifadesi ihtilaflıdır; dört görüş verildi, tercih yapılmadı.
 - **"Galip geleceğim" (58/21)** ifadesinin kapsamı hakkında klasik izahlar aktarıldı; siyasî bir okumaya gidilmedi ve terkibin nasıl kullanılamayacağı ayrıca belirtildi.
 - **"Hizbullâh" terkibi** bir vasıflar listesinin sonucu olarak okundu; herhangi bir yapıya nispet edilmedi.
-- **Kökler arasında kurulan bazı bağlar** (îsâr–eser, eyd–yed, felâh–soy bağının yarılması gibi) kendi okumam olarak işaretlendi; dilcilerin ittifakı olarak sunulmadı.
+- **Kökler arasında kurulan bazı bağlar** (eyd–yed, felâh–soy bağının yarılması gibi) kendi okumam olarak işaretlendi; dilcilerin ittifakı olarak sunulmadı.

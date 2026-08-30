@@ -185,7 +185,7 @@
 
 ### وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ
 
-"**Kardeşim Hârûn'un dili benimkinden daha düzgündür; onu benimle birlikte **destek** olarak gönder de beni doğrulasın.**"
+"**Kardeşim Hârûn'un dili benimkinden daha düzgündür; onu benimle birlikte destek olarak gönder de beni doğrulasın.**"
 
 **رِدْء** — kök **ر-د-أ**: **destek, arkadan tutan yardımcı.** Dilciler kelimeyi **bir şeyin devrilmemesi için arkasına konan payanda** ile açıklar.
 
@@ -284,7 +284,7 @@
 
 **ل-غ-و kökü `056-vakia.md` 56/25'te ayrıntılı çözümlendi** (hesaba katılmayan, boşa giden söz) ve `041-fussilet.md` 41/26'da bir **taktik** olarak geçmişti (*velğav fîh* — gürültü yapın). **Tekrarlamıyorum.**
 
-**Burada aynı kelime bir **tepki** bağlamında geliyor ve verilen cevap dört parçadan oluşuyor:**
+**Burada aynı kelime bir tepki bağlamında geliyor ve verilen cevap üç parçadan oluşuyor:**
 
 | Parça | Ne yapıyor |
 |---|---|
@@ -321,7 +321,7 @@
 
 ---
 
-## 28/57-60 — "Bizimle beraber doğru yola uyarsak yurdumuzdan kapılıp götürülürüz"
+## 28/57-60 — "Seninle beraber doğru yola uyarsak yurdumuzdan kapılıp götürülürüz"
 
 *Ve kālû in nettebiı'l-hüdâ meake nütehattaf min ardınâ · Evelem nümekkin lehüm haramen âminen yücbâ ileyhi semerâtü külli şey'*
 
@@ -356,7 +356,7 @@
 
 ### Tekrarlanan kalıp
 
-**Aynı cümle sûrede **üç kez** geçiyor ve her seferinde başka bir soru soruluyor:**
+**Aynı cümle sûrede üç kez geçiyor ve her seferinde başka bir soru soruluyor:**
 
 | Ayet | Soru | Konu |
 |---|---|---|

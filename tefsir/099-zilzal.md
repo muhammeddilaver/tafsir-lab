@@ -653,7 +653,7 @@ Ayetin cevabı, gözlemi düzeltmek değil, **ölçüyü değiştirmek**tir. Fii
 
 **Dördüncüsü: kaydın kaçınılmazlığı.**
 
-Bir eylemin iz bırakmadığı yer yoktur — bu, ayetin dördüncü ayetinin söylediğidir. Bugünkü okuyucu için bu fikrin ayrı bir tanıdıklığı var: yaptığımız işlerin büyük kısmı, farkında olmadığımız yerlerde kayda geçiyor.
+Bir eylemin iz bırakmadığı yer yoktur — bu, sûrenin dördüncü ayetinin söylediğidir. Bugünkü okuyucu için bu fikrin ayrı bir tanıdıklığı var: yaptığımız işlerin büyük kısmı, farkında olmadığımız yerlerde kayda geçiyor.
 
 Bu benzerlik ayetin muhtevası değildir ve öyle sunulmamalıdır. Ama bir şeyi kolaylaştırıyor: "hiç kimsenin görmediği fiil" fikrinin bugün eskisinden daha zor savunulur olması. Ayetin ilk muhatapları için "zeminin şahitliği" tuhaf bir tasavvurdu. Bugünkü okuyucu için tuhaf olan, aksidir.
 

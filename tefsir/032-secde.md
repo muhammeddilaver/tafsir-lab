@@ -68,7 +68,7 @@ Adı bir başka sûreyle karışabilir: **Fussilet sûresi de *Hâ-mîm es-Secde
 
 ### أَمْ يَقُولُونَ ٱفْتَرَىٰهُ
 
-***Em* edatı burada bir soruyu değil, bir **geçişi** bildirir** — dilcilerin *em munkatıa* dediği kullanım: "yoksa … mı diyorlar?" **Yani cümle bir muhatap değiştirir gibi kuruluyor: az önce kitabın kaynağı bildirilmişti, şimdi o bildirime gelen itiraz aktarılıyor.**
+***Em* edatı burada bir soruyu değil, bir geçişi bildirir — dilcilerin *em munkatıa* dediği kullanım: "yoksa … mı diyorlar?" Yani cümle bir muhatap değiştirir gibi kuruluyor: az önce kitabın kaynağı bildirilmişti, şimdi o bildirime gelen itiraz aktarılıyor.**
 
 **ٱفْتَرَىٰ** — kök **ف-ر-ي**. **Dilcilerin verdiği somut anlam: deriyi kesmek, biçmek.** *Ferâ'l-cilde* — deriyi yardı, kesti. **Ve buradan iki dal ayrılır:** biri **yapmak, biçip dikmek** (yararlı iş), öteki **uydurmak, olmayanı biçip ortaya koymak.**
 
@@ -155,7 +155,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 | Meâric 70/4 | **Melekler ve Ruh** | *Ta'rucü'l-melâiketü ve'r-rûh* |
 | **Secde 32/5** | ***el-Emr*** — iş / buyruk | *Sümme ya'rucü ileyh* |
 
-**Meâric'te yükselen **varlıklar**dır; Secde'de yükselen **iş**tir.** Bunu bir gözlem olarak kaydediyorum: Secde'nin cümlesi bir **döngü** kuruyor — *mine's-semâi ile'l-ard* (gökten yere) … *sümme ya'rucü ileyh* (sonra O'na yükselir). **İniş ve çıkış tek cümlede, aynı yola iki yönde.**
+**Meâric'te yükselen varlıklardır; Secde'de yükselen iştir. Bunu bir gözlem olarak kaydediyorum: Secde'nin cümlesi bir döngü kuruyor — *mine's-semâi ile'l-ard* (gökten yere) … *sümme ya'rucü ileyh* (sonra O'na yükselir). İniş ve çıkış tek cümlede, aynı yola iki yönde.**
 
 **Ve `070-mearic.md`'de kaydedilen kayıt burada da geçerlidir:** *ileyhi* (O'na) ifadesi **mekân bildirmez**; varılan yer bir konum değil, **emrin ve hükmün merkezi**dir. Ortak ilke Şûrâ 42/11'dir: *"O'nun benzeri hiçbir şey yoktur."*
 
@@ -213,7 +213,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **ذَٰلِكَ — uzak işaret.** "Bu" değil "işte o". **`098-beyyine.md`'de kaydedildiği gibi, Arapçada uzak işaret burada *tazîm* (yüceltme) bildirir:** söylenenin mertebesini yükseltmek için uzağa işaret edilir.
 
-**ٱلْغَيْبِ وَٱلشَّهَٰدَة** — bilinmeyen ve görünen. **`039-zumer.md` 39/46'da aynı terkip bir duanın içinde geçmişti** (*âlime'l-ğaybi ve'ş-şehâde*). **İki yerde de ikili, bilginin **kapsamını** vermek için kuruluyor: iki uç anılarak arası kapsanıyor.**
+**ٱلْغَيْبِ وَٱلشَّهَٰدَة — bilinmeyen ve görünen. `039-zumer.md` 39/46'da aynı terkip bir duanın içinde geçmişti (*âlime'l-ğaybi ve'ş-şehâde*). İki yerde de ikili, bilginin kapsamını vermek için kuruluyor: iki uç anılarak arası kapsanıyor.**
 
 **ٱلْعَزِيزُ ٱلرَّحِيمُ** — ve iki isim kaydedilmeye değer.
 
@@ -287,7 +287,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Ve bu kök sûrenin on sekizinci ayetinde geri dönecek: *lâ yestevûn* — "bir olmazlar".** **Aynı kök, biri yapılışta biri hükümde.** Bu, sûre içinde doğrulanabilir bir tekrardır ve sonda ayrıca tablolanacak.
 
-**مِن رُّوحِهِ** — "kendi ruhundan". **USLUP gereği bir kayıt:** bu terkip hakkında keyfiyet üretilmez. **Dilcilerin ve müfessirlerin çoğunlukla kaydettiği husus, *min* edatının burada bir **parça** bildirmediği, **nispet ve şeref** bildirdiğidir** (nitekim aynı yapı "Allah'ın evi", "Allah'ın devesi" gibi terkiplerde de görülür). **Bu izahı nakledildiği şekliyle aktarıyorum ve daha ötesine gitmiyorum.**
+**مِن رُّوحِهِ — "kendi ruhundan". USLUP gereği bir kayıt: bu terkip hakkında keyfiyet üretilmez. Dilcilerin ve müfessirlerin çoğunlukla kaydettiği husus, *min* edatının burada bir parça bildirmediği, nispet ve şeref bildirdiğidir (nitekim aynı yapı "Allah'ın evi", "Allah'ın devesi" gibi terkiplerde de görülür). Bu izahı nakledildiği şekliyle aktarıyorum ve daha ötesine gitmiyorum.**
 
 ### وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ — dördüncü halka
 
@@ -517,7 +517,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Türkçedeki "cefa" bu köktendir ve kökün resmini taşır: yakınlığın kesilmesi.**
 
-**Kalıp V. bâbdır (*tefâul*) ve dilciler bu bâbda **tedricîlik ve süreklilik** kaydeder: bir kerelik kalkma değil, aralıkta durma hâli.**
+**Kalıp V. bâbdır (*tefâul*) ve dilciler bu bâbda tedricîlik ve süreklilik kaydeder: bir kerelik kalkma değil, aralıkta durma hâli.**
 
 **جُنُوب** — *cenb*in çoğulu: **yan, böğür.** **مَضَاجِع** — *madca*ın çoğulu, kök **ض-ج-ع**: yan üstü yatmak. *Madca'* — **yan üstü yatılan yer, yatak.**
 
@@ -549,7 +549,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 ### فَلَا تَعْلَمُ نَفْسٌ — bilginin kapatılması
 
-**Ve burada, tarifin hemen ardından, karşılığın anlatılması yerine **anlatılamazlığı** bildiriliyor.**
+**Ve burada, tarifin hemen ardından, karşılığın anlatılması yerine anlatılamazlığı bildiriliyor.**
 
 **`056-vakia.md` 56/61'de aynı hat işlendi:** *ve nünşieküm **fî mâ lâ ta'lemûn*** — "sizi **bilmediğiniz** bir biçimde inşa ederiz". **Orada kaydedilen şuydu: "Ayet burada bir tarif vermeyi reddediyor."** **Oraya dayanıyorum.**
 
@@ -583,7 +583,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **İki izah da dilcilerce nakledilir ve birbirini dışlamaz. Tercih dayatmıyorum.**
 
-**Türkçede karşılığı "göz aydınlığı"dır; ama Arapçadaki resim aydınlık değil, **durma** ya da **serinlik**tir.** Bu farkı kaydediyorum.
+**Türkçede karşılığı "göz aydınlığı"dır; ama Arapçadaki resim aydınlık değil, durma ya da serinliktir.** Bu farkı kaydediyorum.
 
 **Ve *a'yün* nekre çoğuldur — "gözler", belirsiz.** **Deyimin kendisi de bir belirsizlik taşıyor: neyin göz aydınlığı olduğu söylenmiyor.** **Cümle zaten bunu söylüyordu: *lâ ta'lemü nefsün.***
 
@@ -813,7 +813,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı fiil kipidir:** öteki ayetlerde bir **emir/teşvik** var (gidin, bakın); **burada haber cümlesi var — hâlihazırda oradalar.** **Yani Secde, delili almak için gereken mesafeyi de kaldırıyor: yürünen yer zaten delildir.**
 
-**مَسَاكِن** — kök **س-ك-ن**: durmak, yerleşmek. **Kök `048-fetih.md` 48/4'te (*sekîne*) ayrıntılı çözümlendi ve orada *mesken* için "ev değil, **hareketin bittiği yer**" kaydı düşülmüştü.** **Tekrarlamıyorum.**
+**مَسَاكِن — kök س-ك-ن: durmak, yerleşmek. Kök `048-fetih.md` 48/4'te (*sekîne*) ayrıntılı çözümlendi ve orada *mesken* için "ev değil, hareketin bittiği yer" kaydı düşülmüştü. Tekrarlamıyorum.**
 
 **Kelimenin buradaki kullanımı kaydedilmeye değer ve bir gözlem olarak veriyorum:** helâk edilenler için seçilen kelime, **durmayı** bildiren köktendir. **Ve şimdi orada yürüyenler var** — *yemşûne*. **Bir kökte durma, ötekinde yürüme; aynı yerde.**
 
@@ -821,7 +821,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Ayetin sonu kaydedilmelidir ve sûre içinde bir düzen kuruyor.**
 
-**Ayet bir **görme** delili anlatıyor (kalıntılarda yürümek), ama soruyu **işitme** ile bitiriyor:** *efelâ **yesmeûn***.
+**Ayet bir görme delili anlatıyor (kalıntılarda yürümek), ama soruyu işitme ile bitiriyor: *efelâ yesmeûn***.
 
 **Ve bir sonraki ayet bunun tersini yapıyor:** yağmurla toprağın canlanması anlatılıyor ve soru **görme** ile bitiyor: *efelâ **yubsırûn***.
 

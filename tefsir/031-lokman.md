@@ -249,7 +249,7 @@
 
 **غ-ض-ض** kökü: **azaltmak, kısmak, indirmek.**
 
-**Ve edat kaydedilmeye değer: *ığdud **min** savtik* — "sesinden **kıs**".** *Min* burada **teb'îz** (bir kısmını) bildirir. **Yani ayet susmayı değil, sesin bir kısmını indirmeyi istiyor.**
+**Ve edat kaydedilmeye değer: *ığdud min savtik* — "sesinden kıs".** *Min* burada **teb'îz** (bir kısmını) bildirir. **Yani ayet susmayı değil, sesin bir kısmını indirmeyi istiyor.**
 
 **`049-hucurat.md` 49/2-3'te ses meselesi ayrıntılı işlendi** (*lâ terfaû asvâteküm*, *yeğuddûne asvâtehüm*). **Oraya dayanıyorum ve buradaki farkı kaydediyorum:** Hucurât'ta ses **Peygamber'in huzurunda** kısılıyordu; **Lokmân'da ses, gündelik hayatın tamamı için ölçüye bağlanıyor.**
 

@@ -76,7 +76,7 @@
 
 "Ey insanlar! Allah'ın üzerinizdeki nimetini **anın.** Allah'tan başka, sizi gökten ve yerden **rızıklandıran** bir yaratıcı var mı?"
 
-**Hitap kaydedilmelidir: *yâ eyyühe'n-nâs* — sûrede bu hitap dört kez geçecek** (3, 5, 15, ve tekrar). **Yani sûre, muhatabını inanan-inanmayan diye ayırmadan çağırıyor.**
+**Hitap kaydedilmelidir: *yâ eyyühe'n-nâs* — sûrede bu hitap üç kez geçecek** (3, 5, 15). **Yani sûre, muhatabını inanan-inanmayan diye ayırmadan çağırıyor.**
 
 **Sorunun kuruluşu dikkat çekicidir:** *hel min hâlikın ğayrullâhi **yerzükuküm*** — **yaratıcılık, rızık verme fiiliyle birlikte soruluyor.**
 
@@ -142,7 +142,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 
 **أ-ث-ر / ث-و-ر** — *isâre*: **kaldırmak, havalandırmak, yerden kaldırıp savurmak.** Dilciler kelimenin **toprağı sürüp kaldırma** (*sevr* — öküz) ile ilişkisini kaydeder.
 
-**Ve fiil zamanı değişiyor:** *ersele* (mâzî) → *tüsîru* (muzâri) → *sukhâhu* (mâzî) → *fe-ahyeynâ* (mâzî).
+**Ve fiil zamanı değişiyor:** *ersele* (mâzî) → *tüsîru* (muzâri) → *suknâhu* (mâzî) → *fe-ahyeynâ* (mâzî).
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ortadaki fiil muzâri gelerek **sürmekte olan bir hareketi** gözün önüne getiriyor; öncesi ve sonrası tamamlanmış fiillerle veriliyor. **Yani cümle, bulutun kalkışını anlatırken tempoyu değiştiriyor.**
 
@@ -229,7 +229,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 | Kademe | İfade |
 |---|---|
 | 1 | *Lâ yesmeû* — **işitmezler** |
-| 2 | *Ve lev semiû mesteçâbû* — **işitseler bile cevap veremezler** |
+| 2 | *Ve lev semiû mestecâbû* — **işitseler bile cevap veremezler** |
 | 3 | *Yekfürûne bi-şirkiküm* — **sonunda reddederler** |
 
 **İkinci kademe kaydedilmeye değer:** ayet, birinci ihtimali kabul etmiş gibi yapıp bir adım daha atıyor. **Yani itiraz edilebilecek her yeri kendisi kapatıyor.**
@@ -359,7 +359,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 
 ### Üç kez tekrarlanan tek kelime
 
-**İki ayet boyunca *muhtelifün elvânühâ* (renkleri farklı) terkibi **üç kez** geçiyor:**
+**İki ayet boyunca *muhtelifün elvânühâ* (renkleri farklı) terkibi üç kez geçiyor:**
 
 | Alan | İfade |
 |---|---|
@@ -493,7 +493,7 @@ Ve talep kaydedilmeye değer: *na'mel sâlihan **ğayra'llezî künnâ na'mel***
 
 **İki cevap, `035-fatir.md`'nin iki ayetine bağlanıyor:** yirmi dördüncü ayette her ümmete uyarıcı gelmiş olduğu, kırk beşinci ayette sürenin ertelendiği söylenecek. **Sûre, bu iki gerekçeyi baştan sona işliyor.**
 
-**Ve sürenin tarifi kaydedilmeye değer: *mâ yetezekkeru fîhi men tezekker* — "düşünecek olanın düşüneceği kadar".** **Ölçü mutlak bir yaş değil, yeterlilik.** `040-gafir.md` 40/67'de ömrün basamakları sayılmıştı; **burada ömür, süre olarak değil **imkân** olarak anılıyor.**
+**Ve sürenin tarifi kaydedilmeye değer: *mâ yetezekkeru fîhi men tezekker* — "düşünecek olanın düşüneceği kadar".** **Ölçü mutlak bir yaş değil, yeterlilik.** `040-gafir.md` 40/67'de ömrün basamakları sayılmıştı; **burada ömür, süre olarak değil imkân olarak anılıyor.**
 
 ---
 
@@ -596,7 +596,7 @@ Ve talep kaydedilmeye değer: *na'mel sâlihan **ğayra'llezî künnâ na'mel***
 
 ### Sûrenin kapanışı
 
-**Cümle bir *lev* (gerçekleşmemiş şart) ile kuruluyor** — sûrenin dördüncü ayetindeki kalıbın aynısı.
+**Cümle bir *lev* (gerçekleşmemiş şart) ile kuruluyor.**
 
 **عَلَىٰ ظَهْرِهَا** — "onun sırtında". **Zamirin mercii ayette söylenmemiş;** dilciler bunun **yeryüzü** olduğunu, karînenin kelimenin kendisinden anlaşıldığını kaydeder. **Ve *dâbbe* kelimesi kaydedilmeye değer: `045-casiye.md` 45/4'te çözümlendi** — hareket eden canlı.
 

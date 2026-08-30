@@ -9,7 +9,7 @@ Sûre, *hâ-mîm* ile açılan yedi sûreden biridir. Bu grubun ortak özelliği
 Zuhruf'un baştan sona işlediği şey **ölçü** meselesidir — ve bu, üç ayrı soruda görünür:
 
 - **Neyin değerli sayıldığı?** (altın tavan, gümüş merdiven, *zuhruf*)
-- **Kimin büyük görüldüğü?** (*racülin mine'l-karyeteyni azîm*, *elem lî mülkü Mısr*)
+- **Kimin büyük görüldüğü?** (*racülin mine'l-karyeteyni azîm*, *e-leyse lî mülkü Mısra*)
 - **Hangi delilin geçerli sayıldığı?** (*innâ vecednâ âbâenâ alâ ümmeh*, *fe-lev lâ ulkıye aleyhi esviratün min zeheb*)
 
 **Üç sorunun da ortak yapısı şudur:** karşı taraf bir tartıyı zaten kurmuştur, tartışma tartının doğru olup olmadığı üzerinde değil, tartıya konan şeyin ağırlığı üzerindedir. Sûre tartıyı tartışıyor.
@@ -447,7 +447,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 | *mihâd* | مِفْعَال — geniş, yayılmış | Nebe' 78/6 | **Genişlik** |
 | *mehd* | مَفْعَل — yer ismi | Zuhruf 43/10; Tâhâ 20/53 | **Beşik** |
 
-***Mehd*, dilcilerde doğrudan **beşik** demektir** — çocuğun içine yatırıldığı, sallanan, taşınan kap. **Kur'an bu kelimeyi Îsâ için de kullanır:** *yükellimü'n-nâse fi'l-mehdi ve kehlâ* (Âl-i İmrân 3/46), *keyfe nükellimü men kâne fi'l-mehdi sabiyyâ* (Meryem 19/29).
+***Mehd*, dilcilerde doğrudan beşik demektir** — çocuğun içine yatırıldığı, sallanan, taşınan kap. **Kur'an bu kelimeyi Îsâ için de kullanır:** *yükellimü'n-nâse fi'l-mehdi ve kehlâ* (Âl-i İmrân 3/46), *keyfe nükellimü men kâne fi'l-mehdi sabiyyâ* (Meryem 19/29).
 
 **Ve bu, sûre içinde bir bağ kuruyor — kendi okumam olarak kaydediyorum:** aynı kelime, onuncu ayette **yeryüzü** için, Kur'an'ın başka yerlerinde **Meryem oğlu Îsâ** için kullanılıyor; ve bu sûrenin 57-59. ayetleri Meryem oğlu hakkındadır. **Bunu bir çağrışım olarak veriyorum, metnin kurduğu bir bağ olarak değil.** Sûre böyle bir bağ kurmuyor.
 
@@ -574,7 +574,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 "Onların **sırtlarına yerleşesiniz**, sonra yerleştiğinizde **Rabbinizin nimetini anasınız** ve şöyle diyesiniz diye: **'Bunu bize boyun eğdirenin şanı yücedir; yoksa biz buna güç yetiremezdik. Ve biz elbette Rabbimize döneceğiz.'**"
 
-**Bu iki ayet üzerinde ayrıntılı duracağım, çünkü Kur'an'da bir nimetin karşılığında söylenecek sözün **lafzıyla** verildiği yerler azdır.**
+**Bu iki ayet üzerinde ayrıntılı duracağım, çünkü Kur'an'da bir nimetin karşılığında söylenecek sözün lafzıyla verildiği yerler azdır.**
 
 ### Dizim: üç fiil, bir zincir
 
@@ -596,7 +596,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Kökün çekirdeği: düzlük, denklik, eşitlik.** *Sevâ'* — eşit. *İstivâ* — düzgün ve dengeli hâle gelmek, yerleşmek.
 
-**Fiil VIII. değil VIII'e benzeyen bir kalıptadır: *istefale* (X. bâb).** Burada dilcilerin verdiği anlam **bir şeyin üzerine düzgünce yerleşmek, dengeye oturmak**tır.
+**Fiil X. bâb (*istif'âl*) değil, VIII. bâbdır (*iftiâl*): baştaki *sîn* kökün kendi harfidir.** Burada dilcilerin verdiği anlam **bir şeyin üzerine düzgünce yerleşmek, dengeye oturmak**tır.
 
 **Kelimenin seçimi kaydedilmeye değer:** ayet "bindiniz" demiyor, **"denge kurdunuz"** diyor. **Binmek, hareket eden bir canlının ya da suda giden bir gövdenin üstünde dengede durmaktır** — ve bu, kelimenin kendi resmidir.
 
@@ -812,7 +812,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ayet "birine kız çocuğu müjdelendiğinde" demiyor.**
 
-**Diyor ki: *büşşira ehadühüm **bimâ darabe li'r-rahmâni meselâ*** — "birine, **Rahmân'a örnek olarak yakıştırdığı şey** müjdelendiğinde".**
+**Diyor ki: *büşşira ehadühüm bimâ darabe li'r-rahmâni meselâ* — "birine, Rahmân'a örnek olarak yakıştırdığı şey müjdelendiğinde".**
 
 **Bu, sûrenin en dikkat çekici dizim tercihlerinden biridir ve ayrıntılı işlenmelidir.**
 
@@ -930,9 +930,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 | 15 | *kefûrun **mübîn*** | **Nankörlük** — açık |
 | 18 | *ğayru **mübîn*** | Yakıştırılan — **açık değil** |
 
-**Ve dördüncüsü elli ikinci ayette gelecek:** Fir'avn, Mûsâ için *ve lâ yekâdü **yübîn*** diyecek — "neredeyse meramını anlatamıyor".
+**Ve aynı kelime elli ikinci ayette bir insan için gelecek:** Fir'avn, Mûsâ için *ve lâ yekâdü **yübîn*** diyecek — "neredeyse meramını anlatamıyor".
 
-**Bu, sûrenin en açık örüntülerinden biridir ve doğrulanabilir:** aynı kök, dört ayrı yerde, hep aynı ölçüyle. **Ve iki kez bir insanı küçültmek için kullanılıyor** — 18. ayette süs içinde yetiştirilen için, 52. ayette Mûsâ için.
+**Bu, sûrenin en açık örüntülerinden biridir ve doğrulanabilir:** aynı kök, sûre boyunca hep aynı ölçüyle. **Ve iki kez bir insanı küçültmek için kullanılıyor** — 18. ayette süs içinde yetiştirilen için, 52. ayette Mûsâ için.
 
 **Kendi okumam olarak kaydediyorum ve dayanağı bu tekrardır:** sûre, "meramını açıkça anlatabilme" ölçüsünün bir insanı değersizleştirmek için nasıl kullanıldığını iki kez gösteriyor. **Ve ilk ayetlerde aynı ölçüyü kitap için olumlu olarak kurmuştu.** Yani ölçünün kendisi yanlış değil; **ölçünün insan üzerinde bir üstünlük sırası kurmak için kullanılması** eleştiriliyor.
 
@@ -1143,9 +1143,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Değişen tek kelime bu ve fark kaydedilmelidir.**
 
-**ق-د-و kökü** — *iktidâ*: birinin ardından gitmek, onu örnek almak. *Kudve* — örnek alınan kişi. **Kelime, hüküm değil **davranış** bildirir: "uyuyoruz".**
+**ق-د-و kökü** — *iktidâ*: birinin ardından gitmek, onu örnek almak. *Kudve* — örnek alınan kişi. **Kelime, hüküm değil davranış bildirir: "uyuyoruz".**
 
-***Mühtedûn* ise bir **hüküm** bildiriyor: "yolu bulmuş durumdayız".**
+***Mühtedûn* ise bir hüküm bildiriyor: "yolu bulmuş durumdayız".**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki kelimenin anlam farkıdır:** yirmi ikinci ayette muhataplar sonucu iddia ediyor (doğruyu bulduk); yirmi üçüncü ayette öncekiler fiili itiraf ediyor (uyuyoruz). **Aynı gerekçe, iki farklı kesinlikte.**
 
@@ -1260,7 +1260,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **ع-ق-ب** kökü dizinde işlendi (`090-beled.md`, `091-sems.md`, `059-hasr.md`). **Çekirdeği: topuk, ardından gelen.** *Âkıbet* — bir işin ardından gelen, sonu.
 
-**Ve kelime yirmi sekizinci ayette dönecek: *fî **akıbihî*** — "onun soyunda / ardından gelenlerde".**
+**Ve kelime yirmi sekizinci ayette dönecek: *fî akıbihî* — "onun soyunda / ardından gelenlerde".**
 
 **İki geçiş yan yana konabilir ve bir gözlem olarak veriyorum:**
 
@@ -1306,7 +1306,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Kelimenin kalıbı önemlidir ve dilciler bunu ayrıca kaydeder: *berâ'* bir *mastar*dır, sıfat değil.**
 
-**Yani cümle "ben uzağım" değil, tam karşılığıyla **"ben uzaklığın kendisiyim"** demektir.**
+**Yani cümle "ben uzağım" değil, tam karşılığıyla "ben uzaklığın kendisiyim" demektir.**
 
 **Arapçada bir kişi hakkında mastar kullanılması mübalağa bildirir** — *raculün adlün* ("adaletin kendisi olan adam") gibi. **Ve mastar olduğu için kelime tekil-çoğul ayrımı yapmaz:** aynı kelime bir kişi için de topluluk için de kullanılır. **Nitekim Mümtehine 60/4'te çoğul özneyle geliyor:** *innâ **büreâü** minküm* — orada çoğul kalıp (*büreâ'*) kullanılmıştır. **`060-mumtehine.md`'de işlendi.**
 
@@ -1432,7 +1432,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### بَلْ مَتَّعْتُ — ve zamirin değişmesi
 
-**Yirmi dokuzuncu ayette bir şey oluyor ve kaydedilmelidir: fiil birinci **tekil** şahsa geçiyor.**
+**Yirmi dokuzuncu ayette bir şey oluyor ve kaydedilmelidir: fiil birinci tekil şahsa geçiyor.**
 
 ***Metta'tü*** — "ben yararlandırdım". **Sûre boyunca birinci çoğul kullanılıyordu (*cealnâ*, *erselnâ*, *enşernâ*, *ehleknâ*, *intekamnâ*).**
 
@@ -1479,7 +1479,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### İtirazın kuruluşu
 
-***Lev lâ* burada **tahdîd** edatıdır: bir işin niçin yapılmadığını sorgulayan, sitem bildiren kalıp.**
+***Lev lâ* burada tahdîd edatıdır: bir işin niçin yapılmadığını sorgulayan, sitem bildiren kalıp.**
 
 **Cümlenin öznesi Kur'an, yüklemi *nüzzile* (indirilmeli değil miydi), ve şart bir kişide aranıyor: *racülin … azîm*.**
 
@@ -1573,9 +1573,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve bu cümle dikkatle okunmalıdır, çünkü kolayca yanlış anlaşılıyor.**
 
-**Ayet, insanlar arasındaki fark olgusunu **inkâr etmiyor.** Tam tersine, kaydediyor: dereceler vardır ve yükselten O'dur.**
+**Ayet, insanlar arasındaki fark olgusunu inkâr etmiyor. Tam tersine, kaydediyor: dereceler vardır ve yükselten O'dur.**
 
-**Ama cümlenin devamı, bu farkın **ne için** olduğunu söylüyor — ve söylenen şey, karşı tarafın kullandığı ölçüyle taban tabana zıttır.**
+**Ama cümlenin devamı, bu farkın ne için olduğunu söylüyor — ve söylenen şey, karşı tarafın kullandığı ölçüyle taban tabana zıttır.**
 
 **د-ر-ج** kökü: basamak basamak ilerlemek. *Derece* — basamak. *Tedric* — kademe kademe. **Kelime *derecât* olarak çoğul ve belirsiz geliyor: sayısı ve türü söylenmiyor.**
 
@@ -1821,7 +1821,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Şimdi fiilin bu ayetteki kuruluşu:**
 
-***Ya'şü **an** zikri'r-rahmân* — *an* harf-i cerri ile geliyor.**
+***Ya'şü an zikri'r-rahmân* — *an* harf-i cerri ile geliyor.**
 
 **Bu, iki okumaya yol açıyor ve müfessirler ayrılır:**
 
@@ -1940,7 +1940,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### يَٰلَيْتَ — pişmanlığın kalıbı
 
-***Leyte*, Arapçada **gerçekleşmesi mümkün olmayan** bir temenni için kullanılır.** (*Lealle* ise mümkün olanı bildirir — üçüncü ve onuncu ayetlerde geçtiği gibi.)
+***Leyte*, Arapçada gerçekleşmesi mümkün olmayan bir temenni için kullanılır.** (*Lealle* ise mümkün olanı bildirir — üçüncü ve onuncu ayetlerde geçtiği gibi.)
 
 **Bu ayrım kaydedilmeye değer ve sûre içinde doğrulanabilir:**
 
@@ -1984,7 +1984,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ — sorunun dizimi
 
-**Yine özne fiilden önce: *e-fe-**ente** tüsmiu*.** Otuz ikinci ayette aynı yapı vardı (*e-hüm yaksimûn*).
+**Yine özne fiilden önce: *e-fe-ente tüsmiu*.** Otuz ikinci ayette aynı yapı vardı (*e-hüm yaksimûn*).
 
 **Öne alınan özne, sorunun yönünü belirliyor: mesele işittirmenin mümkün olup olmaması değil, *bunu senin yapıp yapamayacağın*.**
 
@@ -2123,7 +2123,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### إِذَا هُم مِّنْهَا يَضْحَكُونَ — sürpriz *izâ*sı
 
-***İzâ* burada şart edatı değil, **fücâiyye** (ansızınlık) edatıdır: "bir de baktık ki".**
+***İzâ* burada şart edatı değil, fücâiyye (ansızınlık) edatıdır: "bir de baktık ki".**
 
 **Bu edat sûrenin bu bloğunda iki kez geçiyor:**
 
@@ -2185,7 +2185,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### يَنكُثُون — kök: ن-ك-ث
 
-**Kökün somut anlamı: eğrilmiş bir ipi ya da bükülmüş yünü **çözmek**, açmak.** *Nekese'l-habl* — ipi çözdü, örgüsünü söktü.
+**Kökün somut anlamı: eğrilmiş bir ipi ya da bükülmüş yünü çözmek, açmak.** *Nekese'l-habl* — ipi çözdü, örgüsünü söktü.
 
 **Ve buradan: sözünden dönmek, anlaşmayı bozmak.**
 
@@ -2262,16 +2262,16 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ***Kâde* fiili yaklaşma bildirir: "neredeyse".** Olumsuzu (*lâ yekâdü*) ise Arapçada **kuvvetli olumsuzluk** verir: "neredeyse yapamıyor" — yani **çok zor yapıyor** ya da hiç yapamıyor.
 
-**Ve ب-ي-ن kökü sûrede dördüncü kez geliyor.** Yukarıda (43/18 bahsinde) kurduğum tabloyu tamamlıyorum:
+**Ve ب-ي-ن kökü sûrede altıncı kez geliyor.** Yukarıda (43/18 bahsinde) kurduğum tabloyu tamamlıyorum:
 
 | Ayet | İfade | Kim için |
 |---|---|---|
 | 2 | *el-kitâbi'l-**mübîn*** | **Kitap** |
 | 15 | *kefûrun **mübîn*** | **Nankörlük** |
 | 18 | *ğayru **mübîn*** | Süs içinde yetiştirilen |
-| 52 | *lâ yekâdü **yübîn*** | **Mûsâ** |
 | 29 | *rasûlün **mübîn*** | **Elçi** |
 | 40 | *dalâlin **mübîn*** | Sapkınlık |
+| 52 | *lâ yekâdü **yübîn*** | **Mûsâ** |
 | 62 | *adüvvün **mübîn*** | Şeytan |
 
 **Kök sûrede yedi kez geçiyor. Bu bir metin verisidir.**
@@ -2336,7 +2336,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Otuz beşinci ayette *zuhruf* (altın süs) anılmış ve şu hükme bağlanmıştı: *ve in küllü zâlike lemmâ metâu'l-hayâti'd-dünyâ*.**
 
-**Elli üçüncü ayette, bir peygamberin gerçekliği için istenen delil **altın**dır.**
+**Elli üçüncü ayette, bir peygamberin gerçekliği için istenen delil altındır.**
 
 **Bunu tabloya koyuyorum, çünkü sûrenin omurgası burada görünür hâle geliyor:**
 
@@ -2413,9 +2413,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### Cümlenin asıl ağırlığı: fâ bağlacı
 
-**İki fiil arasında *fâ* var: *festehaffe … **fe**-etâûh*.**
+**İki fiil arasında *fâ* var: *festehaffe … fe-etâûh*.**
 
-***Fâ*, Arapçada **hem sıra hem sebep** bildirir: hemen ardından, ve bundan dolayı.**
+***Fâ*, Arapçada hem sıra hem sebep bildirir: hemen ardından, ve bundan dolayı.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bağlacın kendisidir:** ayet iki olayı yan yana koymuyor; **birini ötekinin sebebi yapıyor.** Hafife alma, itaatin sebebi oluyor.
 
@@ -2576,7 +2576,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Kökün somut anlamı: ipi ya da kayışı sıkıca bükmek, örmek.** *Cedele'l-habl* — ipi sağlam büktü. *Cedîl* — örülmüş kayış, deve yuları.
 
-**Ve buradan **tartışma** anlamı gelir. Dilciler bağı şöyle kurar: tartışan iki taraf, birbirini bükmeye, kendi tarafına çekmeye çalışır** — güreşteki *mücâdele* gibi. **Nitekim *cedele*, birini yere yıkmak anlamında da kullanılır.**
+**Ve buradan tartışma anlamı gelir. Dilciler bağı şöyle kurar: tartışan iki taraf, birbirini bükmeye, kendi tarafına çekmeye çalışır** — güreşteki *mücâdele* gibi. **Nitekim *cedele*, birini yere yıkmak anlamında da kullanılır.**
 
 **Kelimenin resmi kaydedilmeye değer ve gözlem olarak veriyorum:** *cedel*, kökünde **bir doğruya varmak** değil, **karşı tarafı bükmek**tir. **Amaç sonuç değil, üstün gelmek.**
 
@@ -2598,9 +2598,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Cümle Arapçadaki en kuvvetli sınırlama kalıplarından biriyle kuruluyor: *in* (olumsuzluk) + *illâ* (istisna). Buna *hasr* (sınırlama) denir.**
 
-**Yani cümle "o bir kuldur" demiyor; **"o, kuldan başka bir şey değildir"** diyor.**
+**Yani cümle "o bir kuldur" demiyor; "o, kuldan başka bir şey değildir" diyor.**
 
-**Ve ع-ب-د kökü sûrede on dokuzuncu ayette geçmişti: *ellezîne hüm **ibâdü'r-rahmân*** (melekler için).**
+**Ve ع-ب-د kökü sûrede on dokuzuncu ayette geçmişti: *ellezîne hüm ibâdü'r-rahmân* (melekler için).**
 
 **İki ayet yan yana konmalıdır ve bu, sûrenin en tutarlı yerlerinden biridir:**
 
@@ -2700,7 +2700,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### تَمْتَرُنَّ — kök: م-ر-ي
 
-**Kökün somut anlamı hayvancılıktan gelir: *merâ'n-nâkate* — deveyi sağmak için memesini **ovmak, sıvazlamak**.**
+**Kökün somut anlamı hayvancılıktan gelir: *merâ'n-nâkate* — deveyi sağmak için memesini ovmak, sıvazlamak.**
 
 **Ve buradan: *mirye* — şüphe, tereddüt. Dilciler bağı şöyle kurar: sağılan meme gibi, bir konuyu evirip çevirmek, üstünde durup durmak.** **Bu izahı nakledildiği şekliyle aktarıyorum.**
 
@@ -2732,7 +2732,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ***Adüvvün mübîn* — ب-ي-ن kökü sûrede yedinci kez.** Yukarıdaki tabloyu tamamlıyor.
 
-**Ve düşmanlık kelimesi, altmış yedinci ayette dönecek: *ba'duhüm li-ba'dın **adüvv***.** **İki geçiş: biri şeytan için, öteki dostlar için.**
+**Ve düşmanlık kelimesi, altmış yedinci ayette dönecek: *ba'duhüm li-ba'dın adüvv*.** **İki geçiş: biri şeytan için, öteki dostlar için.**
 
 ---
 
@@ -2914,7 +2914,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Altı geçiş, tek kök.** Bu doğrulanabilir bir metin verisidir.
 
-**Ve gözlem olarak ekliyorum:** sûre boyunca "kul" kelimesi bir **konum** olarak tartışıldı — melekler kul mu, Meryem oğlu kul mu. **Altmış sekizinci ayette aynı kelime bir **hitap** olarak geliyor ve bu kez muhataba yöneliyor.**
+**Ve gözlem olarak ekliyorum:** sûre boyunca "kul" kelimesi bir **konum** olarak tartışıldı — melekler kul mu, Meryem oğlu kul mu. **Altmış sekizinci ayette aynı kelime bir hitap olarak geliyor ve bu kez muhataba yöneliyor.**
 
 ### لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ
 
@@ -3037,7 +3037,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### مَا تَشْتَهِيهِ ٱلْأَنفُسُ وَتَلَذُّ ٱلْأَعْيُنُ
 
-**İfade, tasvirin sınırını kaldırıyor: sayılan bir liste değil, bir **kapsam** veriliyor.**
+**İfade, tasvirin sınırını kaldırıyor: sayılan bir liste değil, bir kapsam veriliyor.**
 
 **İki kanal anılıyor ve ikisi farklı:**
 
@@ -3097,7 +3097,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### Dizim: iki tablonun aynı kelimeyle bağlanması
 
-**Yetmiş birinci ayet *ve entüm fîhâ **hâlidûn*** ile bitmişti. Yetmiş dördüncü ayet *fî azâbi cehenneme **hâlidûn*** ile başlıyor.**
+**Yetmiş birinci ayet *ve entüm fîhâ hâlidûn* ile bitmişti. Yetmiş dördüncü ayet *fî azâbi cehenneme hâlidûn* ile başlıyor.**
 
 **Aynı kelime, iki tablonun sonunda ve başında.** Bu doğrulanabilir bir dizim verisidir.
 
@@ -3115,13 +3115,13 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **II. bâbda meçhul: *yüfetteru* — "gevşetilmez, hafifletilmez".**
 
-**Ve fiilin *an* harf-i cerri ile gelmesi kaydedilmelidir: *lâ yüfetteru **anhüm*** — "onlardan hafifletilmez".** Yani azabın kendisi değil, **onların üzerindeki basınç** söz konusu.
+**Ve fiilin *an* harf-i cerri ile gelmesi kaydedilmelidir: *lâ yüfetteru anhüm* — "onlardan hafifletilmez".** Yani azabın kendisi değil, **onların üzerindeki basınç** söz konusu.
 
 ### مُبْلِسُون — kök: ب-ل-س
 
 **Kökün anlamı: umudu kesilmek, çaresiz kalıp susmak, ne diyeceğini bilememek.** *Eblese* — umutsuzluğa düştü ve sustu.
 
-**Dilciler kelimenin bu iki yönünü birlikte kaydeder ve bu kaydedilmeye değer: *iblâs*, yalnız umutsuzluk değil, **umutsuzluktan gelen suskunluk**tur.**
+**Dilciler kelimenin bu iki yönünü birlikte kaydeder ve bu kaydedilmeye değer: *iblâs*, yalnız umutsuzluk değil, umutsuzluktan gelen suskunluktur.**
 
 **Ve dilciler *İblîs* isminin bu kökle ilişkisini de kaydeder: "rahmetten umudunu kesmiş olan".** **Bu türetmeyi nakledildiği şekliyle aktarıyorum; ismin kökeni hakkında (Arapça mı, yabancı bir kelimenin Arapçalaşmışı mı) dilciler arasında ihtilaf vardır ve bu ihtilafta hüküm vermiyorum.**
 
@@ -3183,7 +3183,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Son satır kaydedilmeye değer ve müfessirler bunun üzerinde durur.**
 
-**Talep, "Rabbimiz" denerek değil, **"senin Rabbin"** denerek kuruluyor.**
+**Talep, "Rabbimiz" denerek değil, "senin Rabbin" denerek kuruluyor.**
 
 **Bu ifade için nakledilen okumalar şunlardır:**
 
@@ -3212,7 +3212,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 - **مُكْث / مَكْث** — bir yerde durup beklemek; ve **ağır davranma, acele etmeme.**
 - **مَاكِث** — kalan, bekleyen.
 
-**Kur'an'da kök birkaç yerde geçer ve çoğunda **beklemek** anlamındadır:** Neml 27/22 (*fe-mekese ğayra baîdin* — "çok geçmeden geldi"); Tâhâ 20/10 (*ümküsû* — "durun, bekleyin"); İsrâ 17/106 (*li-takraehû ale'n-nâsi alâ **mükşin*** — "insanlara ağır ağır okuyasın diye").
+**Kur'an'da kök birkaç yerde geçer ve çoğunda beklemek anlamındadır:** Neml 27/22 (*fe-mekese ğayra baîdin* — "çok geçmeden geldi"); Tâhâ 20/10 (*ümküsû* — "durun, bekleyin"); İsrâ 17/106 (*li-takraehû ale'n-nâsi alâ **mükşin*** — "insanlara ağır ağır okuyasın diye").
 
 **Son örnek kaydedilmeye değer ve karşılaştırma verimlidir:**
 
@@ -3227,9 +3227,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Cevap "hayır" demiyor. "Çıkamazsınız" demiyor. "Kalacaksınız" diyor.**
 
-***Mâkis*, kökün resminde **beklemekte olan** kişidir.** Ve talep tam olarak beklemenin bitmesiydi.
+***Mâkis*, kökün resminde beklemekte olan kişidir.** Ve talep tam olarak beklemenin bitmesiydi.
 
-**Yani cevap, talebin karşıtını değil, talebin **konusunu** geri veriyor: bekleme sürüyor.**
+**Yani cevap, talebin karşıtını değil, talebin konusunu geri veriyor: bekleme sürüyor.**
 
 **Ve `069-hakka.md`'de bu ayetin bir başka ayetle bağı kurulmuştu** (*yâ leytehâ kâneti'l-kādıye* — Hâkka 69/27, "keşke o iş bitirici olsaydı"); **orada bu ayet destek olarak anılmıştı ve bağlayıcı sunulmamıştı.** **Aynı kaydı koruyorum.**
 
@@ -3258,9 +3258,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 > *ve lâkinne ekseraküm **li'l-hakkı kârihûn***
 
-***Li'l-hakk* — car-mecrûr, ism-i fâilden (*kârihûn*) **önce** gelmiş.** Arapçada bu öne alma **tahsis** bildirir.
+***Li'l-hakk* — car-mecrûr, ism-i fâilden (*kârihûn*) önce gelmiş.** Arapçada bu öne alma **tahsis** bildirir.
 
-**Yani cümle "çoğunuz hoşlanmıyordu" demiyor; **"hoşlanmadığınız şey hakkın kendisiydi"** diyor.**
+**Yani cümle "çoğunuz hoşlanmıyordu" demiyor; "hoşlanmadığınız şey hakkın kendisiydi" diyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum ve sûrenin otuzuncu ayetiyle bağlıyorum:** orada *ve lemmâ câehümü'l-hakku kālû hâzâ sihr* denmişti. **İki ayet aynı şeyi söylüyor: reddedilen şeyin adı metin tarafından konuyor.**
 
@@ -3286,7 +3286,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve bu ayette kaydedilecek olan şudur ve sûrenin ölçü meselesine bağlanıyor:** *ibrâm*, bir ipi kendi elinle sağlamlaştırmaktır. **Yani karşı tarafın yaptığı iş, kendi ölçüsünde sağlam.** Ayet bunu inkâr etmiyor. **Sadece aynı fiilin başka bir ölçekte de işlediğini söylüyor.**
 
-**Ve elli dördüncü ayetteki *nekes* (ipi çözmek) ile bu ayetteki *ibrâm* (ipi bükmek) aynı alandan geliyor.** İki kelime farklı köklerdendir (ن-ك-ث / ب-ر-م); **kaydettiğim şey, sûrenin iki ayrı yerde ip eğirme resmine dayanan kelimeler kullanmasıdır.** Bunu bir gözlem olarak veriyorum, metnin kurduğu bir bağ olarak değil.
+**Ve ellinci ayetteki *nekes* (ipi çözmek) ile bu ayetteki *ibrâm* (ipi bükmek) aynı alandan geliyor.** İki kelime farklı köklerdendir (ن-ك-ث / ب-ر-م); **kaydettiğim şey, sûrenin iki ayrı yerde ip eğirme resmine dayanan kelimeler kullanmasıdır.** Bunu bir gözlem olarak veriyorum, metnin kurduğu bir bağ olarak değil.
 
 ### أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُمْ
 
@@ -3322,7 +3322,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
 
-***Belâ*, Arapçada olumsuz bir soruya verilen **olumlu** cevaptır: "hayır, öyle değil — aksine".**
+***Belâ*, Arapçada olumsuz bir soruya verilen olumlu cevaptır: "hayır, öyle değil — aksine".**
 
 **Ve cevabın devamı kaydedilmelidir: cevap "işitiriz" demekle yetinmiyor, bir de kayıt ekliyor.**
 
@@ -3377,7 +3377,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### Birinci okumanın mantığı: imkânsız şart
 
-**Arapçada bir şart cümlesi, şartın **gerçekleşmediği** bilindiğinde bir reddetme aracına dönüşür. Buna mantıkta *ta'lîk bi'l-muhâl* — "imkânsıza bağlama" denir.**
+**Arapçada bir şart cümlesi, şartın gerçekleşmediği bilindiğinde bir reddetme aracına dönüşür. Buna mantıkta *ta'lîk bi'l-muhâl* — "imkânsıza bağlama" denir.**
 
 **Kur'an bu yöntemi başka yerlerde de kullanır ve örnekleri açıktır:**
 
@@ -3388,7 +3388,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ama bu ayette yapılan şey biraz farklı ve bunu kendi okumam olarak kaydediyorum:**
 
-**Burada gösterilen sonuç bir çelişki değil, bir **teslimiyet**tir.**
+**Burada gösterilen sonuç bir çelişki değil, bir teslimiyettir.**
 
 **Yani cümle şunu söylüyor: "eğer öyle olsaydı, buna karşı çıkan ben olmazdım — ilk kabul eden ben olurdum."**
 
@@ -3460,7 +3460,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Kökün somut anlamı: devenin çökmesi, bir yere yerleşip kalması.** *Bereke'l-ba'îr* — deve çöktü. *Mübârek* — üzerinde bereket **yerleşmiş** olan. *Birke* — havuz; suyun toplanıp durduğu yer.
 
-**Ve *tebâreke* VI. bâbdadır; dilciler bu kalıbı burada **"pek yüce, pek bereketli oldu"** diye açıklar ve fiilin yalnız Allah için kullanıldığını kaydeder.**
+**Ve *tebâreke* VI. bâbdadır; dilciler bu kalıbı burada "pek yüce, pek bereketli oldu" diye açıklar ve fiilin yalnız Allah için kullanıldığını kaydeder.**
 
 **Kökün resmi kaydedilmeye değer:** bereket, kökün resminde **artma** değil, **kalma**dır. Bir yere çöküp orada durmak.
 
@@ -3470,7 +3470,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Oraya dayanıyorum ve bağı tamamlıyorum.**
 
-**Ve *mülk* kelimesi sûrede ikinci kez geliyor: elli birinci ayette Fir'avn'ın ağzındaydı — *e-leyse lî **mülkü** Mısr*.**
+**Ve *mülk* kelimesi sûrede ikinci kez geliyor: elli birinci ayette Fir'avn'ın ağzındaydı — *e-leyse lî mülkü Mısr*.**
 
 **İki geçişi yan yana koyuyorum ve bu, sûrenin en açık karşıtlıklarından biridir:**
 
@@ -3554,7 +3554,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 > *"**إِفْك** — kök أ-ف-ك: bir şeyi yönünden çevirmek, ters yüz etmek. Yani 'uydurma' derken kullanılan kelime, 'çevrilmiş' demektir."*
 
-**Buraya bu ayetteki kalıbı ekliyorum: *yü'fekûn* — **meçhul**: "çevriliyorlar".**
+**Buraya bu ayetteki kalıbı ekliyorum: *yü'fekûn* — meçhul: "çevriliyorlar".**
 
 **Kalıp kaydedilmeye değer ve bunu bir gözlem olarak veriyorum:** ayet "nasıl dönüyorlar" demiyor, **"nasıl çevriliyorlar"** diyor. **Fiil edilgen.** Ve sûrenin otuz altıncı ayetinde bir eşlikçinin **denk getirildiği** söylenmişti.
 
@@ -3624,7 +3624,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve fark bu tablonun dördüncü satırındadır — bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetteki nesnelerdir:**
 
-**Beşinci ayette yüz çevrilecek olan şey **hatırlatma**dır: *nadribu ankümü'z-**zikra***. Yani mesajın kesilmesi söz konusuydu ve bu reddedildi.**
+**Beşinci ayette yüz çevrilecek olan şey hatırlatmadır: *nadribu ankümü'z-zikra*. Yani mesajın kesilmesi söz konusuydu ve bu reddedildi.**
 
 **Seksen dokuzuncu ayette yüz çevrilecek olan şey kişilerdir:** *fe'sfah **anhüm***. Yani mesaj kesilmiyor; **çekişme kesiliyor.**
 
@@ -3635,7 +3635,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 - Cevaplar verildi, karşılaştırmalar yapıldı, örnekler gösterildi (26-30, 46-56).
 - Ve seksen sekizinci ayette bir tespit yapıldı: *inne hâülâi kavmün lâ yü'minûn*.
 
-**Yani *safh* emri, mesajın başında değil, **sonunda** geliyor. Söylenecek her şey söylendikten sonra.**
+**Yani *safh* emri, mesajın başında değil, sonunda geliyor. Söylenecek her şey söylendikten sonra.**
 
 **Bunu kendi okumam olarak işaretliyorum ve dayanağı sûrenin kendi sırasıdır: beşinci ayette reddedilen şey, işin başında vazgeçmekti. Seksen dokuzuncu ayette emredilen şey, işi bitirdikten sonra tartışmayı sürdürmemektir.**
 

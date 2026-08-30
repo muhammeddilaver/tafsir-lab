@@ -728,7 +728,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ### Üç gerekçe
 
-**Ayet, çağrının gerekçelerini **kendisi** sayıyor ve üçü de karşı tarafın fiilidir:**
+**Ayet, çağrının gerekçelerini kendisi sayıyor ve üçü de karşı tarafın fiilidir:**
 
 | # | Gerekçe | Lafız |
 |---|---|---|
@@ -752,7 +752,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, sonucu bir **iyileşme** olarak adlandırıyor — *sudûr* (göğüsler) bir yara gibi tarif ediliyor. **Ve on beşinci ayet devam ediyor: *ve yüzhib ğayza kulûbihim* — "kalplerinin öfkesini gidersin."**
 
-**Yani gaye olarak sayılanlar arasında, muhatap topluluğun kendi öfkesinin **geçmesi** de var.** Bunu kendi okumam olarak kaydediyorum ve dayanağı *yüzhib* fiilidir: öfke bir **kalıcı hâl** olarak değil, **giderilecek bir şey** olarak konuyor.
+**Yani gaye olarak sayılanlar arasında, muhatap topluluğun kendi öfkesinin geçmesi de var.** Bunu kendi okumam olarak kaydediyorum ve dayanağı *yüzhib* fiilidir: öfke bir **kalıcı hâl** olarak değil, **giderilecek bir şey** olarak konuyor.
 
 ---
 
@@ -766,7 +766,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Bloğun kapanışı kaydedilmelidir ve bu, sûrenin adını taşıyan kelimedir.**
 
-**On altı ayetlik en sert blok, bir **tevbenin kabulü** cümlesiyle kapanıyor.**
+**On altı ayetlik en sert blok, bir tevbenin kabulü cümlesiyle kapanıyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin yeridir:** bloğun sonunda, karşı taraftan kimin döneceğinin **bu tarafın bilgisi dışında** olduğu bildiriliyor. **Yani hüküm kesinleştirilirken, hükmün dışına çıkma ihtimali açık bırakılıyor.**
 
@@ -774,7 +774,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ### وَلِيجَة — kök: و-ل-ج
 
-**Kökün somut anlamı: bir şeyin içine girmek.** *Veleca* — girdi; *vülûc* — girme. **Kök `034-sebe.md` 34/2'de (*ya'lemü mâ **yelicü** fi'l-ard*) geçti.**
+**Kökün somut anlamı: bir şeyin içine girmek.** *Veleca* — girdi; *vülûc* — girme. **Kök `034-sebe.md` 34/2'de (*ya'lemü mâ yelicü fi'l-ard*) geçti.**
 
 **وَلِيجَة** — dilcilerin verdiği anlam: **araya sokulan, içeri alınan; sırdaş, mahrem dost.** Kelime, **dışarıdan olup içeri alınan** kişiyi bildirir.
 
@@ -825,7 +825,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Ayetin koyduğu kayıt kaydedilmelidir ve bu, USLUP açısından önemlidir.**
 
-**Ayet, engeli bir kimliğe değil, bir **beyana** bağlıyor: *şâhidîne alâ enfüsihim bi'l-küfr* — "kendi aleyhlerine küfürle şahitlik ederek."**
+**Ayet, engeli bir kimliğe değil, bir beyana bağlıyor: *şâhidîne alâ enfüsihim bi'l-küfr* — "kendi aleyhlerine küfürle şahitlik ederek."**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı hâl cümlesinin varlığıdır:** cümle "müşrikler imar edemez" demiyor; "**kendi küfürlerine kendileri şahitlik ederken** imar etmeleri olacak şey değildir" diyor. **Kayıt, kendi ikrarlarıdır.**
 
@@ -923,7 +923,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Sıralamada bir düzen var ve bunu kendi okumam olarak kaydediyorum:** liste **en yakın kan bağından** başlıyor, **seçilen bağa** geçiyor, **topluluğa** genişliyor, sonra **maddî olana** iniyor ve **yerleşiklikle** bitiyor. **Yani ilk beşi insan, son üçü şey.**
 
-**Ve son üç maddenin her birine bir **sıfat cümlesi** eklenmiş, ilk beşine eklenmemiş:**
+**Ve son üç maddenin her birine bir sıfat cümlesi eklenmiş, ilk beşine eklenmemiş:**
 
 | Madde | Eklenen kayıt | Ne bildiriyor |
 |---|---|---|
@@ -1194,7 +1194,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Bir. Ayet bir savaş hâlini düzenliyor ve bir bitiş noktası koyuyor.**
 
-**Cümlenin yapısı şudur: *kātilû … **hattâ** yu'tü'l-cizyete*.** ***Hattâ*** bir **gaye edatıdır** ve fiilin **nerede biteceğini** söyler.
+**Cümlenin yapısı şudur: *kātilû … hattâ yu'tü'l-cizyete*.** ***Hattâ*** bir **gaye edatıdır** ve fiilin **nerede biteceğini** söyler.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı *hattâ* edatıdır:** ayet, savaşın **sonsuz** olmadığını kendi cümlesinde yazıyor. **Aynı yapı `047-muhammed.md` 47/4'te iki kez geçmişti** (*hattâ izâ eshantümûhüm*, *hattâ tedaa'l-harbü evzârahâ*) ve orada kaydedilmişti: *"metin, izin verdiği şeyin nerede biteceğini, izin verdiği yerde söylüyor."* **Oraya dayanıyorum.**
 
@@ -1227,7 +1227,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 ### USLUP gereği bir sınır
 
-**Bu ayet ve devamı, iki dinî topluluğa nispet edilen **iddialar** hakkındadır. Bu tefsirde uygulanan ölçü şudur ve açıkça yazıyorum:**
+**Bu ayet ve devamı, iki dinî topluluğa nispet edilen iddialar hakkındadır. Bu tefsirde uygulanan ölçü şudur ve açıkça yazıyorum:**
 
 **Eleştirilen şey bir *sözdür*, bir *topluluk* değil.** Ayetin kendi lafzı bunu söyler: ***zâlike kavlühüm* — "bu, onların sözüdür."** Konu, bir cümlenin doğru olup olmadığıdır.
 
@@ -1415,7 +1415,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 ### مِنْهَآ أَرْبَعَةٌ حُرُمٌ
 
-**Ayet, dört ayın hangileri olduğunu **söylemiyor**.**
+**Ayet, dört ayın hangileri olduğunu söylemiyor.**
 
 **Klasik kaynaklarda bunların Zilkade, Zilhicce, Muharrem ve Recep olduğu yaygın olarak nakledilir; üçünün ardışık, birinin ayrı olduğu da aktarılır. Bu bir rivayet bilgisidir ve Kur'an'da yer almaz; kesin bilgi olarak sunmuyorum.**
 
@@ -1440,7 +1440,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 **Ayetin son cümlesinde bir karşılıklılık kaydı var ve kaydedilmelidir.**
 
-***Kemâ*** — "…-diği gibi." **Yani emir, karşı tarafın fiiline **denk** olarak kuruluyor.**
+***Kemâ*** — "…-diği gibi." **Yani emir, karşı tarafın fiiline denk olarak kuruluyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı *kemâ* edatıdır:** cümle bir **ölçü** taşıyor. **Ve bu, `002-bakara.md` 2/194'te (*fe-meni'tedâ aleyküm fa'tedû aleyhi bi-misli me'tedâ aleyküm*) işlenen denklik ilkesiyle aynı yerden geliyor.**
 
@@ -1493,7 +1493,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 ### زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ
 
-**Fiil **meçhul** geliyor: *züyyine*.** **`008-enfal.md` 8/48'de bu farkın kaydı yapılmıştı:** aynı fiil bir yerde etken ve faili söylenerek (*zeyyene lehümü'ş-şeytân*), bir yerde meçhul geliyor. **`035-fatir.md` 35/8 ve `040-gafir.md` 40/37'de de meçhuldü.** **Oraya dayanıyorum; burada da meçhuldür.**
+**Fiil meçhul geliyor: *züyyine*.** **`008-enfal.md` 8/48'de bu farkın kaydı yapılmıştı:** aynı fiil bir yerde etken ve faili söylenerek (*zeyyene lehümü'ş-şeytân*), bir yerde meçhul geliyor. **`035-fatir.md` 35/8 ve `040-gafir.md` 40/37'de de meçhuldü.** **Oraya dayanıyorum; burada da meçhuldür.**
 
 ---
 
@@ -1545,7 +1545,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 ### أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ
 
-**Edat kaydedilmelidir: *min* burada **bedel** bildirir — "âhiretin *yerine*."**
+**Edat kaydedilmelidir: *min* burada bedel bildirir — "âhiretin *yerine*."**
 
 **Bunu bir gramer gözlemi olarak kaydediyorum:** cümle bir **değiş tokuş** kuruyor. Ve soru *e-radîtüm* — "razı mı oldunuz?" **Yani seçim yapılmış gibi konuşuluyor.**
 
@@ -1780,7 +1780,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 **Terkip kaydedilmelidir: *ihde'l-husneyeyn* — "iki güzelden biri."**
 
-**Ayet, iki ihtimalin **ikisini de** güzel olarak adlandırıyor.** Klasik tefsirlerde bu ikisinin **zafer** ve **şehadet** olduğu yaygın olarak nakledilir.
+**Ayet, iki ihtimalin ikisini de güzel olarak adlandırıyor.** Klasik tefsirlerde bu ikisinin **zafer** ve **şehadet** olduğu yaygın olarak nakledilir.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı *el-husneyeyn* tesniyesidir:** cümle, muhatabın kurduğu **kazanç/kayıp** ikiliğini kabul etmiyor. **Karşı taraf iki sonuç bekliyor; ayet o iki sonucu tek bir kelimeyle adlandırıyor.**
 
@@ -1893,14 +1893,14 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 **Bu, ayetin en çok üzerinde durulan gramer özelliğidir ve kaydedilmelidir.**
 
-**Sekiz sınıftan altısı **لِ** (*li* — "için") edatıyla, ikisi **فِى** (*fî* — "içinde") edatıyla geliyor:**
+**Sekiz sınıftan altısı لِ (*li* — "için") edatıyla, ikisi فِى (*fî* — "içinde") edatıyla geliyor:**
 
 | Edat | Sınıflar |
 |---|---|
 | **لِ** | Fakirler, miskinler, çalışanlar, kalpleri ısındırılacaklar, borçlular, yolda kalmış |
 | **فِى** | **Boyunlar** (*fi'r-rikāb*) ve **Allah yolu** (*fî sebîlillâh*) |
 
-**Dilciler ve müfessirler bu farkı kaydeder ve şöyle açıklarlar: *li* **mülkiyet ve temlik**, *fî* ise **sarf yeri** bildirir.** Yani ilk altısında pay kişinin olur; *fî* ile gelen ikisinde ise mal bir **amaca** harcanır, bir kişiye temlik edilmez.
+**Dilciler ve müfessirler bu farkı kaydeder ve şöyle açıklarlar: *li* mülkiyet ve temlik, *fî* ise sarf yeri bildirir.** Yani ilk altısında pay kişinin olur; *fî* ile gelen ikisinde ise mal bir **amaca** harcanır, bir kişiye temlik edilmez.
 
 **Bu izahı dilcilerin verdiği şekliyle aktarıyorum.** **Ve şunu kendi okumam olarak ekliyorum:** *fî* ile gelen iki maddenin ortak yanı, **ikisinin de bir kişi adı olmamasıdır** — biri bir organ (*rikāb*), öteki bir yön (*sebîl*). Edat farkı, adlandırma farkını takip ediyor.
 
@@ -1954,9 +1954,9 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 ### أُذُن — bir lakabın işleyişi
 
-**Söylenen söz bir benzetme değil, bir **ad**: *hüve üzün* — "**o, kulaktır**."**
+**Söylenen söz bir benzetme değil, bir ad: *hüve üzün* — "o, kulaktır."**
 
-**Arapçada bir kişinin bir organla adlandırılması, o organın işlevinin kişide **aşırı** olduğunu bildiren bir mübalağa yoludur.** Dilciler bunu kaydeder: bir kişiye "o göz" demek çok bakan, "o kulak" demek **her söyleneni dinleyen** demektir.
+**Arapçada bir kişinin bir organla adlandırılması, o organın işlevinin kişide aşırı olduğunu bildiren bir mübalağa yoludur.** Dilciler bunu kaydeder: bir kişiye "o göz" demek çok bakan, "o kulak" demek **her söyleneni dinleyen** demektir.
 
 **Yani lakap şunu söylüyor: söylenen her şeye inanır, herkesi dinler.**
 
@@ -1966,7 +1966,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 **Cevabın kuruluşu, sûrenin en ince dizim nüktelerinden biridir.**
 
-**Cevap, lakabı **reddetmiyor** — kabul edip **niteliyor**: *üzünü hayrin leküm* — "**sizin için hayır olan bir kulak**."**
+**Cevap, lakabı reddetmiyor — kabul edip niteliyor: *üzünü hayrin leküm* — "sizin için hayır olan bir kulak."**
 
 **Terkip bir izâfettir: *üzünü hayr* — "hayrın kulağı."** Yani kulak olmak inkâr edilmiyor; **neyin kulağı olduğu** söyleniyor.
 
@@ -2001,7 +2001,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 ### أَحَقُّ أَن يُرْضُوهُ — bir zamir nüktesi
 
-**Cümlede iki özne var — *vallâhu ve rasûlühû* — ama zamir **tekil**: *yurdû**hü***.**
+**Cümlede iki özne var — *vallâhu ve rasûlühû* — ama zamir tekil: *yurdû**hü***.**
 
 **Bu, dilcilerin üzerinde durduğu bir yerdir ve izahlar nakledilir:**
 
@@ -2031,7 +2031,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 ### Korkulan şey
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin nesnesidir:** korkulan şey bir ceza değil, bir **metin** — *en tünezzele aleyhim sûrah*. **Ve sûrenin yapacağı iş de söyleniyor: *tünebbiühüm bimâ fî kulûbihim* — kalplerinde olanı **kendilerine** haber vermek.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin nesnesidir:** korkulan şey bir ceza değil, bir **metin** — *en tünezzele aleyhim sûrah*. **Ve sûrenin yapacağı iş de söyleniyor: *tünebbiühüm bimâ fî kulûbihim* — kalplerinde olanı kendilerine haber vermek.**
 
 Zamir kaydedilmelidir: *tünebbiü**hüm*** — başkalarına değil, **onlara.**
 
@@ -2081,7 +2081,7 @@ Zamir kaydedilmelidir: *tünebbiü**hüm*** — başkalarına değil, **onlara.*
 
 **Terkip kaydedilmelidir: *ba'duhüm min ba'd* — "bir kısmı bir kısmındandır."**
 
-***Min* burada **cins bildirir**: aynı türden olmak, birbirinin devamı olmak.**
+***Min* burada cins bildirir: aynı türden olmak, birbirinin devamı olmak.**
 
 **Bunu bir gramer gözlemi olarak kaydediyorum:** ifade bir **birliktelik** bildirmiyor — bir **benzerlik** bildiriyor. Aralarında bir bağ değil, bir **aynılık** var. **Ve 71. ayette bu ifade değişecektir; orada tabloyla verilecektir.**
 
@@ -2158,7 +2158,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### Sûrenin en güçlü dizim nüktesi: birebir karşıtlık
 
-**Bu ayet, 67. ayetin **birebir karşılığıdır** ve karşıtlık kelime kelime kuruludur. Tabloyla veriyorum, çünkü sûrenin en güçlü örgüsü budur:**
+**Bu ayet, 67. ayetin birebir karşılığıdır ve karşıtlık kelime kelime kuruludur. Tabloyla veriyorum, çünkü sûrenin en güçlü örgüsü budur:**
 
 | Öğe | **9/67 — Münafıklar** | **9/71 — Müminler** |
 |---|---|---|
@@ -2202,7 +2202,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### وَٱلْمُؤْمِنَٰتُ
 
-**Ayette erkek ve kadın **ayrı ayrı** anılıyor — hem 67'de hem 71'de.**
+**Ayette erkek ve kadın ayrı ayrı anılıyor — hem 67'de hem 71'de.**
 
 **Bunu bir gözlem olarak kaydediyorum:** iki ayet de aynı yapıyı kuruyor ve sayılan fiillerin hepsi **iki tarafa da** nispet ediliyor. **Emretme, alıkoyma, namaz, zekât ve itaat — beş fiil de ortak özneye ait.**
 
@@ -2231,7 +2231,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ
 
-**Cümle bir karşılaştırma kuruyor ve bir tarafını **söylemiyor**: neye göre daha büyük?**
+**Cümle bir karşılaştırma kuruyor ve bir tarafını söylemiyor: neye göre daha büyük?**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** *ekber* ism-i tafdîldir ve karşılaştırılan taraf hazfedilmiştir. **Bağlamdan anlaşılan, az önce sayılan cennetler ve meskenlerdir.** Yani sayılanların hepsi anıldıktan sonra, bir şey daha anılıyor ve "daha büyük" deniyor.
 
@@ -2249,7 +2249,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 **ن-ق-م** kökü: **bir şeyi çirkin bulup ona karşı öfkelenmek, ondan intikam almak.**
 
-**Cümlenin yapısı: *ve mâ nekamû **illâ*** — olumsuzluk + istisna, yani **kasr** (sınırlama).** "Öfkelenmelerinin tek sebebi …"
+**Cümlenin yapısı: *ve mâ nekamû illâ* — olumsuzluk + istisna, yani kasr (sınırlama).** "Öfkelenmelerinin tek sebebi …"
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu kasr yapısıdır:** ayet, öfkenin sebebi olarak **beklenmedik bir şey** koyuyor — bir kötülük değil, bir **iyilik**. Kalıbın işlevi budur: cümle, gerekçe sayılacak şeyin yerine, gerekçe sayılamayacak bir şey koyuyor.
 
@@ -2291,7 +2291,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### İki grup, tek alay
 
-**Ayet, alay konusu edilen **iki** kesimi ayrı ayrı sayıyor:**
+**Ayet, alay konusu edilen iki kesimi ayrı ayrı sayıyor:**
 
 | Kim | Lafız | Durumu |
 |---|---|---|
@@ -2331,7 +2331,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### ٱلْمُخَلَّفُون
 
-**Kelime **ism-i mef'ûl**: "geride **bırakılanlar**", "geride kalanlar" değil.**
+**Kelime ism-i mef'ûl: "geride bırakılanlar", "geride kalanlar" değil.**
 
 **`048-fetih.md`'de bu kelime ayrıntılı işlendi** ve orada *muhallef* ile *müstahlef* arasındaki karşıtlık kaydedilmişti. **Oraya dayanıyorum.**
 
@@ -2339,7 +2339,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### لَا تَنفِرُوا۟ فِى ٱلْحَرِّ
 
-**Söylenen söz kaydedilmelidir: bir mazeret değil, bir **çağrı**.**
+**Söylenen söz kaydedilmelidir: bir mazeret değil, bir çağrı.**
 
 **Bunu bir gözlem olarak kaydediyorum:** cümle emir kipindedir ve **başkalarına** yöneliktir. Yani mesele bireysel bir kaçınma değil, **yayılan bir çağrı.**
 
@@ -2455,9 +2455,9 @@ Kelime *hâlife*nin çoğuludur: **geride kalanlar.**
 
 ### ٱلْأَعْرَاب
 
-**Kelime `048-fetih.md` ve `049-hucurat.md`'de işlendi ve orada kaydedilmişti: *a'râb*, "Araplar" değil **bedevîler** demektir** — yerleşik olmayan, çölde yaşayan topluluklar. **Oraya dayanıyorum.**
+**Kelime `048-fetih.md` ve `049-hucurat.md`'de işlendi ve orada kaydedilmişti: *a'râb*, "Araplar" değil bedevîler demektir** — yerleşik olmayan, çölde yaşayan topluluklar. **Oraya dayanıyorum.**
 
-**Ve *min* edatı burada da **teb'îz** bildirir: *mine'l-a'râb* — "bedevîlerden."** **Nitekim sûrenin 99. ayeti aynı topluluğun içinden bir kesimi ayrı olarak anacaktır.**
+**Ve *min* edatı burada da teb'îz bildirir: *mine'l-a'râb* — "bedevîlerden."** **Nitekim sûrenin 99. ayeti aynı topluluğun içinden bir kesimi ayrı olarak anacaktır.**
 
 **USLUP gereği: bu kelimeden hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır.**
 
@@ -2517,7 +2517,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **فَأَعْرِضُوا۟ عَنْهُمْ إِنَّهُمْ رِجْسٌ** (95) ve **يَحْلِفُونَ لَكُمْ لِتَرْضَوْا۟ عَنْهُمْ فَإِن تَرْضَوْا۟ عَنْهُمْ فَإِنَّ ٱللَّهَ لَا يَرْضَىٰ عَنِ ٱلْقَوْمِ ٱلْفَٰسِقِينَ** (96)
 
-Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Yani yeminin amacı bile belirtiliyor — ikna değil, **rıza almak**.
+**Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Yani yeminin amacı bile belirtiliyor — ikna değil, rıza almak.**
 
 **Ve cevabın kuruluşu:** *fe-in terdav anhüm fe-innallâhe lâ yerdâ.* **İnsanların rızası ile hükmün ayrılması.**
 
@@ -2531,7 +2531,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **Bu üç ayet bir arada okunmadan hüküm çıkarılamaz** ve bunu açıkça kaydediyorum.
 
-**Doksan yedinci ayet bir tespit yapıyor; doksan sekizinci ayet bir kesimi anlatıyor; doksan dokuzuncu ayet ise *ve mine'l-a'râbi men yü'minü billâhi ve'l-yevmi'l-âhir* diyerek **aynı topluluğun içinden karşıt bir kesimi** anıyor.**
+**Doksan yedinci ayet bir tespit yapıyor; doksan sekizinci ayet bir kesimi anlatıyor; doksan dokuzuncu ayet ise *ve mine'l-a'râbi men yü'minü billâhi ve'l-yevmi'l-âhir* diyerek aynı topluluğun içinden karşıt bir kesimi anıyor.**
 
 | Ayet | Kim | Ne |
 |---|---|---|
@@ -2543,11 +2543,11 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **Ve doksan yedinci ayetin gerekçesi de metinde veriliyor:** *ve ecderu ellâ ya'lemû hudûde mâ enzelallâh* — **hükümlerden uzak yaşamaları.** **Yani tespit bir soy ya da kimlik hükmü değil, bir *durum* tespitidir; ve sebebi coğrafî mesafedir.**
 
-***A'râb* kelimesinin "Araplar" değil **bedevîler** demek olduğu `048-fetih.md` ve `049-hucurat.md` 49/14'te işlendi;** oraya dayanıyorum. **USLUP gereği hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır ve sûrenin kendisi zaten kurmuyor.**
+***A'râb* kelimesinin "Araplar" değil bedevîler demek olduğu `048-fetih.md` ve `049-hucurat.md` 49/14'te işlendi;** oraya dayanıyorum. **USLUP gereği hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır ve sûrenin kendisi zaten kurmuyor.**
 
 **مَغْرَمًا** (98) — kök **غ-ر-م**: borç, zarar, ödenmesi gereken bedel. **Kök `056-vakia.md` 56/66'da (*innâ le-muğramûn*) ve `052-tur.md`, `068-kalem.md`'de işlendi.**
 
-**قُرُبَٰتٍ عِندَ ٱللَّهِ** (99) — **ve karşı kesim, aynı fiili (*mâ yünfiku*) **yakınlık** sayıyor.**
+**قُرُبَٰتٍ عِندَ ٱللَّهِ** (99) — **ve karşı kesim, aynı fiili (*mâ yünfiku*) yakınlık sayıyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin aynı fiili kullanmasıdır:** harcanan şey aynı; **değişen, harcayanın onu ne saydığı.** **Ve `009-tevbe.md` 9/60'ta sadakaların sarf yerleri sayılmıştı — burada sadakanın *sahibindeki karşılığı* anlatılıyor.**
 
@@ -2629,7 +2629,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimenin kendisidir:** *cürüf*, **dışarıdan sağlam görünen** bir zemindir; boşluk **altındadır.** **Yani temsil, görünen sağlamlıkla gerçek dayanağı ayırıyor** — ve bu, mescidin biçimiyle maksadı arasındaki farkın aynısıdır.
 
-**Ve fiil kaydedilmelidir: *fe'nhâra **bihî*** — "onunla birlikte çöktü."** **Yapı yalnız yıkılmıyor; yapanı da götürüyor.**
+**Ve fiil kaydedilmelidir: *fe'nhâra bihî* — "onunla birlikte çöktü."** **Yapı yalnız yıkılmıyor; yapanı da götürüyor.**
 
 **`029-ankebut.md` 29/41'de örümcek evi temsili işlendi** (*evhenü'l-büyûti le-beytü'l-ankebût*) **ve orada kaydedilmişti: mesele ağın işe yaramaması değil, *sığınak* olamamasıdır.** **İki temsil aynı yerden kesiyor: biri dayanıksız duvar, öteki dayanıksız zemin.**
 
@@ -2694,7 +2694,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **`019-meryem.md` 19/47'de İbrâhim'in babasına *se-estağfiru leke rabbî* dediği işlendi** ve orada kaydedilmişti: **kovulan taraf, kovan için dua edeceğini söyleyerek ayrılıyor.** **Bu ayet, o sözün sonunu bildiriyor.** **İki sûre birlikte okunduğunda tablo tamamlanıyor.**
 
-**إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ** — ***evvâh*: kök أ-و-ه — "âh" sesinden türetilmiş; dilciler onu **çok içlenen, acıyan, inleyerek dua eden** diye açıklar.** **Kelime `011-hud.md` 11/75'te de geçer** (*inne İbrâhîme le-halîmün evvâhün münîb*) **ve orada işlendi;** oraya dayanıyorum.
+**إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ** — ***evvâh*: kök أ-و-ه — "âh" sesinden türetilmiş; dilciler onu çok içlenen, acıyan, inleyerek dua eden diye açıklar.** **Kelime `011-hud.md` 11/75'te de geçer** (*inne İbrâhîme le-halîmün evvâhün münîb*) **ve orada işlendi;** oraya dayanıyorum.
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, duayı bırakma hükmünü verdikten hemen sonra **duayı bırakan kişiyi "çok içlenen" diye niteliyor.** **Yani hüküm, merhametsizlikten değil.**
 
@@ -2719,11 +2719,11 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı *bimâ rahubet* kaydıdır:** birinci daralma **gerçek bir darlık değil** — yer geniştir. **Daralan, kişinin yerle ilişkisidir.** **Ve ikinci cümle bunu içeriye taşıyor: kişinin kendisiyle ilişkisi.**
 
-**Ve `039-zumer.md` 39/10, `029-ankebut.md` 29/56 ve `004-nisa.md` 4/97'de yerin genişliği (*ardullâhi vâsia*) bir **çıkış imkânı** olarak işlenmişti.** **Tevbe'de aynı genişlik, çıkışın kalmadığı bir hâlin ölçüsü oluyor.** **İki kullanım karşılaştırılabilir ve bu, sûreler arası doğrulanabilir bir karşıtlıktır.**
+**Ve `039-zumer.md` 39/10, `029-ankebut.md` 29/56 ve `004-nisa.md` 4/97'de yerin genişliği (*ardullâhi vâsia*) bir çıkış imkânı olarak işlenmişti.** **Tevbe'de aynı genişlik, çıkışın kalmadığı bir hâlin ölçüsü oluyor.** **İki kullanım karşılaştırılabilir ve bu, sûreler arası doğrulanabilir bir karşıtlıktır.**
 
 **وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ** — "**Allah'tan kaçıp sığınacak yerin yine ancak O olduğunu anladılar.**"
 
-**Cümlenin kuruluşu kaydedilmelidir: *lâ melcee minallâhi **illâ ileyh*** — kaçılan ile sığınılan aynı.**
+**Cümlenin kuruluşu kaydedilmelidir: *lâ melcee minallâhi illâ ileyh* — kaçılan ile sığınılan aynı.**
 
 **ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟** — **ve sıra kaydedilmeye değer: kabul, tövbeden *önce* anılıyor.** *Tâbe aleyhim li-yetûbû* — **"tövbe edebilsinler diye tövbelerini kabul etti."** **Bunu bir dizim gözlemi olarak kaydediyorum.**
 
@@ -2782,7 +2782,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **غِلْظَة** — kök **غ-ل-ظ**: **katılık, sertlik, kalınlık.** **Kök `009-tevbe.md` 9/73'te (*va'ğluz aleyhim*) ve `003-al-i-imran.md` 3/159'da (*ğalîza'l-kalb*) geçer.**
 
-**Ve iki kullanım arasındaki fark kaydedilmeye değer:** Âl-i İmrân'da *ğalîza'l-kalb* (katı kalpli) olmak **kınanan** bir vasıftır — *ve lev künte fazzan ğalîza'l-kalbi le'nfaddû min havlik.* **Tevbe'de ise *ğılza*, karşı tarafın **bulacağı** bir şey olarak isteniyor.**
+**Ve iki kullanım arasındaki fark kaydedilmeye değer:** Âl-i İmrân'da *ğalîza'l-kalb* (katı kalpli) olmak **kınanan** bir vasıftır — *ve lev künte fazzan ğalîza'l-kalbi le'nfaddû min havlik.* **Tevbe'de ise *ğılza*, karşı tarafın bulacağı bir şey olarak isteniyor.**
 
 **Bunu kendi okumam olarak kaydediyorum:** ikisi çelişmiyor, çünkü **muhatapları farklıdır** — biri kendi çevresine karşı tavır, öteki savaş hâlindeki tarafa karşı caydırıcılık. **Ve `048-fetih.md` 48/29'da (*eşiddâü ale'l-küffâri ruhamâü beynehüm*) bu ayrım işlendi ve orada sınır konuldu;** oraya dayanıyorum.
 
@@ -2790,7 +2790,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 **Bu ayetten güncel siyasî ya da askerî bir sonuç çıkarılmamaktadır.** Ayetin çerçevesi, sûrenin kendi anlattığı **karşılıklı bir savaş hâli**dir; ve o hâlin sınırları sûrenin ilk on altı ayetinde tek tek sayılmıştır (antlaşmaya sadık kalanın istisna edilmesi, sığınanın korunup güvenli yere ulaştırılması, barışa yanaşıldığında karşılık verilmesi — `008-enfal.md` 8/61'de işlendi).
 
-**Ve ayetin son cümlesi bir ölçü bırakıyor: *innallâhe mea'l-müttekīn*.** **Yani beraberlik, savaşın kendisine değil **korunmaya** bağlanıyor** — ve *takvâ*, sûrenin ikinci ayetinden beri tekrarlanan kelimedir.
+**Ve ayetin son cümlesi bir ölçü bırakıyor: *innallâhe mea'l-müttekīn*.** **Yani beraberlik, savaşın kendisine değil korunmaya bağlanıyor** — ve *takvâ*, sûrenin ikinci ayetinden beri tekrarlanan kelimedir.
 
 ---
 
@@ -2856,7 +2856,7 @@ Yemin ve rıza kaydedilmeye değer:** *yahlifûne leküm li-terdav anhüm.* **Ya
 
 ***Hasbiyallâh* — `008-enfal.md` 8/62'de (*fe-inne hasbekallâh*) ve `039-zumer.md` 39/36'da (*eleysallâhu bi-kâfin abdeh*) işlendi.** **Oraya dayanıyorum.**
 
-**Ve sûre, yüz yirmi dokuz ayetlik bir fesih, sefer ve ayrım metnini **tevekkül** cümlesiyle kapatıyor.**
+**Ve sûre, yüz yirmi dokuz ayetlik bir fesih, sefer ve ayrım metnini tevekkül cümlesiyle kapatıyor.**
 
 ---
 

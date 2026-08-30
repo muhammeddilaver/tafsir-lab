@@ -130,7 +130,7 @@ Ve tarif iki fiille yapılıyor:
 
 **İkisinin yan yana gelmesi tesadüf değildir ve ayrımı görmek gerekiyor.** Birincisi kişinin kendisiyle ilgilidir: inandı ya da inanmadı. İkincisi **başkasıyla** ilgilidir: birinin yolunu kesmek.
 
-Yani sûrenin ilk cümlesi, salt inkârı değil, **inkâra eklenen bir engellemeyi** tarif ediyor. Kur'an bu iki fiili sık sık birlikte kullanır ve bu sûrede üç kez daha bir arada getirir: 32 (*keferû ve saddû an sebîli'llâh*) ve 34 (aynı ifade). Yani **açılış cümlesindeki iki fiil, sûrenin sonuna doğru iki kez daha aynen tekrarlanacak.**
+Yani sûrenin ilk cümlesi, salt inkârı değil, **inkâra eklenen bir engellemeyi** tarif ediyor. Kur'an bu iki fiili sık sık birlikte kullanır ve bu sûrede iki kez daha bir arada getirir: 32 (*keferû ve saddû an sebîli'llâh*) ve 34 (aynı ifade). Yani **açılış cümlesindeki iki fiil, sûrenin sonuna doğru iki kez daha aynen tekrarlanacak.**
 
 Bu, sûre içinde kurulmuş bir çerçevedir: 1 — 32 — 34.
 
@@ -397,7 +397,7 @@ Bir hüküm verildiğinde iki şey yapılabilir: hüküm verilip bırakılır, y
 | **26** | *zâlike bi-ennehüm kâlû…* | 25. ayetteki geriye dönüş |
 | **28** | *zâlike bi-ennehümu'ttebeû mâ eshata'llâh* | 27. ayetteki melek darbesi |
 
-**Beş gerekçe, beşi de aynı kalıpla.** Ve dikkat: **beşinin dördü, hükmün hemen ardından gelir.** Yani sûre, ağır bir hüküm verdiği her yerde, bir sonraki ayette gerekçeyi yazıyor.
+**Beş gerekçe, beşi de aynı kalıpla.** Ve dikkat: **beşi de hükmün hemen ardından gelir.** Yani sûre, ağır bir hüküm verdiği her yerde, bir sonraki ayette gerekçeyi yazıyor.
 
 **Bu, sûrenin okunma biçimini belirler.** Bu sûre sert cümleler taşır; ama sert cümlelerinin hiçbiri gerekçesiz bırakılmamıştır. Bir hükmü bağlamından koparıp almak, gerekçesinden de koparmak demektir — ve gerekçe, hükmün kime uygulanacağını belirleyen şeydir.
 
@@ -1066,7 +1066,7 @@ Bu, metinde duran bir karşıtlıktır ve kelimelerin somut anlamları bilinmede
 
 **Yani fiil düşürülmüş, masdar kalmış** — tıpkı dördüncü ayetteki *fe-darbe'r-rikâb* gibi. Sûre bu kalıbı iki kez kullanıyor.
 
-**Ve Arapçada bu kalıp, bedduâ ve dua cümlelerinin standart biçimidir:** *süknen lehû*, *sakyen lehû*, *tebben lehû*. Nitekim Tebbet sûresinin açılışı (*tebbet yedâ Ebî Leheb*) `111-tebbet.md`'de işlendi; oradaki kalıpla bu ayet aynı ailedendir.
+**Ve Arapçada bu kalıp, bedduâ ve dua cümlelerinin standart biçimidir:** *sakyen lehû*, *tebben lehû*. Nitekim Tebbet sûresinin açılışı (*tebbet yedâ Ebî Leheb*) `111-tebbet.md`'de işlendi; oradaki kalıpla bu ayet aynı ailedendir.
 
 ### وَأَضَلَّ أَعْمَٰلَهُمْ — birinci ayetin aynen tekrarı
 
@@ -1172,7 +1172,7 @@ Sûrenin *zâlike bi-enne* kalıbının ikinci geçişi. Üçüncü ayette 1-2. 
 1. **يَسِيرُوا۟** — kök **س-ي-ر**: yürümek, yol almak, seyahat etmek. Aynı kökten *seyr*, *sîret* (bir kişinin gidişatı, yaşam yolu), *seyyâre* (kervan; bugünkü Arapçada otomobil).
 2. **يَنظُرُوا۟** — kök **ن-ظ-ر**: bakmak. Ve bu kökün Kur'an'daki kullanımı, "görmek" (ر-أ-ي) ile bir değildir: *nazar*, **kasıtlı ve dikkatli bakış**tır; bir yöne çevrilmiş bakıştır. Aynı kökten *nazariyye* (teori), *intizâr* (bekleyiş), *münâzara*.
 
-**Ve iki fiil bir *fâ* ile bağlanmış: يَسِيرُوا۟ **فَ**يَنظُرُوا۟.**
+**Ve iki fiil bir *fâ* ile bağlanmış: يَسِيرُوا۟ فَيَنظُرُوا۟.**
 
 *Fâ* burada **sebebiyet** ve **sıra** bildirir: yürüyeler **de** baksalar. Yani bakış, yürümenin sonucudur; yürümeden bakılmıyor.
 
@@ -1194,7 +1194,7 @@ Sûrenin *zâlike bi-enne* kalıbının ikinci geçişi. Üçüncü ayette 1-2. 
 
 **Ve *âkıbet* kelimesi tam olarak "arkadan gelen" demektir:** bir şeyin peşi sıra gelen, sonu.
 
-**Bu, kökün seçtiği resmi verir:** bir sonuç, olayın *arkasında* durur. Onu görmek için olayın arkasına geçmek gerekir — ve bu, on dördüncü ayette ele alacağımız **تَدَبُّر** ile aynı fikirdir (د-ب-ر: arka).
+**Bu, kökün seçtiği resmi verir:** bir sonuç, olayın *arkasında* durur. Onu görmek için olayın arkasına geçmek gerekir — ve bu, yirmi dördüncü ayette ele alacağımız **تَدَبُّر** ile aynı fikirdir (د-ب-ر: arka).
 
 **İki kök, iki ayrı kelime, aynı resim: bir şeyin sonunu görmek için arkasına bakmak.**
 
@@ -1609,7 +1609,7 @@ Ve bu, Kur'an'ın bu kalıptaki tutumudur: aynı fiil bazı yerlerde şeytana (E
 
 Orada kaydedilen ana nokta burada belirleyicidir: kökün asıl anlamı **yukarıdan aşağı düşmek**tir. *Hevâ* — düştü. **هَاوِيَة** — uçurum, dipsiz çukur (Kāria 101/9).
 
-**Ve aynı kökten **هَوًى** (*hevâ*) — nefsin arzusu, meyli.**
+**Ve aynı kökten هَوًى (*hevâ*) — nefsin arzusu, meyli.**
 
 **Dilcilerin kurduğu bağ şudur:** *hevâ*, insanı **aşağı çeken** meyildir. Kelime, yöneldiği yönü adında taşır.
 
@@ -1925,7 +1925,7 @@ Eğer fiil *yesmeu* olsaydı, sonuç anlaşılırdı: dikkat etmemiş, kaçırm�
 
 ### إِلَيْكَ — ve bir harf
 
-**Fiil إِلَىٰ harfiyle geçişli: *yestemiu **ileyke***.**
+**Fiil إِلَىٰ harfiyle geçişli: *yestemiu ileyke*.**
 
 Arapçada bu fiil hem *ilâ* hem doğrudan mef'ûl alabilir. *İlâ* ile geldiğinde **yönelme** anlamı güçlenir: "sana doğru kulak veriyor".
 
@@ -2959,7 +2959,7 @@ Aynı kökten **لَعِين** (*laîn* — kovulmuş) ve **مَلْعُون**.
 | **قَفَلَ** | Geri döndü; ve: kilitledi |
 | **قَافِل** | Sefere çıkıp **dönen** kişi |
 
-**Dilciler *kāfile* kelimesinin aslen "yolculuktan **dönen** topluluk" olduğunu kaydeder;** sonradan gidiş kervanı için de kullanılır olmuştur. Türkçedeki "kafile" bu kelimeden gelir.
+**Dilciler *kāfile* kelimesinin aslen "yolculuktan dönen topluluk" olduğunu kaydeder;** sonradan gidiş kervanı için de kullanılır olmuştur. Türkçedeki "kafile" bu kelimeden gelir.
 
 **Kökte ayrıca *kuruluk ve sertlik* anlamı da kaydedilir:** *kafele'l-cildü* — deri kurudu, sertleşti.
 
@@ -3013,7 +3013,7 @@ Ayet **ٱلْقُلُوب** (el-kulûb — "kalpler", belirli) demiyor. **قُل
 
 ### عَلَىٰ — kilidin *üstte* olması
 
-**Ve harf yine önemli: عَلَىٰ قُلُوبٍ — "kalpler **üzerinde**".**
+**Ve harf yine önemli: عَلَىٰ قُلُوبٍ — "kalpler üzerinde".**
 
 **Kilit kalbin içinde değil, üstünde.**
 
@@ -3282,7 +3282,7 @@ Cümle "size itaat edeceğiz" demiyor. **"Bazı işlerde"** diyor. Yani bir sın
 
 **كَيْفَ** — hâl soran soru edatı: "nasıl?"
 
-**Ve cümlede sorunun **haberi eksik**:** "nasıl olacak?" deniyor ama neyin nasıl olacağı söylenmiyor.
+**Ve cümlede sorunun haberi eksik:** "nasıl olacak?" deniyor ama neyin nasıl olacağı söylenmiyor.
 
 **Nahivciler bir hazif takdir eder:** *fe-keyfe **yasnaûne / hâlühüm*** — "nasıl davranacaklar / hâlleri nasıl olacak?"
 
@@ -3608,7 +3608,7 @@ Yani kin, içeride olan bir şeydir ve dışarı **çıkarılacaktır.** Fiil, b
 
 **Ve ayetin dizimindeki bir ayrıntı, meselenin tam merkezindedir.**
 
-**Ayet **بِ** harfini değil, **فِى** harfini kullanıyor.**
+**Ayet بِ harfini değil, فِى harfini kullanıyor.**
 
 Karşılaştırın:
 
@@ -3793,7 +3793,7 @@ Bir metinde ya da konuşmada, söylenen içerik dışında taşınan bir şey va
 
 Oradan taşınacak kayıt: kökün asıl anlamı **bir şeyin iç yüzünü deneyerek öğrenmek**tir. *Habera'l-arda* — toprağı sürdü, altını üstüne getirdi. Ve **خَبِير** (*Habîr*), yüzeyi değil **içi** bileni adlandırır.
 
-**Ve buradan **ٱخْتِبَار** (*ihtibâr*) — sınav, test — kelimesi gelir.**
+**Ve buradan ٱخْتِبَار (*ihtibâr*) — sınav, test — kelimesi gelir.**
 
 **Şimdi ayetin son cümlesine bakalım: وَنَبْلُوَا۟ أَخْبَارَكُمْ.**
 
@@ -4080,7 +4080,7 @@ Bakara 2/264, hangi davranışın ameli iptal ettiğini açıkça yazar: minnet 
 
 > "Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği **vasıflardır**, kim o vasfı taşırsa ona dahildir."
 
-**Bu ayet, vasfın **ne zaman kesinleştiğini** de söylüyor: ölüm anında.**
+**Bu ayet, vasfın ne zaman kesinleştiğini de söylüyor: ölüm anında.**
 
 ### فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ
 
@@ -4213,7 +4213,7 @@ Ve Kur'an'ın bu kökü kullandığı en somut yer, kelimenin resmini verir:
 
 **Üçüncü dayanak: fiilin kendisi.**
 
-**Ayetin yasakladığı ilk şey barış değil, **وَهَن**dır — gevşeme.** Cümle *lâ tehinû* ile başlıyor; *ted'û* ona bağlanıyor.
+**Ayetin yasakladığı ilk şey barış değil, وَهَنdır — gevşeme.** Cümle *lâ tehinû* ile başlıyor; *ted'û* ona bağlanıyor.
 
 **Yani cümlenin konusu, gramer olarak da, dizim olarak da, gevşemektir.**
 
@@ -4354,7 +4354,7 @@ Oradan taşınacak iki kayıt:
 
 **Bunu bir okuma olarak sunuyorum;** listenin kısalığından anlam çıkarmak zorunlu değildir.
 
-### Ankebût 29/64 ile karşılaştırma — bir dikkat kaydı
+### *La'ib* ve *lehv* — bir dikkat kaydı
 
 **Ve bir usul kaydı gerekiyor, çünkü bu ayet kolayca yanlış okunur.**
 
@@ -4363,7 +4363,7 @@ Oradan taşınacak iki kayıt:
 - **لَعِب** — **sonucu olmayan** uğraş.
 - **لَهْو** — **asıl işten çeken** meşguliyet.
 
-**Yani tarif, dünyanın *kendisine* değil, dünyanın **tek başına alındığında ne olduğuna** dair.**
+**Yani tarif, dünyanın *kendisine* değil, dünyanın tek başına alındığında ne olduğuna dair.**
 
 **Ve bunun kanıtı ayetin ikinci yarısındadır:** ayet, bu tarifi verdikten sonra **iman ve takvâ** şartını koyuyor ve karşılığında bir **ücret** vaat ediyor. Yani aynı hayat, şart yerine geldiğinde başka bir şey oluyor.
 
@@ -4378,7 +4378,7 @@ Oradan taşınacak iki kayıt:
 | **7** | *in **tensurû**'llâhe* | *yensurküm ve yüsebbit akdâmeküm* |
 | **36** | *in **tü'minû ve tettekū*** | *yü'tiküm ücûraküm ve lâ yes'elküm emvâleküm* |
 
-**İkisi de **إِنْ** ile kuruluyor** (ihtimalli şart) ve **ikisinin de cevabı iki parçalı.**
+**İkisi de إِنْ ile kuruluyor** (ihtimalli şart) ve **ikisinin de cevabı iki parçalı.**
 
 **Bu paralelliği bir dizim gözlemi olarak kaydediyorum.**
 
@@ -4400,7 +4400,7 @@ Oradan taşınacak iki kayıt:
 
 **Cümle: "mallarınızı istemez."**
 
-**Ve buradaki incelik, **أَمْوَٰلَكُمْ** kelimesinin *zamirli ve tam* olmasındadır.**
+**Ve buradaki incelik, أَمْوَٰلَكُمْ kelimesinin *zamirli ve tam* olmasındadır.**
 
 Cümle şöyle olabilirdi:
 
@@ -4563,7 +4563,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 - **نَفَقَ ٱلشَّىْءُ** — bitti, tükendi.
 - **نَفَاق** — sürüm, revaç; malın geçer olması.
-- **نَفَق** — **yer altı tüneli** (Tevbe 9/57'de ve En'âm 6/35'te geçer). Ve **نَافِقَاء** — tarla faresinin yuvasının, tehlike anında çıkacağı gizli ikinci ağzı.
+- **نَفَق** — **yer altı tüneli** (En'âm 6/35'te geçer). Ve **نَافِقَاء** — tarla faresinin yuvasının, tehlike anında çıkacağı gizli ikinci ağzı.
 - **مُنَافِق** (*münâfık*) — aynı kökten; iki ağızlı yuvası olan hayvan gibi, iki çıkışı olan kişi. **Bu, `063-munafikun.md` bölümünde işlendi.**
 
 **Ve *infâk* kelimesi, ilk anlamdan gelir: malı *tüketmek*, elden çıkarmak.**
@@ -4576,7 +4576,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 **Ve bu cümlenin diziminde, USLUP açısından kaydedilmesi gereken bir ölçü var.**
 
-**Cümle: **مِنكُم مَّن يَبْخَلُ** — "**içinizden bazısı** cimrilik ediyor."**
+**Cümle: مِنكُم مَّن يَبْخَلُ — "içinizden bazısı cimrilik ediyor."**
 
 **مِن** harfi burada **teb'îz** (bir kısmını bildirme) bildiriyor: bütünün bir parçası.
 
@@ -4602,7 +4602,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 - **بَخِلَ بِـ** — bir şeyi esirgemek (esirgenen şey *bâ* ile).
 - **بَخِلَ عَلَىٰ** — birine karşı cimrilik etmek (mahrum bırakılan kişi *alâ* ile).
 
-**Ayet ise **عَن** kullanıyor: **يَبْخَلُ عَن نَّفْسِهِۦ**.**
+**Ayet ise عَن kullanıyor: يَبْخَلُ عَن نَّفْسِهِۦ.**
 
 **عَن** — uzaklaşma, ayrılma bildiren harf: "…-den".
 
@@ -4643,7 +4643,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 **Yani kelime, yoksulluğu bir *taşıyamama* olarak adlandırıyor.**
 
-**Ve bu, 35. ayetteki **و-ه-ن** kökünün resmiyle aynı ailedendir:** *vehn*, kemiğin zayıflamasıydı; *fakr*, belin kırılması.
+**Ve bu, 35. ayetteki و-ه-ن kökünün resmiyle aynı ailedendir:** *vehn*, kemiğin zayıflamasıydı; *fakr*, belin kırılması.
 
 **İki kelime, iki ayet arayla, aynı somut resimden geliyor: taşıyıcı yapının çökmesi.**
 
@@ -4669,7 +4669,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 Aynı kökten **بَدَل** (bedel), **تَبْدِيل** (değiştirme), **إِبْدَال**.
 
-**Ve *istif'âl* babı burada **talep** değil, **isteyerek yapma** bildiriyor.**
+**Ve *istif'âl* babı burada talep değil, isteyerek yapma bildiriyor.**
 
 **قَوْمًا غَيْرَكُمْ** — "sizden başka bir topluluk". Nekre: belirsiz.
 

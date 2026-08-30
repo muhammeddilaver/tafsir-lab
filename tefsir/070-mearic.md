@@ -14,7 +14,7 @@ Beklenen cevap bir **tarih** olurdu. Sûre tarih vermiyor. Onun yerine üç şey
 
 **Birincisi (1-7): zamanın ölçüsünü değiştiriyor.** Azabın ne zaman geleceğini söylemiyor; sorunun dayandığı zaman anlayışını sorguluyor. *"Onlar onu uzak görüyorlar, biz ise yakın görüyoruz."*
 
-**İkincisi (8-35): o günü ve o güne hazırlanmış olanı tarif ediyor.** Sahne kuruluyor: erimiş gök, atılmış yün gibi dağlar, birbirini gören ama soramayan dostlar, her şeyi fidye vermek isteyen suçlu. Sonra bir **teşhis**: insan *helû'* yaratılmıştır. Ve sonra bir **istisna**: bu teşhisin dışında kalanların dokuz maddelik listesi.
+**İkincisi (8-35): o günü ve o güne hazırlanmış olanı tarif ediyor.** Sahne kuruluyor: erimiş gök, atılmış yün gibi dağlar, birbirini gören ama soramayan dostlar, her şeyi fidye vermek isteyen suçlu. Sonra bir **teşhis**: insan *helû'* yaratılmıştır. Ve sonra bir **istisna**: bu teşhisin dışında kalanların sekiz maddelik listesi.
 
 **Üçüncüsü (36-44): soruyu soranlara dönülüyor.** Boyunlarını uzatıp bakan, sağdan soldan dağınık gruplar halinde toplanan insanlar. Ve sert bir cevap.
 
@@ -1401,7 +1401,7 @@ Nahivciler **muttasıl** (bağlı) ve **munkatı'** (kesik) istisna ayırır:
 
 Yani sûre farklı bir insan türü ayırmıyor. Aynı yapıdaki insanlardan bir kısmının, o yapının dışına **çıktığını** söylüyor.
 
-Ve bu, yirmi dokuz ayetlik listeyi bir **çıkış yolu** haline getiriyor: liste, *helû'*luktan çıkma yollarını sayıyor.
+Ve bu, on üç ayetlik listeyi bir **çıkış yolu** haline getiriyor: liste, *helû'*luktan çıkma yollarını sayıyor.
 
 Bunu bir okuma olarak kaydediyorum; istisnanın muttasıl olması nahivde yaygın kabuldür.
 
@@ -1667,7 +1667,7 @@ Mâûn bölümünde bu iki sûre için şu kaydedilmişti: *"Meâric'te övülen
 
 Mâûn bölümünde *kezzebe* için kaydedilen ayrım burada aynen tersine işliyor:
 
-> *"Kezebe* (birinci bab) 'yalan söyledi' demektir — fiili işleyen yalancıdır. *Kezzebe* ise 'başkasının doğru sözüne yalan dedi' demektir."*
+> *Kezebe* (birinci bab) "yalan söyledi" demektir — fiili işleyen yalancıdır. *Kezzebe* ise "başkasının doğru sözüne yalan dedi" demektir.
 
 **Aynı şekilde:** *sadaka* "doğru söyledi"dir (fiili işleyen doğru sözlüdür); ***saddaka*** ise **"başkasının sözüne doğru dedi"**dir.
 
@@ -2089,7 +2089,7 @@ Bunu kendi okumam olarak kaydediyorum. Üç ayetin kök ortaklığı doğrulanab
 
 ### Listenin bütünü
 
-**On üç ayet, dokuz madde, iki namaz çerçevesi.** Tablosu şudur:
+**On üç ayet, altı madde, iki namaz çerçevesi.** Tablosu şudur:
 
 | # | Ayet | Madde | Alan |
 |---|---|---|---|
@@ -2276,7 +2276,7 @@ Bunu bir okuma olarak kaydediyorum; iki ayetin muhtevası ve sonraki ayetle bağ
 
 *Tama'*, elde etme sebebi olmadan elde etmeyi ummaktır.
 
-**Ve kelime bu ayette tam yerine oturuyor:** insanlar cennete girmeyi umuyorlar; ama sûre otuz beş ayet boyunca cennete kimin gireceğini saymıştı — dokuz maddelik liste. Bu insanlar o listede yok.
+**Ve kelime bu ayette tam yerine oturuyor:** insanlar cennete girmeyi umuyorlar; ama sûre otuz beş ayet boyunca cennete kimin gireceğini saymıştı — sekiz maddelik liste. Bu insanlar o listede yok.
 
 **Yani soru şudur: hangi dayanakla?**
 
@@ -2302,7 +2302,7 @@ Ve bu, bir sonraki adımın hazırlığıdır: liste bireysel bir listeydi; hesa
 
 **Fiilin edilgen olması kritiktir.**
 
-Ayet *"cennete **girmeyi**"* demiyor. **"Cennete **sokulmayı**"** diyor: *yüdhale*, edilgen.
+Ayet *"cennete **girmeyi**"* demiyor. **"Cennete sokulmayı"** diyor: *yüdhale*, edilgen.
 
 Yani girmek kişinin yapacağı bir iş değil; ona yapılacak bir şey. Kapıdan kendi geçmiyor, **alınıyor.**
 
@@ -2706,7 +2706,7 @@ Ve delil olarak **Fussilet 41/39** verilmişti: *"Yeryüzünü kupkuru (**hâşi
 
 Tekrarlamıyorum.
 
-**Buraya eklenecek olan şudur: aynı kök, bu sûrede iki farklı yerde iki zıt değerde geçiyor** — biri doğrudan bu sûrede değil ama Meâric'in paraleli olan Mü'minûn'da:
+**Buraya eklenecek olan şudur: aynı kök iki farklı yerde iki zıt değerde geçiyor** — biri bu sûrede, öteki Meâric'in paraleli olan Mü'minûn'da:
 
 | Ayet | İfade | Kim | Değeri |
 |---|---|---|---|
@@ -2804,7 +2804,7 @@ Bunu kendi okumam olarak kaydediyorum. Sûrenin açılış ve kapanış cümlele
 | **Ölçü** | 4-7 | Zamanın ölçüsü ve algı farkı | **خَمْسِينَ أَلْفَ سَنَةٍ** |
 | **Sahne** | 8-18 | Gök, dağlar, dostlar, fidye, ateş | **لَظَىٰ** |
 | **Teşhis** | 19-21 | İnsanın yapısı | **هَلُوعًا** |
-| **İstisna** | 22-35 | Dokuz maddelik liste | **إِلَّا ٱلْمُصَلِّينَ** |
+| **İstisna** | 22-35 | Sekiz maddelik liste | **إِلَّا ٱلْمُصَلِّينَ** |
 | **Dönüş** | 36-41 | Soranlara cevap | **كَلَّا** |
 | **Kapanış** | 42-44 | Bırakma emri ve son sahne | **ذَٰلِكَ ٱلْيَوْمُ** |
 

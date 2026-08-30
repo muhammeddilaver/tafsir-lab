@@ -547,7 +547,7 @@ Oradaki tarif: **زَوْج**, "çift" değil **"çiftin bir teki"**dir. Yani e�
 
 ### أَلَا يَتَّقُونَ — sûrenin kalıbı, ters şahısta
 
-**Sûrede beş kez geçecek olan *elâ tettekūn* cümlesi, ilk kez burada geçiyor — ve tek geçtiği yerde şahsı farklı: *elâ **yettekūn***.**
+**Sûrede beş kez geçecek olan *elâ tettekūn* cümlesi, ilk kez burada geçiyor — ve tek geçtiği yerde şahsı farklı: *elâ yettekūn*.**
 
 | Kıssa | Ayet | Kim söylüyor | Kime | Şahıs |
 |---|---|---|---|---|
@@ -1049,7 +1049,7 @@ Fir'avn *"seni hapsederim"* (*le-escünenneke*) demiyor. **"Seni zindana atılan
 | 186 | *Ve in nezunnüke le-mine'l-kâzibîn* | Eyke halkı |
 | 213 | *Fe-tekûne mine'l-muazzebîn* | (Allah, elçiye) |
 
-**Yani sûre, insanları tek tek değil, **grup üyeliğiyle** anlatıyor.** Herkes bir çoğulun içine yerleştiriliyor: elçilerden, sihirbazlardan, yalancılardan, kovulanlardan, azap görenlerden.
+**Yani sûre, insanları tek tek değil, grup üyeliğiyle anlatıyor.** Herkes bir çoğulun içine yerleştiriliyor: elçilerden, sihirbazlardan, yalancılardan, kovulanlardan, azap görenlerden.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı yukarıdaki sayımdır:** sûrenin kapanışı da aynı tekniktedir — *ve'ş-şuarâü yettebiuhümü'l-**ğâvûn*** (224) ve *illâ **ellezîne** âmenû* (227). **Sûre, sonunda da bir grup ayrımı yapıyor.**
 
@@ -1458,7 +1458,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **Kelime Kur'an'da yalnızca burada geçer.** Bu, metinden doğrulanabilir bir veridir.
 
-**Ve dizim nüktesi kaydedilmelidir: *şirzimetün **kalîlûn***.** *Şirzime* zaten "azıcık topluluk" demektir; üstüne bir de *kalîlûn* ("azlar") ekleniyor. **Yani azlık iki kez söyleniyor.**
+**Ve dizim nüktesi kaydedilmelidir: *şirzimetün kalîlûn*.** *Şirzime* zaten "azıcık topluluk" demektir; üstüne bir de *kalîlûn* ("azlar") ekleniyor. **Yani azlık iki kez söyleniyor.**
 
 **Bir gramer notu:** *şirzime* müennes tekildir, sıfatı ise müzekker sâlim çoğul (*kalîlûn*). **Bu, topluluk isimlerinde olağan bir kullanımdır** — sıfat, topluluğun fertlerine bakıyor.
 
@@ -1568,7 +1568,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **Yani Mûsâ, kendisine söylenen kelimeyi kavmine söylüyor.** Bu, metinden doğrulanabilir bir örtüşmedir.
 
-**Ve cümlenin devamı kaydedilmelidir: *inne **maıye** rabbî*.** On beşinci ayette güvence *innâ **meaküm** müstemiûn* ("biz sizinle beraberiz") idi. **Şimdi Mûsâ aynı kelimeyi tekil zamirle tekrarlıyor: "Rabbim benimledir."**
+**Ve cümlenin devamı kaydedilmelidir: *inne maıye rabbî*.** On beşinci ayette güvence *innâ **meaküm** müstemiûn* ("biz sizinle beraberiz") idi. **Şimdi Mûsâ aynı kelimeyi tekil zamirle tekrarlıyor: "Rabbim benimledir."**
 
 **سَيَهْدِين** — *sîn* + muzâri: **yakın gelecek.** Ve fiil **هدى** — yol göstermek.
 
@@ -1642,7 +1642,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **Ama kıssanın kendisi, sûrenin bütün kıssalarından farklı bir şey yapıyor: sonunda kavmin âkıbeti anlatılmıyor.** Nûh boğuluyor, Âd helâk ediliyor, Semûd yakalanıyor, Lût kavmi yok ediliyor, Eyke halkı gölge azabıyla alınıyor. **İbrâhim'in kavmine ne olduğu söylenmiyor.**
 
-**Onun yerine kıssa **mahşer sahnesine** geçiyor (87-102).** Yani cezayı dünyada değil, ahirette gösteriyor.
+**Onun yerine kıssa mahşer sahnesine geçiyor (87-102).** Yani cezayı dünyada değil, ahirette gösteriyor.
 
 **Bunu bir gözlem olarak kaydediyorum ve metinden doğrulanabilir:** yedi kıssanın altısında sonuç dünyevîdir; **İbrâhim kıssasında sonuç uhrevîdir.**
 
@@ -1712,7 +1712,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **عَٰكِفِين** — kök **ع-ك-ف**: **bir yerde durup ayrılmamak, bir şeyin başında kalmak.** Aynı kökten *i'tikâf* (mescitte kalmak). **Kelimede tapınma değil, *bağlılık ve ayrılmama* vardır.**
 
-**Yani kavim, tapınmanın içeriğini değil, **süresini** anlatıyor: "başlarında durup duruyoruz."** Bunu bir gözlem olarak kaydediyorum.
+**Yani kavim, tapınmanın içeriğini değil, süresini anlatıyor: "başlarında durup duruyoruz."** Bunu bir gözlem olarak kaydediyorum.
 
 ### هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ — işitme delili
 
@@ -1890,7 +1890,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **İki fiil, iki ayrı zaman: *halaka* (mâzî) ve *yehdî* (muzâri).**
 
-**Ve aradaki *fâ* kaydedilmelidir.** *Fâü's-sebebiyye* — sebep bildiren *fâ*: **"beni yarattı, **bu yüzden** bana yol gösterir."** Yani hidayet, yaratmanın devamı olarak sunuluyor: yaratan, yarattığını yolsuz bırakmaz.
+**Ve aradaki *fâ* kaydedilmelidir.** *Fâü's-sebebiyye* — sebep bildiren *fâ*: **"beni yarattı, bu yüzden bana yol gösterir."** Yani hidayet, yaratmanın devamı olarak sunuluyor: yaratan, yarattığını yolsuz bırakmaz.
 
 **Aynı bağ Kur'an'da başka bir yerde de kurulur:** *ellezî a'tâ külle şey'in halkahû sümme hedâ* (Tâhâ 20/50) — "her şeye yaratılışını veren, sonra yol gösteren". **İki ayette de sıra aynıdır: önce yaratma, sonra yol.**
 
@@ -2339,7 +2339,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve dizim nüktesi: dilek "cennete girelim" değil, "*mü'minlerden* olalım" biçiminde.** *Fe-nekûne **mine'l-mü'minîn***. **Yani istenen şey sonuç değil, konum.**
 
-**Ve bu, sûrenin mühründeki kelimeyle aynıdır: *ve mâ kâne ekseruhüm **mü'minîn***.** Doksan ikinci ayetten yüz ikinci ayete kadar süren mahşer sahnesi, mührün kelimesine çıkarak bitiyor. **Bu, metinden doğrulanabilir bir örtüşmedir ve mührün neden tam buraya konduğunu gösteriyor.**
+**Ve bu, sûrenin mühründeki kelimeyle aynıdır: *ve mâ kâne ekseruhüm mü'minîn*.** Doksan ikinci ayetten yüz ikinci ayete kadar süren mahşer sahnesi, mührün kelimesine çıkarak bitiyor. **Bu, metinden doğrulanabilir bir örtüşmedir ve mührün neden tam buraya konduğunu gösteriyor.**
 
 ### Kıssanın mühürlenmesi — 103-104
 
@@ -2403,7 +2403,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **İki — *in ecriye illâ alâ rabbi'l-âlemîn*.** *İn* burada olumsuzluk edatıdır (*mâ* anlamında) ve *illâ* ile birlikte **kasr** (sınırlama) kurar: "ücretim **ancak** âlemlerin Rabbine aittir."
 
-**Ve *alâ* harf-i cerri kaydedilmelidir:** *alâ* Arapçada **borç ve yükümlülük** bildirir (*aleyhi deynün* — üzerinde borç var). **Yani ücret, bir lütuf olarak değil, **taahhüt** olarak anlatılıyor.**
+**Ve *alâ* harf-i cerri kaydedilmelidir:** *alâ* Arapçada **borç ve yükümlülük** bildirir (*aleyhi deynün* — üzerinde borç var). **Yani ücret, bir lütuf olarak değil, taahhüt olarak anlatılıyor.**
 
 ---
 
@@ -2417,7 +2417,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Bu altı ayetin beşi, sûrenin ortak kalıbıdır ve yukarıdaki bölümde işlendi. Tekrarlamıyorum.**
 
-**Nûh kıssasına özgü olan tek şey, kalıbın burada **ilk kez** kurulmasıdır** — sonraki dört kıssa bunun tekrarıdır.
+**Nûh kıssasına özgü olan tek şey, kalıbın burada ilk kez kurulmasıdır** — sonraki dört kıssa bunun tekrarıdır.
 
 **Ve *fettekullâhe ve etîûn* cümlesinin ikinci geçişi (110) burada araya yalnız bir ayet girerek geliyor.** Bunun ne anlama geldiği "Sûrenin omurgası" bölümünde Tablo 4'te işlendi.
 
@@ -2443,7 +2443,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 | **Sâffât 37/75-82** | Kurtuluş ve nesli | `037-saffat.md` |
 | **Kamer 54/9-16** | Tufanın kendisi | `054-kamer.md` |
 
-**Yani Şuarâ, Nûh kıssasından yalnız **bir tartışmayı** alıyor: kimlerin iman ettiği meselesi.** Bu, sûrenin bütününe uygundur — sûre olayları değil, **konuşmaları** anlatıyor.
+**Yani Şuarâ, Nûh kıssasından yalnız bir tartışmayı alıyor: kimlerin iman ettiği meselesi.** Bu, sûrenin bütününe uygundur — sûre olayları değil, **konuşmaları** anlatıyor.
 
 ---
 
@@ -2469,7 +2469,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 ### أَنُؤْمِنُ لَكَ — *bi-* değil *li-*
 
-**Kırk dokuzuncu ayette Fir'avn da aynı kalıbı kullanmıştı: *âmentüm **lehû***.**
+**Kırk dokuzuncu ayette Fir'avn da aynı kalıbı kullanmıştı: *âmentüm lehû*.**
 
 | Ayet | Kim | İfade |
 |---|---|---|
@@ -2548,7 +2548,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Kök `048-fetih.md`'de çözümlendi ve tekrarlamıyorum.**
 
-**Ve mef'ûl-i mutlak kaydedilmelidir: *fe'ftah … **fethan***.** Fiil kendi kökünden bir masdarla pekiştirilmiş. **Arapçada bu yapı fiili kuvvetlendirir: "kesin bir açış aç", yani "kesin bir hüküm ver."**
+**Ve mef'ûl-i mutlak kaydedilmelidir: *fe'ftah … fethan*.** Fiil kendi kökünden bir masdarla pekiştirilmiş. **Arapçada bu yapı fiili kuvvetlendirir: "kesin bir açış aç", yani "kesin bir hüküm ver."**
 
 **Ve talebin dizimi kaydedilmelidir:** Nûh helâk istemiyor. **"Aramızı aç" diyor** — yani ayrılık ve hüküm istiyor. **Ve hemen ardından kurtuluş istiyor: *ve neccinî ve men meıye mine'l-mü'minîn*.**
 
@@ -2781,7 +2781,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 ### إِنِّىٓ أَخَافُ عَلَيْكُمْ — korkunun yönü
 
-**Ve cümlenin dizimi kaydedilmelidir: *ehâfü **aleyküm*** — "**sizin için** korkuyorum".**
+**Ve cümlenin dizimi kaydedilmelidir: *ehâfü aleyküm* — "sizin için korkuyorum".**
 
 **Harf-i cer *alâ*'dır.** *Ehâfü minküm* ("sizden korkuyorum") değil, *ehâfü aleyküm* ("sizin adınıza korkuyorum").
 
@@ -2990,7 +2990,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 ### وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِين — ikinci emir
 
-**Ve burada, beş kıssada tekrarlanan *ve etîûn* ("bana uyun") emrinin karşısına bir yasak konuyor: *ve lâ **tutîû** emre'l-müsrifîn*.**
+**Ve burada, beş kıssada tekrarlanan *ve etîûn* ("bana uyun") emrinin karşısına bir yasak konuyor: *ve lâ tutîû emre'l-müsrifîn*.**
 
 **Aynı kök (ط-و-ع), iki ayet arayla, biri emir biri yasak.**
 
@@ -3176,7 +3176,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve *mine'l-âlemîn* kaydedilmelidir: "âlemler içinden".** Dilcilerin verdiği izah: ifade, fiilin **kapsamını** genişletiyor — kendi kavimlerinden olsun olmasın.
 
-**Ve kelime, sûrede on kez geçen *rabbü'l-âlemîn* terkibiyle aynı kelimeyi kullanıyor.** Bu, metinden doğrulanabilir bir tekrardır: *âlemîn* kelimesi sûrede hem Rabbin nispet edildiği bütün, hem burada fiilin içinden seçim yapıldığı bütün olarak geçiyor.
+**Ve kelime, sûrede on bir kez geçen *rabbü'l-âlemîn* terkibiyle aynı kelimeyi kullanıyor.** Bu, metinden doğrulanabilir bir tekrardır: *âlemîn* kelimesi sûrede hem Rabbin nispet edildiği bütün, hem burada fiilin içinden seçim yapıldığı bütün olarak geçiyor.
 
 ### وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم — ikinci kanat
 
@@ -3238,7 +3238,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve dizim nüktesi kaydedilmelidir ve sûrenin ilkesiyle uyumludur:**
 
-***İnnî li-**amelikküm** mine'l-kālîn*** — "sizin **işinizden** tiksinenlerdenim."
+***İnnî li-amelikküm mine'l-kālîn*** — "sizin **işinizden** tiksinenlerdenim."
 
 **Nefretin nesnesi kişiler değil, *amel*dir.** Ayet *innî leküm mine'l-kālîn* ("sizden tiksinenlerdenim") demiyor.
 
@@ -3395,7 +3395,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Kökün Kur'an'daki en tanınmış kullanımı Yûsuf kıssasındadır:** *ve şeravhü bi-semenin **bahsin** derâhime ma'dûdetin* (Yûsuf 12/20) — "onu değersiz bir fiyata, sayılı birkaç dirheme sattılar". **`083-mutaffifin.md` ve `072-cin.md`'de bu örnek kaydedildi.**
 
-**Ve dizim nüktesi kaydedilmelidir: *lâ tebhasü'n-nâse **eşyâehüm***.** Fiil iki mef'ûl alıyor: **insanlar** ve **eşyaları**. Arapçada bu yapı, eksiltmenin **kimden** ve **neyde** yapıldığını birlikte bildirir.
+**Ve dizim nüktesi kaydedilmelidir: *lâ tebhasü'n-nâse eşyâehüm*.** Fiil iki mef'ûl alıyor: **insanlar** ve **eşyaları**. Arapçada bu yapı, eksiltmenin **kimden** ve **neyde** yapıldığını birlikte bildirir.
 
 **Ve *eşyâ'* kelimesi kaydedilmelidir: "şeyler".** En genel kelime. **Yani yasak yalnız ticarî mala değil, insanın hakkı olan her şeye bakıyor.**
 
@@ -3553,7 +3553,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **ن-ز-ل** kökü: inmek. II. bâb (*nezzele*) **tedricî iniş** ya da **pekiştirme** bildirir. *Tenzîl* onun masdarıdır.
 
-**Ve dizim nüktesi: cümle *innehû münezzelün* ("indirilmiştir") demiyor; *le-**tenzîlü** rabbi'l-âlemîn* — "âlemlerin Rabbinin **indirmesi**" diyor.** Yani ism-i mef'ûl değil, **masdar** kullanılıyor.
+**Ve dizim nüktesi: cümle *innehû münezzelün* ("indirilmiştir") demiyor; *le-tenzîlü rabbi'l-âlemîn* — "âlemlerin Rabbinin indirmesi" diyor.** Yani ism-i mef'ûl değil, **masdar** kullanılıyor.
 
 **Arapçada masdarın haber yapılması mübalağa bildirir:** "indirilmiş bir şeydir" değil, **"indirmenin ta kendisidir."**
 
@@ -3614,7 +3614,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **لِتَكُونَ مِنَ ٱلْمُنذِرِين** — gaye cümlesi.
 
-**Ve kalıp kaydedilmelidir: "uyarıcı olasın" değil, "uyarıcılar**dan** olasın".** Sûrede sık geçen "gruba nispet" kalıbı (26/29-31'de tablolandı) burada muhatabın kendisi için kullanılıyor.
+**Ve kalıp kaydedilmelidir: "uyarıcı olasın" değil, "uyarıcılardan olasın".** Sûrede sık geçen "gruba nispet" kalıbı (26/29-31'de tablolandı) burada muhatabın kendisi için kullanılıyor.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin bütünüdür:** yedi kıssa boyunca yedi uyarıcı anlatıldı. **Yüz doksan dördüncü ayet, muhatabı o dizinin içine koyuyor.** Ve `046-ahkaf.md` 46/9'da kaydedilen cümle aynı hattadır: *kul mâ küntü bid'an mine'r-rusül* — "ben elçilerin ilki değilim".
 
@@ -3624,7 +3624,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve `043-zuhruf.md` 43/3'te (*innâ cealnâhü kur'ânen arabiyyen lealleküm ta'kılûn*) aynı kelime işlendi ve oraya dayanıyorum.**
 
-**Buraya eklenecek olan, terkibin kendisidir: *lisânin arabiyyin **mübîn***.**
+**Buraya eklenecek olan, terkibin kendisidir: *lisânin arabiyyin mübîn*.**
 
 **İki kelime aynı anlam alanından geliyor:** *arabî* (açık) ve *mübîn* (açıklayan). **Yani terkip bir tekrar gibi duruyor.**
 
@@ -4201,7 +4201,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve bölümün yeri kaydedilmelidir: iki yüz yirmi birinci ayetten beri sûre, sözün kaynağını konu ediyor.** Önce şeytanların kime indiği (221-223), sonra şairler (224-226), sonra istisna (227).
 
-**Bunu bir siyak gözlemi olarak kaydediyorum:** bölüm bağımsız bir "şiir bahsi" değil, **bir iddiaya verilen cevabın son halkasıdır.** Sûrenin cevap verdiği iddia şuydu: "bu adam şairdir, sözü şiirdir." **Ve Kur'an bu iddiaya birçok sûrede değinir** — *bel kālû adğâsü ahlâmin beli'fterâhü bel hüve şâir* (Enbiyâ 21/5), *ve mâ hüve bi-kavli şâir* (Hâkka 69/41 — `069-hakka.md`'de işlendi), *e-fe-nahnü şâirun* (Tûr 52/30 — `052-tur.md`'de işlendi).
+**Bunu bir siyak gözlemi olarak kaydediyorum:** bölüm bağımsız bir "şiir bahsi" değil, **bir iddiaya verilen cevabın son halkasıdır.** Sûrenin cevap verdiği iddia şuydu: "bu adam şairdir, sözü şiirdir." **Ve Kur'an bu iddiaya birçok sûrede değinir** — *bel kālû adğâsü ahlâmin beli'fterâhü bel hüve şâir* (Enbiyâ 21/5), *ve mâ hüve bi-kavli şâir* (Hâkka 69/41 — `069-hakka.md`'de işlendi), *em yekūlûne şâirun neterabbasu bihî raybe'l-menûn* (Tûr 52/30 — `052-tur.md`'de işlendi).
 
 ### ش-ع-ر — kökün tahlili
 

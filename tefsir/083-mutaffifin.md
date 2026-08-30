@@ -197,7 +197,7 @@ Bir tartıda küsurat olması, aletin hassasiyetinin sınırlı olması, hesapta
 
 Bu ayetin ağırlığını anlamak için, o dönemde alışverişin nasıl işlediğini bilmek gerekiyor.
 
-7. yüzyıl Arabistan'ında standart bir ölçü sistemi ve onu denetleyen bir kurum yoktu. Ölçekler yerel olarak üretiliyordu; her tüccarın kendi kabı, kendi terazisi, kendi taşları vardı. Bir şehrin ölçüsü başka şehrinkiyle aynı olmayabilirdi.
+Yedinci yüzyıl Arabistan'ında standart bir ölçü sistemi ve onu denetleyen bir kurum yoktu. Ölçekler yerel olarak üretiliyordu; her tüccarın kendi kabı, kendi terazisi, kendi taşları vardı. Bir şehrin ölçüsü başka şehrinkiyle aynı olmayabilirdi.
 
 Bunun sonucu şudur: **alıcı, satıcının ölçüsüne güvenmek zorundaydı.** Kontrol edecek bağımsız bir referans yoktu. Alışveriş, ölçüye değil, **ölçen kişiye** duyulan güvene dayanıyordu.
 
@@ -1657,7 +1657,7 @@ Burada, sûrenin bütününü açıklayan bir örgüyü kaydetmek gerekiyor.
 | **33** | حَافِظِين | ح-ف-ظ | **Gözetleyici** olarak gönderilmediler |
 | **35** | يَنظُرُون | ن-ظ-ر | Müminler **bakıyor** |
 
-Yedi ayrı yerde, beş ayrı kök, tek bir konu: **kim kime bakıyor.**
+Yedi ayrı yerde, yedi ayrı kök, tek bir konu: **kim kime bakıyor.**
 
 Ve sûrenin anlattığı hikâye bu tabloda okunabiliyor:
 

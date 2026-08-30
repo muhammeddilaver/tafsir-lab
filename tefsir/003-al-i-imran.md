@@ -238,7 +238,7 @@ Ayeti altı başlıkta çözeceğim: **muhkem**, **müteşâbih**, *ümmü'l-kit
 
 **`047-muhammed.md` 47/20'de aynı kelime bir sûrenin sıfatı olarak işlendi** (*sûratün muhkemetün*) ve orada şu kaydedilmişti:
 
-> *"Muhkem bir söz kaydırmaya izin vermez. Muğlak bir söz, herkesin kendine göre yorumlamasına izin verir; muhkem bir söz vermez."*
+> *"Muğlak bir söz, herkesin kendine göre yorumlamasına izin verir; muhkem bir söz vermez."*
 
 **Oraya dayanıyorum.**
 
@@ -319,7 +319,7 @@ Ayeti altı başlıkta çözeceğim: **muhkem**, **müteşâbih**, *ümmü'l-kit
 
 **Oraya dayanıyorum ve buraya Âl-i İmrân'a özgü olanı ekliyorum.**
 
-**Necm 53/17'de *zeyğ* **gözde**dir; burada **kalpte**.**
+**Necm 53/17'de *zeyğ* gözdedir; burada kalpte.**
 
 | Yer | Nerede | Ne oluyor |
 |---|---|---|
@@ -346,7 +346,7 @@ Ayeti altı başlıkta çözeceğim: **muhkem**, **müteşâbih**, *ümmü'l-kit
 
 **İkisi de nakledilir; birbirini dışlamıyor.**
 
-**Ve kaydedilmesi gereken şey mastarın kendisidir: *ibtiğâ'* — arama.** **Ayet, müteşâbihe *rastlamayı* değil, onun **peşine düşmeyi** anlatıyor.** Fiil *yettebiûne* — "**tâbi oluyorlar**, ardına düşüyorlar."
+**Ve kaydedilmesi gereken şey mastarın kendisidir: *ibtiğâ'* — arama.** **Ayet, müteşâbihe *rastlamayı* değil, onun peşine düşmeyi anlatıyor.** Fiil *yettebiûne* — "**tâbi oluyorlar**, ardına düşüyorlar."
 
 **Kendi okumam olarak kaydediyorum:** ayetin kınadığı şey müteşâbihi okumak değil; **muhkemi bırakıp yalnızca müteşâbihi seçmektir.** Çünkü *ittibâ'* bir yönelme fiilidir — kişi neye yöneleceğini seçer. **Ve seçimin sebebi ayette açıkça yazılıdır: kalpteki eğrilik.** Yani sıra şudur: önce eğilim, sonra seçim, sonra metin.
 
@@ -401,7 +401,7 @@ Ayeti altı başlıkta çözeceğim: **muhkem**, **müteşâbih**, *ümmü'l-kit
 
 **Kökün resmi kaydedilmeye değer:** *rüsûh*, yükseklik değil **derinlik** bildirir. **Yani ayet, bilgide *yükselmiş* olanlardan değil, *kök salmış* olanlardan söz ediyor.**
 
-**Ve harf-i cer kaydedilmelidir: *râsihûne **fi**'l-ilm* — "ilmin **içinde**".** *Alâ* (üstünde) değil, *fî* (içinde).
+**Ve harf-i cer kaydedilmelidir: *râsihûne fi'l-ilm* — "ilmin içinde".** *Alâ* (üstünde) değil, *fî* (içinde).
 
 **Kendi okumam olarak kaydediyorum ve bağlayıcı değildir:** kelime, bilgiyi bir **yükseklik** değil bir **zemin** olarak resmediyor. Ve zeminin işlevi, sallandığında devrilmemektir. **Ayet bunu hemen gösteriyor:** kalbinde eğrilik olan, kapalı bir âyetle karşılaşınca **savruluyor**; kök salmış olan aynı âyetle karşılaşınca **duruyor** ve *"hepsi Rabbimizin katındandır"* diyor.
 
@@ -724,7 +724,7 @@ Ayet bu işlemi tarif ediyor ve iki ayrı yerden yakalıyor:
 
 ### أَسْلَمْتُ وَجْهِىَ لِلَّهِ
 
-**Bir önceki ayetin ismi (*el-islâm*), burada **fiil** olarak geliyor: *eslemtü*.**
+**Bir önceki ayetin ismi (*el-islâm*), burada fiil olarak geliyor: *eslemtü*.**
 
 **Ve nesnesi kaydedilmelidir: *vechiye* — "yüzümü".** **و-ج-ه** kökü: yön, yüz, bir şeyin kendisine dönülen tarafı. **Kök `002-bakara.md` 2/112 ve 2/115'te işlendi.**
 
@@ -1308,7 +1308,7 @@ Ve isteğin kapsamı kaydedilmelidir: *uîzühâ bike **ve zürriyyetehâ*** —
 
 **ك-ل-م** kökü: **yaralamak; ve söz söylemek.** Dilciler bağı şöyle kurar: söz, dinleyende **iz bırakır.** *Kelime* — iz bırakan ses.
 
-**Ve kaydedilmesi gereken şey harf-i cerdir: *kelimetin **minhü*** — "**ondan** bir kelime". *Min*, **kaynak** bildirir.**
+**Ve kaydedilmesi gereken şey harf-i cerdir: *kelimetin minhü* — "ondan bir kelime". *Min*, kaynak bildirir.**
 
 **Klasik tefsirlerde *kelime*nin ne olduğu üzerine nakledilen okumalar:**
 
@@ -1388,9 +1388,9 @@ Ve isteğin kapsamı kaydedilmelidir: *uîzühâ bike **ve zürriyyetehâ*** —
 
 "**Ona kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek** · ve **İsrâiloğullarına bir elçi olarak** (gönderecek): '**Ben size Rabbinizden bir işaretle geldim.** Sizin için çamurdan kuş biçiminde bir şey yapar, ona üflerim; **Allah'ın izniyle** kuş olur. **Allah'ın izniyle** doğuştan körü ve alacalıyı iyileştirir, ölüleri diriltirim. **Evlerinizde ne yiyip ne biriktirdiğinizi de size haber veririm.** İnanıyorsanız bunda sizin için bir işaret vardır.' · '**Benden önceki Tevrat'ı doğrulayıcı olarak** ve size haram kılınanların bir kısmını helâl kılayım diye…' · '**Şüphesiz Allah benim de Rabbimdir, sizin de Rabbinizdir; O'na kulluk edin. İşte dosdoğru yol budur.**'"
 
-### بِإِذْنِ ٱللَّهِ — üç kez tekrarlanan kayıt
+### بِإِذْنِ ٱللَّهِ — iki kez tekrarlanan kayıt
 
-**Bu, bloğun en önemli dizim olgusudur ve doğrulanabilir: ifade elli birinci ayette *bi-iznillâh* biçiminde iki kez, ve fiillerin arasında bir kez daha geçer.**
+**Bu, bloğun en önemli dizim olgusudur ve doğrulanabilir: ifade kırk dokuzuncu ayette *bi-iznillâh* biçiminde iki kez geçer ve üçüncü fiil de aynı kayda bağlanır.**
 
 | Fiil | Kayıt |
 |---|---|
@@ -1444,7 +1444,7 @@ Ve isteğin kapsamı kaydedilmelidir: *uîzühâ bike **ve zürriyyetehâ*** —
 
 **ٱلْحَوَارِيُّون** — **ح-و-ر** kökü: dilciler kelimeyi **beyazlık** ve **bir şeye dönme** anlamlarıyla ilişkilendirir; *havârî*nin aslı üzerinde **kesin bir birlik yoktur.** Bu tefsirde bir tercih dayatmıyorum.
 
-**Ve cevabın son cümlesi kaydedilmelidir: *ve'şhed bi-ennâ müslimûn* — "şahit ol ki biz **teslim olmuşlarız**".**
+**Ve cevabın son cümlesi kaydedilmelidir: *ve'şhed bi-ennâ müslimûn* — "şahit ol ki biz teslim olmuşlarız".**
 
 **Bu, sûrenin 19. ayetiyle doğrudan bağlantılıdır ve orada kaydettiğim şeyi doğruluyor:** *islâm* kelimesi burada, Îsâ'nın çevresindeki topluluğun kendini adlandırmasıdır. **Bu, metinden doğrulanabilir bir kullanım olgusudur.**
 
@@ -1454,7 +1454,7 @@ Ve isteğin kapsamı kaydedilmelidir: *uîzühâ bike **ve zürriyyetehâ*** —
 
 **USLUP gereği bir kayıt düşüyorum ve dizinde tutarlı biçimde korunmuştur:** kelime Allah için kullanıldığında **aldatma ya da haksızlık** anlamına gelmez. **Arapçada buna *müşâkele* (aynı kelimeyle karşılık verme) denir:** karşılık, ilk fiilin lafzıyla adlandırılır.
 
-**Ve cümlenin kendisi bunu gösteriyor: *vallâhu **hayru**'l-mâkirîn* — "düzen kuranların **en hayırlısı**".** **Hayır sıfatı, fiilin kötü anlamda olmadığını cümlenin içinde kaydediyor.**
+**Ve cümlenin kendisi bunu gösteriyor: *vallâhu hayru'l-mâkirîn* — "düzen kuranların en hayırlısı".** **Hayır sıfatı, fiilin kötü anlamda olmadığını cümlenin içinde kaydediyor.**
 
 **Bu ayrım `008-enfal.md` 8/30'da (*ve yemkürûne ve yemkürullâh*) işlendi.** Oraya dayanıyorum ve tekrarlamıyorum.
 
@@ -1620,7 +1620,7 @@ Kökün somut anlamı kaydedilmeye değer ve dilciler üzerinde durur: **ب-ه-�
 
 ### فِيهِ — zamirin mercii
 
-**Cümlede bir belirsizlik vardır: *hâccâke **fîh*** — "bu **konuda** seninle tartışırsa". Zamir neye dönüyor?**
+**Cümlede bir belirsizlik vardır: *hâccâke fîh* — "bu konuda seninle tartışırsa". Zamir neye dönüyor?**
 
 | Okuma | Zamir neye dönüyor |
 |---|---|
@@ -1644,11 +1644,11 @@ Kökün somut anlamı kaydedilmeye değer ve dilciler üzerinde durur: **ب-ه-�
 
 Kökün somut anlamı `012-yusuf.md`'de ve `028-kasas.md`'de işlendi: **ق-ص-ص — bir izi takip etmek.** *Kassa'l-esera* — izi sürdü. **Buradan *kıssa*: bir olayın izini sürerek anlatmak.**
 
-**Ve terkip kaydedilmelidir: *el-kasasu'l-**hakk*** — "**gerçek** anlatı".** **Yani bloğun sonunda, anlatılanın doğruluğu ayrıca kaydediliyor.**
+**Ve terkip kaydedilmelidir: *el-kasasu'l-hakk* — "gerçek anlatı".** **Yani bloğun sonunda, anlatılanın doğruluğu ayrıca kaydediliyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** blok üç kez kendi kaynağına dönüyor — 44 (*min enbâi'l-ğayb*), 58 (*netlûhü aleyke*), 62 (*el-kasasu'l-hakk*). **Üç kayıt, otuz ayetlik bir bloğun içinde.** Bu, doğrulanabilir bir olgudur.
 
-**Ve bloğu kapatan tekit kalıbı kaydedilmeye değer: *inne hâzâ **le-hüve** el-kasasu'l-hakk*** — *inne* + *le* + ayırma zamiri (*hüve*). **Üç tekit aracı bir arada.** Aynı kalıp aynı ayette bir kez daha: *ve innallâhe **le-hüve**'l-azîzü'l-hakîm.*
+**Ve bloğu kapatan tekit kalıbı kaydedilmeye değer: *inne hâzâ le-hüve el-kasasu'l-hakk*** — *inne* + *le* + ayırma zamiri (*hüve*). **Üç tekit aracı bir arada.** Aynı kalıp aynı ayette bir kez daha: *ve innallâhe **le-hüve**'l-azîzü'l-hakîm.*
 
 **Altmış üçüncü ayet, tebliğ sınırı kalıbıyla bloğu kapatıyor: *fe-in tevellev…*** **Aynı kalıp 20. ayette de geçmişti** (*ve in tevellev fe-innemâ aleyke'l-belâğ*). **İki geçiş, iki bloğun sonunda.**
 
@@ -1890,11 +1890,11 @@ Ve ayetin sonu kaydedilmelidir: *vallâhu **veliyyü'l-mü'minîn*** — aynı k
 
 ### طَآئِفَةٌ مِّنْ — kayıt en başta konuyor
 
-**Ve bu, bu tefsirde altı çizilecek bir dizim olgusudur: cümle *ehlü'l-kitâb* demiyor; *tâifetün **min** ehli'l-kitâb* diyor — "kitap ehlinden **bir grup**".**
+**Ve bu, bu tefsirde altı çizilecek bir dizim olgusudur: cümle *ehlü'l-kitâb* demiyor; *tâifetün min ehli'l-kitâb* diyor — "kitap ehlinden bir grup".**
 
 ***Min*, Arapçada burada *teb'îz* (bir bütünün parçasını gösterme) edatıdır.** Yani özne, kümenin tamamı değil, kümenin **bir parçası**dır.
 
-**Aynı kayıt bir sonraki ayette de var: *ve kâlet **tâifetün min** ehli'l-kitâb* (72).** **Ve 75. ayette bir kez daha, bu kez iki yönlü olarak gelecek.**
+**Aynı kayıt bir sonraki ayette de var: *ve kâlet tâifetün min ehli'l-kitâb* (72).** **Ve 75. ayette bir kez daha, bu kez iki yönlü olarak gelecek.**
 
 | Ayet | Özne | Kapsam |
 |---|---|---|
@@ -1927,13 +1927,13 @@ Ve iki cümlenin de aynı kayıtla bittiği kaydedilmelidir: *ve entüm **teşhe
 
 ### 3/72-73 — sabah inanıp akşam dönme
 
-*Âminû billezî ünzile ale'llezîne âmenû **vechen-nehâri** ve'kfurû **âhirah**, lealllehüm yerciûn*
+*Âminû billezî ünzile ale'llezîne âmenû **vechen-nehâri** ve'kfurû **âhirah**, leallehüm yerciûn*
 
 "'**Gündüzün başında** iman edenlere indirilene inanın, **sonunda** inkâr edin; belki dönerler.'"
 
 **وَجْهَ ٱلنَّهَارِ** — "günün yüzü", yani **başlangıcı.** Arapçada bir şeyin *vech*i, ilk görünen yanıdır.
 
-**Ve ayet bir yöntem tarif ediyor: inanç, bir *araç* olarak kullanılıyor.** Sabah katılmak, akşam ayrılmak — ve bunun hesaplanan sonucu, ötekilerin **kararsızlığa düşmesi**dir (*lealllehüm yerciûn*).
+**Ve ayet bir yöntem tarif ediyor: inanç, bir *araç* olarak kullanılıyor.** Sabah katılmak, akşam ayrılmak — ve bunun hesaplanan sonucu, ötekilerin **kararsızlığa düşmesi**dir (*leallehüm yerciûn*).
 
 **Bunu bir gözlem olarak kaydediyorum ve bir sınır çiziyorum:** ayet bir **taktiği** tarif ediyor ve konuşanı bir grupla sınırlıyor (*tâifetün min*). **Bu tefsirde bundan hiçbir topluluğa toptan bir vasıf çıkarılmıyor;** çıkarılan şey **bir davranış biçiminin adlandırılmış olmasıdır.**
 
@@ -2005,7 +2005,7 @@ Ve iki cümlenin de aynı kayıtla bittiği kaydedilmelidir: *ve entüm **teşhe
 
 "**Sen başında dikilmedikçe.**" **Ve bu kayıt, ikinci tutumu tam olarak tarif ediyor: iade, bir yükümlülüğün değil, bir *gözetimin* sonucudur.**
 
-قَآئِمًا** — kök **ق-و-م**: ayakta durmak. **Ve aynı kelime sûrede 113. ayette bambaşka bir yerde gelecek: *ümmetün **kāime*** — "ayakta duran bir topluluk". **Aynı kelime, iki ayrı anlamda: biri gözetleyeni, öteki dik duranı bildiriyor.** Bu, sûre içinde doğrulanabilir bir tekrardır ve kelimenin kök resmi (*dikilmek*) ikisinde de işliyor.
+**قَآئِمًا** — kök **ق-و-م**: ayakta durmak. **Ve aynı kelime sûrede 113. ayette bambaşka bir yerde gelecek: *ümmetün kāime* — "ayakta duran bir topluluk". Aynı kelime, iki ayrı anlamda: biri gözetleyeni, öteki dik duranı bildiriyor. Bu, sûre içinde doğrulanabilir bir tekrardır ve kelimenin kök resmi (*dikilmek*) ikisinde de işliyor.**
 
 ### لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ — gerekçenin adlandırılması
 
@@ -2059,7 +2059,7 @@ Bir kural, "herkese" diye kurulur; ama uygulamada bir **çember** çizilir ve ç
 
 **Bunu bir dizim gözlemi olarak kaydediyorum ve ayetin en ince noktasıdır:** metne dokunulmuyor. **Değiştirilen şey okuyuştur.** Aynı harfler, başka bir dil hareketiyle başka bir şeye benzetiliyor.
 
-**Ve ayetin kendisi bunu açıkça söylüyor: *li-**tahsebûhü** mine'l-kitâb*** — "**kitaptan *sanasınız* diye**". **Fiil *hasebe*: sanmak.** Hedeflenen şey metnin değişmesi değil, **dinleyendeki izlenimin** değişmesidir.
+**Ve ayetin kendisi bunu açıkça söylüyor: *li-tahsebûhü mine'l-kitâb*** — "**kitaptan *sanasınız* diye**". **Fiil *hasebe*: sanmak.** Hedeflenen şey metnin değişmesi değil, **dinleyendeki izlenimin** değişmesidir.
 
 **Ve *ح-س-ب* kökü sûrede bundan sonra dört kez daha gelecek:** *lâ tahsebenne* / *lâ yahsebenne* (169, 178, 180, 188). **Bu, sûre içinde doğrulanabilir bir tekrardır ve girişteki tabloda kaydedilmişti.**
 
@@ -2155,7 +2155,7 @@ Ve öznenin seçimi kaydedilmelidir: *li-**beşer*** — "bir **insan** için". 
 
 **İki fiil de *nûn-i te'kîd* (pekiştirme nûnu) ile geliyor** — Arapçada bir sözün en kuvvetli bağlayıcı biçimi. **Yani söz, gevşek bir niyet değil, en ağır kalıpla alınmış bir taahhüttür.**
 
-**Ve şartın kendisi kaydedilmelidir: *rasûlün **musaddikun limâ meaküm***.** **Gelen elçinin vasfı: yanınızdakini *doğrulayan*.** **Aynı vasıf sûrenin üçüncü ayetinde kitap için kullanılmıştı: *musaddikan limâ beyne yedeyh*.** **İki geçiş, biri kitap için, biri elçi için.** Bu, sûre içinde doğrulanabilir bir tekrardır.
+**Ve şartın kendisi kaydedilmelidir: *rasûlün musaddikun limâ meaküm*.** **Gelen elçinin vasfı: yanınızdakini *doğrulayan*.** **Aynı vasıf sûrenin üçüncü ayetinde kitap için kullanılmıştı: *musaddikan limâ beyne yedeyh*.** **İki geçiş, biri kitap için, biri elçi için.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
 ### إِصْر — kök: أ-ص-ر
 
@@ -2289,7 +2289,7 @@ Ve öznenin seçimi kaydedilmelidir: *li-**beşer*** — "bir **insan** için". 
 
 ### İstisnanın konumu — 89. ayet
 
-**Ve üç ayet süren ağır bir hüküm dizisinden sonra 89. ayet geliyor: *illâ'llezîne tâbû min ba'di zâlike **ve aslahû***.**
+**Ve üç ayet süren ağır bir hüküm dizisinden sonra 89. ayet geliyor: *illâ'llezîne tâbû min ba'di zâlike ve aslahû*.**
 
 **Ve istisnanın iki şartı var ve ikisi ayrıdır:**
 
@@ -2362,7 +2362,7 @@ Ve öznenin seçimi kaydedilmelidir: *li-**beşer*** — "bir **insan** için". 
 
 ### مِمَّا تُحِبُّونَ — *min*'in işi
 
-**Ve edatın kendisi bir sınır koyuyor ve genellikle atlanır: *min* burada *teb'îz* edatıdır — "sevdiklerinizin **bir kısmından**".**
+**Ve edatın kendisi bir sınır koyuyor ve genellikle atlanır: *min* burada *teb'îz* edatıdır — "sevdiklerinizin bir kısmından".**
 
 **Ayet "sevdiğinizin tamamını verin" demiyor.**
 
@@ -2453,7 +2453,7 @@ Bir kimse elinden çıkarmak istediği bir şeyi verdiğinde, iki iş birden yap
 
 **Ve *li'n-nâs* kaydı bu bölümün en önemli kelimesidir. Bunu bir dizim gözlemi olarak kaydediyorum:** cümle "bize" ya da "şu topluluğa" demiyor. **Ve bu, üçüncü bloğun konusuyla doğrudan ilgilidir** — blok boyunca bir aidiyet tartışması sürüyordu.
 
-**Ve aynı genişlik ayetin sonunda bir kez daha geliyor: *hüden **li'l-âlemîn***.** **İki kayıt, tek ayette: *li'n-nâs* ve *li'l-âlemîn*.**
+**Ve aynı genişlik ayetin sonunda bir kez daha geliyor: *hüden li'l-âlemîn*.** **İki kayıt, tek ayette: *li'n-nâs* ve *li'l-âlemîn*.**
 
 **Kendi okumam olarak kaydediyorum ve bağlayıcı değildir:** bir mekân üzerinden yürüyen bir aidiyet tartışmasının ortasında, ayet mekânın **kime konduğunu** söyleyerek tartışmayı kesiyor. **Öncelik iddiası kabul ediliyor (*evvel*), ama sahiplik iddiası kurulmuyor.**
 
@@ -2539,7 +2539,7 @@ Bir kimse elinden çıkarmak istediği bir şeyi verdiğinde, iki iş birden yap
 | **100** | *Yâ eyyühe'llezîne âmenû* | **İçe** — uyma tehlikesi |
 | **101** | *Ve keyfe tekfurûn* | **İçe** — kendi durumunun hatırlatılması |
 
-**Ve yüzüncü ayette yine kayıt konuyor: *ferîkan **min**e'llezîne ûtü'l-kitâb*** — "**bir grup**". **Aynı *min* edatı yedinci kez.** Bu, sûre içinde doğrulanabilir bir tekrardır.
+**Ve yüzüncü ayette yine kayıt konuyor: *ferîkan mine'llezîne ûtü'l-kitâb*** — "**bir grup**". **Aynı *min* edatı beşinci kez.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
 ### تَبْغُونَهَا عِوَجًا — kök: ع-و-ج
 
@@ -2549,7 +2549,7 @@ Ve ayette kullanılan biçim *ıvecen*dir: yani eğriltilmek istenen şey görü
 
 **Bunu bir kelime gözlemi olarak kaydediyorum ve dilcilerin ayrımına dayanıyorum; kelime seçiminin bilinçli olduğu iddiasında değilim.**
 
-**Ve fiil kaydedilmelidir: *tebğūnehâ* — kök **ب-غ-ي**, "istemek, aramak".** **Aynı kök 19. ayette *bağyen beynehum* olarak geçmişti** ve 83. ayette *yebğūn*, 85. ayette *yebteği* olarak. **Sûrede bu kök dört ayrı yerde, dört ayrı işte.**
+**Ve fiil kaydedilmelidir: *tebğūnehâ* — kök ب-غ-ي, "istemek, aramak".** **Aynı kök 19. ayette *bağyen beynehum* olarak geçmişti** ve 83. ayette *yebğūn*, 85. ayette *yebteği* olarak. **Sûrede bu kök dört ayrı yerde, dört ayrı işte.**
 
 ### وَمَن يَعْتَصِم بِٱللَّهِ — 103. ayete köprü
 
@@ -2620,7 +2620,7 @@ Ve ayette kullanılan biçim *ıvecen*dir: yani eğriltilmek istenen şey görü
 
 **حَبْل** — **ح-ب-ل** kökü: **ip, bağ.** **Kelimenin somut anlamı bir iptir ve kökten türeyenler bunu korur:** *habl* — ip; *hıbâle* — tuzak ipi; ve *hübl* — gebelik (bağın en somut hâli).
 
-**Ve *habl* kelimesi sûrede dokuz ayet sonra bir kez daha, bu kez çoğul olmayan ama ikili bir terkiple gelecek: *illâ bi-**hablin** minallâhi ve **hablin** mine'n-nâs* (112).** **İki geçiş, tek sûrede.**
+**Ve *habl* kelimesi sûrede dokuz ayet sonra bir kez daha, bu kez çoğul olmayan ama ikili bir terkiple gelecek: *illâ bi-hablin minallâhi ve hablin mine'n-nâs* (112).** **İki geçiş, tek sûrede.**
 
 | Ayet | *Habl* | Kimin ipi |
 |---|---|---|
@@ -2688,7 +2688,7 @@ Ve fiilin öznesi kaydedilmelidir: *fe-**ellefe*** — özne Allah'tır. **Birle
 
 **Ve tasvirin dizimi kaydedilmelidir ve üç öğelidir:** *alâ **şefâ** **hufratin** mine'n-**nâr*** — kenar, çukur, ateş. **Üç kelime bir mesafe ölçüsü kuruyor: kişi ateşin içinde değil, çukurun kenarındadır.**
 
-Bunu bir gözlem olarak kaydediyorum:** tasvir bir **an**ı anlatıyor — düşmenin gerçekleşmediği ama bir adımlık mesafenin kaldığı an. **Ve kurtuluş fiili buna göre seçilmiş: *fe-**enkazeküm*** (**ن-ق-ذ**) — çekip almak, kurtarmak. Fiil, düşmüş olanı çıkarmayı değil, **düşmek üzere olanı çekmeyi** bildirir.
+**Bunu bir gözlem olarak kaydediyorum:** tasvir bir **an**ı anlatıyor — düşmenin gerçekleşmediği ama bir adımlık mesafenin kaldığı an. **Ve kurtuluş fiili buna göre seçilmiş: *fe-enkazeküm* (ن-ق-ذ) — çekip almak, kurtarmak. Fiil, düşmüş olanı çıkarmayı değil, düşmek üzere olanı çekmeyi bildirir.**
 
 **Ve iki tasvirin aynı ayette olması bir dizim olgusudur:** düşmanlıktan kardeşliğe, ve çukurun kenarından uzaklaşma. **İki ayrı resim, tek nimetin iki yüzü.**
 
@@ -2742,7 +2742,7 @@ Bunu bir gözlem olarak kaydediyorum:** tasvir bir **an**ı anlatıyor — düş
 
 **Üç geçiş, üç ayrı özne — ve üçüncüsü kitap ehlindendir.** **Bu, sûre içinde doğrulanabilir bir olgudur ve 110. ayetin okunuşunu doğrudan belirler.** Aşağıda oraya dönülecek.
 
-### مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ — kaydın beşinci geçişi
+### مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ — kaydın üçüncü geçişi
 
 **Bu terkip 19. ayette işlendi ve orada beş yerlik bir tablo kurulmuştu.** **`002-bakara.md` 2/213, `042-sura.md` 42/14 ve `045-casiye.md` 45/17'ye dayanıyorum ve tekrarlamıyorum.**
 
@@ -2842,7 +2842,7 @@ Bunu bir gözlem olarak kaydediyorum:** tasvir bir **an**ı anlatıyor — düş
 | **2** | *Ve tenhevne ani'l-**münker*** | **Dışa** — başkasına |
 | **3** | *Ve tü'minûne **billâh*** | **İçe** — kendine |
 
-**Ve iki vasfın *insanlara dönük* olması, bir önceki kayıtla (*uhricet **li'n-nâs***) birleşiyor.**
+**Ve iki vasfın *insanlara dönük* olması, bir önceki kayıtla (*uhricet li'n-nâs*) birleşiyor.**
 
 **أُخْرِجَتْ لِلنَّاسِ** — "**insanlar için çıkarıldı**". **Fiil meçhuldür: çıkaran söylenmiyor.** Ve *li'n-nâs* kaydı, topluluğun **kime göre** tarif edildiğini söylüyor.
 
@@ -2966,7 +2966,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **İki kelime. Ve ikisi de sûrenin başka bir yerinden tanıdıktır.**
 
-**سَوَآء** — kök **س-و-ي**: **denk olmak, eşit olmak.** **Kelime 64. ayette çözümlenmişti: *kelimetin **sevâin** beynenâ ve beyneküm*.** **Orada kaydedilen: kökün merkezinde *eğimsizlik* vardır — bir tarafa meyletmeyen.**
+**سَوَآء** — kök **س-و-ي**: **denk olmak, eşit olmak.** **Kelime 64. ayette çözümlenmişti: *kelimetin sevâin beynenâ ve beyneküm*.** **Orada kaydedilen: kökün merkezinde *eğimsizlik* vardır — bir tarafa meyletmeyen.**
 
 **Ve şimdi aynı kelime, olumsuzlanarak geliyor:**
 
@@ -3035,7 +3035,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **Bunu bir kelime gözlemi olarak kaydediyorum:** aynı kök sûre boyunca inkâr için kullanılmıştı; burada **bir amelin örtülmemesi** için kullanılıyor. **Yani kök, hem inkârı hem nankörlüğü hem de bir işin gizlenmesini bildiriyor.**
 
-**Ve cümlenin öznesi kaydedilmelidir: *ve mâ **yef'alû** min hayrin*** — şart cümlesi, ve şartın öznesi bir gruba bağlanmamış. **Cümle, hayrı yapan kim olursa olsun geçerlidir.**
+**Ve cümlenin öznesi kaydedilmelidir: *ve mâ yef'alû min hayrin*** — şart cümlesi, ve şartın öznesi bir gruba bağlanmamış. **Cümle, hayrı yapan kim olursa olsun geçerlidir.**
 
 ---
 
@@ -3069,7 +3069,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **Bunu bir kelime gözlemi olarak kaydediyorum:** kelime, "arkadaş" ya da "dost" demiyor. **Astar** diyor — yani **en içteki, tene değen, dışarıdan görünmeyen.** **Ve yasak, ilişkiye değil, ilişkinin bu *derecesine* konuyor.**
 
-ولا يَأْلُونَكُمْ خَبَالًا** — *lâ ye'lûneküm habâlâ*: kök **أ-ل-و**, "**kusur etmemek, geri durmamak**". **Ve *habâl* (**خ-ب-ل**): akıl ve bedende bozulma, fesat.
+**ولا يَأْلُونَكُمْ خَبَالًا** — *lâ ye'lûneküm habâlâ*: kök **أ-ل-و**, "**kusur etmemek, geri durmamak**". **Ve *habâl* (**خ-ب-ل**): akıl ve bedende bozulma, fesat.**
 
 **Ve ayetin kayıtları kaydedilmelidir, çünkü yasağın gerekçesi ayetin içindedir ve bir ada değil bir tutuma bağlıdır:**
 
@@ -3126,7 +3126,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **ب-و-أ** kökü: **bir yere yerleşmek, konaklamak; ve birini bir yere yerleştirmek.** *Mübevve'* — yerleştirilen yer. *Bâe* — döndü, bir yere vardı.
 
-**Ve aynı kök `022-hac.md` 22/26'da geçmişti: *ve iz **bevve'nâ** li-İbrâhîme mekâne'l-beyt*** — "hani İbrâhim'e evin yerini **belirlemiştik**". **Oraya dayanıyorum.**
+**Ve aynı kök `022-hac.md` 22/26'da geçmişti: *ve iz bevve'nâ li-İbrâhîme mekâne'l-beyt*** — "hani İbrâhim'e evin yerini **belirlemiştik**". **Oraya dayanıyorum.**
 
 | Yer | Fiil | Ne yerleştiriliyor |
 |---|---|---|
@@ -3152,7 +3152,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **Bu, sûre içinde doğrulanabilir bir tekrardır ve bloğun iki ucunu bağlar.** **Aşağıda 152. ayette bu bağ ayrıntılı işlenecektir.**
 
-**Ve 122. ayetin sonu kaydedilmelidir: *vallâhu **veliyyühümâ***.** **Yani gevşemeye yüz tutan iki grup hakkında ayet bir kayıp hükmü kurmuyor; velîliğin sürdüğünü söylüyor.**
+**Ve 122. ayetin sonu kaydedilmelidir: *vallâhu veliyyühümâ*.** **Yani gevşemeye yüz tutan iki grup hakkında ayet bir kayıp hükmü kurmuyor; velîliğin sürdüğünü söylüyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, bir eksikliği anarken hemen ardından bağın kopmadığını yazıyor. **Ve sûrenin Uhud bloğu boyunca bu yapı tekrarlanacaktır** — 152'de *ve lekad afâ anküm*, 155'te *ve lekad afallâhu anhüm*.
 
@@ -3309,7 +3309,7 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **Bunu bir kelime gözlemi olarak kaydediyorum:** emir "hızlanın" değil, **"yarışın"** anlamındadır. Ve yarışma, bir başkasının varlığını gerektirir.
 
-**Ve aynı kök 114. ayette kitap ehlinden bir topluluk için kullanılmıştı: *ve **yüsâriûne** fi'l-hayrât*.** **İki geçiş, aynı bâb:**
+**Ve aynı kök 114. ayette kitap ehlinden bir topluluk için kullanılmıştı: *ve yüsâriûne fi'l-hayrât*.** **İki geçiş, aynı bâb:**
 
 | Ayet | Lafız | Kim | Kipi |
 |---|---|---|---|
@@ -3396,14 +3396,14 @@ Ayet bir **övgü** cümlesi gibi görünür; ama içindeki her öğe bir **yük
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle tek bir yasa değil, **birden çok yol** bildiriyor. **Ve fiil *halet* — "geçip gitti": geçmişte kalmış olanı bildiriyor.**
 
-**Ve emrin biçimi kaydedilmelidir ve bu ayetin kendine özgü tarafıdır: *fe-**sîrû** fi'l-ardı fe'**nzurû***.**
+**Ve emrin biçimi kaydedilmelidir ve bu ayetin kendine özgü tarafıdır: *fe-sîrû fi'l-ardı fe'nzurû*.**
 
 | Fiil | İşlem |
 |---|---|
 | *Sîrû* | **Yürüyün** — beden |
 | *Unzurû* | **Bakın** — göz |
 
-**İki emir de somuttur.** **Yani ayet bir bilgiyi aktarmıyor; bir **yöntem** veriyor: git ve gör.**
+**İki emir de somuttur.** **Yani ayet bir bilgiyi aktarmıyor; bir yöntem veriyor: git ve gör.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki fiilin somutluğudur:** çıkarılması istenen sonuç, söylenmiyor. **Söylenen şey, sonucun *nerede* bulunacağıdır.** Ve o yer, metnin dışında — yeryüzünde.
 
@@ -3563,7 +3563,7 @@ Arapçada *eyyâm* kelimesi yalnız takvim günlerini değil, **bir topluluğun 
 
 ### 3/143 — istenen ve görülen
 
-**Ve ayetin dizimi kaydedilmelidir: *fe-kad **raeytümûhu** ve entüm **tenzurûn***.**
+**Ve ayetin dizimi kaydedilmelidir: *fe-kad raeytümûhu ve entüm tenzurûn*.**
 
 **İki fiil de görme bildiriyor ama aynı değildir:**
 
@@ -3594,13 +3594,13 @@ Arapçada *eyyâm* kelimesi yalnız takvim günlerini değil, **bir topluluğun 
 
 **Ve cümlenin kalıbı kaydedilmelidir: *mâ … illâ* — nefy ve istisna, yani *hasr*.** **Bu kalıp 65. ayette de kullanılmıştı** (*ve mâ ünzileti't-Tevrâtü ve'l-İncîlü illâ min ba'dih*). **İki geçiş, iki ayrı işte; ve ikisi de bir sınırlama kuruyor.**
 
-**Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, adı andıktan hemen sonra bir sınırlama edatı kullanıyor. ***Mâ Muhammedün **illâ** rasûl*** — "ancak bir elçi". **Ve *rasûlün* nekredir: "bir elçi", belirli değil.**
+**Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, adı andıktan hemen sonra bir sınırlama edatı kullanıyor. ***Mâ Muhammedün illâ rasûl*** — "ancak bir elçi". **Ve *rasûlün* nekredir: "bir elçi", belirli değil.**
 
 ### قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ — sıfat cümlesi
 
 **Ve nekrenin sıfatı bir cümledir: *kad halet min kablihi'r-rusül* — "ondan önce elçiler gelip geçti".**
 
-**خ-ل-و** kökü: **geçip gitmek, boşalmak.** **Ve aynı fiil sûrede yedi ayet önce geçmişti: *kad **halet** min kabliküm sünen* (137).** **İki geçiş, aynı fiil:**
+**خ-ل-و** kökü: **geçip gitmek, boşalmak.** **Ve aynı fiil sûrede yedi ayet önce geçmişti: *kad halet min kabliküm sünen* (137).** **İki geçiş, aynı fiil:**
 
 | Ayet | Ne geçip gitti |
 |---|---|
@@ -3693,7 +3693,7 @@ Bir iş bir kişinin üzerine kurulduğunda, o kişi gittiğinde iş de gider. *
 
 **Bunu bir kelime gözlemi olarak kaydediyorum:** liste içten dışa doğru gidiyor — önce içerideki çözülme, sonra bedendeki zayıflık, sonra dışarıya gösterilen boyun eğiş.
 
-**Ve *istekânû* fiilinin kökü **س-ك-ن**tir ve 112. ayetteki *meskene* ile aynı köktendir.** **İki geçiş, aynı kök: biri bir hükümde, öteki bir olumsuzlamada.**
+**Ve *istekânû* fiilinin kökü س-ك-نtir ve 112. ayetteki *meskene* ile aynı köktendir.** **İki geçiş, aynı kök: biri bir hükümde, öteki bir olumsuzlamada.**
 
 **رِبِّيُّون** — kelimenin okunuşu ve anlamı üzerinde ihtilaf vardır ve gizlenmemelidir:
 
@@ -3750,7 +3750,7 @@ Bir iş bir kişinin üzerine kurulduğunda, o kişi gittiğinde iş de gider. *
 
 **Ve 100. ayette aynı yapı vardı: *yeruddûküm ba'de îmâniküm kâfirîn* — orada özne kitap ehlinden bir gruptu, burada inkâr edenler.** **İki ayet aynı fiili iki ayrı özneyle kullanıyor.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
-**بَلِ ٱللَّهُ مَوْلَىٰكُمْ** — ***bel* edatı bir önceki cümleyi bırakıp yerine başkasını koyar.** **Ve *mevlâ* kelimesi kök **و-ل-ي**dendir** — 68. ayette *veliyyü'l-mü'minîn* olarak geçmişti. **İki geçiş, aynı kök.**
+**بَلِ ٱللَّهُ مَوْلَىٰكُمْ** — ***bel* edatı bir önceki cümleyi bırakıp yerine başkasını koyar.** **Ve *mevlâ* kelimesi kök و-ل-يdendir** — 68. ayette *veliyyü'l-mü'minîn* olarak geçmişti. **İki geçiş, aynı kök.**
 
 ---
 
@@ -3842,7 +3842,7 @@ Bir iş bir kişinin üzerine kurulduğunda, o kişi gittiğinde iş de gider. *
 
 ### مِن بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ
 
-**Ve kaydın kalıbı tanıdıktır: *min ba'di mâ…* — sûrede beşinci kez.**
+**Ve kaydın kalıbı tanıdıktır: *min ba'di mâ…* — sûrede dördüncü kez.**
 
 | Ayet | *Min ba'di mâ* neyden sonra |
 |---|---|
@@ -3851,7 +3851,7 @@ Bir iş bir kişinin üzerine kurulduğunda, o kişi gittiğinde iş de gider. *
 | **105** | *Câehümü'l-**beyyinât*** |
 | **152** | ***Erâküm mâ tuhıbbûn*** |
 
-**Ve dördüncüsü ötekilerden ayrılır: burada gelen şey bir bilgi ya da delil değil, **istenen şeyin gerçekleşmesi**dir.**
+**Ve dördüncüsü ötekilerden ayrılır: burada gelen şey bir bilgi ya da delil değil, istenen şeyin gerçekleşmesidir.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kalıbın dört geçişidir:** sûre aynı kalıbı hem bilginin gelişi hem de **isteğin karşılanması** için kullanıyor. **Ve ikisinden sonra da aynı şey oluyor: bozulma.** **Yani sûre, hem bilginin hem başarının bir sınama olduğunu aynı kalıpla söylüyor.**
 
@@ -3934,7 +3934,7 @@ Bir iş bir kişinin üzerine kurulduğunda, o kişi gittiğinde iş de gider. *
 | **Soru** | *Hel lenâ **mine'l-emri min şey'*** |
 | **Cevap** | *Kul inne'l-**emre küllehû lillâh*** |
 
-**Ve aynı terkip (*mine'l-emri… şey'*) yirmi altı ayet önce, 128. ayette geçmişti: *leyse leke **mine'l-emri şey'ün***.**
+**Ve aynı terkip (*mine'l-emri… şey'*) yirmi altı ayet önce, 128. ayette geçmişti: *leyse leke mine'l-emri şey'ün*.**
 
 **İki geçiş, aynı terkip, iki ayrı muhatap:**
 
@@ -4029,7 +4029,7 @@ Ve *fazz*ın alanı kaydedilmelidir: **söz ve davranış** — yani **dışarı
 
 **غَلِيظ** — kök **غ-ل-ظ**: **kalın, kaba, ağır.** *Ğılzat* — kalınlık. **Kök `004-nisa.md` 4/21'de (*mîsâkan ğalîzâ*), `048-fetih.md` 48/29'da (*fe'stağleza*), `011-hud.md`'de ve `033-ahzab.md`'de işlendi. Oraya dayanıyorum.**
 
-**Ve burada kelime bir izafetle geliyor: *ğalîza'l-**kalb*** — "**yüreği kalın**". **Yani alanı **içeridir.**
+**Ve burada kelime bir izafetle geliyor: *ğalîza'l-kalb* — "yüreği kalın".** **Yani alanı içeridir.**
 
 **İki kelimeyi tabloya koyuyorum:**
 
@@ -4103,7 +4103,7 @@ Ve bunun bağlamı unutulmamalıdır: 152. ayette *tenâza'tüm fi'l-emr* denmi�
 
 **Tablodan üç gözlem çıkarıyorum ve üçü de iki metinden doğrulanabilir.**
 
-Bir. Biri vasıf, öteki emirdir — ve bu, kelimenin iki ayrı biçimiyle söyleniyor.** Şûrâ'da isim (*şûrâ*), Âl-i İmrân'da fiil (*şâvir*). **Yani aynı kök, bir yerde topluluğun **hâlini**, bir yerde bir kişiye verilen **görevi** bildiriyor.
+**Bir. Biri vasıf, öteki emirdir — ve bu, kelimenin iki ayrı biçimiyle söyleniyor.** Şûrâ'da isim (*şûrâ*), Âl-i İmrân'da fiil (*şâvir*). **Yani aynı kök, bir yerde topluluğun hâlini, bir yerde bir kişiye verilen görevi bildiriyor.**
 
 **İki. Şûrâ'da isim cümlesi kullanılmıştır ve `042-sura.md`'de bunun süreklilik bildirdiği kaydedilmişti.** **Burada ise emir kipi kullanılmıştır ve emir, bir olayın ardından gelmektedir.** **İki kip, iki ayrı iş görüyor: biri kalıcı bir niteliği, öteki belirli bir durumda yapılacak bir işi bildiriyor.**
 
@@ -4580,7 +4580,7 @@ Bir. Biri vasıf, öteki emirdir — ve bu, kelimenin iki ayrı biçimiyle söyl
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle övülmeyi değil, **yapılmayan şeyle** övülmeyi konu ediyor. **Ve fiil *yuhıbbûne* — "severler": yani istek düzeyinde bir şey adlandırılıyor.**
 
-**مَفَازَة** — kök **ف-و-ز**: **kurtuluş, murada erme.** **Ve aynı kök üç ayet önce geçmişti: *fe-kad **fâze*** (185).** **İki geçiş, üç ayet arayla:**
+**مَفَازَة** — kök **ف-و-ز**: **kurtuluş, murada erme.** **Ve aynı kök üç ayet önce geçmişti: *fe-kad fâze* (185).** **İki geçiş, üç ayet arayla:**
 
 | Ayet | Lafız | Kim |
 |---|---|---|
@@ -4735,7 +4735,7 @@ Bir. Biri vasıf, öteki emirdir — ve bu, kelimenin iki ayrı biçimiyle söyl
 
 **Ve seslenenin adı verilmiyor: *münâdiyen* nekredir.** **Bunu bir dizim gözlemi olarak kaydediyorum:** dua, çağıranı adlandırmıyor; **çağrının işitildiğini** söylüyor.
 
-**Ve duanın bu bölümü bir *sebep* bildiriyor: *semi'nâ… fe-âmennâ* — işittik, **bu yüzden** inandık.** **Ve ancak bundan sonra istek geliyor: *rabbenâ **fe**'ğfir lenâ*.** **İki *fâ* edatı arka arkaya bir zincir kuruyor: işitme → iman → istek.**
+**Ve duanın bu bölümü bir *sebep* bildiriyor: *semi'nâ… fe-âmennâ* — işittik, bu yüzden inandık.** **Ve ancak bundan sonra istek geliyor: *rabbenâ fe'ğfir lenâ*.** **İki *fâ* edatı arka arkaya bir zincir kuruyor: işitme → iman → istek.**
 
 ### Bakara'nın kapanışıyla karşılaştırma
 
@@ -4885,7 +4885,7 @@ Ve *fî sebîlî* kaydı: birinci şahıs izafeti — "**benim** yolumda". **Aye
 
 **Kök sûrenin en yoğun köklerinden biridir ve hem *kalp* hem *dönme* anlamıyla geçiyor.** **Bunu bir gözlem olarak kaydediyorum ve iki anlam arasında bir hüküm kurmuyorum; dilciler zaten kalbi "sürekli dönen" anlamıyla açıklar.**
 
-**Ve *lâ yeğurranneke* fiili kaydedilmelidir: kök **غ-ر-ر**, 185. ayette *metâu'l-ğurûr* olarak geçmişti.** **İki geçiş, on bir ayet arayla: biri dünya hayatı için, öteki bir görüntü için.**
+**Ve *lâ yeğurranneke* fiili kaydedilmelidir: kök غ-ر-ر, 185. ayette *metâu'l-ğurûr* olarak geçmişti.** **İki geçiş, on bir ayet arayla: biri dünya hayatı için, öteki bir görüntü için.**
 
 **مِهَاد / نُزُل** — iki kelimenin karşıtlığı kaydedilmelidir:
 
@@ -4908,7 +4908,7 @@ Ve *fî sebîlî* kaydı: birinci şahıs izafeti — "**benim** yolumda". **Aye
 
 **Ve bu ayet, sûrenin kitap ehli hakkındaki son sözüdür. Ve olumlu bir sözdür.**
 
-**Ve *min* edatı bir kez daha: *ve inne **min** ehli'l-kitâbi le-men yü'min*.** **Ve bu, sûredeki sekizinci geçiştir; yukarıdaki tabloda kaydedildi.**
+**Ve *min* edatı bir kez daha: *ve inne min ehli'l-kitâbi le-men yü'min*.** **Ve bu, sûredeki sekizinci geçiştir; yukarıdaki tabloda kaydedildi.**
 
 **Ve ayetin dizimi kaydedilmelidir, çünkü iman edilen şeyler sayılırken bir sıra izleniyor:**
 

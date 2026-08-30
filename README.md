@@ -1,7 +1,8 @@
 # LLM Tefsir Project
 
 Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri.
-114 sûrenin tamamı, 6.236 ayet.
+114 sûrenin tamamı, 6.236 ayet. Metnin tamamı İngilizceye de çevrildi;
+site iki dilde yayımlanır (`/` Türkçe, `/en` İngilizce).
 
 ---
 
@@ -45,7 +46,9 @@ makine söyleyemez.
 | Yol | Ne |
 |---|---|
 | `tefsir/NNN-ad.md` | 114 dosya — tek kaynak, sûre başına bir dosya |
-| `USLUP.md` | Bağlayıcı usul ve üslup kuralları |
+| `tefsir-en/NNN-ad.md` | Aynı 114 dosyanın İngilizcesi; dosya adları, ayet numaraları ve Arapça metin birebir aynı |
+| `USLUP.md` · `USLUP-en.md` | Bağlayıcı usul ve üslup kuralları |
+| `TRANSLATION.md` | Türkçe → İngilizce çeviri kılavuzu |
 | `FIHRIST.md` | Dizin ve sûreler arası kurulan bağlar |
 
 Ayet numaralandırması besmelesiz sayılır (Fâtiha'da 1 = *el-hamdü lillâh*).
@@ -61,9 +64,31 @@ statik üretilir — sunucuda çalışan bir şey yok.
 ```bash
 npm install
 npm run dev      # http://localhost:3000
-npm run build    # 3.115 sayfa, ~15 sn
+npm run build    # 6.234 sayfa (iki dil), ~20 sn
 npm start
 ```
+
+### İki dil
+
+Türkçe kökte, İngilizce `/en` altında yayımlanır. İkisi ayrı kök yerleşimdir
+(`app/(tr)` ve `app/(en)`); ortak olan her şey `lib/i18n.ts` üzerinden gelir.
+
+| Türkçe | İngilizce |
+|---|---|
+| `/` | `/en` |
+| `/sure/9` | `/en/sura/9` |
+| `/kok` · `/usul` | `/en/roots` · `/en/method` |
+| `/hakkinda` · `/kosullar` · `/gizlilik` | `/en/about` · `/en/terms` · `/en/privacy` |
+| `/parca/9/113` | `/en/section/9/113` (atıf modalının çektiği parça) |
+
+Ayet çapaları (`#9/114`) iki dilde aynıdır: üst çubuktaki dil bağlantısı
+okuduğunuz ayeti karşı dilde açar. Paragraf çapaları içerikten üretildiği için
+dile özgüdür. Okuma konumu da ayrı tutulur — `tefsir:pos:*` Türkçe,
+`tefsir:en:pos:*` İngilizce.
+
+Sûre adı dosya başlığından çıkarılır: Türkçede sondaki *Sûresi* eki
+(`Bakara Sûresi` → **Bakara**), İngilizcede baştaki *Sūrat*
+(`Sūrat al-Baqara` → **al-Baqara**) kırpılır.
 
 ### Bağlantı şeması
 

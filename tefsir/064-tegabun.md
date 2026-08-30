@@ -137,7 +137,7 @@ Ve bu, sûrenin sonunda kurulacak alışveriş çerçevesinin ön şartıdır: b
 
 Ve kökün bu anlamı, "kudret" kelimesini Türkçedeki "sınırsız güç" çağrışımından biraz ayırır. *Kadîr*, her şeyi yapabilen değil; **her şeyi ölçüsüyle yapabilen**dir. Güç ile ölçü aynı kökte duruyor.
 
-Bu kök sûrede bir kez daha, üçüncü ayette *el-masîr* ile aynı fasıla düzeninde dönmeyecek; ama Talâk sûresinde (65/3) *"Allah her şey için bir kadr — bir ölçü — koymuştur"* cümlesiyle geri gelecek. İki komşu sûre aynı kökü iki farklı yönde kullanıyor: burada güç, orada ölçü.
+Bu kök sûrede bir daha dönmeyecek; ama Talâk sûresinde (65/3) *"Allah her şey için bir kadr — bir ölçü — koymuştur"* cümlesiyle geri gelecek. İki komşu sûre aynı kökü iki farklı yönde kullanıyor: burada güç, orada ölçü.
 
 ---
 
@@ -538,7 +538,7 @@ Ayetin ilk kelimesi, muhalefetin epistemolojik konumunu tek başına belirliyor.
 
 **Kök: ز ع م.** Kelimenin Arapçadaki kullanımı özeldir: *za'm*, **delili olmayan, sahibinin sorumluluğunu üstlenmediği iddia**dır. Bir sözün önüne *zaame* konduğunda, o sözün doğruluğuna ilişkin bir şüphe otomatik olarak eklenmiş olur.
 
-Bu, Türkçedeki karşılığında da korunmuştur: "zannetti" değil, **"iddia etti", "güya", "sözde"**. Türkçedeki *zaam*, *mezâlim* değil ama *zâim* ("kefil, önder") ilgili bir başka dala aittir — kökün "üstlenmek, kefil olmak" anlamı da vardır ve dilciler iki anlamı birbirine bağlar: *za'm* bir sözü **üstlenmek**tir, ama karşılığını ödeyecek gücü olmadan.
+Bu, Türkçedeki karşılığında da korunmuştur: "zannetti" değil, **"iddia etti", "güya", "sözde"**. Türkçeye geçen *zaîm* ("kefil, önder") ise kökün başka bir dalına aittir — kökün "üstlenmek, kefil olmak" anlamı da vardır ve dilciler iki anlamı birbirine bağlar: *za'm* bir sözü **üstlenmek**tir, ama karşılığını ödeyecek gücü olmadan.
 
 Dilcilerin naklettiği yaygın bir söz, *za'm*'ın "yalanın künyesi" olduğunu belirtir — yani bir söz *zaame* ile başlıyorsa, arkasından yalan gelmesi beklenir. Bu sözü kime ait olduğunu belirtmeden, **dilcilerin naklettiği yaygın bir ifade** olarak aktarıyorum; bir kaynağa nispet etmiyorum.
 
@@ -687,7 +687,7 @@ Bu ayrım dilciler arasında yaygın olarak nakledilir; ama Kur'an'ın her kulla
 
 Birinci görüş metne daha uygun görünüyor: *enzelnâ* fiili ve cümledeki üçüncü sıra, indirilen bir metne işaret ediyor. Bunu bir tercih olarak belirtiyorum, bağlayıcı değildir.
 
-### فَٱلْمُؤْمِنُونَ… — fasıla: *habîr*
+### وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ — fasıla: *habîr*
 
 İkinci ayet *basîr* (gören) ile bitmişti, dördüncü ayet *alîm* (bilen) ile, bu ayet **خَبِير** (haberdar olan) ile bitiyor.
 
@@ -757,9 +757,9 @@ Buna göre:
 
 Ve *teğâbün* bu fiilin mastarıdır: karşılıklı aldanma.
 
-### Karşılıklılık ne demek — dört tefâul kelimesinin karşılaştırması
+### Karşılıklılık ne demek — dört kelimenin karşılaştırması
 
-Bu tefsirde tefâul kalıbındaki kelimeler dört ayrı yerde çözümlendi. Dördünü yan yana koymak, buradaki kelimenin ne yaptığını netleştiriyor.
+Bu tefsirde karşılıklılık ve yarış bildiren kelimeler dört ayrı yerde çözümlendi. Dördünü yan yana koymak, buradaki kelimenin ne yaptığını netleştiriyor.
 
 | Kelime | Kök | Yarışın/işlemin konusu | Hüküm | İşlendiği yer |
 |---|---|---|---|---|
@@ -1102,7 +1102,7 @@ Yalnız burada bir kayıt düşmek gerekiyor: Kur'an aynı çağrıyı bazı yer
 
 Yani *itaat* kelimesinin içinde **rıza** vardır. Boyun eğmek değil; gönüllü uymak. Türkçedeki "itaat" kelimesi bu tarafı büyük ölçüde kaybetmiştir.
 
-Aynı kökten *tatavvu'* (gönüllü olarak fazladan yapılan iş) ve *istitâat* (güç yetirme) gelir — ve *istitâat*, on altıncı ayetin anahtar kelimesi olacak: *ma'stata'tüm*. Kök, sûrede iki kez ve iki farklı yönde çalışıyor: burada **uyma**, orada **güç yetirme**.
+Aynı kökten *tatavvu'* (gönüllü olarak fazladan yapılan iş) ve *istitâat* (güç yetirme) gelir — ve *istitâat*, on altıncı ayetin anahtar kelimesi olacak: *ma'stata'tüm*. Kök, sûrede dört kez ve iki farklı yönde çalışıyor: burada **uyma**, orada **güç yetirme**.
 
 ### فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَٰغُ ٱلْمُبِينُ — sorumluluğun sınırı
 
@@ -1861,7 +1861,7 @@ Sûrenin adını taşıyan kelime bir alışveriş terimiydi. Ve yalnız değil:
 | **قَرْض** | 17 | Ödünç | Kesip verme |
 | **يُضَٰعِفْ** | 17 | Katlama | Anaparanın artması |
 
-Sekiz kelime, sekiz ayrı ayette. Ve sıralamaya dikkat: kelimeler sûrenin **ikinci yarısında** yoğunlaşıyor. İlk sekiz ayette yalnız *el-mülk* var.
+Sekiz kelime, beş ayrı ayette. Ve sıralamaya dikkat: kelimeler sûrenin **ikinci yarısında** yoğunlaşıyor. İlk sekiz ayette yalnız *el-mülk* var.
 
 Yani sûre, ticaret dilini kıyametin adını koyduktan **sonra** açıyor. Önce gün adlandırılıyor, sonra o günün defterinin nasıl tutulduğu anlatılıyor.
 
@@ -1884,20 +1884,20 @@ Bunun sûrenin ana kavramıyla bağı doğrudandır: aldanma, **bilgi asimetrisi
 
 ### Dördüncü aile: AİLE ve MAL
 
-Sûrenin son beş ayeti tek bir alanda kalıyor:
+Sûrenin son dört ayeti tek bir alanda kalıyor:
 
 - **14** — eşler ve çocuklar: düşmanlık ihtimali, ve af
 - **15** — mallar ve çocuklar: fitne
 - **16** — takvâ, dinleme, itaat, infak; ve *şuhh*
 - **17** — ödünç ve katlama
 
-Ve bu beş ayet, sûrenin ilk on üç ayetinde kurulan büyük çerçevenin **uygulama alanı**dır.
+Ve bu dört ayet, sûrenin ilk on üç ayetinde kurulan büyük çerçevenin **uygulama alanı**dır.
 
 **Sûrenin yaptığı hamle şudur:** kıyametin adını "aldanma" koyduktan sonra, aldanmanın **hangi malzemeyle** yapıldığını söylüyor. Ve malzeme uzakta değil: eş, çocuk, mal.
 
 Yani sûre büyük hesabı küçük nesnelere bağlıyor. Bu, `067-mulk.md`'de kaydedilen bir yöntemin aynısıdır: orada da sûre kozmik iddiadan bir kova suya iniyordu.
 
-### Ve bir kelime dizisi: أ و ل د
+### Ve bir kelime dizisi: و ل د
 
 **أَوْلَاد** kelimesi sûrede iki kez geçiyor: 14 ve 15. Ve iki ayette de bir başka kelimeyle eşleştiriliyor:
 

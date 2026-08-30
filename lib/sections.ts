@@ -5,8 +5,12 @@
 import fs from "node:fs";
 import path from "node:path";
 import { AYET } from "./ayet";
+import { type Lang } from "./i18n";
 
-const SRC = path.join(process.cwd(), "tefsir");
+// Bkz. lib/content.ts: kaynak klasoru duz yazilir.
+const srcDir = (lang: Lang) =>
+  lang === "en" ? path.join(process.cwd(), "tefsir-en") : path.join(process.cwd(), "tefsir");
+
 // parse() ile birebir ayni kural: baslik "N/a", "N/a-b" ya da "N/a · b"
 // bicimindeyse bolumdur. "## 2/134 ve 2/141 — ..." gibi serbest basliklar
 // bolum sayilmaz; oradaki ayet en yakin onceki bolume baglanir.
@@ -14,16 +18,18 @@ const HEAD = /^##\s+(\d{1,3})\/(\d{1,3})(?:\s*[·\-–]\s*(\d{1,3}))?\s*(?:—\s
 
 export type SectionIndex = Map<number, Map<number, number>>; // sure -> ayet -> bolum baslangici
 
-let _idx: SectionIndex | null = null;
+const _idx = new Map<Lang, SectionIndex>();
 
-export function sectionIndex(): SectionIndex {
-  if (_idx) return _idx;
+export function sectionIndex(lang: Lang): SectionIndex {
+  const hit = _idx.get(lang);
+  if (hit) return hit;
+  const src = srcDir(lang);
   const idx: SectionIndex = new Map();
-  for (const f of fs.readdirSync(SRC)) {
+  for (const f of fs.readdirSync(src)) {
     const m = /^(\d{3})-.*\.md$/.exec(f);
     if (!m) continue;
     const no = parseInt(m[1], 10);
-    const raw = fs.readFileSync(path.join(SRC, f), "utf8");
+    const raw = fs.readFileSync(path.join(src, f), "utf8");
     const map = new Map<number, number>();
     HEAD.lastIndex = 0;
     let h: RegExpExecArray | null;
@@ -46,10 +52,10 @@ export function sectionIndex(): SectionIndex {
     if (first) for (let a = 1; a <= total; a++) if (!map.has(a)) map.set(a, first);
     idx.set(no, map);
   }
-  _idx = idx;
+  _idx.set(lang, idx);
   return idx;
 }
 
-export function sectionOf(sura: number, ayah: number): number | null {
-  return sectionIndex().get(sura)?.get(ayah) ?? null;
+export function sectionOf(lang: Lang, sura: number, ayah: number): number | null {
+  return sectionIndex(lang).get(sura)?.get(ayah) ?? null;
 }

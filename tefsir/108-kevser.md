@@ -137,7 +137,7 @@ Bu kaydın neden gerekli olduğunu anlamak için, kaydın olmadığı bir dünya
 
 Yani ortada bir ibadet yokluğu değil, bir **yön karışıklığı** vardı. *Li-Rabbike*, fiili değil fiilin adresini düzeltiyor. Sûrenin ilk ayetinde "biz verdik" diyen ile ikinci ayetinde "onun için yap" denen aynı özne.
 
-**Kur'an'ın Kur'an'la tefsiri.** Bu kayıt Kur'an'da en toplu biçimde şurada ifade edilir: *"De ki: Şüphesiz benim namazım, kurbanım (nüsükum), hayatım ve ölümüm âlemlerin Rabbi Allah içindir"* (En'âm 6/162). Bu ayet, Kevser 2'nin genişletilmiş halidir: aynı iki fiil — namaz ve kurban — aynı *lâm* ile Allah'a bağlanıyor, sonra kapsam hayatın tamamına açılıyor.
+**Kur'an'ın Kur'an'la tefsiri.** Bu kayıt Kur'an'da en toplu biçimde şurada ifade edilir: *"De ki: Şüphesiz benim namazım, kurbanım (nüsükî), hayatım ve ölümüm âlemlerin Rabbi Allah içindir"* (En'âm 6/162). Bu ayet, Kevser 2'nin genişletilmiş halidir: aynı iki fiil — namaz ve kurban — aynı *lâm* ile Allah'a bağlanıyor, sonra kapsam hayatın tamamına açılıyor.
 
 Kurbanın hangi anlamda Allah'a "ulaştığı" ise başka bir ayette netleştirilir: *"Onların etleri de kanları da Allah'a ulaşmaz; fakat sizden O'na takva ulaşır"* (Hac 22/37). Bu ayet, kurbanı bir besleme ya da yatıştırma ritüeli olmaktan çıkarır. Cahiliye tasavvurunda kurban, tanrıya sunulan bir paydı; Kur'an bu mantığı reddeder — kesilenden Allah'a giden bir şey yoktur, giden niyettir.
 

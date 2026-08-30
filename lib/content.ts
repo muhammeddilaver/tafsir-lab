@@ -2,19 +2,20 @@ import fs from "node:fs";
 import path from "node:path";
 import { parse, inline, setSectionLookup, stripMd, type Block, type SuraMeta } from "./md";
 import { sectionOf } from "./sections";
+import { type Lang } from "./i18n";
 
 setSectionLookup(sectionOf);
 
-const SRC = path.join(process.cwd(), "tefsir");
+// Yollar duz yazilir: path.join(cwd, degisken) veriuince Turbopack kaynak
+// klasorunu cozemiyor ve butun projeyi sunucu paketine izliyor.
+const srcDir = (lang: Lang) =>
+  lang === "en" ? path.join(process.cwd(), "tefsir-en") : path.join(process.cwd(), "tefsir");
+const methodFile = (lang: Lang) =>
+  lang === "en" ? path.join(process.cwd(), "USLUP-en.md") : path.join(process.cwd(), "USLUP.md");
 
 // sure no -> ayet sayisi (kontrol.py ile ayni liste)
-export const AYET = [
-  7, 286, 200, 176, 120, 165, 206, 75, 129, 109, 123, 111, 43, 52, 99, 128, 111, 110, 98, 135,
-  112, 78, 118, 64, 77, 227, 93, 88, 69, 60, 34, 30, 73, 54, 45, 83, 182, 88, 75, 85, 54, 53, 89,
-  59, 37, 35, 38, 29, 18, 45, 60, 49, 62, 55, 78, 96, 29, 22, 24, 13, 14, 11, 11, 18, 12, 12, 30,
-  52, 52, 44, 28, 28, 20, 56, 40, 31, 50, 40, 46, 42, 29, 19, 36, 25, 22, 17, 19, 26, 30, 20, 15,
-  21, 11, 8, 8, 19, 5, 8, 8, 11, 11, 8, 3, 9, 5, 4, 7, 3, 6, 3, 5, 4, 5, 6,
-];
+export { AYET } from "./ayet";
+import { AYET } from "./ayet";
 
 export type Sura = SuraMeta & {
   blocks: Block[];
@@ -25,33 +26,49 @@ export type Sura = SuraMeta & {
   lead: string;
 };
 
-let _files: { no: number; file: string; slug: string }[] | null = null;
-function files() {
-  if (_files) return _files;
-  _files = fs
-    .readdirSync(SRC)
+type FileRef = { no: number; file: string; slug: string };
+
+const _files = new Map<Lang, FileRef[]>();
+function files(lang: Lang): FileRef[] {
+  const hit = _files.get(lang);
+  if (hit) return hit;
+  const list = fs
+    .readdirSync(srcDir(lang))
     .filter((f) => /^\d{3}-.*\.md$/.test(f))
     .map((f) => ({ no: parseInt(f.slice(0, 3), 10), file: f, slug: f.slice(4, -3) }))
     .sort((a, b) => a.no - b.no);
-  return _files;
+  _files.set(lang, list);
+  return list;
 }
 
-let _names: Map<number, string> | null = null;
-export function names() {
-  if (_names) return _names;
-  _names = new Map();
-  for (const f of files()) {
-    const raw = fs.readFileSync(path.join(SRC, f.file), "utf8");
+// Baslik -> kisa ad. Turkce'de ek sonda ("Bakara Sûresi"), Ingilizce'de
+// basta ("Sūrat al-Baqara"); ikisi de kirpilir, kalan liste/gezinme adidir.
+function shortName(title: string, slug: string, lang: Lang) {
+  const t = title.replace(/^\d+\.\s*/, "").trim();
+  if (!t) return slug;
+  return lang === "tr"
+    ? t.replace(/\s*Sûresi\s*$/u, "").trim() || slug
+    : t.replace(/^S[uū]ra[th]?\s+/iu, "").trim() || slug;
+}
+
+const _names = new Map<Lang, Map<number, string>>();
+export function names(lang: Lang): Map<number, string> {
+  const hit = _names.get(lang);
+  if (hit) return hit;
+  const m = new Map<number, string>();
+  for (const f of files(lang)) {
+    const raw = fs.readFileSync(path.join(srcDir(lang), f.file), "utf8");
     const t = /^#\s+(.*)$/m.exec(raw)?.[1] ?? f.slug;
-    _names.set(f.no, t.replace(/^\d+\.\s*/, "").replace(/\s*Sûresi\s*$/, "").trim());
+    m.set(f.no, shortName(t, f.slug, lang));
   }
-  return _names;
+  _names.set(lang, m);
+  return m;
 }
 
-export function suraList(): (SuraMeta & { ayahCount: number; lead: string })[] {
-  const nm = names();
-  return files().map((f) => {
-    const raw = fs.readFileSync(path.join(SRC, f.file), "utf8");
+export function suraList(lang: Lang): (SuraMeta & { ayahCount: number; lead: string })[] {
+  const nm = names(lang);
+  return files(lang).map((f) => {
+    const raw = fs.readFileSync(path.join(srcDir(lang), f.file), "utf8");
     const title = /^#\s+(.*)$/m.exec(raw)?.[1] ?? f.slug;
     const firstPara = raw
       .split("\n")
@@ -67,16 +84,17 @@ export function suraList(): (SuraMeta & { ayahCount: number; lead: string })[] {
   });
 }
 
-const _cache = new Map<number, Sura>();
+const _cache = new Map<string, Sura>();
 
-export function getSura(no: number): Sura | null {
-  if (_cache.has(no)) return _cache.get(no)!;
-  const f = files().find((x) => x.no === no);
+export function getSura(lang: Lang, no: number): Sura | null {
+  const key = `${lang}:${no}`;
+  if (_cache.has(key)) return _cache.get(key)!;
+  const f = files(lang).find((x) => x.no === no);
   if (!f) return null;
-  const raw = fs.readFileSync(path.join(SRC, f.file), "utf8");
+  const raw = fs.readFileSync(path.join(srcDir(lang), f.file), "utf8");
   const title = /^#\s+(.*)$/m.exec(raw)?.[1] ?? f.slug;
-  const nm = names();
-  const { blocks, ayahAnchors, lead } = parse(raw, no, nm);
+  const nm = names(lang);
+  const { blocks, ayahAnchors, lead } = parse(raw, no, nm, lang);
 
   // Her ayet numarasi bir bolume dussun: bosluk kalirsa en yakin bolume bagla.
   const total = AYET[no - 1];
@@ -118,27 +136,42 @@ export function getSura(no: number): Sura | null {
     sections,
     lead,
   };
-  _cache.set(no, sura);
+  _cache.set(key, sura);
   return sura;
 }
 
 // ---------- kok dizini ----------
 const AR = "؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿";
 const ROOT_AR = new RegExp(`\\*\\*?([${AR}]\\s*-\\s*[${AR}]\\s*-\\s*[${AR}](?:\\s*-\\s*[${AR}])?)\\*\\*?`, "g");
-const ROOT_LAT = /\*\*?([a-zçğışöü]{1,2}-[a-zçğışöü]{1,2}-[a-zçğışöü]{1,2}(?:-[a-zçğışöü]{1,2})?)\*\*?/gi;
+
+// Latin harfli kok yazimi dile gore degisir:
+//   Turkce  *k-t-b*, *ktb* harfleri sade Latin + Turkce harfler
+//   Ingilizce *q-w-m*, *kh-t-m*, *ʿ-q-l* — cift harfli sesler (kh/sh/gh/th/dh)
+//   ve harf-uzeri isaretler (ḥ ṣ ṭ ẓ ḍ ʿ ʾ ā ī ū) kullanilir
+const LAT: Record<Lang, string> = {
+  tr: "a-zçğışöü",
+  en: "a-zʿʾāīūḥṣṭẓḍṯḏšġḫḳẖ",
+};
+const rootLat = (lang: Lang) => {
+  const c = LAT[lang];
+  const seg = lang === "tr" ? `[${c}]{1,2}` : `[${c}]{1,3}`;
+  return new RegExp(`\\*\\*?(${seg}-${seg}-${seg}(?:-${seg})?)\\*\\*?`, "gi");
+};
 
 export type RootHit = { sura: number; suraName: string; anchor: string; ctx: string };
 export type RootEntry = { root: string; hits: RootHit[] };
 
-let _roots: RootEntry[] | null = null;
-export function roots(): RootEntry[] {
-  if (_roots) return _roots;
-  const nm = names();
+const _roots = new Map<Lang, RootEntry[]>();
+export function roots(lang: Lang): RootEntry[] {
+  const hit = _roots.get(lang);
+  if (hit) return hit;
+  const nm = names(lang);
+  const ROOT_LAT = rootLat(lang);
   const agg = new Map<string, RootEntry>();
   const seen = new Map<string, Set<string>>();
 
-  for (const f of files()) {
-    const raw = fs.readFileSync(path.join(SRC, f.file), "utf8");
+  for (const f of files(lang)) {
+    const raw = fs.readFileSync(path.join(srcDir(lang), f.file), "utf8");
     const lines = raw.split("\n");
     let anchor = "";
     for (const ln of lines) {
@@ -152,7 +185,7 @@ export function roots(): RootEntry[] {
         let m: RegExpExecArray | null;
         while ((m = rx.exec(ln))) {
           let r = m[1].replace(/\s+/g, "");
-          if (/^[A-Za-zçğışöüÇĞİŞÖÜ]/.test(r)) r = r.toLocaleLowerCase("tr");
+          if (/^[A-Za-z]/.test(r)) r = lang === "tr" ? r.toLocaleLowerCase("tr") : r.toLowerCase();
           if ((r.match(/-/g) ?? []).length < 2) continue;
           const key = r;
           const e = agg.get(key) ?? { root: key, hits: [] };
@@ -174,15 +207,16 @@ export function roots(): RootEntry[] {
       }
     }
   }
-  _roots = [...agg.values()]
+  const list = [...agg.values()]
     .sort((a, b) => b.hits.length - a.hits.length || a.root.localeCompare(b.root))
     .slice(0, 400);
-  return _roots;
+  _roots.set(lang, list);
+  return list;
 }
 
 /** Tek bir ayet bolumu: basliktan bir sonraki ust duzey baslige kadar. */
-export function section(no: number, start: number) {
-  const sura = getSura(no);
+export function section(lang: Lang, no: number, start: number) {
+  const sura = getSura(lang, no);
   if (!sura) return null;
   const i = sura.blocks.findIndex((b) => b.k === "h" && b.ayah?.from === start);
   if (i < 0) return null;
@@ -200,15 +234,16 @@ export function section(no: number, start: number) {
   return { no, name: sura.name, label, id: head.id, blocks: sura.blocks.slice(i, j) };
 }
 
-export function usul() {
-  const raw = fs.readFileSync(path.join(process.cwd(), "USLUP.md"), "utf8");
+/** Usul metni (USLUP.md / USLUP-en.md). */
+export function method(lang: Lang) {
+  const raw = fs.readFileSync(methodFile(lang), "utf8");
   const title = /^#\s+(.*)$/m.exec(raw)?.[1] ?? "Usul";
-  const { blocks } = parse(raw, 0, names());
+  const { blocks } = parse(raw, 0, names(lang), lang);
   return { title, blocks };
 }
 
-export function stats() {
-  return { suras: files().length, ayahs: AYET.reduce((a, b) => a + b, 0) };
+export function stats(lang: Lang) {
+  return { suras: files(lang).length, ayahs: AYET.reduce((a, b) => a + b, 0) };
 }
 
 export { inline };

@@ -206,7 +206,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bu cümle, sûrenin bütününü taşıyan cümlelerden biridir ve dizimi ayrıntılı incelenmeye değer.**
 
-**Birincisi: iki kol da *şart* kalıbındadır** — *in ahsentüm* / *in ese'tüm*. **Şart cümlesi, hükmü **gerçekleşmeye** bağlar. Yani hüküm, muhatabın kim olduğuna değil, ne yaptığına bakıyor.**
+**Birincisi: iki kol da *şart* kalıbındadır** — *in ahsentüm* / *in ese'tüm*. **Şart cümlesi, hükmü gerçekleşmeye bağlar. Yani hüküm, muhatabın kim olduğuna değil, ne yaptığına bakıyor.**
 
 **İkincisi: iki kolun karşılığı da *kendilerine* dönüyor.** *Li-enfüsiküm* — "kendinize"; *fe-lehâ* — "o da onadır (nefse)".
 
@@ -259,7 +259,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Cümlenin en dikkat çekici yanı, mevsûfun (nitelenen şeyin) hazfedilmiş olmasıdır.**
 
-**Ayet, "en doğru **yola**" demiyor; "en doğru **olana**" diyor. *Elletî* — müennes ism-i mevsûl; nitelediği isim söylenmemiş.**
+**Ayet, "en doğru yola" demiyor; "en doğru olana" diyor. *Elletî* — müennes ism-i mevsûl; nitelediği isim söylenmemiş.**
 
 **Dilciler eksik ismi tamamlamaya çalışır ve ayrılırlar:**
 
@@ -289,7 +289,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu kendi okumam olarak kaydediyorum:** kökün somut resmi **ayakta durmak**tır. Ayakta duran şey, yıkılmayan ve eğrilmeyen şeydir. **Kur'an'ın işi, bu resimle, "eğilmeden durabilecek olana" yöneltmek diye tarif ediliyor.**
 
-### İki müjdenin dizimi
+### Müjde ile uyarının dizimi
 
 **Dokuzuncu ayet müjdeyi, onuncu ayet uyarıyı veriyor — ve iki cümlenin özneleri farklı:**
 
@@ -326,7 +326,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **`021-enbiya.md` şu an dizinde yalnız 21/1-9 aralığını kapsıyor;** 21/37'deki *hulika'l-insânü min acel* ayeti henüz çözümlenmiş değildir. **Bu yüzden burada kökü kendi başına ele alıyorum ve o ayete yalnız bir Kur'an içi karşılaştırma olarak işaret ediyorum.**
 
-***Acûl* kalıbı (*fa'ûl*), Arapçada **mübalağa** bildirir: işi çok yapan, huyu o olan.** Yani ayet "insan acele etti" demiyor; **"insanın huyu acelecidir"** diyor.
+***Acûl* kalıbı (*fa'ûl*), Arapçada mübalağa bildirir: işi çok yapan, huyu o olan.** Yani ayet "insan acele etti" demiyor; **"insanın huyu acelecidir"** diyor.
 
 **Ve Kur'an içinde iki ayet yan yana konabilir:**
 
@@ -430,7 +430,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bu, Kur'an'ın en sarsıcı emirlerinden biridir ve bir karşılaştırmayla en iyi görünür.**
 
-**`045-casiye.md` 45/29'da (*hâzâ kitâbünâ yentıku aleyküm bi'l-hakk*) kitabın **konuştuğu** işlenmişti** — orada belge kendi kendine dile geliyordu. **Ve `041-fussilet.md` 41/20-21'de aynı kök (ن-ط-ق) bu kez **beden** için kullanılmıştı.**
+**`045-casiye.md` 45/29'da (*hâzâ kitâbünâ yentıku aleyküm bi'l-hakk*) kitabın konuştuğu işlenmişti** — orada belge kendi kendine dile geliyordu. **Ve `041-fussilet.md` 41/20-21'de aynı kök (ن-ط-ق) bu kez beden için kullanılmıştı.**
 
 **Şimdi üç sahne yan yana konabilir:**
 
@@ -613,9 +613,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **`053-necm.md` 53/39'da (*ve en leyse li'l-insâni illâ mâ seâ*) س-ع-ي kökü işlendi ve orada bu ayet zaten anılmıştı:** orada kaydedilmişti ki **Kur'an'ın *sa'y* hakkındaki hükmü iki parçalıdır** — ancak çaban vardır (Necm 53/39), ve çabanın nereye gittiği önemlidir (İsrâ 17/19). **Oraya dayanıyorum.**
 
-**Buradaki terkip kaydedilmelidir: *seâ lehâ **sa'yehâ*** — "ona, **ona yaraşır** çabayı gösterdi."**
+**Buradaki terkip kaydedilmelidir: *seâ lehâ sa'yehâ* — "ona, ona yaraşır çabayı gösterdi."**
 
-**Zamir (*-hâ*) çabaya bağlanıyor: âhiretin kendi çabası.** **Yani ayet, çabanın miktarını değil **cinsini** şart koşuyor.** Bunu bir dizim gözlemi olarak kaydediyorum.
+**Zamir (*-hâ*) çabaya bağlanıyor: âhiretin kendi çabası.** **Yani ayet, çabanın miktarını değil cinsini şart koşuyor.** Bunu bir dizim gözlemi olarak kaydediyorum.
 
 ### كُلًّا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ
 
@@ -639,7 +639,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### Listenin açılışı
 
-**Yirmi ikinci ayet, otuz dokuzuncu ayete kadar sürecek olan emirler listesinin **kapı taşıdır** — ve listenin sonu da aynı cümleyle kapanacak:**
+**Yirmi ikinci ayet, otuz dokuzuncu ayete kadar sürecek olan emirler listesinin kapı taşıdır — ve listenin sonu da aynı cümleyle kapanacak:**
 
 | Ayet | İfade | Sonuç |
 |---|---|---|
@@ -706,7 +706,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### أُفٍّ — kök ve karşılaştırma
 
-**Kelime bir isim değil, **isim-fiil**dir: sıkıntı, bıkkınlık, rahatsızlık bildiren bir ses.** Dilciler kelimeyi "tırnak arasındaki kir" ya da "üflenerek atılan toz" gibi somut karşılıklarla da açıklar; **ortak nokta, çok küçük ve önemsiz olandır.**
+**Kelime bir isim değil, isim-fiildir: sıkıntı, bıkkınlık, rahatsızlık bildiren bir ses.** Dilciler kelimeyi "tırnak arasındaki kir" ya da "üflenerek atılan toz" gibi somut karşılıklarla da açıklar; **ortak nokta, çok küçük ve önemsiz olandır.**
 
 **Kelime `046-ahkaf.md` 46/17'de işlendi ve orada tam bu ayete işaret edilmişti:** *ve'llezî kâle li-vâlideyhi üffin lekümâ* — orada bir kişinin ağzından **söyleniyor**du. Ve orada kaydedilmişti: **"orada yasaklanan en küçük söz, burada portrenin ilk cümlesi olarak geliyor."**
 
@@ -840,13 +840,13 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | Furkān 25/67 | *İsrâf* ve *iktâr* | ***Kavâm*** — denge noktası |
 | **İsrâ 17/26-29** | *Tebzîr* (26) ve **el bağlama** (29) | *Beyne zâlik* (29) — **ikisi arasında** |
 
-**İki sûre aynı ölçüyü kuruyor ama İsrâ onu **iki ayrı ayete bölüyor** ve ikincisini bir görüntüyle veriyor.** Bu, sûreler arası doğrulanabilir bir örtüşmedir.
+**İki sûre aynı ölçüyü kuruyor ama İsrâ onu iki ayrı ayete bölüyor ve ikincisini bir görüntüyle veriyor.** Bu, sûreler arası doğrulanabilir bir örtüşmedir.
 
 ### إِخْوَٰنَ ٱلشَّيَٰطِينِ
 
 **Terkip sert görünür ve ne söylediği kaydedilmelidir.**
 
-**Arapçada "birinin kardeşi olmak" deyimi, **aynı huyu paylaşmak** için kullanılır.** Nesep değil, benzerlik bildirir.
+**Arapçada "birinin kardeşi olmak" deyimi, aynı huyu paylaşmak için kullanılır.** Nesep değil, benzerlik bildirir.
 
 **Ve ayet gerekçeyi hemen ardından veriyor: *ve kâne'ş-şeytânü li-rabbihî kefûrâ* — "şeytan Rabbine karşı çok nankördür."**
 
@@ -909,7 +909,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### 17/30 — ölçünün kaynağı
 
-**Otuzuncu ayet, yirmi dokuzuncu ayetteki iki uca bir dayanak veriyor: *yebsutu'r-rızka li-men yeşâü ve **yakdir***.**
+**Otuzuncu ayet, yirmi dokuzuncu ayetteki iki uca bir dayanak veriyor: *yebsutu'r-rızka li-men yeşâü ve yakdir*.**
 
 **Ve fiil seçimi kaydedilmelidir: *yebsutu* — yirmi dokuzuncu ayetteki *tebsuthâ* ile aynı kök (ب-س-ط).**
 
@@ -938,13 +938,13 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### خَشْيَة — korku, gerçekleşme değil
 
-**Kelimenin seçimi kaydedilmelidir: *haşyet* — **korku**, olan bir şey değil.**
+**Kelimenin seçimi kaydedilmelidir: *haşyet* — korku, olan bir şey değil.**
 
-**Yani ayet, yoksul düşen kimseden söz etmiyor; yoksul düşme **ihtimalinden** korkan kimseden söz ediyor.**
+**Yani ayet, yoksul düşen kimseden söz etmiyor; yoksul düşme ihtimalinden korkan kimseden söz ediyor.**
 
 **إِمْلَٰق** — kök **م-ل-ق**: **elde bir şey kalmamak, tamamen tükenmek.** Dilciler kökü "yumuşayıp erimek" ile de ilişkilendirir.
 
-### 081-tekvir.md'deki *mev'ûde* bahsine dayanma
+### `081-tekvir.md`'deki *mev'ûde* bahsine dayanma
 
 **`081-tekvir.md` 81/8-9'da (*ve ize'l-mev'ûdetü suilet · bi-eyyi zenbin kutilet*) bu konu işlendi ve orada bu ayete zaten işaret edilmişti.** **Orada düşülen kayıt aynen geçerlidir ve oraya dayanıyorum:**
 
@@ -957,11 +957,11 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | Tekvîr 81/8 | *El-mev'ûde* | **Müennes** — kız | **Utanç** |
 | **İsrâ 17/31** | *Evlâdeküm* | **Belirsiz** — çocuklar | **Yoksulluk korkusu** |
 
-**Ve `081-tekvir.md`'de orada kaydedilen bir başka şey de burada işliyor:** Tekvîr'de soru **öldürülene** soruluyordu (*bi-eyyi zenbin kutilet* — "hangi suçtan dolayı öldürüldün?"). **Burada ise hitap doğrudan **öldürene**dir.** **Aynı olgu, iki sûrede iki ayrı muhataba.**
+**Ve `081-tekvir.md`'de orada kaydedilen bir başka şey de burada işliyor:** Tekvîr'de soru **öldürülene** soruluyordu (*bi-eyyi zenbin kutilet* — "hangi suçtan dolayı öldürüldün?"). **Burada ise hitap doğrudan öldürenedir.** **Aynı olgu, iki sûrede iki ayrı muhataba.**
 
 ### نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ — sıranın tersliği
 
-**Cümlenin dizimi dikkat çekicidir ve dilciler üzerinde durur: önce **onlar**, sonra **siz**.**
+**Cümlenin dizimi dikkat çekicidir ve dilciler üzerinde durur: önce onlar, sonra siz.**
 
 **Ve aynı hüküm En'âm 6/151'de tersine sıralanır: *nahnü nerzukuküm ve iyyâhüm* — "sizi de onları da".**
 
@@ -990,7 +990,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 > Yasak "yemeyin" biçiminde değil, **"yaklaşmayın"** biçiminde kurulmuş. Yani sınır, fiilin kendisinden değil, **fiile götüren mesafeden** başlıyor.
 
-**Ve orada üç ayet aynı aileye konmuştu:**
+**Ve orada üç ayet aynı aileye konmuştu; dördüncüsü bu sûrenin kendi içinden ekleniyor:**
 
 | Yer | İfade | Konu |
 |---|---|---|
@@ -1168,7 +1168,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ve farkı kendi okumam olarak kaydediyorum; dayanağı altı ayetin kendi fiilleridir:**
 
-**Beş ayette de üçlü, bir **haberin** içinde geçiyor** — verildi, işe yaramadı, mühürlendi, şahitlik etti. **İsrâ'da ise bir **emrin gerekçesi** olarak geçiyor.** Cümle *inne* ile başlıyor ve bir önceki yasağın sebebini veriyor.
+**Beş ayette de üçlü, bir haberin içinde geçiyor** — verildi, işe yaramadı, mühürlendi, şahitlik etti. **İsrâ'da ise bir emrin gerekçesi olarak geçiyor.** Cümle *inne* ile başlıyor ve bir önceki yasağın sebebini veriyor.
 
 **Yani beş sûrede duyular anlatılan şeydi; İsrâ'da hesabı sorulan şey.**
 
@@ -1180,7 +1180,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### كُلُّ أُو۟لَٰٓئِكَ
 
-**Bir gramer nüktesi kaydedilmelidir ve dilciler üzerinde durur: *ülâike* işaret zamiri, Arapçada normalde **akıl sahipleri** için kullanılır.**
+**Bir gramer nüktesi kaydedilmelidir ve dilciler üzerinde durur: *ülâike* işaret zamiri, Arapçada normalde akıl sahipleri için kullanılır.**
 
 **Burada üç yeti için kullanılıyor.** **Dilciler bunu iki şekilde açıklar ve aktarıyorum:**
 
@@ -1205,7 +1205,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 "**Yeryüzünde böbürlenerek yürüme. Ne yeri delebilirsin ne de boyca dağlara erişebilirsin. Bütün bunların kötü olanı, Rabbinin katında çirkin görülmüştür.**"
 
-### 031-lokman.md ile ortak cümle
+### `031-lokman.md` ile ortak cümle
 
 **Bu cümle `031-lokman.md` 31/18'de birebir aynı lafızla geçer: *ve lâ temşi fi'l-ardı merahâ*.** **Orada işlendi ve oraya dayanıyorum.**
 
@@ -1236,7 +1236,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ayetin gerekçesi kaydedilmeye değer ve bu, Kur'an'ın en kendine has cevaplarından biridir.**
 
-**Ayet kibri ahlâkî bir kusur olarak kınamıyor. **Fiziksel olarak imkânsız** olduğunu söylüyor:**
+**Ayet kibri ahlâkî bir kusur olarak kınamıyor. Fiziksel olarak imkânsız olduğunu söylüyor:**
 
 | İddia | Gerçek |
 |---|---|
@@ -1253,7 +1253,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Otuz sekizinci ayet, listeyi toparlıyor: *küllü zâlike* — "bütün bunlar".**
 
-**Ve terkip dikkat çekicidir: *kâne **seyyiühû*** — "onun kötü olanı".**
+**Ve terkip dikkat çekicidir: *kâne seyyiühû* — "onun kötü olanı".**
 
 **Dilciler bu ifade üzerinde durur, çünkü listede yalnız yasaklar yok — emirler de var** (anne-babaya iyilik, akrabaya hak verme, ölçüyü tam tutma). **Ve "kötü olanı" kaydı, bunları dışarıda bırakıyor.**
 
@@ -1524,7 +1524,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Aynı yöntem `025-furkan.md` 25/13-14'te işlenmişti** — orada feryat yasaklanmıyor, **çoğaltılması** söyleniyordu. **Oraya dayanıyorum: iki yerde de cevap, karşı tarafın önerisini kabul edip artırarak veriliyor.**
 
-**Ve bir kayıt daha: *mimmâ yekbüru fî sudûriküm* terkibi, ayette bir şeyin **adını vermiyor.** Boşluk bırakıyor ve muhatabın kendi tasavvurunu doldurmasına açıyor.** Bunu bir dizim gözlemi olarak veriyorum.
+**Ve bir kayıt daha: *mimmâ yekbüru fî sudûriküm* terkibi, ayette bir şeyin adını vermiyor. Boşluk bırakıyor ve muhatabın kendi tasavvurunu doldurmasına açıyor.** Bunu bir dizim gözlemi olarak veriyorum.
 
 ### فَطَرَكُمْ أَوَّلَ مَرَّةٍ
 
@@ -1532,7 +1532,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Delilin biçimi kaydedilmeye değer ve `019-meryem.md` 19/9 ve 19/67'de aynı delil tablolanmıştı:** *halaknâhü min kablü ve lem yekü şey'â.* **Orada kaydedilmişti: aynı delil, biri müjdeye biri itiraza karşı.**
 
-**İsrâ'daki fark kaydedilmelidir:** Meryem'de delil "hiçbir şey değilken yarattık" biçimindeydi; **burada "ilk kez yaratan" (*evvele merra*) biçiminde.** **Yani vurgu yokluk üzerinde değil, **birincilik** üzerinde: bir kez yapılmış olan iş.**
+**İsrâ'daki fark kaydedilmelidir:** Meryem'de delil "hiçbir şey değilken yarattık" biçimindeydi; **burada "ilk kez yaratan" (*evvele merra*) biçiminde.** **Yani vurgu yokluk üzerinde değil, birincilik üzerinde: bir kez yapılmış olan iş.**
 
 ### يُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ
 
@@ -1584,7 +1584,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Kök `041-fussilet.md` 41/36'da (*ve immâ yenzeğanneke mine'ş-şeytâni nezğun fe'steız billâh*) işlendi** ve `019-meryem.md` 19/83'te (*teüzzühüm ezzâ*) benzeri anılmıştı. **Oraya dayanıyorum.**
 
-**Ve buradaki fark kaydedilmelidir: Fussilet'te dürtme **kişiye** yöneliktir; İsrâ'da **aralarına** — *yenzeğu **beynehüm***.**
+**Ve buradaki fark kaydedilmelidir: Fussilet'te dürtme kişiye yöneliktir; İsrâ'da aralarına — *yenzeğu beynehüm*.**
 
 | Yer | Nereye dürtülüyor |
 |---|---|
@@ -1661,7 +1661,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **`025-furkan.md` 25/17'de ve `046-ahkaf.md` 46/5-6, `035-fatir.md` 35/14'te aynı dönüş işlendi:** yalvarılan tarafın sonunda reddetmesi ya da kendisinin de muhtaç olması. **Oraya dayanıyorum.**
 
-**Buradaki fark kaydedilmelidir ve bu bir zaman farkıdır:** Furkān'da ve Ahkāf'ta ret **kıyamet gününde** oluyordu. **İsrâ'da ise şu anki hâl anlatılıyor: onlar da **şimdi** yol arıyorlar.**
+**Buradaki fark kaydedilmelidir ve bu bir zaman farkıdır:** Furkān'da ve Ahkāf'ta ret **kıyamet gününde** oluyordu. **İsrâ'da ise şu anki hâl anlatılıyor: onlar da şimdi yol arıyorlar.**
 
 **وَسِيلَة** — kök **و-س-ل**: **bir şeye ulaşmak için tutulan yol, yaklaşma vesilesi.**
 
@@ -1745,9 +1745,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### كَرَّمْتَ — sûrenin anahtar kelimesi
 
-**İblîs'in cümlesindeki kelime kaydedilmelidir: *hâze'llezî **kerremte** aleyye* — "şu, benden üstün tuttuğun."**
+**İblîs'in cümlesindeki kelime kaydedilmelidir: *hâze'llezî kerremte aleyye* — "şu, benden üstün tuttuğun."**
 
-**Ve aynı kök, dokuz ayet sonra, yetmişinci ayette dönecek: *ve lekad **kerremnâ** benî Âdem*.**
+**Ve aynı kök, sekiz ayet sonra, yetmişinci ayette dönecek: *ve lekad kerremnâ benî Âdem*.**
 
 | Ayet | Kim söylüyor | İfade |
 |---|---|---|
@@ -1979,7 +1979,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **`002-bakara.md` 2/71'de bu fiil işlendi ve orada kaydedilmişti:** *kâde* fiili "yaklaşmak, az kalsın olmak" bildirir. **Oraya dayanıyorum.**
 
-**Ve buradaki kullanımın kaydı zorunludur:** ayet, olan bir şeyi anlatmıyor. ***Kâdû* ve *kidte* — ikisi de "az kalsın" kalıbı.** **Yani hem baskı hem meyil, **gerçekleşmemiş** olarak anlatılıyor.**
+**Ve buradaki kullanımın kaydı zorunludur:** ayet, olan bir şeyi anlatmıyor. ***Kâdû* ve *kidte* — ikisi de "az kalsın" kalıbı.** **Yani hem baskı hem meyil, gerçekleşmemiş olarak anlatılıyor.**
 
 **Ve ikinci ayet gerekçeyi veriyor: *ve levlâ en sebbetnâke* — "seni sağlamlaştırmasaydık".**
 
@@ -2073,7 +2073,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### قُرْءَانَ ٱلْفَجْرِ — kelimenin kullanımı
 
-**Kelimenin buradaki kullanımı kaydedilmeye değer: *kur'ân* burada kitabın adı değil, **mastar** olarak "okuma" anlamındadır.**
+**Kelimenin buradaki kullanımı kaydedilmeye değer: *kur'ân* burada kitabın adı değil, mastar olarak "okuma" anlamındadır.**
 
 **ق-ر-أ kökü `096-alak.md` 96/1'de ayrıntılı çözümlendi.** **Tekrarlamıyorum.**
 
@@ -2239,7 +2239,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 |---|---|---|
 | 1 | **İnsandaki can** — bedene hayat veren | En yaygın anlaşılış |
 | 2 | **Cebrâil** | Kur'an *er-Rûhu'l-emîn* (Şuarâ 26/193) ve *Rûhu'l-kudüs* (Bakara 2/87) tabirlerini kullanır |
-| 3 | **Vahiy / Kur'an** | Şûrâ 42/52'de *ravhan min emrinâ* geçer |
+| 3 | **Vahiy / Kur'an** | Şûrâ 42/52'de *rûhan min emrinâ* geçer |
 | 4 | **Bir melek ya da yaratıklardan bir sınıf** | Kadr 97/4'te *er-rûh* melekler yanında ayrıca anılır |
 
 **Dört okuma da klasik kaynaklarda nakledilir; tercih dayatmıyorum ve rivayet yığmıyorum.**
@@ -2248,7 +2248,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### ر-و-ح kökü
 
-**Kök `033-ahzab.md`, `055-rahman.md`, `069-hakka.md` ve `056-vakia.md` 56/89'da çözümlendi.** **Orada kaydedilmişti: kökün altında *rûh* (can), *rîh* (rüzgâr), *revh* (ferahlık), *râiha* (koku) bulunur; ortak çekirdek **hareket eden hava**dır.** **Tekrarlamıyorum.**
+**Kök `033-ahzab.md`, `055-rahman.md`, `069-hakka.md` ve `056-vakia.md` 56/89'da çözümlendi.** **Orada kaydedilmişti: kökün altında *rûh* (can), *rîh* (rüzgâr), *revh* (ferahlık), *râiha* (koku) bulunur; ortak çekirdek hareket eden havadır.** **Tekrarlamıyorum.**
 
 ### مِنْ أَمْرِ رَبِّى
 
@@ -2280,7 +2280,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu kendi okumam olarak veriyorum ve dayanağı sıralamadır:** bir önceki ayet **insana verilen ilmin azlığını** söylemişti. **Bu ayet, verilenin geri alınabilir olduğunu söylüyor.** **Yani vahiy de, bilgi gibi, verilmiş bir şeydir — kazanılmış değil.**
 
-**Ve *vekîl* kelimesi sûrede dördüncü kez geçiyor** (2, 54, 65, 68, 86). **Tablosu elli dördüncü ayette verildi.**
+**Ve *vekîl* kelimesi sûrede beşinci kez geçiyor** (2, 54, 65, 68, 86). **Tablosu elli dördüncü ayette verildi.**
 
 **Buradaki kullanım farklıdır ve fark kaydedilmelidir:** diğer geçişlerde *vekîl* bir dayanak olarak anılıyordu. **Burada, en yakın olanın bile bir vekil bulamayacağı söyleniyor.**
 
@@ -2387,7 +2387,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | 1 | *Sübhâne rabbî* | **Yüceltme** — talebin muhatabını düzeltiyor |
 | 2 | *Hel küntü illâ beşeran rasûlâ* | **Sınır** — kendi konumunu bildiriyor |
 
-**Ve terkip kaydedilmeye değer: *beşeran **rasûlâ*** — "elçi olan bir insan".** **İki kelime yan yana; *beşer* önce, *rasûl* sonra.**
+**Ve terkip kaydedilmeye değer: *beşeran rasûlâ* — "elçi olan bir insan".** **İki kelime yan yana; *beşer* önce, *rasûl* sonra.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kelime sırasıdır:** cevap, elçiliği reddetmiyor — **insanlığı öne alıyor.** Talep edilen şeyler bir insanın yapabileceği şeyler değildir; cevap tam da bunu söylüyor.
 
@@ -2429,11 +2429,11 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Cevap, bir şart cümlesi kuruyor: *lev kâne fi'l-ardı melâiketün yemşûne mutmainnîn*.**
 
-**Kayıt kaydedilmelidir: *yemşûne mutmainnîn* — "huzur içinde yürüyen".** **Yani şart, yeryüzünde meleklerin **yerleşik** olarak yaşaması.**
+**Kayıt kaydedilmelidir: *yemşûne mutmainnîn* — "huzur içinde yürüyen".** **Yani şart, yeryüzünde meleklerin yerleşik olarak yaşaması.**
 
 **Bunu kendi okumam olarak veriyorum ve dayanağı şartın içeriğidir:** ayet, elçinin muhatabıyla **aynı cinsten** olması gerektiğini söylüyor. **Ve gerekçe verilmiyor — bir kural olarak konuyor.**
 
-**Ve fiil kaydedilmeye değer: *yemşûne* (yürüyorlar).** **`025-furkan.md` 25/7, 25/20 ve 25/63'te bu fiilin üç geçişi tablolanmıştı** (itiraz, kaide, vasıf). **İsrâ, aynı fiili bu kez **melekler** için kullanıyor — yani karşılaştırmanın ölçüsü olarak.**
+**Ve fiil kaydedilmeye değer: *yemşûne* (yürüyorlar).** **`025-furkan.md` 25/7, 25/20 ve 25/63'te bu fiilin üç geçişi tablolanmıştı** (itiraz, kaide, vasıf). **İsrâ, aynı fiili bu kez melekler için kullanıyor — yani karşılaştırmanın ölçüsü olarak.**
 
 **Ve sûrenin otuz yedinci ayetinde aynı fiil bir yasakta geçmişti: *ve lâ temşi fi'l-ardı merahâ*.** **Sûre, yürüme fiilini iki ayrı işte kullanıyor: bir yasakta ve bir varsayımda.**
 
@@ -2493,7 +2493,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu bir gözlem olarak kaydediyorum:** sûre aynı itiraza (49 ve 98'de birebir aynı lafızla tekrarlanıyor) **iki ayrı delille** cevap veriyor — biri kişinin kendi geçmişi, öteki kâinatın büyüklüğü.
 
-**Ve itirazın birebir tekrarı kaydedilmelidir:** *e-izâ künnâ ızâmen ve rufâten e-innâ le-meb'ûsûne halkan cedîdâ* — **49. ve 98. ayetlerde aynı cümle.** **Elli ayet arayla iki kez.** Bu, sûre içinde doğrulanabilir bir tekrardır.
+**Ve itirazın birebir tekrarı kaydedilmelidir:** *e-izâ künnâ ızâmen ve rufâten e-innâ le-meb'ûsûne halkan cedîdâ* — **49. ve 98. ayetlerde aynı cümle.** **Kırk dokuz ayet arayla iki kez.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
 **وَجَعَلَ لَهُمْ أَجَلًا لَّا رَيْبَ فِيهِ** — *ecel*: belirlenmiş süre. **Kök `035-fatir.md` 35/45'te (*yüahhıruhüm ilâ ecelin müsemmâ*) ve `031-lokman.md` 31/29'da işlendi.** **Tekrarlamıyorum.**
 
@@ -2564,7 +2564,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | *Benî İsrâîl* (2, 4) | *Benî İsrâîl* (101, 104) |
 | *Fe-izâ câe va'dü'l-âhıra* (7) | *Fe-izâ câe va'dü'l-âhıra* (104) |
 
-**Üçüncü satırdaki ifade **birebir aynıdır**: *fe-izâ câe va'dü'l-âhırati*.** **Sûrenin iki ucunda aynı cümle.**
+**Üçüncü satırdaki ifade birebir aynıdır: *fe-izâ câe va'dü'l-âhırati*.** **Sûrenin iki ucunda aynı cümle.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu birebir tekrardır:** sûre, ikinci ayette açtığı dosyayı yüz dördüncü ayette kapatıyor. **Ve kapanışın kelimesi kaydedilmeye değer: *lefîfâ* — "hep bir arada, karışık olarak".**
 
@@ -2777,7 +2777,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Üçüncüsü kaydedilmeye değer ve dilciler üzerinde durur.**
 
-**Terkip: *veliyyün **mine'z-zülli*** — "düşkünlükten (dolayı) bir dost".**
+**Terkip: *veliyyün mine'z-zülli* — "düşkünlükten (dolayı) bir dost".**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ayet dostluğu değil, **dostluğun sebebini** olumsuzluyor. **Yani "yardımcısı yoktur" denmiyor; "acizliğinden dolayı yardımcıya ihtiyaç duymamıştır" deniyor.**
 
@@ -2877,15 +2877,15 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | 42 | *Le'btegav ilâ zi'l-arş* cümlesinin anlamı |
 | 45 | *Hicâben mestûrâ* terkibi |
 | 60 | *Er-rü'yâ* ve *eş-şeceratü'l-mel'ûne* neye işaret ediyor |
-| 64 | *Şârikhüm fi'l-emvâli ve'l-evlâd*'ın kapsamı |
 | 62 | *Le-ahtenikenne* fiilinin iki anlamı |
+| 64 | *Şârikhüm fi'l-emvâli ve'l-evlâd*'ın kapsamı |
 | 70 | *Alâ kesîrin mimmen halaknâ* — sınır mı, kapsam mı |
 | 71 | *Bi-imâmihim* — önder mi, kitap mı |
 | 78 | *Dülûki'ş-şems* — zeval mi, gurup mu |
 | 79 | *Makāmen mahmûdâ*'nın neye işaret ettiği |
 | 80 | Duanın hangi olayla ilgili olduğu |
-| **85** | ***Rûh* nedir — kesin bilgi yoktur; ayetin kendisi bilgi sınırını koyuyor** |
 | 84 | *Şâkile* — yol mu, mizaç mı |
+| **85** | ***Rûh* nedir — kesin bilgi yoktur; ayetin kendisi bilgi sınırını koyuyor** |
 | 101 | Dokuz âyetin hangileri olduğu |
 | 110 | Ses ölçüsünün namazda kıraatle mi, dua ile mi ilgili olduğu |
 

@@ -1,8 +1,14 @@
 import Link from "next/link";
+import { ROUTES } from "@/lib/i18n";
+import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Kullanım koşulları",
   description: "LLM Tefsir Project'i kullanırken geçerli koşullar.",
+  alternates: {
+    canonical: ROUTES.tr.terms,
+    ...alternates({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }),
+  },
 };
 
 const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";

@@ -4,7 +4,7 @@ Yirmi ayet. Mekkî sayılır; ancak son ayet (20) hakkında ihtilaf vardır ve b
 
 Sûrenin adı ilk kelimesinden gelir: **el-Müzzemmil** — "örtüsüne bürünen". Ad, metinde geçtiği haliyle ve tek geçtiği yerden alınmıştır.
 
-Bu sûre, kendisinden sonra gelecek olan **Müddessir** ile birlikte okunmayı gerektiriyor. İkisi de aynı kalıpla açılıyor, ikisi de aynı muhataba, aynı halde sesleniyor, ve ikisi de aynı emirle başlıyor. Bu ikizlik ayrı bir bölümde (sûre sonunda ve 074-muddessir.md'de) ayrıntılandırılacak; ama baştan bilinmesi gereken şudur: **Kur'an'da Peygamber'e, adıyla veya görev adıyla değil, o anda içinde bulunduğu bedensel halle seslenilen iki yer vardır — ve ikisi bu iki sûrenin ilk ayetidir.**
+Bu sûre, kendisinden sonra gelecek olan **Müddessir** ile birlikte okunmayı gerektiriyor. İkisi de aynı kalıpla açılıyor, ikisi de aynı muhataba, aynı halde sesleniyor, ve ikisi de aynı emirle başlıyor. Bu ikizlik ayrı bir bölümde (sûre sonunda ve `074-muddessir.md`'de) ayrıntılandırılacak; ama baştan bilinmesi gereken şudur: **Kur'an'da Peygamber'e, adıyla veya görev adıyla değil, o anda içinde bulunduğu bedensel halle seslenilen iki yer vardır — ve ikisi bu iki sûrenin ilk ayetidir.**
 
 ## Sûrenin iskeleti
 

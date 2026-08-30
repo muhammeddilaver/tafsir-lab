@@ -649,7 +649,7 @@ Bu kök Kur'an'da birkaç yerde daha geçer ve hepsinde aynı işi görür: **do
 
 **Âl-i İmrân 3/78:** *"Onlardan bir grup vardır ki, Kitab'ı okurken **dillerini eğip bükerler** (*yelvûne elsinetehüm bi'l-kitâb*); onu Kitap'tan sanasınız diye. Oysa o Kitap'tan değildir."*
 
-**Nisâ 4/135:** *"...Eğer **eğer bükerseniz** (*telvû*) ya da yüz çevirirseniz, bilin ki Allah yaptıklarınızdan haberdardır."* — Bu ayet **şahitlik** bağlamındadır.
+**Nisâ 4/135:** *"...Eğer **eğip bükerseniz** (*telvû*) ya da yüz çevirirseniz, bilin ki Allah yaptıklarınızdan haberdardır."* — Bu ayet **şahitlik** bağlamındadır.
 
 Şimdi üç kullanımı yan yana koyun:
 
@@ -675,7 +675,7 @@ Ve iki kavram arasında bir yoğunluk sırası var:
 
 **Ve bir başka bağ:** Mücâdele sûresinde (58/8) münafıkların Peygamber'e gelirken selamı bozmalarından söz edilir — *"Sana geldiklerinde, Allah'ın seni selamlamadığı bir biçimde selamlarlar."* Aynı yapı: *ve izâ câûke*. Münâfikûn 63/1 de aynı kalıpla açılır: *izâ câeke'l-münâfikûn*.
 
-İki sûrede de anlatılan şey, bir **jestin bükülmesi**dir: birinde selam, ötekinde baş hareketi. 058-mucadele.md'de bu ayrıntılı olarak ele alınıyor; oraya bakılabilir.
+İki sûrede de anlatılan şey, bir **jestin bükülmesi**dir: birinde selam, ötekinde baş hareketi. `058-mucadele.md`'de bu ayrıntılı olarak ele alınıyor; oraya bakılabilir.
 
 ### وَرَأَيْتَهُمْ يَصُدُّونَ — "yüz çevirdiklerini görürsün"
 
@@ -922,7 +922,7 @@ Bu, sûrenin bir sonraki ayetiyle de bağlantılı. Orada da benzer bir hesap ha
 
 ## 63/8 — يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
 
-*Yekūlûne le-in raa'nâ ile'l-Medîneti le-yuhricenne'l-eazzü minhe'l-ezell. Ve lillâhi'l-izzetü ve li-rasûlihî ve li'l-mü'minîne ve lâkinne'l-münâfikīne lâ ya'lemûn*
+*Yekūlûne le-in reca'nâ ile'l-Medîneti le-yuhricenne'l-eazzü minhe'l-ezell. Ve lillâhi'l-izzetü ve li-rasûlihî ve li'l-mü'minîne ve lâkinne'l-münâfikīne lâ ya'lemûn*
 
 "'Medine'ye dönersek, üstün olan aşağı olanı oradan mutlaka çıkaracaktır' diyorlar. Oysa üstünlük Allah'ın, elçisinin ve müminlerindir; ama münafıklar bilmezler."
 
@@ -950,7 +950,7 @@ Kökün iki dalı arasındaki bağ önemli: sert olan aşınmaz, aşınmayan aza
 
 **ذ-ل-ل** kökü: yumuşaklık, uysallık, boyun eğmişlik.
 
-Ve bu kökün Kur'an'daki en somut kullanımı Bakara sûresindedir. Bakara 2/71'de, kesilmesi istenen ineğin nitelikleri sayılırken: **لَا ذَلُولٌ تُثِيرُ الْأَرْضَ** — "boyunduruğa koşulmamış, toprağı sürmemiş". Bu bölüm 002-bakara.md'de ele alındı ve orada tablo şöyle kaydedilmişti: *"Boyunduruğa koşulmamış, tarla sürmemiş, ekin sulamamış, kusursuz, alacasız — neredeyse tek bir hayvan."*
+Ve bu kökün Kur'an'daki en somut kullanımı Bakara sûresindedir. Bakara 2/71'de, kesilmesi istenen ineğin nitelikleri sayılırken: **لَا ذَلُولٌ تُثِيرُ الْأَرْضَ** — "boyunduruğa koşulmamış, toprağı sürmemiş". Bu bölüm `002-bakara.md`'de ele alındı ve orada tablo şöyle kaydedilmişti: *"Boyunduruğa koşulmamış, tarla sürmemiş, ekin sulamamış, kusursuz, alacasız — neredeyse tek bir hayvan."*
 
 **ذَلُول** (*zelûl*), **alıştırılmış, evcilleştirilmiş, boyunduruğa girmiş hayvan**dır. Kökün somut anlamı budur.
 
@@ -1487,7 +1487,7 @@ Münâfikûn 63/3'te ise mühür var — sabitlenmiş bir biçim. Yani Bakara s�
 
 **Dört: bağışlanma kapısının mutlak kapanışı.** Altıncı ayet hakkında Nisâ 4/146'daki istisna kaydedildi; hüküm, o hal üzerinde ısrar edildiğinde geçerlidir.
 
-## Bugüne bakan yönü
+### Bugüne bakan yönü
 
 **Bir. Doğru söz, ölçü değildir.** Sûrenin ilk ayetindeki ayrım — söylenen doğru, şahitlik yalan — bugün en çok işleyen tespittir. Bir cümlenin doğruluğu, onu söyleyen hakkında hiçbir şey söylemez. Ve bu, doğru cümlelerin ucuz olduğu bir dönemde daha da geçerli: doğru şeyleri söylemek artık bir konumun göstergesi değil.
 

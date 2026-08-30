@@ -158,7 +158,7 @@
 
 "**Hepinizin dönüşü O'nadır. Bu, Allah'ın gerçek bir vaadidir.** O, yaratmayı başlatır, sonra onu tekrarlar — iman edip sâlih ameller işleyenleri **adaletle** ödüllendirmek için."
 
-**مَرْجِع** — kök **ر-ج-ع**: dönmek. **Kelime sûrede üç kez geçiyor ve sayılabilir bir tekrardır:**
+**مَرْجِع** — kök **ر-ج-ع**: dönmek. **Kelime sûrede dört kez geçiyor ve sayılabilir bir tekrardır:**
 
 | Ayet | İfade |
 |---|---|
@@ -280,7 +280,7 @@
 
 ### دَعْوَىٰهُمْ فِيهَا — cennettekilerin dili
 
-**Ayet, cennettekilerin **konuşmasını** tarif ediyor ve üç cümle sayıyor. Bu, kaydedilmeye değer bir seçimdir: nimet değil, *söz* anlatılıyor.**
+**Ayet, cennettekilerin konuşmasını tarif ediyor ve üç cümle sayıyor. Bu, kaydedilmeye değer bir seçimdir: nimet değil, *söz* anlatılıyor.**
 
 | Sıra | Cümle | Ne |
 |---|---|---|
@@ -488,7 +488,7 @@
 
 **Ahkāf'ta sınırlanan bilgi, Yûnus'ta yetkidir.** **Bunu bir gözlem olarak kaydediyorum: aynı cümle iki ayrı sınırın gerekçesi olarak kullanılıyor.**
 
-**Ve cümlenin kalıbı kaydedilmeye değer: *in ettebiu **illâ** mâ yûhâ ileyy* — kasr (sınırlama) kalıbı.** *İn* burada nâfiyedir (olumsuzluk edatı), *illâ* istisnayı getiriyor. **Yani "şuna da uyarım, buna da" değil: uyulan tek şey belirtiliyor.**
+**Ve cümlenin kalıbı kaydedilmeye değer: *in ettebiu illâ mâ yûhâ ileyy* — kasr (sınırlama) kalıbı. *İn* burada nâfiyedir (olumsuzluk edatı), *illâ* istisnayı getiriyor. Yani "şuna da uyarım, buna da" değil: uyulan tek şey belirtiliyor.**
 
 ### Sûrenin son ayetiyle bağ
 
@@ -525,7 +525,7 @@
 
 **ف-ر-ي kökü:** bir şeyi kesip biçmek, yarmak; deriyi kesip biçimlendirmek. **Ve *iftirâ*, dilcilerce bu resimden açıklanır: sözü keserek, biçerek uydurmak.**
 
-**Kök sûrede altı yerde geçiyor** (17, 30, 37, 38, 59, 60, 69) **ve bu, sûrenin sayılabilir omurgalarından biridir.** Tabloyu son bölümde topluca vereceğim.
+**Kök sûrede yedi yerde geçiyor** (17, 30, 37, 38, 59, 60, 69) **ve bu, sûrenin sayılabilir omurgalarından biridir.** Tabloyu son bölümde topluca vereceğim.
 
 ---
 
@@ -535,7 +535,7 @@
 
 ### أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ — cevabın biçimi
 
-**Cevap, iddianın içeriğine değil **bilgi kaynağına** gidiyor.**
+**Cevap, iddianın içeriğine değil bilgi kaynağına gidiyor.**
 
 **Cümlenin mantığı kaydedilmelidir:** eğer böyle bir şefaat yetkisi olsaydı, Allah bunu bilirdi. **Bilmediği bir şeyi O'na bildirdiğinizi mi sanıyorsunuz?** Yani iddia, kendi kendini imkânsız kılıyor.
 
@@ -545,7 +545,7 @@
 
 ### Üçüncü ayetle bağ
 
-**Üçüncü ayet şefaati **izne** bağlamıştı. On sekizinci ayet, o iznin bulunmadığı yerde ne olduğunu gösteriyor.**
+**Üçüncü ayet şefaati izne bağlamıştı. On sekizinci ayet, o iznin bulunmadığı yerde ne olduğunu gösteriyor.**
 
 | Ayet | Şefaat hakkında |
 |---|---|
@@ -617,7 +617,7 @@
 
 "**İnsanlara, dokunan bir sıkıntının ardından bir rahmet tattırdığımızda, bir de bakarsın âyetlerimiz hakkında bir tuzakları var.** De ki: '**Allah tuzak kurmakta daha hızlıdır.**' Elçilerimiz, kurduğunuz tuzakları yazıyorlar."
 
-**Ayet, on ikinci ayetteki portrenin **toplumsal** karşılığıdır.**
+**Ayet, on ikinci ayetteki portrenin toplumsal karşılığıdır.**
 
 | Ayet | Özne | Sıkıntıdan sonra |
 |---|---|---|
@@ -664,9 +664,9 @@
 
 ### Birinci fark: verilen söz
 
-**Öteki iki sûrede dua vardır, **taahhüt yoktur**. Yûnus'ta dua bir yemin cümlesiyle sürüyor:**
+**Öteki iki sûrede dua vardır, taahhüt yoktur. Yûnus'ta dua bir yemin cümlesiyle sürüyor:**
 
-***Le-in enceytenâ min hâzihî **le-nekûnenne** mine'ş-şâkirîn*** — "bizi bundan kurtarırsan **mutlaka** şükredenlerden oluruz."
+***Le-in enceytenâ min hâzihî le-nekûnenne mine'ş-şâkirîn* — "bizi bundan kurtarırsan mutlaka** şükredenlerden oluruz."
 
 **Cümlenin kuruluşu kaydedilmelidir:** *le-in* (yemin lâmı + şart edatı) ile açılıyor, cevap *le-* + **nûn-i te'kîd** ile geliyor (*le-nekûnenne*). **Arapçada bu, sözün en pekiştirilmiş hâlidir.**
 
@@ -718,11 +718,11 @@
 
 **Ve kaydedilmesi gereken metin verisi şudur:** geçiş, tam olarak ***ve cerayne bihim*** kelimesinde — yani **gemi hareket ettiği anda** oluyor. **Bunu bir dizim gözlemi olarak kaydediyorum: kıyıda "siz", denizde "onlar".**
 
-**Ve yirmi üçüncü ayet, sahne bittikten sonra **yeniden** ikinci şahsa dönüyor:** *yâ eyyühe'n-nâsü innemâ bağyüküm **alâ enfüsiküm***. **Yani daire kapanıyor: II. şahıs → III. şahıs → II. şahıs.** **Sahne uzaklaştırılıyor, sonra hüküm doğrudan muhataba veriliyor.** Bu, kendi okumam olarak kaydettiğim bir dizim gözlemidir ve dayanağı ayetlerin şahıs zincirinin kendisidir.
+**Ve yirmi üçüncü ayet, sahne bittikten sonra yeniden ikinci şahsa dönüyor: *yâ eyyühe'n-nâsü innemâ bağyüküm alâ enfüsiküm*. Yani daire kapanıyor: II. şahıs → III. şahıs → II. şahıs. Sahne uzaklaştırılıyor, sonra hüküm doğrudan muhataba veriliyor.** Bu, kendi okumam olarak kaydettiğim bir dizim gözlemidir ve dayanağı ayetlerin şahıs zincirinin kendisidir.
 
 **رِيحٌ عَاصِفٌ** — **ع-ص-ف kökü `077-murselat.md`'de (*el-âsıfât*) ve `105-fil.md`'de işlendi;** ve orada kaydedilmişti: ***âsıf* Arapçada neredeyse yalnız rüzgâr için kullanılır.** **Oraya dayanıyorum.**
 
-**Ve zıddıyla birlikte geldiği kaydedilmelidir: *rîhın **tayyibetin*** (hoş rüzgâr) ile *rîhun **âsıf*** (şiddetli rüzgâr).** **Aynı kelime, iki sıfat.** **Gemiyi yürüten de batıracak olan da rüzgârdır.**
+**Ve zıddıyla birlikte geldiği kaydedilmelidir: *rîhın tayyibetin* (hoş rüzgâr) ile *rîhun âsıf* (şiddetli rüzgâr).** **Aynı kelime, iki sıfat.** **Gemiyi yürüten de batıracak olan da rüzgârdır.**
 
 **وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِم** — ***zann* kelimesi burada "kesin kanaat" anlamındadır.** **Dilciler kökün hem "sanmak" hem "kesin bilmek" anlamı taşıdığını kaydeder ve ayrımı bağlama bırakır.** **Bu, sûrenin otuz altıncı ayetindeki *zann* ile aynı kök, farklı kullanımdır ve o bölümde ele alacağım.**
 
@@ -787,7 +787,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki cümlenin nesneleridir:** Kehf'te yanılgı **bahçe hakkında**dır — "o yok olmaz". **Yûnus'ta yanılgı *kendileri* hakkındadır** — "biz ona gücümüz yetiyor". **Yani biri şeyin ömrü, öteki sahibin yetkisi konusunda yanılıyor.**
 
-**Ve *kādirûn* kelimesi kaydedilmelidir: ق-د-ر kökü.** **Aynı kök beşinci ayette Allah için kullanılmıştı: *ve **kaddera**hû menâzil* — "ona konak yerleri takdir etti".** **Sûre içinde aynı kök, biri gerçek biri sanılan bir güç için.** Bunu bir lafız gözlemi olarak kaydediyorum.
+**Ve *kādirûn* kelimesi kaydedilmelidir: ق-د-ر kökü. Aynı kök beşinci ayette Allah için kullanılmıştı: *ve kadderahû menâzil* — "ona konak yerleri takdir etti". Sûre içinde aynı kök, biri gerçek biri sanılan bir güç için.** Bunu bir lafız gözlemi olarak kaydediyorum.
 
 **Ve Kehf ile Yûnus arasındaki bağı destekleyen bir veri daha var:** Kehf 18/45'teki temsilin hemen ardından *el-mâlü ve'l-benûne **zînetü**'l-hayâti'd-dünyâ* geliyordu — **süs kelimesi orada da var.** **Yûnus'ta *zînet* yeryüzüne, Kehf'te mal ve çocuklara veriliyor.**
 
@@ -884,7 +884,7 @@
 
 **Ve simetrinin bozulduğu tek yer, karşılığın ölçüsüdür — ve bu kasıtlıdır:**
 
-**İyiliğin karşılığı *el-hüsnâ ve ziyâde* (daha güzeli **ve fazlası**), kötülüğün karşılığı *bi-mislihâ* (**dengi**).**
+**İyiliğin karşılığı *el-hüsnâ ve ziyâde* (daha güzeli ve fazlası), kötülüğün karşılığı *bi-mislihâ* (dengi).**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ölçü kelimesidir:** ayet, karşılığı iki yönde eşit tutmuyor. **İyilik tarafında bir *artı* var, kötülük tarafında yok.** Ve bu, Kur'an'da başka yerlerde açıkça söylenir (En'âm 6/160). **Sûre burada onu bir simetri bozarak gösteriyor.**
 
@@ -910,7 +910,7 @@
 
 **مَّا كُنتُمْ إِيَّانَا تَعْبُدُونَ** — **dizim kaydedilmelidir: *iyyânâ* öne alınmış.**
 
-**Arapçada mef'ûlün öne alınması tahsis bildirir.** **Yani cümle "bize kulluk etmiyordunuz" değil daha tam olarak: "**bize** kulluk etmiyordunuz" — başkasına ediyordunuz.**
+**Arapçada mef'ûlün öne alınması tahsis bildirir. Yani cümle "bize kulluk etmiyordunuz" değil daha tam olarak: "bize kulluk etmiyordunuz" — başkasına ediyordunuz.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu takdimdir:** ortakların savunması, kulluğun **hiç olmadığı** değil, **kendilerine yönelmediği** yönündedir. **Ve `034-sebe.md`'de ve `019-meryem.md` 19/81-82'de aynı sahne işlendi:** yöneldiği sanılan taraf, yönelmeyi tanımıyor.
 
@@ -943,7 +943,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve dördüncüsü, üçüncü ayetin fiilidir.** **`035-fatir.md` 35/3'te aynı soru kalıbı (*hel min hâlikın ğayrullâhi yerzükuküm*) işlendi ve orada kaydedilmişti: soru soyut bir yaratıcılık tartışması açmıyor — sürüp giden bir işin kim tarafından yürütüldüğünü soruyor.** **Oraya dayanıyorum.**
 
-**Buraya ait olan fark: Fâtır'da soru tek, Yûnus'ta dört.** **Ve dördüncü soru, üçüncü ayette **bildirilen** şeyi soruya çeviriyor.** Sûre içinde doğrulanabilir bir örgüdür.
+**Buraya ait olan fark: Fâtır'da soru tek, Yûnus'ta dört. Ve dördüncü soru, üçüncü ayette bildirilen şeyi soruya çeviriyor.** Sûre içinde doğrulanabilir bir örgüdür.
 
 **فَسَيَقُولُونَ ٱللَّهُ** — "**'Allah' diyecekler.**"
 
@@ -1015,7 +1015,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin sırasıdır:** Necm'de cümle bir **adlandırma** meselesini kapatıyordu; **Yûnus'ta bir *konum* meselesini kapatıyor.** Sûre, "üçüncü bir yer yok" dedikten sonra, insanların o yerde tuttuğu şeyin adını koyuyor: **zan.**
 
-**ي-غ-ن-ي (غ-ن-ي) kökü:** **yeterli olmak, başkasına muhtaç bırakmamak.** **Yani cümlenin lafzî anlamı: zan, haktan hiçbir şeyin *yerini doldurmaz*.** **Ve kök yirmi dördüncü ayette geçmişti: *ke-en lem **tağne** bi'l-ems*.** **Aynı kök, biri "yeterli olmak" öteki "yerinde durmak" anlamında.**
+**ي-غ-ن-ي (غ-ن-ي) kökü: yeterli olmak, başkasına muhtaç bırakmamak. Yani cümlenin lafzî anlamı: zan, haktan hiçbir şeyin *yerini doldurmaz*. Ve kök yirmi dördüncü ayette geçmişti: *ke-en lem tağne bi'l-ems*. Aynı kök, biri "yeterli olmak" öteki "yerinde durmak" anlamında.**
 
 ---
 
@@ -1252,7 +1252,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve kaydedilmesi gereken şudur: pişmanlık *var*.** **Sahnenin gösterdiği şey pişmanlığın yokluğu değil, işe yaramaması.** **`039-zumer.md` 39/56-58'de üç mazeret tablolanmıştı** (pişmanlık → sorumluluğu devretme → geri dönme isteği) **ve orada kaydedilmişti: sıra önce pişmanlıktır.** **Yûnus, o sıranın ilk basamağını tek başına veriyor.**
 
-**أَلَآ إِنَّ …** — **ve *elâ* edatı sûrede üç kez geçiyor** (55'te iki kez, 62'de bir kez, 66'da bir kez). **Arapçada *elâ* dikkat çekme edatıdır ve ardından gelen cümleyi öne çıkarır.**
+**أَلَآ إِنَّ …** — **ve *elâ* edatı sûrede dört kez geçiyor** (55'te iki kez, 62'de bir kez, 66'da bir kez). **Arapçada *elâ* dikkat çekme edatıdır ve ardından gelen cümleyi öne çıkarır.**
 
 | Ayet | *Elâ* ile başlayan cümle |
 |---|---|
@@ -1336,7 +1336,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ayet bir yetki sorusudur ve sorunun biçimi kaydedilmelidir: *âllâhu ezine leküm* — "Allah mı izin verdi?"**
 
-**Ve *izin* kelimesi sûrenin üçüncü ayetinden geliyor: *illâ min ba'di **iznih***.** **Aynı kelime, biri şefaat biri hüküm için.** Bunu bir lafız gözlemi olarak kaydediyorum.
+**Ve *izin* kelimesi sûrenin üçüncü ayetinden geliyor: *illâ min ba'di iznih*.** **Aynı kelime, biri şefaat biri hüküm için.** Bunu bir lafız gözlemi olarak kaydediyorum.
 
 **USLUP gereği bir kayıt:** bu tefsirde fıkhî hüküm verilmez. **Ayetin lafzî olarak söylediği şey, helâl-haram belirleme yetkisinin nereden alındığıdır** — belirli bir yiyecek listesi hakkında hüküm kurmuyorum.
 
@@ -1388,7 +1388,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Aynı cümle Yûnus'ta da vardır ve aynı sonucu doğurur.** **Fennî mucize avcılığı yapmıyorum.**
 
-**Ve `099-zilzal.md` 99/7-8'de terkip **amelin ölçüsü** olarak işlenmişti;** orada bu ayet de anılmıştı. **Tablo tamamlanabilir:**
+**Ve `099-zilzal.md` 99/7-8'de terkip amelin ölçüsü olarak işlenmişti; orada bu ayet de anılmıştı. Tablo tamamlanabilir:**
 
 | Yer | *Miskāle zerra* neyi ölçüyor |
 |---|---|
@@ -1600,7 +1600,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Üç okuma da nakledilir; tercih dayatmıyorum.**
 
-**Ve ortak nokta kaydedilmeye değer: ayet, iman etmemeyi *delilin yetersizliğine* değil, **önceden alınmış bir tutuma** bağlıyor.** **Ve bu, otuz dokuzuncu ayetin teşhisiyle örtüşüyor: bilgisini kuşatamadıkları şeyi yalanladılar.**
+**Ve ortak nokta kaydedilmeye değer: ayet, iman etmemeyi *delilin yetersizliğine* değil, önceden alınmış bir tutuma bağlıyor. Ve bu, otuz dokuzuncu ayetin teşhisiyle örtüşüyor: bilgisini kuşatamadıkları şeyi yalanladılar.**
 
 **نَطْبَعُ عَلَىٰ قُلُوبِ ٱلْمُعْتَدِينَ** — **ط-ب-ع kökü:** **mühürlemek, damga basmak.** **Kök dizinde işlendi** (`047-muhammed.md` 47/16, `045-casiye.md` 45/23); **tekrarlamıyorum.**
 
@@ -1621,7 +1621,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 | **2** | *el-Kâfirûn* | *İnne hâzâ le-**sâhırun** mübîn* |
 | **76** | Fir'avn ve çevresi | *İnne hâzâ le-**sihrun** mübîn* |
 
-**İki cümle arasındaki tek fark, birinin **kişiyi** öbürünün **getirileni** nitelemesidir.**
+**İki cümle arasındaki tek fark, birinin kişiyi öbürünün getirileni nitelemesidir.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin lafız aynılığıdır:** sûre, kıssayı bir hikâye olarak değil, **ikinci ayetteki cümlenin tarihteki örneği** olarak veriyor. **Ve bu okumayı destekleyen bir veri daha var: otuz dokuzuncu ayet zaten *kezâlike kezzebe'llezîne min kablihim* demişti.**
 
@@ -1670,7 +1670,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **İki okuma da nakledilir; tercih dayatmıyorum. Anlam her ikisinde de aynı yere varıyor: getirilen şey adlandırılıyor.**
 
-**Ve dizimde kaydedilecek olan şudur: *es-sihru* **belirli** geliyor (marife).** **Yetmiş altıncı ayette Fir'avn'ın adamları *sihrun mübîn* (belirsiz) demişti.** **Aynı kelime, biri belirsiz biri belirli.**
+**Ve dizimde kaydedilecek olan şudur: *es-sihru* belirli geliyor (marife). Yetmiş altıncı ayette Fir'avn'ın adamları *sihrun mübîn* (belirsiz) demişti. Aynı kelime, biri belirsiz biri belirli.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı belirlilik farkıdır:** onlar hakka "bir büyü" dediler; **Mûsâ, gerçekten büyü olan şeyi *belirli* olarak adlandırıyor.** **Yani kelime, ait olduğu yere iade ediliyor.**
 
@@ -1682,11 +1682,11 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ** — **ve iki zıt kök aynı cümlede: ص-ل-ح ve ف-س-د.**
 
-**Cümlenin dizimi kaydedilmelidir:** ayet "bozguncuların işi bozuktur" demiyor; **"Allah onu düzeltmez" diyor.** **Yani hüküm, işin niteliği hakkında değil, **desteklenmemesi** hakkında.**
+**Cümlenin dizimi kaydedilmelidir: ayet "bozguncuların işi bozuktur" demiyor; "Allah onu düzeltmez" diyor. Yani hüküm, işin niteliği hakkında değil, desteklenmemesi hakkında.**
 
 **وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِ** (82) — **fiil ve mef'ûl aynı kökten (ح-ق-ق): *yuhıkku'l-hakk*.**
 
-**IV. bâb: bir şeyi gerçekleştirmek, sabit kılmak.** **Yani cümle "hakkı hak yapar" değil, "hakkı **yerine oturtur**" demektir.**
+**IV. bâb: bir şeyi gerçekleştirmek, sabit kılmak. Yani cümle "hakkı hak yapar" değil, "hakkı yerine oturtur" demektir.**
 
 **Ve aracı belirtiliyor: *bi-kelimâtihî* — sözleriyle.** **Ve altmış dördüncü ayette aynı kelime geçmişti: *lâ tebdîle li-**kelimâti**llâh*.** **Sûre içinde doğrulanabilir bir bağdır: değişmeyen söz, hakkı gerçekleştiren araçtır.**
 
@@ -1719,7 +1719,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **فِتْنَة** — kök **ف-ت-ن**: **altını ateşte eritip saf olanı ayırmak.** **Kelime dizinde işlendi;** çekirdek anlam **sınama, yakıcı ayıklama**dır.
 
-**Ve duanın kuruluşu kaydedilmelidir: *lâ tec'alnâ **fitneten li'l-kavmi'z-zâlimîn*** — "bizi zalim topluluk için bir fitne kılma."**
+**Ve duanın kuruluşu kaydedilmelidir: *lâ tec'alnâ fitneten li'l-kavmi'z-zâlimîn* — "bizi zalim topluluk için bir fitne kılma."**
 
 **İfadenin anlamı üzerinde klasik tefsirlerde ihtilaf vardır:**
 
@@ -1731,7 +1731,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Üç okuma da nakledilir; tercih dayatmıyorum.**
 
-**Ve seksen üçüncü ayetteki kelime ile bağ kaydedilmelidir: orada korkulan şey *en **yeftinehüm*** idi.** **Yani seksen üçüncü ayette korkulan şey, seksen beşinci ayette dua konusu oluyor.** Sûre içinde doğrulanabilir bir bağdır.
+**Ve seksen üçüncü ayetteki kelime ile bağ kaydedilmelidir: orada korkulan şey *en yeftinehüm* idi.** **Yani seksen üçüncü ayette korkulan şey, seksen beşinci ayette dua konusu oluyor.** Sûre içinde doğrulanabilir bir bağdır.
 
 **فَعَلَيْهِ تَوَكَّلُوٓا۟** — **ve *tevekkül* sûrede iki kez geçiyor:** yetmiş birinci ayette Nûh'un ağzında (*fe-alallâhi tevekkeltü*), burada Mûsâ'nın ağzında ve kavminin cevabında. **Aynı fiil, iki peygamber, aynı konumda: karşı taraf güçlüyken.**
 
@@ -1815,7 +1815,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 | Ğâfir 40/85 | *Lemmâ raev be'senâ* — **azabı görünce** | *Sünnetallâh* — **süregelen kural** |
 | **Yûnus 10/91** | *Hattâ izâ edrakehü'l-ğarak* — **boğulurken** | *Ve kad **asayte kablü*** — **geçmişteki isyan** |
 
-**Ve Yûnus'un eklediği kaydedilmelidir: gerekçe bir kurala değil, **muhatabın kendi geçmişine** dayandırılıyor.** *Kablü* — "daha önce". **Hüküm, kişiselleştirilmiş olarak veriliyor.**
+**Ve Yûnus'un eklediği kaydedilmelidir: gerekçe bir kurala değil, muhatabın kendi geçmişine dayandırılıyor. *Kablü* — "daha önce". Hüküm, kişiselleştirilmiş olarak veriliyor.**
 
 **Ve elli birinci ayetle bağ burada kapanıyor:** aynı kelime (*e-âl'âne*), aynı kalıp (*ve kad …*). **Sûre, kuralı elli birinci ayette koymuş, doksan birinci ayette uygulamıştı.** **Bu, sûre içinde doğrulanabilir bir örgüdür ve kendi okumam olarak kaydediyorum.**
 
@@ -1883,7 +1883,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 "**İsrâiloğullarını doğruluk yurduna yerleştirdik ve onları temiz şeylerle rızıklandırdık. Kendilerine bilgi gelinceye kadar ayrılığa düşmediler.** Rabbin, ayrılığa düştükleri konuda kıyamet günü aralarında hüküm verecektir."
 
-**مُبَوَّأَ صِدْقٍ** — **ب-و-أ kökü:** **bir yere yerleşmek, konaklamak.** **Ve seksen yedinci ayette aynı kök emir olarak geçmişti: *en **tebevveâ** li-kavmiküm bi-mısra büyûtâ*.**
+**مُبَوَّأَ صِدْقٍ — ب-و-أ kökü: bir yere yerleşmek, konaklamak. Ve seksen yedinci ayette aynı kök emir olarak geçmişti: *en tebevveâ li-kavmiküm bi-mısra büyûtâ*.**
 
 | Ayet | Fiil | Kim yapıyor |
 |---|---|---|
@@ -1896,7 +1896,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ** — "**kendilerine bilgi gelinceye kadar ayrılığa düşmediler.**"
 
-**Cümle şaşırtıcıdır ve dikkatle okunmalıdır: ayrılık, bilginin **gelmesinden sonra** başlıyor.**
+**Cümle şaşırtıcıdır ve dikkatle okunmalıdır: ayrılık, bilginin gelmesinden sonra başlıyor.**
 
 **Klasik tefsirlerde verilen izah şudur ve nakledildiği şekliyle aktarıyorum:** ihtilafın sebebi bilgisizlik değil, **bilgiye rağmen ayrılıktır** — yani ayrılık, delilin bulunmamasından değil, delile karşı tutum almaktan doğuyor.
 
@@ -1963,7 +1963,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ### Sûreye adını veren ayet
 
-**Bu, sûrenin adını aldığı ayettir. Ve kaydedilmesi gereken ilk şey, kıssanın **anlatılmadığı**dır.**
+**Bu, sûrenin adını aldığı ayettir. Ve kaydedilmesi gereken ilk şey, kıssanın anlatılmadığıdır.**
 
 **Yûnus peygamberin kıssası dizinde üç yerde işlendi:**
 
@@ -2048,7 +2048,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 | Sıra | *Fe-**âmenû** fe-metta'nâhüm* | *Lemmâ **âmenû** keşefnâ … ve metta'nâhüm* |
 | Eklenen | — | ***Keşefnâ anhüm azâbe'l-hızyi*** |
 
-**Sâffât'ta yalnız iman ve süre var; Yûnus'ta arada bir **kaldırma** fiili var.** **Yani Yûnus, azabın gelmek üzere olduğunu ima ediyor.**
+**Sâffât'ta yalnız iman ve süre var; Yûnus'ta arada bir kaldırma fiili var. Yani Yûnus, azabın gelmek üzere olduğunu ima ediyor.**
 
 **إِلَىٰ حِينٍ** — ***hîn*: belirsiz bir zaman parçası.** **Ve terkip yetmişinci ayetteki *metâun fi'd-dünyâ* ile aynı işi görüyor: süreyi kayıtlamak.**
 
@@ -2084,7 +2084,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Birincisi: burada sınır bir *haber* değil, bir *soru* olarak konuyor.** *E-fe-ente tükrihü'n-nâs* — "sen mi zorlayacaksın?" **Öteki ayetlerde "sen değilsin" deniyordu; burada soruluyor.**
 
-**İkincisi: burada zorlamanın **imkânsızlığı değil, gereksizliği** gösteriliyor.** **Cümlenin ilk yarısı bunu kuruyor:** *ve lev şâe rabbüke le-âmene men fi'l-ardı küllühüm cemîâ.* **Yani "herkesin iman etmesi" mümkündür — ama o yol seçilmemiştir.**
+**İkincisi: burada zorlamanın imkânsızlığı değil, gereksizliği gösteriliyor. Cümlenin ilk yarısı bunu kuruyor: *ve lev şâe rabbüke le-âmene men fi'l-ardı küllühüm cemîâ.* Yani "herkesin iman etmesi" mümkündür — ama o yol seçilmemiştir.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki cümlenin sırasıdır:** ayet önce **dilemenin yeterli olacağını** söylüyor, sonra **zorlamayı** soruyor. **Yani zorlama, dilemenin yerine geçebilecek bir şey olarak değil, *gereksiz bir taklit* olarak konuyor.**
 
@@ -2150,7 +2150,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟** — "**gelip geçenlerin günlerinin benzeri.**"
 
-***Eyyâm* burada "günler" değil, **başlarına gelenler** anlamındadır.** **Dilciler Arapçada *eyyâmü'l-arab* teriminin savaş ve olayları anlattığını kaydeder:** *yevm*, önemli bir olayın yaşandığı gün. **Bu kullanımı nakledildiği şekliyle aktarıyorum.**
+***Eyyâm* burada "günler" değil, başlarına gelenler anlamındadır. Dilciler Arapçada *eyyâmü'l-arab* teriminin savaş ve olayları anlattığını kaydeder: *yevm*, önemli bir olayın yaşandığı gün. Bu kullanımı nakledildiği şekliyle aktarıyorum.**
 
 **Ve üçüncü ayetteki *sitteti eyyâm* ile aynı kelime.** **Sûre içinde aynı kelime, biri yaratmanın devreleri biri kavimlerin başına gelenler için.**
 
@@ -2158,7 +2158,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ** — "**mü'minleri kurtarmak üzerimize bir haktır.**"
 
-**Ve sûrenin omurga kelimesi burada son kez, en dikkat çekici biçimde geçiyor: *hakkan **aleynâ***.**
+**Ve sûrenin omurga kelimesi burada son kez, en dikkat çekici biçimde geçiyor: *hakkan aleynâ*.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı edattır:** *alâ* Arapçada **yükümlülük** bildirir. **Ayet, kurtarmayı bir vaat olarak değil, *üstlenilmiş bir yükümlülük* olarak adlandırıyor.** **Ve bu, sûrenin *hakk* kelimesini geldiği son yerdir: kelime, tartışılan bir konu olmaktan çıkıp bir taahhüt hâline geliyor.**
 
@@ -2257,7 +2257,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ***Li-* fayda, *alâ* yükümlülük bildirir.** **Yani cümle iki yönü aynı kelimeyle değil, iki ayrı edatla ayırıyor.**
 
-**Ve bu, yirmi üçüncü ayetteki *bağyüküm **alâ** enfüsiküm* ve kırk dördüncü ayetteki *ve lâkinne'n-nâse enfüsehüm yazlimûn* ile aynı hattadır.** **Sûre, sonucu üç kez faile bağlıyor.**
+**Ve bu, yirmi üçüncü ayetteki *bağyüküm alâ enfüsiküm* ve kırk dördüncü ayetteki *ve lâkinne'n-nâse enfüsehüm yazlimûn* ile aynı hattadır. Sûre, sonucu üç kez faile bağlıyor.**
 
 **وَمَآ أَنَا۠ عَلَيْكُم بِوَكِيلٍ** — **ve terkip `039-zumer.md` 39/41 ile aynıdır** (*ve mâ ente aleyhim bi-vekîl*).
 
@@ -2280,7 +2280,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki emrin muhataplarıdır:** aynı süre, karşı taraf için **bekleyiş**, elçi için **sabır** olarak adlandırılıyor. **Aynı zaman, iki ayrı iş.**
 
-**حَتَّىٰ يَحْكُمَ ٱللَّهُ** — **ve sabrın süresi belirtiliyor: hükme kadar.** **Yani sabır süresiz değil, **kayıtlı**.**
+**حَتَّىٰ يَحْكُمَ ٱللَّهُ — ve sabrın süresi belirtiliyor: hükme kadar. Yani sabır süresiz değil, kayıtlı.**
 
 **وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ** — **ve sûrenin ح-ك-م hattı burada kapanıyor.**
 

@@ -202,7 +202,7 @@
 
 **بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ** (41) — "**hayır, yalnız O'nu çağırırsınız; dilerse çağırdığınız sıkıntıyı giderir ve ortak koştuklarınızı unutursunuz.**"
 
-**Bu, dizinde birçok yerde işlenen "tehlikede ihlâs" hattının bir halkasıdır:** `029-ankebut.md` 29/65, `031-lokman.md` 31/32, `010-yunus.md` 10/22-23 (dosya varsa). **Oraya dayanıyorum.**
+**Bu, dizinde birçok yerde işlenen "tehlikede ihlâs" hattının bir halkasıdır:** `029-ankebut.md` 29/65, `031-lokman.md` 31/32, `010-yunus.md` 10/22-23. **Oraya dayanıyorum.**
 
 **En'âm'ın eklediği kaydedilmelidir:** ötekilerde sahne **denizde** kuruluyordu; **burada tehlikenin cinsi belirtilmiyor** (*azâbullâh* ya da *es-sâa*) — **ve fiil geniş zamanla, yani süregelen bir davranış olarak veriliyor.**
 
@@ -212,7 +212,7 @@
 
 ## 6/42-45 — Açılan kapılar
 
-*Ve lekad erselnâ ilâ ümemin min kablike fe-ehaznâhüm bi'l-be'sâi ve'd-darrâi lealllehüm yetedarraûn · Fe-lev lâ iz câehüm be'sünâ tedarraû ve lâkin kaset kulûbühüm · Fe-lemmâ nesû mâ zükkirû bihî fetahnâ aleyhim ebvâbe külli şey'in hattâ izâ ferihû bimâ ûtû ehaznâhüm bağteten fe-izâ hüm müblisûn*
+*Ve lekad erselnâ ilâ ümemin min kablike fe-ehaznâhüm bi'l-be'sâi ve'd-darrâi leallehüm yetedarraûn · Fe-lev lâ iz câehüm be'sünâ tedarraû ve lâkin kaset kulûbühüm · Fe-lemmâ nesû mâ zükkirû bihî fetahnâ aleyhim ebvâbe külli şey'in hattâ izâ ferihû bimâ ûtû ehaznâhüm bağteten fe-izâ hüm müblisûn*
 
 "**Senden önceki ümmetlere de elçiler gönderdik; yalvarsınlar diye onları sıkıntı ve darlıkla yakaladık. Hiç değilse azabımız geldiğinde yalvarsalardı! Fakat kalpleri katılaştı**… **Kendilerine hatırlatılanı unuttuklarında, üzerlerine her şeyin kapılarını açtık. Nihayet verilenlerle sevinip şımardıkları sırada onları ansızın yakaladık ve bütün umutları kesildi.**"
 
@@ -265,7 +265,7 @@
 
 ### Üç reddin sırası
 
-**Cümle üç iddiayı reddediyor ve üçü de `025-furkan.md` 25/7-8'de karşı tarafın **talep ettiği** şeylerdi:**
+**Cümle üç iddiayı reddediyor ve üçü de `025-furkan.md` 25/7-8'de karşı tarafın talep ettiği şeylerdi:**
 
 | Reddedilen | Furkān'daki talep |
 |---|---|
@@ -275,7 +275,7 @@
 
 **İki sûre karşılaştırıldığında görülen şudur ve bunu kendi okumam olarak kaydediyorum:** Furkān'da bu şeyler **istenmişti**; En'âm'da **hiç iddia edilmediği** söyleniyor. **Yani cevap, talebi karşılamak yerine iddianın hiç kurulmadığını bildiriyor.**
 
-**إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ** — **`046-ahkaf.md` 46/9 ve `010-yunus.md` 10/15'te aynı cümle işlendi** (dosya varsa). **Oraya dayanıyorum.**
+**إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ** — **`046-ahkaf.md` 46/9 ve `010-yunus.md` 10/15'te aynı cümle işlendi**. **Oraya dayanıyorum.**
 
 ---
 
@@ -492,7 +492,7 @@
 
 ***Musaddiku'llezî beyne yedeyh* — `035-fatir.md` 35/31 ve `046-ahkaf.md` 46/12'de işlendi;** ***ümmü'l-kurâ* — `042-sura.md` 42/7'de işlendi.** **Oraya dayanıyorum.**
 
-**وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ** (93) — **kalıp bu sûrede dördüncü kez geçiyor** (21, 93, 144, 157). **Ve buradaki iki şık kaydedilmeye değer: yalan uydurmak ve *vahiy geldiğini söylemek*.**
+**وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ** (93) — **kalıp bu sûrede ikinci kez geçiyor** (21, 93). **Ve buradaki iki şık kaydedilmeye değer: yalan uydurmak ve *vahiy geldiğini söylemek*.**
 
 **وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ وَرَآءَ ظُهُورِكُمْ** (94)
 
@@ -523,7 +523,7 @@
 
 **وَجَعَلَ ٱلَّيْلَ سَكَنًا** — **س-ك-ن kökü `048-fetih.md` 48/4'te (*sekîne*) ve `030-rum.md` 30/21'de (*li-teskünû ileyhâ*) işlendi.** **Ve `025-furkan.md` 25/47'de gece *libâs* (elbise) diye anılmıştı.** **Üç sûre, gecenin işlevini üç kelimeyle veriyor: sükûn, elbise, dinlenme.**
 
-**حُسْبَانًا** — **hesap ölçüsü.** **USLUP gereği: buradan modern astronomiye dair bir sonuç çıkarmıyorum;** ayet, güneş ve ayın **zaman ölçmeye elverişli** olmasını bildiriyor — ve bu, `010-yunus.md` 10/5'te de aynı biçimde geçer (dosya varsa).
+**حُسْبَانًا** — **hesap ölçüsü.** **USLUP gereği: buradan modern astronomiye dair bir sonuç çıkarmıyorum;** ayet, güneş ve ayın **zaman ölçmeye elverişli** olmasını bildiriyor — ve bu, `010-yunus.md` 10/5'te de aynı biçimde geçer.
 
 ---
 
@@ -583,7 +583,7 @@
 
 ### Yasağın gerekçesi
 
-**Ayet bir yasak koyuyor ve gerekçesini **sonucuyla** veriyor: *fe-yesübbullâhe advan bi-ğayri ilm*.**
+**Ayet bir yasak koyuyor ve gerekçesini sonucuyla veriyor: *fe-yesübbullâhe advan bi-ğayri ilm*.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı *fâ* harfidir:** yasak, sövmenin kendisinin yanlışlığından önce **doğuracağı karşılığa** bağlanıyor. **Yani ölçü, karşı tarafın tepkisi hesaba katılarak konuyor.**
 
@@ -609,7 +609,7 @@
 
 ***Zuhrufe'l-kavl* — "yaldızlı söz": ز-خ-ر-ف kökü `043-zuhruf.md`'de sûre adı vesilesiyle işlendi.** **Oraya dayanıyorum.**
 
-**Ve *yûhî ba'duhüm ilâ ba'd* ifadesi kaydedilmeye değer: *vahy* kelimesi burada **insanlar arası gizli telkin** için kullanılıyor.** **Kökün "gizli ve hızlı bildirim" anlamı `016-nahl.md` 16/68'de (arı için) işlenmişti (dosya varsa).**
+**Ve *yûhî ba'duhüm ilâ ba'd* ifadesi kaydedilmeye değer: *vahy* kelimesi burada insanlar arası gizli telkin için kullanılıyor. Kökün "gizli ve hızlı bildirim" anlamı `016-nahl.md` 16/68'de (arı için) işlenmişti.**
 
 **أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًا** (114) — ***mufassalen*: ف-ص-ل kökü `041-fussilet.md`'de sûre adı vesilesiyle işlendi.**
 
@@ -623,7 +623,7 @@
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, çoğunluğu **bir ölçü olarak** açıkça reddediyor. **Ve gerekçesi bilgiye bağlanıyor: *in yettebiûne ille'z-zann*.**
 
-**ظ-ن-ن kökü `045-casiye.md`'nin bütün ekseniydi** (45/24, 45/32) **ve `041-fussilet.md` 41/23'te zannın helâk sebebi olduğu, `010-yunus.md` 10/36'da (*inne'z-zanne lâ yuğnî mine'l-hakkı şey'â*) aynı hüküm işlendi (dosya varsa).** **Oraya dayanıyorum.**
+**ظ-ن-ن kökü `045-casiye.md`'nin bütün ekseniydi** (45/24, 45/32) **ve `041-fussilet.md` 41/23'te zannın helâk sebebi olduğu, `010-yunus.md` 10/36'da (*inne'z-zanne lâ yuğnî mine'l-hakkı şey'â*) aynı hüküm işlendi.** **Oraya dayanıyorum.**
 
 ---
 
@@ -633,7 +633,7 @@
 
 **İki ayetin bağlantısı kaydedilmeye değer ve bunu kendi okumam olarak veriyorum:** 116. ayette **çoğunluğa uymanın** reddedildiği söylenmişti. **117'de hükmün kime ait olduğu belirtiliyor, 118'de ise somut bir uygulama geliyor.**
 
-**Yani sûre, soyut bir ölçü tartışmasından (çoğunluk mu, bilgi mi) **sofradaki bir karara** iniyor.**
+**Yani sûre, soyut bir ölçü tartışmasından (çoğunluk mu, bilgi mi) sofradaki bir karara iniyor.**
 
 **Ve *fe-külû* emri, sûrenin son bloğunun kapısıdır:** 119-121'de gerekçe verilecek, 136-150'de uydurulan yasaklar ele alınacak, 151-153'te asıl liste okunacak.
 
@@ -807,7 +807,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 ***Bağy* kökü `042-sura.md` 42/14 ve `049-hucurat.md` 49/9'da işlendi.**
 
-**فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍ وَٰسِعَةٍ** (147) — **ve blok, yalanlama karşısında **rahmet** hatırlatmasıyla kapanıyor.** **Bu, sûrenin 12 ve 54. ayetlerindeki *ketebe alâ nefsihi'r-rahme* ile aynı hattadır.**
+**فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمْ ذُو رَحْمَةٍ وَٰسِعَةٍ (147) — ve blok, yalanlama karşısında rahmet hatırlatmasıyla kapanıyor. Bu, sûrenin 12 ve 54. ayetlerindeki *ketebe alâ nefsihi'r-rahme* ile aynı hattadır.**
 
 ---
 
@@ -856,7 +856,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 **Bir.** *Lâ takrabû* kalıbı iki maddede kullanılıyor (4 ve 6): **yasak fiilin kendisinden değil, ona götüren mesafeden başlıyor.** **`002-bakara.md` 2/187'de bu kalıp işlendi.**
 
-**İki.** Sekizinci madde — *ve izâ kultüm fa'dilû ve lev kâne zâ kurbâ* — **sözde adaleti akrabalık bağının önüne koyuyor.** **`004-nisa.md` 4/135'te (*ve lev alâ enfüsiküm*) aynı ilke işlendi (dosya varsa).**
+**İki.** Sekizinci madde — *ve izâ kultüm fa'dilû ve lev kâne zâ kurbâ* — **sözde adaleti akrabalık bağının önüne koyuyor.** **`004-nisa.md` 4/135'te (*ve lev alâ enfüsiküm*) aynı ilke işlendi.**
 
 **Üç.** Liste, **yasakları okumak üzere** açılıyor (*etlü mâ harrame rabbüküm*) ama **içinde emirler de var** (anne-babaya iyilik, ölçüde dürüstlük, adalet, vefa).
 
@@ -880,7 +880,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 **هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ** (158)
 
-**Son anda gelen imanın kabul edilmemesi:** **`039-zumer.md` 39/54-59, `040-gafir.md` 40/84-85 ve `010-yunus.md` 10/90-92'de işlendi (dosya varsa).** **Oraya dayanıyorum.**
+**Son anda gelen imanın kabul edilmemesi:** **`039-zumer.md` 39/54-59, `040-gafir.md` 40/84-85 ve `010-yunus.md` 10/90-92'de işlendi.** **Oraya dayanıyorum.**
 
 **USLUP gereği bir kayıt:** *ev ye'tiye rabbüke* ifadesi cismanî bir geliş olarak anlaşılamaz; **dizinde `089-fecr.md` 89/22'de aynı kayıt düşülmüştü.** **Klasik tefsirlerdeki tavırları (tefvîz / te'vîl) aktarıyor, tercih dayatmıyorum.**
 

@@ -212,7 +212,7 @@ Bu, Kur'an'ın tekrarlanan kalıplarından biridir ve kullanıldığı yerlerde 
 
 Kalıbın Kur'an'daki diğer örnekleri: *"Hâkka nedir? Hâkka'nın ne olduğunu sana ne bildirdi?"* (Hâkka 69/2-3); *"Sakar nedir bilir misin?"* (Müddessir 74/27); *"Kâria nedir? Kâria'nın ne olduğunu sana ne bildirdi?"* (Kâria 101/2-3); *"Sarp yokuşun ne olduğunu sana ne bildirdi?"* (Beled 90/12); *"Hutame'nin ne olduğunu sana ne bildirdi?"* (Hümeze 104/5).
 
-Kalıbın ayrıntılı tahlili Hümeze sûresi bahsinde yapıldı (104-humeze.md); orada mâzî ve muzâri kullanımlar arasındaki fark da işlendi. Aşağıda o ayrımı sûrenin kendi bağlamı içinde tekrar ele alıyorum.
+Kalıbın ayrıntılı tahlili Hümeze sûresi bahsinde yapıldı (`104-humeze.md`); orada mâzî ve muzâri kullanımlar arasındaki fark da işlendi. Aşağıda o ayrımı sûrenin kendi bağlamı içinde tekrar ele alıyorum.
 
 ### أَدْرَىٰ — dirâyet
 
@@ -317,7 +317,7 @@ Bu ayet, üzerinde düşünülmediğinde kolayca geçilir. Oysa çok temel bir �
 
 Modern zaman anlayışı bunun tam tersini varsayar. Saat, zamanı eşit ve birbirinin yerine geçebilir birimlere böler: her saniye her saniyeye eşittir, her saat aynı uzunluktadır, zaman ölçülebilir ve hesaplanabilir bir kaynaktır. "Zaman nakittir" cümlesi bu anlayışın özetidir — zaman, birim başına değeri sabit bir para birimi gibi düşünülür.
 
-Ayet bu varsayımı kırıyor. Bir gece, sekiz bin küsur geceden fazla ediyor. Bu, matematiksel olarak anlamsızdır — ve tam da bu yüzden söylenmektedir. Değerin kaynağı sürede değil.
+Ayet bu varsayımı kırıyor. Bir gece, yirmi dokuz bin küsur geceden fazla ediyor. Bu, matematiksel olarak anlamsızdır — ve tam da bu yüzden söylenmektedir. Değerin kaynağı sürede değil.
 
 Peki nerede? Sûrenin geri kalanı bunu söyleyecek: o gecede **ne olduğunda.** Kur'an o gece indi (1. ayet), melekler o gece iniyor (4. ayet). Yani gecenin değeri, içine giren şeyden geliyor.
 

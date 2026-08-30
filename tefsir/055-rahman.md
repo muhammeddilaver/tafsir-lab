@@ -242,7 +242,7 @@ Yine de görüşleri tam vermek gerekiyor, çünkü bu cevabın kendi içinde bi
 | 1 | **İns ve cin** | Sûrenin kendisi ikisini dört yerde birlikte anıyor (14-15, 31, 33, 39). *Es-sekalân* ve *ma'şere'l-cinni ve'l-ins* ifadeleri açıktır. **Ezici çoğunluğun görüşü** | **İlk nakarat 13. ayettedir; ins ve cin ise 14-15'te anılıyor.** Yani ikil zamir, mercîinden önce geliyor |
 | 2 | **İns ve cin — mercî 10. ayettedir** | 10. ayetteki **ٱلْأَنَام** (*enâm*) kelimesi, bir kısım dilciye göre ins ve cini birlikte karşılar. Öyleyse mercî nakarattan önce gelmiş olur | *Enâm*ın kapsamı tartışmalıdır; "bütün canlılar" diyenler de vardır |
 | 3 | **Arapçadaki ikil hitap âdeti** | Arapçada tek kişiye ikil kiple hitap edilen kullanımlar dilcilerce kaydedilir; klasik şiirde örnekleri vardır. Bu okumada ikil, iki muhatap saymaz — **pekiştirme ve seslenme** bildirir | Sûrenin kendisi ikisini ayrı ayrı adlandırıyor; bu okuma metnin verisini boşa çıkarıyor |
-| 4 | **Mümin ve kâfir; ya da itaat eden ve eden iki sınıf** | Sûre bir ayırım kuruyor ve sonunda iki tabloya varıyor (cehennem / bahçeler) | Metinde bu iki grup ikil bir isimle anılmıyor. Zayıf |
+| 4 | **Mümin ve kâfir; ya da itaat eden ve etmeyen iki sınıf** | Sûre bir ayırım kuruyor ve sonunda iki tabloya varıyor (cehennem / bahçeler) | Metinde bu iki grup ikil bir isimle anılmıyor. Zayıf |
 | 5 | **Erkek ve dişi** | Nimetlerin muhatabı insan türünün iki yarısıdır | Metinde dayanağı yok. En zayıf görüş |
 
 ### Birinci görüşün önündeki zorluk ve verilen cevaplar
@@ -637,7 +637,7 @@ Bu, Mürselât bölümünde kaydedilen tekniğin aynısıdır ve orada birkaç �
 
 Sûrenin en önemli kelimelerinden biri, ve doğru anlaşılması için köke bakmak gerekiyor.
 
-**Kök: ب-ي-ن.** Bu kök **098-beyyine.md**'de tam olarak çözümlendi ve orada kaydedilenleri tekrarlamıyorum. Özeti şuydu:
+**Kök: ب-ي-ن.** Bu kök **`098-beyyine.md`**'de tam olarak çözümlendi ve orada kaydedilenleri tekrarlamıyorum. Özeti şuydu:
 
 > Kökün merkezi **iki şeyin arası**dır. *Beyn* hem "arasında" hem "ayrılık" bildirir — çünkü iki şeyin arası, onları aynı anda birleştiren ve ayıran şeydir. Ve "açıklık" anlamına buradan geçilir: **bir şey ancak çevresinden ayrıldığında görünür hale gelir.** Sisin içindeki dağ görünmez; sis dağılınca dağ ayrılır ve belirir. Beyyine sadece açık değildir; **açandır.**
 
@@ -659,7 +659,7 @@ Yani insana verilen şey "ses çıkarma yetisi" değil; **ayırma ve ayırdığ�
 
 Ve burada, bu tefsirin başka bir bölümünde çözülmüş bir bahsin tam karşılığı duruyor.
 
-**002-bakara.md**'de 2/31-33 işlenirken şunlar kaydedilmişti:
+**`002-bakara.md`**'de 2/31-33 işlenirken şunlar kaydedilmişti:
 
 > Âdem'in melekler karşısındaki konumu **ibadetle** kurulmuyor — kurulamazdı da, melekler zaten kesintisiz ibadet ediyorlar. Konum **bilgiyle** kuruluyor, ve özel olarak bir bilgi türüyle: **isimlendirme.**
 >
@@ -756,7 +756,7 @@ Bunu bir dil gözlemi olarak kaydediyorum; iki ayetin lafızları metindedir.
 
 Sûrenin ilk gerçek ihtilafı burada ve kelime tartışmalıdır.
 
-**Kök: ن-ج-م.** Bu kök **086-tarik.md**'de çözümlendi ve orada kaydedilenler burada belirleyicidir:
+**Kök: ن-ج-م.** Bu kök **`086-tarik.md`**'de çözümlendi ve orada kaydedilenler burada belirleyicidir:
 
 > Asıl anlamı **belirmek, görünür hale gelmek**tir. *Necm* (yıldız) bu adı, gökte yanıp söndüğü için değil, **karanlıkta belirdiği** için almıştır. Aynı kök bir bitkinin topraktan çıkması için de kullanılır: *neceme* — bitti, çıktı, zuhur etti. Ve *nücûm/tencîm* — taksit; her taksit vakti gelip görünür.
 
@@ -797,7 +797,7 @@ Yani gök cisimleri için bir **durum**, bitkiler için bir **fiil** kullanılı
 
 **Sûrenin — belki Kur'an'ın — en güçlü fikirlerinden biri burada.** Üç ayet, ve içlerinde **مِيزَان kelimesi üç kez** geçiyor.
 
-Bu bahis bu tefsirde daha önce iki yerden yaklaşılmıştı: **083-mutaffifin.md**'de ölçü eksiltme (*tatfîf*) ve tam bu ayetlerin arka planı işlendi; **101-karia.md**'de *mevâzîn* (âhiret terazileri) ele alındı. İkisinde kaydedilenleri tekrarlamıyorum ve aşağıda ikisine de dayanıyorum. Burada yapılacak iş, **ayetin kendi dizimini** çözmek.
+Bu bahis bu tefsirde daha önce iki yerden yaklaşılmıştı: **`083-mutaffifin.md`**'de ölçü eksiltme (*tatfîf*) ve tam bu ayetlerin arka planı işlendi; **`101-karia.md`**'de *mevâzîn* (âhiret terazileri) ele alındı. İkisinde kaydedilenleri tekrarlamıyorum ve aşağıda ikisine de dayanıyorum. Burada yapılacak iş, **ayetin kendi dizimini** çözmek.
 
 ### Önce dizim: göğün yükseltilmesi ile terazinin konulması aynı cümlede
 
@@ -875,7 +875,7 @@ Aynı ayrım burada da geçerli. Ayet *"zinû"* (tartın) demiyor; *"ekīmü'l-v
 
 ### بِٱلْقِسْط — adaletle
 
-**Kök: ق-س-ط.** Bu kelime **072-cin.md**'de ayrıntılı çözümlendi ve orada kurulan tablo burada tamamlayıcıdır. Orada kaydedilenler:
+**Kök: ق-س-ط.** Bu kelime **`072-cin.md`**'de ayrıntılı çözümlendi ve orada kurulan tablo burada tamamlayıcıdır. Orada kaydedilenler:
 
 > *Kıst* — pay, hisse; ve buradan **adalet**. Kökün ilginç tarafı zıtlığıdır: *kasata* = payı bozdu, saptı; *aksata* (*if'âl* babı) = **sapmayı ortadan kaldırdı**, adalet etti. Kök tek bir anlam taşır — *payı bozmak* — ve *if'âl* babı o anlamı **giderme** işlevi görür.
 
@@ -887,7 +887,7 @@ Ve Mutaffifîn bölümünde *adl* kelimesi için kaydedilen tespit burada yankı
 
 ### لَا تَطْغَوْا۟ — taşkınlık etmeyin
 
-**Kök: ط-غ-ي.** Bu kök **096-alak.md**'de tam olarak çözümlendi ve **079-naziat.md** ile **092-leyl.md** bölümlerinde işletildi. Orada kaydedilenleri tekrarlamıyorum. Özeti:
+**Kök: ط-غ-ي.** Bu kök **`096-alak.md`**'de tam olarak çözümlendi ve **`079-naziat.md`** ile **`092-leyl.md`** bölümlerinde işletildi. Orada kaydedilenleri tekrarlamıyorum. Özeti:
 
 > Kökün asıl, somut anlamı **suyun haddini aşması, taşması**dır. Delili Kur'an'ın kendi kullanımıdır: *"Su taştığında (tağa'l-mâ'), sizi akıp giden gemide taşıdık"* (Hâkka 69/11) — orada kelime hiçbir ahlakî anlam taşımaz, yalnızca suyun sınırını aşmasıdır.
 >
@@ -907,7 +907,7 @@ Ve iki metin birlikte okunduğunda şu çıkıyor: **kendini rab ilan etmek ile 
 
 ### لَا تُخْسِرُوا۟ — eksiltmeyin
 
-**Kök: خ-س-ر.** Bu kök **103-asr.md**'de ele alındı ve **083-mutaffifin.md**'de bu ayetle birlikte işlendi. Orada kaydedilenler:
+**Kök: خ-س-ر.** Bu kök **`103-asr.md`**'de ele alındı ve **`083-mutaffifin.md`**'de bu ayetle birlikte işlendi. Orada kaydedilenler:
 
 > Asıl anlamı eksilme ve zarardır; ve bu anlam Arapçada özellikle **ticaret ve tartı** alanında yerleşmiştir. Türkçedeki "hüsran" duygusal bir renk kazanmıştır; Arapçadaki *husrân* soğuk bir bilançodur.
 >
@@ -1072,7 +1072,7 @@ Bakara bölümünde *cennet* kelimesi için kaydedilen tespit — kökün (*c-n-
 
 ### ذُو ٱلْعَصْف — sapıyla birlikte
 
-**Kök: ع-ص-ف.** Bu kök **105-fil.md**'de işlendi ve **077-murselat.md**'de fiil tarafıyla ele alındı. Orada kaydedilenler:
+**Kök: ع-ص-ف.** Bu kök **`105-fil.md`**'de işlendi ve **`077-murselat.md`**'de fiil tarafıyla ele alındı. Orada kaydedilenler:
 
 > *Asf*, ekinin tane dışında kalan kısmıdır — sap, yaprak, kabuk, kavuz. Hasat sonrası tarlada kalan ve rüzgârın savurduğu kuru artık. Ve aynı kökten *âsıf* gelir: şiddetli, savuran rüzgâr. **Kök, savrulma fikrini içinde taşıyor.**
 
@@ -1153,7 +1153,7 @@ Ve dikkat: ikinci ayette **وَ** var, birincide yok. Yani ikinci ayet birinciye
 
 **Kök: ص-ل-ص-ل.** Bu, Arapçadaki *mudâ'af rubâ'î* köklerden biridir — iki harfli bir çekirdeğin ikilenmesiyle kurulmuş dört harfli kök.
 
-**Ve bu kök tipi bu tefsirde 099-zilzal.md'de çözümlendi.** Orada kaydedilenler:
+**Ve bu kök tipi bu tefsirde `099-zilzal.md`'de çözümlendi.** Orada kaydedilenler:
 
 > Arapçada ikilenmiş kökler bir işi görür: **tekrarlanan, gidip gelen, salınan hareketi ve o hareketin çıkardığı sesi** anlatırlar.
 
@@ -1217,7 +1217,7 @@ Ama şu gözlem kaydedilebilir ve **kendi okumam olarak** kaydediyorum: insanın
 
 **Cin için bu kelimenin seçilmesi anlamlıdır.** İnsan **kurumuş, sertleşmiş, biçim almış** bir maddeden; cin **karışık, salıverilmiş, biçimsiz** bir maddeden. Birinin maddesi sabit, ötekininki oynak.
 
-**072-cin.md**'de kaydedildiği gibi bu ayet, cinlerin maddesi hakkında Kur'an'ın verdiği iki bilgiden biridir; ikincisi Hicr 15/27'dir (*min nâri's-semûm* — dumansız, kavurucu ateş). Ve o bölümde kaydedilen ölçü burada da geçerli:
+**`072-cin.md`**'de kaydedildiği gibi bu ayet, cinlerin maddesi hakkında Kur'an'ın verdiği iki bilgiden biridir; ikincisi Hicr 15/27'dir (*min nâri's-semûm* — dumansız, kavurucu ateş). Ve o bölümde kaydedilen ölçü burada da geçerli:
 
 > Kur'an cinlerin **şekillerinden**, **sayılarından**, **nerede yaşadıklarından** söz etmez. Bu sessizlik tesadüf değildir. **Cin kelimesi bir tanım değil, bir sınır işaretidir.**
 
@@ -1261,7 +1261,7 @@ Tek ayetlik bir bölüm — sûrenin bu uzunlukta ilk bölümü.
 
 ### İkil — ve Meâric ile farkı
 
-Bu tamlama **070-mearic.md**'de, orada geçen çoğul biçimiyle birlikte tabloya alınmıştı. Orada kaydedilenleri tekrarlamıyorum; tabloyu ve izahı hatırlatıp farkı göstermekle yetiniyorum.
+Bu tamlama **`070-mearic.md`**'de, orada geçen çoğul biçimiyle birlikte tabloya alınmıştı. Orada kaydedilenleri tekrarlamıyorum; tabloyu ve izahı hatırlatıp farkı göstermekle yetiniyorum.
 
 Meâric bölümünde kurulan tablo şuydu — Kur'an bu iki kelimeyi **üç farklı sayıda** kullanır:
 
@@ -1422,7 +1422,7 @@ Ve Türkçede kelimenin yalnızca ikinci anlamı yerleşmiştir ("berzah âlemi"
 
 **Ve burada ayetin en önemli kelimesi var.**
 
-**Kök: ب-غ-ي.** Bu kök **002-bakara.md**'de 2/90'da işlendi ve orada kaydedilenler şunlardı:
+**Kök: ب-غ-ي.** Bu kök **`002-bakara.md`**'de 2/90'da işlendi ve orada kaydedilenler şunlardı:
 
 > **بَغْيًا** — kök *b-ğ-y*: **haddi aşmak, taşkınlık; ve kıskançlık.** Ayet reddin sebebini açıkça adlandırıyor: *"Allah'ın, dilediği kuluna lütfundan vermesini çekemeyerek."* … Kibir gibi hased de bir **karşılaştırmadan** doğuyor.
 
@@ -1468,7 +1468,7 @@ Yukarıda gösterildi: Furkān 25/53 ve Fâtır 35/12, iki denizi **tatlı su ve
 
 Bir nehrin denize döküldüğü ağızda su, uzun bir mesafe boyunca renk ve doku farkını korur. Fırat ve Dicle'nin döküldüğü körfezde, Nil'in ağzında, dünyanın her nehir ağzında bu görülür. Ve Arap yarımadasının çevresi denizdir; muhataplar denizciydi ve nehir ağızlarını biliyorlardı.
 
-**Yani ayette anlatılan olgu, ilk muhatapların bildiği bir olgudur.** Bir metnin ilk muhataplarına anlaşılmaz bir şey söylediğini varsaymak, hitabın kendi mantığına aykırıdır — bu ölçü **096-alak.md**'de *alaka* kelimesi bahsinde de kaydedilmişti ve burada aynen geçerlidir.
+**Yani ayette anlatılan olgu, ilk muhatapların bildiği bir olgudur.** Bir metnin ilk muhataplarına anlaşılmaz bir şey söylediğini varsaymak, hitabın kendi mantığına aykırıdır — bu ölçü **`096-alak.md`**'de *alaka* kelimesi bahsinde de kaydedilmişti ve burada aynen geçerlidir.
 
 ### İki — *berzah* kelimesinin böyle bir muhtevası yok
 
@@ -1587,7 +1587,7 @@ Yani sûre, nimeti "işe yarayan şey" diye tanımlamıyor.
 
 ### ٱلْجَوَار — akıp gidenler
 
-**Kök: ج-ر-ي.** Bu kök **069-hakka.md**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
+**Kök: ج-ر-ي.** Bu kök **`069-hakka.md`**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
 
 > Aynı kök Kur'an'da **suda giden gemiyi**, **cennette akan ırmağı** ve **gökte giden cismi** adlandırıyor (Tekvîr 81/16'daki *el-cevâri'l-künnes*). **Kökün taşıdığı tek fikir hareketin sürekliliğidir.**
 
@@ -1709,7 +1709,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum.
 
 ### وَجْه — vech
 
-**Kök: و-ج-ه.** Bu kelime **002-bakara.md**'de iki ayrı yerde işlendi ve ikisine birden dayanmam gerekiyor.
+**Kök: و-ج-ه.** Bu kelime **`002-bakara.md`**'de iki ayrı yerde işlendi ve ikisine birden dayanmam gerekiyor.
 
 **Birincisi, Bakara 2/112'de:**
 
@@ -1747,7 +1747,7 @@ Bakara 2/115'te *vech* Allah için kullanılıyordu ve orada kaydedildiği gibi 
 
 **ٱلْجَلَال — kök ج-ل-ل.** Büyüklük, yücelik, azamet. *Celîl* (yüce), *ecell* (daha yüce), *celâlet* aynı kökten. Kökün somut çekirdeği **büyüklük ve ağırlık**tır; ve Arapçada bu büyüklük **uzaklık** ve **heybet** doğurur.
 
-**ٱلْإِكْرَام — kök ك-ر-م.** Bu kök **096-alak.md**'de *el-ekram* bahsinde işlendi. Orada kaydedilenleri tekrarlamıyorum; kökün altında **cömertlik, değer verme, ikram etme** vardır.
+**ٱلْإِكْرَام — kök ك-ر-م.** Bu kök **`096-alak.md`**'de *el-ekram* bahsinde işlendi. Orada kaydedilenleri tekrarlamıyorum; kökün altında **cömertlik, değer verme, ikram etme** vardır.
 
 **Ve kalıp önemlidir: إِكْرَام, if'âl babının masdarıdır** — yani bir **fiil** bildiriyor: ikram **etme.** *Kerem* (bir vasıf) değil, *ikrâm* (bir eylem).
 
@@ -1849,7 +1849,7 @@ Bunu bir kelime örgüsü gözlemi olarak kaydediyorum.
 
 Kur'an'ın en çok üzerinde durulmuş kısa cümlelerinden biri.
 
-**شَأْن — kök ش-أ-ن.** Bu kök **080-abese.md**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
+**شَأْن — kök ش-أ-ن.** Bu kök **`080-abese.md`**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
 
 > Hal, iş, durum, önemli mesele. Türkçedeki "şan" ve "şe'niyet" bu köktendir. … Kelimenin belirsiz (nekre) gelmesi **büyütme** içindir: "öyle bir dert ki". Tanımlanmıyor, sınırı çizilmiyor.
 
@@ -1904,7 +1904,7 @@ Ve nakarat değişmiyor.
 
 ### سَنَفْرُغُ — "boşalacağız"
 
-**Kök: ف-ر-غ.** Bu kök **094-insirah.md**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
+**Kök: ف-ر-غ.** Bu kök **`094-insirah.md`**'de işlendi ve tam bu ayet orada örnek olarak veriliyordu. Orada kaydedilenler:
 
 > Kur'an'daki iki kullanımı kökü aydınlatıyor: *"Mûsâ'nın annesinin yüreği bomboş kaldı"* (Kasas 28/10) — burada *fârîğan*, içi boşalmış demek. Ve *"Ey iki ağırlık! Sizinle ilgilenmeye koyulacağız"* (Rahmân 55/31) — buradaki *senefruğu*, "boşalacağız" fiilinden gelir ama anlamı **"başka işten boşalıp tamamen buna yöneleceğiz"**dir.
 >
@@ -1926,7 +1926,7 @@ Bu bir yazım özelliğidir ve okuyuşta kelimenin sonu vasl halinde zaten düş
 
 ### ٱلثَّقَلَان — iki ağırlık
 
-**Kök: ث-ق-ل.** Bu kök **076-insan.md**'de işlendi ve tam bu kelime orada listeye alınmıştı. Orada kaydedilenler:
+**Kök: ث-ق-ل.** Bu kök **`076-insan.md`**'de işlendi ve tam bu kelime orada listeye alınmıştı. Orada kaydedilenler:
 
 > **أَثْقَال** (*eskāl*) — ağırlıklar, yükler (Zilzâl 99/2). **مِثْقَال** (*miskāl*) — bir şeyin tartısı, ağırlık birimi (Zilzâl 99/7-8). **ٱلثَّقَلَان** (*es-sekalân*) — "iki ağırlık"; Kur'an insanlar ve cinler için bu adı kullanır (Rahmân 55/31).
 >
@@ -1980,7 +1980,7 @@ Yani hitap iki gruba ayrı ayrı değil, **birlikte** yapılıyor. Ve bu, nakara
 
 **Sıralamaya dikkat:** burada **cin önce.** Oysa 14-15'te insan önceydi, 39'da yine insan önce olacak. Sıra sabit değil.
 
-Klasik tefsirlerde bunun izahı olarak, cinlerin göklerin sınırlarına yaklaşma teşebbüsünün bilinen bir mesele olduğu söylenir — Cin sûresinin 8-9. ayetleri bunu anlatır ve **072-cin.md**'de işlendi.
+Klasik tefsirlerde bunun izahı olarak, cinlerin göklerin sınırlarına yaklaşma teşebbüsünün bilinen bir mesele olduğu söylenir — Cin sûresinin 8-9. ayetleri bunu anlatır ve **`072-cin.md`**'de işlendi.
 
 ### أَقْطَار — sınırlar
 
@@ -2048,7 +2048,7 @@ Ve orada kaydedilen ölçü burada da geçerlidir: **emir kipi burada bir izin d
 
 ### Cin sûresi ile bağ
 
-**072-cin.md**'de bu ayet zaten anılmıştı ve orada kurulan bağ burada tamamlanıyor. Orada kaydedilenler:
+**`072-cin.md`**'de bu ayet zaten anılmıştı ve orada kurulan bağ burada tamamlanıyor. Orada kaydedilenler:
 
 > Bu fikir Kur'an'da açık bir meydan okuma cümlesiyle de ifade edilir ve muhatabı yine cinler ve insanlardır: *"Ey cin ve insan topluluğu! Göklerin ve yerin sınırlarını aşıp geçebilirseniz geçin. Ancak bir güçle geçebilirsiniz."* (Rahmân 55/33)
 >
@@ -2127,7 +2127,7 @@ Ve bu, iki ayet önceki meydan okumanın devamıdır: orada geçemeyeceksiniz de
 
 ### ٱنشَقَّتْ — yarıldı
 
-**Kök: ش-ق-ق.** Bu kök **084-insikak.md**'de tam olarak çözümlendi ve orada Kur'an'ın göğün yarılması için kullandığı farklı kökler (*ş-k-k*, *f-t-r*, *f-r-c*, *f-l-k*) bir iş bölümü halinde ele alınmıştı. Tekrarlamıyorum.
+**Kök: ش-ق-ق.** Bu kök **`084-insikak.md`**'de tam olarak çözümlendi ve orada Kur'an'ın göğün yarılması için kullandığı farklı kökler (*ş-k-k*, *f-t-r*, *f-l-k*) bir iş bölümü halinde ele alınmıştı. Tekrarlamıyorum.
 
 Kısaca: *şakk*, bir şeyin **kendi bütünlüğü içinde yarılması**dır — ikiye bölünme, çatlama.
 
@@ -2244,7 +2244,7 @@ Yani hüküm istisnasızdır.
 
 ### يُعْرَفُ — tanınır
 
-**Kök: ع-ر-ف.** Bu kök **077-murselat.md**'de *urfâ* bahsinde ayrıntılı çözümlendi ve orada kaydedilenler burada belirleyicidir:
+**Kök: ع-ر-ف.** Bu kök **`077-murselat.md`**'de *urfâ* bahsinde ayrıntılı çözümlendi ve orada kaydedilenler burada belirleyicidir:
 
 > Kökün çekirdeği **bilmek, tanımak**tır — ama bu, *ilm*ten farklı bir bilme türüdür: bir şeyi **daha önce görmüş olduğu için** tanımak.
 
@@ -2256,7 +2256,7 @@ Yani hüküm istisnasızdır.
 
 **Anlamı tartışmasızdır: yüzdeki alâmet, görünüş, ayırt edici işaret.**
 
-Bu kelime **068-kalem.md**'de kısaca anılmıştı: *"سِيمَا (sîmâ) — yüzdeki alâmet, görünüş. Türkçede 'sima' olarak yaşar."*
+Bu kelime **`068-kalem.md`**'de kısaca anılmıştı: *"سِيمَا (sîmâ) — yüzdeki alâmet, görünüş. Türkçede 'sima' olarak yaşar."*
 
 **Kur'an'da kelimenin kullanımları bir tablo veriyor:**
 
@@ -2280,13 +2280,13 @@ Bu kelime **068-kalem.md**'de kısaca anılmıştı: *"سِيمَا (sîmâ) —
 
 Kur'an, o günü anlatırken düzenli olarak **yüzlere** bakar. Bu tefsirde iki yerde ayrıntılı işlendi.
 
-**080-abese.md**'de son beş ayet ele alınmıştı: *"O gün birtakım yüzler müsfiradır — gülen, müjdelenmiş. Birtakım yüzlerin üzerinde ise toz vardır; onları bir karanlık bürür."* Ve orada kaydedilen dizim tespiti şuydu:
+**`080-abese.md`**'de son beş ayet ele alınmıştı: *"O gün birtakım yüzler müsfiradır — gülen, müjdelenmiş. Birtakım yüzlerin üzerinde ise toz vardır; onları bir karanlık bürür."* Ve orada kaydedilen dizim tespiti şuydu:
 
 > | Yapı | **Sıfat** — *müsfira, dâhika, müstebşira* | **Cümle** — *aleyhâ ğabera*, *terhekuhâ katera* |
 
 Yani iyi yüzler **sıfatla**, kötü yüzler **cümleyle** anlatılıyordu: birinde nitelik yüzün kendisinden, ötekinde üzerine çöken bir şeyden geliyordu.
 
-**075-kiyame.md**'de ise iki yüz tablosu (*nâdıra/nâzıra* ve *bâsira/fâkıra*) işlenmiş ve şu kaydedilmişti:
+**`075-kiyame.md`**'de ise iki yüz tablosu (*nâdıra/nâzıra* ve *bâsira/fâkıra*) işlenmiş ve şu kaydedilmişti:
 
 > Aynı özne, aynı zaman zarfı, aynı yerde tek kelime farklı — Arapçada buna *mukābele* denir, ve etkisi şudur: iki grup arasındaki fark dışarıdan gelen bir muamele farkı gibi değil, **aynı cümlenin iki farklı doldurulması** gibi sunuluyor.
 
@@ -2304,7 +2304,7 @@ Orada yüz bir sonucun göstergesiydi; burada yüz bir **kimlik belgesi.** Ve bu
 
 ### فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَام — perçemlerden ve ayaklardan
 
-**ٱلنَّوَاصِي** — *nâsiye*nin çoğulu. Bu kelime **096-alak.md**'de ayrıntılı çözümlendi ve tam bu ayet orada anılmıştı. Orada kaydedilenler:
+**ٱلنَّوَاصِي** — *nâsiye*nin çoğulu. Bu kelime **`096-alak.md`**'de ayrıntılı çözümlendi ve tam bu ayet orada anılmıştı. Orada kaydedilenler:
 
 > Perçem başın en ön ve en yukarı kısmıdır. Kibirlenen insan başını kaldırır; kaldırdığında öne çıkan yer perçemdir. Ve tutulduğunda baş, tutanın istediği yöne gitmek zorundadır.
 >
@@ -2388,7 +2388,7 @@ Ve bu, sûrenin yirminci ayetiyle bir karşıtlık kuruyor. Orada iki şeyin **a
 
 **حَمِيم — kök ح-م-م.** Sıcaklık. *Hamîm* Arapçada iki zıt şey için kullanılır: **çok sıcak su** ve **yakın dost.** İkinci anlam, sıcaklığın mecazından gelir.
 
-**ءَان — kök أ-ن-ي.** Bu kelime **088-gasiye.md**'de çözümlendi ve tam bu ayet orada anılmıştı. Orada kaydedilenler:
+**ءَان — kök أ-ن-ي.** Bu kelime **`088-gasiye.md`**'de çözümlendi ve tam bu ayet orada anılmıştı. Orada kaydedilenler:
 
 > *Âniye*, su için kullanıldığında "kaynama noktasına varmış" demektir. Yani sıcaklığın **olgunlaştığı** nokta.
 >
@@ -2543,7 +2543,7 @@ Kur'an bu ilkeyi başka yerlerde açıkça da söyler: *"Bak, onların bir kısm
 *Ve li-men hâfe makāme Rabbihî cennetân*
 "Rabbinin makamından korkan kimseye iki bahçe vardır."
 
-**Bu ifade Kur'an'da bir kez daha, birebir aynı biçimde geçer** ve **079-naziat.md**'de işlendi:
+**Bu ifade Kur'an'da bir kez daha, birebir aynı biçimde geçer** ve **`079-naziat.md`**'de işlendi:
 
 > *"Rabbinin makamından korkan ve nefsini hevâdan alıkoyana gelince — varacağı yer cennettir."* (Nâziât 79/40-41)
 
@@ -2657,7 +2657,7 @@ Bunu bir ses gözlemi olarak kaydediyorum, etimolojik bir bağ olarak değil.
 
 **دَانٍ — kök د-ن-و.** Yakın olmak. *Dünyâ* (en yakın olan) aynı kökten.
 
-**Bu ifade 069-hakka.md'de anılmıştı** ve orada kurulan bağ burada tamamlanıyor. Orada Hâkka'nın *"meyveleri sarkmış yüksek bir cennet"* tasviri işlenirken şu kaydedilmişti:
+**Bu ifade `069-hakka.md`'de anılmıştı** ve orada kurulan bağ burada tamamlanıyor. Orada Hâkka'nın *"meyveleri sarkmış yüksek bir cennet"* tasviri işlenirken şu kaydedilmişti:
 
 > Yerin kendisi yüksek, ürünü alçak. Yani yükseklik kişiyi ürününden **uzaklaştırmıyor.**
 >
@@ -2669,7 +2669,7 @@ Bunu bir ses gözlemi olarak kaydediyorum, etimolojik bir bağ olarak değil.
 
 *Fîhinne kāsırâtü't-tarfi lem yatmishünne insün kablehüm ve lâ cânn*
 
-**Önce bir üslup kaydı gerekiyor.** Cennet tasvirleri hakkında **002-bakara.md**'de 2/25'te düşülen kayıt bu bölümün tamamı için geçerlidir ve burada tekrar edilmesi gerekiyor:
+**Önce bir üslup kaydı gerekiyor.** Cennet tasvirleri hakkında **`002-bakara.md`**'de 2/25'te düşülen kayıt bu bölümün tamamı için geçerlidir ve burada tekrar edilmesi gerekiyor:
 
 > **مُتَشَٰبِهًا — "birbirine benzer".** Cennet meyveleri için "dünyadakine benzer ama aynı değil" anlamında kullanılan bir kayıt. Bu, bütün âhiret tasvirlerinin okunma biçimini belirler: **anlatım, muhatabın bildiği şeyler üzerinden yapılmak zorundadır** — çünkü dil, insanın tecrübesinden başka malzeme bulamaz. Tasvirlerin duyusal olması, tasvir edilenin duyusal olmasından değil, **anlatının başka yolu olmamasından** ileri gelir.
 
@@ -2779,7 +2779,7 @@ Yani cümle şunu söylüyor: **ihsanın karşılığı yalnızca ihsandır.**
 
 ### ٱلْإِحْسَٰن — iki kez, iki tarafta
 
-**Kök: ح-س-ن.** Bu kök **002-bakara.md**'de 2/112'de işlendi ve orada kaydedilenler:
+**Kök: ح-س-ن.** Bu kök **`002-bakara.md`**'de 2/112'de işlendi ve orada kaydedilenler:
 
 > **مُحْسِن** — kök *h-s-n*: güzellik. *İhsan*, hem "iyilik yapmak" hem **"bir işi güzel yapmak"** demektir. Yani ölçüt, iyilik yapmakla kalmıyor; **işi hakkıyla yapmayı** da içeriyor.
 
@@ -2802,7 +2802,7 @@ Cümle *"iyiliğin karşılığı mükâfattır"* demiyor. **"İhsanın karşıl
 
 ### Mürselât ile karşılaştırma
 
-**077-murselat.md**'de aynı konumda, aynı kökten bir cümle vardı ve orada işlendi:
+**`077-murselat.md`**'de aynı konumda, aynı kökten bir cümle vardı ve orada işlendi:
 
 > **إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ** — *"Biz muhsinleri işte böyle karşılıklandırırız."* (Mürselât 77/44)
 

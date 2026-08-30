@@ -73,7 +73,7 @@ Sûrede dört yerde aynı gramer kalıbı geçiyor:
 
 ## Fâsıla: elli dokuz ayetin ortak sesi
 
-`050-kaf.md`'de kırk beş ayetin tek bir ses kalıbında bittiği kaydedilmişti. Duhân'da benzer bir durum vardır ve sayılabilir:
+`050-kaf.md`'de kırk beş ayetin tek bir ses kalıbında bittiği kaydedilmişti. Duhân'da benzer bir durum vardır ve sayılabilir. Aşağıdaki liste ikinci ayetten başlıyor; ilk ayet *hâ-mîm*'dir ve o da aynı sesle, *mîm* ile kapanır:
 
 *mübîn, münzirîn, hakîm, mürsilîn, alîm, mûkınîn, evvelîn, yel'abûn, mübîn, elîm, mü'minûn, mübîn, mecnûn, âidûn, müntekımûn, kerîm, emîn, mübîn, tercumûn, fa'tezilûn, mücrimûn, müttebeûn, muğrakūn, uyûn, kerîm, fâkihîn, âharîn, munzarîn, mühîn, müsrifîn, âlemîn, mübîn, yekūlûn, münşerîn, sâdikīn, mücrimîn, lâibîn, ya'lemûn, ecmaîn, yunsarûn, rahîm, ez-zakkūm, el-esîm, el-butûn, el-hamîm, el-cahîm, el-hamîm, el-kerîm, temterûn, emîn, uyûn, mütekābilîn, în, âminîn, el-cahîm, el-azîm, yetezekkerûn, murtekıbûn.*
 
@@ -247,7 +247,7 @@ Oradaki kayıtların özeti şudur:
 
 **Ve dizimdeki nükte şudur:** indirme bir olay olarak (mâzî fiil), uyarıcılık bir vasıf olarak (*kâne* + ism-i fâil) veriliyor. **Yani bu kitabın inişi yeni; uyarma işi yeni değil.**
 
-**Aynı kalıp bir ayet sonra tekrarlanacak:** *innâ künnâ mürsilîn* (5) — "biz gönderenleriz". **İki ayette iki kez aynı yapı ve iki ayrı vasıf:** uyarmak ve göndermek.
+**Aynı kalıp iki ayet sonra tekrarlanacak:** *innâ künnâ mürsilîn* (5) — "biz gönderenleriz". **İki ayette iki kez aynı yapı ve iki ayrı vasıf:** uyarmak ve göndermek.
 
 | Ayet | İfade | Vasıf |
 |---|---|---|
@@ -385,7 +385,7 @@ Arapçada **فَعِيل (fa'îl) vezni iki yönlü çalışır** ve bu, dilcile
 
 **Sûrenin yapısı bölümünde kaydedilen dört ayetlik halkanın ilk halkası budur.**
 
-**Kalıp: *inne* + zamir + **fasıl zamiri** (*hüve*) + harf-i tarifli iki haber.**
+**Kalıp: *inne* + zamir + fasıl zamiri (*hüve*) + harf-i tarifli iki haber.**
 
 **Arapçada araya giren bu zamire *damîru'l-fasl* (ayırma zamiri) denir** ve iki iş yapar:
 
@@ -1242,7 +1242,7 @@ Türevleri kökün yönünü gösteriyor:
 
 ### تُؤْمِنُوا۟ لِى — edatın nüktesi
 
-**Fiil *bi-* ile değil *li-* ile geçişli olmuş: *tü'minû **lî***.**
+**Fiil *bi-* ile değil *li-* ile geçişli olmuş: *tü'minû lî*.**
 
 **Arapçada bu fark kaydedilir:**
 
@@ -1347,7 +1347,7 @@ Türevleri kökün yönünü gösteriyor:
 | **22** | *inne hâülâi **kavmün mücrimûn*** | **Firavun kavmi** | **Mûsâ** |
 | **37** | *innehüm kânû **mücrimîn*** | **Tübba' kavmi ve öncekiler** | **Metin** |
 
-**Ve on beş ayet arayla, aynı işaret ismiyle kurulan iki cümle daha var:**
+**Ve on iki ayet arayla, aynı işaret ismiyle kurulan iki cümle daha var:**
 
 | Ayet | İfade | Kim hakkında |
 |---|---|---|
@@ -1390,7 +1390,7 @@ Türevleri kökün yönünü gösteriyor:
 
 **Yukarıda (18. ayette) kaydedildi: Mûsâ'nın kullandığı ad ile Allah'ın kullandığı ad aynıdır.**
 
-**Buraya eklenecek olan, edattır: *esrâ **bi-*** — "…ile yürüttü", yani beraberinde götürttü.** Emir Mûsâ'ya, nesne ise topluluğa ait: **elçi yalnız kendisi gitmiyor, götürüyor.**
+**Buraya eklenecek olan, edattır: *esrâ bi-* — "…ile yürüttü", yani beraberinde götürttü.** Emir Mûsâ'ya, nesne ise topluluğa ait: **elçi yalnız kendisi gitmiyor, götürüyor.**
 
 ### إِنَّكُم مُّتَّبَعُونَ — takibin önceden bildirilmesi
 
@@ -1503,7 +1503,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **İlk üçü bir tarım uygarlığının üç ayağıdır: toprak, su, ürün.** Dördüncüsü sosyal, beşincisi öznel.
 
-**Bunu kendi okumam olarak kaydediyorum:** liste dıştan içe doğru gidiyor — toprak somuttur, refah ise bir **his**tir. Ve son maddede fiil değişiyor: ilk dördü isim, beşincisinde bir cümle geliyor (*kânû fîhâ fâkihîn*). **Yani liste, sahip olunan şeylerden sahip olma **hâline** geçerek bitiyor.**
+**Bunu kendi okumam olarak kaydediyorum: liste dıştan içe doğru gidiyor — toprak somuttur, refah ise bir histir. Ve son maddede fiil değişiyor: ilk dördü isim, beşincisinde bir cümle geliyor (*kânû fîhâ fâkihîn*). Yani liste, sahip olunan şeylerden sahip olma hâline geçerek bitiyor.**
 
 **جَنَّٰت — kök ج-ن-ن.** On dördüncü ayette *mecnûn* bahsinde kaydedildi: kökün anlamı **örtmek**tir; *cennet*, ağaçları toprağı örten bahçedir.
 
@@ -1570,9 +1570,9 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **Tekrarlamıyorum. Duhân'a özgü olanı ekliyorum.**
 
-**Vâkıa'da kök hep bir **nesne** olarak geçiyordu: *fâkihe* — meyve.** Burada bir **hâl** olarak geçiyor: *fâkihîn* — "keyif sürenler olarak".
+**Vâkıa'da kök hep bir nesne olarak geçiyordu: *fâkihe* — meyve. Burada bir hâl** olarak geçiyor: *fâkihîn* — "keyif sürenler olarak".
 
-**Ve Vâkıa'da 65. ayette kök bir kez daha hâl bildirmişti (*tefekkehûn*) ve orada da nimetin **gidişi** anlatılıyordu.** `056-vakia.md`'nin kapanış tablosunda bu şöyle kaydedilmişti: *"ف-ك-ه — *fâkihe* (20) — *fâkihe* (32) — *tefekkehûn* (65) — Nimet ve nimetin gidişi."*
+**Ve Vâkıa'da 65. ayette kök bir kez daha hâl bildirmişti (*tefekkehûn*) ve orada da nimetin gidişi anlatılıyordu.** `056-vakia.md`'nin kapanış tablosunda bu şöyle kaydedilmişti: *"ف-ك-ه — *fâkihe* (20) — *fâkihe* (32) — *tefekkehûn* (65) — Nimet ve nimetin gidişi."*
 
 **Duhân aynı çifti kuruyor ve kendi sûresi içinde tamamlıyor:**
 
@@ -1912,7 +1912,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 ### إِنْ هِىَ إِلَّا — hasr kalıbı
 
-***İn* burada olumsuzluk edatıdır (*in* nâfiye), *illâ* ile birlikte **hasr** (sınırlama) kurar: "…dan başkası yoktur".**
+***İn* burada olumsuzluk edatıdır (*in* nâfiye), *illâ* ile birlikte hasr (sınırlama) kurar: "…dan başkası yoktur".**
 
 **Ve *hiye* zamirinin mercii söylenmiyor.** Müfessirler bunu farklı doldurur:
 
@@ -1962,7 +1962,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **Yani diriliş, yeniden yaratma olarak değil, *açılma* olarak adlandırılıyor.** Dürülmüş bir tomarın açılması.
 
-**Ve olumsuzlama biçimi kesindir: *mâ nahnu **bi**-münşerîn*.** Baştaki **بِ** tekit edatıdır; `050-kaf.md` 50/45'te aynı yapı kaydedilmişti (*mâ ente… bi-cebbâr*). **Yani "diriltilmeyiz" değil, "kesinlikle diriltilecek değiliz".**
+**Ve olumsuzlama biçimi kesindir: *mâ nahnu bi-münşerîn*. Baştaki بِ tekit edatıdır; `050-kaf.md` 50/45'te aynı yapı kaydedilmişti (*mâ ente… bi-cebbâr*). Yani "diriltilmeyiz" değil, "kesinlikle diriltilecek değiliz".**
 
 ### فَأْتُوا۟ بِـَٔابَآئِنَآ — talebin biçimi
 
@@ -1997,7 +1997,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 ## 44/37 — أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
 
-*E-hüm hayrun em kavmü tübbein velleẕîne min kablihim, ehleknâhüm, innehüm kânû mücrimîn*
+*E-hüm hayrun em kavmü tübbein vellezîne min kablihim, ehleknâhüm, innehüm kânû mücrimîn*
 
 "Onlar mı daha üstün, yoksa Tübba' kavmi ve onlardan öncekiler mi? Onları helâk ettik; çünkü suçlulardı."
 
@@ -2163,7 +2163,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Otuz sekizinci ayette üç şey sayılmıştı: gökler (çoğul), yer (tekil), ikisi arasındakiler.** Otuz dokuzuncu ayette ise ikil zamir geliyor: ***halaknâhümâ*** — "ikisini".
 
-**Yani çoğul olan *semâvât* ile tekil olan *ard*, tek bir **çift** olarak toparlanıyor.**
+**Yani çoğul olan *semâvât* ile tekil olan *ard*, tek bir çift olarak toparlanıyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ikinci cümle, birincinin saydığı şeyleri **iki kaleme** indiriyor. Bu, cümleyi kısaltıyor ve odağı sayıdan ilişkiye kaydırıyor: **yukarısı ve aşağısı.**
 
@@ -2251,7 +2251,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Ve şimdi ayetin nüktesine geliyoruz — kendi okumam olarak veriyorum.**
 
-**Ayet aynı kelimeyi iki kez, iki tarafta kullanıyor: *lâ yuğnî **mevlen** an **mevlen***.**
+**Ayet aynı kelimeyi iki kez, iki tarafta kullanıyor: *lâ yuğnî mevlen an mevlen*.**
 
 **Beklenen ifade iki farklı kelime olurdu** — "dost dosta", "efendi köleye", "akraba akrabaya". **Ama ayet iki tarafı da aynı kelimeyle adlandırıyor.**
 
@@ -2378,7 +2378,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Kök `068-kalem.md`, `083-mutaffifin.md`, `076-insan.md` ve `049-hucurat.md`'de geçti.**
 
-**Somut anlamı dilcilerce şöyle verilir: *ism* — insanı hayırdan **geri bırakan**, ağırlaştıran şey.** Kökte bir **yavaşlatma, engelleme** fikri vardır: *nâkatün âsime* — yavaş yürüyen deve. Buradan *ism* — **günah**: iyiliğe gitmeyi ağırlaştıran yük.
+**Somut anlamı dilcilerce şöyle verilir: *ism* — insanı hayırdan geri bırakan, ağırlaştıran şey. Kökte bir yavaşlatma, engelleme fikri vardır: *nâkatün âsime* — yavaş yürüyen deve. Buradan *ism* — günah**: iyiliğe gitmeyi ağırlaştıran yük.
 
 **Ve *esîm* kalıbı: *fa'îl*, burada mübalağa bildiriyor — "günaha çokça batmış".**
 
@@ -2520,11 +2520,11 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 > *"*utüll*, birini sürükleyecek kadar kaba kuvvet sahibi olan, ve o kuvveti kullanmakta sakınca görmeyen kişidir."*
 
-**Yani Kalem'de bu kökten türeyen kelime bir **suçlunun sıfatı** idi; Duhân'da aynı kök bir **fiil** olarak, o kişiye yapılan şeyi anlatıyor.**
+**Yani Kalem'de bu kökten türeyen kelime bir suçlunun sıfatı idi; Duhân'da aynı kök bir fiil olarak, o kişiye yapılan şeyi anlatıyor.**
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı iki ayetin ortak köküdür:** `085-buruc.md`'de kaydedilen ilke bir kez daha işliyor — **hüküm, suçun diliyle bildiriliyor.** Sürükleyen, sürükleniyor.
 
-**Ve *fâ* edatı: *huzûhü **fa**'tilûhü*.** Aralıksızlık. Tutmakla sürüklemek arasında boşluk yok.
+**Ve *fâ* edatı: *huzûhü fa'tilûhü*.** Aralıksızlık. Tutmakla sürüklemek arasında boşluk yok.
 
 ### سَوَآءِ ٱلْجَحِيم — "tam ortası"
 
@@ -2607,7 +2607,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 | 48 | *subbû* | **Adsız çoğul** | *ra'sihî* — o kişinin başı |
 | **49** | ***zuk*** | **O kişinin kendisi** | — |
 
-**Yani sahne boyunca hakkında konuşulan kişiye, en sonunda **doğrudan** hitap ediliyor.**
+**Yani sahne boyunca hakkında konuşulan kişiye, en sonunda doğrudan hitap ediliyor.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum ve `056-vakia.md`'de aynı hamle için kaydedilen tespit burada da işliyor:**
 
@@ -2638,7 +2638,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Şimdi ayetin asıl meselesine geliyoruz. Ve önce cümlenin gramerini kurmak gerekiyor, çünkü nükte tam olarak orada.**
 
-**Cümlede **dört** ayrı kesinleştirme öğesi var ve dördü üst üste geliyor:**
+**Cümlede dört ayrı kesinleştirme öğesi var ve dördü üst üste geliyor:**
 
 | Öğe | Ne yapıyor |
 |---|---|
@@ -2647,7 +2647,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 | **3. ٱلْعَزِيز** (harf-i tarifli) | Vasfı **belirli** kılar — "o bilinen azîz" |
 | **4. ٱلْكَرِيم** (harf-i tarifli) | İkinci vasıf, yine belirli |
 
-**Arapçada bu dört öğenin bir arada gelmesi, dilin verebileceği **en kesin** kimlik cümlesini kurar.** Normalde bu kalıp, bir vasfın **yalnız ve tam olarak** birine ait olduğunu söylemek için kullanılır.
+**Arapçada bu dört öğenin bir arada gelmesi, dilin verebileceği en kesin kimlik cümlesini kurar. Normalde bu kalıp, bir vasfın yalnız ve tam olarak** birine ait olduğunu söylemek için kullanılır.
 
 **Ve sûre bu kalıbı yedi ayet önce Allah için kullanmıştı:**
 
@@ -2664,7 +2664,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Arapça belâgatte buna *tehekküm* denir: bir sözü, tam tersini kastederek söylemek.**
 
-**Ve tehekkümün en güçlü biçimi, kelimenin **sahibinin ağzından** alınıp iade edilmesidir.**
+**Ve tehekkümün en güçlü biçimi, kelimenin sahibinin ağzından alınıp iade edilmesidir.**
 
 **Nakledildiğine göre, bu iki sıfatı kendisi hakkında söyleyen biri vardır — kendisini kavminin en üstünü ve en değerlisi saydığını söylediği nakledilir. Kişi ve kabile adı vermiyorum;** bu tefsirde nüzul anlatıları isim verilmeden aktarılır ve bu anlatının ayrıntıları hakkında hüküm vermiyorum.
 
@@ -2869,7 +2869,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Ve buradaki kullanım kaydedilmeye değer:** *emîn* bir **yer** için kullanılıyor. Bir mekânın "emin" olması, orada bulunanın korkacak bir şeyi olmaması demektir.
 
-**Kur'an bu terkibi başka yerde de kullanır:** *el-beledü'l-emîn* (Tîn 95/3) — ve `095-tin.md`'de işlendi. **Yani terkip, Kur'an'da bir **yer** sıfatı olarak yerleşiktir.**
+**Kur'an bu terkibi başka yerde de kullanır: *el-beledü'l-emîn* (Tîn 95/3) — ve `095-tin.md`'de işlendi. Yani terkip, Kur'an'da bir yer sıfatı olarak yerleşiktir.**
 
 ### فِى جَنَّٰتٍ وَعُيُونٍ — sûrenin en açık tekrarı
 
@@ -2930,7 +2930,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 ### مُّتَقَٰبِلِين — kök ق-ب-ل
 
-**Kelime **VI. bâbın** (*tefâul*) ism-i fâilidir ve VI. bâbın Arapçadaki temel katkısı **karşılıklılık**tır:** iki taraf, birbirine aynı şeyi yapıyor.
+**Kelime VI. bâbın (*tefâul*) ism-i fâilidir ve VI. bâbın Arapçadaki temel katkısı karşılıklılıktır:** iki taraf, birbirine aynı şeyi yapıyor.
 
 ***Kabile* — karşılamak, yüz yüze gelmek. *Kıble* — yönelinen yön. *Mütekābil* — birbirine dönük olan.**
 
@@ -2940,7 +2940,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Duhân'da eşlik eden kelime farklıdır ve bu, ayrı bir okuma açıyor.**
 
-**Duhân'da *mütekābilîn*, bir **giyim** cümlesinin sonunda geliyor.**
+**Duhân'da *mütekābilîn*, bir giyim cümlesinin sonunda geliyor.**
 
 **Ve bunu kendi okumam olarak veriyorum, dayanağı cümlenin dizimidir:** cümle giysiyle başlıyor, bakışla bitiyor. **Giysi, ancak bakan biri varsa iş görür.** İnsanın giyinmesi tek başına anlamlı değildir; giyim, bir **görülme** ilişkisi kurar.
 
@@ -2972,7 +2972,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 ### زَوَّجْنَٰهُم بِ — edatın nüktesi
 
-**Fiil II. bâbdadır (*zevvece*) ve *bâ* ile geçişli olmuş: *zevvecnâhüm **bi**-hûrin în*.**
+**Fiil II. bâbdadır (*zevvece*) ve *bâ* ile geçişli olmuş: *zevvecnâhüm bi-hûrin în*.**
 
 **Ve dilciler bu edatı kaydeder, çünkü *zevvece* fiili normalde doğrudan geçişlidir.**
 
@@ -3045,7 +3045,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Bir nimet listesi verildikten sonra, listeye bir madde daha eklenmiyor — listenin *şartı* ekleniyor.**
 
-Şöyle görülebilir: yirmi beş-yirmi yedinci ayetlerdeki liste eksiksizdi. Bahçe vardı, su vardı, ekin vardı, makam vardı, refah vardı, keyif vardı. **Eksik olan tek şey, bunların **sürüp süremeyeceği** bilgisiydi.**
+Şöyle görülebilir: yirmi beş-yirmi yedinci ayetlerdeki liste eksiksizdi. Bahçe vardı, su vardı, ekin vardı, makam vardı, refah vardı, keyif vardı. **Eksik olan tek şey, bunların sürüp süremeyeceği bilgisiydi.**
 
 **Ve nimetin en büyük düşmanı, nimetin kendisinde değil, kişinin zihnindedir: kesilme ihtimali.**
 
@@ -3143,7 +3143,7 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 | Sonrası | **Yok** — hiçbir şey | **Var** — ve orada ölüm yok |
 | Kayıt | Yok | ***fîhâ*** — "orada" |
 
-**Yani fark, ölümlerin sayısında değil; ölümden sonrasının **olup olmadığında.** İnkârcı sayıyı doğru saydı, ama saymayı erken bitirdi.**
+**Yani fark, ölümlerin sayısında değil; ölümden sonrasının olup olmadığında. İnkârcı sayıyı doğru saydı, ama saymayı erken bitirdi.**
 
 **Bu okuma benimdir;** iki ayetin lafzı doğrulanabilir.
 
@@ -3194,13 +3194,13 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 
 ### فَضْل — kök ف-ض-ل
 
-**Somut anlamı: bir şeyin gereğinden **fazla** olması, artması.** *Fadl* — artan, geriye kalan. *Fudûl* — fazlalıklar. *Fâdıl* — üstün olan: kendinden beklenenin üstüne çıkan.
+**Somut anlamı: bir şeyin gereğinden fazla olması, artması.** *Fadl* — artan, geriye kalan. *Fudûl* — fazlalıklar. *Fâdıl* — üstün olan: kendinden beklenenin üstüne çıkan.
 
 **Ve kökün mantığı kaydedilmeye değer:** *fadl*, hak edilenin **üstündeki** kısımdır. Yani kelime kendi içinde bir **karşılıksızlık** taşır — hak edilen şey *fadl* değil, *ecr* (ücret) ya da *cezâ* (karşılık) olurdu.
 
 **Şimdi ayetin yerleştirilme biçimine bakalım — kendi okumam olarak veriyorum.**
 
-**Elli birinci ayetten beri anlatılan kişiler *el-müttekīn* diye adlandırıldı — yani bir şey **yapmış** olanlar. Korunmuşlar, sakınmışlar, kendilerini tutmuşlar.**
+**Elli birinci ayetten beri anlatılan kişiler *el-müttekīn* diye adlandırıldı — yani bir şey yapmış olanlar. Korunmuşlar, sakınmışlar, kendilerini tutmuşlar.**
 
 **Ve elli altıncı ayette Allah'ın onları koruduğu söylendi.**
 
@@ -3212,7 +3212,7 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 | 2 | 56 — *ve **vekāhüm*** | **Allah** — onları korudu |
 | 3 | 57 — ***fadlen** min rabbike* | **Ve bu, bir lütuftu** |
 
-**Yani cümle, iki ayet boyunca kurulan hak ediş zincirinin sonuna gelip, sonucu **hak ediş dışına** çıkarıyor.**
+**Yani cümle, iki ayet boyunca kurulan hak ediş zincirinin sonuna gelip, sonucu hak ediş dışına çıkarıyor.**
 
 **Bu okuma benimdir;** üç ayetin sırası ve *fadl* kelimesinin tarifi doğrulanabilir.
 
@@ -3222,7 +3222,7 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 
 **Sûrenin dört yerde tekrarlanan kalıbı burada tamamlanıyor** (6, 42, 49, 57).
 
-**Ve son geçişte kalıbın öznesi bir kişi değil, bir **şey**: *zâlike* — "bu".**
+**Ve son geçişte kalıbın öznesi bir kişi değil, bir şey: *zâlike* — "bu".**
 
 | Ayet | Özne | Ne |
 |---|---|---|
@@ -3290,9 +3290,9 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 
 **İki ayet aynı fiili kullanıyor ve iki ayrı şeyi söylüyor.**
 
-**Kamer, kolaylığın **amacını** veriyor: *li'z-zikr* — hatırlamak için. `054-kamer.md`'de bu kaydedilmişti:** *"Ayet 'Kur'an'ı kolaylaştırdık' demiyor sadece; **'للذِّكْرِ kolaylaştırdık'** diyor. Yani kolaylık **belirli bir iş için** verilmiş."*
+**Kamer, kolaylığın amacını veriyor: *li'z-zikr* — hatırlamak için. `054-kamer.md`'de bu kaydedilmişti: *"Ayet 'Kur'an'ı kolaylaştırdık' demiyor sadece; 'للذِّكْرِ kolaylaştırdık' diyor. Yani kolaylık belirli bir iş için** verilmiş."*
 
-**Duhân ise kolaylığın **aracını** veriyor: *bi-lisânike* — senin dilinde.**
+**Duhân ise kolaylığın aracını veriyor: *bi-lisânike* — senin dilinde.**
 
 **Bunu kendi okumam olarak sunuyorum, dayanağı iki edatın işidir:** biri kolaylığın **niçin** olduğunu, öteki **nasıl** sağlandığını söylüyor. **Ve ikisi birlikte tamamlanıyor:** metin bir dilde verildiği için kolaydır, ve o kolaylık hatırlamak içindir.
 
@@ -3368,7 +3368,7 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 
 ### إِنَّهُم مُّرْتَقِبُونَ — karşı tarafın da gözetlemesi
 
-**Ve son cümle, emri **karşılıklı** hâle getiriyor: *innehüm murtekıbûn* — "onlar da gözetleyenlerdir".**
+**Ve son cümle, emri karşılıklı hâle getiriyor: *innehüm murtekıbûn* — "onlar da gözetleyenlerdir".**
 
 **İsm-i fâil çoğulu, aynı bâbdan.** Yani muhataba emredilen fiil, karşı tarafın da yaptığı fiil olarak bildiriliyor.
 

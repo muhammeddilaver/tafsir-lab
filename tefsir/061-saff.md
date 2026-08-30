@@ -94,7 +94,7 @@ Burada *mâ* seçilmiş. Yani kapsam, akıl sahipleriyle sınırlanmıyor; **her
 
 İki isim, Mümtehine bölümünde 60/5'te çözümlendi: *Azîz* — kökü ع-ز-ز, sert ve ulaşılması güç olan zemin; *Hakîm* — kökü ح-ك-م, gem vurmak, alıkoymak.
 
-Ve dikkate değer bir ayrıntı: **mushaf tertibinde hemen önceki sûre olan Mümtehine'nin beşinci ayeti de tam bu iki isimle bitiyordu** (*inneke ente'l-Azîzü'l-Hakîm*). İki komşu sûre aynı ismi çiftini paylaşıyor.
+Ve dikkate değer bir ayrıntı: **mushaf tertibinde hemen önceki sûre olan Mümtehine'nin beşinci ayeti de tam bu iki isimle bitiyordu** (*inneke ente'l-Azîzü'l-Hakîm*). İki komşu sûre aynı isim çiftini paylaşıyor.
 
 İki ismin bu sûrenin açılışında bulunması, sûrenin muhtevasıyla uyumludur. *Azîz*: bir saf kurulacak, bir savaş anılacak, bir üstünlük vaat edilecek — gücün kaynağı baştan söyleniyor. *Hakîm*: ama o güç ölçüsüz kullanılmıyor; sûrenin sonunda gelecek olan vaat de keyfî değil.
 
@@ -878,7 +878,7 @@ Ve bunun sonucu şudur: **on birinci ayetin haber kipli cümlesi, burada geriye 
 
 Bu, yukarıdaki tartışmayı çözen bir delildir: *tü'minûne ve tücâhidûne* cümlesi salt bir haber olsaydı, arkasından meczum bir fiil gelmezdi. Meczum fiil, öncesinde bir talep bulunduğunu gösteriyor.
 
-İki ayet böylece tek bir yapı oluşturuyor: teklif (10) → bedel (11) → karşılık (12).
+Üç ayet böylece tek bir yapı oluşturuyor: teklif (10) → bedel (11) → karşılık (12).
 
 ### Üç kalem karşılık
 
@@ -1042,7 +1042,7 @@ Yani "Allah'a yardım", O'nun **davasına**, dinine, elçisine yardımdır. Bu, 
 
 Ve dikkat çekici olan şudur: ifade, kısaltılmamış haliyle bırakılmış. "Allah'ın dininin yardımcıları" denebilirdi; denmiyor. İfadenin bu kısalığı bir şey yapıyor: yardımın adresini **doğrudan** kuruyor. Aracı zikredilmiyor.
 
-**نَصَرَ** kökünün "kendi başına yetmeyene dışarıdan gelen" anlamını hatırlayın. İfade, kelimenin bu anlamı üzerinden okunduğunda bir gerilim taşır — ve gerilim kasıtlıdır. Bir sonraki ayette olmayan şey, kelimenin insanı ne kadar yükümlü kıldığıdır.
+**نَصَرَ** kökünün "kendi başına yetmeyene dışarıdan gelen" anlamını hatırlayın. İfade, kelimenin bu anlamı üzerinden okunduğunda bir gerilim taşır — ve gerilim kasıtlıdır. Bir sonraki ayette olan şey, kelimenin insanı ne kadar yükümlü kıldığıdır.
 
 ### مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ — "ilâ" harfi
 

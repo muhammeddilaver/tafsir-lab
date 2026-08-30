@@ -373,7 +373,7 @@ Türevleri:
 - **مُرْدِفِين** — arka arkaya gelen. *"Bin melekle size yardım edeceğim — birbiri ardınca"* (Enfâl 8/9).
 - **رَدِفَ لَكُم** — size yaklaştı, ardınıza düştü. *"De ki: Belki de acele istediğinizin bir kısmı ardınıza düşmüştür"* (Neml 27/72).
 
-**Kelimenin verdiği görüntü şudur: ikinci olan, birincinin arkasına **binmiştir**.** Yani ikisi ayrı ayrı gelmiyor; **bağlı** geliyorlar.
+**Kelimenin verdiği görüntü şudur: ikinci olan, birincinin arkasına binmiştir. Yani ikisi ayrı ayrı gelmiyor; bağlı** geliyorlar.
 
 Türkçede "peşi sıra" ifadesi bunu yaklaşık karşılar, ama *redîf*teki temas fikrini vermez.
 
@@ -451,7 +451,7 @@ Oradaki fiil **أَوْجَفْتُمْ**dür ve açıkça **at koşturmak** anl
 
 Türkçede "yüreği küt küt atmak", "kalbi yerinden çıkacak gibi olmak" ifadeleri bunu karşılar. Ama Arapçadaki resim daha somut: **göğüs kafesinin içinde koşan bir hayvan.**
 
-**Kelime ism-i fâildir ve müennestir** — bu sûrenin ilk dokuz ayetindeki dördüncü dişil ism-i fâil (*râcife*, *râdife*, *vâcife*, *hâşia*).
+**Kelime ism-i fâildir ve müennestir** — bu sûrenin ilk dokuz ayetindeki üçüncü dişil ism-i fâil (*râcife*, *râdife*, *vâcife*, *hâşia*).
 
 ### خَٰشِعَة — düşük
 
@@ -1506,7 +1506,7 @@ Sıra anlamlıdır: önce ölçü verilir, sonra denge kurulur. Bina önce yüks
 
 Ayet "gece oldu" ya da "karanlık çöktü" demiyor. **"Kararttı"** diyor — yani karanlık, ışığın çekilmesiyle kendiliğinden oluşan bir boşluk değil; **yapılan bir şey.**
 
-**Bu, Felak sûresi bölümünde **غَاسِق** için kaydedilen tespitle örtüşüyor.** Orada şu yazılmıştı: *"Karanlık Arapçanın bu kökündeki tasavvurda 'olan' bir şey değil, **akan** bir şeydir. Işığın kesilmesi değil, karanlığın dökülmesi."*
+**Bu, Felak sûresi bölümünde غَاسِق için kaydedilen tespitle örtüşüyor. Orada şu yazılmıştı: *"Karanlık Arapçanın bu kökündeki tasavvurda 'olan' bir şey değil, akan** bir şeydir. Işığın kesilmesi değil, karanlığın dökülmesi."*
 
 **Nâziât 79/29 aynı fikri başka bir kökle ve daha açık biçimde veriyor:** karanlık **yapılır.**
 
@@ -1562,7 +1562,7 @@ Bu kelime Şems bölümünde anılmıştı: orada **طَحَا** (*tahâ* — Ş
 
 **Dört — kelimenin sûredeki bağlamı bunu desteklemiyor.** Ayetin devamı şudur: *"ondan suyunu ve otlağını çıkardı."* Yani ayet, yerin **biçiminden** değil, **kullanılabilir hale getirilmesinden** söz ediyor.
 
-**Yeryüzünün küresel olması ile Kur'an arasında bir gerilim var mı?** Yok — ve bu ayrı bir meseledir. Kur'an yerin biçmi hakkında bir hüküm vermiyor. Bakara 2/22'de *firâş* (döşek) için kaydedilen şey burada da geçerlidir: *"bu ifade yerin düz olduğunu söylemez… Kelimenin söylediği şey biçim değil, işlev."*
+**Yeryüzünün küresel olması ile Kur'an arasında bir gerilim var mı?** Yok — ve bu ayrı bir meseledir. Kur'an yerin biçimi hakkında bir hüküm vermiyor. Bakara 2/22'de *firâş* (döşek) için kaydedilen şey burada da geçerlidir: *"bu ifade yerin düz olduğunu söylemez… Kelimenin söylediği şey biçim değil, işlev."*
 
 **Ayet yerin biçimini söylemiyor; ne düz olduğunu ne yuvarlak olduğunu.** İki yönde de metne bir şey söyletmek zorlamadır.
 
@@ -2496,7 +2496,7 @@ Bu, Nebe' bölümünde ve daha önce Tekâsür, Kâria bölümlerinde kaydedilen
 
 ### Sûre içindeki kelime bağları
 
-Sûrede aynı kökün iki farklı yerde, iki farklı işlevde kullanıldığı **yedi yer** vardır:
+Sûrede aynı kökün iki farklı yerde, iki farklı işlevde kullanıldığı **sekiz yer** vardır:
 
 | Kök | Birinci geçiş | İkinci geçiş |
 |---|---|---|
@@ -2793,7 +2793,7 @@ Ve Nebe' 78/23 ile birlikte okunduğunda çıkan tablo şudur: **bir tarafta yar
 - **مُنتَهَىٰ**nın iki anlamı (bilginin sonu / olayın sonu) verildi; müfessirlerin ikisini de kaydettiği ve birbirini dışlamadığı belirtildi.
 - **إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا** ayetinin diğer ayetlerle (Yâsîn 36/6; Müddessir 74/36; Furkān 25/1) ilişkisi hakkında üç izah verildi.
 - **عَشِيَّةً أَوْ ضُحَىٰهَا** ifadesinin çözümü hakkında iki okuma verildi; ikisinin de aynı sonuca vardığı belirtildi.
-- Sûre içindeki **yedi kök tekrarı tablosu doğrulanabilir dil verileridir**; bunların bir düzen oluşturduğu iddiası bir gözlem olarak sunuldu, hüküm olarak değil.
+- Sûre içindeki **sekiz kök tekrarı tablosu doğrulanabilir dil verileridir**; bunların bir düzen oluşturduğu iddiası bir gözlem olarak sunuldu, hüküm olarak değil.
 - **Nebe' ile Nâziât arasında kurulan bütün bağlar mushaf tertibine dair gözlemlerdir**; nüzul sırasına dair iddia değildir. Kelime bağları tablosundaki kök ortaklıkları doğrulanabilir verilerdir; bunların bir düzen oluşturduğu iddiası bir okumadır.
 - İki tablonun sıra farkının (yer→gök / gök→yer) iki sûrenin argüman yapısıyla uyumlu olduğu okuması **bana aittir.**
 - Sûrenin fasıla düzenine dair gözlem bir ses örgüsü tespiti olarak kaydedildi, **mucize iddiası olarak sunulmadı.**

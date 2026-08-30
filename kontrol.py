@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """Ayet kapsam kontrolu: her tefsir/*.md dosyasinda hangi ayetler islenmis?
 
-Kullanim:  python3 kontrol.py         -> eksigi olan sureleri listeler
-           python3 kontrol.py 2       -> tek sure detayi
+Kullanim:  python3 kontrol.py                    -> eksigi olan sureleri listeler
+           python3 kontrol.py 2                  -> tek sure detayi
+           python3 kontrol.py atif | ayet        -> referans denetimi
+           python3 kontrol.py --dir tefsir-en …  -> baska bir korpus (ceviri)
 """
 import re, os, sys, glob
 
@@ -41,21 +43,40 @@ def araliklar(nums):
         start = prev = n
     return ", ".join(out)
 
-def atif_kontrol():
-    """Dosyalar arasi `NNN-ad.md` atiflari gercekten var mi?"""
+# Hangi korpus denetleniyor: tefsir/ (Turkce) ya da tefsir-en/ (Ingilizce)
+DIZIN = "tefsir"
+
+def dosyalar():
     kok = os.path.dirname(os.path.abspath(__file__))
-    var = {os.path.basename(f) for f in glob.glob(os.path.join(kok, "tefsir", "*.md"))}
-    kirik = {}
-    for f in sorted(glob.glob(os.path.join(kok, "tefsir", "*.md"))):
+    return sorted(glob.glob(os.path.join(kok, DIZIN, "*.md")))
+
+def atif_kontrol():
+    """Dosyalar arasi `NNN-ad.md` atiflari gercekten var mi?
+
+    Ceviri korpusu (tefsir-en) yarim oldugunda, henuz cevrilmemis bir
+    sureye yapilan atif KIRIK degildir: hedef kanonik korpusta (tefsir/)
+    vardir, yalnizca ceviri sirasi gelmemistir. Ikisi ayri raporlanir.
+    """
+    kok = os.path.dirname(os.path.abspath(__file__))
+    kanonik = {os.path.basename(f)
+               for f in glob.glob(os.path.join(kok, "tefsir", "*.md"))}
+    var = {os.path.basename(f) for f in dosyalar()}
+    kirik, bekleyen = {}, set()
+    for f in dosyalar():
         s = open(f, encoding="utf-8").read()
         for m in sorted(set(re.findall(r"`(\d{3}-[a-z]+\.md)`", s))):
-            if m not in var:
+            if m in var:
+                continue
+            if m in kanonik:
+                bekleyen.add(m)          # cevrilmeyi bekliyor
+            else:
                 kirik.setdefault(os.path.basename(f), []).append(m)
     if kirik:
         for k, v in kirik.items():
             print(f"{k} -> olmayan dosyaya atif: {', '.join(v)}")
     else:
-        print("Butun dosya atiflari gecerli.")
+        print("Butun dosya atiflari gecerli."
+              + (f" ({len(bekleyen)} hedef henuz cevrilmedi)" if bekleyen else ""))
 
 def ayet_kontrol():
     """Metinde gecen 'sure/ayet' referanslari gecerli mi?
@@ -64,13 +85,12 @@ def ayet_kontrol():
     Sure numarasi 1-114 disinda ya da ayet numarasi o surenin ayet
     sayisindan buyukse bildirir.
     """
-    kok = os.path.dirname(os.path.abspath(__file__))
     hatali = {}
     # "12/34" ya da "12/34-56" bicimindeki referanslar
     rx = re.compile(r"\b(\d{1,3})/(\d{1,3})(?:-(\d{1,3}))?\b")
     # miras paylari gibi kesirler ayet referansi degildir
     KESIR = {"1/2", "1/3", "1/4", "1/5", "1/6", "1/8", "2/3", "3/4"}
-    for f in sorted(glob.glob(os.path.join(kok, "tefsir", "*.md"))):
+    for f in dosyalar():
         s = open(f, encoding="utf-8").read()
         for m in rx.finditer(s):
             satir_bas = s.rfind("\n", 0, m.start()) + 1
@@ -93,14 +113,55 @@ def ayet_kontrol():
     else:
         print("Butun ayet referanslari gecerli araliklarda.")
 
+
+R_EM3 = re.compile(r"\*\*\*([^*\n]+)\*\*\*")
+R_EM2 = re.compile(r"\*\*((?:[^*]|\*(?!\*))+?)\*\*")
+
+def kalin_bozuk(satir):
+    """Ic ice kalin vurgu. lib/md.ts once ***x*** kalibini, sonra **x**
+    kalibini isler; `**a **b** c**` yazilinca ortadaki kelime <strong>
+    disinda kalir ve etiketler ic ice gecer. Isaret: <strong> icerigi
+    bosluk ile basliyor ya da bitiyor."""
+    t = R_EM3.sub(lambda m: "\x01" + m.group(1) + "\x02", satir)
+    if re.search(r"\*{4,}", satir):
+        return True          # ****x** gibi cift acilis; render bozulur
+    return any(m.group(1) != m.group(1).strip() for m in R_EM2.finditer(t))
+
+def kalin_kontrol(hedef=None):
+    toplam = 0
+    for path in dosyalar():
+        m = re.match(r"^(\d+)-", os.path.basename(path))
+        if not m:
+            continue
+        if hedef and int(hedef) != int(m.group(1)):
+            continue
+        with open(path, encoding="utf-8") as f:
+            kotu = [i + 1 for i, l in enumerate(f.read().split("\n")) if kalin_bozuk(l)]
+        if kotu:
+            toplam += len(kotu)
+            print(f"{os.path.basename(path):22s} {len(kotu):4d} satir: "
+                  + ", ".join(str(n) for n in kotu[:20])
+                  + (" ..." if len(kotu) > 20 else ""))
+    if toplam:
+        print(f"Ic ice kalin vurgu: {toplam} satir.")
+    else:
+        print("Ic ice kalin vurgu yok.")
+
 def main():
+    global DIZIN
+    args = sys.argv[1:]
+    if args and args[0] == "--dir":
+        DIZIN = args[1]; args = args[2:]
+    sys.argv = [sys.argv[0]] + args
     if len(sys.argv) > 1 and sys.argv[1] == "ayet":
         ayet_kontrol(); return
     if len(sys.argv) > 1 and sys.argv[1] == "atif":
         atif_kontrol(); return
+    if len(sys.argv) > 1 and sys.argv[1] == "kalin":
+        kalin_kontrol(sys.argv[2] if len(sys.argv) > 2 else None); return
     hedef = sys.argv[1] if len(sys.argv) > 1 else None
     eksikli = 0
-    for path in sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), "tefsir", "*.md"))):
+    for path in dosyalar():
         m = re.match(r"^(\d+)-", os.path.basename(path))
         if not m:
             continue

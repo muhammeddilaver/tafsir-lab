@@ -245,7 +245,7 @@
 
 **Sahne bir talep üzerine kurulu ve talebin içeriği kaydedilmeye değer:** kişi kendi durumunu değiştirmeyi değil, **sorumluyu görmeyi ve ezmeyi** istiyor.
 
-**Bunu kendi okumam olarak kaydediyorum, dayanağı fiillerdir:** *erinâ* (göster), *nec'alhümâ tahte akdâminâ* (ayaklarımızın altına alalım). **Üç fiilin hiçbiri kişinin kendisiyle ilgili değil.**
+**Bunu kendi okumam olarak kaydediyorum, dayanağı fiillerdir:** *erinâ* (göster), *nec'alhümâ tahte akdâminâ* (ayaklarımızın altına alalım), *li-yekûnâ mine'l-esfelîn* (en aşağıda olsunlar). **Üç fiilin hiçbiri kişinin kendisiyle ilgili değil.**
 
 **Ve bu, yirmi beşinci ayetle doğrudan bağlantılıdır:** orada *karînler* (sürekli yanında olanlar) musallat edilmiş, önlerindekini ve arkalarındakini süslü göstermişlerdi. **Şimdi o karînlerin gösterilmesi isteniyor.**
 
@@ -338,7 +338,7 @@
 
 "**Âyetlerimiz hakkında eğriliğe sapanlar** bize gizli kalmaz."
 
-**يُلْحِدُونَ** — kök **ل-ح-د**. **Somut anlam: bir çukurun yan tarafına doğru oyuk açmak.** *Lahd*, mezarın dibinde değil **yan duvarında** açılan oyuktur (dosdoğru aşağı kazılana *dahd* denir).
+**يُلْحِدُونَ** — kök **ل-ح-د**. **Somut anlam: bir çukurun yan tarafına doğru oyuk açmak.** *Lahd*, mezarın dibinde değil **yan duvarında** açılan oyuktur (dosdoğru aşağı kazılana *şakk* ya da *darîh* denir).
 
 **Buradan kelimenin anlamı çıkar: dosdoğru gitmeyip *yana* sapmak.** *İlhâd* — doğrudan ayrılmak.
 

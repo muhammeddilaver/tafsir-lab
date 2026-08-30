@@ -30,7 +30,7 @@
 
 **ف-ر-ق** kökü: **ayırmak, iki şeyin arasını açmak.** Kök `044-duhan.md` 44/4'te (*yüfraku küllü emrin hakîm*) ve `077-murselat.md`'de işlendi.
 
-***Fürkān* kalıbı (*fu'lân*) dilcilerce **iş bildiren isim** sayılır: "ayırma işi" ya da "ayırt ettiren şey".**
+***Fürkān* kalıbı (*fu'lân*) dilcilerce iş bildiren isim sayılır: "ayırma işi" ya da "ayırt ettiren şey".**
 
 **Bunu bir gözlem olarak kaydediyorum:** kitaba verilen bu ad, içeriğini değil **işlevini** bildiriyor. **Ve sûrenin tamamı bu işlevin uygulamasıdır: ayetler boyunca iki taraf, iki söz, iki yürüyüş, iki su, iki akıbet ayrılacak.**
 
@@ -67,7 +67,7 @@
 
 **Yedinci ayetteki itiraz, sûrenin en çok üzerinde durulacak yeridir** — çünkü **yirminci ayette doğrudan cevaplanacak.**
 
-**İtirazın mantığı kaydedilmelidir:** elçi olan, insanların ihtiyaçlarından uzak olmalı. **Yani beklenen şey, elçinin **görünür bir ayrıcalığa** sahip olmasıdır — melek eşlik etmesi (7), hazine indirilmesi (8), bahçe verilmesi (8).**
+**İtirazın mantığı kaydedilmelidir:** elçi olan, insanların ihtiyaçlarından uzak olmalı. **Yani beklenen şey, elçinin görünür bir ayrıcalığa sahip olmasıdır — melek eşlik etmesi (7), hazine indirilmesi (8), bahçe verilmesi (8).**
 
 ---
 
@@ -115,7 +115,7 @@
 
 ### Cevabın biçimi
 
-**Ayet, yedinci ayetteki itirazın kelimelerini **birebir** tekrarlıyor:** *ye'külûne't-taâme ve yemşûne fi'l-esvâk.*
+**Ayet, yedinci ayetteki itirazın kelimelerini birebir tekrarlıyor:** *ye'külûne't-taâme ve yemşûne fi'l-esvâk.*
 
 | Ayet | Kim söylüyor | İfade |
 |---|---|---|
@@ -142,8 +142,8 @@
 
 **Yedinci ayette melek eşlik etmesi isteniyordu; burada talep büyüyor: *ev nerâ rabbenâ*.**
 
-| Ayet | Talep |
-|---|---|
+| # | Ayet | Talep |
+|---|---|---|
 | 7 | *Lev lâ ünzile ileyhi melekün fe-yekûne meahû nezîrâ* | **Elçiye melek** |
 | **21** | *Lev lâ ünzile aleynâ'l-melâikete **ev nerâ rabbenâ*** | **Kendilerine melek — ve doğrudan görme** |
 
@@ -207,7 +207,7 @@
 
 **İki okuma da nakledilir; tercih dayatmıyorum.**
 
-**Ve şikâyetin muhatabı kaydedilmelidir: cümle Peygamber'in ağzından, **Rabbine** söyleniyor.** İnsanlara değil. **Bunu bir gözlem olarak kaydediyorum: sûrede itirazlar (4-8) insanlar tarafından açıkça dile getirilmişti; buradaki cevap ise bir şikâyet olarak yukarı yöneltiliyor.**
+**Ve şikâyetin muhatabı kaydedilmelidir: cümle Peygamber'in ağzından, Rabbine söyleniyor.** İnsanlara değil. **Bunu bir gözlem olarak kaydediyorum: sûrede itirazlar (4-8) insanlar tarafından açıkça dile getirilmişti; buradaki cevap ise bir şikâyet olarak yukarı yöneltiliyor.**
 
 ---
 
@@ -238,7 +238,7 @@
 | Gerekçe | İfade |
 |---|---|
 | 1 | *Li-nüsebbite bihî fuâdek* — **kalbi pekiştirmek** |
-| 2 | *Ve rattelnâhü tertîlâ* | **ağır ağır, düzenleyerek okumak** |
+| 2 | *Ve rattelnâhü tertîlâ* — **ağır ağır, düzenleyerek okumak** |
 
 **رَتَّلَ** — kök **ر-ت-ل**: **dişlerin düzgün ve aralıklı dizilişi.** Buradan **düzenli, aralıklı, acele etmeden** anlamı gelir. **Kök `073-muzzemmil.md` 73/4'te (*ve rattili'l-kur'âne tertîlâ*) işlendi.** **Tekrarlamıyorum.**
 
@@ -305,7 +305,7 @@
 
 **Buradaki fark kaydedilmelidir:** Câsiye'de cümlenin devamı **mühürlenme** ile gidiyordu; **burada devamı bir sorumluluk sınırıdır:** *e-fe-ente tekûnü aleyhi vekîlâ.*
 
-**`039-zumer.md` 39/41'de (*ve mâ ente aleyhim bi-vekîl*) aynı kelime işlendi.** **Ve `028-kasas.md` 28/56'da bu sınırın altı sûredeki tablosu verilmişti; bu ayet o tabloya eklenir.**
+**`039-zumer.md` 39/41'de (*ve mâ ente aleyhim bi-vekîl*) aynı kelime işlendi.** **Ve `028-kasas.md` 28/56'da bu sınırın yedi sûredeki tablosu verilmişti; bu ayet o tabloya eklenir.**
 
 **كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ سَبِيلًا** — **benzetme `047-muhammed.md` 47/12'de işlendi** ve orada kaydedilmişti: **hayvanın yemesi kınanmıyor; insanın yalnız o kadarıyla yetinmesi anlatılıyor.** Oraya dayanıyorum.
 
@@ -357,7 +357,7 @@
 
 **Cümledeki zamir kaydedilmelidir: *bihî* — "onunla".**
 
-**Dilciler zamirin merciini genellikle **Kur'an** olarak verir** — nitekim en yakın mercii otuz ikinci ayetten beri konuşulan kitaptır.
+**Dilciler zamirin merciini genellikle Kur'an olarak verir** — nitekim en yakın mercii otuz ikinci ayetten beri konuşulan kitaptır.
 
 **Bunu bir gözlem olarak kaydediyorum ve dayanağı zamirin en yakın merciine gitmesidir:** mücadelenin aracı olarak **metnin kendisi** gösteriliyor. **Ve sıfat büyük tutulmuş: *cihâden kebîrâ*.**
 
@@ -373,7 +373,7 @@
 
 **مَرَجَ** — kök **م-ر-ج**: **salıvermek, serbest bırakmak** (hayvanı otlağa salmak gibi); ve **karıştırmak.** **İki anlam dalını da dilciler kaydeder.**
 
-**Aynı fiil `055-rahman.md` 55/19-20'de geçti** (*meracе'l-bahrayni yeltekıyân · beynehümâ berzahun lâ yebğıyân*) ve orada işlendi. **Tekrarlamıyorum.**
+**Aynı fiil `055-rahman.md` 55/19-20'de geçti** (*merace'l-bahrayni yeltekıyân · beynehümâ berzahun lâ yebğıyân*) ve orada işlendi. **Tekrarlamıyorum.**
 
 **Ve `035-fatir.md` 35/12'de aynı iki su *ücâc* ve *azb furât* kelimeleriyle anılmıştı;** orada Vâkıa 56/70 ile karşılaştırılmıştı. **Üç sûre, aynı olguyu üç ayrı çerçevede kullanıyor:**
 
@@ -436,7 +436,7 @@
 
 ### وَمَا ٱلرَّحْمَٰنُ — itirazın hedefi
 
-**Altmışıncı ayetteki itiraz kaydedilmeye değer: karşı taraf secdeyi değil, **ismi** soruyor.**
+**Altmışıncı ayetteki itiraz kaydedilmeye değer: karşı taraf secdeyi değil, ismi soruyor.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı sorunun biçimidir:** *ve me'r-rahmân* — "Rahmân da ne?" **Soru *men* (kim) ile değil *mâ* (ne) ile kuruluyor.**
 
@@ -546,7 +546,7 @@
 
 **إِمَام** — **`028-kasas.md` 28/5 ve 28/41'de bu kelime işlendi** ve orada aynı kelimenin iki zıt yönde kullanıldığı tablolanmıştı (güçsüzlerin önder kılınması / ateşe çağıran önderler). **Oraya dayanıyorum.**
 
-**Buradaki fark kaydedilmelidir: kelime bir **dua** içinde geçiyor** — istenen şey öndelik. **Ve kayıt konuyor: *li'l-müttekīn* — korunanlara önder.**
+**Buradaki fark kaydedilmelidir: kelime bir dua içinde geçiyor** — istenen şey öndelik. **Ve kayıt konuyor: *li'l-müttekīn* — korunanlara önder.**
 
 **Bunu kendi okumam olarak kaydediyorum:** istenen şey bir konum değil, **belirli bir topluluk içinde belirli bir işlev.** Kasas'ta öndeliğin tek başına bir değer bildirmediği kaydedilmişti; **bu dua, o kaydı kendi içinde taşıyor.**
 
@@ -581,11 +581,11 @@
 | Kelime / kök | Nerede | Ne yapıyor |
 |---|---|---|
 | **م-ش-ي** | *yemşî* (7) — *yemşûne* (20) — *yemşûne hevnâ* (63) | İtiraz, kaide, vasıf |
-| **ت-ب-ا-ر-ك** | 1, 10, 61 | Üç kez, üç ayrı konuda |
+| **ب-ر-ك** | 1, 10, 61 | Üç kez, üç ayrı konuda |
 | **ٱلرَّحْمَٰن** | 59, 60, 63 | Reddedilen isim, kullarının tarifiyle cevaplanıyor |
 | **ل-غ-و** | *merrû kirâmâ* (72) | Vâkıa, Fussilet, Kasas ile dördüncü halka |
 | **إمام** | *ve'c'alnâ li'l-müttekīne imâmâ* (74) | Kasas 28/5 ve 28/41 ile ortak kelime |
-| **و-ك-ل** | *e-fe-ente tekûnü aleyhi vekîlâ* (43) | Sorumluluk sınırı — altı sûrelik hat |
+| **و-ك-ل** | *e-fe-ente tekûnü aleyhi vekîlâ* (43) | Sorumluluk sınırı — yedi sûrelik hat |
 | **İki su** | *meraca'l-bahrayn* (53) | Rahmân ve Fâtır ile ortak olgu |
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar

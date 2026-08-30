@@ -12,7 +12,7 @@ Bu sûre, kendisinden önceki **Müzzemmil** ile birlikte okunmayı gerektiriyor
 
 | Bölüm | Ayet | Ne yapıyor |
 |---|---|---|
-| **Beş emir** | 1-7 | Kalk, uyar, tekbir getir, elbiseni temizle, pisliği terk et, başa kakma, sabret |
+| **Yedi emir** | 1-7 | Kalk, uyar, tekbir getir, elbiseni temizle, pisliği terk et, başa kakma, sabret |
 | **Gün** | 8-10 | Sûra üflendiğinde: kâfirler için kolay olmayan bir gün |
 | **Bir adam** | 11-17 | Tek başına yaratılan; mal, oğullar, düzen — ve "daha da isteyen" |
 | **İnkârın anatomisi** | 18-25 | Düşündü, ölçtü, baktı, ekşitti, sırt çevirdi, büyüklendi, sonra hüküm verdi |
@@ -135,7 +135,7 @@ Bu örtüşmeyi bir gözlem olarak kaydediyorum; iddia olarak değil.
 
 ---
 
-## 74/2-7 — Beş emir
+## 74/2-7 — Yedi emir
 
 قُمْ فَأَنذِرْ / وَرَبَّكَ فَكَبِّرْ / وَثِيَابَكَ فَطَهِّرْ / وَٱلرُّجْزَ فَٱهْجُرْ / وَلَا تَمْنُن تَسْتَكْثِرُ / وَلِرَبِّكَ فَٱصْبِرْ
 
@@ -166,7 +166,7 @@ Bu tasnifi kendi okumam olarak kaydediyorum.
 
 ### Dizim nüktesi: nesnenin öne alınması
 
-Beş ayette (3, 4, 5, 7) aynı dizim tekrarlanıyor ve bu, Arapçada anlamlı bir tercihtir:
+Dört ayette (3, 4, 5, 7) aynı dizim tekrarlanıyor ve bu, Arapçada anlamlı bir tercihtir:
 
 - *Ve **rabbeke** fe-kebbir* — "Rabbini, büyükle" (normal sıra: *fe-kebbir rabbeke*)
 - *Ve **siyâbeke** fe-tahhir* — "Elbiseni, temizle"
@@ -179,7 +179,7 @@ Anlam şu hâle geliyor: *yalnız* Rabbini büyükle. *Yalnız* Rabbin için sab
 
 Ve araya giren **فَ** harfi bu öne almayı işaretliyor: öne alınan öğeden sonra gelen *fâ*, cümlenin şart benzeri bir yapıya girdiğini gösterir — "Rabbine gelince: onu büyükle."
 
-**Bu, dizinin altısında da tekrarlanan tek gramer hamlesidir.** İstisnası altıncı ayettir (*ve lâ temnün testeksir*) — orada bir yasak var ve yapı değişiyor.
+**Bu, dizinin dördünde tekrarlanan tek gramer hamlesidir.** İkinci ayette öne çekilen bir öğe yok (*kum fe-enzir*); altıncı ayette ise (*ve lâ temnün testeksir*) bir yasak var ve yapı büsbütün değişiyor.
 
 Bu tercihin kendisi tartışmasızdır; ondan çıkarılacak sonuç (hasr) klasik kaynaklarda yaygın olarak işlenir.
 
@@ -630,7 +630,7 @@ Yani dizi, bir işi emrediyor ve o işin doğuracağı zorluğa karşı bir tutu
 
 Bu okuma benim çıkarımımdır; metin bu bağı açıkça kurmuyor.
 
-### Beş emirlik dizinin mantığı
+### Yedi emirlik dizinin mantığı
 
 Bir toplu değerlendirme.
 
@@ -909,7 +909,7 @@ Bir dizim nüktesi.
 
 **Ve dikkat: mütekellim çoğul (*nûn-u azamet*) değil, tekil.**
 
-Kur'an vahiy, yaratma ve helak fiilleri için genellikle çoğul kullanır: *innâ*, *halaknâ*, *ecalnâ*. Burada tekil var.
+Kur'an vahiy, yaratma ve helak fiilleri için genellikle çoğul kullanır: *innâ*, *halaknâ*, *cealnâ*. Burada tekil var.
 
 Klasik tefsirlerde bunun **teklikle karşı karşıya getirme** işlevi taşıdığı söylenir: *vahîdâ* (tek başına) denen bir adamın karşısına, tek başına konuşan bir özne çıkıyor.
 
@@ -1268,7 +1268,7 @@ Klasik tefsirlerde *sümme*'nin burada zaman değil **derece** bildirdiği söyl
 
 **Bir gözlem, kendi okumam olarak:** iki bedduanın arasına hiçbir şey girmiyor. Yani ayetler, adamın yaptığı işin üzerinde **duruyor** — anlatıyı ilerletmeden, aynı noktada iki kez.
 
-Ve anlatı, ancak yirmi birinci ayette devam ediyor: *sümme nazar.* Yani üç *sümme* var (20, 21, 22, 23 — dört) ve biri anlatıyı ilerletmiyor.
+Ve anlatı, ancak yirmi birinci ayette devam ediyor: *sümme nazar.* Yani dört *sümme* var (20, 21, 22, 23) ve biri anlatıyı ilerletmiyor.
 
 ---
 
@@ -1459,7 +1459,7 @@ Bunu bir çıkarım olarak sunuyorum; metin bu gerekçelendirmeyi yapmıyor ve *
 
 ### فَقَالَ — ve bağlacın işi
 
-Yedi *sümme*'nin ardından **فَ** geliyor.
+Dört *sümme*'nin ardından **فَ** geliyor.
 
 Bütün adımlar *sümme* (aradan zaman geçerek) ile bağlanmıştı. Son adım *fâ* (hemen ardından, kesintisiz) ile bağlanıyor.
 
@@ -2558,7 +2558,7 @@ Ve dizim dikkat çekicidir: **عَنِ ٱلتَّذْكِرَةِ** — hatırla
 
 ### ٱلتَّذْكِرَة — metnin adı
 
-Metin yine kendine bu adı veriyor. Ve bu ad, sûrede üç kez geçecek: 74/49, 74/54, ve `073-muzzemmil.md` 73/19'da eşi.
+Metin yine kendine bu adı veriyor. Ve bu ad, sûrede iki kez geçecek — 74/49, 74/54 — ve bir eşi `073-muzzemmil.md` 73/19'dadır.
 
 ### حُمُرٌ مُّسْتَنفِرَةٌ — ürkmüş yaban eşekleri
 
@@ -2741,9 +2741,9 @@ Bu bağı kuruyorum ve `107-maun.md`'nin kurduğu çerçeveyle de uyumlu olduğu
 | 55 | Serbest bırakma: **men şâe** |
 | 56 | Kayıt: **illâ en yeşâallâh** — ve iki sıfat |
 
-### ذ-ك-ر kökü — dört kez
+### ذ-ك-ر kökü
 
-Üç ayette kök **dört kez** geçiyor: *tezkira*, *zekerah*, *yezkürûn*, ve bir önceki ayette *et-tezkira* (49).
+Son üç ayette kök **üç kez** geçiyor: *tezkira*, *zekerah*, *yezkürûn*; 49. ayetteki *et-tezkira* ile birlikte kapanış bölümünde dört.
 
 **Sûre, kendini adlandıran kelimeyle kapanıyor.** Ve `073-muzzemmil.md` 73/19'da aynı hamle işlenmişti; tekrarlamıyorum.
 

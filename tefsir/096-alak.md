@@ -1,6 +1,6 @@
 # 96. Alak Sûresi
 
-On dokuz ayet. Kur'an'ın nüzul sırasına göre ilk sûresi sayılır — daha doğrusu ilk beş ayeti. Mushaftaki yeri ise sondan yirmi dokuzuncudur. Yani metin, ilk sözünü sona yakın bir yere koymuştur.
+On dokuz ayet. Kur'an'ın nüzul sırasına göre ilk sûresi sayılır — daha doğrusu ilk beş ayeti. Mushaftaki yeri ise sondan on dokuzuncudur. Yani metin, ilk sözünü sona yakın bir yere koymuştur.
 
 Bu tuhaflık başlı başına düşünülmeye değer. Kur'an, kendi tarihini kendi sırasına yansıtmamıştır. İlk inen ayetler kitabın başına konmamış; kitabın başına Fâtiha ile Bakara konmuştur. Nüzul sırası ile mushaf sırasının ayrı olması, Kur'an'ın kendisini bir günlük ya da kronik olarak sunmadığını gösterir.
 
@@ -39,7 +39,7 @@ Besmelenin kelime kelime tahlili Fâtiha sûresinde yapıldı; burada tekrarlam�
 
 Bu sûrenin ilk ayetleri hakkında konuşurken, elimizde ne olduğu konusunda dürüst olmak gerekiyor.
 
-**Nakledilen çerçeve şudur.** Muhammed, kırk yaşlarındayken Mekke'nin kuzeydoğusundaki Nûr dağında bulunan Hira mağarasına çekilip günlerce orada kalır (*tahannüs*). Bir gece kendisine bir melek gelir ve "İkra'" der. O, "Ben okuyan biri değilim" (*mâ ene bi-kâri'*) diye cevap verir. Melek onu sıkar, bırakır, tekrar "İkra'" der; bu üç kez tekrarlanır. Üçüncüsünde sûrenin ilk beş ayeti okunur. Muhammed titreyerek eve döner, eşi Hatice'ye "Beni örtün" der. Hatice onu yatıştırır ve amcasının oğlu, yaşlı ve Hristiyanlığı benimsemiş, İbrânîce yazı bilen Varaka b. Nevfel'e götürür. Varaka anlatılanı dinledikten sonra bunun, Mûsâ'ya gelen *nâmûs* olduğunu söyler ve kavminin onu çıkaracağını haber verir. Bir süre sonra vahiy kesilir (*fetretü'l-vahy*), ardından yeniden başlar. Bu duraklama Duhâ sûresi bahsinde ele alındı (093-duha.md); duraklamanın varlığı yaygın olarak kabul edilir, süresi ve ayrıntıları ise rivayete dayanır.
+**Nakledilen çerçeve şudur.** Muhammed, kırk yaşlarındayken Mekke'nin kuzeydoğusundaki Nûr dağında bulunan Hira mağarasına çekilip günlerce orada kalır (*tahannüs*). Bir gece kendisine bir melek gelir ve "İkra'" der. O, "Ben okuyan biri değilim" (*mâ ene bi-kâri'*) diye cevap verir. Melek onu sıkar, bırakır, tekrar "İkra'" der; bu üç kez tekrarlanır. Üçüncüsünde sûrenin ilk beş ayeti okunur. Muhammed titreyerek eve döner, eşi Hatice'ye "Beni örtün" der. Hatice onu yatıştırır ve amcasının oğlu, yaşlı ve Hristiyanlığı benimsemiş, İbrânîce yazı bilen Varaka b. Nevfel'e götürür. Varaka anlatılanı dinledikten sonra bunun, Mûsâ'ya gelen *nâmûs* olduğunu söyler ve kavminin onu çıkaracağını haber verir. Bir süre sonra vahiy kesilir (*fetretü'l-vahy*), ardından yeniden başlar. Bu duraklama Duhâ sûresi bahsinde ele alındı (`093-duha.md`); duraklamanın varlığı yaygın olarak kabul edilir, süresi ve ayrıntıları ise rivayete dayanır.
 
 **Bu rivayetin durumu.** Anlatının çekirdeği Buhârî'nin *Sahîh*inin ilk hadisleri arasında ve Müslim'de, Âişe'den nakledilir. Yani senedi bakımından hadis külliyatının en sağlam yerinde durur. Ama birkaç noktayı belirtmek gerekiyor:
 
@@ -403,7 +403,7 @@ Kur'an bunu başka yerlerde de kurar:
 
 ### Bakara 2/31-32 ile bağ
 
-Bu ayetin en yakın akrabası, Bakara sûresindeki Âdem kıssasıdır ve o bahis 002-bakara.md'de işlendi. Burada bağı kurup oraya dayanıyorum.
+Bu ayetin en yakın akrabası, Bakara sûresindeki Âdem kıssasıdır ve o bahis `002-bakara.md`'de işlendi. Burada bağı kurup oraya dayanıyorum.
 
 Orada şu vardı: Allah Âdem'e bütün isimleri öğretti; melekler bunları bilemedi ve şöyle dediler: *"Seni tenzih ederiz, bize öğrettiğinden başka bilgimiz yok"* (Bakara 2/32).
 
@@ -563,7 +563,7 @@ Ayette kullanılan kelime tam olarak bu köktendir: *el-ganî*. Yani Kur'an, "ga
 
 O halde Alak 96/7'deki azgının yaptığı şey şudur: **kendisine ait olmayan bir sıfatı üstlenmek.** Ganîlik Allah'ın sıfatıdır; insan onu kendine izafe ettiğinde bir yer değiştirme olur. Tuğyanın ne olduğunu bundan daha net gösteren bir tarif yok: sınırı aşmak, kendine ait olmayan yere geçmektir.
 
-**Leyl sûresiyle bağ.** Bu köke bu tefsirde daha önce değinildi: Leyl 92/8'de *"kim cimrilik eder ve kendini müstağnî görürse (**vestağnâ**)"* denir ve aynı sûrenin 11. ayetinde *"malı, düştüğü zaman ona fayda vermez (**mâ yuğnî**)"* gelir — aynı kök, bir kez insanın zannı, bir kez malın gerçek kapasitesi için. O bahis 092-leyl.md'de işlendi; oradaki tespit burada da geçerlidir: **azgınlığın kökeni servetin kendisi değil, ihtiyaçsızlık zannıdır.** Alak bu zannı *tuğyân*a bağlar, Leyl ise *buhl* (cimrilik) ve *tekzîb*e.
+**Leyl sûresiyle bağ.** Bu köke bu tefsirde daha önce değinildi: Leyl 92/8'de *"kim cimrilik eder ve kendini müstağnî görürse (**vestağnâ**)"* denir ve aynı sûrenin 11. ayetinde *"malı, düştüğü zaman ona fayda vermez (**mâ yuğnî**)"* gelir — aynı kök, bir kez insanın zannı, bir kez malın gerçek kapasitesi için. O bahis `092-leyl.md`'de işlendi; oradaki tespit burada da geçerlidir: **azgınlığın kökeni servetin kendisi değil, ihtiyaçsızlık zannıdır.** Alak bu zannı *tuğyân*a bağlar, Leyl ise *buhl* (cimrilik) ve *tekzîb*e.
 
 Kur'an bu bağı Tekâsür ve Hümeze sûrelerinde mal üzerinden kurar — o sûreler bu tefsirde işlendi; oradaki "malın insana kalıcılık vehmi vermesi" teşhisi, buradaki istiğnâ ile aynı mekanizmadır. Hümeze'de *"malının kendisini ebedî kılacağını sanıyor"* denir (Hümeze 104/3); burada ise mal denmeden, doğrudan zannın kendisi hedef alınıyor.
 
@@ -606,7 +606,7 @@ Ayrıca kelime **belirlilik takısıyla** geliyor: *er-ruc'â*. Yani "bir dönü
 
 ### "Rabbin" — hitabın kime olduğu
 
-Ayette bir incelik var: *"Rabbi**ne**"* deniyor, *"Rabbi**ne**"* değil. Yani tekil ikinci şahıs: **senin** Rabbin. Muhatap, azgınlığı anlatılan insan değil; sûrenin başındaki muhatap — Peygamber.
+Ayette bir incelik var: *"Rabbi**ne**"* deniyor, *"Rabbi**nize**"* değil. Yani tekil ikinci şahıs: **senin** Rabbin. Muhatap, azgınlığı anlatılan insan değil; sûrenin başındaki muhatap — Peygamber.
 
 Bu bir hitap kayması (*iltifat* — hitabın yön değiştirmesi) örneğidir. Üçüncü şahısla anlatılan bir tablonun ortasında birden ikinci şahsa dönülüyor.
 
@@ -859,7 +859,7 @@ Yani cümlenin kastettiği, kuru bir malumat değil: bilginin gerçekten kavranm
 
 ### ٱللَّه — ismin sûredeki tek geçişi
 
-**"Allah" ismi sûrede yalnızca burada geçiyor.** On dokuz ayetlik bir sûrede, ilahî isim olarak dokuz kez *Rab* geçer (rabbike, rabbüke, rabbike…) ve bir kez *Allah*.
+**"Allah" ismi sûrede yalnızca burada geçiyor.** On dokuz ayetlik bir sûrede, ilahî isim olarak üç kez *Rab* geçer (rabbike, rabbüke, rabbike…) ve bir kez *Allah*.
 
 Ve o bir kez, tam olarak buradadır: azgının gözetlendiğinin söylendiği yerde.
 

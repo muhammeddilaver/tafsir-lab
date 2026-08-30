@@ -1,19 +1,15 @@
-import { usul } from "@/lib/content";
-import { renderBlocks } from "@/lib/render";
+import MethodView from "@/components/MethodView";
+import { ROUTES, T } from "@/lib/i18n";
+import { alternates } from "@/lib/meta";
 
-export const metadata = { title: "Usul ve üslup" };
+export const metadata = {
+  title: T.tr.methodTitle,
+  alternates: {
+    canonical: ROUTES.tr.method,
+    ...alternates({ tr: ROUTES.tr.method, en: ROUTES.en.method }),
+  },
+};
 
 export default function UsulPage() {
-  const { title, blocks } = usul();
-  return (
-    <div className="wrap">
-      <main>
-        <div className="sura-head">
-          <h1>{title}</h1>
-          <p className="meta">Metnin tamamında bağlayıcı olan kurallar.</p>
-        </div>
-        <article dangerouslySetInnerHTML={{ __html: renderBlocks(blocks) }} />
-      </main>
-    </div>
-  );
+  return <MethodView lang="tr" />;
 }

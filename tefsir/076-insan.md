@@ -336,7 +336,7 @@ Bunu Kur'an başka yerde de kurar: *"Semûd'a gelince, biz onlara yolu gösterdi
 
 **Bakara 2/6 bahsinde şu tespit yapılmıştı ve örnek olarak tam da bu ayet verilmişti:**
 
-> Kök *k-f-r*: **örtmek, üstünü kapatmak, gizlemek.** Çiftçiye Arapçada *kâfir* denir, çünkü tohumu toprakla örter; geceye *kâfir* denir, çünkü her şeyin üstünü örter. Buradan çıkan tanım kritiktir: **küfür, bilmemek değildir; bildiğinin üstünü örtmektir.** Ve: **Kur'an'da küfrün karşısına çoğu zaman *îmân* değil *şükür* konur** — *şâkiran ev kefûrâ*, İnsân 76/3. Yani küfür, temelde bir **nankörlük** kavramıdır.
+> Kök *k-f-r*: **örtmek, üstünü kapatmak, gizlemek.** Çiftçiye Arapçada *kâfir* denir, çünkü tohumu toprakla örter; geceye *kâfir* denir, çünkü her şeyin üstünü örter. Buradan çıkan tanım kritiktir: **küfür, bilmemek değildir; bildiğinin üstünü örtmektir.** Ve: **Kur'an'da küfrün karşısına çoğu zaman *îmân* değil *şükür* konur** — *immâ şâkiran ve immâ kefûrâ*, İnsân 76/3. Yani küfür, temelde bir **nankörlük** kavramıdır.
 
 Orada verilen söz buydu; şimdi o ayetin kendi yerinde çözümlenmesi gerekiyor.
 
@@ -2091,7 +2091,7 @@ Bunu sûrenin kuruluş bölümünde kaydettiğim oran gözleminin son halkası o
 
 | Blok | Ayetler | İçerik | Anahtar |
 |---|---|---|---|
-| **I** | 1-3 | İnsanın kuruluşu | *mezkûrâ*, *nebtelîhi*, *şâkiran ev kefûrâ* |
+| **I** | 1-3 | İnsanın kuruluşu | *mezkûrâ*, *nebtelîhi*, *immâ şâkiran ve immâ kefûrâ* |
 | **II** | 4 | Örtenler | *a'tednâ* |
 | **III-a** | 5-6 | Ebrâr: içecek | *ebrâr*, *ibâdullâh*, *yüfeccirûnehâ* |
 | **III-b** | 7-10 | Ebrâr: amel | *yûfûne bi'n-nezr*, *alâ hubbihî*, *esîr*, *li-vechillâh* |

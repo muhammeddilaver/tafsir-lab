@@ -8,7 +8,7 @@ Sûre, Kur'an'ın **bilginin nereden geldiğini** en yoğun biçimde tartıştı
 
 ## Sûrenin adı ve kelimenin ilk sorunu
 
-**Kök: ن-ج-م.** Bu kök **086-tarik.md** bölümünde çözümlendi ve **055-rahman.md**'de bir kez daha işletildi; buradaki tahlil o ikisine dayanıyor. Orada kaydedilenler:
+**Kök: ن-ج-م.** Bu kök **`086-tarik.md`** bölümünde çözümlendi ve **`055-rahman.md`**'de bir kez daha işletildi; buradaki tahlil o ikisine dayanıyor. Orada kaydedilenler:
 
 > Asıl anlamı **belirmek, görünür hale gelmek, ortaya çıkmak**tır. *Necm* (yıldız) bu adı, gökte yanıp söndüğü için değil, **karanlıkta belirdiği** için almıştır. Aynı kök bir bitkinin topraktan çıkması için de kullanılır: *neceme* — bitti, çıktı, zuhur etti. Ve *nücûm / tencîm* — **taksit**; her taksit vakti gelip görünür.
 
@@ -107,7 +107,7 @@ Sonra 36. ayette **üçüncü bir kaynak** giriyor: *"Yoksa Mûsâ'nın sahifele
 
 Birinci ve dördüncü satır **düşme**; ikinci ve üçüncü satır **arzu**. Ve sûre bu iki anlamı birbirinden en fazla iki ayet uzakta kullanıyor.
 
-**Bu ikisi aynı kök mü?** Dilcilerin çoğunluğu **ه-و-ي** kökünü tek bir madde altında toplar ve iki anlamı birbirine bağlar. Bu bağ **101-karia.md** bölümünde çözümlendi ve **079-naziat.md**'de işletildi; orada kaydedilen şuydu:
+**Bu ikisi aynı kök mü?** Dilcilerin çoğunluğu **ه-و-ي** kökünü tek bir madde altında toplar ve iki anlamı birbirine bağlar. Bu bağ **`101-karia.md`** bölümünde çözümlendi ve **`079-naziat.md`**'de işletildi; orada kaydedilen şuydu:
 
 > *"Arapçada 'arzu' ile 'düşmek' aynı köktendir. Dilcilerin bu bağ hakkında söylediği şudur: hevâ, insanı aşağı çeken şeydir; kelimenin kendisi düşüşü içeriyor. Yani: hevâsının peşinden giden, hâviyeye varır."*
 
@@ -137,9 +137,9 @@ Sûre kısa olmasına rağmen belirli kelimeleri ısrarla tekrar ediyor, ve tekr
 
 **On altıncı ve elli dördüncü ayetlerin aynı kalıpta olması özellikle dikkat çekicidir.** İkisi de *"onu bürüyen bürüdü"* yapısındadır ve ikisinde de bürüyen şey adlandırılmıyor. Biri Sidre'nin başında, biri yıkılan şehrin üstünde. **Aynı cümle iki uçta duruyor.** Bunu bir gözlem olarak kaydediyorum; iki ayet arasındaki ilişkiyi bir hüküm olarak sunmuyorum.
 
-### Beşinci gözlem: on iki "أنّ" — sûrenin ortasındaki liste
+### Beşinci gözlem: on bir "أنّ" — sûrenin ortasındaki liste
 
-Sûrenin en dikkat çekici gramer yapısı 38-54 arasındadır ve bu, aşağıda 36-37. ayetler bölümünde ayrıntılı olarak işlenecek. Kısaca: **on yedi ayet boyunca birbirine bağlanan on iki tane *enne* cümlesi**, tek bir soruya bağlıdır — *"Mûsâ'nın ve vefâ eden İbrâhim'in sahifelerinde olanlar ona bildirilmedi mi?"* (36-37).
+Sûrenin en dikkat çekici gramer yapısı 38-54 arasındadır ve bu, aşağıda 36-37. ayetler bölümünde ayrıntılı olarak işlenecek. Kısaca: **on yedi ayet boyunca birbirine bağlanan on bir tane *enne* cümlesi**, tek bir soruya bağlıdır — *"Mûsâ'nın ve vefâ eden İbrâhim'in sahifelerinde olanlar ona bildirilmedi mi?"* (36-37).
 
 Yani sûrenin ikinci yarısındaki bütün o esaslar — kimsenin başkasının yükünü taşımayacağı, insana ancak çabasının olacağı, güldürenin ve ağlatanın O olduğu — **bağımsız cümleler değil, bir sorunun cevabıdır.** Ve o cevap, "bunlar yeni değil" demektedir.
 
@@ -174,7 +174,7 @@ Klasik tefsirlerde ihtilaf gerçektir ve gizlenmesi gerekmez:
 
 ### هَوَىٰ — düşmek
 
-**Kök: ه-و-ي.** Bu kök **101-karia.md** bölümünde ayrıntılı işlendi ve **079-naziat.md**'de bir kez daha çözümlendi; tekrarlamıyorum. Kâria bölümünde kökün Kur'an'daki geçişleri sayılırken **tam da bu ayet** ilk örnek olarak verilmişti.
+**Kök: ه-و-ي.** Bu kök **`101-karia.md`** bölümünde ayrıntılı işlendi ve **`079-naziat.md`**'de bir kez daha çözümlendi; tekrarlamıyorum. Kâria bölümünde kökün Kur'an'daki geçişleri sayılırken **tam da bu ayet** ilk örnek olarak verilmişti.
 
 Özeti: **هَوَىٰ** — yüksekten aşağı düşmek; **هَاوِيَة** — düşülen yer, cehennemin adlarından biri; **ٱلْهَوَىٰ** — nefsin arzusu, insanı aşağı çeken şey.
 
@@ -205,7 +205,7 @@ Sûrenin ilk hükmü. Ve üç kelimesinin de ayrı ayrı seçildiği görülüyo
 
 ### صَاحِبُكُم — "sizin arkadaşınız"
 
-**Kök: ص-ح-ب.** Bu kök **080-abese.md** bölümünde işlendi; orada kaydedilenler burada aynen geçerlidir:
+**Kök: ص-ح-ب.** Bu kök **`080-abese.md`** bölümünde işlendi; orada kaydedilenler burada aynen geçerlidir:
 
 > Beraber olmak, arkadaşlık etmek, refakat etmek. *Sâhib* — arkadaş, yoldaş; *sohbet* — beraberlik; *ashâb* — beraber olanlar. *Zevce* hukukî bir bağı anlatır; *sâhibe* ise **beraberliği** anlatır.
 
@@ -231,7 +231,7 @@ Ve bu, çok pratik bir muhakemedir. Ayet mucize göstermiyor, bir naklî delil �
 
 **Ve buradaki ikilik sûrenin en ince ayrımlarından biridir.**
 
-**ضَلَّ — Kök: ض-ل-ل.** Bu kök **093-duha.md** bölümünde tam olarak çözümlendi; tekrarlamıyorum. Orada kaydedilenlerin özeti:
+**ضَلَّ — Kök: ض-ل-ل.** Bu kök **`093-duha.md`** bölümünde tam olarak çözümlendi; tekrarlamıyorum. Orada kaydedilenlerin özeti:
 
 > Kökün asıl anlamı **bir şeyin içinde kaybolup görünmez olmak, yolu bulamamak, izini şaşırmak**tır. Türkçedeki "dalâlet" kelimesinin taşıdığı ağır ahlakî yükü Arapça kök taşımaz. Delili Kur'an'ın kendi kullanımıdır: *"Toprakta kaybolduğumuzda…"* (Secde 32/10); *"Rabbim şaşırmaz ve unutmaz"* (Tâhâ 20/52) — burada fiil Allah hakkında kullanılıyor ve bir bilgi eksikliğini olumsuzluyor.
 
@@ -288,7 +288,7 @@ Ve bu, muhatabın doğrulayabileceği bir iddiadır. Gelecek hakkındaki bir idd
 
 ### نَطَقَ — konuşmak
 
-**Kök: ن-ط-ق.** Bu kök **051-zariyat.md** ve **077-murselat.md** bölümlerinde geçti. Somut anlamı: **sesle, eklemli olarak söz çıkarmak.**
+**Kök: ن-ط-ق.** Bu kök **`051-zariyat.md`** ve **`077-murselat.md`** bölümlerinde geçti. Somut anlamı: **sesle, eklemli olarak söz çıkarmak.**
 
 Kökün türevleri kayda değer:
 - **مَنْطِق (mantık)** — konuşma, söz; ve oradan düşünce yöntemi. Kur'an'da Süleymân'ın *mantıku't-tayr* (kuş dili) bilmesi bu kelimeyledir (Neml 27/16).
@@ -321,7 +321,7 @@ Sûrenin en açık dizim nüktesi burada.
 
 **Aynı üç harf, aynı ses, iki ayet arayla.** Biri fiil (düştü), öteki isim (heves).
 
-Yukarıda "Sûrenin yapısı" bölümünde kaydedildiği gibi, dilcilerin çoğunluğu bu ikisini **tek kök** (ه-و-ي) altında toplar ve aradaki bağı şöyle kurar: *hevâ*, insanı aşağı çeken şeydir. Bu tahlil **101-karia.md** bölümünde ayrıntılı verildi.
+Yukarıda "Sûrenin yapısı" bölümünde kaydedildiği gibi, dilcilerin çoğunluğu bu ikisini **tek kök** (ه-و-ي) altında toplar ve aradaki bağı şöyle kurar: *hevâ*, insanı aşağı çeken şeydir. Bu tahlil **`101-karia.md`** bölümünde ayrıntılı verildi.
 
 **Ama bu ayette asıl mesele sözlük değil, ses.**
 
@@ -347,7 +347,7 @@ Sıraya bakın:
 
 ### Kur'an'da hevâ
 
-Bu kelimenin Kur'an'daki dağılımı **079-naziat.md** bölümünde verildi; tekrarlamıyorum. Özeti: kelime Kur'an'da neredeyse her zaman olumsuz bağlamdadır — *"Hevâsını ilâh edineni gördün mü?"* (Câsiye 45/23; Furkān 25/43); *"Hevâya uyma; yoksa seni Allah'ın yolundan saptırır"* (Sâd 38/26).
+Bu kelimenin Kur'an'daki dağılımı **`079-naziat.md`** bölümünde verildi; tekrarlamıyorum. Özeti: kelime Kur'an'da neredeyse her zaman olumsuz bağlamdadır — *"Hevâsını ilâh edineni gördün mü?"* (Câsiye 45/23; Furkān 25/43); *"Hevâya uyma; yoksa seni Allah'ın yolundan saptırır"* (Sâd 38/26).
 
 **Ve bu sûrenin kendisi, kelimeyi yirmi ayet sonra tam bu anlamda kullanacak:**
 
@@ -448,7 +448,7 @@ Bu sıra, bir haberin nasıl değerlendirileceğine dair bir yöntem taşıyor: 
 
 *Vahy* bir kanal adıdır; *ta'lîm* bir muhteva iddiasıdır. Ayet ikisini yan yana koyarak şunu söylüyor: gelen şey bir esinti, bir coşku, bir hâl değil — **öğretilen bir şey.** Öğretilebilen şey ise tanımı gereği belirli, aktarılabilir ve tekrarlanabilir olandır.
 
-Bu, Kur'an'ın kendi hakkındaki genel dilidir: **96-alak.md** bölümünde işlendiği gibi, ilk inen ayetlerde de fiil *alleme*dir — *"kalemle öğretti, insana bilmediğini öğretti"* (Alak 96/4-5). Sûre burada o kökü elçinin kendisine uyguluyor.
+Bu, Kur'an'ın kendi hakkındaki genel dilidir: **`096-alak.md`** bölümünde işlendiği gibi, ilk inen ayetlerde de fiil *alleme*dir — *"kalemle öğretti, insana bilmediğini öğretti"* (Alak 96/4-5). Sûre burada o kökü elçinin kendisine uyguluyor.
 
 ### شَدِيدُ ٱلْقُوَىٰ — güçleri şiddetli olan
 
@@ -464,7 +464,7 @@ Klasik tefsirlerde bu tamlamanın Cebrâil'i nitelediği yaygın olarak söyleni
 
 > *"O, şerefli bir elçinin sözüdür; **güç sahibi** (*zî kuvvetin*), Arş'ın sahibi katında **itibarlı**, orada **itaat edilen**, **güvenilir**."* (Tekvîr 81/19-21)
 
-**081-tekvir.md** bölümünde bu ayetler ayrıntılı işlendi ve orada taşıyıcının bir melek olduğu **siyakla gerekçelendirilmiş bir çıkarım** olarak sunulmuştu; ayetin adı vermediği açıkça kaydedilmişti. Aynı ihtiyat burada da geçerlidir.
+**`081-tekvir.md`** bölümünde bu ayetler ayrıntılı işlendi ve orada taşıyıcının bir melek olduğu **siyakla gerekçelendirilmiş bir çıkarım** olarak sunulmuştu; ayetin adı vermediği açıkça kaydedilmişti. Aynı ihtiyat burada da geçerlidir.
 
 ### ذُو مِرَّةٍ — sağlam yapılı olan
 
@@ -504,7 +504,7 @@ Buradaki kullanım — *feste'vâ*, ardından *ve hüve bi'l-ufuki'l-a'lâ* — 
 
 **أُفُق — kök أ-ف-ق.** Ufuk: göğün yere değdiği görünen sınır çizgisi. Çoğulu *âfâk*, ve Kur'an bu çoğulu kullanır: *"Onlara ufuklarda ve kendi nefislerinde âyetlerimizi göstereceğiz"* (Fussilet 41/53).
 
-**Bu ayet ve bu kelime, 081-tekvir.md bölümünde zaten karşılaştırıldı.** Orada Tekvîr 81/23 (*ve lekad raâhü bi'l-ufuki'l-mübîn* — "onu apaçık ufukta gördü") işlenirken bu ayete atıf yapılmış ve şu kaydedilmişti:
+**Bu ayet ve bu kelime, `081-tekvir.md` bölümünde zaten karşılaştırıldı.** Orada Tekvîr 81/23 (*ve lekad raâhü bi'l-ufuki'l-mübîn* — "onu apaçık ufukta gördü") işlenirken bu ayete atıf yapılmış ve şu kaydedilmişti:
 
 > **Aynı kelime: الأفق.** Ve aynı bağlamda: bir görme olayı, ve bir öğretme. İki sûre aynı olaya bakıyor. Tekvîr *el-ufuki'l-mübîn* (apaçık ufuk), Necm *el-ufuki'l-a'lâ* (en yüksek ufuk) diyor.
 
@@ -519,7 +519,7 @@ Tekvîr, görmenin **kalitesini** söylüyor: bulanık değil. Necm, görülen �
 
 **Ve bu, ilk üç ayette kurulan yön çizgisini tamamlıyor.** Birinci ayette bir cisim düşmüştü (*hevâ*); üçüncü ayette hevâ reddedilmişti; yedinci ayette kaynağın konumu veriliyor: **en yüksek ufuk.**
 
-**ٱلْأَعْلَىٰ** ism-i tafdîldir: "daha yüksek / en yüksek". Bu kalıp **087-ala.md** bölümünde ayrıntılı işlendi; orada sûrenin bütün örgüsünün ism-i tafdîl üzerine kurulduğu gösterilmişti. Aynı kelime burada bir mekân sıfatı olarak geliyor.
+**ٱلْأَعْلَىٰ** ism-i tafdîldir: "daha yüksek / en yüksek". Bu kalıp **`087-ala.md`** bölümünde ayrıntılı işlendi; orada sûrenin bütün örgüsünün ism-i tafdîl üzerine kurulduğu gösterilmişti. Aynı kelime burada bir mekân sıfatı olarak geliyor.
 
 ---
 
@@ -532,7 +532,7 @@ Kur'an'ın en çok tartışılan iki ayeti buradadır. Önce kelimeler, sonra ih
 
 ### دَنَا — yaklaşmak
 
-**Kök: د-ن-و.** Bu kök bu tefsirde birçok yerde geçti (**055-rahman.md**, **069-hakka.md**, **076-insan.md**, **079-naziat.md**, **087-ala.md**). Somut anlamı: **yakın olmak, mesafeyi kapatmak.**
+**Kök: د-ن-و.** Bu kök bu tefsirde birçok yerde geçti (**`055-rahman.md`**, **`069-hakka.md`**, **`076-insan.md`**, **`079-naziat.md`**, **`087-ala.md`**). Somut anlamı: **yakın olmak, mesafeyi kapatmak.**
 
 Türevleri:
 - **دُنْيَا (dünyâ)** — ism-i tafdîlin müennesi: **en yakın olan.** Yani "dünya" kelimesi bu köktendir ve "yakın olan hayat" demektir. Kur'an bunu açıkça karşıtıyla kullanır: *el-hayâtü'd-dünyâ* (yakın hayat) / *el-âhıra* (sonraki).
@@ -615,7 +615,7 @@ Türevler:
 - **قَوْس** (yay) → kök **ق-و-س**
 - **قِيَاس** (kıyas, ölçme) → kök **ق-ي-س** (*kāse yekîsü* — ölçtü)
 
-Ortadaki harf farklıdır (*vâv* / *yâ*) ve Arapçada bu fark kökü belirler. **081-tekvir.md** bölümünde *kevvera* / *küre* için yapılan uyarının aynısı burada da geçerlidir. İki kelimenin Türkçe okunuşlarındaki benzerlikten anlam çıkarılmaz.
+Ortadaki harf farklıdır (*vâv* / *yâ*) ve Arapçada bu fark kökü belirler. **`081-tekvir.md`** bölümünde *kevvera* / *küre* için yapılan uyarının aynısı burada da geçerlidir. İki kelimenin Türkçe okunuşlarındaki benzerlikten anlam çıkarılmaz.
 
 ### Yay, o kültürde ne demekti?
 
@@ -625,7 +625,7 @@ Yay, çöl toplumunda **herkeste bulunan ve boyu herkesçe bilinen** bir alettir
 
 **Yani ayet, en soyut olayı en somut aletle ölçüyor.** Gökte olan bir şeyin mesafesi, muhatabın omzunda asılı duran şeyle veriliyor.
 
-Bu, Kur'an'ın düzenli olarak yaptığı bir iştir ve bu tefsirde birkaç yerde kaydedildi: **081-tekvir.md**'de kozmik listenin ortasına gebe devenin konması; **056-vakia.md**'de cennet tasvirlerinin bilinen ağaçlarla kurulması. **En büyük iddia, en yakın nesneye bağlanıyor.**
+Bu, Kur'an'ın düzenli olarak yaptığı bir iştir ve bu tefsirde birkaç yerde kaydedildi: **`081-tekvir.md`**'de kozmik listenin ortasına gebe devenin konması; **`056-vakia.md`**'de cennet tasvirlerinin bilinen ağaçlarla kurulması. **En büyük iddia, en yakın nesneye bağlanıyor.**
 
 **Bir de şu nakledilir ve ihtiyatla aktarıyorum:** Arap âdetinde iki kişi antlaşma yaptığında yaylarını birbirine yaslayıp tek bir yay gibi çektikleri, bunun ittifakın simgesi sayıldığı söylenir. Bazı müfessirler *kābe kavseyn* ifadesini buna bağlar. **Bu izahın tarihî dayanağı tartışmalıdır ve üzerine bir yorum bina etmiyorum;** yalnızca kaynaklarda geçtiği için kaydediyorum.
 
@@ -770,7 +770,7 @@ Kökün asıl anlamı: **ateşte kızdırmak, közde pişirmek.**
 
 **Şimdi ق-ل-ب ile karşılaştıralım.**
 
-**ق-ل-ب** kökü bu tefsirde birkaç yerde işlendi (**067-mulk.md**, **083-mutaffifin.md**, **084-insikak.md**, **104-humeze.md**). Kökün somut anlamı: **bir şeyi ters çevirmek, altını üstüne getirmek.** *Kalebe* — çevirdi; *inkılâb* — dönüş; *münkalib* — dönen.
+**ق-ل-ب** kökü bu tefsirde birkaç yerde işlendi (**`067-mulk.md`**, **`083-mutaffifin.md`**, **`084-insikak.md`**, **`104-humeze.md`**). Kökün somut anlamı: **bir şeyi ters çevirmek, altını üstüne getirmek.** *Kalebe* — çevirdi; *inkılâb* — dönüş; *münkalib* — dönen.
 
 **İki kelimenin resmi:**
 
@@ -800,7 +800,7 @@ Ve bu, 11. ayeti aydınlatıyor: *fuâd* burada duyudan bağımsız bir şey de�
 
 ### مَا كَذَبَ — yalanlamadı
 
-**Kök: ك-ذ-ب.** Bu kök bu tefsirde çok yerde işlendi (**077-murselat.md**, **083-mutaffifin.md** ve diğerleri); tekrarlamıyorum.
+**Kök: ك-ذ-ب.** Bu kök bu tefsirde çok yerde işlendi (**`077-murselat.md`**, **`083-mutaffifin.md`** ve diğerleri); tekrarlamıyorum.
 
 **Fiilin buradaki yönü üzerinde bir kıraat ihtilafı vardır ve anlamı değiştirir:**
 
@@ -834,7 +834,7 @@ Buradan *mirâ*: bir sözü çekiştirmek, kurcalamak, karşındakinden bir şey
 
 **Ve bu sûre kökü bir kez daha kullanacak:** 55. ayet *fe-bi-eyyi âlâi rabbike **تَتَمَارَىٰ*** — "Rabbinin hangi nimetinde şüpheye düşüyorsun?"
 
-**055-rahman.md** bölümünde bu iki ayet karşılaştırıldı ve orada kaydedilenler burada geçerlidir:
+**`055-rahman.md`** bölümünde bu iki ayet karşılaştırıldı ve orada kaydedilenler burada geçerlidir:
 
 > *Temârî*, م-ر-ي kökünden *tefâul* babıdır: bir şeyden emin olamamak, gidip gelmek, çekişmek. Yalanlamaktan hafiftir — şüphe, ret değildir.
 
@@ -911,7 +911,7 @@ Sûre aynı kelimeyi bir görme, bir put, bir yük ve bir yaratılış için kul
 
 **Kök: س-د-ر.** **سِدْر** — Arap coğrafyasında yaygın, gerçek bir ağaç.
 
-**Bu ağaç 056-vakia.md bölümünde işlendi** (Vâkıa 56/28: *fî sidrin mahdûd* — "dikensiz sidr ağaçları içinde"); orada kaydedilenler burada aynen geçerlidir:
+**Bu ağaç `056-vakia.md` bölümünde işlendi** (Vâkıa 56/28: *fî sidrin mahdûd* — "dikensiz sidr ağaçları içinde"); orada kaydedilenler burada aynen geçerlidir:
 
 > **سِدْر** — Arap coğrafyasında yaygın bir ağaç. Türkçede *sedir*, *Arabistan kirazı*, *hünnap* gibi adlarla anılır. **Ağacın botanik teşhisi konusunda kesin konuşmuyorum;** kaynaklarda tarif edilen özellikleri şunlardır: gölgesi bol, meyvesi yenir ve **dalları dikenlidir.**
 
@@ -927,7 +927,7 @@ Sidr, o coğrafyada **çölde gölge veren birkaç ağaçtan biriydi.** Sıcak, 
 
 ### ٱلْمُنتَهَىٰ — son bulunan yer
 
-**Kök: ن-ه-ي.** Bu kök bu tefsirde birkaç yerde geçti (**059-hasr.md**, **079-naziat.md**, **089-fecr.md**).
+**Kök: ن-ه-ي.** Bu kök bu tefsirde birkaç yerde geçti (**`059-hasr.md`**, **`079-naziat.md`**, **`089-fecr.md`**).
 
 Kökün somut anlamı: **bir şeyin bitmesi, sona ermesi, son sınıra varması.**
 
@@ -943,7 +943,7 @@ Ve buradan iki ayrı yön çıkar:
 > **14. ayet:** *inde **sidreti'l-müntehâ*** — "sonun sidresi yanında"
 > **42. ayet:** *ve enne ilâ rabbike **'l-müntehâ*** — "ve son varış Rabbinedir"
 
-**079-naziat.md** bölümünde bu iki ayet zaten yan yana konmuştu (Nâziât 79/44 münasebetiyle). Orada Kur'an'daki *müntehâ* kullanımları sayılırken hem 53/14 hem 53/42 verilmişti.
+**`079-naziat.md`** bölümünde bu iki ayet zaten yan yana konmuştu (Nâziât 79/44 münasebetiyle). Orada Kur'an'daki *müntehâ* kullanımları sayılırken hem 53/14 hem 53/42 verilmişti.
 
 **Şimdi ikisini bir arada okumak mümkün ve bu sûrenin kendi verisidir:**
 
@@ -974,11 +974,11 @@ Tefsir geleneğinde çeşitli izahlar nakledilir: yükselenlerin ulaşabildiği 
 
 ### جَنَّةُ ٱلْمَأْوَىٰ — Me'vâ cenneti
 
-**جَنَّة — kök ج-ن-ن.** Bu kök **002-bakara.md** bölümünde (2/25) tam olarak çözümlendi ve bu tefsirde birçok yerde ona dayanıldı; tekrarlamıyorum. Özeti: kökün anlamı **örtmek, gizlemek**tir ve türevlerinin hepsi görünmezlik etrafında döner — *cenîn* (rahimde örtülü), *cinn* (görünmeyen), *mecnûn* (aklı örtülmüş), *micenn* (kalkan), *cennet* (ağaçlarıyla toprağı örten bahçe).
+**جَنَّة — kök ج-ن-ن.** Bu kök **`002-bakara.md`** bölümünde (2/25) tam olarak çözümlendi ve bu tefsirde birçok yerde ona dayanıldı; tekrarlamıyorum. Özeti: kökün anlamı **örtmek, gizlemek**tir ve türevlerinin hepsi görünmezlik etrafında döner — *cenîn* (rahimde örtülü), *cinn* (görünmeyen), *mecnûn* (aklı örtülmüş), *micenn* (kalkan), *cennet* (ağaçlarıyla toprağı örten bahçe).
 
 **Ve burada bir dizim tesadüfü var:** bir **ağaç** (sidre) anılıyor ve hemen ardından, kökü "ağaçlarıyla örten bahçe" olan bir kelime geliyor. İki kelime aynı görüntü ailesinden.
 
-**مَأْوَىٰ — kök أ-و-ي.** Bu kelime **093-duha.md** bölümünde işlendi (Duhâ 93/6: *e-lem yecidke yetîmen fe-âvâ*); orada kaydedilenler:
+**مَأْوَىٰ — kök أ-و-ي.** Bu kelime **`093-duha.md`** bölümünde işlendi (Duhâ 93/6: *e-lem yecidke yetîmen fe-âvâ*); orada kaydedilenler:
 
 > **مَأْوَى (me'vâ)** — barınak, sığınılan yer. Kur'an'da hem cennet hem cehennem için kullanılır: *"cennetü'l-me'vâ"* (Necm 53/15) ve *"me'vâhümü'n-nâr"* (Âl-i İmrân 3/151). Yani *me'vâ* değer bildirmez; sadece "sonunda varılan yer" demektir.
 
@@ -1009,7 +1009,7 @@ Ve bu, bir mekân tarifinde beklenen bir vurgudur: iki şeyin **aynı yerde** ol
 
 Türevler kökün ağını gösteriyor:
 - **غِشَاوَة (ğışâve)** — göze inen perde. Kur'an kullanır: *"gözlerinin üstünde bir perde vardır"* (Bakara 2/7).
-- **غَاشِيَة (ğâşiye)** — kaplayan, bürüyen. Bir sûrenin adı; **088-gasiye.md** bölümünde işlendi.
+- **غَاشِيَة (ğâşiye)** — kaplayan, bürüyen. Bir sûrenin adı; **`088-gasiye.md`** bölümünde işlendi.
 - **تَغْشِيَة** — bir şeyin üzerini örtmek.
 - **غَشَيَان** — baygınlık; bilincin üstünün örtülmesi.
 
@@ -1057,7 +1057,7 @@ Klasik tefsirlerde bunun ne olduğu hakkında çeşitli izahlar nakledilir (nur,
 | Bürünen | **Sidre** | **Alt üst edilen şehir** (*el-mü'tefike*) |
 | Ne bürüyor | Adlandırılmıyor | Adlandırılmıyor |
 
-**Şeddeli kalıbın anlamı üzerinde 081-tekvir.md bölümünde durulmuştu:** *tef'îl* babının şeddesi Arapçada **tekrar, çokluk ve kapsamlılık** bildirir. Yani 54. ayetteki bürünme daha yoğun, daha eksiksiz bir kaplamadır.
+**Şeddeli kalıbın anlamı üzerinde `081-tekvir.md` bölümünde durulmuştu:** *tef'îl* babının şeddesi Arapçada **tekrar, çokluk ve kapsamlılık** bildirir. Yani 54. ayetteki bürünme daha yoğun, daha eksiksiz bir kaplamadır.
 
 **Ve iki ayet arasındaki ilişkiyi kendi okumam olarak kaydediyorum:** sûre aynı fiili bir kez bir ağacın üstünde, bir kez yıkılan bir şehrin üstünde kullanıyor. İkisinde de üstten gelen bir şey var ve ikisinde de adı verilmiyor.
 
@@ -1076,7 +1076,7 @@ Sûrenin en yoğun iki kelimesi burada ve ikisi de bu tefsirde daha önce çöz�
 
 ### زَاغَ — kayma
 
-**Kök: ز-ي-غ.** Bu kök **061-saff.md** bölümünde tam olarak çözümlendi ve orada **tam bu ayet** örnek olarak verilmişti. Oradaki tahlili tekrarlamıyorum, sonucunu alıyorum:
+**Kök: ز-ي-غ.** Bu kök **`061-saff.md`** bölümünde tam olarak çözümlendi ve orada **tam bu ayet** örnek olarak verilmişti. Oradaki tahlili tekrarlamıyorum, sonucunu alıyorum:
 
 > Anlamı: **doğru hattan sapmak, meyletmek, eğrilmek.** *Zâgati'ş-şems* — güneş zeval noktasından meyletti; en tepe noktasından ayrılıp eğildi. *Zâğa'l-basar* — göz kaydı, hedeften şaştı.
 >
@@ -1086,7 +1086,7 @@ Saff bölümü ayrıca Ahzâb 33/10'u vermişti: *"gözler kaydığı zaman"* �
 
 ### طَغَىٰ — taşma
 
-**Kök: ط-غ-ي.** Bu kök **096-alak.md** bölümünde çözümlendi ve bu tefsirde en çok işletilen köklerden biri oldu (**079-naziat.md**, **091-sems.md**, **069-hakka.md**, **055-rahman.md**, **051-zariyat.md**). Tekrarlamıyorum; özeti:
+**Kök: ط-غ-ي.** Bu kök **`096-alak.md`** bölümünde çözümlendi ve bu tefsirde en çok işletilen köklerden biri oldu (**`079-naziat.md`**, **`091-sems.md`**, **`069-hakka.md`**, **`055-rahman.md`**, **`051-zariyat.md`**). Tekrarlamıyorum; özeti:
 
 > Kökün asıl, somut anlamı **suyun haddini aşması, taşması**dır. Delili Kur'an'ın kendi kullanımıdır: *"Su taştığında (tağa'l-mâ'), sizi akıp giden gemide taşıdık"* (Hâkka 69/11) — orada kelime hiçbir ahlakî anlam taşımaz, yalnızca suyun sınırını aşmasıdır.
 >
@@ -1136,7 +1136,7 @@ Bir insan alışılmadık bir şey gördüğünde iki tür hata yapabilir:
 
 ### ٱلْبَصَر — ve fuâd ile ilişkisi
 
-**Kök: ب-ص-ر.** Bu kök bu tefsirde çok yerde işlendi (**067-mulk.md**, **069-hakka.md**, **075-kiyame.md**, **084-insikak.md** ve diğerleri). Somut anlamı: **görme, gözle idrak.** *Basîret* — iç görü; *basîr* — gören.
+**Kök: ب-ص-ر.** Bu kök bu tefsirde çok yerde işlendi (**`067-mulk.md`**, **`069-hakka.md`**, **`075-kiyame.md`**, **`084-insikak.md`** ve diğerleri). Somut anlamı: **görme, gözle idrak.** *Basîret* — iç görü; *basîr* — gören.
 
 **Ve dikkat: 11. ayette *fuâd*, 17. ayette *basar*.**
 
@@ -1172,7 +1172,7 @@ Bir insan alışılmadık bir şey gördüğünde iki tür hata yapabilir:
 
 **Bir tercih olarak birinci okumayı daha güçlü buluyorum**, gerekçesi *min* edatının parça bildirmesidir. **Bağlayıcı değildir.**
 
-Ve şunu eklemek gerekiyor: **079-naziat.md** bölümünde *el-kübrâ* kelimesi için bir uyarı kaydedilmişti — *"el-kübrâ Kur'an'da başka yerlerde de kullanılır (Necm 53/18; Tâhâ 20/23). Yani kelimenin bir sûrede iki kez geçmesi tek başına bir kasıt delili değildir."* Aynı ihtiyat burada da geçerli: kelime sıradan bir üstünlük sıfatıdır.
+Ve şunu eklemek gerekiyor: **`079-naziat.md`** bölümünde *el-kübrâ* kelimesi için bir uyarı kaydedilmişti — *"el-kübrâ Kur'an'da başka yerlerde de kullanılır (Necm 53/18; Tâhâ 20/23). Yani kelimenin bir sûrede iki kez geçmesi tek başına bir kasıt delili değildir."* Aynı ihtiyat burada da geçerli: kelime sıradan bir üstünlük sıfatıdır.
 
 ### İkinci bloğun kapanışı
 
@@ -1206,7 +1206,7 @@ Bu geçiş, sûrenin bilgi tartışmasının tam ortasıdır ve bir gözlem olar
 
 ### أَفَرَءَيْتُم — kalıp
 
-Bu kalıp **056-vakia.md** bölümünde ayrıntılı işlendi. Orada Vâkıa'nın dört delilinin hepsinin *e-fe-raeytüm* ile başladığı ve kalıbın yapısı tablo halinde verilmişti.
+Bu kalıp **`056-vakia.md`** bölümünde ayrıntılı işlendi. Orada Vâkıa'nın dört delilinin hepsinin *e-fe-raeytüm* ile başladığı ve kalıbın yapısı tablo halinde verilmişti.
 
 Kalıbın işi şudur: **"bana bir söyleyin bakalım"** — muhataba bir nesne gösterip onun hakkında hüküm vermesini istemek. Türkçedeki "peki şuna ne diyeceksiniz?" ifadesi karşılığıdır.
 
@@ -1238,7 +1238,7 @@ Kaynaklarda Lât'ın Tâif'te bulunduğu ve Sakīf kabilesince benimsendiği nak
 
 ### ٱلْعُزَّىٰ
 
-**Kök: ع-ز-ز.** Bu kök bu tefsirde birçok yerde işlendi (**059-hasr.md**, **057-hadid.md**, **067-mulk.md**, **085-buruc.md** ve diğerleri). Orada kaydedilen:
+**Kök: ع-ز-ز.** Bu kök bu tefsirde birçok yerde işlendi (**`059-hasr.md`**, **`057-hadid.md`**, **`067-mulk.md`**, **`085-buruc.md`** ve diğerleri). Orada kaydedilen:
 
 > Kökün somut anlamı **sertlik ve dayanıklılık**tır. *Ardun azâz* — sert, kazılması güç toprak. Buradan iki yön çıkar: **yenilmezlik** (kırılmayan, boyun eğdirilemeyen) ve **nadirlik/değer** (*azze'ş-şey'ü*: nadirleşti). İki anlam birbirine bağlıdır: ulaşılması zor olan hem güçlüdür hem değerlidir.
 
@@ -1250,11 +1250,11 @@ Kaynaklarda Lât'ın Tâif'te bulunduğu ve Sakīf kabilesince benimsendiği nak
 
 **Bunu bir sözlük gözlemi olarak kaydediyorum.** Adın böyle kurulmuş olması, 23. ayetin *"sizin ve atalarınızın taktığı isimlerden ibarettir"* hükmüyle örtüşüyor: ad, mevcut bir dinî sözlükten devşirilmiş.
 
-Kaynaklarda Uzzâ'nın Mekke yakınlarında, Nahle vadisinde bulunduğu nakledilir. **111-tebbet.md** bölümünde kaydedildiği gibi, Ebû Leheb'in asıl adının **Abdüluzzâ** — "Uzzâ'nın kulu" — olduğu siyer kaynaklarında verilir; yani ad, o toplumda kişi adlarına kadar girmişti.
+Kaynaklarda Uzzâ'nın Mekke yakınlarında, Nahle vadisinde bulunduğu nakledilir. **`111-tebbet.md`** bölümünde kaydedildiği gibi, Ebû Leheb'in asıl adının **Abdüluzzâ** — "Uzzâ'nın kulu" — olduğu siyer kaynaklarında verilir; yani ad, o toplumda kişi adlarına kadar girmişti.
 
 ### مَنَاة
 
-**Kök: م-ن-ي.** Bu kök **075-kiyame.md** bölümünde işlendi; orada kaydedilenler:
+**Kök: م-ن-ي.** Bu kök **`075-kiyame.md`** bölümünde işlendi; orada kaydedilenler:
 
 > - **مَنَىٰ** (*menâ*) — takdir etti, ölçtü, biçti.
 > - **مَنِىّ** (*menî*) — akıtılan.
@@ -1312,7 +1312,7 @@ Bu bilgiler siyer, ensâb ve "putlar kitabı" türü eserlerden gelir. **Bu tefs
 - *"Rabbin size oğulları seçip kendisine meleklerden kızlar mı edindi?"* (İsrâ 17/40)
 - *"Sor onlara: Rabbinin kızları, onların da oğulları öyle mi?"* (Sâffât 37/149)
 
-**112-ihlas.md** bölümünde bu inancın **işlevi** üzerinde durulmuştu ve orada kaydedilen tespit burada belirleyicidir:
+**`112-ihlas.md`** bölümünde bu inancın **işlevi** üzerinde durulmuştu ve orada kaydedilen tespit burada belirleyicidir:
 
 > Melekleri Allah'ın kızları sayıyorlardı; Lât, Menât ve Uzzâ da bu çerçevede anılıyordu. **Bu inancın işlevi önemlidir: kızlar aracıdır, şefaatçidir.** Allah uzaktır, ulaşılamazdır; kızları aracılığıyla O'na yaklaşılır. Kur'an bu mantığı da kaydeder: *"Onlara sadece bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz"* (Zümer 39/3). **Yani soy iddiası, aracılık kurumunun temelidir.**
 
@@ -1342,12 +1342,12 @@ Yani ayet, karşı tarafı kendi dışından bir ölçüyle yargılamıyor. **Ka
 
 **Muhatabın iki kabulü şudur ve ikisi de onlara aittir:**
 
-1. Kız çocuğu istenmeyen, utanç verici bir şeydir. — Bu, Kur'an'ın kendi kaydettiği bir olgudur: *"Onlardan birine kız çocuğu müjdelendiğinde, öfkeyle dolu olarak yüzü kapkara kesilir"* (Nahl 16/58). **081-tekvir.md** bölümünde bu ayet ayrıntılı işlendi.
+1. Kız çocuğu istenmeyen, utanç verici bir şeydir. — Bu, Kur'an'ın kendi kaydettiği bir olgudur: *"Onlardan birine kız çocuğu müjdelendiğinde, öfkeyle dolu olarak yüzü kapkara kesilir"* (Nahl 16/58). **`081-tekvir.md`** bölümünde bu ayet ayrıntılı işlendi.
 2. Melekler ve bu üç varlık Allah'ın kızlarıdır.
 
 **İki kabul yan yana konduğunda çıkan sonuç:** kendisi için istemediğini Allah'a veriyor.
 
-**052-tur.md** bölümünde aynı tekniğin bir başka örneği işlendi (Tûr 52/39) ve orada kaydedilen not burada da aynen geçerlidir:
+**`052-tur.md`** bölümünde aynı tekniğin bir başka örneği işlendi (Tûr 52/39) ve orada kaydedilen not burada da aynen geçerlidir:
 
 > **Bir kayıt gerekiyor:** ayet kız çocuğunun değersizliğini kabul etmiyor; **muhatabın kabulünü ona karşı kullanıyor.** Bu, Kur'an'ın sık kullandığı bir tekniktir: karşı tarafın kendi ölçüsüyle konuşmak.
 
@@ -1359,7 +1359,7 @@ Yani ayet, karşı tarafı kendi dışından bir ölçüyle yargılamıyor. **Ka
 
 **Cümlenin sırası tersine çevrilmiş.**
 
-Normal sıra *e-lekümü'z-zeker* değil, *e-lekümü'z-zeker*… — burada zaten câr-mecrûr (*leküm*) öne alınmış. Ve ikinci cümlede de aynı: *ve **lehü**'l-ünsâ*.
+Normal sıra *e-zekeru leküm* olurdu; ayette *e-lekümü'z-zeker* geliyor — burada zaten câr-mecrûr (*leküm*) öne alınmış. Ve ikinci cümlede de aynı: *ve **lehü**'l-ünsâ*.
 
 Arapçada bu öne alma **tahsis** (sınırlandırma) bildirir: "erkek **size** ait, dişi **O'na** ait."
 
@@ -1422,7 +1422,7 @@ Sûrenin en uzun ayeti ve delil bölümünün kapanışı. Üç ayrı cümle var
 
 ### أَسْمَآءٌ سَمَّيْتُمُوهَآ — isimlendirmenin gerçeklik üretmemesi
 
-**Kök: س-م-و.** Bu kök bu tefsirde birkaç yerde geçti (**051-zariyat.md**, **071-nuh.md**, **082-infitar.md**, **084-insikak.md**).
+**Kök: س-م-و.** Bu kök bu tefsirde birkaç yerde geçti (**`051-zariyat.md`**, **`071-nuh.md`**, **`082-infitar.md`**, **`084-insikak.md`**).
 
 Kökün anlam alanı üzerinde durmaya değer:
 - **ٱسْم (isim)** — ad.
@@ -1461,7 +1461,7 @@ Bu, sûre içi doğrulanabilir bir tekrardır. Ve iki ayet arasındaki karşıtl
 
 ### İsimlendirme neden bir delil olarak yeterli değil?
 
-**058-mucadele.md** bölümünde bu ilke işlendi ve orada **tam bu ayet** delil olarak kullanılmıştı. Oradaki kayıt:
+**`058-mucadele.md`** bölümünde bu ilke işlendi ve orada **tam bu ayet** delil olarak kullanılmıştı. Oradaki kayıt:
 
 > Bu ilke, Kur'an'ın dille kurulan sahte gerçeklikler konusundaki genel tavrıdır. **Bir şeye bir ad vermek, onu o şey yapmaz.** Aynı mantık başka yerlerde de görülür: putlara verilen adlar için *"Onlar, sizin ve atalarınızın taktığı isimlerden ibarettir"* (Necm 53/23); faizi ticaret sayanlar için *"Alışveriş de faiz gibidir dediler"* (Bakara 2/275) — ve ayet bu eşitlemeyi reddeder.
 >
@@ -1567,7 +1567,7 @@ Yani: zanna uymaları, ellerinde başka bir şey olmadığından değil. Alterna
 
 ### تَمَنَّىٰ — temenni
 
-**Kök: م-ن-ي.** Yukarıda, 20. ayette *Menât* münasebetiyle bu kök verildi ve **075-kiyame.md**'deki tahlile dayanıldı.
+**Kök: م-ن-ي.** Yukarıda, 20. ayette *Menât* münasebetiyle bu kök verildi ve **`075-kiyame.md`**'deki tahlile dayanıldı.
 
 **تَمَنَّىٰ** — *tefe'ul* babı: bir şeyi istemek, arzu etmek, olmasını dilemek.
 
@@ -1577,7 +1577,7 @@ Yani: zanna uymaları, ellerinde başka bir şey olmadığından değil. Alterna
 
 Bunu bir çıkarım olarak sunuyorum; kökün iki anlamı arasındaki tarihî ilişki hakkında kesin bir hüküm vermiyorum.
 
-**Kelimenin Kur'an'daki bir başka türevi:** **أَمَانِىّ** (*emânî* — kuruntular). Bu kelime **002-bakara.md** bölümünde (2/78) işlenmişti ve orada kaydedilen tespit burada da geçerlidir: *emânî*, gerçeğe değil isteğe dayalı kanaattir.
+**Kelimenin Kur'an'daki bir başka türevi:** **أَمَانِىّ** (*emânî* — kuruntular). Bu kelime **`002-bakara.md`** bölümünde (2/78) işlenmişti ve orada kaydedilen tespit burada da geçerlidir: *emânî*, gerçeğe değil isteğe dayalı kanaattir.
 
 ### أَمْ — bağlantı edatı
 
@@ -1591,7 +1591,7 @@ Ve buradaki bağ şudur: 23. ayet, muhatapların **nefislerinin arzuladığına*
 
 **Ayet soruya cevap vermiyor** — daha doğrusu, cevabı bir başka cümleyle veriyor: *fe-lillâhi'l-âhıratü ve'l-ûlâ.*
 
-Bu, Kur'an'ın sık kullandığı bir tekniktir ve bu tefsirde birkaç yerde kaydedildi (**107-maun.md** bölümündeki açılış sorusu; **063-munafikun.md** bölümündeki kapanış sorusu). Soru cevabı **kabul ettirmez, buldurur.**
+Bu, Kur'an'ın sık kullandığı bir tekniktir ve bu tefsirde birkaç yerde kaydedildi (**`107-maun.md`** bölümündeki açılış sorusu; **`063-munafikun.md`** bölümündeki kapanış sorusu). Soru cevabı **kabul ettirmez, buldurur.**
 
 Burada verilen cevap ise doğrudan bir "hayır" değil, bir **mülkiyet beyanı**dır: her şey O'nun.
 
@@ -1607,7 +1607,7 @@ Beklenen sıra "dünya ve âhiret" olurdu — zaman sırası budur. Ayet tersine
 
 **Ama bir anlam boyutu da kaydedilebilir ve bunu kendi okumam olarak sunuyorum:** ayet, insanın temennisini reddederken önce **sonucu** anıyor. Bir temenni, sonucu hakkındadır. Ve sonuç kimin elindeyse, temenni orada biter.
 
-**087-ala.md** bölümünde benzer bir sıra tersliği (İbrâhim-Mûsâ / Mûsâ-İbrâhim) tartışılmış ve orada da fasıla ihtimali kaydedilip kesin bir sebep verilmemişti. Aynı ihtiyat burada da geçerlidir.
+**`087-ala.md`** bölümünde benzer bir sıra tersliği (İbrâhim-Mûsâ / Mûsâ-İbrâhim) tartışılmış ve orada da fasıla ihtimali kaydedilip kesin bir sebep verilmemişti. Aynı ihtiyat burada da geçerlidir.
 
 **ٱلْأُولَىٰ kelimesi bu sûrede üç kez geçiyor** (25, 50, 56) ve her seferinde farklı bir şeyi niteliyor: dünya hayatı (25), ilk Âd kavmi (50), önceki uyarıcılar (56). Bir kelime dağılımı gözlemi olarak kaydediyorum.
 
@@ -1620,7 +1620,7 @@ Beklenen sıra "dünya ve âhiret" olurdu — zaman sırası budur. Ayet tersine
 
 ### Ayetin siyaktaki yeri — ve asıl mesele bu
 
-**Yukarıda 19-20. ayetler bölümünde kaydedildiği gibi**, üç putun ve meleklerin Allah'ın kızları sayılmasının **işlevi aracılıktı.** **112-ihlas.md** bölümünde bu tespit yapılmış ve Zümer 39/3 delil olarak verilmişti: *"Onlara sadece bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz."*
+**Yukarıda 19-20. ayetler bölümünde kaydedildiği gibi**, üç putun ve meleklerin Allah'ın kızları sayılmasının **işlevi aracılıktı.** **`112-ihlas.md`** bölümünde bu tespit yapılmış ve Zümer 39/3 delil olarak verilmişti: *"Onlara sadece bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz."*
 
 **Yani sûre şimdi asıl meseleye geliyor.**
 
@@ -1642,7 +1642,7 @@ Sıraya bakın:
 
 **Kök: ش-ف-ع.** Ve kökün somut anlamı, kelimenin ne demek olduğunu gösteriyor.
 
-**شَفْع** — **çift.** Karşıtı **وَتْر** (*vetr*) — tek. Kur'an bu ikisini yan yana kullanır: *"Çifte ve teke andolsun"* (Fecr 89/3: *ve'ş-şef'i ve'l-vetr*) — bu ayet **089-fecr.md** bölümünde işlendi.
+**شَفْع** — **çift.** Karşıtı **وَتْر** (*vetr*) — tek. Kur'an bu ikisini yan yana kullanır: *"Çifte ve teke andolsun"* (Fecr 89/3: *ve'ş-şef'i ve'l-vetr*) — bu ayet **`089-fecr.md`** bölümünde işlendi.
 
 **Yani şefaat, kökü itibarıyla "tek olanı çift yapmak"tır.** Yalnız duran birinin yanına birinin daha katılması.
 
@@ -1658,7 +1658,7 @@ Bu yüzden aracı tanrıça fikri, o toplumun sosyal mantığının doğrudan uz
 
 **Kök: غ-ن-ي.** *Ğınâ* — zenginlik, yeterlilik, muhtaç olmama. *Ağnâ* — zengin etti, yeterli geldi, ihtiyacı giderdi.
 
-**أَغْنَىٰ** fiili Kur'an'da düzenli olarak "bir işe yaramak, yeterli gelmek" anlamında kullanılır — özellikle olumsuz cümlelerde: *"Malı ve kazandığı ona bir yarar sağlamadı"* (Tebbet 111/2: *mâ **ağnâ** anhü mâlühû*). Bu kullanım **111-tebbet.md** bölümünde işlendi.
+**أَغْنَىٰ** fiili Kur'an'da düzenli olarak "bir işe yaramak, yeterli gelmek" anlamında kullanılır — özellikle olumsuz cümlelerde: *"Malı ve kazandığı ona bir yarar sağlamadı"* (Tebbet 111/2: *mâ **ağnâ** anhü mâlühû*). Bu kullanım **`111-tebbet.md`** bölümünde işlendi.
 
 **Ve bu sûre aynı fiili 48. ayette olumlu olarak kullanacak:** *ve ennehû hüve **أَغْنَىٰ** ve aknâ* — "zengin eden de O'dur."
 
@@ -1749,7 +1749,7 @@ Bunu bir çıkarım olarak sunuyorum, nakil olarak değil.
 
 ### ٱلْأُنثَىٰ — sûredeki üçüncü ve şaşırtıcı geçiş
 
-**Kök: أ-ن-ث.** Bu kök **075-kiyame.md** ve **092-leyl.md** bölümlerinde geçti. Kıyâme bölümünde kaydedilen not: *"أ-ن-ث kökündeki 'yumuşaklık' izahı nakledildi, kesinlik iddiasında bulunulmadı."*
+**Kök: أ-ن-ث.** Bu kök **`075-kiyame.md`** ve **`092-leyl.md`** bölümlerinde geçti. Kıyâme bölümünde kaydedilen not: *"أ-ن-ث kökündeki 'yumuşaklık' izahı nakledildi, kesinlik iddiasında bulunulmadı."*
 
 Dilcilerin naklettiği izah şudur: kök, **yumuşaklık ve esneklik** fikri taşır — *enîs*, *enes* gibi kelimelerle ilişkilendirilir. **Bu türetme kesin değildir** ve ihtiyat kaydıyla naklediyorum.
 
@@ -1825,7 +1825,7 @@ Kelime hakkında iki not:
 
 ### تَوَلَّىٰ — sırtını dönmek
 
-**Kök: و-ل-ي.** Bu kök **088-gasiye.md** bölümünde tam olarak çözümlendi ve orada **bu sûrenin 33. ayeti** örnek olarak verilmişti. Oradaki tahlili tekrarlamıyorum; özeti:
+**Kök: و-ل-ي.** Bu kök **`088-gasiye.md`** bölümünde tam olarak çözümlendi ve orada **bu sûrenin 33. ayeti** örnek olarak verilmişti. Oradaki tahlili tekrarlamıyorum; özeti:
 
 > *Tevellâ*, V. babdadır ve bu babda kök **ters yöne** döner: yakınlıktan çıkmak, sırtını dönüp uzaklaşmak. **Aynı kökün hem "dost olmak" hem "sırt çevirmek" anlamını taşıması, kelimenin resmini veriyor:** ikisi de bir **yön** meselesidir. Yakın olan yüzünü dönmüştür; uzaklaşan sırtını.
 >
@@ -1851,7 +1851,7 @@ Yani *irâde*, kökünde **arama** fikri taşır: bir şeyi aramak, peşine dü�
 
 ### ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ — sûrenin en keskin teşhisi
 
-**مَبْلَغ — kök ب-ل-غ.** Bu kök **068-kalem.md** ve **072-cin.md** bölümlerinde işlendi. Cin bölümünde kaydedilen:
+**مَبْلَغ — kök ب-ل-غ.** Bu kök **`068-kalem.md`** ve **`072-cin.md`** bölümlerinde işlendi. Cin bölümünde kaydedilen:
 
 > Bir yere varmak, ulaşmak, erişmek. *Beleğa* — ulaştı. *Bâliğ* — ergenlik çağına **ulaşmış**. *Belâğa* — sözün, anlamı hedefine ulaştırma sanatı.
 
@@ -2004,7 +2004,7 @@ Bir iş büyük olabilir ama açıkça çirkin olmayabilir; ya da çirkinliği h
 
 **Ve sûrenin en tartışmalı kelimesi budur.**
 
-**Kök: ل-م-م.** Bu kök **089-fecr.md** bölümünde işlendi (Fecr 89/19: *eklen lemmâ*); orada kaydedilen:
+**Kök: ل-م-م.** Bu kök **`089-fecr.md`** bölümünde işlendi (Fecr 89/19: *eklen lemmâ*); orada kaydedilen:
 
 > **لَمّ — kök ل-م-م:** toplamak, derleyip bir araya getirmek. *Lemme'ş-şey'e* — dağınık olanı topladı, devşirdi.
 
@@ -2054,7 +2054,7 @@ Ve bu, bir önceki cümleyle doğrudan ilgilidir: *lemem* kaydedildi, sonra geni
 
 **Ayet, "kendinizi temize çıkarmayın" hükmünü kurmadan önce bir delil veriyor.** Ve delil, insanın kendisi hakkındaki bilgisinin **ne zaman başladığıyla** ilgili.
 
-**أَنشَأَ — kök ن-ش-أ.** Bu kök **067-mulk.md**, **073-muzzemmil.md** ve **055-rahman.md** bölümlerinde işlendi. Mülk bölümünde *halaka*dan farkı üzerinde durulmuştu. Özeti: **doğmak, yetişmek, ortaya çıkmak, yükselmek**; *inşâ* — bir yapıyı adım adım kurmak.
+**أَنشَأَ — kök ن-ش-أ.** Bu kök **`067-mulk.md`**, **`073-muzzemmil.md`** ve **`055-rahman.md`** bölümlerinde işlendi. Mülk bölümünde *halaka*dan farkı üzerinde durulmuştu. Özeti: **doğmak, yetişmek, ortaya çıkmak, yükselmek**; *inşâ* — bir yapıyı adım adım kurmak.
 
 **أَجِنَّة — kök ج-ن-ن.** *Cenîn*in çoğulu. Kök yukarıda 15. ayette verildi: **örtmek, gizlemek.** *Cenîn* — rahimde örtülü olan.
 
@@ -2075,7 +2075,7 @@ Ve bu, bir önceki cümleyle doğrudan ilgilidir: *lemem* kaydedildi, sonra geni
 
 ### فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ — kendini temize çıkarma yasağı
 
-**Kök: ز-ك-و.** Bu kök **091-sems.md** bölümünde tam olarak çözümlendi, **092-leyl.md** ve **087-ala.md**'de işletildi, **062-cuma.md**'de bir gerilim olarak ele alındı. Tekrarlamıyorum; özeti:
+**Kök: ز-ك-و.** Bu kök **`091-sems.md`** bölümünde tam olarak çözümlendi, **`092-leyl.md`** ve **`087-ala.md`**'de işletildi, **`062-cuma.md`**'de bir gerilim olarak ele alındı. Tekrarlamıyorum; özeti:
 
 > Kökün altında **iki anlam birden** vardır ve ikisi ayrılmaz: **temizlik/arınma** ve **büyüme/artma/bereket.** Sözlükler bunları ayrı maddelere bölmez. *Zekât* aynı kökten gelir ve iki anlamın nasıl birleştiğini gösterir: mal, bir kısmı çıkarıldığında **temizlenir** ve **artar**.
 >
@@ -2147,7 +2147,7 @@ Ve bu, bir önceki cümleyle doğrudan ilgilidir: *lemem* kaydedildi, sonra geni
 
 **Ve bu, sûrenin genel hareketiyle uyumlu.** Ölçek daralıyor: kâinat ölçeğinde bir görme sahnesi (5-18), bir toplumun inançları (19-30), bir ilke (31-32), ve şimdi **tek bir adam.**
 
-Bunu bir gözlem olarak kaydediyorum. Bu daralma, **056-vakia.md** bölümünde kaydedilen "çember" hareketine benziyor — orada sûre en genişten en dara (bir yatakta ölmekte olan tek bir insan) iniyordu.
+Bunu bir gözlem olarak kaydediyorum. Bu daralma, **`056-vakia.md`** bölümünde kaydedilen "çember" hareketine benziyor — orada sûre en genişten en dara (bir yatakta ölmekte olan tek bir insan) iniyordu.
 
 ### Kim bu adam?
 
@@ -2155,13 +2155,13 @@ Bunu bir gözlem olarak kaydediyorum. Bu daralma, **056-vakia.md** bölümünde 
 
 **Ve metin bakımından buna ihtiyaç da yok.** Ayet isim vermiyor; **ٱلَّذِى** ("o kimse ki") ile bir **vasıf** tarif ediyor.
 
-**081-tekvir.md** bölümünde bu ilke işlenmişti — *el-ibretü bi-umûmi'l-lafz* (hüküm, lafzın genelliğine göredir): *"Ayet isim vermiyor; konum veriyor."* Aynı ilke burada da geçerlidir.
+**`081-tekvir.md`** bölümünde bu ilke işlenmişti — *el-ibretü bi-umûmi'l-lafz* (hüküm, lafzın genelliğine göredir): *"Ayet isim vermiyor; konum veriyor."* Aynı ilke burada da geçerlidir.
 
 **Ve tarif edilen konum üç fiille veriliyor: döndü, azıcık verdi, kesti.**
 
 ### أَعْطَىٰ قَلِيلًا وَأَكْدَىٰ — azıcık verdi ve kesti
 
-**أَعْطَىٰ — kök ع-ط-و.** *Atâ* — bağış, veriş. IV. bâb: verdi, bağışladı. Aynı kökten **092-leyl.md** bölümünde işlenen *a'tâ ve'ttekā* (Leyl 92/5).
+**أَعْطَىٰ — kök ع-ط-و.** *Atâ* — bağış, veriş. IV. bâb: verdi, bağışladı. Aynı kökten **`092-leyl.md`** bölümünde işlenen *a'tâ ve'ttekā* (Leyl 92/5).
 
 **أَكْدَىٰ — kök ك-د-ي / ك-د-و.** Ve bu kelimenin somut anlamı, ayetin bütün gücünü taşıyor.
 
@@ -2235,7 +2235,7 @@ Ayet o bilginin nereden geldiğini soruyor. Ve cevap verilmiyor — çünkü bir
 
 **Ve bu iki ayet, sûrenin en önemli yapı taşıdır** — çünkü buradan sonraki on yedi ayetin tamamı bu sorunun cevabıdır.
 
-### Dizimdeki asıl mesele: on iki *enne* cümlesi
+### Dizimdeki asıl mesele: on bir *enne* cümlesi
 
 **Otuz sekizinci ayetten elli dördüncü ayete kadar uzanan bölüm, bağımsız cümleler dizisi değildir.** Hepsi **بِمَا فِى صُحُفِ** ifadesindeki *mâ*'yı açıklayan **أَنَّ / أَنْ** cümleleridir.
 
@@ -2269,7 +2269,7 @@ Yani gramer şudur:
 
 ### أَمْ لَمْ يُنَبَّأْ — soru bir suçlama değil
 
-**نَبَّأَ — kök ن-ب-أ.** *Nebe'* — önemli haber. Bu kök **078-nebe.md** bölümünde tam olarak çözümlendi; tekrarlamıyorum. Özeti: *nebe'*, sıradan haber (*haber*) değil, **büyük ve sonuç doğuran haber**dir.
+**نَبَّأَ — kök ن-ب-أ.** *Nebe'* — önemli haber. Bu kök **`078-nebe.md`** bölümünde tam olarak çözümlendi; tekrarlamıyorum. Özeti: *nebe'*, sıradan haber (*haber*) değil, **büyük ve sonuç doğuran haber**dir.
 
 **Ve fiil edilgen:** *lem yünebbe'* — "kendisine bildirilmedi mi?"
 
@@ -2288,7 +2288,7 @@ Yani gramer şudur:
 
 ### صُحُف — sahifeler
 
-Bu kelime **098-beyyine.md** bölümünde işlendi ve **087-ala.md** ile **081-tekvir.md** bölümlerinde işletildi. Tekrarlamıyorum; özeti: kök **ص-ح-ف**, üzerine yazı yazılan düz yüzey; *mushaf* aynı kökten — sayfaları bir araya toplanmış olan.
+Bu kelime **`098-beyyine.md`** bölümünde işlendi ve **`087-ala.md`** ile **`081-tekvir.md`** bölümlerinde işletildi. Tekrarlamıyorum; özeti: kök **ص-ح-ف**, üzerine yazı yazılan düz yüzey; *mushaf* aynı kökten — sayfaları bir araya toplanmış olan.
 
 **A'lâ bölümünde Kur'an'daki üç kullanım tablosu verilmişti** ve orada **tam bu ayet** birinci kategoride yer alıyordu:
 
@@ -2324,7 +2324,7 @@ Türevler:
 - **تَوَفَّىٰ (teveffâ)** — tam olarak aldı; ve buradan "vefat" — canın **eksiksiz** alınması. Yani *vefat* kelimesi "eksilme" değil, **"tam alınma"** demektir.
 - **أَوْفَى (evfâ)** ism-i tafdîl olarak: "en tam olan" — ve bu sûrenin 41. ayetinde geçecek: *el-cezâe'l-**evfâ***.
 
-**وَفَّىٰ** — **II. bâb (*tef'îl*)**, ve bu bâbın şeddesi Arapçada **tekrar, çokluk ve kapsamlılık** bildirir (bu tespit **081-tekvir.md** bölümünde ayrıntılı verildi).
+**وَفَّىٰ** — **II. bâb (*tef'îl*)**, ve bu bâbın şeddesi Arapçada **tekrar, çokluk ve kapsamlılık** bildirir (bu tespit **`081-tekvir.md`** bölümünde ayrıntılı verildi).
 
 **Yani sıfat "vefâlı" değil, "tam tamına ve defalarca yerine getiren" demektir.**
 
@@ -2354,8 +2354,8 @@ Bu bağı metnin kurduğunu iddia etmiyorum; iki ayetin yan yana durması ise me
 
 **Bu kök iki yerde işlendi:**
 
-- **094-insirah.md** bölümünde **وِزْر** (*vizr*) — **ağır yük**, ve oradan **günah.**
-- **075-kiyame.md** bölümünde **وَزَر** (*vezer*) — **sığınak**, dağda sığınılan kaya.
+- **`094-insirah.md`** bölümünde **وِزْر** (*vizr*) — **ağır yük**, ve oradan **günah.**
+- **`075-kiyame.md`** bölümünde **وَزَر** (*vezer*) — **sığınak**, dağda sığınılan kaya.
 
 **Kıyâme bölümünde iki anlamın nasıl birleştiği çözümlenmişti** ve orada kaydedilenler burada belirleyicidir:
 
@@ -2419,7 +2419,7 @@ Kur'an bu kelimeyi kullanır — ve kullandığı yer öğreticidir:
 | **Zümer 39/7** | *ve lâ teziru vâziratün vizra uhrâ* |
 | **Necm 53/38** | *ellâ tezira vâziratün vizra uhrâ* |
 
-**071-nuh.md** bölümünde bu tekrar zaten kaydedilmişti ve orada bir kelâmî tartışmada delil olarak kullanılmıştı:
+**`071-nuh.md`** bölümünde bu tekrar zaten kaydedilmişti ve orada bir kelâmî tartışmada delil olarak kullanılmıştı:
 
 > **Kur'an'ın genel ilkesi bunun tersidir.** *"Hiçbir günahkâr, bir başkasının günahını yüklenmez"* (En'âm 6/164; İsrâ 17/15; Fâtır 35/18; Zümer 39/7; Necm 53/38). **Bu ilke Kur'an'ın en çok tekrarladığı hükümlerden biridir. Kimse doğduğu aileden dolayı hükümlü değildir.**
 
@@ -2445,7 +2445,7 @@ Sûrenin son ayetlerinden biri bunu açıkça formüle edecek: **هَٰذَا ن
 
 **Yani sûre bir süreklilik iddiası kuruyor**, bir yenilik iddiası değil.
 
-**087-ala.md** bölümünde aynı mesele işlenmişti ve orada kaydedilen not burada da geçerlidir: *"İbrâhim'in sayfaları hiçbir mevcut metinle eşleştirilmedi. Ayetin bir belge iddiası değil, bir süreklilik iddiası taşıdığı kaydedildi."*
+**`087-ala.md`** bölümünde aynı mesele işlenmişti ve orada kaydedilen not burada da geçerlidir: *"İbrâhim'in sayfaları hiçbir mevcut metinle eşleştirilmedi. Ayetin bir belge iddiası değil, bir süreklilik iddiası taşıdığı kaydedildi."*
 
 **Aynı ihtiyat burada da gerekiyor:** Kur'an "Mûsâ'nın sahifeleri"nin bugün elde bulunan hangi metne karşılık geldiğini söylemez ve ben de bir eşleştirme yapmıyorum.
 
@@ -2458,7 +2458,7 @@ Sûrenin son ayetlerinden biri bunu açıkça formüle edecek: **هَٰذَا ن
 
 ### سَعْي — çaba
 
-**Kök: س-ع-ي.** Bu kök **092-leyl.md** ve **080-abese.md** bölümlerinde çözümlendi, **057-hadid.md** ve **088-gasiye.md** bölümlerinde işletildi. **Ve dördünde de tam bu ayet örnek olarak verildi.** Tekrarlamıyorum; özeti:
+**Kök: س-ع-ي.** Bu kök **`092-leyl.md`** ve **`080-abese.md`** bölümlerinde çözümlendi, **`057-hadid.md`** ve **`088-gasiye.md`** bölümlerinde işletildi. **Ve dördünde de tam bu ayet örnek olarak verildi.** Tekrarlamıyorum; özeti:
 
 > **Somut anlamı hızlı yürümek, koşmaya yakın bir tempoda gitmek.** Yürümek ile koşmak arasındaki hâl. Kelime Arapçada oradan **çabalamak, uğraşmak, bir iş peşinde koşmak** anlamına genişlemiştir — Türkçedeki "koşuşturmak" bu iki anlamı da taşıdığı için iyi bir karşılıktır.
 >
@@ -2486,7 +2486,7 @@ Bir insanın çabası ile o çabanın sonucu her zaman örtüşmez:
 
 **Bu tespiti kendi okumam olarak kaydediyorum;** kelimenin anlamı (koşma, çabalama) sözlük verisidir ve dört ayrı bölümde kaydedilmiştir. **Yeni olan, *sa'y* ile *amel* arasındaki bu ayrımın karşılık ilkesine bağlanmasıdır.**
 
-**Ve bir kayıt daha gerekiyor.** Bu okuma, çabanın **niteliğinin** önemsiz olduğu anlamına gelmez. **088-gasiye.md** bölümünde bu nokta işlenmişti:
+**Ve bir kayıt daha gerekiyor.** Bu okuma, çabanın **niteliğinin** önemsiz olduğu anlamına gelmez. **`088-gasiye.md`** bölümünde bu nokta işlenmişti:
 
 > İsrâ 17/19 çabaya bir **şart** koyuyor: *"Kim âhireti ister ve mümin olarak **ona yaraşır bir çaba** gösterirse, işte onların çabası karşılık görür"* — yani çaba tek başına yeterli değil, hedefine uygun olması gerekiyor.
 
@@ -2536,7 +2536,7 @@ Bir insanın çabası ile o çabanın sonucu her zaman örtüşmez:
 
 **Ve edilgen kalıbın burada ne yaptığı önemli.** "Allah onun çabasını görecek" denseydi, sadece bir gözlem kaydedilirdi. *Yürâ* denince, çaba **görünür hale getiriliyor** — yani ortaya konuyor, teşhir ediliyor.
 
-**081-tekvir.md** bölümünde bu, kayıtların açılması olarak işlenmişti (81/10: *ve ize's-suhufü nüşirat*) ve orada kaydedilen tespit buraya uyuyor: *"görünen ile kaydedilen arasındaki perde kalkıyor."*
+**`081-tekvir.md`** bölümünde bu, kayıtların açılması olarak işlenmişti (81/10: *ve ize's-suhufü nüşirat*) ve orada kaydedilen tespit buraya uyuyor: *"görünen ile kaydedilen arasındaki perde kalkıyor."*
 
 ### ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ — sıradaki nükte
 
@@ -2557,7 +2557,7 @@ Bir insanın çabası ile o çabanın sonucu her zaman örtüşmez:
 
 **ٱلْجَزَآءَ ٱلْأَوْفَىٰ — kök ج-ز-ي ve و-ف-ي.**
 
-*Cezâ*, Arapçada nötr bir kelimedir: **karşılık.** Ceza (Türkçedeki anlamıyla) değil; iyinin de kötünün de karşılığı. Kur'an bunu açıkça gösterir: *"İyiliğin karşılığı (*cezâü*) iyilikten başka mıdır?"* (Rahmân 55/60) — bu ayet **055-rahman.md** bölümünde işlendi.
+*Cezâ*, Arapçada nötr bir kelimedir: **karşılık.** Ceza (Türkçedeki anlamıyla) değil; iyinin de kötünün de karşılığı. Kur'an bunu açıkça gösterir: *"İyiliğin karşılığı (*cezâü*) iyilikten başka mıdır?"* (Rahmân 55/60) — bu ayet **`055-rahman.md`** bölümünde işlendi.
 
 **ٱلْأَوْفَىٰ** — *vefâ* kökünden ism-i tafdîl: **"en tam olan, en eksiksiz."**
 
@@ -2581,7 +2581,7 @@ Bir insanın çabası ile o çabanın sonucu her zaman örtüşmez:
 
 ### Dizim: takdim ve hasr
 
-**079-naziat.md** bölümünde bu ayet zaten karşılaştırma tablosuna alınmıştı (Nâziât 79/44 münasebetiyle) ve orada kaydedilen gramer tespiti burada da geçerlidir:
+**`079-naziat.md`** bölümünde bu ayet zaten karşılaştırma tablosuna alınmıştı (Nâziât 79/44 münasebetiyle) ve orada kaydedilen gramer tespiti burada da geçerlidir:
 
 > **Cümlenin dizimi kayda değer.** *"İlâ rabbike"* (Rabbine) öne alınmış; *müntehâ* sona bırakılmış. **Arapçada normal yerinden öne alınan öğe hasr (sınırlama) bildirir.**
 
@@ -2708,7 +2708,7 @@ Kırk üçüncü ayet iki fiili **eşit** olarak veriyor: güldüren ve ağlatan
 
 **Bu bağı sûrenin kendisi kuruyor** — iki kök tekrarı sayılabilir bir veridir. Aradaki "denge bozulması" yorumu ise benim okumamdır ve kendi okumam olarak kaydediyorum.
 
-**ض-ح-ك kökü** bu tefsirde **080-abese.md** ve **083-mutaffifin.md** bölümlerinde geçti. Mutaffifîn'de gülme, alay bağlamında işlenmişti (83/29: *kânû mine'llezîne âmenû yadhakûn*) ve sûrenin sonunda bu tersine dönüyordu (83/34).
+**ض-ح-ك kökü** bu tefsirde **`080-abese.md`** ve **`083-mutaffifin.md`** bölümlerinde geçti. Mutaffifîn'de gülme, alay bağlamında işlenmişti (83/29: *kânû mine'llezîne âmenû yadhakûn*) ve sûrenin sonunda bu tersine dönüyordu (83/34).
 
 **ب-ك-ي kökü** ise bu tefsirde ilk kez burada geçiyor. Kökün somut anlamı: **gözyaşı dökmek, ağlamak.** Türevler: *bükâ'* — ağlama; *bekiyy* — çok ağlayan. Kur'an bu son kalıbı kullanır: *"Secdeye kapanırlar ve ağlarlar"* (Meryem 19/58: *ve **بُكِيّاً***).
 
@@ -2721,13 +2721,13 @@ Kırk üçüncü ayet iki fiili **eşit** olarak veriyor: güldüren ve ağlatan
 
 ### ٱلزَّوْجَيْنِ — iki eş
 
-**Kök: ز-و-ج.** Bu kök **081-tekvir.md** bölümünde çözümlendi (81/7: *ve ize'n-nüfûsü züvvicet*); tekrarlamıyorum. Orada kaydedilen önemli dil notu:
+**Kök: ز-و-ج.** Bu kök **`081-tekvir.md`** bölümünde çözümlendi (81/7: *ve ize'n-nüfûsü züvvicet*); tekrarlamıyorum. Orada kaydedilen önemli dil notu:
 
 > Arapçada *zevc*, Türkçedeki "eş" gibi sadece evlilik bildirmez. **İki tanesinden oluşan her şey için kullanılır.**
 
 **ٱلزَّوْجَيْنِ** ikildir (tesniye): "iki eş, bir çift."
 
-**Ve **078-nebe.md** bölümünde bu ayet zaten delil olarak kullanılmıştı** (Nebe 78/8: *ve halaknâküm ezvâcâ* münasebetiyle); orada iki görüş tablosunda **"erkek ve dişi"** okumasının dayanağı olarak *"Necm 53/45: İki eşi — erkeği ve dişiyi — O yarattı"* verilmişti.
+**Ve `078-nebe.md` bölümünde bu ayet zaten delil olarak kullanılmıştı** (Nebe 78/8: *ve halaknâküm ezvâcâ* münasebetiyle); orada iki görüş tablosunda **"erkek ve dişi"** okumasının dayanağı olarak *"Necm 53/45: İki eşi — erkeği ve dişiyi — O yarattı"* verilmişti.
 
 ### ٱلذَّكَرَ وَٱلْأُنثَىٰ — ve sûre içindeki dönüş
 
@@ -2768,7 +2768,7 @@ Yirmi birinci ayette iki kelime **bölüştürülüyordu**: biri size, öteki O'
 
 **Kök: م-ن-ي.** Sûrede bu kök üçüncü kez geliyor: *Menât* (20), *temennâ* (24), ve şimdi *tümnâ* (46).
 
-**075-kiyame.md** bölümünde bu kök çözümlendi ve orada **tam bu ifade** ele alınmıştı (Kıyâme 75/37: *min meniyyin yümnâ*). Orada kaydedilen:
+**`075-kiyame.md`** bölümünde bu kök çözümlendi ve orada **tam bu ifade** ele alınmıştı (Kıyâme 75/37: *min meniyyin yümnâ*). Orada kaydedilen:
 
 > - **مَنَىٰ** (*menâ*) — takdir etti, ölçtü, biçti.
 > - **مَنِىّ** (*menî*) — akıtılan.
@@ -2793,11 +2793,11 @@ Yirmi birinci ayette iki kelime **bölüştürülüyordu**: biri size, öteki O'
 
 **Bir kıraat farkı nakledilir:** fiilin **يُمْنَىٰ** (*yümnâ*, müzekker) olarak da okunduğu belirtilir. Fark, fiilin *nutfe*ye mi (müennes) yoksa akıtılan şeye mi (müzekker) bağlandığındandır. **İmam adı vermiyorum;** anlam farkı üretmiyor.
 
-**Ve bir kayıt:** **096-alak.md** bölümünde embriyoloji iddialarına girilmemesinin beş gerekçesi verilmiş, **075-kiyame.md** bölümünde aynı tutum korunmuştu. **Bu bölümde de aynı tutumu koruyorum;** USLUP gereği ayete modern bir bilgi giydirilmiyor.
+**Ve bir kayıt:** **`096-alak.md`** bölümünde embriyoloji iddialarına girilmemesinin beş gerekçesi verilmiş, **`075-kiyame.md`** bölümünde aynı tutum korunmuştu. **Bu bölümde de aynı tutumu koruyorum;** USLUP gereği ayete modern bir bilgi giydirilmiyor.
 
 ### ٱلنَّشْأَةَ ٱلْأُخْرَىٰ — öteki yaratılış
 
-**Kök: ن-ش-أ.** Bu kök **067-mulk.md**, **073-muzzemmil.md** ve **055-rahman.md** bölümlerinde işlendi. Muzzemmil bölümünde kaydedilen: *"somut anlamı: doğmak, yetişmek, ortaya çıkmak, yükselmek."*
+**Kök: ن-ش-أ.** Bu kök **`067-mulk.md`**, **`073-muzzemmil.md`** ve **`055-rahman.md`** bölümlerinde işlendi. Muzzemmil bölümünde kaydedilen: *"somut anlamı: doğmak, yetişmek, ortaya çıkmak, yükselmek."*
 
 **Ve Mülk bölümünde *halaka*dan farkı üzerinde durulmuştu.** İki fiil bu üç ayette **yan yana** duruyor:
 
@@ -2830,7 +2830,7 @@ Cümle *ve enne'n-neş'ete'l-uhrâ aleyhi* değil; **عَلَيْهِ** öne al�
 
 > *"Andolsun **ilk yaratılışı** (*en-neş'ete'l-ûlâ*) bildiniz; düşünüp ibret almanız gerekmez mi?"* (Vâkıa 56/62)
 
-**Aynı kelime, karşıt sıfatla:** Necm *en-neş'ete'l-**uhrâ*** (öteki yaratılış), Vâkıa *en-neş'ete'l-**ûlâ*** (ilk yaratılış). İki sûre aynı kelimenin iki ucunu tutuyor — biri bilinen, öteki taahhüt edilen. Vâkıa'nın bu ayeti **056-vakia.md** bölümünde işlendi.
+**Aynı kelime, karşıt sıfatla:** Necm *en-neş'ete'l-**uhrâ*** (öteki yaratılış), Vâkıa *en-neş'ete'l-**ûlâ*** (ilk yaratılış). İki sûre aynı kelimenin iki ucunu tutuyor — biri bilinen, öteki taahhüt edilen. Vâkıa'nın bu ayeti **`056-vakia.md`** bölümünde işlendi.
 
 ---
 
@@ -2849,7 +2849,7 @@ Cümle *ve enne'n-neş'ete'l-uhrâ aleyhi* değil; **عَلَيْهِ** öne al�
 | **44** | *emâte* / *ahyâ* — öldürdü / diriltti |
 | **48** | *ağnâ* / *aknâ* — zengin etti / kazandırdı |
 
-**İlk iki çift **zıt**; üçüncü çift değil.** Bu bir dizim farkıdır ve kaydedilmeye değer: gülme-ağlama karşıttır, ölüm-hayat karşıttır, ama *ağnâ* ile *aknâ* karşıt değil — **iki yakın fiil.**
+**İlk iki çift zıt; üçüncü çift değil.** Bu bir dizim farkıdır ve kaydedilmeye değer: gülme-ağlama karşıttır, ölüm-hayat karşıttır, ama *ağnâ* ile *aknâ* karşıt değil — **iki yakın fiil.**
 
 **Ve bu fark, aşağıdaki ihtilafın kaynağıdır.**
 
@@ -2881,7 +2881,7 @@ Yani kelime, malın **kalıcı** olanını adlandırıyor: satılmayan, elden ç
 
 **Bir tercih bildiriyorum ve bağlayıcı değildir:** birinci görüş en güçlüsüdür, çünkü doğrudan kökün sözlük anlamına dayanıyor.
 
-**İkinci görüşe bir uyarı düşmek gerekiyor** ve bu, **081-tekvir.md** bölümündeki *kevvera / küre* uyarısıyla aynı türdendir: **قَنَاعَة** (kanaat) kelimesi **ق-ن-ع** kökündendir; **قِنْيَة** ise **ق-ن-و**. Son harfleri farklıdır ve Arapçada bu fark kökü belirler. **Türkçe okunuşlarındaki benzerlikten anlam çıkarılmaz.**
+**İkinci görüşe bir uyarı düşmek gerekiyor** ve bu, **`081-tekvir.md`** bölümündeki *kevvera / küre* uyarısıyla aynı türdendir: **قَنَاعَة** (kanaat) kelimesi **ق-ن-ع** kökündendir; **قِنْيَة** ise **ق-ن-و**. Son harfleri farklıdır ve Arapçada bu fark kökü belirler. **Türkçe okunuşlarındaki benzerlikten anlam çıkarılmaz.**
 
 **Üçüncü görüş, çiftlerin zıt olması gerektiği varsayımına dayanıyor** — ve o varsayım metinde temellendirilmiyor. Nitekim yukarıda kaydedildiği gibi, üçüncü çiftin zıt olmaması bir **veri**dir; onu zorla zıtlaştırmak metne bir şey eklemek olur.
 
@@ -2909,7 +2909,7 @@ Bu ayrımı bir okuma olarak sunuyorum, bir nakil olarak değil.
 
 ### ٱلشِّعْرَىٰ — Sirius
 
-**Kök: ش-ع-ر.** Bu kök **052-tur.md** ve **069-hakka.md** bölümlerinde geçti (orada *şâir* ve *şi'r* bağlamında). Kökün somut anlamı: **ince bir şeyi fark etmek, sezmek.** *Şa'r* — kıl (en ince şey); *şuûr* — sezgi; *şâir* — ince olanı fark eden, ve oradan şair.
+**Kök: ش-ع-ر.** Bu kök **`052-tur.md`** ve **`069-hakka.md`** bölümlerinde geçti (orada *şâir* ve *şi'r* bağlamında). Kökün somut anlamı: **ince bir şeyi fark etmek, sezmek.** *Şa'r* — kıl (en ince şey); *şuûr* — sezgi; *şâir* — ince olanı fark eden, ve oradan şair.
 
 **ٱلشِّعْرَىٰ**, gece gökyüzünün **en parlak yıldızının** Arapça adıdır; bugün Sirius diye bilinir.
 
@@ -2944,7 +2944,7 @@ Bu ayrımı bir okuma olarak sunuyorum, bir nakil olarak değil.
 
 1. **Ayet yıldız hakkında hiçbir şey söylemiyor.** Ne büyüklüğü, ne hareketi, ne yapısı. Söylediği tek şey: **Rabbi O'dur.**
 2. **Cümlenin işlevi bir bilgi vermek değil, bir mülkiyet kaydetmek.** On bir *enne* cümlesinin içinde geliyor ve hepsi aynı işi yapıyor: bir şeyin kime ait olduğunu söylemek.
-3. **081-tekvir.md** bölümünde *el-hunnes / el-künnes* için aynı tutum benimsenmişti: *"Gezegen yorumunun cazibesi kaydedildi ama 'ayet yörünge hareketini haber veriyor' iddiası açıkça reddedildi ve gerekçesi yazıldı."* Aynı tutumu burada koruyorum.
+3. **`081-tekvir.md`** bölümünde *el-hunnes / el-künnes* için aynı tutum benimsenmişti: *"Gezegen yorumunun cazibesi kaydedildi ama 'ayet yörünge hareketini haber veriyor' iddiası açıkça reddedildi ve gerekçesi yazıldı."* Aynı tutumu burada koruyorum.
 
 **Ayetin söylediği şey zaten yeterince güçlü; ona bir şey eklemeye ihtiyacı yok.**
 
@@ -2998,7 +2998,7 @@ Ve iki ayet arasındaki fark, sûrenin bütün argümanını taşıyor: **birinc
 
 ### عَادًا ٱلْأُولَىٰ — "ilk Âd"
 
-**089-fecr.md** bölümünde Âd kavmi ayrıntılı işlendi ve orada **tam bu ayet** kaydedilmişti:
+**`089-fecr.md`** bölümünde Âd kavmi ayrıntılı işlendi ve orada **tam bu ayet** kaydedilmişti:
 
 > **Necm 53/50'de "önceki Âd"dan söz edilir** (*Âden el-ûlâ*). Bu ifadenin bir ikinci Âd'ın varlığını mı gerektirdiği tartışılmıştır; **ayet bir tarih bilgisi vermiyor ve ben bunun üzerine bir kronoloji kurmuyorum.**
 
@@ -3014,7 +3014,7 @@ Fecr bölümünde Âd hakkında Kur'an'ın verdikleri sıralanmıştı ve tekrar
 
 **Ve burada bir kıraat farkı nakledilir:** kelime **ثَمُودَ** (tenvinsiz, gayr-i munsarif) olarak da okunur. Fark, kelimenin bir **kabile adı** mı (müennes sayılır, tenvin almaz) yoksa bir **atanın adı** mı (müzekker sayılır, tenvin alır) kabul edildiğine bağlıdır. **İmam adı vermiyorum;** anlam farkı üretmiyor.
 
-**Semûd kavmi** bu tefsirde birkaç yerde işlendi (**091-sems.md** bölümünde ayrıntılı olarak, ayrıca **069-hakka.md** ve **089-fecr.md**); tekrarlamıyorum.
+**Semûd kavmi** bu tefsirde birkaç yerde işlendi (**`091-sems.md`** bölümünde ayrıntılı olarak, ayrıca **`069-hakka.md`** ve **`089-fecr.md`**); tekrarlamıyorum.
 
 ### فَمَآ أَبْقَىٰ — "geriye bir şey bırakmadı"
 
@@ -3066,7 +3066,7 @@ Bunun ne söylediği üzerine bir okuma öneriyorum: liste geriye doğru gidiyor
 
 ### ٱلْمُؤْتَفِكَة — alt üst olan
 
-**Kök: أ-ف-ك.** Bu kök **051-zariyat.md** ve **063-munafikun.md** bölümlerinde çözümlendi ve **ikisinde de tam bu ayet** örnek olarak verildi. Tekrarlamıyorum; özeti:
+**Kök: أ-ف-ك.** Bu kök **`051-zariyat.md`** ve **`063-munafikun.md`** bölümlerinde çözümlendi ve **ikisinde de tam bu ayet** örnek olarak verildi. Tekrarlamıyorum; özeti:
 
 > **Somut anlamı: bir şeyi yönünden çevirmek, ters yüz etmek, olması gereken yerden döndürmek.**
 > - **إِفْك** — yalan. Yalan, "çevrilmiş söz"dür: gerçeğin yönü değiştirilmiştir.
@@ -3100,7 +3100,7 @@ Bunun ne söylediği üzerine bir okuma öneriyorum: liste geriye doğru gidiyor
 
 **Sûre, kökü fâilsiz bir düşüşle açıp fâilli bir düşürmeyle kapatıyor.**
 
-**Ve bu, 081-tekvir.md bölümünde kaydedilen tekniğin bir başka örneğidir.** Orada sûrenin on iki fiilinin fâilsiz olduğu ve fâilin en sona saklandığı gösterilmişti. Burada da benzer bir şey var: birinci ayette bir şey düşüyor ve kimin düşürdüğü söylenmiyor; elli üçüncü ayette bir şey düşürülüyor ve düşürenin kim olduğu açıkça söyleniyor (*ve enne**hû*** — "O").
+**Ve bu, `081-tekvir.md` bölümünde kaydedilen tekniğin bir başka örneğidir.** Orada sûrenin on iki fiilinin fâilsiz olduğu ve fâilin en sona saklandığı gösterilmişti. Burada da benzer bir şey var: birinci ayette bir şey düşüyor ve kimin düşürdüğü söylenmiyor; elli üçüncü ayette bir şey düşürülüyor ve düşürenin kim olduğu açıkça söyleniyor (*ve enne**hû*** — "O").
 
 **Bunu kendi okumam olarak kaydediyorum;** kök tekrarı ve bâb farkı ise metnin verisidir ve sayılabilir.
 
@@ -3141,7 +3141,7 @@ Bunu bir okuma olarak sunuyorum; üç kalıbın aynı olması ise sayılabilir b
 
 ### Rahmân sûresiyle bağ — zaten kurulmuştu
 
-**055-rahman.md** bölümünde bu ayet ayrıntılı olarak karşılaştırıldı ve orada kaydedilenler burada belirleyicidir:
+**`055-rahman.md`** bölümünde bu ayet ayrıntılı olarak karşılaştırıldı ve orada kaydedilenler burada belirleyicidir:
 
 > **Nakaratın Kur'an'daki tek benzeri.** Aynı kalıp Kur'an'da bir kez daha geçer — ve orada **tekil**dir:
 >
@@ -3245,7 +3245,7 @@ Ve kökün bir başka türevi: **نَذْر** (adak) — kişinin kendine bir y�
 
 **Sûre önce muhtevanın eski olduğunu söylüyor, sonra taşıyıcının da zincire ait olduğunu.**
 
-**087-ala.md** bölümünde bu tavır kaydedilmişti: *"Ayetin bir belge iddiası değil, bir süreklilik iddiası taşıdığı kaydedildi."* Aynı tespit burada, sûrenin kendi cümlesiyle doğrulanıyor.
+**`087-ala.md`** bölümünde bu tavır kaydedilmişti: *"Ayetin bir belge iddiası değil, bir süreklilik iddiası taşıdığı kaydedildi."* Aynı tespit burada, sûrenin kendi cümlesiyle doğrulanıyor.
 
 **Ve bu, muhataba yöneltilmiş pratik bir cevaptır.** Muhatabın en yaygın itirazlarından biri, elçinin **benzeri görülmemiş** bir iddia getirdiğiydi. Ayet bunu reddediyor: benzeri görülmüştür, defalarca.
 
@@ -3294,7 +3294,7 @@ Sekizinci ayette **yukarıdan bir şey yaklaşmıştı** (*denâ fe-tedellâ*), 
 
 > *"Onları, **yaklaşan gün** ile uyar."* (Ğâfir 40/18 — *ve enzirhüm yevme'l-**âzifeti***)
 
-**Kur'an'ın kıyamet için kullandığı adlar, her biri o günün bir yönünü öne çıkarır** ve bu tefsirde birçoğu işlendi: *el-Kāria* (çarpan — **101-karia.md**), *el-Vâkıa* (gerçekleşen — **056-vakia.md**), *el-Hâkka* (gerçek olan — **069-hakka.md**), *es-Sâhha* (kulakları sağır eden), *et-Tâmme* (her şeyi bürüyen — **079-naziat.md**), *el-Ğâşiye* (kaplayan — **088-gasiye.md**).
+**Kur'an'ın kıyamet için kullandığı adlar, her biri o günün bir yönünü öne çıkarır** ve bu tefsirde birçoğu işlendi: *el-Kāria* (çarpan — **`101-karia.md`**), *el-Vâkıa* (gerçekleşen — **`056-vakia.md`**), *el-Hâkka* (gerçek olan — **`069-hakka.md`**), *es-Sâhha* (kulakları sağır eden), *et-Tâmme* (her şeyi bürüyen — **`079-naziat.md`**), *el-Ğâşiye* (kaplayan — **`088-gasiye.md`**).
 
 **Ve ٱلْءَازِفَة bu adlar arasında tektir:** ötekiler **o gün ne olacağını** adlandırır; bu ad **o günün ne kadar uzakta olduğunu** adlandırır.
 
@@ -3357,7 +3357,7 @@ Ayet "yaklaşacak" ya da "yaklaşıyor" demiyor. **"Yaklaştı"** diyor — olmu
 
 **Kök: ح-د-ث.** Somut anlamı: **yeni olmak, sonradan olmak.** *Hadîs* — yeni; ve oradan **söz, haber** (yeni söylenen).
 
-**077-murselat.md** bölümünde bu kelime işlendi ve **tam bu ayet** örnek olarak verilmişti:
+**`077-murselat.md`** bölümünde bu kelime işlendi ve **tam bu ayet** örnek olarak verilmişti:
 
 > **Kur'an'ın kendisi için bu kelimeyi kullanması** birkaç yerde görülür:
 > - *"Allah, sözün en güzelini indirdi."* (Zümer 39/23) — *ahsene'l-**hadîs***.
@@ -3444,7 +3444,7 @@ Sûrenin son ayeti. Ve altmış iki ayetin tek emir cümlesi.
 
 ### İki fiil, iki iş
 
-**سَجَدَ — kök س-ج-د.** Bu kök **084-insikak.md** bölümünde işlendi; orada kaydedilen: *"Eğilmek, alnı yere koymak, boyun eğmek."*
+**سَجَدَ — kök س-ج-د.** Bu kök **`084-insikak.md`** bölümünde işlendi; orada kaydedilen: *"Eğilmek, alnı yere koymak, boyun eğmek."*
 
 Kökün somut anlamı bir **beden hareketi**dir ve Arapçada bu böyledir: *secede* — eğildi, başını yere koydu. Dilciler kelimenin, bir devenin binilmek için çökmesi için de kullanıldığını kaydeder.
 
@@ -3464,7 +3464,7 @@ Kökün somut anlamı bir **beden hareketi**dir ve Arapçada bu böyledir: *sece
 
 ### فَ — sonuç edatı
 
-**Ayet **فَ** ile başlıyor: "öyleyse."**
+**Ayet فَ ile başlıyor: "öyleyse."**
 
 Yani emir, kendinden öncekilere **bağlanıyor.** Altmış bir ayetlik bir metin, tek bir sonuç cümlesine varıyor.
 
@@ -3603,7 +3603,7 @@ Yirmi üçüncü ayet üçüncü ihtimali adlandırıyor: *"sizin ve atalarını
 
 ### Üç. Adlandırma gerçeklik üretmez
 
-Yirmi üçüncü ayetin en pratik tarafı bu ve **058-mucadele.md** bölümünde de kaydedilmişti: bir uygulamaya yeni bir ad vermek onu değiştirmez.
+Yirmi üçüncü ayetin en pratik tarafı bu ve **`058-mucadele.md`** bölümünde de kaydedilmişti: bir uygulamaya yeni bir ad vermek onu değiştirmez.
 
 Bugün bunun karşılıkları her alanda görülür: bir işten çıkarmaya "yeniden yapılanma" demek, bir zammı "fiyat güncellemesi" diye anmak, bir yasağı "düzenleme" saymak. Ad değişir, işlem aynı kalır.
 
@@ -3682,7 +3682,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **Birinci ayetteki *necm*in ne olduğu.** Üç görüş tablo halinde verildi; **tercih dayatılmadı.** Kökün "taksit" anlamıyla Kur'an'ın parça parça inişi arasındaki bağ **bir çağrışım olarak** kaydedildi, bir tefsir olarak değil, ve fiilin (*hevâ*) bu okumayı zorlaştırdığı belirtildi.
 - **Sûrenin aleni okunması ve secde rivayeti.** Buhârî'nin de aralarında bulunduğu kaynaklarda ve İbn Mes'ûd'a nispetle nakledildiği belirtildi; **lafzı birebir alıntılanmadı** ve rivayetin ayrıntılarındaki tartışmalara girilmedi.
 - **"Garânîk" iddiası.** Meselenin varlığı kaydedildi; hadis tenkidi geleneğindeki red **nakil olarak** verildi; iddia edilen cümlenin lafzı **aktarılmadı**; metin içi tutarlılık gözlemi ise **kendi okumam** olarak sunuldu.
-- **هوى'nin iki anlamının aynı kök olup olmadığı.** Dilcilerin çoğunluğunun tek kök saydığı belirtildi (**101-karia.md**'ye dayanıldı); ama asıl vurgu sözlük tartışmasına değil, metindeki **ses tekrarına** yapıldı. Dört ayeti bir "yön şeması" olarak okumak **kendi okumam** olarak kaydedildi.
+- **هوى'nin iki anlamının aynı kök olup olmadığı.** Dilcilerin çoğunluğunun tek kök saydığı belirtildi (**`101-karia.md`**'ye dayanıldı); ama asıl vurgu sözlük tartışmasına değil, metindeki **ses tekrarına** yapıldı. Dört ayeti bir "yön şeması" olarak okumak **kendi okumam** olarak kaydedildi.
 - **53/5-10'da kim kime yaklaştı.** Üç görüş, dayanakları ve karşı itirazlarıyla tablo halinde verildi; **tercih yapılmadı** ve gerekçesi (ayetin isim vermemesi, iki görüşün de erken dönemde savunulmuş olması, kelâmî tartışmanın bu tefsirin konusu olmaması) yazıldı. Âişe'ye ve İbn Abbâs'a nispet edilen görüşler **"nispet edilir" kaydıyla** verildi, lafızları alıntılanmadı.
 - **Mi'râc ilişkisi.** Sûrenin "mi'râc" kelimesini kullanmadığı ve bir yolculuktan söz etmediği kaydedildi; İsrâ 17/1 ile birleştirmenin **rivayetler üzerinden yapıldığı** belirtildi.
 - **ذُو مِرَّة'nin anlamı.** Üç izah tablo halinde verildi; **tercih yapılmadı**, ortak çekirdek (sağlamlık) gösterildi.
@@ -3699,11 +3699,11 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **ٱسْم'in kökü.** İki türetme (**س-م-و** ve **و-س-م**) verildi ve **tercih yapılmadı.**
 - **26. ayette وَيَرْضَىٰ'nın öznesi.** İki okuma verildi ve ikisinin de aynı yere çıktığı belirtildi.
 - **27. ayette "âhirete inanmayanlar" nitelemesinin sebebi.** Önerilen izah **kendi okumam** olarak sunuldu. USLUP gereği bunun bir topluluk hakkında değil bir **vasıf** hakkında hüküm olduğu ayrıca kaydedildi.
-- **أ-ن-ث kökündeki "yumuşaklık" izahı.** **075-kiyame.md**'deki kayda uyularak "kesin değildir" notuyla nakledildi.
+- **أ-ن-ث kökündeki "yumuşaklık" izahı.** **`075-kiyame.md`**'deki kayda uyularak "kesin değildir" notuyla nakledildi.
 - **ٱللَّمَم'in ne olduğu.** Dört görüş ve iki gramer okuması tablo halinde verildi. Ortak çekirdek ("kalıcı olmayan kusur") bir **tercih** olarak bildirildi ve **bağlayıcı olmadığı** yazıldı. **Büyük/küçük günah ayrımının sınırlarına girilmedi;** fıkhî hüküm verilmedi.
 - **أَقْنَىٰ'nın anlamı.** Üç görüş tablo halinde verildi; birincisi **tercih edildi** ve gerekçesi (kökün sözlük anlamı) yazıldı, **bağlayıcı değildir.** *قناعة* ile *قنية* arasındaki **kök farkı** açıkça belirtildi.
 - **ٱلشِّعْرَىٰ ve astronomi.** Yıldızın gece göğünün en parlak yıldızı olduğu **çıplak gözle doğrulanabilir bir olgu** olarak verildi; Mısır'daki takvim kullanımı **tarihî bir not** olarak kaydedildi. **Modern astronomiye dayanan "fennî mucize" iddiaları açıkça reddedildi ve üç gerekçesi yazıldı.** Yıldıza tapıldığına dair rivayetlerde **isim verilmedi.**
-- **عَادًا ٱلْأُولَىٰ ifadesi.** **089-fecr.md**'deki tutum korundu: bir kronoloji kurulmadı.
+- **عَادًا ٱلْأُولَىٰ ifadesi.** **`089-fecr.md`**'deki tutum korundu: bir kronoloji kurulmadı.
 - **51. ayetteki فَمَآ أَبْقَىٰ'nın neyi bırakmadığı.** Önerilen okuma (soy) **kendi çıkarımım** olarak, "kesin değildir" kaydıyla sunuldu.
 - **52. ayetteki أَظْلَمَ وَأَطْغَىٰ'nın kimden daha olduğu.** İki okuma verildi; birincisi daha yaygın ve dizime uygun bulundu, **dayatılmadı.** Kronoloji üzerine bir "insanlık iyileşiyor" iddiası **açıkça reddedildi.**
 - **ٱلْمُؤْتَفِكَة'nin hangi şehir olduğu.** Lût kavmi bağı **bir çıkarım olarak** kaydedildi; ayetin isim vermediği belirtildi.
@@ -3712,5 +3712,5 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **كَاشِفَة'nin anlamı.** Üç görüş tablo halinde verildi; **tercih yapılmadı** ve gerekçesi yazıldı. En'âm 6/17'nin üçüncü görüşe delil olduğu kaydedildi.
 - **سَٰمِدُون'un anlamı.** Dört görüş tablo halinde verildi; **tercih yapılmadı**, ortak çekirdek gösterildi.
 - **Tilâvet secdesinin hükmü.** Mezhepler arasında görüş farkı bulunduğu kaydedildi; **fıkhî hüküm verilmedi**, ayrıntısının fıkıh kitaplarının konusu olduğu belirtildi.
-- **Embriyoloji iddialarına girilmedi.** **096-alak.md** ve **075-kiyame.md** bölümlerindeki tutum korundu.
+- **Embriyoloji iddialarına girilmedi.** **`096-alak.md`** ve **`075-kiyame.md`** bölümlerindeki tutum korundu.
 - **Kendi çıkarımlarım.** Şunlar benim okumamdır, nakil değildir ve bağlayıcı değildir: fasılanın 56. ayetten sonra kırılmasının konu değişimiyle örtüşmesi yorumu; sûrenin bir "bilgi tartışması" olarak okunması ve üç kaynak şeması; 1-4. ayetlerin bir "yön çizgisi" olarak okunması; *hevâ* ile *tedellâ* arasındaki karşıtlık (kontrolsüz düşüş / bağlı iniş); *fuâd* ile *kalb* arasındaki işbölümü; 11 ve 17. ayetlerin üç ihtimali kapattığı tespiti; *zeyğ* ile *tuğyân*ın bir "orta"yı tarif ettiği gözlemi; 14 ile 42. ayetler arasındaki *müntehâ* ilişkisi; 16 ile 54. ayetler arasındaki *ğaşiye* ilişkisi; *ünsâ* ve *zeker* kelimelerinin 21 ve 45. ayetler arasında "geri alınması"; 19-26 arasında aracılık kurumunun "dıştan içe sökülmesi" şeması; 29-30 arasında istek ile bilgi menzili arasındaki bağ; 33-35'teki adamın "yarım bağlılık" okuması; *sa'y* ile *amel* arasındaki ayrımın karşılık ilkesine bağlanması; 40. ayetteki edilgen fiilin görme dizisini kapattığı okuması; 42. ayetteki zamir değişikliğinin yorumu; 43. ayetin gülme-ağlama üzerine yorumu ve 60. ayetle kurulan "denge bozulması" ilişkisi; 47. ayetteki *aleyhi*nin taahhüt okuması; *ağnâ* ile *aknâ* arasındaki süre ayrımı; 1 ile 49. ayetler arasındaki yıldız çemberi; 1 ile 53. ayetler arasındaki *hevâ / ehvâ* çemberi; üç "belirsiz bırakma" kalıbının aynı işi yaptığı gözlemi; *denâ* ile *ezife* arasındaki iki yaklaşma karşıtlığı; 8 ile 62. ayetler arasındaki "yaklaşma ve kapanma" bağı ve üç aşağı hareket üçlemesi; 10 ile 62. ayetler arasındaki *abd* ilişkisi; "Sûrenin bütünü" ve "Bugüne bakan yönü" bölümlerinin tamamı. Metin içinde bu ayrımlar tek tek belirtildi.

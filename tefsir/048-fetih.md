@@ -2962,7 +2962,7 @@ Orada kaydedilmişti: Vâkıa sûresi insanın payını eksiksiz teslim eder (*m
 
 ### Dört aşama
 
-**Benzetme dört fiille kuruluyor ve dördü de **فَ** (fâ) bağlacıyla birbirine bağlanıyor. Arapçada bu bağlaç ardışıklık ve **hızlı geçiş** bildirir: biri biter bitmez öteki.**
+**Benzetme dört fiille kuruluyor ve dördü de فَ (fâ) bağlacıyla birbirine bağlanıyor. Arapçada bu bağlaç ardışıklık ve hızlı geçiş bildirir: biri biter bitmez öteki.**
 
 | # | Fiil | Kök | Ne oluyor |
 |---|---|---|---|

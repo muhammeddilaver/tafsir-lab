@@ -12,16 +12,19 @@ const AR_RUN = new RegExp(
 const AR_CHAR = new RegExp(`[${AR}]`);
 
 import { gecerliAyet, KESIR } from "./ayet";
+import { ROUTES, type Lang } from "./i18n";
 
 // Hedef ayetin hangi bolumde islendigini soyleyen islev disaridan verilir;
 // modal, parcayi bu bilgiyle cekiyor. Verilmezse baglantilar yine calisir,
 // yalnizca modal yerine normal gezinme olur.
-let sectionLookup: ((sura: number, ayah: number) => number | null) | null = null;
-export function setSectionLookup(fn: (sura: number, ayah: number) => number | null) {
+let sectionLookup: ((lang: Lang, sura: number, ayah: number) => number | null) | null = null;
+export function setSectionLookup(fn: (lang: Lang, sura: number, ayah: number) => number | null) {
   sectionLookup = fn;
 }
-const peek = (sura: number, ayah: number) => {
-  const start = sectionLookup?.(sura, ayah) ?? null;
+// data-p yalnizca "sure/bolum" tasir; hangi dilden cekilecegini modal
+// kendi diliyle bilir, boylece capa metni iki dilde de ayni kalir.
+const peek = (lang: Lang, sura: number, ayah: number) => {
+  const start = sectionLookup?.(lang, sura, ayah) ?? null;
   return start === null ? "" : ` data-p="${sura}/${start}"`;
 };
 
@@ -78,13 +81,16 @@ export type InlineOpts = {
   bareRefs?: boolean;
   /** Bulunulan sure — ayni sureye atif sayfa icinde kalir */
   sura?: number;
+  /** Baglantilarin hangi dilin rotalarina gidecegi */
+  lang?: Lang;
 };
 
 // Cumle icinde gecen ciplak ayet referansi: "9/122", "(51/54)", "2/196-203"
 const BARE = /(?<![\d/\w])(\d{1,3})\/(\d{1,3})(?:-(\d{1,3}))?(?![\d/])/g;
 
 export function inline(s: string, names: Map<number, string>, opts: InlineOpts = {}) {
-  const { wrapAr = true, bareRefs = true, sura = 0 } = opts;
+  const { wrapAr = true, bareRefs = true, sura = 0, lang = "tr" } = opts;
+  const R = ROUTES[lang];
   let out = esc(s);
 
   // Dosya atiflarini once yer tutucuya al ki ciplak referans gecisi
@@ -98,18 +104,20 @@ export function inline(s: string, names: Map<number, string>, opts: InlineOpts =
     const file = `${noStr}-${slug}.md`;
     if (refS && parseInt(refS, 10) === no) {
       const an = parseInt(refA, 10);
-      const href = `/sure/${no}#${no}/${an}`;
+      const href = `${R.sura}/${no}#${no}/${an}`;
       const refTxt = refB ? `${refS}/${refA}-${refB}` : `${refS}/${refA}`;
-      const p = peek(no, an);
+      const p = peek(lang, no, an);
       return hold(
         `<a class="xref" href="${href}" title="${file}"${p}>${label}</a>` +
           `${gap}<a class="xref" href="${href}"${p}>${refTxt}</a>`
       );
     }
-    return hold(`<a class="xref" href="/sure/${no}" title="${file}">${label}</a>`);
+    return hold(`<a class="xref" href="${R.sura}/${no}" title="${file}">${label}</a>`);
   });
 
-  out = out.replace(/`USLUP\.md`/g, () => hold('<a class="xref" href="/usul">USLUP</a>'));
+  out = out.replace(/`USLUP\.md`/g, () =>
+    hold(`<a class="xref" href="${R.method}">${lang === "tr" ? "USLUP" : "Method"}</a>`)
+  );
 
   if (bareRefs) {
     out = out.replace(BARE, (m, a, b, c) => {
@@ -118,13 +126,19 @@ export function inline(s: string, names: Map<number, string>, opts: InlineOpts =
       if (!gecerliAyet(sn, an)) return m;
       if (c && !gecerliAyet(sn, parseInt(c, 10))) return m;
       // Ayni sure: sayfa icinde kal, yeniden yukleme olmasin.
-      const href = sn === sura ? `#${sn}/${an}` : `/sure/${sn}#${sn}/${an}`;
-      return hold(`<a class="ref" href="${href}"${peek(sn, an)}>${m}</a>`);
+      const href = sn === sura ? `#${sn}/${an}` : `${R.sura}/${sn}#${sn}/${an}`;
+      return hold(`<a class="ref" href="${href}"${peek(lang, sn, an)}>${m}</a>`);
     });
   }
   out = out.replace(/`([^`]+)`/g, "<code>$1</code>");
   // ***x*** -> kalin+egik; **x** icinde tek yildizli egik gecebilir.
   out = out.replace(/\*\*\*([^*\n]+)\*\*\*/g, "<strong><em>$1</em></strong>");
+  // ***x** y* -> egik blogun basinda kalin
+  out = out.replace(/\*\*\*([^*\n]+)\*\*([^*\n]*)\*(?!\*)/g,
+                    "<em><strong>$1</strong>$2</em>");
+  // **... *x*** -> kalin blogun sonunda egik: R2'nin tek yildizi yutmasini onler
+  out = out.replace(/\*\*((?:[^*\n]|\*(?!\*))*?)\*([^*\n]+)\*\*\*/g,
+                    "<strong>$1<em>$2</em></strong>");
   out = out.replace(/\*\*((?:[^*]|\*(?!\*))+?)\*\*/g, "<strong>$1</strong>");
   out = out.replace(/(?<!\*)\*([^*\n]+)\*(?!\*)/g, "<em>$1</em>");
   out = wrapAr ? wrapArabic(out) : out;
@@ -132,7 +146,7 @@ export function inline(s: string, names: Map<number, string>, opts: InlineOpts =
 }
 
 // ---------- blok ayristirma ----------
-export function parse(md: string, suraNo: number, names: Map<number, string>) {
+export function parse(md: string, suraNo: number, names: Map<number, string>, lang: Lang = "tr") {
   const lines = md.split("\n");
   const blocks: Block[] = [];
   const used = new Set<string>();
@@ -194,7 +208,7 @@ export function parse(md: string, suraNo: number, names: Map<number, string>) {
         html: inline(
           arabic ? txt.slice(0, txt.length - arabic.length).replace(/\s*—\s*$/, "") : txt,
           names,
-          { sura: suraNo, bareRefs: false }
+          { sura: suraNo, bareRefs: false, lang }
         ),
         ayah,
         arabic,
@@ -217,9 +231,9 @@ export function parse(md: string, suraNo: number, names: Map<number, string>) {
       blocks.push({
         k: "table",
         id: mkId(plain.slice(0, 160)),
-        head: head.map((c) => inline(c, names, { sura: suraNo, bareRefs: !KESIR.has(c.trim()) })),
+        head: head.map((c) => inline(c, names, { sura: suraNo, bareRefs: !KESIR.has(c.trim()), lang })),
         rows: rows.map((r) =>
-          r.map((c) => inline(c, names, { sura: suraNo, bareRefs: !KESIR.has(c.trim()) }))
+          r.map((c) => inline(c, names, { sura: suraNo, bareRefs: !KESIR.has(c.trim()), lang }))
         ),
         plain,
       });
@@ -237,7 +251,7 @@ export function parse(md: string, suraNo: number, names: Map<number, string>) {
       blocks.push({
         k: "ul",
         id: mkId(plain.slice(0, 160)),
-        items: items.map((x) => inline(x, names, { sura: suraNo })),
+        items: items.map((x) => inline(x, names, { sura: suraNo, lang })),
         plain,
       });
       continue;
@@ -251,7 +265,7 @@ export function parse(md: string, suraNo: number, names: Map<number, string>) {
         i++;
       }
       const raw = buf.join(" ");
-      blocks.push({ k: "quote", id: mkId(stripMd(raw).slice(0, 160)), html: inline(raw, names, { sura: suraNo }), plain: stripMd(raw) });
+      blocks.push({ k: "quote", id: mkId(stripMd(raw).slice(0, 160)), html: inline(raw, names, { sura: suraNo, lang }), plain: stripMd(raw) });
       continue;
     }
 
@@ -271,8 +285,8 @@ export function parse(md: string, suraNo: number, names: Map<number, string>) {
       // RTL paragrafta da vurgular cozulur; Arapca sarmalama gereksiz,
       // cunku <p> zaten Arapca yazi tipiyle geliyor.
       html: isMostlyArabic(raw)
-        ? inline(raw, names, { sura: suraNo, wrapAr: false })
-        : inline(raw, names, { sura: suraNo }),
+        ? inline(raw, names, { sura: suraNo, wrapAr: false, lang })
+        : inline(raw, names, { sura: suraNo, lang }),
       rtl: isMostlyArabic(raw),
       plain,
     });

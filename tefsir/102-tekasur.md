@@ -382,7 +382,7 @@ Sûrenin akışında burada bir eşik atlanıyor.
 
 Üç ayet boyunca bilgi fiili tekrarlandı; dördüncüde görme fiiline geçildi. Bu, 5. ayette kurulan derecelenmenin metin içinde uygulanmasıdır: ilme'l-yakîn ayne'l-yakîne dönüşüyor.
 
-Ve dönüşümün yönü tek taraflıdır. **Bilgi tercihe bağlıdır; görme değildir.** İnsan bir şeyi bilmemeyi seçebilir, bilgisini bir kenara koyabilir, unutabilir, ertelemeyebilir. Ama gözün önüne konan şeyi görmemeyi seçemez. Sûre, muhatabın kaçtığı bilgiyi kaçılamayacak bir biçime çeviriyor.
+Ve dönüşümün yönü tek taraflıdır. **Bilgi tercihe bağlıdır; görme değildir.** İnsan bir şeyi bilmemeyi seçebilir, bilgisini bir kenara koyabilir, unutabilir, erteleyebilir. Ama gözün önüne konan şeyi görmemeyi seçemez. Sûre, muhatabın kaçtığı bilgiyi kaçılamayacak bir biçime çeviriyor.
 
 Buradan sûrenin merkezî ironisi çıkıyor: **kesinlik gelecek, ama artık işe yaramayacağı anda gelecek.** 5. ayetin "keşke bilseydiniz" temennisi tam da bunun içindir — bilgi zamanında gelseydi bir şey değişecekti; görme zamanında gelecek ve hiçbir şey değiştirmeyecek.
 

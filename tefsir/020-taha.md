@@ -30,7 +30,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### İkinci omurga: ذ-ك-ر
 
-**Kök sûrede dokuz yerde, dört ayrı işlevle geçiyor:**
+**Kök sûrede sekiz yerde, sekiz ayrı işlevle geçiyor:**
 
 | Ayet | İfade | Ne |
 |---|---|---|
@@ -182,7 +182,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Sıranın tersliği
 
-**Dizim nüktesi kaydedilmeye değer: ayet *el-ard*ı (yer) *es-semâvât*tan (gökler) **önce** anıyor.**
+**Dizim nüktesi kaydedilmeye değer: ayet *el-ard*ı (yer) *es-semâvât*tan (gökler) önce anıyor.**
 
 **Kur'an'da olağan sıra genellikle göklerden yere doğrudur** (*halaka's-semâvâti ve'l-ard*). **Burada ters.**
 
@@ -554,7 +554,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **ع-ق-د** kökü: **düğümlemek, bağlamak, iki ucu birleştirip sıkmak.** **Kök `113-felak.md`'de (*en-neffâsâti fi'l-ukad*) işlendi;** oraya dayanıyorum. Aynı kökten *akd* (sözleşme — iki tarafın bağlanması) ve *itikad* (kalbin bir hükme bağlanması) gelir.
 
-**Dizim nüktesi kaydedilmelidir ve gözden kaçar: *ukdeten* nekre (belirsiz) ve *min lisânî* — "dilimden **bir** düğüm".**
+**Dizim nüktesi kaydedilmelidir ve gözden kaçar: *ukdeten* nekre (belirsiz) ve *min lisânî* — "dilimden bir düğüm".**
 
 **Yani talep, dilin tamamının çözülmesi değil.** **Bir düğüm isteniyor** — ve bu, **`028-kasas.md` 28/34'te Mûsâ'nın kendi ifadesiyle uyumludur:** *ve ahî Hârûnü hüve **efsahu minnî lisânâ*** — "kardeşim Hârûn'un dili benimkinden **daha düzgündür**." **Orada da mutlak bir yetersizlik değil, bir karşılaştırma vardı.**
 
@@ -706,7 +706,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Cümlenin her kelimesi kaydedilmeye değer.**
 
-**أَلْقَيْتُ** — "bıraktım, koydum". **Fiil, sevgiyi bir **konan şey** olarak veriyor.** Ve öznesi birinci tekil: **"ben".**
+**أَلْقَيْتُ** — "bıraktım, koydum". **Fiil, sevgiyi bir konan şey olarak veriyor.** Ve öznesi birinci tekil: **"ben".**
 
 **مَحَبَّة** nekre (belirsiz) — "bir sevgi". **Ve ardından *minnî* geliyor: "benden".** **Yani kaynağı ayrıca belirtiliyor.**
 
@@ -746,7 +746,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Bir ayette bütün bir hayat
 
-**Ayet, `028-kasas.md`'de yirmi sekiz ayette anlatılan şeyi tek ayette veriyor. Karşılaştırma metinden doğrulanabilirdir:**
+**Ayet, `028-kasas.md`'de on sekiz ayette anlatılan şeyi tek ayette veriyor. Karşılaştırma metinden doğrulanabilirdir:**
 
 | Olay | Kasas | **Tâhâ 20/40** |
 |---|---|---|
@@ -766,11 +766,11 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### وَقَتَلْتَ نَفْسًا — örtmeyen anlatım
 
-**Cümle kaydedilmelidir: olay, muhataba **kendi ağzından değil, ikinci şahıs olarak** hatırlatılıyor ve örtülmüyor.**
+**Cümle kaydedilmelidir: olay, muhataba kendi ağzından değil, ikinci şahıs olarak hatırlatılıyor ve örtülmüyor.**
 
 **`028-kasas.md` 28/14-21'de aynı olay işlendi ve orada kaydedilmişti: metin, bir peygamberin hayatındaki ağır bir olayı örtmüyor ve değerlendirmeyi kendisine yaptırıyor** (*hâzâ min ameli'ş-şeytân*, *innî zalemtü nefsî*). **Oraya dayanıyorum.**
 
-**Tâhâ'ya özgü olan, olayın **bir nimet listesinin ortasında** anılmasıdır.** Cümle şöyle akıyor: seni annene döndürdük — **bir cana kıydın** — seni sıkıntıdan kurtardık — seni sınadık — Medyen'de kaldın — geldin.
+**Tâhâ'ya özgü olan, olayın bir nimet listesinin ortasında anılmasıdır.** Cümle şöyle akıyor: seni annene döndürdük — **bir cana kıydın** — seni sıkıntıdan kurtardık — seni sınadık — Medyen'de kaldın — geldin.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin dizilişidir:** hata, lütufların **arasından çıkarılmıyor.** **Ve ardından gelen fiil bir kurtarma fiilidir:** *fe-necceynâke mine'l-ğamm*.
 
@@ -921,7 +921,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki fiilin zamanıdır:** birincisi tebliğin **kesilmesinden**, ikincisi tebliğin **ters tepmesinden** korkuyor. **Yani korku, kişisel güvenlik korkusu olarak değil, işin akıbeti olarak ifade ediliyor.**
 
-**Ve ikinci fiil kaydedilmeye değer: *yatğâ* — yirmi dördüncü ve kırk üçüncü ayetlerdeki *tağâ* ile aynı kök.** **Yani iki elçi, muhatabın **daha da** azmasından korkuyor.**
+**Ve ikinci fiil kaydedilmeye değer: *yatğâ* — yirmi dördüncü ve kırk üçüncü ayetlerdeki *tağâ* ile aynı kök.** **Yani iki elçi, muhatabın daha da azmasından korkuyor.**
 
 ### إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ
 
@@ -999,7 +999,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **ثُمَّ هَدَىٰ — ve cümlenin ağırlığı burada.**
 
-***Sümme* edatı Arapçada **sıra ve aralık** bildirir.** Yani yol gösterme, yaratılışın **içinde** değil, **ardından** geliyor.
+***Sümme* edatı Arapçada sıra ve aralık bildirir.** Yani yol gösterme, yaratılışın **içinde** değil, **ardından** geliyor.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı edatın kendisidir:** cümle iki ayrı bağış sayıyor — **var etme** ve **yönlendirme.** **Bir şeye varlık vermek, ona ne yapacağını göstermeye yetmiyor;** ayet ikincisini ayrıca anıyor.
 
@@ -1199,7 +1199,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bir — yalnız Tâhâ'da Mûsâ'nın korkusu anılıyor.** *Fe-**evcese** fî nefsihî **hîfeten** Mûsâ.*
 
-**و-ج-س** kökü — **dizinde ilk kez burada geçiyor.** Dilcilerin verdiği anlam: **çok hafif bir sesi ya da hareketi sezmek; içine bir şey doğmak.** *Vecs* — belli belirsiz ses. **Kelime, korkunun **fark edilir edilmez** hâlini bildiriyor.**
+**و-ج-س** kökü — **dizinde ilk kez burada geçiyor.** Dilcilerin verdiği anlam: **çok hafif bir sesi ya da hareketi sezmek; içine bir şey doğmak.** *Vecs* — belli belirsiz ses. **Kelime, korkunun fark edilir edilmez hâlini bildiriyor.**
 
 **Ve dizim nüktesi kaydedilmelidir:** *fî nefsihî* — **"içinde"**; *hîfeten* nekre — **"bir korku"**; ve fâil (*Mûsâ*) cümlenin **en sonuna** bırakılmış.
 
@@ -1441,7 +1441,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bloğun son cümlesi ve sûrenin en sıkı halkalarından biri buradadır.**
 
-**Ellinci ayette Mûsâ'nın cevabı şuydu: *a'tâ külle şey'in halkahû **sümme hedâ***.** **Yetmiş dokuzuncu ayet aynı fiili Fir'avn için nefyediyor: *ve mâ **hedâ***.**
+**Ellinci ayette Mûsâ'nın cevabı şuydu: *a'tâ külle şey'in halkahû sümme hedâ*.** **Yetmiş dokuzuncu ayet aynı fiili Fir'avn için nefyediyor: *ve mâ hedâ*.**
 
 | Ayet | İfade | Özne | Sonuç |
 |---|---|---|---|
@@ -1543,7 +1543,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **أَثَر** — kök **أ-ث-ر**: **iz, ayak izi, geride kalan işaret.** *Alâ eserî* — "izim üzerinde", yani **arkamdan geliyorlar.**
 
-**Ve kelime doksan altıncı ayette geri gelecek: *min **eseri**'r-rasûl*.** **Aynı kelime, biri kavmin Mûsâ'nın ardından gelişi, öteki Sâmirî'nin sözünde.** Bu, metinden doğrulanabilir bir dağılımdır.
+**Ve kelime doksan altıncı ayette geri gelecek: *min eseri'r-rasûl*.** **Aynı kelime, biri kavmin Mûsâ'nın ardından gelişi, öteki Sâmirî'nin sözünde.** Bu, metinden doğrulanabilir bir dağılımdır.
 
 **Cevabın ikinci parçası kaydedilmelidir: gerekçe olarak gösterilen şey *li-terdâ* — "hoşnut olasın diye".**
 
@@ -1595,7 +1595,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### بِمَلْكِنَا — kendi irademizle
 
-**Kavmin cevabı üç parçadır ve birincisi kaydedilmelidir: *mâ ahlefnâ mev'ıdeke **bi-melkinâ***.**
+**Kavmin cevabı üç parçadır ve birincisi kaydedilmelidir: *mâ ahlefnâ mev'ıdeke bi-melkinâ*.**
 
 **م-ل-ك** kökü: sahip olmak, elinde tutmak. ***Melk* — "kendi elimizde olarak", yani kendi irademizle.**
 
@@ -1651,7 +1651,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ## 20/90-93 — وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى · قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ · قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟ · أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِى
 
-*Ve lekad kāle lehüm Hârûnü min kablü yâ kavmi innemâ fütintüm bih, ve inne rabbekümü'r-rahmânü fettebiûnî ve etîû emrî · Kālû len nebraha aleyhi âkifîne hattâ yerciа ileynâ Mûsâ · Kāle yâ Hârûnü mâ meneake iz raeytehüm dallû · Ellâ tettebian, efe-asayte emrî*
+*Ve lekad kāle lehüm Hârûnü min kablü yâ kavmi innemâ fütintüm bih, ve inne rabbekümü'r-rahmânü fettebiûnî ve etîû emrî · Kālû len nebraha aleyhi âkifîne hattâ yercia ileynâ Mûsâ · Kāle yâ Hârûnü mâ meneake iz raeytehüm dallû · Ellâ tettebian, efe-asayte emrî*
 
 "**Andolsun, Hârûn onlara daha önce şöyle demişti: 'Ey kavmim! Siz bununla sınanıyorsunuz. Sizin Rabbiniz Rahmân'dır. Bana uyun ve emrime itaat edin.' · 'Mûsâ bize dönünceye kadar buna tapmaktan vazgeçmeyeceğiz' dediler. · Mûsâ dedi ki: 'Ey Hârûn! Onların saptıklarını gördüğünde seni ne alıkoydu · benim yolumu izlemekten? Emrime karşı mı geldin?'**"
 
@@ -1673,7 +1673,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
 
-**İki emir: *ittibâ'* (uymak) ve *itâat* (emre uymak).** **Ve bu iki kelime, doksan ikinci ve doksan üçüncü ayetlerde Mûsâ'nın sorusunda **aynen** geri dönecek:** *ellâ **tettebian*** ve *efe-**asayte emrî***.
+**İki emir: *ittibâ'* (uymak) ve *itâat* (emre uymak).** **Ve bu iki kelime, doksan ikinci ve doksan üçüncü ayetlerde Mûsâ'nın sorusunda aynen geri dönecek:** *ellâ **tettebian*** ve *efe-**asayte emrî***.
 
 | Kim | İfade | Kime |
 |---|---|---|
@@ -1734,7 +1734,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cevabın iki maddesidir:** Hârûn kendi güvenliğini ya da yetkisizliğini öne sürmüyor. **İki sorumluluk arasında kaldığını söylüyor.** **Ve doksanıncı ayet, onun yalnız beklemediğini — konuşup uyardığını — okuyucuya zaten bildirmiştir.**
 
-**Ve `028-kasas.md` 28/34'te Hârûn için istenen sıfat *yusaddikunî* (beni doğrulasın) idi; Tâhâ 20/32'de istenen şey *eşrikhü fî emrî* (onu işime ortak et) idi.** **Doksan üçüncü ayetteki soru (*efe-asayte **emrî***) tam da o kelimeyi kullanıyor.** Bu, sûre içinde doğrulanabilir bir bağdır.
+**Ve `028-kasas.md` 28/34'te Hârûn için istenen sıfat *yusaddikunî* (beni doğrulasın) idi; Tâhâ 20/32'de istenen şey *eşrikhü fî emrî* (onu işime ortak et) idi.** **Doksan üçüncü ayetteki soru (*efe-asayte emrî*) tam da o kelimeyi kullanıyor.** Bu, sûre içinde doğrulanabilir bir bağdır.
 
 ### Bugüne bakan yönü
 
@@ -1765,7 +1765,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Metnin verdikleri
 
-**Önce, ayette **kesin olarak bulunan** şeyleri sayıyorum:**
+**Önce, ayette kesin olarak bulunan şeyleri sayıyorum:**
 
 | Öğe | İfade | Kesin olan |
 |---|---|---|
@@ -1819,7 +1819,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **ن-س-ف** kökü **`077-murselat.md` 77/10'da ayrıntılı çözümlendi** ve orada kaydedilmişti: **kökün iki kullanımı vardır — bir şeyi kökünden söküp savurmak, ve harmanı rüzgâra karşı savurup samanı taneden ayırmak (alete *minsef* denir); ortak nokta, hafif olanı havaya kaldırıp uçurmak.** **Oraya dayanıyorum.**
 
-**Ve aynı kök sûrenin yüz beşinci ayetinde **dağlar** için kullanılacak:** *yensifühâ rabbî **nesfâ***.
+**Ve aynı kök sûrenin yüz beşinci ayetinde dağlar için kullanılacak:** *yensifühâ rabbî **nesfâ***.
 
 | Ayet | Ne savruluyor | İfade |
 |---|---|---|
@@ -1852,7 +1852,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Doksan dokuzuncu ayet, doksan ayet süren kıssanın ardından geliyor ve iki iş görüyor.**
 
-**Bir — anlatımın kendisini adlandırıyor:** *nakussu aleyke* — "sana anlatıyoruz". **Ve *min enbâi* — "haberlerinden **bir kısmını**".** **Yani metin, verdiğinin tamamı olmadığını söylüyor.** **`028-kasas.md`'de aynı kayıt sûrenin adı vesilesiyle işlendi;** oraya dayanıyorum.
+**Bir — anlatımın kendisini adlandırıyor:** *nakussu aleyke* — "sana anlatıyoruz". **Ve *min enbâi* — "haberlerinden bir kısmını".** **Yani metin, verdiğinin tamamı olmadığını söylüyor.** **`028-kasas.md`'de aynı kayıt sûrenin adı vesilesiyle işlendi;** oraya dayanıyorum.
 
 **İki — verilenin adını koyuyor:** *ve kad âteynâke min ledünnâ **zikrâ***.
 
@@ -1864,7 +1864,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 | **99** | *Ve kad âteynâke min ledünnâ **zikrâ*** | **Ad** |
 | **124** | *Ve men a'rada an **zikrî*** | **Terk edilen şey** |
 
-**Üç ayet, tek kök.** **Ve yüzüncü ayet ile yüz yirmi dördüncü ayet **aynı fiille** açılıyor: *men a'rada*.**
+**Üç ayet, tek kök.** **Ve yüzüncü ayet ile yüz yirmi dördüncü ayet aynı fiille açılıyor: *men a'rada*.**
 
 | Ayet | İfade | Karşılığı |
 |---|---|---|
@@ -1920,13 +1920,13 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Dizim nüktesi kaydedilmelidir: iki tahmin veriliyor ve ikincisi daha kısa.**
 
-**Ve ikinci tahmini söyleyen kişi nitelenmiş: *emselühüm **tarîkaten*** — "yol bakımından en örnek olanları".**
+**Ve ikinci tahmini söyleyen kişi nitelenmiş: *emselühüm tarîkaten* — "yol bakımından en örnek olanları".**
 
 ***Emsel* — *misl* kökünden ism-i tafdîl: "en örnek, en isabetli".** **Ve *tarîka* kelimesi altmış üçüncü ayette geçmişti:** *ve yezhebâ bi-**tarîkatikümü'l-müslâ***. **Aynı iki kelime, iki ayrı yerde.**
 
 **Bunu bir gözlem olarak kaydediyorum:** dünyada "en örnek yol" diye savunulan şeyle, âhirette "en isabetli görüşlü" diye anılan kişi **aynı kelimelerle** adlandırılıyor. **Bu bir kelime örtüşmesidir; anlam bağı kurmuyorum.**
 
-**Ve tahminlerin işi kaydedilmelidir ve bunu kendi okumam olarak veriyorum:** iki tahmin de **yanlıştır** — ve ayet hangisinin doğru olduğunu söylemiyor. **Söylediği tek şey, en isabetli sananın **en kısa** süreyi söylediğidir.** **Yani ölçü, sürenin uzunluğu değil, geriye dönüp bakıldığında ne kadar kısa göründüğüdür.**
+**Ve tahminlerin işi kaydedilmelidir ve bunu kendi okumam olarak veriyorum:** iki tahmin de **yanlıştır** — ve ayet hangisinin doğru olduğunu söylemiyor. **Söylediği tek şey, en isabetli sananın en kısa süreyi söylediğidir.** **Yani ölçü, sürenin uzunluğu değil, geriye dönüp bakıldığında ne kadar kısa göründüğüdür.**
 
 **`046-ahkaf.md` 46/35'te aynı ölçü işlendi** (*ke-ennehüm yevme yeravne mâ yûadûne lem yelbesû illâ sâaten min nehâr*) **ve orada kaydedilmişti: ölçü gündüzden alınıyor — yani insanın uyanık geçirdiği, farkında olduğu zamandan.** **Oraya dayanıyorum.**
 
@@ -1965,7 +1965,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **ع-و-ج kökü `039-zumer.md` 39/28'de işlendi** (*kur'ânen arabiyyen **ğayra zî ıvec***) **ve orada kaydedilmişti: *ıvec*, gözle görülmeyen eğrilik için; *avec*, görülen eğrilik için kullanılır — dilciler bu ayrımı kaydeder.** **Zümer'de kaydedilen okuma şuydu: metin için "eğri değil" demek yeterliyken, görünmeyen eğriliği nefyeden kelimenin seçilmesi iddiayı bir kat ileri götürüyor.** **Oraya dayanıyorum.**
 
-**Buraya ait olan, kelimenin bu sûrede **iki kez** geçmesidir ve dağılım kaydedilmeye değer:**
+**Buraya ait olan, kelimenin bu sûrede iki kez geçmesidir ve dağılım kaydedilmeye değer:**
 
 | Ayet | İfade | Neyin eğriliği |
 |---|---|---|
@@ -2056,7 +2056,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 | **O** | *Ya'lemü* — bilir | **Onların önü ve arkası** |
 | **Onlar** | *Lâ **yuhîtûne** bihî ılmâ* — kuşatamazlar | **O** |
 
-***İhâta* — kök ح-و-ط: bir şeyin etrafını çepeçevre sarmak.** **Yani cümle, bilgiyi değil bilginin **kuşatıcılığını** nefyediyor.** *Bihî ılmâ* — "ilim bakımından".
+***İhâta* — kök ح-و-ط: bir şeyin etrafını çepeçevre sarmak.** **Yani cümle, bilgiyi değil bilginin kuşatıcılığını nefyediyor.** *Bihî ılmâ* — "ilim bakımından".
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ayet, insanın bilgisini büsbütün yok saymıyor. **Kuşatmayı yok sayıyor.** **Ve doksan sekizinci ayette bunun karşıtı geçmişti:** *vesia külle şey'in **ılmâ*** — "ilmiyle her şeyi kuşatmıştır."
 
@@ -2117,7 +2117,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Kavram `046-ahkaf.md` ve `043-zuhruf.md` ile `045-casiye.md`'de işlendi ve `028-kasas.md` 28/51'de *tavsîl* (halka halka ulaştırma) ile karşılaştırıldı.** **Oraya dayanıyorum ve kök tahlilini tekrarlamıyorum.**
 
-**Buraya ait olan, *tasrîf*in nesnesidir: *mine'l-vaîd* — "uyarılardan".** **Yani çevirilerek anlatılan şey burada özel olarak **tehdit ve uyarı**dır.**
+**Buraya ait olan, *tasrîf*in nesnesidir: *mine'l-vaîd* — "uyarılardan".** **Yani çevirilerek anlatılan şey burada özel olarak tehdit ve uyarıdır.**
 
 ### أَوْ يُحْدِثُ لَهُمْ ذِكْرًا
 
@@ -2127,9 +2127,9 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Dizim nüktesi: fiilin faili *o* (Kur'an), mefûlü *zikrâ*, ve mefûl nekre.** **Yani "yeni bir hatırlama meydana getirir."**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin seçimidir:** birinci gaye *yettekūn* (korunurlar) — mevcut bir davranışın sürdürülmesi. **İkinci gaye ise bir şeyin **yeni** olarak ortaya çıkması.** **Yani metin, kendisinden beklenen etkinin iki farklı derecesini adlandırıyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin seçimidir:** birinci gaye *yettekūn* (korunurlar) — mevcut bir davranışın sürdürülmesi. **İkinci gaye ise bir şeyin yeni olarak ortaya çıkması.** **Yani metin, kendisinden beklenen etkinin iki farklı derecesini adlandırıyor.**
 
-**Ve *zikr* kökü burada sûrenin dokuz geçişinden biri olarak duruyor** — ve dikkat çekicidir ki **sûrenin son bloğu (124), yüz çevirmeyi tam bu kelimeyle adlandıracak.**
+**Ve *zikr* kökü burada sûrenin sekiz geçişinden biri olarak duruyor** — ve dikkat çekicidir ki **sûrenin son bloğu (124), yüz çevirmeyi tam bu kelimeyle adlandıracak.**
 
 ---
 
@@ -2281,7 +2281,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Aynı kelime: biri bir vasfın verilişi, öteki bir vasfın yokluğu.**
 
-**Dizim nüktesi kaydedilmelidir: *ve lem **necid** lehû azmâ* — "onda bulmadık".** **Cümle "azmi yoktu" demiyor; "bulmadık" diyor.** **Fiil, bir tespit fiilidir.**
+**Dizim nüktesi kaydedilmelidir: *ve lem necid lehû azmâ* — "onda bulmadık".** **Cümle "azmi yoktu" demiyor; "bulmadık" diyor.** **Fiil, bir tespit fiilidir.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin seçimidir:** cümle bir suçlama değil, bir **ölçüm** bildiriyor. **Ve *azm* nekre geliyor: "bir kararlılık" — yani belirli bir konudaki kararlılık.**
 
@@ -2307,7 +2307,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### فَتَشْقَىٰ — sûrenin en güçlü halkası
 
-**Bu kelime, sûrenin ikinci ayetindeki *li-teşkā* ile **aynı kökten ve aynı kalıptadır.** Yapı bölümünde tablolandı; burada tamamlıyorum.**
+**Bu kelime, sûrenin ikinci ayetindeki *li-teşkā* ile aynı kökten ve aynı kalıptadır. Yapı bölümünde tablolandı; burada tamamlıyorum.**
 
 | Ayet | İfade | Kime | Ne |
 |---|---|---|---|
@@ -2352,7 +2352,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı dört kelimenin seçimidir:** ayetler cennetin nimetlerini saymıyor — **yeryüzü hayatının dört temel zorluğunu** sayıyor. **Yiyecek, giyecek, su, barınak.** **Yani *şekā* kelimesinin somut içeriği burada veriliyor:** insanın hayatını kuran dört ihtiyacın peşinde koşma zorunluluğu.
 
-**Ve `020-taha` bağlamında bu, ikinci ayetle birleşiyor:** *şekā*nın sözlük anlamı **"zahmet çekmek, didinmek"ti** — 20/2-3 bahsinde tablolandı. **Yüz on sekizinci ve yüz on dokuzuncu ayetler, o didinmenin dört maddesini sayıyor.** **Bu, sûre içinde doğrulanabilir bir tamamlamadır.**
+**Ve `020-taha.md` bağlamında bu, ikinci ayetle birleşiyor:** *şekā*nın sözlük anlamı **"zahmet çekmek, didinmek"ti** — 20/2-3 bahsinde tablolandı. **Yüz on sekizinci ve yüz on dokuzuncu ayetler, o didinmenin dört maddesini sayıyor.** **Bu, sûre içinde doğrulanabilir bir tamamlamadır.**
 
 ---
 
@@ -2364,7 +2364,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Vesvesenin sözü
 
-**Tâhâ, üç anlatım içinde vesvesenin **içeriğini** veren tek yerdir** — 20/115-116 bahsinde tablolandı. **Ve söylenen söz kaydedilmelidir.**
+**Tâhâ, üç anlatım içinde vesvesenin içeriğini veren tek yerdir** — 20/115-116 bahsinde tablolandı. **Ve söylenen söz kaydedilmelidir.**
 
 *Hel edüllüke alâ şecerati'l-huldi ve mülkin lâ yeblâ* — "sana **sonsuzluk ağacını** ve **eskimeyen bir mülkü** göstereyim mi?"
 
@@ -2377,7 +2377,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki vaadin içeriğidir:** teklif, yasağı çiğnemeyi **kendi başına** cazip göstermiyor. **İki şey vaat ediyor ve ikisi de bir yokluğu gidermeyi vaat ediyor: ölüm ve yitirme.** **Yani vesvese, insanın sınırını hedef alıyor.**
 
-**Ve teklif kaydedilmeye değer biçimde bir **yol gösterme** cümlesi olarak kuruluyor: *hel **edüllüke** alâ…* — "sana … göstereyim mi?"**
+**Ve teklif kaydedilmeye değer biçimde bir yol gösterme cümlesi olarak kuruluyor: *hel edüllüke alâ…* — "sana … göstereyim mi?"**
 
 **Ve aynı fiil bu sûrenin kırkıncı ayetinde geçmişti — Mûsâ'nın kız kardeşinin ağzında:** *hel **edüllüküm** alâ men yekfülüh* — "ona bakacak birini size göstereyim mi?"
 
@@ -2500,7 +2500,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Ancak iki metin verisi kaydediyorum:**
 
-**Bir — ayet, iki karşılığı **ayrı ayrı** ve **farklı zaman kiplerinde** veriyor:** *fe-inne lehû maîşeten danken* (isim cümlesi, zaman belirtilmemiş) **ve** *ve **nahşüruhû yevme'l-kıyâmeti** a'mâ* (fiil, zamanı açıkça söylenmiş). **Yani ikinci karşılığın zamanı belirtilmiş, birincininki belirtilmemiş.** **Bu, dördüncü okumayı destekleyen bir karinedir — ama bir tercih değildir.**
+**Bir — ayet, iki karşılığı ayrı ayrı ve farklı zaman kiplerinde veriyor:** *fe-inne lehû maîşeten danken* (isim cümlesi, zaman belirtilmemiş) **ve** *ve **nahşüruhû yevme'l-kıyâmeti** a'mâ* (fiil, zamanı açıkça söylenmiş). **Yani ikinci karşılığın zamanı belirtilmiş, birincininki belirtilmemiş.** **Bu, dördüncü okumayı destekleyen bir karinedir — ama bir tercih değildir.**
 
 **İki — kelimenin resmi *darlık*tır, *yokluk* değil.** Ayet fakirlikten söz etmiyor. **Nitekim Kur'an, malın çokluğunu tek başına bir ölçü saymaz** — nitekim bu sûrenin yüz otuz birinci ayeti tam bunu söyleyecek (*ve lâ temüddenne ayneyke ilâ mâ metta'nâ bihî*).
 
@@ -2661,9 +2661,9 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Dizim nüktesi kaydedilmelidir ve gözden kaçar: yasak, *bakma* fiiline değil, *gözü uzatma* fiiline konuyor.**
 
-***Lâ tenzur* (bakma) denmiyor; *lâ temüddenne **ayneyke*** — "gözlerini uzatma" deniyor.**
+***Lâ tenzur* (bakma) denmiyor; *lâ temüddenne ayneyke* — "gözlerini uzatma" deniyor.**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin seçimidir:** görmek yasaklanmıyor. **Yasaklanan şey, bakışın orada **asılı kalması** — göz o şeye doğru gerilip takılıyor.** **Yani ayet, ilk bakışı değil, bakışın sürdürülmesini konu ediyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin seçimidir:** görmek yasaklanmıyor. **Yasaklanan şey, bakışın orada asılı kalması — göz o şeye doğru gerilip takılıyor.** **Yani ayet, ilk bakışı değil, bakışın sürdürülmesini konu ediyor.**
 
 **Ve fiil *nûn-u te'kîd* ile pekiştirilmiş (*temüddenne*) — Arapçada bu, yasağın kesinliğini artırır.**
 
@@ -2679,7 +2679,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 | ***Zühre*** | **Parlaklık, göz alıcılık** |
 | ***Ezher*** | **Parlak beyaz, ışıldayan** |
 
-**Kökün iki dalı birbirine bağlıdır: çiçek, bitkinin en **parlak** ve en **kısa ömürlü** hâlidir.**
+**Kökün iki dalı birbirine bağlıdır: çiçek, bitkinin en parlak ve en kısa ömürlü hâlidir.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimenin sözlük alanıdır:** ayet dünya hayatını **meyveye** değil **çiçeğe** benzetiyor. **Çiçek, en çok bakılan ve en çabuk solan kısımdır.** **Ve tamlama *zehratü'l-hayâti'd-dünyâ* — "dünya hayatının çiçeği": yani hayatın tamamı değil, en göz alıcı yüzü.**
 
@@ -2768,7 +2768,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Ve `028-kasas.md` 28/59'da aynı ilke işlendi** (*ve mâ kâne rabbüke mühlike'l-kurâ hattâ yeb'ase fî ümmihâ rasûlâ*) **ve `035-fatir.md` 35/24'te de kaydedilmişti** (*ve in min ümmetin illâ halâ fîhâ nezîr*). **Oraya dayanıyorum.**
 
-**Tâhâ'nın eklediği şey, mazeretin **kendi ağızlarından** kurulmasıdır:** *le-kālû rabbenâ lev lâ erselte ileynâ rasûlâ* — "elçi gönderseydin de uysaydık, derlerdi."
+**Tâhâ'nın eklediği şey, mazeretin kendi ağızlarından kurulmasıdır:** *le-kālû rabbenâ lev lâ erselte ileynâ rasûlâ* — "elçi gönderseydin de uysaydık, derlerdi."
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, söylenmemiş bir sözü **söylenmiş gibi** aktarıyor. **Ve bu, aynı sûrenin yüz otuz üçüncü ayetindeki gerçek sözle karşılaştırılabilir:**
 

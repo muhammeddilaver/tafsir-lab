@@ -132,7 +132,7 @@ Yemin dizisinin son halkası ve Şems'teki *"ve nefsin ve mâ sevvâhâ"*nın ka
 | **Mevsûle** | "Erkeği ve dişiyi **yaratana** andolsun" |
 | **Nekire mevsûfe** | "Erkeği ve dişiyi **yaratan bir kudrete** andolsun" |
 
-Gerekçeler ve itirazlar Şems bahsinde verildi; tekrarlamıyorum. Şu kadarını eklemek gerekiyor: burada masdariyye okuyuşu Şems'tekinden biraz daha rahat işliyor, çünkü Leyl'de sonraki ayet bir fâile dönmüyor. Şems'te sekizinci ayet *"fe-elhemehâ"* (sonra ona ilham etti) diyerek gizli bir özneye bağlanıyordu; burada dördüncü ayet *"innе sa'yeküm le-şettâ"* diyor — muhataba dönüyor.
+Gerekçeler ve itirazlar Şems bahsinde verildi; tekrarlamıyorum. Şu kadarını eklemek gerekiyor: burada masdariyye okuyuşu Şems'tekinden biraz daha rahat işliyor, çünkü Leyl'de sonraki ayet bir fâile dönmüyor. Şems'te sekizinci ayet *"fe-elhemehâ"* (sonra ona ilham etti) diyerek gizli bir özneye bağlanıyordu; burada dördüncü ayet *"inne sa'yeküm le-şettâ"* diyor — muhataba dönüyor.
 
 Yine de anlam bakımından üç okuyuş da aynı yere çıkıyor: erkek ile dişinin ayrımı kendiliğinden olmuş bir şey değil, **yaratılmış** bir ayrımdır.
 
@@ -383,7 +383,7 @@ II. babda **يَسَّرَ** — kolaylaştırmak. Kur'an'da: *"Andolsun ki Kur'
 
 **İkincisi — نُ (nûn).** "Kolaylaştıracağım" değil, "kolaylaştıracağız" — Kur'an'ın azamet çoğulu. Fiilin fâili açıkça Allah'tır. Yani kolaylaşma kendiliğinden olmuyor.
 
-**Üçüncüsü — لِ (lâm).** Fiil *ilâ* (…e doğru) değil, **لِ** ile geliyor: *yüessiruhû **li**'l-yüsrâ*. Bu harf yöneliş ve tahsis bildirir. Kişi kolaylığa **doğru** itilmiyor; kolaylık **için** hazırlanıyor, ona uygun hale getiriliyor.
+**Üçüncüsü — لِ (lâm).** Fiil *ilâ* (…e doğru) değil, **لِ** ile geliyor: *yüyessiruhû **li**'l-yüsrâ*. Bu harf yöneliş ve tahsis bildirir. Kişi kolaylığa **doğru** itilmiyor; kolaylık **için** hazırlanıyor, ona uygun hale getiriliyor.
 
 ### ٱلْيُسْرَىٰ / ٱلْعُسْرَىٰ
 
@@ -514,7 +514,7 @@ Kur'an bu ayrımı iki ayrı fiille de gösterir: *"Sen sevdiğini hidayete erdi
 
 Şems sûresindeki *"fe-elhemehâ fücûrahâ ve takvâhâ"* (91/8) ile aynı işi yapıyor. Orada donanım seviyesinde — nefse ilham; burada bildirim seviyesinde — üzerimize borçtur yol göstermek. İki sûre aynı kapıyı kapatıyor: bilmiyordum savunması yok.
 
-### Fâsıla: iki cümlenin sırası
+### Fasıla: iki cümlenin sırası
 
 **On üçüncü ayet:** *"Âhiret de dünya da elbette bizimdir."*
 
@@ -706,7 +706,7 @@ Ve burada sûre, Şems'e bağlanıyor.
 
 Karşılıksız vermenin tanımı. Kur'an'da bu tanımın en yalın hali burada.
 
-### Cümlenin kurulusu
+### Cümlenin kuruluşu
 
 Cümle bir olumsuzlamayla başlıyor: **مَا** — yoktur. Ve olumsuzlanan şey, verme sebeplerinden biri:
 

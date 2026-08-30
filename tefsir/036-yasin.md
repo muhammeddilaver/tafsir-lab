@@ -232,11 +232,11 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi kıssasıdır:** on üç ayet sonra bir şehre **üç elçi** gelecek ve onlar da *innâ ileyküm mürselûn* (14) diyecek — **aynı kelimeyle.** Sûre, Peygamber'in konumunu bir istisna olarak değil, **süregelen bir işin devamı** olarak kuruyor. Kıssanın sûredeki yeri bu cümleyle hazırlanıyor.
 
-**ر-س-ل kökü sûrede altı yerde geçer** (3, 13, 14, 16, 20, 30, 52) ve kapanış bölümünde ayrıca tablolanacak.
+**ر-س-ل kökü sûrede yedi yerde geçer** (3, 13, 14, 16, 20, 30, 52) ve kapanış bölümünde ayrıca tablolanacak.
 
 ### عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
-**صِرَاط** — kök **ص-ر-ط**. Dilciler kelimenin **yutmak** (*seratа* — yutmak) fiiliyle ilişkisini kaydeder: **yolcuyu içine alıp yutan geniş yol.** `001-fatiha.md`'de kelime işlendi; **tekrarlamıyorum.**
+**صِرَاط** — kök **ص-ر-ط**. Dilciler kelimenin **yutmak** (*serata* — yutmak) fiiliyle ilişkisini kaydeder: **yolcuyu içine alıp yutan geniş yol.** `001-fatiha.md`'de kelime işlendi; **tekrarlamıyorum.**
 
 **مُسْتَقِيم** — kök **ق-و-م**, X. bâb ism-i fâili: **kendi kendine doğrulmuş, dosdoğru duran.** X. bâb burada talep değil, **bir hâlin edinilmesi** bildiriyor.
 
@@ -379,7 +379,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### ٱلْأَذْقَان — kök ذ-ق-ن
 
-***Zakan*** — **çene.** Çoğulu *ezkān*. Kur'an'da kelime İsrâ 17/107 ve 109'da *yehirrûne li'l-ezkāni sücceden* (çeneleri üstüne kapanırlar) biçiminde geçer.
+***Zakan*** — **çene.** Çoğulu *ezkān*. Kur'an'da kelime İsrâ 17/107'de *yehirrûne li'l-ezkāni sücceden* (çeneleri üstüne kapanırlar), 109'da *yehirrûne li'l-ezkāni yebkûn* biçiminde geçer.
 
 **Ayetin tasviri kelimenin yerine bağlıdır:** halka boyundadır, ama **çeneye kadar** yükseliyor. Boyunla çene arasını dolduran bir kütle, başın öne eğilmesini imkânsız kılar.
 
@@ -630,7 +630,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### مَثَل — kök م-ث-ل
 
-**Kökün anlamı: benzerlik, denk olma; ve bir şeyi karşıya dikmek.** *Müsûl* — ayakta dikilmek, huzurda durmak; *timsâl* — suret. *Mesel* — **karşılaştırma için önе konan durum.**
+**Kökün anlamı: benzerlik, denk olma; ve bir şeyi karşıya dikmek.** *Müsûl* — ayakta dikilmek, huzurda durmak; *timsâl* — suret. *Mesel* — **karşılaştırma için öne konan durum.**
 
 **Ve terkip kaydedilmelidir: *darabe meselen* — "örnek vurmak".** Arapçada *darb* fiili bu terkipte "koymak, ortaya sürmek" anlamındadır. Dilciler bunu paraya damga vurmaya (*darbü'd-derâhim*) benzeterek açıklar: **bir kalıbı bir malzemeye basmak.**
 
@@ -795,12 +795,12 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 | Takdir | Tamamlanmış hâli | Anlam |
 |---|---|---|
 | 1 | *E-in zükkirtüm **tetayyertüm**?* | "Size hatırlatıldı diye mi uğursuzluğa yordunuz?" |
-| 2 | *E-in zükkirtüm **tevaa'a'dtüm***? | "Size hatırlatıldı diye mi tehdit ediyorsunuz?" |
+| 2 | *E-in zükkirtüm **tevaa'dtüm***? | "Size hatırlatıldı diye mi tehdit ediyorsunuz?" |
 | 3 | Cevap öncesinden anlaşılıyor | "Size hatırlatıldı diye mi [bütün bunlar]?" |
 
 **Üç takdir de nakledilir; tercih dayatmıyorum.** **Ortak nokta doğrulanabilir:** üçünde de şart aynı — *zükkirtüm*, "size hatırlatıldı."
 
-**Kelimenin seçimi kaydedilmeye değer:** elçiler kendi yaptıkları işi **"hatırlatma"** diye adlandırıyor. Kök **ذ-ك-ر**. Yani gelen şey yeni bir bilgi değil, unutulmuş olanın **önе konması** olarak tarif ediliyor. Ve bu, on birinci ayetteki *ittebea'**z-zikra*** ile aynı köktür.
+**Kelimenin seçimi kaydedilmeye değer:** elçiler kendi yaptıkları işi **"hatırlatma"** diye adlandırıyor. Kök **ذ-ك-ر**. Yani gelen şey yeni bir bilgi değil, unutulmuş olanın **öne konması** olarak tarif ediliyor. Ve bu, on birinci ayetteki *ittebea'**z-zikra*** ile aynı köktür.
 
 **Kıraat kaynaklarında bu kelimede farklı okuyuşlar nakledilir** (*zükkirtüm* / *ezzekkertüm* gibi). **Ayrıntısında emin olmadığım için isim ve tafsilat vermiyorum;** anlam farkı köklü değildir.
 
@@ -857,7 +857,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Dizim nüktesi:** *kavmî* değil ***kavmi***; sondaki *yâ* (mütekellim zamiri) düşürülmüş, yerine kesre kalmış. Arapçada nidâda bu hazif yaygındır ve **yakınlık** bildirir.
 
-**Ve kelimenin kendisi kaydedilmelidir: adam onlara "ey kavim" değil, "ey **benim** kavmim" diyor.** Karşısına geçtiği topluluğu kendi topluluğu sayıyor. **Bu, kıssanın tamamının anahtarıdır ve yirmi altıncı ayette geri dönecek** — orada da *kavmî* diyecek.
+**Ve kelimenin kendisi kaydedilmelidir: adam onlara "ey kavim" değil, "ey benim kavmim" diyor.** Karşısına geçtiği topluluğu kendi topluluğu sayıyor. **Bu, kıssanın tamamının anahtarıdır ve yirmi altıncı ayette geri dönecek** — orada da *kavmî* diyecek.
 
 ### ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا — sınanabilir bir ölçü
 
@@ -968,7 +968,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Cümlenin en dikkat çekici kelimesi *rabbiküm*dür ve dizim gereğidir.**
 
-**Adam "Rabbime iman ettim" demiyor. "**Sizin** Rabbinize iman ettim" diyor.**
+**Adam "Rabbime iman ettim" demiyor. "Sizin Rabbinize iman ettim" diyor.**
 
 **Kendi okumam olarak kaydediyorum ve dayanağı zamirdir:** adam, karşı tarafın reddettiği varlığı yine de **onlara nispet ediyor.** Yani iman ettiği şeyi kendine ait bir tercih olarak değil, **onların da sahibi olan** bir gerçeklik olarak adlandırıyor. **Aynı tavır kıssanın başında da vardı:** onlara "ey kavim" değil "ey **benim** kavmim" demişti. **İki yerde de aidiyet zamiri, ayrılığı değil ortaklığı gösteriyor.**
 
@@ -987,7 +987,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### فَٱسْمَعُونِ — dizim
 
-**Fiilin sonundaki *yâ* düşürülmüş:** *ismeûnî* → *fesmeûn*. Yirmi üçüncü ayetteki *yunkızûn* ile aynı hazif. **Fâsıla uyumu için yapılan bu hazif, sûrenin bu bölümünde üç kez görülüyor** (*fataranî* korunmuş, *yunkızûn* ve *fesmeûn* kısaltılmış).
+**Fiilin sonundaki *yâ* düşürülmüş:** *ismeûnî* → *fesmeûn*. Yirmi üçüncü ayetteki *yunkızûn* ile aynı hazif. **Fâsıla uyumu için yapılan bu hazif, sûrenin bu bölümünde iki kez görülüyor** (*fataranî* korunmuş, *yunkızûn* ve *fesmeûn* kısaltılmış).
 
 **Ve emrin içeriği kaydedilmeye değer: "beni dinleyin."** İstenen şey kabul değil, **işitme.** Adam onlardan iman etmelerini istemiyor — **sözünü duymalarını** istiyor.
 
@@ -1144,7 +1144,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### خَٰمِدُون — kök خ-م-د
 
-**Kelimenin somut anlamı ateşle ilgilidir:** *hamedeti'n-nâru* — **ateş söndü**, alevi dindi, ama külü hâlâ sıcaktır. Dilciler *humûd* ile *humûd*u ayırır: *hümûd* alevin dinmesi, *ihmâd* söndürme.
+**Kelimenin somut anlamı ateşle ilgilidir:** *hamedeti'n-nâru* — **ateş söndü**, alevi dindi, ama külü hâlâ sıcaktır. Dilciler *hümûd* ile *ihmâd*ı ayırır: *hümûd* alevin dinmesi, *ihmâd* söndürme.
 
 **Ve kelime seçimi kaydedilmeye değer:** ayet "öldüler" demiyor. **"Söndüler"** diyor.
 
@@ -1440,7 +1440,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Kelimenin anlamı üzerinde bir düzeltme gerekiyor, çünkü Türkçedeki karşılığı yanıltıcıdır.**
 
-**Arapçada *zevc*, "çift" değil, çiftin **bir teki**dir.** Yani iki eşin her biri ayrı ayrı *zevc*tir. İkisi birlikte *zevcân* (iki tek) olur. **Dilciler bunu açıkça kaydeder:** *zevc* — yanında bir benzeri ya da karşıtı bulunan tek.
+**Arapçada *zevc*, "çift" değil, çiftin bir tekidir.** Yani iki eşin her biri ayrı ayrı *zevc*tir. İkisi birlikte *zevcân* (iki tek) olur. **Dilciler bunu açıkça kaydeder:** *zevc* — yanında bir benzeri ya da karşıtı bulunan tek.
 
 **Kök dizinde birçok yerde geçti** (`056-vakia.md`, `050-kaf.md`, `055-rahman.md`, `078-nebe.md` ve diğerleri); **temel tahlilini tekrarlamıyorum.**
 
@@ -1648,7 +1648,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### مَنَازِل — kök ن-ز-ل
 
-***Menzil*** — inilen yer; yolcunun konakladığı durak. Çoğulu *menâzil*. **Kök `036'da ayrıca *tenzîl* (5) ve *münzilîn* (28) biçimleriyle de geçti** — sûrede ن-ز-ل üç ayrı türevle görünüyor.
+***Menzil*** — inilen yer; yolcunun konakladığı durak. Çoğulu *menâzil*. **Kök sûrede ayrıca *tenzîl* (5) ve *münzilîn* (28) biçimleriyle de geçti** — sûrede ن-ز-ل üç ayrı türevle görünüyor.
 
 **Kelimenin arka planı somuttur ve kaydedilmelidir:** Araplar ayın gökyüzündeki konumlarını takip eder, bunlara ***menâzilü'l-kamer*** derdi ve mevsimleri, yağmur vakitlerini, yolculuk zamanlarını bu konumlara göre hesaplarlardı. **Yani ayet, muhatabın kullandığı bir takvim sistemine ait kelimeyi kullanıyor.**
 
@@ -2448,7 +2448,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kur'an'da aynı kök ayrıştırma bağlamında geçer:** *li-yemîze'llâhu'l-habîse mine't-tayyib* (Enfâl 8/37).
 
-**Kendi okumam olarak kaydediyorum ve dayanağı bâbın anlamıdır:** emir bir ayırma işlemi değil, bir **ayrılma** emri. Ve bu, sûre içinde bir yerleşim taşıyor: elli beş-elli sekizinci ayetlerde cennet halkı anlatıldı, elli dokuzuncu ayette ayrılma emri geliyor. **Yani ayrılma, tabloların **ardından** geliyor — önünden değil.** İki grup önce ayrı ayrı tarif ediliyor, sonra fiilen ayrılıyorlar.
+**Kendi okumam olarak kaydediyorum ve dayanağı bâbın anlamıdır:** emir bir ayırma işlemi değil, bir **ayrılma** emri. Ve bu, sûre içinde bir yerleşim taşıyor: elli beş-elli sekizinci ayetlerde cennet halkı anlatıldı, elli dokuzuncu ayette ayrılma emri geliyor. **Yani ayrılma, tabloların ardından geliyor — önünden değil.** İki grup önce ayrı ayrı tarif ediliyor, sonra fiilen ayrılıyorlar.
 
 **ٱلْمُجْرِمُون** — kök **ج-ر-م**. Dilcilerin verdiği çekirdek: *cerm* — **meyveyi dalından koparmak, kesmek.** Buradan *cürm* — kesip koparma, hak edilmeyeni almak; **suç.** **Kelimenin resmi bir ayrılmadır** — ve emrin fiili de ayrılmadır. **Bunu bir gözlem olarak kaydediyorum.**
 
@@ -2587,7 +2587,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kökün somut anlamı: bir kabın ya da yazının ağzını mühürle kapatmak.** *Hâtem* — mühür yüzüğü; *hitâm* — bir şeyin sonu, kapanışı (çünkü mühür en sona basılır).
 
-**Kök `083-mutaffifin.md`'de (*rahîkın **mahtûm***) ve `042-sura.md`, `063-munafikun.md`'de geçti.**
+**Kök `083-mutaffifin.md`'de (*rahîkın mahtûm*) ve `042-sura.md`, `063-munafikun.md`'de geçti.**
 
 **Ve kökün buradaki resmi kaydedilmelidir:** mühür, bir şeyi **kapatmakla kalmaz**, kapalı kaldığını **belgelemek** için basılır. Mühürlü kap, açılmadığı belli olan kaptır.
 
@@ -2960,7 +2960,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Ve *zelûl*ün somut kullanımı kaydedilmelidir:** *dâbbetün zelûl* — **binilmeye alışmış, ürkmeyen, kolay yönetilen hayvan.** Ve *tarîkun zelûl* — çokça yürünmüş, kolay yol.
 
-**Yani II. bâbdan *tezlîl*, hayvanın **evcilleştirilmesi**dir: yaban hâlinden çıkıp insanla iş görebilir hâle gelmesi.**
+**Yani II. bâbdan *tezlîl*, hayvanın evcilleştirilmesidir: yaban hâlinden çıkıp insanla iş görebilir hâle gelmesi.**
 
 **Kendi okumam olarak kaydediyorum ve dayanağı kelimenin ikinci dalıdır:** ayet, hayvanın aşağılandığını değil, **uysal kılındığını** söylüyor. Ve bu, gözle görülür bir olgudur: bir devenin ya da öküzün insanla çalışması, hayvanın gücüyle açıklanamaz — **güç hayvandadır, boyun eğme ayrıca verilmiştir.** Delil buradan kuruluyor.
 
@@ -2970,7 +2970,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Aynı vezinde birkaç kelime daha sayılır** (*halûb* — sağılan hayvan gibi). **Bu kaydı dilcilerin verdiği şekliyle aktarıyorum.**
 
-**Ve dizim nüktesi:** *fe-**minhâ** rakûbühüm ve **minhâ** ye'külûn — *min* teb'îziyye ile iki kez: **"kimine binerler, kiminden yerler."** Yani bütün hayvanlar her iki iş için değil; **ayet ayrımı kendisi yapıyor.**
+**Ve dizim nüktesi:** *fe-**minhâ** rakûbühüm ve **minhâ** ye'külûn* — *min* teb'îziyye ile iki kez: **"kimine binerler, kiminden yerler."** Yani bütün hayvanlar her iki iş için değil; **ayet ayrımı kendisi yapıyor.**
 
 ### مَنَٰفِعُ وَمَشَارِبُ
 
@@ -3168,7 +3168,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kendi okumam olarak kaydediyorum ve dayanağı iki fiilin farkıdır:** delil her iki sûrede de yeni bir bilgi getirmiyor. **Getirdiği şey, zaten bilinen bir şeyin hesaba katılmasıdır.** Ve bu, delilin gücünü belirliyor: karşı taraftan bir kabul istenmiyor — **kendi kabul ettiği şeyin sonucunu çıkarması isteniyor.**
 
-**Ve Yâsîn içindeki bağ doğrulanabilir:** yirmi ikinci ayette koşarak gelen adam *ellezî **fataranî*** demişti — "beni yaratan." **Yetmiş sekizinci ayette insan *ve nesiye **halkahû*** diye anılıyor — "kendi yaratılışını unuttu."**
+**Ve Yâsîn içindeki bağ doğrulanabilir:** yirmi ikinci ayette koşarak gelen adam *ellezî **fataranî*** demişti — "beni yaratan." **Yetmiş sekizinci ayette insan *ve nesiye halkahû* diye anılıyor — "kendi yaratılışını unuttu."**
 
 **Aynı veri, iki ayrı kişide.** **Kendi okumam:** sûrenin kıssasındaki adam, kapanış bölümünün insanının unuttuğu şeyi hatırlayan kişidir. **İkisi de aynı yerden bakıyor; biri kendi başlangıcını delil sayıyor, öteki onu unutup kendi sonunu delil sayıyor.**
 
@@ -3226,7 +3226,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kök `056-vakia.md`'de ayrıntılı olarak çözümlendi** ve orada kaydedildiği gibi Vâkıa'da kök **dört kez** geçiyordu: cennette eşlerin inşası (35), insanın yeniden inşası (61), ilk inşa (62), ve ateşin ağacının inşası (72). **Tekrarlamıyorum.**
 
-**Kökün çekirdeği: bir şeyi yoktan başlatıp yavaş yavaş yükseltmek, büyütmek.** *Neşe'e* — büyüdü, yetişti; *nâşi'* — yetişen genç. **Yani kelime bir defalık bir iş değil, bir **başlatma ve geliştirme** bildirir.**
+**Kökün çekirdeği: bir şeyi yoktan başlatıp yavaş yavaş yükseltmek, büyütmek.** *Neşe'e* — büyüdü, yetişti; *nâşi'* — yetişen genç. **Yani kelime bir defalık bir iş değil, bir başlatma ve geliştirme bildirir.**
 
 **Ve kelime seçimi kaydedilmeye değer:** ayet *halakahâ* (yarattı) demiyor, ***enşeehâ*** (inşa etti) diyor. **Kendi okumam:** itiraz çürümeye, yani bir **çözülmeye** dayanıyordu. Cevap, kurma fiilini bildiren kelimeyi seçiyor. **Çözülenin karşısına, kuranın adı konuyor.**
 
@@ -3295,7 +3295,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **خ-ض-ر** — kök: **yeşillik, tazelik.** *Hadır* — taze bitki; *hudra* — sebze; *ahdar* — yeşil.
 
-**Ve yeşil, burada bir renk bilgisi değil, bir **hâl** bilgisidir: ağacın **yaş ve canlı** olduğunu bildiriyor.**
+**Ve yeşil, burada bir renk bilgisi değil, bir hâl bilgisidir: ağacın yaş ve canlı olduğunu bildiriyor.**
 
 **Delilin yapısı budur ve kaydedilmelidir:**
 
@@ -3325,7 +3325,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 ***İzâ fücâiyye*** — ve bu, sûredeki **altı geçişin sonuncusudur.**
 
-**Ve dizim nüktesi kaydedilmelidir:** altı geçişin beşi **gâib** kipindeydi (*fe-izâ **hüm***, *fe-izâ **hüve***). **Bu sonuncusu muhatap kipinde: *fe-izâ **entüm***.**
+**Ve dizim nüktesi kaydedilmelidir:** altı geçişin beşi **gâib** kipindeydi (*fe-izâ **hüm***, *fe-izâ **hüve***). **Bu sonuncusu muhatap kipinde: *fe-izâ entüm*.**
 
 **Kendi okumam olarak kaydediyorum ve dayanağı zamir değişimidir:** sûre boyunca "onlar" diye anlatılan şey, son delilde **"siz"** oluyor. **Ve bu, sûrenin son ayetindeki *turceûn* ile aynı yönde:** kapanış bölümü muhatabı cümlenin içine alıyor.
 
@@ -3520,7 +3520,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 ### Bu tefsirde konulan usul sınırları
 
-**Sûre boyunca dört yerde açık usul kaydı düşüldü. Toplu olarak:**
+**Sûre boyunca altı yerde açık usul kaydı düşüldü. Toplu olarak:**
 
 | Yer | Kayıt |
 |---|---|

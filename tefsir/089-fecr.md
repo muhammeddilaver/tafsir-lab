@@ -26,7 +26,7 @@ Yani sûre bir soruyla ilgilenmiyor ("neden bana bu oldu?"), bir **çıkarımla*
 | Kıyamet | 21-26 | Yerin dövülmesi, safların dizilmesi, faydasız hatırlama |
 | Çağrı | 27-30 | Yatışmış nefse: dön, gir, gir |
 
-Dikkat çeken bir oran var: sûrenin **yarısından biraz azı** (6-20) insanın gücü ve malıyla kurduğu ilişkiye ayrılmış. Kıyamet tasviri altı ayet, çağrı dört ayet. Sûre âhireti anlatmak için değil, **bir çıkarımı düzeltmek** için kurulmuş; âhiret o düzeltmenin dayanağı olarak geliyor.
+Dikkat çeken bir oran var: sûrenin **tam yarısı** (6-20) insanın gücü ve malıyla kurduğu ilişkiye ayrılmış. Kıyamet tasviri altı ayet, çağrı dört ayet. Sûre âhireti anlatmak için değil, **bir çıkarımı düzeltmek** için kurulmuş; âhiret o düzeltmenin dayanağı olarak geliyor.
 
 ### Mekkî
 
@@ -1417,7 +1417,7 @@ Kur'an'daki akrabaları: *es-Sâffât* (Sâffât 37/1 — saf saf dizilenler), *
 |---|---|---|
 | Dizilen | Yastıklar | Melekler |
 | Sahne | Cennet, dinlenme | Mahkeme, huzur |
-| Ortak | *ṣ-f-f* — düzenli sıralanma |
+| Ortak | *ṣ-f-f* — düzenli sıralanma | |
 
 İki komşu sûre aynı kökü iki ucu birbirine benzemeyen sahnede kullanıyor. Kökün kendisi ne olumlu ne olumsuz: **düzen** bildiriyor. Kâria bahsinde *mebsûs* kelimesi için kaydedilen ölçü burada da geçerlidir: kelime kendinde bir değer taşımaz; değer, nitelediği şeyden gelir.
 
@@ -1660,7 +1660,7 @@ Kısa bir not olarak kaydediyorum; iki kullanım arasında bir bağ kurmuyorum, 
 
 ### İki ayetin fasılası
 
-Her iki ayet de aynı kelimeyle bitiyor: *ehad*, *ehad*. Sûrede başka hiçbir yerde iki ayet aynı kelimeyle kapanmıyor.
+Her iki ayet de aynı kelimeyle bitiyor: *ehad*, *ehad*. Sûrede bir yerde daha iki ayet aynı kelimeyle kapanıyor — 8 ve 11, *fi'l-bilâd* — ama orada ayetler ardışık değildi; burada ardışık.
 
 Bu tekrar, iki cümleyi tek bir hüküm haline getiriyor: azap ve bağ, tek bir işlemin iki yüzü. Ve tekrarın kendisi bir kapanış işlevi görüyor — kıyamet sahnesi burada bitiyor, sonraki ayette bambaşka bir ses başlıyor.
 
@@ -1902,8 +1902,8 @@ Aynı işlem burada tersine çalışıyor: muhatap "cennet" dendiğinde bildiği
 | | **Hümeze 104/6** | **Fecr 89/30** |
 |---|---|---|
 | Ne | *nâru'llâhi'l-mûkade* — Allah'ın tutuşturulmuş ateşi | *cennetî* — cennetim |
-| Ortak | Sahibinin adıyla anılması |
-| Etkisi | Sahiplik tartışmasız hale geliyor |
+| Ortak | Sahibinin adıyla anılması | |
+| Etkisi | Sahiplik tartışmasız hale geliyor | |
 
 Hümeze bahsinde bu izafet için düşülen not burada da işler: sûre boyunca bir sahiplik meselesi işleniyordu — kimin neye sahip olduğu. Fecr'de de öyle: adam mirası yiyor, malı seviyor, elindekini kendi değerinin göstergesi sayıyor. **Sûrenin son kelimesi, sahipliğin tartışmasız olduğu tek yeri gösteriyor.**
 
@@ -1925,7 +1925,7 @@ Ve sûrenin ilk kelimesi neydi? **ٱلْفَجْر** — üçüncü şahıs bir 
 
 **Sûre bir tabiat olayıyla açılıyor, bir sahiplik ifadesiyle kapanıyor.**
 
-Aradaki mesafe kapanıyor: metin uzaktaki bir olaydan başlayıp konuşanın kendi ağzından söylediği bir kelimeye varıyor. Ve son iki ayette birinci tekil zamir üç kez geçiyor: *ibâdî*, *cennetî* — ve *cennetî*'nin kendisi.
+Aradaki mesafe kapanıyor: metin uzaktaki bir olaydan başlayıp konuşanın kendi ağzından söylediği bir kelimeye varıyor. Ve son iki ayette birinci tekil zamir iki kez geçiyor: *ibâdî*, *cennetî*.
 
 Bunu kendi okumam olarak sunuyorum. Ama fasılanın son iki ayette birinci tekil zamirle kurulması metinde duran bir olgudur ve sûrede başka hiçbir yerde tekrarlanmaz.
 

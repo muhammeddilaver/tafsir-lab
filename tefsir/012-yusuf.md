@@ -27,7 +27,7 @@
 
 ### ق-ص-ص — izi sürmek
 
-**Kökün somut anlamı: bir izi takip etmek.** *Kassa'l-esera* — izi sürdü. **Bu kök `028-kasas.md`'de sûre adı vesilesiyle işlendi, `027-neml.md` 27/76'da (*yekussu*) ve `018-kehf.md` 18/64'te (*fe'rteddâ alâ âsârihimâ **kasasâ***) çözümlendi.** **Tekrarlamıyorum.** Oralarda kaydedilen özet:
+**Kökün somut anlamı: bir izi takip etmek.** *Kassa'l-esera* — izi sürdü. **Bu kök `028-kasas.md`'de sûre adı vesilesiyle işlendi, `027-neml.md` 27/76'da (*yekussu*) ve `018-kehf.md` 18/64'te (*fe'rteddâ alâ âsârihimâ kasasâ*) çözümlendi.** **Tekrarlamıyorum.** Oralarda kaydedilen özet:
 
 > **Kökün ortak çekirdeği iz sürmedir.** Buradan *kıssa*: bir olayın izini **sırayla** takip ederek anlatılması. Kehf'te kelime düpedüz "izini sürerek geri dönmek" anlamında kullanılır.
 
@@ -185,7 +185,7 @@
 
 ### لَا تَقْصُصْ — yasak, kıssa fiiliyle geliyor
 
-**Ve sûrenin en ince dizim nüktelerinden biri burada:** üçüncü ayette Allah "**sana anlatıyoruz**" (*nahnü **nekussu** aleyke*) demişti. **Beşinci ayette baba, aynı fiille bir yasak koyuyor: "**anlatma**" (*lâ **taksus***).**
+**Ve sûrenin en ince dizim nüktelerinden biri burada:** üçüncü ayette Allah "**sana anlatıyoruz**" (*nahnü **nekussu** aleyke*) demişti. **Beşinci ayette baba, aynı fiille bir yasak koyuyor: "anlatma" (*lâ taksus*).**
 
 | Ayet | Fiil | Kim | Kime | Hüküm |
 |---|---|---|---|---|
@@ -793,7 +793,7 @@
 
 ### Delilin kuruluşu — bir çıkarım zinciri
 
-**Ve bu sahne, Kur'an'daki en açık **maddî delil** akıl yürütmelerinden biridir. Şahidin söylediği söz bir tanıklık değil, bir **çıkarım kuralı**dır:**
+**Ve bu sahne, Kur'an'daki en açık maddî delil akıl yürütmelerinden biridir. Şahidin söylediği söz bir tanıklık değil, bir çıkarım kuralıdır:**
 
 | Şart | Sonuç | Neden |
 |---|---|---|
@@ -1002,7 +1002,7 @@
 
 ### أَعْصِرُ خَمْرًا
 
-**ع-ص-ر** kökü: **sıkmak, suyunu çıkarmak.** *Asr* — sıkma; *i'sâr* — kasırga (havayı sıkan). **Kelime sûrenin kırk dokuzuncu ayetinde geri gelecek: *ve fîhi **ya'sırûn***.**
+**ع-ص-ر** kökü: **sıkmak, suyunu çıkarmak.** *Asr* — sıkma; *i'sâr* — kasırga (havayı sıkan). **Kelime sûrenin kırk dokuzuncu ayetinde geri gelecek: *ve fîhi ya'sırûn*.**
 
 **Ve *hamr* kelimesinin burada "üzüm" anlamında kullanıldığı dilcilerce kaydedilir** — Arapçada bir şeyin varacağı hâlle adlandırılması yaygındır (buna *tesmiye bi-mâ yeûlü ileyh* denir). **Bu, sûrenin anahtar terkibiyle aynı mantıktır: *te'vîl* de "varacağı yer" demektir.**
 
@@ -1059,7 +1059,7 @@
 
 ### مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ
 
-**Kalıp kaydedilmelidir: *mâ kâne lenâ en…* — Arapçada "bizim için olacak şey değildir", yani **imkânsızlık ve yakışmazlık** bildirir.** Basit bir olumsuzluk (*lâ nüşrikü*) değil.
+**Kalıp kaydedilmelidir: *mâ kâne lenâ en…* — Arapçada "bizim için olacak şey değildir", yani imkânsızlık ve yakışmazlık bildirir.** Basit bir olumsuzluk (*lâ nüşrikü*) değil.
 
 **مِن شَىْء** — *min* zâid, olumsuzluğu genelleştiriyor: **"hiçbir şeyi".**
 
@@ -1301,7 +1301,7 @@
 
 **Ve şunu kendi okumam olarak kaydediyorum, dayanağı üç ayetin içeriğidir:**
 
-**Cevap, bir kehanet değil bir **politika**dır.** İçinde şunlar var: üretim (yedi yıl ekin), tüketim sınırı (*illâ kalîlen mimmâ te'külûn*), depolama yöntemi (başakta bırakma), ve stok yönetimi (*illâ kalîlen mimmâ tuhsınûn* — tohumluk ayırma).
+**Cevap, bir kehanet değil bir politikadır.** İçinde şunlar var: üretim (yedi yıl ekin), tüketim sınırı (*illâ kalîlen mimmâ te'külûn*), depolama yöntemi (başakta bırakma), ve stok yönetimi (*illâ kalîlen mimmâ tuhsınûn* — tohumluk ayırma).
 
 **Yani bilgi, doğrudan bir uygulamaya çevrilmiş hâlde veriliyor.** Ve bu, bir sonraki bloktaki talebin (*ic'alnî alâ hazâini'l-ard*, 55) zeminini kuruyor: **görev talebi, ortaya konmuş bir plandan sonra geliyor.**
 
@@ -1499,7 +1499,7 @@
 
 ### وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِين
 
-**Ve bu cümle 90. ayette **Yûsuf'un ağzından** birebir tekrarlanacak: *fe-inne'llâhe lâ yudîu ecra'l-muhsinîn.***
+**Ve bu cümle 90. ayette Yûsuf'un ağzından birebir tekrarlanacak: *fe-inne'llâhe lâ yudîu ecra'l-muhsinîn.***
 
 | Ayet | Kim söylüyor |
 |---|---|
@@ -1581,7 +1581,7 @@
 
 **فَٱللَّهُ خَيْرٌ حَٰفِظًا** — **bir kıraat kaydı:** kelime *hâfizan* (temyîz) ve *hıfzan* (masdar) olmak üzere iki biçimde okunmuştur. **İki okuyuşta da anlam aynı yere çıkar: koruma işi Allah'a bırakılıyor.**
 
-**Ve `049-hucurat.md`'nin ekseniyle bir bağ kurulabilir; ama asıl bağ 12. ayettedir:** kardeşler orada *ve innâ lehû le-**hâfizûn*** demişti; burada tekrar aynı kelimeyi kullanıyorlar (*ve innâ lehû le-hâfizûn*, 63). **Baba ise aynı kökü Allah'a çeviriyor: *fallâhu hayrun **hâfizâ***.**
+**Ve `049-hucurat.md`'nin ekseniyle bir bağ kurulabilir; ama asıl bağ 12. ayettedir:** kardeşler orada *ve innâ lehû le-**hâfizûn*** demişti; burada tekrar aynı kelimeyi kullanıyorlar (*ve innâ lehû le-hâfizûn*, 63). **Baba ise aynı kökü Allah'a çeviriyor: *fallâhu hayrun hâfizâ*.**
 
 | Ayet | İfade | Kim |
 |---|---|---|
@@ -1706,7 +1706,7 @@
 | **2** | Cümle **soru** olarak okunabilir: "siz hırsız mısınız?" — ki bazı kıraatlerde bu yönde okunduğu nakledilir |
 | **3** | Kervan gerçekten **bir kaybın** sorumlusu sayılmaktadır; kap onların yükündedir |
 
-**İzahları aktarıyorum, tercih dayatmıyorum.** **Ve şu kaydedilmelidir: sûrenin kendisi bu işi 76. ayette adlandırıyor — *kezâlike **kidnâ** li-Yûsuf* — ve fiili Allah'a nispet ediyor.**
+**İzahları aktarıyorum, tercih dayatmıyorum.** **Ve şu kaydedilmelidir: sûrenin kendisi bu işi 76. ayette adlandırıyor — *kezâlike kidnâ li-Yûsuf* — ve fiili Allah'a nispet ediyor.**
 
 ---
 
@@ -1716,7 +1716,7 @@
 
 ### زَعِيم
 
-**Kelime `068-kalem.md` 68/34-41'de (*sel hüm eyyühüm bi-zâlike **zaîm***) çözümlendi ve orada bu ayet örnek verilmişti:**
+**Kelime `068-kalem.md` 68/34-41'de (*sel hüm eyyühüm bi-zâlike zaîm*) çözümlendi ve orada bu ayet örnek verilmişti:**
 
 > **Kur'an ikinci anlamı bir yerde açıkça kullanır:** Yûsuf kıssasında, kaybolan ölçek için *"ve ben buna kefilim"* (*ve ene bihî **zaîm***) denir (Yûsuf 12/72).
 
@@ -1737,7 +1737,7 @@
 
 **Yani hüküm, kardeşlerin kendi ağzından çıkıyor.** Ve bunun gerekçesi 76. ayette açıkça söylenecek: *mâ kâne li-ye'huze ehâhü fî dîni'l-melik* — **kralın hukukunda böyle bir alıkoyma yoktur.**
 
-**Yani plan, o toplumun kendi hukukuyla değil, **karşı tarafın kendi kabul ettiği kuralla** işliyor.** Bu, metnin açıkça söylediği bir şeydir (76) ve bir yorum değildir.
+**Yani plan, o toplumun kendi hukukuyla değil, karşı tarafın kendi kabul ettiği kuralla işliyor.** Bu, metnin açıkça söylediği bir şeydir (76) ve bir yorum değildir.
 
 ### تَٱللَّهِ — yemin harfi
 
@@ -1781,7 +1781,7 @@
 
 **Oraya dayanıyorum.**
 
-**Ve *li-* harfi kaydedilmelidir: *kidnâ **li**-Yûsuf* — "Yûsuf **için**".** **Arapçada *kâde alâ* aleyhte, *kâde li* lehte olan tertibi bildirir.** **Yani harf, kelimenin yönünü belirliyor.**
+**Ve *li-* harfi kaydedilmelidir: *kidnâ li-Yûsuf* — "Yûsuf için".** **Arapçada *kâde alâ* aleyhte, *kâde li* lehte olan tertibi bildirir.** **Yani harf, kelimenin yönünü belirliyor.**
 
 **Bu, sûrenin 5. ayetiyle karşılaştırılmalıdır:** orada *fe-yekîdû **leke** keydâ* denmişti — orada da *li/leke* harfi vardır ama bağlam zarar bildirir. **Bu yüzden yönü belirleyen tek başına harf değil, cümlenin bütünüdür. Bunu bir kayıt olarak veriyorum.**
 
@@ -1807,11 +1807,11 @@
 
 **Ve `018-kehf.md`'nin ekseniyle bağ burada kurulmalıdır. Bunu kendi okumam olarak kaydediyorum:**
 
-**Kehf, dört kıssa boyunca **bilginin sınırını** işlemişti** — *ve lem tuhıt bihî hubrâ* (18/68), *kul rabbî a'lemü bi-ıddetihim* (18/22). **Yûsuf sûresi aynı meseleyi tek bir cümlede topluyor ve bir sûrenin ortasına, bir plan sahnesinin hemen ardına yerleştiriyor.**
+**Kehf, dört kıssa boyunca bilginin sınırını işlemişti** — *ve lem tuhıt bihî hubrâ* (18/68), *kul rabbî a'lemü bi-ıddetihim* (18/22). **Yûsuf sûresi aynı meseleyi tek bir cümlede topluyor ve bir sûrenin ortasına, bir plan sahnesinin hemen ardına yerleştiriyor.**
 
 **Ve yerleştirme yeri anlamlıdır:** cümle, **bilginin başarıya ulaştığı** anda geliyor. Plan işlemiş, kardeş alıkonmuştur. **Tam o noktada, bilginin bir üstü olduğu hatırlatılıyor.**
 
-**Ve sûrenin sonunda aynı kişi bunu kendi ağzıyla söyleyecek: *ve allemtenî **min** te'vîli'l-ehâdîs* (101) — "**bir kısmını** öğrettin."**
+**Ve sûrenin sonunda aynı kişi bunu kendi ağzıyla söyleyecek: *ve allemtenî min te'vîli'l-ehâdîs* (101) — "bir kısmını öğrettin."**
 
 ---
 
@@ -1886,7 +1886,7 @@
 
 **Cümlenin işi kaydedilmelidir:** kardeşler, verdikleri sözün nasıl bozulduğunu açıklıyorlar — **ve açıklama bir sınır beyanıdır:** "**gaybın bekçileri değildik.**"
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı 64. ayettir:** baba *fallâhu **hayrun hâfizâ*** demişti. **Şimdi oğullar aynı kökü kullanarak kendi sınırlarını bildiriyor: *mâ künnâ li'l-ğaybi **hâfizîn***.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı 64. ayettir:** baba *fallâhu **hayrun hâfizâ*** demişti. **Şimdi oğullar aynı kökü kullanarak kendi sınırlarını bildiriyor: *mâ künnâ li'l-ğaybi hâfizîn*.**
 
 | Ayet | İfade | Kim | Ne bildiriyor |
 |---|---|---|---|
@@ -2097,7 +2097,7 @@
 
 ### بِضَٰعَةٍ مُّزْجَىٰة
 
-**ز-ج-و** kökü: **bir şeyi güçlükle, ite kaka sürmek.** *Tüzcî* — sürer (Nûr 24/43: *yüzcî sehâben* — bulutları sürer). **Buradan *müzcât*: **zorla geçen, itibar görmeyen** mal.**
+**ز-ج-و** kökü: **bir şeyi güçlükle, ite kaka sürmek.** *Tüzcî* — sürer (Nûr 24/43: *yüzcî sehâben* — bulutları sürer). **Buradan *müzcât*: zorla geçen, itibar görmeyen mal.**
 
 **Ve kelimenin resmi kaydedilmeye değer:** sermaye **az** denmiyor — **"zar zor kabul edilen"** deniyor. **Yani sorun miktar değil, geçerlilik.**
 
@@ -2188,7 +2188,7 @@
 
 **خ-ط-أ** kökü: **hedefi ıskalamak, yanılmak.** **Dilciler *hâtı'* ile *muhtı'* arasında bir ayrım kaydeder:** *hâtı'* — **kasten yanlış yapan**; *muhtı'* — **isteyerek değil, yanılarak yapan**. **Buradaki kalıp *hâtıîn*dir.**
 
-**Bu ayrım kayda değer ve kendi okumam olarak veriyorum:** ikrar, hafifletici bir kelime seçmiyor. **Ve aynı kelime 29. ayette ev sahibinin ağzında da geçmişti: *inneki künti mine'l-**hâtıîn***; 97. ayette de tekrarlanacak: *innâ künnâ **hâtıîn***.**
+**Bu ayrım kayda değer ve kendi okumam olarak veriyorum:** ikrar, hafifletici bir kelime seçmiyor. **Ve aynı kelime 29. ayette ev sahibinin ağzında da geçmişti: *inneki künti mine'l-hâtıîn*; 97. ayette de tekrarlanacak: *innâ künnâ hâtıîn*.**
 
 **ءَاثَرَكَ** — kök **أ-ث-ر**: **iz; ve tercih etmek, öne almak.** *Îsâr* — kendine tercih etme. **Kelimenin "iz" anlamıyla bağı dilcilerce şöyle kurulur: tercih edilen, izlenendir.**
 
@@ -2257,7 +2257,7 @@
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, görmenin geri gelmesini bir **varış** olarak anlatıyor. **Ve 96. ayette gerçekleşme farklı bir fiille verilecek: *fe'rtedde basîrâ* — "görür hâle döndü".** **İki fiil, iki ayrı yönü bildiriyor: biri gelme, öteki dönme.**
 
-**وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ** — **ve emir, kıssanın son hareketini başlatıyor.** *Ecmaîn* — **pekiştirme: hepsi birden.** **Ve bu, 83. ayetteki umutla örtüşüyor: *asallâhü en ye'tiyenî bihim **cemîâ***.**
+**وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ** — **ve emir, kıssanın son hareketini başlatıyor.** *Ecmaîn* — **pekiştirme: hepsi birden.** **Ve bu, 83. ayetteki umutla örtüşüyor: *asallâhü en ye'tiyenî bihim cemîâ*.**
 
 **Aynı kelime (ج-م-ع), biri babanın umudunda biri oğlun emrinde.** Bu, sûre içinde doğrulanabilir bir örtüşmedir.
 
@@ -2318,7 +2318,7 @@
 
 **Aynı cümle, on ayet arayla, biri önce biri sonra.** Bu, sûre içinde sayılabilir bir tekrardır.
 
-**Ve cümlenin içeriği kayda değer: *a'lemü **minallâhi** mâ lâ ta'lemûn*.** **Harf-i cer (*min*) kaydedilmelidir:** bilgi, kişinin kendi keskinliğine değil **kaynağa** bağlanıyor. **Bu, 68. ayetteki *li-mâ allemnâhü* ile aynı yerden gelir.**
+**Ve cümlenin içeriği kayda değer: *a'lemü minallâhi mâ lâ ta'lemûn*.** **Harf-i cer (*min*) kaydedilmelidir:** bilgi, kişinin kendi keskinliğine değil **kaynağa** bağlanıyor. **Bu, 68. ayetteki *li-mâ allemnâhü* ile aynı yerden gelir.**
 
 ---
 
@@ -2441,7 +2441,7 @@
 
 **Ve sûrenin en kayda değer noktalarından biri budur. Bunu kendi okumam olarak kaydediyorum ve dayanağı duanın sûredeki yeridir:**
 
-**Bu dua, kıssanın **sonunda** geliyor.** Rüya gerçekleşmiş, aile kavuşmuş, konum en yüksek noktasında. **Ve tam bu noktada bir istek dile getiriliyor.**
+**Bu dua, kıssanın sonunda geliyor.** Rüya gerçekleşmiş, aile kavuşmuş, konum en yüksek noktasında. **Ve tam bu noktada bir istek dile getiriliyor.**
 
 **Duanın yapısı iki parçalıdır ve sıraları anlamlıdır:**
 
@@ -2484,7 +2484,7 @@
 | Fiil | *Le-nüdhılennehüm* — **katarız** | *Elhıknî* — **beni kat** |
 | Kim yapıyor | **Allah** — bir vaat | **Kul** — bir talep |
 | Kalıp | Haber cümlesi | **Emir (dua)** |
-| Ortak | *Fi's-sâlihîn* / *bi's-sâlihîn* — **bir topluluğa katılma** |
+| Ortak | *Fi's-sâlihîn* / *bi's-sâlihîn* — **bir topluluğa katılma** | |
 
 **İki ayet aynı fikri iki ayrı yönden veriyor: biri vaat, öteki istek.** Bu, iki sûre arasında doğrulanabilir bir örtüşmedir.
 
@@ -2546,7 +2546,7 @@
 
 **Oraya dayanıyorum.**
 
-**ح-ر-ص** kökü: **bir şeyi şiddetle istemek, üzerine düşmek.** **Ve fiilin muhataba yöneltilmesi kayda değer: *ve lev **haraste*** — "sen ne kadar düşsen de".**
+**ح-ر-ص** kökü: **bir şeyi şiddetle istemek, üzerine düşmek.** **Ve fiilin muhataba yöneltilmesi kayda değer: *ve lev haraste* — "sen ne kadar düşsen de".**
 
 **Bu sınır dizinde birçok yerde işlendi ve `028-kasas.md` 28/56'da altı sûreden tablo yapılmıştı** (*lâ tehdî men ahbebte*, *ve mâ ente aleyhim bi-vekîl*, *fe-lâ tezheb nefsüke aleyhim hasarât* …). **Oraya dayanıyorum.**
 
@@ -2620,7 +2620,7 @@
 
 ### عَلَىٰ بَصِيرَةٍ
 
-**Bu ayet `075-kiyame.md` 75/14-15'te (*beli'l-insânü alâ nefsihî **basîra***) anıldı:**
+**Bu ayet `075-kiyame.md` 75/14-15'te (*beli'l-insânü alâ nefsihî basîra*) anıldı:**
 
 > **قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ عَلَىٰ بَصِيرَةٍ** — *"De ki: İşte benim yolum budur; ben ve bana uyanlar basiret üzere Allah'a çağırıyoruz."* (Yûsuf 12/108)
 
@@ -2697,7 +2697,7 @@
 
 **Ve şu kaydedilmelidir, metinden doğrulanır:** cümlenin sonu bir **kurtuluş** bildiriyor: *câehüm nasrunâ*. **Yani cümlenin bütünü, beklemenin uzamasını ve sonunda gelen karşılığı anlatıyor** — ve bu, sûrenin kıssasıyla birebir örtüşüyor: **rüya ile gerçekleşmesi arasında uzun yıllar vardır.**
 
-**ٱسْتَيْـَٔسَ** — kök **ي-أ-س**, X. bâb. **Ve aynı fiil sûrede iki kez daha geçti: 80. ayette (*fe-lemmâ **iste'yesû** minh*) ve 87. ayette (*ve lâ **te'yesû** min ravhillâh*).** **Üç geçiş, sûre içinde sayılabilir bir örgüdür** ve 87. ayette işlendi.
+**ٱسْتَيْـَٔسَ** — kök **ي-أ-س**, X. bâb. **Ve aynı fiil sûrede iki kez daha geçti: 80. ayette (*fe-lemmâ iste'yesû minh*) ve 87. ayette (*ve lâ te'yesû min ravhillâh*).** **Üç geçiş, sûre içinde sayılabilir bir örgüdür** ve 87. ayette işlendi.
 
 ---
 
@@ -2753,7 +2753,7 @@
 
 **Sûre, aynı kökle açılıp aynı kökle kapanıyor.** **Ve `028-kasas.md`'de sûrenin ع-ل-و kökü etrafında kurduğu çerçevenin bir benzeri burada ق-ص-ص kökü üzerinden kuruluyor.** **Bu, sûre içinde sayılabilir bir tekrardır.**
 
-**Ve zamir kaydedilmelidir: *kasasıhim* — "**onların** kıssaları", çoğul.** **Yani sûre, tek bir kişinin değil, anılan bütün kişilerin kıssasından söz ediyor** — nitekim 7. ayette de *fî Yûsufe **ve ihvetihî*** denmişti.
+**Ve zamir kaydedilmelidir: *kasasıhim* — "onların kıssaları", çoğul.** **Yani sûre, tek bir kişinin değil, anılan bütün kişilerin kıssasından söz ediyor** — nitekim 7. ayette de *fî Yûsufe **ve ihvetihî*** denmişti.
 
 ### لِّأُو۟لِى ٱلْأَلْبَٰبِ
 
@@ -2788,7 +2788,7 @@
 
 **تَفْصِيل** — kök **ف-ص-ل**: **ayırmak, aralarını açmak.** *Fasl* — ayrım; *mafsal* — eklem. **Yani *tafsîl*: birbirine karışmış olanı ayırıp tek tek göstermek.**
 
-**Ve kelime, 94. ayetteki fiille aynı köktendir: *ve lemmâ **fasalati**'l-îr* — "kervan ayrıldığında".** **Aynı kök, biri fizikî ayrılma, öteki anlamın ayrıştırılması.** Bu, sûre içinde sayılabilir bir örtüşmedir.
+**Ve kelime, 94. ayetteki fiille aynı köktendir: *ve lemmâ fasalati'l-îr* — "kervan ayrıldığında".** **Aynı kök, biri fizikî ayrılma, öteki anlamın ayrıştırılması.** Bu, sûre içinde sayılabilir bir örtüşmedir.
 
 **لِّقَوْمٍ يُؤْمِنُون** — **ve son kayıt: hidayet ve rahmet, şart cümlesiyle sınırlanıyor.**
 

@@ -1,8 +1,14 @@
 import Link from "next/link";
+import { ROUTES } from "@/lib/i18n";
+import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Gizlilik politikası",
   description: "Bu sitede hangi veriler işleniyor, hangileri işlenmiyor.",
+  alternates: {
+    canonical: ROUTES.tr.privacy,
+    ...alternates({ tr: ROUTES.tr.privacy, en: ROUTES.en.privacy }),
+  },
 };
 
 const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
@@ -53,6 +59,15 @@ export default function GizlilikPage() {
                   <code>tefsir:last</code>
                 </td>
                 <td>En son okuduğunuz sûre — ana sayfadaki &quot;Kaldığınız yer&quot; kartı için</td>
+              </tr>
+              <tr>
+                <td>
+                  <code>tefsir:en:…</code>
+                </td>
+                <td>
+                  Aynı iki kaydın İngilizce sürüm karşılığı; iki dilin okuma konumu ayrı
+                  tutulur
+                </td>
               </tr>
             </tbody>
           </table>

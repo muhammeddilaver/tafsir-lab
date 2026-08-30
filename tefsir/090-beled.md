@@ -1125,7 +1125,7 @@ Bir gözlem daha: birinci grup için hiç "iman etti" fiili tek başına kullan�
 
 Yine iki anlam bir arada: **sol taraf** ve **uğursuzluk**. Tıpkı *meymene*'de sağ ve uğur bir aradaydı.
 
-Kalıp yine **mef'ale** — bu sûredeki beşinci kullanım (*mesğabe, makrabe, metrabe, merhame, meymene, meş'eme* ile birlikte altı). Sûrenin son yarısında bu kalıp bir ritim haline geliyor.
+Kalıp yine **mef'ale** — bu sûredeki altıncı kullanım (*mesğabe, makrabe, metrabe, merhame, meymene, meş'eme*). Sûrenin son yarısında bu kalıp bir ritim haline geliyor.
 
 ### Sağ-sol ayrımı hakkında
 

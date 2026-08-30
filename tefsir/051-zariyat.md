@@ -1396,7 +1396,7 @@ Dilcilerin kaydettiği anlam: **وَجْس** — hafif, belli belirsiz ses; içt
 
 **Kelimenin çekirdeği "duyulur duyulmaz bir ses"tir.** Yani korku burada bir dehşet değil, bir **sezgi**: henüz bir sebep gösterilemeyen, ama içeride bir yerde beliren rahatsızlık.
 
-**Ve bu, kelimenin seçilmesini açıklıyor.** Ayet *hâfe* (korktu) demiyor. *Feziа* (dehşete kapıldı) demiyor. **أَوْجَسَ** diyor: içine düştü.
+**Ve bu, kelimenin seçilmesini açıklıyor.** Ayet *hâfe* (korktu) demiyor. *Fezia* (dehşete kapıldı) demiyor. **أَوْجَسَ** diyor: içine düştü.
 
 Kur'an aynı fiili Mûsâ için de kullanır: *"Mûsâ içinde bir korku hissetti"* (Tâhâ 20/67) — *fe-evcese fî nefsihî hîfeten Mûsâ.* Aynı kalıp, aynı kelime (*hîfe*).
 
@@ -1984,7 +1984,7 @@ Cümle bir **istisna** kalıbıyla kurulmuş: "hiçbir şey bırakmıyor ki onu 
 
 **تَذَرُ** — kök **و-ذ-ر**: bırakmak, terk etmek. Ve bu fiilin ilginç bir özelliği var: Arapçada mâzî (geçmiş) çekimi kullanılmaz; yalnız muzâri ve emir kalıpları işler.
 
-Sûrenin elli dördüncü ayetinde aynı kökten bir emir gelecek: *fe-tevelle anhüm* — hayır, orada başka kök var. Ama Tûr sûresinde gelecek: *fe-zerhüm* (52/45) — "bırak onları."
+Aynı kökten bir emir Tûr sûresinde gelecek: *fe-zerhüm* (52/45) — "bırak onları." Sûrenin elli dördüncü ayetindeki *fe-tevelle anhüm* ise başka köktendir.
 
 ### كَٱلرَّمِيم — çürümüş kemik gibi
 
@@ -2150,7 +2150,7 @@ Nûh kavmi Kur'an'da en çok anlatılan kavimlerden biridir — bir sûrenin tam
 
 **Burada tek ayet.** Hatta olayın kendisi hiç anlatılmıyor: ne tufan, ne gemi, ne süre. Sadece bir hüküm: *kânû kavmen fâsikīn.*
 
-**Ve sıra anlamlıdır:** dört kıssa gittikçe kısalıyor.
+**Ve sıra anlamlıdır:** beş kıssa hızla kısalıyor — on dört ayetten tek ayete.
 
 | Kıssa | Ayet sayısı |
 |---|---|
@@ -3105,7 +3105,7 @@ Bu bölümde, yukarıda yazılanlar içinde kesinlik iddiası taşımayan yerler
 - ***Harrâs* ile *Rezzâk* arasındaki vezin karşılaştırması bana aittir**; kasıtlı bir düzen iddiası değildir.
 - ***Akīm* kelimesinin sûre içindeki iki geçişi arasında kurulan bağ bana aittir**; kelimenin iki yerde bulunması metinde açıktır, aradaki ilişkiyi kuran benim.
 - **51/41'deki rüzgârın, sûrenin ilk dört ayetindeki işlemin eksik hali olduğu okuması bana aittir**; kasıtlı bir düzen iddiası olarak sunulmadı.
-- ***Sehar* ile *sihr* arasındaki ilişki** dilcilere nispet edildi, kesin etimoloji olarak sunulmadı. Aynı kayıt *fereru'l-feres*, *nutfe*-benzeri kök izahları ve *icl* / *acele* ilişkisi için de geçerlidir.
+- ***Sehar* ile *sihr* arasındaki ilişki** dilcilere nispet edildi, kesin etimoloji olarak sunulmadı. Aynı kayıt *fereru'l-feres* ve *icl* / *acele* ilişkisi için de geçerlidir.
 - **51/30'daki iki ismin (*el-Hakîm*, *el-Alîm*) itirazın iki katmanına karşılık geldiği okuması bana aittir**; klasik bir müfessire nispet edilmedi.
 - **51/58'deki *el-metîn* kelimesinin i'râbı** hakkında farklı ihtimaller bulunduğu kaydedildi; **okuyuş farkları kesin verilemediği için isim ve nispet yazılmadı.** Aynı ihtiyat 51/23'teki *misle* kelimesi için de korundu.
 - **51/34'teki taşların maddesi** hakkındaki izahlar nakledildi; *siccîl* kelimesinin anlamı "yaygın olarak söylenir" kaydıyla verildi.
