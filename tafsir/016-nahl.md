@@ -650,15 +650,75 @@
 
 *Ve elkā fi'l-ardı revâsiye en temîde biküm ve enhâran ve sübülen lealleküm tehtedûn · Ve alâmât, ve bi'n-necmi hüm yehtedûn*
 
-"**Yeryüzüne, sizi sarsmasın diye sabit dağlar, ırmaklar ve yollar koydu** — yolunuzu bulasınız diye. · **İşaretler de. Ve onlar yıldızla yol bulurlar.**"
+"**Yeryüzüne, sizinle birlikte yalpalamasın diye sabit dağlar, ırmaklar ve yollar koydu** — yolunuzu bulasınız diye. · **İşaretler de. Ve onlar yıldızla yol bulurlar.**"
 
 ### وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ
 
-**Bu cümle `031-lokman.md` 31/10'da birebir aynı kelimelerle geçti ve orada işlendi. Oraya dayanıyorum.** Oradaki kayıtlar şunlardı:
+**رَوَٰسِى — kök ر-س-و: demir atmak, sabitlenmek.** **Kök `050-kaf.md` 50/7'de ayrıntılı işlendi, aynı terkip `031-lokman.md` 31/10'da ele alındı; oraya dayanıyorum ve tekrarlamıyorum.** Özeti: kelime ism-i fâil çoğuludur — "demir atmış olanlar". Dağ, adıyla değil **hâliyle** anılıyor.
 
-- **رَوَٰسِى — kök ر-س-و: demir atmak, sabitlenmek.** **Kökün geminin demirlemesiyle ilişkisi `050-kaf.md` 50/7'de kaydedilmişti.**
-- **أَن تَمِيدَ بِكُمْ — *meyd*: sallanmak, çalkalanmak.** **Dilciler kelimeyi özellikle deniz tutması ve geminin sallanması için kullanır.**
-- **Ve Lokmân'da konan STYLE kaydı burada da geçerlidir ve tekrarlıyorum:** buradan modern jeolojiye, izostaziye ya da kütleçekimine dair bir sonuç çıkarılmıyor. **Ayetin işlevi, gözle görülen bir düzenin görünür bir dayanağı olmadan durduğunu söylemektir.**
+**Fakat cümlenin ikinci yarısı — أَن تَمِيدَ بِكُمْ — bu tefsirde dört ayette de iki kelimeyle geçilmişti. Kökü burada işliyorum.**
+
+#### م-ي-د kökü
+
+***Mâde–yemîdu*: sallanmak, iki yana gidip gelmek, çalkalanmak.** **Dilciler kelimeyi özellikle deniz tutması ve geminin yalpalaması için kullanır.**
+
+**Ve kökün en tanıdık türevi bu tefsirde zaten işlendi: *mâide*** (`005-maide.md`) — **üzerindekilerle birlikte sallanan sofra.** Aynı üç harf. **Kökün taşıdığı resim budur: yüklü bir şeyin, yükünü taşırken oynaması.**
+
+**Kaydedilmelidir ki bu, kırılma ya da çökme değildir.** *Meyd*, bir cismin bütünlüğünü koruyarak salınmasıdır.
+
+#### Kelime "deprem" değildir — ve bu Kur'an içi bir veridir
+
+**Kur'an'ın yer sarsıntısı için iki yerleşik kökü vardır ve bu ayette ikisi de kullanılmıyor:**
+
+| Kök | Nerede | Ne anlatır |
+|---|---|---|
+| **ز-ل-ز-ل** | Zilzâl 99/1, Bakara 2/214, Hac 22/1 (`099-zilzal.md`, `022-hac.md`) | **Zilzâl** — yerin sarsılması; kıyamet ve imtihan bağlamı |
+| **ر-ج-ف** | A'râf 7/78, 7/91, 7/155; Müzzemmil 73/14 (`007-araf.md`, `073-muzzemmil.md`) | **Racfe** — kavimleri yakalayan şiddetli sarsıntı |
+| **م-ي-د** | **Nahl 16/15**, Lokmân 31/10, Enbiyâ 21/31 | **Meyd** — yalpalama, salınma |
+
+**Bunu bir mucize iddiası olarak değil, bir kelime seçimi kaydı olarak veriyorum:** Kur'an'ın elinde "deprem" için iki kelime var; dağların anıldığı bu üç ayette üçüncü bir kelime seçiliyor.
+
+**Ve buradan çeviriye dair bir kayıt düşmek zorundayım.** **Türkçe meallerin çoğu bu cümleyi "sizi sarsmasın diye" ile karşılar ve ben de bu metinde önce öyle yazmıştım.** **Ama Türkçede *sarsmak* deprem demektir** — sarsıntı, artçı sarsıntı. **Oysa *meyd* ani bir silkeleme değil, sürekli bir salınmadır.** Gemi denizde sarsılmaz, **yalpalar**. **Bu yüzden çeviriyi "yalpalamasın" olarak kuruyorum ve yaygın kalıptan ayrıldığımı açıkça kaydediyorum.** **Kalıbı düzeltmemin sebebi bir nakil değil, kökün kendisidir.**
+
+#### بِكُمْ — "sizi" değil, "sizinle"
+
+**Cümlede bir *bâ* var ve Türkçe çeviriler onu genellikle düşürür** ("sizi sarsmasın"). **Oysa harf oradadır ve iki türlü izah edilir:**
+
+| Okuma | *Bâ*nın işlevi | Anlam |
+|---|---|---|
+| 1 | **Mushâbebe** (birliktelik) | Yer **sizinle birlikte** yalpalar — siz hareketin içindesiniz |
+| 2 | ***Ta'diye*** (geçişlilik) | Yer **sizi** yalpalatır — siz hareketin nesnesisiniz |
+
+**İki izah da nakledilir. Birinciyi tercih ediyorum ve gerekçem lafızdır:** kökün resmi, üzerinde yük bulunan bir şeyin salınmasıdır (*mâide*, gemi). **O resimde taşınan, hareketin dışında değil içindedir.** **Bu tercih bağlayıcı değildir.**
+
+#### أَن — gizli öğe
+
+**Ayette olumsuzluk edatı yoktur.** *En temîde* — lafzen "yalpalaması". **Türkçedeki "-masın diye" karşılığı bir takdirden gelir ve dilciler burada gizli bir öğe varsayar:** *kerâhete en temîde* (yalpalaması hoş görülmediği için) ya da *li-ellâ temîde* (yalpalamasın diye). **İki takdir de nakledilir ve anlamı değiştirmez.** **Kaydedilmesinin sebebi şudur: olumsuzluk ayetin lafzında değil, cümlenin mantığındadır.**
+
+#### Nahl'e özgü olan: bir önceki ayet denizdir
+
+**Ve burada, bu sûreye ait olan ve başka hiçbir *revâsî* ayetinde bulunmayan bir şey var.**
+
+**On dördüncü ayet baştan sona denizdir:** *sehhara'l-bahr* — deniz boyun eğdirildi; *ve tera'l-fülke mevâhira fîh* — gemileri suyu yararak giderken görürsün.
+
+**Hemen ardından on beşinci ayet geliyor ve karayı anlatıyor — ama iki denizcilik kelimesiyle:**
+
+| Kelime | Denizdeki anlamı | Buradaki kullanımı |
+|---|---|---|
+| **رَوَٰسِى** (ر-س-و) | **Geminin demir atması** | Dağlar |
+| **تَمِيدَ** (م-ي-د) | **Geminin yalpalaması** | Yeryüzü |
+
+**Bunu kendi okumam olarak kaydediyorum, dayanağı iki ayetin sırası ve iki kökün sözlük anlamıdır:** deniz ayetinin hemen ardında kara, **denizin sözlüğüyle** anlatılıyor. **Kurulan karşıtlık şudur: denizde yalpalarsın, karada yalpalamazsın.** Ve ikisi de nimet olarak sayılıyor, ikisi de **yol** ile kapanıyor — on dördüncü ayette *li-tebteğū min fadlih*, on beşincide *lealleküm tehtedûn*.
+
+#### Sınır — iki yöne birden
+
+**STYLE gereği bir kayıt ve bu kez iki yönlü olması gerekiyor.**
+
+**Bir:** buradan modern jeolojiye, izostaziye, levha hareketlerine ya da "dağların kökleri"ne dair bir sonuç çıkarmıyorum. **O yol yasaklanan zorlamadır.**
+
+**İki — ve bu şimdiye kadar yazılmamıştı:** **ayet jeolojik olarak yanlışlanmış da değildir, çünkü jeolojik bir önerme kurmuyor.** Apolojetiği reddederken karşı iddiayı zımnen kabul etmemek için bunu bir kez açıkça yazıyorum.
+
+**Ve son bir Kur'an içi kayıt:** `081-tekvir.md` 81/3'te aynı dağlar **yürütülür** (*süyyirat*). **Yani sabitlik, dağın kendi özelliği değil, ona verilen bir hâldir.** **Nahl bunu nimet olarak sayıyor; Tekvîr geri alıyor.**
 
 **Buraya ait olan fark kaydedilmelidir ve iki ayet aynı bağlamda değildir:**
 
@@ -3792,7 +3852,8 @@
 | *Hasîmun mübîn* | 16/4 | `036-yasin.md` 36/77 |
 | Tartışma teşhisi | 16/4, 111, 125 | `018-kehf.md` 18/54, `040-gafir.md`, `058-mucadele.md` |
 | Listenin açık bırakılması | 16/8 — *mâ lâ ta'lemûn* | `036-yasin.md` 36/36 |
-| *Revâsî* ve *meyd* | 16/15 | `031-lokman.md` 31/10, `050-kaf.md` 50/7 |
+| *Revâsî* (ر-س-و) | 16/15 | `031-lokman.md` 31/10, `050-kaf.md` 50/7 |
+| *Meyd* (م-ي-د) | 16/15 | **Kök burada işlendi**; *mâide* dalı `005-maide.md`'de |
 | Denizden et ve takı | 16/14 | `035-fatir.md` 35/12 |
 | *Muhtelifün elvânühâ* | 16/13, 16/69 | `035-fatir.md` 35/27-28, `030-rum.md` 30/22 |
 | Kapanış fiilleri dizisi | 16/11-81 | `030-rum.md` 30/20-25, 30/46 |

@@ -475,6 +475,9 @@ Metin içinde çapraz atıf verilen yerler:
 - **Nâziât 79/17 ↔ 79/37** — *tağâ*: bir kişiden (Firavun) bir vasfa (*men tağâ*); sûre örneği ölçüye çeviriyor
 - **Nâziât 79/24 ↔ Fâtiha 1/2, Şuarâ 26/23** — *ene rabbükümü'l-a'lâ*: rablık iddiası ile *Rabbü'l-âlemîn*in siyasî tarafı
 - **Nâziât 79/32 ↔ 79/42** — *ر-س-و* kökü: dağlar *ersâhâ* (demir attı), Saat *mürsâhâ* (ne zaman demir atacak)
+- **Nahl 16/15 ↔ Mâide 5** — *م-ي-د* kökü: *meyd* geminin yalpalaması, *mâide* üzerindekilerle birlikte sallanan sofra; kök kırılmayı değil, yüklü bir şeyin salınmasını bildirir
+- **Nahl 16/15 ↔ Zilzâl 99/1, A'râf 7/78** — ayet deprem kelimesini kullanmıyor: Kur'an'ın iki deprem kökü (ز-ل-ز-ل, ر-ج-ف) varken dağ ayetlerinde م-ي-د seçiliyor
+- **Nahl 16/14 ↔ 16/15** — deniz ayetinin hemen ardından kara, denizin sözlüğüyle anlatılıyor: *revâsî* (demir atma) ve *temîde* (yalpalama)
 - **Nâziât 79/40 ↔ Kâria 101/9** — *ه-و-ي* kökü iki ucta: *hevâ* (peşinden gidilen) / *hâviye* (varılan yer)
 - **Nâziât 79/37-41 ↔ Kâria 101/6-9** — aynı *emmâ… ve emmâ* kalıbı: Kâria'da cevap simetrisi kırık, Nâziât'ta tam; Kâria'da ölçü dışarıdan (terazi), Nâziât'ta kişinin fiilleri
 - **Nâziât 79/18 ↔ Şems 91/9** — *ز-ك-و*: *zekkâ* (geçişli, nefsi arındırdı) / *tezekkâ* (dönüşlü, kendi kendine arınmak)

@@ -218,7 +218,7 @@ Bunu kesin bir kasıt olarak sunmuyorum. Fiilin *infi'âl* kalıbında gelmesini
 
 Bu neden daha sarsıcı? Çünkü dağ, Kur'an'ın sözlüğünde **sabitliğin** simgesidir:
 
-- *"Yeryüzüne, sizi sarsmasın diye sabit dağlar (revâsî) yerleştirdi"* (Nahl 16/15).
+- *"Yeryüzüne, sizinle birlikte yalpalamasın diye sabit dağlar (revâsî) yerleştirdi"* (Nahl 16/15).
 - *"Dağları da birer kazık"* (Nebe 78/7: *ve'l-cibâle evtâdâ*).
 
 *Revâsî* (demir atmış, sabit) ve *evtâd* (kazık) — ikisi de hareketsizliği anlatır. Yani dağ, tanımı gereği yürümeyen şeydir. Ona "yürüdü" demek, kelimenin kendi tarifini iptal etmektir.

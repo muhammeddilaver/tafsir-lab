@@ -902,6 +902,8 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 > **"The word is a plural active participle: *rawāsī* — 'those that have cast anchor', 'those that stand fast'. That is, the mountain is named not by its name but by its state. […] This is an image; it is not a geological claim."**
 
+**And the root *mayd* (م-ي-د) is treated at `016-nahl.md`, 16/15; I rely on that.**
+
 **That note holds here too and must be repeated: I do not match the verse with modern explanations of the role of mountains in the earth's crust.**
 
 **Here I add two differences peculiar to al-Anbiyāʾ, and both are data of wording:**

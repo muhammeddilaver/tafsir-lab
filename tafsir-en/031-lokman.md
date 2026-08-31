@@ -82,7 +82,7 @@ The root **ل-ه-و**: **to be diverted, to be occupied with what holds one back
 
 ## 31/8-11 — خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ … هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ
 
-"**He created the heavens without pillars that you see**; He cast firm **mountains** upon the earth lest it shake with you, and He scattered upon it every kind of living creature… **This is God's creation. Show me, then, what those apart from Him have created!**"
+"**He created the heavens without pillars that you see**; He cast firm **mountains** upon the earth lest it sway with you, and He scattered upon it every kind of living creature… **This is God's creation. Show me, then, what those apart from Him have created!**"
 
 ### بِغَيْرِ عَمَدٍ تَرَوْنَهَا — a disputed construct
 
@@ -99,7 +99,7 @@ The root **ل-ه-و**: **to be diverted, to be occupied with what holds one back
 
 **رَوَٰسِى** — root **ر-س-و**: to drop anchor, to be held fast. **The root was treated at 50/7 in `050-kaf.md`, and its relation to the anchoring of a ship was recorded there.** **I do not repeat it.**
 
-**أَن تَمِيدَ بِكُمْ** — *mayd*: **to sway, to be tossed about.** The lexicographers use the word especially of **seasickness** and of the rolling of a ship.
+**أَن تَمِيدَ بِكُمْ** — *mayd*: **to sway, to be tossed about.** **The root is treated in detail at `016-nahl.md`, 16/15** — where its difference from *zilzāl* and *rajfa*, and its kinship with *māʾida*, are recorded. **I do not repeat that here.** The lexicographers use the word especially of **seasickness** and of the rolling of a ship.
 
 **بَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ** — **the roots ب-ث-ث and د-ب-ب were treated at 45/4 in `045-casiye.md`** (to spread, to scatter; a creature that moves). **I do not repeat it.**
 

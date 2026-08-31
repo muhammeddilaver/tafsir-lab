@@ -590,9 +590,9 @@ This expression is one of the Qurʾānic expressions most strained in the modern
 
 **The Qurʾān states this function plainly elsewhere:**
 
-*"And He placed firm mountains on the earth lest it shake with you."* (al-Naḥl 16/15; a similar expression at al-Anbiyāʾ 21/31 and Luqmān 31/10)
+*"And He placed firm mountains on the earth lest it sway with you."* (al-Naḥl 16/15; a similar expression at al-Anbiyāʾ 21/31 and Luqmān 31/10)
 
-The verb here is **أَن تَمِيدَ بِكُمْ** — *mayd*: to sway, to lurch (it is used of a ship's rolling at sea as well). The function of mountains, then, is related as **stabilising**.
+The verb here is **أَن تَمِيدَ بِكُمْ** — *mayd*: to sway, to lurch (it is used of a ship's rolling at sea as well). The function of mountains, then, is related as **stabilising**. **The root is treated at `016-nahl.md`, 16/15, where it is recorded that the word is distinct from *zilzāl* (ز-ل-ز-ل) and *rajfa* (ر-ج-ف); the verse does not use the word for earthquake.**
 
 **Now let me say where the straining begins.** To set out from these verses and say "the Qurʾān announced the underground roots of mountains and isostatic balance" carries three separate problems:
 

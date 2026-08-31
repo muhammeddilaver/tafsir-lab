@@ -218,7 +218,7 @@ I do not present this as a certain intention. The verb's coming on the Form VII 
 
 Why is this the more shattering? Because in the Qurʾān's lexicon the mountain is the emblem of **fixity**:
 
-- *"And He set firm mountains (*rawāsī*) on the earth, lest it shake with you"* (al-Naḥl 16/15).
+- *"And He set firm mountains (*rawāsī*) on the earth, lest it sway with you"* (al-Naḥl 16/15).
 - *"And the mountains as pegs"* (al-Nabaʾ 78/7: *wa'l-jibāla awtādā*).
 
 *Rawāsī* (anchored, fixed) and *awtād* (pegs) — both convey immobility. The mountain, then, is by definition the thing that does not move. To say of it that it "moved" is to cancel the word's own definition.

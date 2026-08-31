@@ -654,11 +654,71 @@
 
 ### وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ
 
-**This sentence occurred at `031-lokman.md`, 31/10, in exactly the same words, and was treated there. I rely on that treatment.** The notes there were these:
+**رَوَٰسِى — root ر-س-و: to drop anchor, to be held fast.** **The root was analysed in detail at `050-kaf.md`, 50/7, and the same expression was treated at `031-lokman.md`, 31/10; I rely on those and do not repeat them.** In summary: the word is a plural active participle — "those that have dropped anchor". The mountain is named not by its name but by its **state**.
 
-- **رَوَٰسِى — root ر-س-و: to drop anchor, to be held fast.** **The root's connection with a ship's anchoring was recorded at `050-kaf.md`, 50/7.**
-- **أَن تَمِيدَ بِكُمْ — *mayd*: to sway, to be tossed about.** **The lexicographers use the word especially of seasickness and of the rolling of a ship.**
-- **And the note required by the method (`STYLE.md`) entered in Luqmān holds here too, and I repeat it:** no conclusion about modern geology, about isostasy or about gravitation is drawn from this. **The function of the verse is to say that an order visible to the eye stands without any visible support.**
+**The second half of the sentence, however — أَن تَمِيدَ بِكُمْ — was passed over in two words in all four verses where it occurs. I treat the root here.**
+
+#### The root م-ي-د
+
+***Māda–yamīdu*: to sway, to go from side to side, to be tossed about.** **The lexicographers use the word especially of seasickness and of the rolling of a ship.**
+
+**And the root's most familiar derivative has already been treated in this collection: *māʾida*** (`005-maide.md`) — **the table that sways along with what is set upon it.** The same three letters. **This is the picture the root carries: a laden thing moving under its load.**
+
+**It must be recorded that this is not fracture or collapse.** *Mayd* is the swaying of a body that keeps its integrity.
+
+#### The word does not mean "earthquake" — and this is a datum internal to the Qurʾān
+
+**The Qurʾān has two established roots for the shaking of the earth, and neither is used in this verse:**
+
+| Root | Where | What it names |
+|---|---|---|
+| **ز-ل-ز-ل** | al-Zilzāl 99/1, al-Baqara 2/214, al-Ḥajj 22/1 (`099-zilzal.md`, `022-hac.md`) | **Zilzāl** — the earth's quaking; the context is the Hour and trial |
+| **ر-ج-ف** | al-Aʿrāf 7/78, 7/91, 7/155; al-Muzzammil 73/14 (`007-araf.md`, `073-muzzemmil.md`) | **Rajfa** — the violent shock that seizes peoples |
+| **م-ي-د** | **al-Naḥl 16/15**, Luqmān 31/10, al-Anbiyāʾ 21/31 | **Mayd** — swaying, rolling |
+
+**I give this not as a claim of miracle but as a record of word-choice:** the Qurʾān has two words for "earthquake" at its disposal; in these three verses, where the mountains are named, a third word is chosen.
+
+**And from this a note about translation must be entered.** **Most English renderings give the clause as "lest it shake with you" or "lest it quake with you".** **But *mayd* is not a sudden jolt; it is a continuous oscillation.** A ship at sea does not *quake*; it **rolls**. **For this reason I render it "sway", and I record openly that I depart from the common rendering.** **What warrants the change is not a transmitted report but the root itself.**
+
+#### بِكُمْ — not "you" but "with you"
+
+**There is a *bāʾ* in the sentence, and translations commonly drop it.** **The letter is there, and it admits two explanations:**
+
+| Reading | Function of the *bāʾ* | Sense |
+|---|---|---|
+| 1 | **Muṣāḥaba** (accompaniment) | The earth sways **along with you** — you are inside the motion |
+| 2 | ***Taʿdiya*** (transitivity) | The earth sways **you** — you are the object of the motion |
+
+**Both explanations are transmitted. I prefer the first, and my ground is the wording:** the picture the root carries is of a thing swaying with a load upon it (the *māʾida*, the ship). **In that picture what is carried is inside the motion, not outside it.** **This preference is not binding.**
+
+#### أَن — the elided element
+
+**There is no particle of negation in the verse.** *An tamīda* — literally, "that it sway". **The negative sense comes from an elided element, and the grammarians supply one here:** *karāhata an tamīda* (because its swaying is not willed) or *li-allā tamīda* (so that it not sway). **Both are transmitted, and neither changes the sense.** **The reason for recording it is this: the negation lies not in the wording of the verse but in the logic of the sentence.**
+
+#### What belongs to al-Naḥl: the preceding verse is the sea
+
+**And here there is something that belongs to this sūra and is found in no other *rawāsī* verse.**
+
+**The fourteenth verse is the sea from beginning to end:** *sakhkhara'l-baḥr* — the sea was made subject; *wa tara'l-fulka mawākhira fīh* — you see the ships plowing through it.
+
+**The fifteenth verse follows immediately and speaks of dry land — but with two words drawn from seafaring:**
+
+| Word | Its sense at sea | Its use here |
+|---|---|---|
+| **رَوَٰسِى** (ر-س-و) | **A ship's dropping anchor** | The mountains |
+| **تَمِيدَ** (م-ي-د) | **A ship's rolling** | The earth |
+
+**I record this as my own reading; its ground is the order of the two verses and the lexical sense of the two roots:** immediately after the sea verse, dry land is described **in the vocabulary of the sea**. **The contrast set up is this: at sea you roll, on land you do not.** And both are enumerated as favours, and both close with a **way** — in the fourteenth verse *li-tabtaghū min faḍlih*, in the fifteenth *laʿallakum tahtadūn*.
+
+#### The limit — in both directions
+
+**A note required by the method, and this time it must run both ways.**
+
+**One:** no conclusion is drawn here about modern geology, about isostasy, about plate movement or about "the roots of mountains". **That road is the forcing the method forbids.**
+
+**Two — and this had not been written until now:** **neither has the verse been falsified geologically, because it advances no geological proposition.** I write this once and explicitly, so that in rejecting the apologetic I do not tacitly concede the counter-claim.
+
+**And one last datum internal to the Qurʾān:** at `081-tekvir.md`, 81/3, these same mountains are **set walking** (*suyyirat*). **Fixity, then, is not a property the mountain owns but a state given to it.** **al-Naḥl enumerates this as a favour; al-Takwīr takes it back.**
 
 **The difference that belongs here must be recorded, and the two verses do not stand in the same context:**
 
@@ -3792,7 +3852,8 @@
 | *Khaṣīmun mubīn* | 16/4 | `036-yasin.md` 36/77 |
 | The diagnosis of disputation | 16/4, 111, 125 | `018-kehf.md` 18/54, `040-gafir.md`, `058-mucadele.md` |
 | The leaving open of the list | 16/8 — *mā lā taʿlamūn* | `036-yasin.md` 36/36 |
-| *Rawāsī* and *mayd* | 16/15 | `031-lokman.md` 31/10, `050-kaf.md` 50/7 |
+| *Rawāsī* (ر-س-و) | 16/15 | `031-lokman.md` 31/10, `050-kaf.md` 50/7 |
+| *Mayd* (م-ي-د) | 16/15 | **The root is treated here**; the *māʾida* branch at `005-maide.md` |
 | Meat and ornament from the sea | 16/14 | `035-fatir.md` 35/12 |
 | *Mukhtalifun alwānuhā* | 16/13, 16/69 | `035-fatir.md` 35/27-28, `030-rum.md` 30/22 |
 | The series of closing verbs | 16/11-81 | `030-rum.md` 30/20-25, 30/46 |

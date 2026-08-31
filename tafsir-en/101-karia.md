@@ -238,7 +238,7 @@ And this connects with al-Zalzala, the neighbour of the preceding sūra: there p
 
 In the Qurʾān the mountain is the emblem of **not moving from its place**. It is named as what holds the earth steady:
 
-- *"He set firm mountains upon the earth, lest it shake with you."* (al-Naḥl 16/15)
+- *"He set firm mountains upon the earth, lest it sway with you."* (al-Naḥl 16/15)
 - *"And the mountains as pegs [did We not make]?"* (al-Nabaʾ 78/7)
 
 So in the Qurʾān's own language the mountain is **the nail of the earth**. And in the scenes of the resurrection it is the thing most often transformed — because when what does not change changes, it shows that the change has no limit.

@@ -590,9 +590,9 @@ Bu ifade, modern dönemde en çok zorlanan Kur'an ifadelerinden biridir. **STYLE
 
 **Kur'an bu işlevi başka yerde açıkça söylüyor:**
 
-*"Sizi sarsmasın diye yeryüzüne sabit dağlar yerleştirdi."* (Nahl 16/15; benzer ifade Enbiyâ 21/31 ve Lokmân 31/10'da)
+*"Sizinle birlikte yalpalamasın diye yeryüzüne sabit dağlar yerleştirdi."* (Nahl 16/15; benzer ifade Enbiyâ 21/31 ve Lokmân 31/10'da)
 
-Buradaki fiil **أَن تَمِيدَ بِكُمْ**dür — *meyd*: sallanmak, yalpalamak (denizde geminin yalpalaması için de kullanılır). Yani dağların işlevi **sabitleme** olarak anlatılıyor.
+Buradaki fiil **أَن تَمِيدَ بِكُمْ**dür — *meyd*: sallanmak, yalpalamak (denizde geminin yalpalaması için de kullanılır). Yani dağların işlevi **sabitleme** olarak anlatılıyor. **Kök `016-nahl.md` 16/15'te işlendi ve orada kelimenin *zilzâl* (ز-ل-ز-ل) ile *racfe*den (ر-ج-ف) ayrıldığı kaydedildi; ayet deprem kelimesini kullanmıyor.**
 
 **Şimdi zorlamanın nerede başladığını söyleyeyim.** Bu ayetlerden yola çıkıp "Kur'an dağların yeraltındaki köklerini ve izostatik dengeyi haber verdi" demek, üç ayrı sorun taşır:
 

@@ -892,7 +892,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 *Ve cealnâ fi'l-ardı ravâsiye en temîde bihim ve cealnâ fîhâ ficâcen sübülen leallehüm yehtedûn · Ve cealne's-semâe sakfen mahfûzâ, ve hüm an âyâtihâ mu'ridûn*
 
-"**Yerde, onları sarsmasın diye sabit dağlar koyduk; orada geniş yollar açtık ki yollarını bulsunlar.** · **Göğü de korunmuş bir tavan yaptık. Onlar ise göğün âyetlerinden yüz çeviriyorlar.**"
+"**Yerde, onlarla birlikte yalpalamasın diye sabit dağlar koyduk; orada geniş yollar açtık ki yollarını bulsunlar.** · **Göğü de korunmuş bir tavan yaptık. Onlar ise göğün âyetlerinden yüz çeviriyorlar.**"
 
 ### رَوَٰسِىَ — kök ر-س-و
 
@@ -902,6 +902,8 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 > **"Kelime ism-i fâil çoğuludur: *ravâsî* — 'demir atmış olanlar', 'sabit duranlar'. Yani dağ, adıyla değil hâliyle anılıyor. […] Bu bir görüntüdür; jeolojik bir iddia değildir."**
 
+**Ve *meyd* kökü (م-ي-د) `016-nahl.md` 16/15'te işlendi; oraya dayanıyorum.**
+
 **O kayıt burada da geçerlidir ve tekrarlanması zorunludur: dağların yerkabuğu üzerindeki rolüne dair modern açıklamalarla ayeti eşleştirmiyorum.**
 
 **Buraya Enbiyâ'ya özgü olan iki farkı ekliyorum ve ikisi de lafız verisidir:**
@@ -909,7 +911,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | | **Kāf 50/7** | **Lokmân 31/10** | **Enbiyâ 21/31** |
 |---|---|---|---|
 | Fiil | *el**kaynâ** fîhâ* — attık | *el**kâ** fi'l-ard* — attı | *ce**alnâ** fi'l-ard* — koyduk |
-| Gerekçe | **Verilmiyor** | *en temîde **biküm*** — sizi sarsmasın | *en temîde **bihim*** — onları sarsmasın |
+| Gerekçe | **Verilmiyor** | *en temîde **biküm*** — sizinle yalpalamasın | *en temîde **bihim*** — onlarla yalpalamasın |
 | Ardından | *ve enbetnâ fîhâ min külli zevcin behîc* | *ve besse fîhâ min külli dâbbe* | *ve cealnâ fîhâ ficâcen sübülâ* |
 
 **İki fark kaydedilmelidir.** **Birincisi:** Lokmân *biküm* (size), Enbiyâ *bihim* (onlara) der — **hitaptan gıyaba geçiş.** Enbiyâ'da muhataplar bir ayet öncesinde *ellezîne keferû* diye üçüncü şahısla anılmıştı; zamir ona uyuyor.

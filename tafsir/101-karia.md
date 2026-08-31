@@ -238,7 +238,7 @@ Ve bu, bir önceki sûrenin komşusu olan Zilzâl ile bağlanıyor: orada insanl
 
 Kur'an'da dağ, **yerinden oynamazlığın** simgesidir. Yerin sabitleyicisi olarak anılır:
 
-- *"Sizi sarsmasın diye yeryüzüne sabit dağlar yerleştirdi."* (Nahl 16/15)
+- *"Sizinle birlikte yalpalamasın diye yeryüzüne sabit dağlar yerleştirdi."* (Nahl 16/15)
 - *"Dağları da birer kazık [yapmadık mı]?"* (Nebe 78/7)
 
 Yani dağ, Kur'an'ın kendi dilinde **yerin çivisi**dir. Ve kıyamet sahnelerinde en sık dönüşüme uğrayan şey odur — çünkü değişmez olanın değişmesi, değişimin sınırsızlığını gösterir.

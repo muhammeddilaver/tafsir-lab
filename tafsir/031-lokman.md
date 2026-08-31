@@ -82,7 +82,7 @@
 
 ## 31/8-11 — خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ … هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ
 
-"**Gökleri, gördüğünüz direkler olmaksızın yarattı**; sizi sarsmasın diye yere **sağlam dağlar** yerleştirdi ve orada her türden canlı yaydı… **İşte bu, Allah'ın yarattığıdır. Gösterin bana: O'ndan başkaları ne yaratmış!**"
+"**Gökleri, gördüğünüz direkler olmaksızın yarattı**; sizinle birlikte yalpalamasın diye yere **sağlam dağlar** yerleştirdi ve orada her türden canlı yaydı… **İşte bu, Allah'ın yarattığıdır. Gösterin bana: O'ndan başkaları ne yaratmış!**"
 
 ### بِغَيْرِ عَمَدٍ تَرَوْنَهَا — ihtilaflı terkip
 
@@ -99,7 +99,7 @@
 
 **رَوَٰسِى** — kök **ر-س-و**: demir atmak, sabitlenmek. **Kök `050-kaf.md` 50/7'de işlendi ve orada geminin demirlemesiyle ilişkisi kaydedildi.** **Tekrarlamıyorum.**
 
-**أَن تَمِيدَ بِكُمْ** — *meyd*: **sallanmak, çalkalanmak.** Dilciler kelimeyi özellikle **deniz tutması** ve geminin sallanması için kullanır.
+**أَن تَمِيدَ بِكُمْ** — *meyd*: **sallanmak, çalkalanmak.** Dilciler kelimeyi özellikle **deniz tutması** ve geminin sallanması için kullanır. **Kök `016-nahl.md` 16/15'te ayrıntılı işlendi** — orada kelimenin *zilzâl* ve *racfe*den farkı ve *mâide* ile akrabalığı kaydedildi. **Tekrarlamıyorum.**
 
 **بَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ** — **ب-ث-ث ve د-ب-ب kökleri `045-casiye.md` 45/4'te işlendi** (yaymak, saçmak; hareket eden canlı). **Tekrarlamıyorum.**
 

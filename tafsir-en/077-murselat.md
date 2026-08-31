@@ -288,7 +288,7 @@ The last item is particularly meaningful for this verse. In al-Dukhān what sepa
 The concrete sense of the verb is a movement of **setting down**: to let go of what is in one's hand, to cast it before someone. In the Qurʾān it is used with both material and immaterial objects:
 
 - *"Throw down your staff"* (al-Aʿrāf 7/117; Ṭāhā 20/69) — concrete.
-- *"He **set** firm mountains on the earth, lest it shake with you"* (al-Naḥl 16/15) — *alqā fi'l-arḍi rawāsiya*. The same object and the same verb family as verse 27 of this sūra.
+- *"He **set** firm mountains on the earth, lest it sway with you"* (al-Naḥl 16/15) — *alqā fi'l-arḍi rawāsiya*. The same object and the same verb family as verse 27 of this sūra.
 - *"We shall **deliver** to you a weighty word"* (al-Muzzammil 73/5) — *innā sa-nulqī ʿalayka qawlan thaqīlā*. **This is the verb used for revelation.**
 - *"He **delivers** the spirit from His command upon whom He wills of His servants"* (Ghāfir 40/15) — *yulqi'r-rūḥa min amrihī ʿalā man yashāʾu min ʿibādih*.
 
@@ -1609,7 +1609,7 @@ Used of mountains, this yields an image: the mountains are told of not as weight
 
 And the Qurʾān says this plainly:
 
-> *"He set firm mountains on the earth, lest it shake with you."* (al-Naḥl 16/15) — *wa alqā fi'l-arḍi **rawāsiya** an tamīda bikum.*
+> *"He set firm mountains on the earth, lest it sway with you."* (al-Naḥl 16/15) — *wa alqā fi'l-arḍi **rawāsiya** an tamīda bikum.*
 
 The verb here is **أَلْقَى** — the verb of the fifth verse of this sūra (*al-mulqiyāt*). The same verb with two different objects: one delivers a *dhikr*, the other a mountain. I record this as a shared wording.
 

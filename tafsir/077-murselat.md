@@ -288,7 +288,7 @@ Son madde bu ayet için özellikle anlamlıdır. Duhân'da ayıran şey belirli 
 Fiilin somut anlamı bir **bırakma** hareketidir: elindekini bırakmak, önüne atmak. Kur'an'da hem maddî hem manevî nesnelerle kullanılır:
 
 - *"Asânı bırak"* (A'râf 7/117; Tâhâ 20/69) — somut.
-- *"Yeryüzüne, sizi sarsmasın diye sağlam dağlar **bıraktı**"* (Nahl 16/15) — *elkā fi'l-ardı ravâsiye*. Bu sûrenin 27. ayetiyle aynı nesne, aynı fiil ailesi.
+- *"Yeryüzüne, sizinle birlikte yalpalamasın diye sağlam dağlar **bıraktı**"* (Nahl 16/15) — *elkā fi'l-ardı ravâsiye*. Bu sûrenin 27. ayetiyle aynı nesne, aynı fiil ailesi.
 - *"Sana ağır bir söz **bırakacağız**"* (Müzzemmil 73/5) — *innâ se-nülkī aleyke kavlen sekīlâ*. **Vahiy için kullanılan fiil budur.**
 - *"Kullarından dilediğine, emrinden olan rûhu **bırakır**"* (Ğâfir 40/15) — *yülkı'r-rûha min emrihî alâ men yeşâü min ıbâdih*.
 
@@ -1609,7 +1609,7 @@ Bu, dağlar için kullanıldığında bir görüntü doğuruyor: dağlar, yerin 
 
 Ve Kur'an bunu açıkça söyler:
 
-> *"Sizi sarsmasın diye yeryüzüne sabit dağlar bıraktı."* (Nahl 16/15) — *ve elkā fi'l-ardı **ravâsiye** en temîde biküm.*
+> *"Sizinle birlikte yalpalamasın diye yeryüzüne sabit dağlar bıraktı."* (Nahl 16/15) — *ve elkā fi'l-ardı **ravâsiye** en temîde biküm.*
 
 Buradaki fiil **أَلْقَى**dır — bu sûrenin beşinci ayetindeki fiil (*el-mülkıyât*). Aynı fiil, iki farklı nesneyle: biri *zikr* bırakıyor, diğeri dağ. Bunu bir lafız ortaklığı olarak kaydediyorum.
 

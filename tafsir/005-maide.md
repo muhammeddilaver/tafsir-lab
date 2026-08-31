@@ -13,7 +13,7 @@ Yüz yirmi ayet. Medenî; ve nakledilen bilgilere göre Medine döneminin **geç
 | **Birinci** | **م-ي-د** | *Mâde–yemîdu*: sallanmak, kımıldamak, bir yandan öbür yana gitmek. Sofra, üzerindekilerle birlikte taşınıp gidip gelen şeydir |
 | **İkinci** | **م-ي-د** (aynı kök, başka anlam dalı) | *Mâdenî*: bana ihsanda bulundu, bana verdi. *Mâide*: veren, ikram eden — ism-i fâil |
 
-**Birinci anlam dalı dizinde daha önce geçti:** *en temîde biküm* — "sizi sarsmasın diye" (Nahl 16/15; Lokman 31/10; Enbiyâ 21/31). Kök `016-nahl.md`, `021-enbiya.md` ve `031-lokman.md`'de dağların işlevi bağlamında işlendi; oraya dayanıyorum.
+**Birinci anlam dalı dizinde daha önce geçti:** *en temîde biküm* — "sizinle birlikte yalpalamasın diye" (Nahl 16/15; Lokman 31/10; Enbiyâ 21/31). Kök `016-nahl.md`, `021-enbiya.md` ve `031-lokman.md`'de dağların işlevi bağlamında işlendi; oraya dayanıyorum.
 
 **İkinci anlam dalı kaydedilmeye değer:** *mâide* eğer "veren" ise, kelime edilgen bir eşya değil, **ikram eden bir özne** gibi adlandırılmış olur. Sofranın adı, üzerindeki yemeğin değil, **veren elin** adıdır.
 
