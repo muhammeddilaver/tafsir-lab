@@ -199,13 +199,34 @@ paragraphs.
    `/en/method` as well. Terms and privacy were left out — they are not search
    targets.
 
-### Phase 4 — after launch ⏸ waiting on a domain
+### Phase 4 — after launch ⏳ code ready, accounts pending
 
-1. Register in Search Console and Bing Webmaster Tools as one property
-   (`/` and `/en` together, separated by hreflang).
-2. Submit the sitemap, and use **IndexNow** — natural crawling of a new
-   6,232-URL site takes months; IndexNow speeds up the Bing/Yandex side.
-3. Revise titles and descriptions once query data arrives. For the first three
+Prepared in the repository:
+
+- **`indexnow.py`** — submits the URLs to IndexNow (Bing, Yandex, Seznam,
+  Naver; Google does not take part). It reads the live `sitemap.xml`, so it
+  always submits what is actually published. It refuses to send anything until
+  the key file is reachable and returns the key, which makes running it before
+  a deploy harmless. `--dry-run` shows what would be sent; passing paths
+  (`python3 indexnow.py /sure/2`) submits only those.
+- **`public/<key>.txt`** — the IndexNow key file. The key is public by design
+  (any engine fetches it to prove the submitter controls the host), so
+  committing it is fine.
+- **Ownership meta tags** — `GOOGLE_SITE_VERIFICATION` and
+  `BING_SITE_VERIFICATION` are read from the environment in `lib/meta.ts`.
+  With neither set, nothing is emitted. DNS TXT verification works just as
+  well and survives redeploys better; the meta tags are the fallback.
+
+Still to be done in the browser, after the site is live at the real domain:
+
+1. Attach the domain in Vercel and set `NEXT_PUBLIC_SITE_URL` there. 301
+   `www` to the apex.
+2. Register in Search Console and Bing Webmaster Tools as one property
+   (`/` and `/en` together, separated by hreflang). Do this **after** the
+   move to the final domain — an address change delays re-crawling.
+3. Submit `https://tafsirlab.com/sitemap.xml` in both.
+4. Run `python3 indexnow.py` once the pages are live.
+5. Revise titles and descriptions once query data arrives. For the first three
    months watch **indexation rate**, not rankings.
 
 ---

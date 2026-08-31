@@ -191,6 +191,19 @@ These check the **structure** of the text: that every verse is treated, that
 the references given exist and stay in range. They do not check whether the
 content is correct.
 
+## Search engine submission
+
+```bash
+python3 indexnow.py --dry-run   # what would be submitted
+python3 indexnow.py             # submit every URL in the live sitemap
+python3 indexnow.py /sure/2     # submit selected paths only
+```
+
+Submits to IndexNow (Bing, Yandex, Seznam, Naver — Google does not take part).
+It reads the published `sitemap.xml` and refuses to send anything until
+`public/<key>.txt` is reachable on the live host, so running it before a
+deploy is harmless.
+
 ---
 
 ## Note

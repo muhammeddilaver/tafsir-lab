@@ -19,6 +19,23 @@ export const metadataBase = base ? new URL(base) : undefined;
 // NEXT_PUBLIC_SITE_URL is set.
 export const SITE_URL = (base ?? "http://localhost:3000").replace(/\/$/, "");
 
+/**
+ * Search Console / Bing Webmaster ownership tags. Both are read from the
+ * environment so the tokens are not committed, and both are optional: with
+ * the variable unset nothing is emitted. DNS TXT verification works just as
+ * well and survives redeploys better — these are the fallback for whoever
+ * prefers the meta-tag route.
+ */
+function verification(): Metadata["verification"] | undefined {
+  const google = process.env.GOOGLE_SITE_VERIFICATION;
+  const bing = process.env.BING_SITE_VERIFICATION;
+  if (!google && !bing) return undefined;
+  return {
+    ...(google ? { google } : {}),
+    ...(bing ? { other: { "msvalidate.01": bing } } : {}),
+  };
+}
+
 /** Joins a relative path to the site address; the root "/" drops its slash. */
 export const abs = (p: string) => (p === "/" ? SITE_URL : `${SITE_URL}${p}`);
 
@@ -67,6 +84,7 @@ export function rootMetadata(lang: Lang): Metadata {
       alternateLocale: LANGS.filter((l) => l !== lang).map((l) => OG_LOCALE[l]),
     },
     twitter: { card: "summary_large_image" },
+    verification: verification(),
     robots: {
       index: true,
       follow: true,
