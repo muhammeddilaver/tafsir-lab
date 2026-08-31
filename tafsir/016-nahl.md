@@ -656,7 +656,7 @@
 
 **رَوَٰسِى — kök ر-س-و: demir atmak, sabitlenmek.** **Kök `050-kaf.md` 50/7'de ayrıntılı işlendi, aynı terkip `031-lokman.md` 31/10'da ele alındı; oraya dayanıyorum ve tekrarlamıyorum.** Özeti: kelime ism-i fâil çoğuludur — "demir atmış olanlar". Dağ, adıyla değil **hâliyle** anılıyor.
 
-**Fakat cümlenin ikinci yarısı — أَن تَمِيدَ بِكُمْ — bu tefsirde dört ayette de iki kelimeyle geçilmişti. Kökü burada işliyorum.**
+**Cümlenin ikinci yarısını — أَن تَمِيدَ بِكُمْ — burada işliyorum.**
 
 #### م-ي-د kökü
 
@@ -678,7 +678,7 @@
 
 **Bunu bir mucize iddiası olarak değil, bir kelime seçimi kaydı olarak veriyorum:** Kur'an'ın elinde "deprem" için iki kelime var; dağların anıldığı bu üç ayette üçüncü bir kelime seçiliyor.
 
-**Ve buradan çeviriye dair bir kayıt düşmek zorundayım.** **Türkçe meallerin çoğu bu cümleyi "sizi sarsmasın diye" ile karşılar ve ben de bu metinde önce öyle yazmıştım.** **Ama Türkçede *sarsmak* deprem demektir** — sarsıntı, artçı sarsıntı. **Oysa *meyd* ani bir silkeleme değil, sürekli bir salınmadır.** Gemi denizde sarsılmaz, **yalpalar**. **Bu yüzden çeviriyi "yalpalamasın" olarak kuruyorum ve yaygın kalıptan ayrıldığımı açıkça kaydediyorum.** **Kalıbı düzeltmemin sebebi bir nakil değil, kökün kendisidir.**
+**Ve buradan çeviriye dair bir kayıt düşmek gerekiyor.** **Türkçe meallerin çoğu bu cümleyi "sizi sarsmasın diye" ile karşılar.** **Ama Türkçede *sarsmak* deprem demektir** — sarsıntı, artçı sarsıntı. **Oysa *meyd* ani bir silkeleme değil, sürekli bir salınmadır.** Gemi denizde sarsılmaz, **yalpalar**. **Bu yüzden çeviride "yalpalamasın" diyorum ve yaygın kalıptan ayrıldığımı kaydediyorum.** **Dayanağım bir nakil değil, kökün kendisidir.**
 
 #### بِكُمْ — "sizi" değil, "sizinle"
 
@@ -716,7 +716,7 @@
 
 **Bir:** buradan modern jeolojiye, izostaziye, levha hareketlerine ya da "dağların kökleri"ne dair bir sonuç çıkarmıyorum. **O yol yasaklanan zorlamadır.**
 
-**İki — ve bu şimdiye kadar yazılmamıştı:** **ayet jeolojik olarak yanlışlanmış da değildir, çünkü jeolojik bir önerme kurmuyor.** Apolojetiği reddederken karşı iddiayı zımnen kabul etmemek için bunu bir kez açıkça yazıyorum.
+**İki:** **ayet jeolojik olarak yanlışlanmış da değildir, çünkü jeolojik bir önerme kurmuyor.** Apolojetiği reddederken karşı iddiayı zımnen kabul etmemek için bunu bir kez açıkça yazıyorum.
 
 **Ve son bir Kur'an içi kayıt:** `081-tekvir.md` 81/3'te aynı dağlar **yürütülür** (*süyyirat*). **Yani sabitlik, dağın kendi özelliği değil, ona verilen bir hâldir.** **Nahl bunu nimet olarak sayıyor; Tekvîr geri alıyor.**
 

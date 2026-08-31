@@ -656,7 +656,7 @@
 
 **رَوَٰسِى — root ر-س-و: to drop anchor, to be held fast.** **The root was analysed in detail at `050-kaf.md`, 50/7, and the same expression was treated at `031-lokman.md`, 31/10; I rely on those and do not repeat them.** In summary: the word is a plural active participle — "those that have dropped anchor". The mountain is named not by its name but by its **state**.
 
-**The second half of the sentence, however — أَن تَمِيدَ بِكُمْ — was passed over in two words in all four verses where it occurs. I treat the root here.**
+**The second half of the sentence — أَن تَمِيدَ بِكُمْ — is treated here.**
 
 #### The root م-ي-د
 
@@ -716,7 +716,7 @@
 
 **One:** no conclusion is drawn here about modern geology, about isostasy, about plate movement or about "the roots of mountains". **That road is the forcing the method forbids.**
 
-**Two — and this had not been written until now:** **neither has the verse been falsified geologically, because it advances no geological proposition.** I write this once and explicitly, so that in rejecting the apologetic I do not tacitly concede the counter-claim.
+**Two:** **neither has the verse been falsified geologically, because it advances no geological proposition.** I write this once and explicitly, so that in rejecting the apologetic I do not tacitly concede the counter-claim.
 
 **And one last datum internal to the Qurʾān:** at `081-tekvir.md`, 81/3, these same mountains are **set walking** (*suyyirat*). **Fixity, then, is not a property the mountain owns but a state given to it.** **al-Naḥl enumerates this as a favour; al-Takwīr takes it back.**
 
