@@ -182,7 +182,7 @@ Gökyüzü, insan tecrübesindeki en değişmez şeydir. Şehirler yıkılır, d
 
 Ayetin yaptığı şey, sabitliğin en son kalesini kaldırmaktır. Ve bunu bir tehditle değil, bir **zaman kaydıyla** yapıyor: *izâ* — "o zaman geldiğinde".
 
-Bir sınır çizmek gerekiyor: buradan modern kozmolojiye köprü kurmak, USLUP'ta yasaklanan türden bir zorlamadır ve yapılmayacaktır. Ayet bir fizik önermesi kurmuyor; bir kelimeyi — *fatr* — hem başlangıç hem bitiş için kullanarak, **var olmanın iki ucunun aynı fiil olduğunu** söylüyor. Bu, ölçülebilir bir iddia değil; bir bakış açısıdır.
+Bir sınır çizmek gerekiyor: buradan modern kozmolojiye köprü kurmak, STYLE'da yasaklanan türden bir zorlamadır ve yapılmayacaktır. Ayet bir fizik önermesi kurmuyor; bir kelimeyi — *fatr* — hem başlangıç hem bitiş için kullanarak, **var olmanın iki ucunun aynı fiil olduğunu** söylüyor. Bu, ölçülebilir bir iddia değil; bir bakış açısıdır.
 
 Bu bakışın pratik sonucu şudur: **bir şeyin uzun süredir aynı kalması, kalıcı olduğunun delili değildir.** İnsan zihni süreklilikten kalıcılık çıkarır; bu, işleyen ama geçersiz bir çıkarımdır. Sûre altıncı ayette insana "seni ne aldattı?" diye soracak; aldanmanın kaynaklarından biri tam olarak budur.
 

@@ -120,7 +120,7 @@
 
 **Bunu nakledilen bir izah olarak aktarıyorum.**
 
-**Ve USLUP gereği sınırı açıkça çiziyorum:** buradaki "gün" kelimesinin ne kadarlık bir süreye karşılık geldiği metinde bildirilmemiştir. **Ayetlere modern kozmoloji giydirmiyorum;** ne "duman" kelimesinden bir evren modeli çıkarıyorum, ne de günleri jeolojik çağlarla eşitliyorum. **Böyle bir eşitleme, metnin söylemediğini söyletmek olur.**
+**Ve STYLE gereği sınırı açıkça çiziyorum:** buradaki "gün" kelimesinin ne kadarlık bir süreye karşılık geldiği metinde bildirilmemiştir. **Ayetlere modern kozmoloji giydirmiyorum;** ne "duman" kelimesinden bir evren modeli çıkarıyorum, ne de günleri jeolojik çağlarla eşitliyorum. **Böyle bir eşitleme, metnin söylemediğini söyletmek olur.**
 
 **Metnin söylediği şudur ve o kadarını kaydediyorum:** yaratma **sıralı** ve **ölçülü** anlatılıyor; bir defada değil, aşamalarla. **Ve son cümle bir hüküm koyuyor: *zâlike takdîru'l-azîzi'l-alîm* — bu, üstün ve bilenin takdiridir.**
 
@@ -157,7 +157,7 @@
 
 **فِىٓ أَيَّامٍ نَّحِسَاتٍ** — Âd'ın helâki anlatılırken kullanılan bu ifadedeki *nahisât* kelimesi "uğursuz, felaketli günler" demektir. **`054-kamer.md` 54/19'da aynı olay *fî yevmi nahsin müstemirr* ifadesiyle geçti ve orada işlendi.** **İki sûre aynı kökü kullanıyor; biri tekil bir gün, öteki günler diyor.**
 
-**USLUP gereği bir kayıt:** buradan uğurlu/uğursuz gün inancına dayanak çıkarılmaz. **Kelime, o topluluğun başına gelen belirli günleri niteliyor; genel bir takvim hükmü kurmuyor.**
+**STYLE gereği bir kayıt:** buradan uğurlu/uğursuz gün inancına dayanak çıkarılmaz. **Kelime, o topluluğun başına gelen belirli günleri niteliyor; genel bir takvim hükmü kurmuyor.**
 
 ---
 
@@ -480,7 +480,7 @@
 
 ### Bu ayette sınırım
 
-**Bu ayet, modern dönemde çok sayıda iddiaya konu edilmiştir.** USLUP gereği açıkça yazıyorum:
+**Bu ayet, modern dönemde çok sayıda iddiaya konu edilmiştir.** STYLE gereği açıkça yazıyorum:
 
 **Ayetten belirli bir bilimsel keşfe, buluşa ya da tarihî olaya işaret çıkarmıyorum.** Böyle bir tespit için metinde dayanak yoktur; **ayet ne bir alan ne bir zaman belirtiyor.**
 

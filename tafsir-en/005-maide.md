@@ -43,7 +43,7 @@ And the word *mīthāq* (a firm undertaking, a covenant) returns again and again
 
 **I record this as my own reading; its ground is the words themselves and where they stand.** The sūra uses this material not in order to recount the past of a community but in order to show **what it is to give one's word**.
 
-**And a note on method arises from this — the note this whole section obeys from beginning to end:** the expressions "the Children of Israel", "*naṣārā*" and "*yahūd*" that occur in the sūra will **nowhere in this section** be read as a blanket verdict about a community. The reason is the text itself: the verses are either tied to **a condition** (*la-in aqamtumu'ṣ-ṣalāta…*, 5/12), or tied to **an act** (*fa-bimā naqḍihim*, 5/13), or they speak by explicitly **dividing** (*minhum*, *farīqun minhum*, *kathīrun minhum*, *ummatun muqtaṣida*). This is what the rule laid down in `USLUP.md` — "no blanket verdict is issued about an ethnic or religious group; what the verse describes are **attributes**" — comes to in this sūra, and it follows from the text itself.
+**And a note on method arises from this — the note this whole section obeys from beginning to end:** the expressions "the Children of Israel", "*naṣārā*" and "*yahūd*" that occur in the sūra will **nowhere in this section** be read as a blanket verdict about a community. The reason is the text itself: the verses are either tied to **a condition** (*la-in aqamtumu'ṣ-ṣalāta…*, 5/12), or tied to **an act** (*fa-bimā naqḍihim*, 5/13), or they speak by explicitly **dividing** (*minhum*, *farīqun minhum*, *kathīrun minhum*, *ummatun muqtaṣida*). This is what the rule laid down in `STYLE.md` — "no blanket verdict is issued about an ethnic or religious group; what the verse describes are **attributes**" — comes to in this sūra, and it follows from the text itself.
 
 ---
 
@@ -278,7 +278,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ### What is done in this section, and what is not
 
-**This verse is a verse of law, and per the method (`USLUP.md`) no legal ruling will be issued here.** What will be done is this: **the lexical sense of every word in the list will be given, the structure of the list will be shown, and the verse's own qualifications will be brought forward.** What may or may not be eaten in which circumstance, the conditions of slaughter, the detailed positions of the schools of law and contemporary applications are **not the subject of this section and are not settled here.**
+**This verse is a verse of law, and per the method (`STYLE.md`) no legal ruling will be issued here.** What will be done is this: **the lexical sense of every word in the list will be given, the structure of the list will be shown, and the verse's own qualifications will be brought forward.** What may or may not be eaten in which circumstance, the conditions of slaughter, the detailed positions of the schools of law and contemporary applications are **not the subject of this section and are not settled here.**
 
 ### The structure of the list — four plus five plus two
 
@@ -516,7 +516,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ### What is done in this section, and what is not
 
-**This verse is the source of one of the most intensively debated areas of the classical literature of law. Per the method (`USLUP.md`) no legal ruling is issued here.** What will be done is to give the linguistic side of the words, to show the verse's own qualifications, and **to transmit the disagreement in a neutral table.** None of the tables below is this text's preference, and **none of them is binding.**
+**This verse is the source of one of the most intensively debated areas of the classical literature of law. Per the method (`STYLE.md`) no legal ruling is issued here.** What will be done is to give the linguistic side of the words, to show the verse's own qualifications, and **to transmit the disagreement in a neutral table.** None of the tables below is this text's preference, and **none of them is binding.**
 
 ### Reciprocity — the form of the sentence
 
@@ -624,7 +624,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ### What is done in this section, and what is not
 
-**This verse is the principal source of the rulings on ablution, on washing after major impurity and on ablution with earth, and it is one of the verses that has generated the most detail among the schools of law. Per the method (`USLUP.md`) this section does not enter into legal detail or into the debate among the schools.** The linguistic side of the words will be given, and **the sentence of reasoning at the end of the verse will be brought forward** — because that is the subject of this section.
+**This verse is the principal source of the rulings on ablution, on washing after major impurity and on ablution with earth, and it is one of the verses that has generated the most detail among the schools of law. Per the method (`STYLE.md`) this section does not enter into legal detail or into the debate among the schools.** The linguistic side of the words will be given, and **the sentence of reasoning at the end of the verse will be brought forward** — because that is the subject of this section.
 
 ### The words
 
@@ -650,7 +650,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ### A note on the variant readings
 
-**It is well known that the word وَأَرْجُلَكُمْ is read both in the accusative** (*arjulakum*) **and in the genitive** (*arjulikum*), **and per the method (`USLUP.md`) it must be recorded, because it changes the sense:**
+**It is well known that the word وَأَرْجُلَكُمْ is read both in the accusative** (*arjulakum*) **and in the genitive** (*arjulikum*), **and per the method (`STYLE.md`) it must be recorded, because it changes the sense:**
 
 | Reading | The verb it attaches to | Sense |
 |---|---|---|
@@ -951,7 +951,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ### How this section is to be read — a qualification laid down at the outset
 
-**This block, running from 5/12 to 5/26, speaks of the undertakings taken from past communities and of what became of those undertakings. Per the method (`USLUP.md`) the following qualifications will be kept throughout this section, and they follow from the text itself:**
+**This block, running from 5/12 to 5/26, speaks of the undertakings taken from past communities and of what became of those undertakings. Per the method (`STYLE.md`) the following qualifications will be kept throughout this section, and they follow from the text itself:**
 
 1. **The structure of the verses is conditional.** At the centre of verse 12 stands *la-in* (if), and the promise is tied to five conditions. No verdict about an identity, independent of the conditions, can be drawn from a conditional sentence.
 2. **The outcome is tied not to identity but to an act.** Verse 13 begins with *fa-bimā **naqḍihim** mīthāqahum*: the cause is the act of **breaking one's word**.
@@ -1232,7 +1232,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **The subject of the sentence is not the name of a community but an utterance: *alladhīna qālū* — "those who said."**
 
-**This is a structure that will be recorded again and again in this section, and it is what the rule "a ruling is tied to an attribute" of `USLUP.md` comes to in the text.** The verse names no name of a group; it names **a particular sentence** and ties the ruling to that sentence.
+**This is a structure that will be recorded again and again in this section, and it is what the rule "a ruling is tied to an attribute" of `STYLE.md` comes to in the text.** The verse names no name of a group; it names **a particular sentence** and ties the ruling to that sentence.
 
 **The same structure will be repeated at 5/72 and 5/73, and in all three the same pattern is used: *laqad kafara'lladhīna qālū…***
 
@@ -1959,7 +1959,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 | C | One who abandons the ruling **by denying it** is distinguished from one who abandons it **while accepting it, following his own desire**; the first falls under the first word, the second under the others |
 | D | Restricting the verses to **their own context** (the People of the Book's not judging by the Book in their hands) |
 
-**No preference is adopted in this commentary, no ruling is issued, and no attribute is assigned to any person or community by these verses.** **Per the method (`USLUP.md`): a verse describes an attribute; determining who falls under that attribute is not this commentary's business.**
+**No preference is adopted in this commentary, no ruling is issued, and no attribute is assigned to any person or community by these verses.** **Per the method (`STYLE.md`): a verse describes an attribute; determining who falls under that attribute is not this commentary's business.**
 
 **But there are three notes that can be verified from the text, and they should be recorded:**
 
@@ -2039,7 +2039,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ### The verse's own qualifications, and the Qurʾān's own
 
-**Per the method (`USLUP.md`) a limit must be drawn here: no blanket verdict about a community is drawn from this verse.** **The ground for this is not an outside consideration but the text's own sentences:**
+**Per the method (`STYLE.md`) a limit must be drawn here: no blanket verdict about a community is drawn from this verse.** **The ground for this is not an outside consideration but the text's own sentences:**
 
 | Note | Where |
 |---|---|
@@ -2130,7 +2130,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **On what the expressions in the verse (*al-qirada wa'l-khanāzīr*) point to there is the discussion treated at `002-bakara.md` 2/65 and at `007-araf.md` 7/166** — **whether it is a real transformation or a figure has been debated in classical exegesis.** **No preference is adopted.**
 
-**Per the method (`USLUP.md`) it is recorded plainly here:** **these expressions are not a quality of the whole of a community.** **The verse itself says *wa jaʿala minhum* — again *min*, again partitive. And the verbs are in the past tense: a particular event is being recounted.**
+**Per the method (`STYLE.md`) it is recorded plainly here:** **these expressions are not a quality of the whole of a community.** **The verse itself says *wa jaʿala minhum* — again *min*, again partitive. And the verbs are in the past tense: a particular event is being recounted.**
 
 **No attribute is assigned to any community by this verse in this commentary** — **and this qualification follows from the verse's own wording.**
 
@@ -2160,7 +2160,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ### An utterance transmitted
 
-**Per the method (`USLUP.md`) this should be recorded:** the verse does not load an **attribute** onto a community; **it transmits an utterance that was made and answers that utterance.** **The subject of the sentence is *qālat* — a verb.**
+**Per the method (`STYLE.md`) this should be recorded:** the verse does not load an **attribute** onto a community; **it transmits an utterance that was made and answers that utterance.** **The subject of the sentence is *qālat* — a verb.**
 
 **The root غ-ل-ل: a ring or fetter put on the neck or the hand; to bind tightly.** ***Ghull* — a shackle.**
 
@@ -2172,7 +2172,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **The answer turns the same idiom around — and gives it in the dual: *yadāhu*.**
 
-**This commentary's stance on ambiguous expressions is settled in `USLUP.md` and is applied here as well:** **the question of modality is not entered into.** **The stance of the early generations — "accept as it stands, refer the manner to God" — and the interpretive reading — "a figure for power and generosity" — stand side by side in classical exegesis; no preference is adopted.**
+**This commentary's stance on ambiguous expressions is settled in `STYLE.md` and is applied here as well:** **the question of modality is not entered into.** **The stance of the early generations — "accept as it stands, refer the manner to God" — and the interpretive reading — "a figure for power and generosity" — stand side by side in classical exegesis; no preference is adopted.**
 
 **But at the level of language this can be recorded:** the sentence answers **from inside the idiom** the objector used — against the tied hand, **the open hand**. **And with *yunfiqu kayfa yashāʾ* the sense of the idiom is said openly: giving.**
 
@@ -2212,7 +2212,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 |---|---|
 | *Wa kathīrun minhum sāʾa mā yaʿmalūn* | **What many of them do is evil** |
 
-**The two sentences are inside the same verse.** **This is one of the plainest textual grounds for the prohibition of blanket verdicts in `USLUP.md`, and it should be recorded.**
+**The two sentences are inside the same verse.** **This is one of the plainest textual grounds for the prohibition of blanket verdicts in `STYLE.md`, and it should be recorded.**
 
 ### 5/67 — يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
 
@@ -2236,7 +2236,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **The structure of the sentence should be recorded here:** four communities are named **by name**, and then the ruling is tied **not to a name** but to the condition *man āmana … wa ʿamila ṣāliḥā*. **That is, the names enumerated are not the subject of the ruling; they are named in order to show how wide its scope is.**
 
-**The exegetes differ on the scope of this verse; no preference is adopted, and no ruling is issued in this commentary as to who will be saved and who will not.** **This is a deliberate limit, per the method (`USLUP.md`).**
+**The exegetes differ on the scope of this verse; no preference is adopted, and no ruling is issued in this commentary as to who will be saved and who will not.** **This is a deliberate limit, per the method (`STYLE.md`).**
 
 **Note:** on the case of the word *al-ṣābiʾūn* here there is a detailed discussion in the books of grammar (the reason for its coming in the nominative). **The matter is at the level of language, and no preference is adopted here.**
 
@@ -2268,7 +2268,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ### The subject of the ruling
 
-**Per the method (`USLUP.md`) this should be recorded:** the subject of the sentence is *alladhīna **qālū*** — **"those who say this".** **That is, the ruling is tied not to a community but to a particular utterance.**
+**Per the method (`STYLE.md`) this should be recorded:** the subject of the sentence is *alladhīna **qālū*** — **"those who say this".** **That is, the ruling is tied not to a community but to a particular utterance.**
 
 **And the verse brings its counter-proof from the Messiah's own words: *wa qāla'l-Masīḥu yā banī Isrāʾīla'ʿbudu'llāha rabbī wa rabbakum.***
 
@@ -2334,7 +2334,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ### The verse's own reasoning
 
-**Per the method (`USLUP.md`) the plainest qualification must be laid down here, and its ground is the verse itself:** **the sentence states a cause** — ***dhālika bi-anna minhum qissīsīna wa ruhbānan wa annahum lā yastakbirūn.***
+**Per the method (`STYLE.md`) the plainest qualification must be laid down here, and its ground is the verse itself:** **the sentence states a cause** — ***dhālika bi-anna minhum qissīsīna wa ruhbānan wa annahum lā yastakbirūn.***
 
 | The ground given | What kind of thing it is |
 |---|---|
@@ -2532,7 +2532,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 | **For the past** | *ʿAfa'llāhu ʿanhā* |
 | **The warning** | 102: *Qad saʾalahā qawmun min qablikum thumma aṣbaḥū bihā kāfirīn* |
 
-**Per the method (`USLUP.md`) it is recorded:** **this verse is not read as a verse forbidding learning and understanding.** **The ground for this is the text itself:** the same Book says *fa'sʾalū ahla'dh-dhikri in kuntum lā taʿlamūn* (`016-nahl.md` 16/43), and at `009-tevbe.md` 9/122 setting out to travel for knowledge is commanded.
+**Per the method (`STYLE.md`) it is recorded:** **this verse is not read as a verse forbidding learning and understanding.** **The ground for this is the text itself:** the same Book says *fa'sʾalū ahla'dh-dhikri in kuntum lā taʿlamūn* (`016-nahl.md` 16/43), and at `009-tevbe.md` 9/122 setting out to travel for knowledge is commanded.
 
 **I record this as my own reading:** the subject of the prohibition is the picking over of details **whose answer would generate an obligation** or **whose disclosure would cause distress**, while the ruling has not yet come down. **And verse 102 shows the consequence of this: the people who asked the question were crushed under the answer that came.**
 

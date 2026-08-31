@@ -1,11 +1,11 @@
-// Iki dilli yayin: Turkce kokte (/), Ingilizce /en altinda.
-// Tek kaynak: rota adlari ve arayuz metinleri burada durur; sayfalar ve
-// istemci bilesenleri yalnizca dili tasir.
+// A bilingual publication: Turkish at the root (/), English under /en.
+// Single source of truth: route names and interface strings live here; pages
+// and client components only carry the language.
 
 export type Lang = "tr" | "en";
 export const LANGS: Lang[] = ["tr", "en"];
 
-/** Dile gore rota kokleri. Ingilizce bolutler de Ingilizce adlandirilir. */
+/** Route roots per language. The English segments are named in English too. */
 export const ROUTES = {
   tr: {
     home: "/",
@@ -31,7 +31,14 @@ export const ROUTES = {
 
 export const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
 
-/** localStorage on eki. Turkce anahtarlar eski surumle ayni kalir. */
+/**
+ * The explicit language choice. middleware.ts reads it on "/"; it is written
+ * only when the language link in the top bar is clicked. A cookie rather than
+ * localStorage, because middleware cannot see localStorage.
+ */
+export const LANG_COOKIE = "tefsir-lang";
+
+/** localStorage prefix. The Turkish keys stay as they were in the old version. */
 export const NS: Record<Lang, string> = { tr: "tefsir:", en: "tefsir:en:" };
 
 export const LOCALE: Record<Lang, string> = { tr: "tr-TR", en: "en-GB" };
@@ -52,10 +59,42 @@ type Dict = {
   metaTitle: string;
   metaTemplate: string;
   metaDesc: string;
+  /** The sura page's title tag. The template appends " — LLM Tefsir Project". */
+  suraSeoTitle: (name: string) => string;
+  /** The sura page's description; clamp() in lib/meta.ts trims it. */
+  suraSeoDesc: (name: string, ayahs: number, lead: string) => string;
+  /** The bottom line of the OG image — the authorship statement. */
+  ogNote: string;
+
+  // --- Section page (/sure/2/255) ---
+  navHome: string;
+  /** Citation form differs by language: Turkish "255. ayet", English "2:255". */
+  secRange: (sura: number, from: number, to: number) => string;
+  /** The page's h1. `title` is only filled for sections with a descriptive heading. */
+  secHeading: (name: string, range: string, title: string) => string;
+  secSeoTitle: (name: string, range: string, title: string) => string;
+  secSeoDesc: (name: string, range: string, lead: string) => string;
+  secMeta: (name: string, ayahs: number) => string;
+  secWhole: (name: string) => string;
+  secIndexTitle: (n: number) => string;
+  secPrev: string;
+  secNext: string;
+  /**
+   * The coordinate line. Language models take the page in chunks, and a chunk
+   * has to answer "which book, which sura, which verse" on its own. Before
+   * this, the word "Kur'an" appeared nowhere in the page's visible text and
+   * the sura number only inside the "2/255" label.
+   */
+  coords: (sura: number, name: string, tail: string) => string;
+  /** The tail of the coordinate line: the sura number is already up front. */
+  secVerses: (from: number, to: number) => string;
+  /** A short authorship note: the footer disclaimer only reaches the last chunk. */
+  chunkNote: string;
+  secRoots: string;
 
   heroTitle: string;
   heroLead: string;
-  /** Uc parca: metin — /usul baglantisi — metin. JSX'i sayfa kuruyor. */
+  /** Three parts: text — a /usul link — text. The page assembles the JSX. */
   heroDisclaimerA: string;
   heroDisclaimerLink: string;
   heroDisclaimerB: string;
@@ -118,6 +157,29 @@ export const T: Record<Lang, Dict> = {
     metaTemplate: "%s — LLM Tefsir Project",
     metaDesc:
       "Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri. 114 sûrenin tamamı.",
+    suraSeoTitle: (name) => `${name} Sûresi Tefsiri`,
+    suraSeoDesc: (name, ayahs, lead) =>
+      `${name} sûresi (${ayahs} ayet) — ayet ayet, kök tahlili esaslı tefsir. ${lead}`,
+    ogNote: "Metnin tamamı Claude (Anthropic) tarafından yazıldı.",
+
+    navHome: "Ana sayfa",
+    secRange: (_s, from, to) => (from === to ? `${from}. ayet` : `${from}-${to}. ayetler`),
+    secHeading: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `${name} ${range}`,
+    secSeoTitle: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `${name} ${range} tefsiri`,
+    secSeoDesc: (name, range, lead) =>
+      `${name} sûresi ${range} — kök tahlili esaslı tefsir. ${lead}`,
+    secMeta: (name, ayahs) => `${name} sûresi · ${ayahs} ayet`,
+    secWhole: (name) => `${name} sûresinin tamamı`,
+    secIndexTitle: (n) => `${n} bölüm`,
+    secPrev: "Önceki bölüm",
+    secNext: "Sonraki bölüm",
+    coords: (sura, name, tail) => `Kur'an · ${sura}. sûre: ${name} · ${tail}`,
+    secVerses: (from, to) => (from === to ? `${from}. ayet` : `${from}-${to}. ayetler`),
+    chunkNote:
+      "Bu tefsiri Claude (Anthropic) yazdı; dinî otoritesi yoktur, klasik kaynaklardan doğrulanmalıdır.",
+    secRoots: "Bu bölümde çözümlenen kökler",
 
     heroTitle: "Ayet ayet Kur'an tefsiri",
     heroLead:
@@ -185,6 +247,29 @@ export const T: Record<Lang, Dict> = {
     metaTemplate: "%s — LLM Tefsir Project",
     metaDesc:
       "A verse-by-verse English commentary on the Qurʾān written with Claude, built on root analysis. All 114 sūras.",
+    suraSeoTitle: (name) => `Sūrat ${name} Commentary`,
+    suraSeoDesc: (name, ayahs, lead) =>
+      `Sūrat ${name} (${ayahs} verses) — a verse-by-verse commentary built on root analysis. ${lead}`,
+    ogNote: "The whole text was written by Claude (Anthropic).",
+
+    navHome: "Home",
+    secRange: (sura, from, to) => (from === to ? `${sura}:${from}` : `${sura}:${from}-${to}`),
+    secHeading: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `${name} ${range}`,
+    secSeoTitle: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `${name} ${range} commentary`,
+    secSeoDesc: (name, range, lead) =>
+      `${name} ${range} — a commentary built on root analysis. ${lead}`,
+    secMeta: (name, ayahs) => `Sūrat ${name} · ${ayahs} verses`,
+    secWhole: (name) => `The whole of Sūrat ${name}`,
+    secIndexTitle: (n) => `${n} sections`,
+    secPrev: "Previous section",
+    secNext: "Next section",
+    coords: (sura, name, tail) => `The Qurʾān · Sūra ${sura}: ${name} · ${tail}`,
+    secVerses: (from, to) => (from === to ? `verse ${from}` : `verses ${from}-${to}`),
+    chunkNote:
+      "This commentary was written by Claude (Anthropic); it carries no religious authority and should be checked against the classical sources.",
+    secRoots: "Roots analysed in this section",
 
     heroTitle: "A verse-by-verse commentary on the Qurʾān",
     heroLead:

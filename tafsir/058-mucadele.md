@@ -37,7 +37,7 @@ Beşinci ve yirminci ayetlerdeki aynı kelime, sûrenin ikinci yarısını bir �
 
 Bu sûre hakkında sıkça kaydedilen bir gözlem vardır: **Kur'an'da lafza-i celâlin (Allah isminin) istisnasız her ayette geçtiği tek sûredir.** Yirmi iki ayetin hepsini tek tek saydım; gözlem doğrudur — kimi ayette bir kez, kiminde üç kez geçiyor.
 
-Bunu bir sayı oyunu olarak değil, bir üslup tercihi olarak kaydetmek gerekiyor; USLUP gereği harf ve sayı hesaplarına dayalı iddialardan uzak duruyorum. Ama tercihin kendisi anlamlıdır ve sûrenin konusuyla örtüşür: sûre baştan sona **gizlilik** üzerinedir — kapalı kapı ardında söylenen bir söz, üç kişinin fısıltısı, içten geçirilen bir cümle, yalan yere edilen bir yemin. Ve her ayette aynı isim tekrarlanıyor. Metnin biçimi, metnin iddiasını taşıyor: gizli hiçbir yer yok.
+Bunu bir sayı oyunu olarak değil, bir üslup tercihi olarak kaydetmek gerekiyor; STYLE gereği harf ve sayı hesaplarına dayalı iddialardan uzak duruyorum. Ama tercihin kendisi anlamlıdır ve sûrenin konusuyla örtüşür: sûre baştan sona **gizlilik** üzerinedir — kapalı kapı ardında söylenen bir söz, üç kişinin fısıltısı, içten geçirilen bir cümle, yalan yere edilen bir yemin. Ve her ayette aynı isim tekrarlanıyor. Metnin biçimi, metnin iddiasını taşıyor: gizli hiçbir yer yok.
 
 ## جدل — kökün kendisi
 
@@ -349,7 +349,7 @@ Türkçeye çevirmek bile bir tercihi zorunlu kılıyor, çünkü *âde li-* kal
 | **Mâlikî** | Eşiyle birlikte olmaya azmetmek, niyet etmek | Kefaret, azimle gerekli olur |
 | **Zâhirî yönelim** | Sözün kendisini tekrarlamak | Kefaret, ancak söz tekrarlanırsa gerekir |
 
-**Burada tercih yapmıyorum** ve fıkhî hüküm vermiyorum; USLUP gereği mezhep görüşleri aktarılır, karara bağlanmaz. Ama ihtilafın **niçin** çıktığını göstermek tefsirin işidir:
+**Burada tercih yapmıyorum** ve fıkhî hüküm vermiyorum; STYLE gereği mezhep görüşleri aktarılır, karara bağlanmaz. Ama ihtilafın **niçin** çıktığını göstermek tefsirin işidir:
 
 İhtilafın kaynağı tek bir harftir: **لِ (lâm).** *Âde ilâ* deseydi "ona döndü" olurdu ve tartışma büyük ölçüde biterdi. *Âde an* deseydi "ondan döndü" olurdu. *Lâm* ise ikisinin arasında durur ve Arapçada hem yönelme hem tazammun bildirebilir.
 
@@ -1229,13 +1229,13 @@ Bu ayet, *velâyet* (saf tutma) ile *birr ve kıst* (iyilik ve adalet) arasında
 
 ### قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم
 
-Burada USLUP gereği açık bir kayıt düşmek gerekiyor.
+Burada STYLE gereği açık bir kayıt düşmek gerekiyor.
 
 **Ayet bir grup adı vermiyor.** *"Kavmen"* — nekre: "bir topluluk". Klasik tefsirlerde bu ifadenin kime işaret ettiği üzerine görüşler vardır ve bunlar Medine'deki belirli bir dönemin siyasî tablosuna dayanır.
 
 Ama ifadenin kendisi bir **vasıf** cümlesidir: "Allah'ın kendilerine gazap ettiği bir topluluk". Vasıf, kimliğe değil duruma bağlıdır.
 
-USLUP'un kaydı burada aynen geçerlidir: bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz. Ayetin tarif ettiği şey, belirli bir tarihî anda belirli bir davranış sergileyen bir topluluktur; ve asıl muhatabı, o topluluğu değil, **onunla ittifak kuran münafıkları** anlatmaktır. Cümlenin öznesi *tevellev* — dost edinenler.
+STYLE'ın kaydı burada aynen geçerlidir: bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz. Ayetin tarif ettiği şey, belirli bir tarihî anda belirli bir davranış sergileyen bir topluluktur; ve asıl muhatabı, o topluluğu değil, **onunla ittifak kuran münafıkları** anlatmaktır. Cümlenin öznesi *tevellev* — dost edinenler.
 
 Nitekim ayetin devamı da bunu gösteriyor: eleştirilen kişiler, o topluluktan bile değil.
 
@@ -1564,7 +1564,7 @@ Yani elçilerin bir kısmı, dünyevî ölçülerle bakıldığında yenilmişti
 
 Bu görüşler birbirini dışlamıyor ve klasik tefsirlerde çoğu zaman birlikte zikredilir.
 
-**Ve şu kaydı düşmek zorunludur:** bu ayet, herhangi bir grubun, hareketin ya da devletin kendi zaferini önceden garanti etmesi için kullanılamaz. Ayet Allah'a ve elçilerine galebeyi yazıyor; kendisini onların yerine koyan hiçbir yapıya değil. USLUP gereği güncel siyasî okumalara girmiyorum; ama bu ayetin nasıl kullanılamayacağını söylemek tefsirin işidir.
+**Ve şu kaydı düşmek zorunludur:** bu ayet, herhangi bir grubun, hareketin ya da devletin kendi zaferini önceden garanti etmesi için kullanılamaz. Ayet Allah'a ve elçilerine galebeyi yazıyor; kendisini onların yerine koyan hiçbir yapıya değil. STYLE gereği güncel siyasî okumalara girmiyorum; ama bu ayetin nasıl kullanılamayacağını söylemek tefsirin işidir.
 
 Nitekim aynı sûre, bir ayet sonra *hizbullâh*ı tanımlarken bunu bir **vasıflar listesi** olarak verecek — bir kurum, bir örgüt, bir taraf adı olarak değil.
 
@@ -1619,7 +1619,7 @@ Bu ayrım, ayetin uygulanabilir olmasını sağlayan şeydir. Bir insandan babas
 
 ### مَنْ حَآدَّ ٱللَّهَ — kişiler değil, bir konum
 
-USLUP gereği burada açık bir kayıt gerekiyor.
+STYLE gereği burada açık bir kayıt gerekiyor.
 
 Ayet bir kavim, bir din, bir soy saymıyor. Saydığı şey bir **fiil**dir: *hâdde* — sınır çekmek, karşı safta konumlanmak. Ve bu fiil, beşinci ayette tanımlanmıştı.
 
@@ -1765,7 +1765,7 @@ Yani *hizbullâh*, bir **ad** değil, bu vasıfların **sonucu**dur. Vasıflar �
 
 Ve *hizb* kelimesinin kökü de bunu destekliyor: yukarıda gördüğümüz gibi *hizb*, ortak bir iş etrafında toplanmış olanlardır. Doğuştan gelen ya da ilan edilen bir aidiyet değil; taşınan bir yükün etrafında oluşan bir birliktelik.
 
-USLUP gereği güncel siyasî tartışmalara girmiyorum. Ama bu terkibin nasıl kullanılamayacağını söylemek, tefsirin sınırları içindedir: **kendini bu terkiple adlandıran, ayetin listesini kendi lehine kapatmış olur.** Oysa liste açıktır ve son maddesinin hükmü kimsede değildir.
+STYLE gereği güncel siyasî tartışmalara girmiyorum. Ama bu terkibin nasıl kullanılamayacağını söylemek, tefsirin sınırları içindedir: **kendini bu terkiple adlandıran, ayetin listesini kendi lehine kapatmış olur.** Oysa liste açıktır ve son maddesinin hükmü kimsede değildir.
 
 ---
 
@@ -1843,7 +1843,7 @@ Bu, sûrenin kurduğu en güçlü yapılardan biridir ve bir ilkeyi taşır: **g
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, bu sûrede kesinlik iddia edilmeyen noktaları açıkça listeliyorum:
+STYLE gereği, bu sûrede kesinlik iddia edilmeyen noktaları açıkça listeliyorum:
 
 - **Nüzul sebebindeki isimler** (Havle/Huveyle bint Sa'lebe, Evs b. Sâmit) rivayetlerden gelir ve nakiller arasında farklılık vardır. Kur'an isim vermez.
 - **Zıhârda "sırt" kelimesinin niçin seçildiği** hakkında verilen izahların hiçbiri kesin değildir.

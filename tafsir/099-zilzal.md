@@ -333,7 +333,7 @@ Burada modern bir bağlantı kurmak cazip görünüyor: bir mekânın üzerinde 
 
 Benzetmenin yaptığı tek iş şudur: "mekânın kayıt tutması" fikri bugün bize yabancı değil; oysa ilk muhataplar için bu, tamamen alışılmadık bir tasavvurdu. Bugünkü okuyucunun ayetin çarpıcılığını hissetmesi bu yüzden bir bakıma daha kolay, bir bakıma daha zordur.
 
-USLUP'ta konan kural burada geçerlidir: ayete modern bir bilgi giydirilmez. Ben de giydirmiyorum; sadece bugünkü okuyucunun elindeki bir sezgiye işaret ediyorum.
+STYLE'da konan kural burada geçerlidir: ayete modern bir bilgi giydirilmez. Ben de giydirmiyorum; sadece bugünkü okuyucunun elindeki bir sezgiye işaret ediyorum.
 
 ---
 
@@ -493,7 +493,7 @@ Modern Arapçada **ذَرَّة** kelimesi "atom" karşılığı olarak kullanı
 
 Bu ayetin atomdan söz ettiğini söylemek, **sonradan verilmiş bir terimi metne geri okumaktır.** Ayet fizikten bahsetmiyor; muhataplarının bildiği en küçük ağırlıktan bahsediyor.
 
-USLUP'ta konan kural burada tam olarak geçerlidir: **fennî mucize avcılığı yapılmaz.** Ben de yapmıyorum.
+STYLE'da konan kural burada tam olarak geçerlidir: **fennî mucize avcılığı yapılmaz.** Ben de yapmıyorum.
 
 Ve şunu eklemek gerekiyor: ayetin gücü zaten bu iddiaya ihtiyaç duymuyor. **Ayet, zerrenin fizikî olarak ne kadar küçük olduğuna dayanmıyor; insanın hayal edebileceği en küçük şey olmasına dayanıyor.** Muhatap için bu karınca yavrusuydu; bugün başka bir şey olabilir. Ölçünün işlevi aynı kalır: *aklına gelebilecek en küçük miktar bile hesabın içindedir.*
 
@@ -560,7 +560,7 @@ Dikkat edilecek bir nokta daha var ve önemlidir:
 
 Ayet **"mü'min olan"** ya da **"kâfir olan"** demiyor. **مَن** (kim) diyor — şart edatı, en genel haliyle.
 
-Yani hüküm, kişinin kimliğine değil **fiiline** bağlanmış. Bu, bu tefsirin USLUP'unda kayıtlı olan ilkenin metindeki karşılığıdır: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
+Yani hüküm, kişinin kimliğine değil **fiiline** bağlanmış. Bu, bu tefsirin STYLE'ında kayıtlı olan ilkenin metindeki karşılığıdır: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
 
 Bu iki ayet üzerinde tarih boyunca bir kelam tartışması yürütülmüştür: inanmayan birinin yaptığı iyiliğin âhiretteki durumu ne olur? Kur'an'ın başka ayetlerinde amellerin imanla ilişkisi ele alınır ve mesele bu iki ayetle sınırlı değildir. Tartışmanın ayrıntısı bu bölümün sınırlarını aşıyor; burada kaydettiğim tek şey, **bu iki ayetin lafzında bir kimlik kaydı bulunmadığı**dır.
 

@@ -702,7 +702,7 @@ This has to be stated at the very beginning, because this is the side of the sū
 
 The verse neither says "the rich" nor gives an amount. What it describes is a **chain of behaviour**: gathering, counting, hoping for permanence, belittling. Every link of this chain can be forged at any level of income. A man with little wealth can also count it over and over, expect permanence from it and belittle others; and a man with much wealth may do none of these.
 
-The sūra is not the identification of a class. The principle recorded by the method (`USLUP.md`) holds here exactly: the verse describes an **attribute**; whoever carries that attribute is included in it.
+The sūra is not the identification of a class. The principle recorded by the method (`STYLE.md`) holds here exactly: the verse describes an **attribute**; whoever carries that attribute is included in it.
 
 **Second: the growing ease of counting.**
 

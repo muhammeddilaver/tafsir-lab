@@ -217,7 +217,7 @@
 
 "**İşte hakkında şüpheye düştükleri Meryem oğlu Îsâ, gerçek söze göre budur.** Allah'ın çocuk edinmesi olacak şey değildir; O bundan münezzehtir… **Onları, işin bitirileceği ve kendilerinin gaflette bulunduğu o hasret gününe karşı uyar.**"
 
-**USLUP gereği bir kayıt:** bu ayetler bir topluluk hakkında toptan hüküm kurmaz. **Konu edilen şey bir *iddiadır* ve ayet iddianın kendisine cevap verir.** Bu tefsirde hiçbir dinî grup hakkında genel hüküm kurulmaz; ayetin tarif ettiği tavırdır.
+**STYLE gereği bir kayıt:** bu ayetler bir topluluk hakkında toptan hüküm kurmaz. **Konu edilen şey bir *iddiadır* ve ayet iddianın kendisine cevap verir.** Bu tefsirde hiçbir dinî grup hakkında genel hüküm kurulmaz; ayetin tarif ettiği tavırdır.
 
 **فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ** — "**gruplar kendi aralarında ayrılığa düştüler.**"
 

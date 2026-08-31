@@ -6,7 +6,7 @@ import { LOCALE, NS, ROUTES, T, type Lang } from "@/lib/i18n";
 
 type Kayit = { no: number; name: string; id: string; ayah?: string; ts: number };
 
-/** En son okunan yer. <ns>last silinmis olabilir diye kayitlar taranir. */
+/** Where the reader left off. <ns>last may be gone, so entries are scanned. */
 function sonKayit(lang: Lang): Kayit | null {
   const ns = NS[lang];
   const POS = new RegExp(`^${ns}pos:(\\d+)$`);

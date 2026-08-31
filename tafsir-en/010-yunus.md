@@ -199,7 +199,7 @@
 
 **Some lexicographers put the distinction more sharply and separate *ḍiyāʾ* as "from itself" from *nūr* as "taken from another / reflected".** **This distinction was transmitted at `021-enbiya.md` 21/33, and there too it was given with the note that it is "a transmitted distinction".**
 
-**Per the method (`USLUP.md`) I draw a plain limit here:** **I draw no conclusion about modern astronomy from this distinction.** That the moon's light is reflected is something known today; **but to say that the verse states this would be to turn a stylistic distinction of the lexicographers into a proposition of physics.** **The distinction of the classical lexicographers rests on a difference of *intensity and softness* in the words — not on a difference of source.** **The second reading is transmitted and can be related; but the sentence "the Qurʾān announced the reflected light of the moon" is not built in this commentary. It is a way of looking, and it is left at that.**
+**Per the method (`STYLE.md`) I draw a plain limit here:** **I draw no conclusion about modern astronomy from this distinction.** That the moon's light is reflected is something known today; **but to say that the verse states this would be to turn a stylistic distinction of the lexicographers into a proposition of physics.** **The distinction of the classical lexicographers rests on a difference of *intensity and softness* in the words — not on a difference of source.** **The second reading is transmitted and can be related; but the sentence "the Qurʾān announced the reflected light of the moon" is not built in this commentary. It is a way of looking, and it is left at that.**
 
 **And this note is needed too:** the Qurʾān uses the word *ḍiyāʾ* of things other than the sun — at al-Anbiyāʾ 21/48 the book given to Moses and Aaron (Hārūn) is called *ḍiyāʾ*. **That is, the word is not a technical term meaning "a heavenly body that gives out light of its own".** This is a datum that must be recorded so that the distinction is not turned into a proposition of physics.
 
@@ -1058,7 +1058,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 **I record this as my own reading, and its ground is this particle:** the denial is a verdict given **before the term of waiting is out.** **And the sūra will show this in a scene in the fiftieth and fifty-first verses: when the *taʾwīl* comes there is belief, but the time has passed.**
 
-**وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِ** (40) — **a note per the method (`USLUP.md`):** the verse does not bind those addressed to a **wholesale** ruling; it distinguishes. **The same care was treated at `013-rad.md` 13/36 and `029-ankebut.md` 29/47; I rely on that treatment.**
+**وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِ** (40) — **a note per the method (`STYLE.md`):** the verse does not bind those addressed to a **wholesale** ruling; it distinguishes. **The same care was treated at `013-rad.md` 13/36 and `029-ankebut.md` 29/47; I rely on that treatment.**
 
 ---
 
@@ -1338,7 +1338,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 **And the word *leave* comes from the third verse of the sūra: *illā min baʿdi idhnih*. The same word, once for intercession and once for a ruling.** I record this as an observation about the wording.
 
-**A note per the method (`USLUP.md`):** no legal ruling is issued in this commentary. **What the verse says in its own words is where the authority to declare things lawful and forbidden is taken from** — I issue no ruling about any particular list of foods.
+**A note per the method (`STYLE.md`):** no legal ruling is issued in this commentary. **What the verse says in its own words is where the authority to declare things lawful and forbidden is taken from** — I issue no ruling about any particular list of foods.
 
 **And the historical background of the verse is transmitted in the classical sources:** the Arabs' counting certain animals forbidden by rules of their own making. **The Qurʾān names this practice elsewhere** (al-Anʿām 6/136-140, al-Māʾida 5/103). **I give this connection at the level of the verse; I do not go into detail.**
 
@@ -1378,7 +1378,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 ### مِّثْقَالِ ذَرَّةٍ — and I keep the limit
 
-**This construct was analysed in detail at `034-sebe.md` 34/3, and a plain limit was set there per the method (`USLUP.md`). I keep that limit unchanged:**
+**This construct was analysed in detail at `034-sebe.md` 34/3, and a plain limit was set there per the method (`STYLE.md`). I keep that limit unchanged:**
 
 > **"The atom of modern physics is not to be drawn out of this word."**
 
@@ -1427,7 +1427,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 **I record this as my own reading, and its ground is the presence of the sixty-third verse:** the construct is not left open, **it is defined at once.** **And there are two things in the definition: an acceptance (*āmanū*, perfect) and a continuity (*kānū yattaqūn*, *kāna* + imperfect — which states continuation).**
 
-**A note per the method (`USLUP.md`):** I do not enter the mystical and theological debates built around this construct through history. **Since the verse itself gives a definition, I do not go beyond the definition.**
+**A note per the method (`STYLE.md`):** I do not enter the mystical and theological debates built around this construct through history. **Since the verse itself gives a definition, I do not go beyond the definition.**
 
 ### لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -1863,7 +1863,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 **And the fourth explanation about the root ن-ج-و is worth recording, because it rests on the concrete sense of the word:** *najwa* — **a raised place, a mound.** **The sense "to be saved" comes from this picture: when the flood comes, the one who climbs high is saved.** **I relate this derivation as the lexicographers record it.**
 
-**Per the method (`USLUP.md`) I draw a plain limit, and writing it is obligatory:**
+**Per the method (`STYLE.md`) I draw a plain limit, and writing it is obligatory:**
 
 **I draw no conclusion from this verse about modern archaeology, about any mummy held in a museum, or about any particular historical person.** **The verse gives no name, no date, no place.** **One does not enter into detail the Qurʾān does not give — this is the rule this series applies in the narratives.** **And once such a link is made, the truth of the text is bound to the fate of the link.** **The same reasoning was written at `032-secde.md` 32/5 and in `070-mearic.md`; I rely on that treatment.**
 
@@ -2109,7 +2109,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 **And at `026-suara.md` 26/4 this verse had entered a table:** *wa law shāʾa rabbuka la-āmana man fi'l-arḍ* (Yūnus 10/99), *wa law shiʾnā la-ātaynā kulla nafsin hudāhā* (al-Sajda 32/13). **And it was recorded there: "all three verses have the same structure: willing + compelling + not happening."** **I rely on that treatment.**
 
-**A note per the method (`USLUP.md`):** this verse is not to be used to **pass a wholesale ruling on anyone** in the matter of religious belief, nor to produce a position in current politics. **What the verse says in its own words is that compelling is not the messenger's work.**
+**A note per the method (`STYLE.md`):** this verse is not to be used to **pass a wholesale ruling on anyone** in the matter of religious belief, nor to produce a position in current politics. **What the verse says in its own words is that compelling is not the messenger's work.**
 
 **وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ** (100) — **and the word *leave* occurs for the third time in the sūra.**
 
@@ -2394,7 +2394,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 ### Notes on the limits
 
-**The limits drawn plainly in this section per the method (`USLUP.md`):**
+**The limits drawn plainly in this section per the method (`STYLE.md`):**
 
 | Verse | Limit |
 |---|---|

@@ -562,7 +562,7 @@ That is, the refusal is described not as a rejection from the outset but as a po
 
 **This note is worth recording, and I give it as my own reading:** the verse sets up an orderly sequence of stages and **adds the exception itself.** That is, the sequence is not offered as a rule; **that not everyone goes to the end of it is said in the same sentence.**
 
-**A limit, per the method (`USLUP.md`):** the dictionary meanings of the words *nuṭfa* and *ʿalaqa* (a drop; a thing that hangs and clings, something leech-like) are given by the lexicographers. **I do not enter into equating these one-to-one with the terms of modern embryology;** the work of the verse is to give a description of stages, and the proof lies in these stages **not being in human hands** — the same line as that treated at `056-vakia.md` 56/58-59.
+**A limit, per the method (`STYLE.md`):** the dictionary meanings of the words *nuṭfa* and *ʿalaqa* (a drop; a thing that hangs and clings, something leech-like) are given by the lexicographers. **I do not enter into equating these one-to-one with the terms of modern embryology;** the work of the verse is to give a description of stages, and the proof lies in these stages **not being in human hands** — the same line as that treated at `056-vakia.md` 56/58-59.
 
 **The same stages of life had occurred in the context of parents at `046-ahkaf.md` 46/15** (*ḥattā idhā balagha ashuddahū wa balagha arbaʿīna sana*). **The two sūras use the same word (*ashudd*).**
 

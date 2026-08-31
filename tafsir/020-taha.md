@@ -194,7 +194,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ
 
-**Bu terkip hakkında USLUP gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
+**Bu terkip hakkında STYLE gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
 
 **`032-secde.md` 32/4'te aynı terkip işlendi ve orada iki tavır tablolanmıştı** — **tefvîz** (lafız olduğu gibi kabul edilir, keyfiyeti Allah'a havale edilir) ve **te'vîl** (hükümranlığın kurulması anlamında yorumlanır). **İkisi de nakledilir; tercih dayatmıyorum. Oraya dayanıyorum ve tekrarlamıyorum.** Ortak ilke Şûrâ 42/11'dir.
 
@@ -722,7 +722,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Ve fiil meçhul: *tusnaa* — "yapılasın, yetiştirilesin".**
 
-**عَلَىٰ عَيْنِى** — "gözümün üzerinde". **Deyim Arapçada gözetim ve koruma altında olmayı bildirir.** **USLUP gereği bir kayıt düşüyorum:** bu ifade Allah'a organ nispet edecek şekilde anlaşılamaz. **`002-bakara.md` 2/115'te *vech* için, `040-gafir.md` 40/7'de arş için düşülen kayıt burada da geçerlidir:** klasik gelenekte iki tavır nakledilir — lafzı olduğu gibi kabul edip keyfiyetini havale etmek (**tefvîz**) ya da gözetim anlamında yorumlamak (**te'vîl**). **İkisini de aktarıyorum, tercih dayatmıyorum.**
+**عَلَىٰ عَيْنِى** — "gözümün üzerinde". **Deyim Arapçada gözetim ve koruma altında olmayı bildirir.** **STYLE gereği bir kayıt düşüyorum:** bu ifade Allah'a organ nispet edecek şekilde anlaşılamaz. **`002-bakara.md` 2/115'te *vech* için, `040-gafir.md` 40/7'de arş için düşülen kayıt burada da geçerlidir:** klasik gelenekte iki tavır nakledilir — lafzı olduğu gibi kabul edip keyfiyetini havale etmek (**tefvîz**) ya da gözetim anlamında yorumlamak (**te'vîl**). **İkisini de aktarıyorum, tercih dayatmıyorum.**
 
 **Ve kökün sûredeki dağılımı bir metin verisidir:**
 
@@ -1005,7 +1005,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Ve *hedâ* fiilinin mefûlü söylenmiyor.** "Onları yol gösterdi" ya da "insana yol gösterdi" değil — **mutlak: *hedâ*.** Kapsam açık bırakılıyor.
 
-**Fen bağlantısı hakkında bir kayıt düşüyorum ve USLUP gereğidir:** bu ayetten canlıların içgüdüsel davranışlarına, göç yollarına ya da genetik bilgiye giden bağlar kurulmuştur. **Bu tefsirde böyle bir bağ kurulmuyor.** Ayet bir biyoloji önermesi değil, bir **fiil bildirimi**dir; ve söylediği şey ("her varlık, ne yapacağını kendiliğinden bilmez; gösterilir") zaten kendi başına yeterlidir. **Bir gözlem olarak şunu ekliyorum, mucize iddiası olarak değil:** cümlenin kurduğu ayrım — **varlık ile yönerge** — bugün canlı ve cansız her düzenli sistem için de düşünülebilecek bir ayrımdır; ama ayet bunu iddia etmiyor ve ben de etmiyorum.
+**Fen bağlantısı hakkında bir kayıt düşüyorum ve STYLE gereğidir:** bu ayetten canlıların içgüdüsel davranışlarına, göç yollarına ya da genetik bilgiye giden bağlar kurulmuştur. **Bu tefsirde böyle bir bağ kurulmuyor.** Ayet bir biyoloji önermesi değil, bir **fiil bildirimi**dir; ve söylediği şey ("her varlık, ne yapacağını kendiliğinden bilmez; gösterilir") zaten kendi başına yeterlidir. **Bir gözlem olarak şunu ekliyorum, mucize iddiası olarak değil:** cümlenin kurduğu ayrım — **varlık ile yönerge** — bugün canlı ve cansız her düzenli sistem için de düşünülebilecek bir ayrımdır; ama ayet bunu iddia etmiyor ve ben de etmiyorum.
 
 **Ve sûre içi bağ kaydedilmelidir:** *hedâ* fiili, yetmiş dokuzuncu ayette **Fir'avn için olumsuz** olarak geri dönecek: *ve edalle Fir'avnü kavmehû **ve mâ hedâ*** — "saptırdı, yol göstermedi".
 
@@ -1435,7 +1435,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kalıbın kendisidir:** boğulma sahnesi **anlatılmıyor.** Ne suyun yüksekliği, ne çığlıklar, ne süre. **Fiil tekrarlanıp nesnesi belirsiz bırakılıyor.** **Ve `026-suara.md` 26/66'da aynı olay tek kelimeyle veriliyordu:** *sümme ağraknâ'l-âharîn.* **İki sûre de sahneyi genişletmiyor.**
 
-**Bu, USLUP'ta kayıtlı bir ilkeyi metnin kendisinden doğruluyor:** Kur'an'ın vermediği ayrıntıya girilmez — **çünkü metnin kendisi de girmiyor.**
+**Bu, STYLE'da kayıtlı bir ilkeyi metnin kendisinden doğruluyor:** Kur'an'ın vermediği ayrıntıya girilmez — **çünkü metnin kendisi de girmiyor.**
 
 ### وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ
 
@@ -1571,7 +1571,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunun ötesinde — kim olduğu, hangi kavimden geldiği, adının nereden türediği — Kur'an bir şey söylemiyor.** **Klasik tefsirlerde çeşitli izahlar nakledilir ve bunların önemli bir kısmı çevre kültürlerden gelen anlatılara dayanır.**
 
-**USLUP gereği bir kayıt düşüyorum ve bu bahsin tamamı için geçerlidir: bu tefsirde İsrâiliyat'a girilmiyor ve Kur'an'ın vermediği ayrıntı üretilmiyor.** **Kesin bilgi yoktur.**
+**STYLE gereği bir kayıt düşüyorum ve bu bahsin tamamı için geçerlidir: bu tefsirde İsrâiliyat'a girilmiyor ve Kur'an'ın vermediği ayrıntı üretilmiyor.** **Kesin bilgi yoktur.**
 
 ---
 
@@ -1756,7 +1756,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bu ayet, Kur'an'ın üzerinde en çok spekülasyon üretilmiş cümlelerinden biridir.**
 
-**USLUP gereği sınırı baştan çiziyorum ve bu bahsin tamamı için geçerlidir:**
+**STYLE gereği sınırı baştan çiziyorum ve bu bahsin tamamı için geçerlidir:**
 
 - **Kur'an'ın vermediği ayrıntıya girilmiyor.**
 - **İsrâiliyat'a girilmiyor.**
@@ -2742,7 +2742,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 | Kasas 28/83 | *Ve'l-âkıbetü **li'l-müttekīn*** | **Kişilere** — korunanlara |
 | **Tâhâ 20/132** | *Ve'l-âkıbetü **li't-takvâ*** | **Vasfa** — korunmanın kendisine |
 
-**Aynı cümle, biri kişiye biri vasfa bağlanmış.** **Bu, iki sûre arasında doğrulanabilir bir farktır ve USLUP'ta kayıtlı ilkeyle uyumludur:** hüküm gruplara değil, vasıflara kurulur.
+**Aynı cümle, biri kişiye biri vasfa bağlanmış.** **Bu, iki sûre arasında doğrulanabilir bir farktır ve STYLE'da kayıtlı ilkeyle uyumludur:** hüküm gruplara değil, vasıflara kurulur.
 
 ---
 

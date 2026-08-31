@@ -1785,7 +1785,7 @@ In the twenty-fourth verse *"they are an army to be drowned"* is said; the twent
 
 **And note: *ʿāliyan* comes indefinite, and *mina'l-musrifīn* follows it.** The sentence, that is, places him within a class: **one of those who exceed all bounds.**
 
-**I give this as my own reading:** the verse does not present Pharaoh as an example of a unique evil; **it presents him as an example of a kind.** And the principle recorded in `USLUP.md` works here: what the verse describes is an **attribute**, and whoever bears that attribute is included in it.
+**I give this as my own reading:** the verse does not present Pharaoh as an example of a unique evil; **it presents him as an example of a kind.** And the principle recorded in `STYLE.md` works here: what the verse describes is an **attribute**, and whoever bears that attribute is included in it.
 
 ### مُّسْرِفِين — the root س-ر-ف
 
@@ -1857,7 +1857,7 @@ In the twenty-fourth verse *"they are an army to be drowned"* is said; the twent
 
 **I do not impose a preference.**
 
-**But I am bound to enter two records, and both are required by `USLUP.md`.**
+**But I am bound to enter two records, and both are required by `STYLE.md`.**
 
 **One. In this commentary no wholesale ruling is issued about a community.** What the verse describes is a **situation**: something was given to a community. What was given is said in the next verse, and that word is decisive: ***balāʾ*** — a trial.
 
@@ -2402,7 +2402,7 @@ The other party had advanced a claim of **impossibility** (35: we shall not be r
 
 **I do not impose a preference.**
 
-**But I enter a record, and it is required by `USLUP.md`:** even on the second reading what the verse builds is an **attribute**. The principle recorded in `050-kaf.md` and throughout this commentary works here too: **what the verse describes is an attribute, and whoever bears that attribute is included in it.**
+**But I enter a record, and it is required by `STYLE.md`:** even on the second reading what the verse builds is an **attribute**. The principle recorded in `050-kaf.md` and throughout this commentary works here too: **what the verse describes is an attribute, and whoever bears that attribute is included in it.**
 
 ---
 
@@ -2754,7 +2754,7 @@ The other party had advanced a claim of **impossibility** (35: we shall not be r
 
 **I do not impose a preference.**
 
-**And one more record, required by `USLUP.md`: I issue no ruling about any particular person on the strength of this verse.** What the text builds is an **attribute** and the counterpart of that attribute.
+**And one more record, required by `STYLE.md`: I issue no ruling about any particular person on the strength of this verse.** What the text builds is an **attribute** and the counterpart of that attribute.
 
 ---
 
@@ -3465,7 +3465,7 @@ They had said: *"There is only one death, that is all."* **And the fifty-sixth v
 
 ### Disagreements on which no preference is adopted in this commentary
 
-**I record this per `USLUP.md`: in the following places two or more readings were transmitted and in none was a preference imposed.**
+**I record this per `STYLE.md`: in the following places two or more readings were transmitted and in none was a preference imposed.**
 
 | Verse | The disagreement |
 |---|---|

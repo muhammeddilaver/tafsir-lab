@@ -200,7 +200,7 @@
 
 - ***İzâ fücâiyye*** (birdenbirelik bildiren *izâ*): "bir de bakarsın ki". **Cümle, damla ile tartışmacı arasındaki bütün basamakları atlıyor.**
 - ***Hasîm*, *fa'îl* veznindedir ve Arapçada bu vezin yerleşik, sabit bir niteliği bildirir.** **Yani insan "tartışan biri" olarak değil, "tartışmacı" olarak adlandırılıyor.**
-- ***Nutfe* hakkında konan USLUP sınırı:** kelime modern embriyoloji terimleriyle birebir eşitlenmiyor; **delil, insanın başlangıcının kendi elinde olmamasıdır.**
+- ***Nutfe* hakkında konan STYLE sınırı:** kelime modern embriyoloji terimleriyle birebir eşitlenmiyor; **delil, insanın başlangıcının kendi elinde olmamasıdır.**
 
 **Tekrarlamıyorum. Buraya ait olan, iki ayetin bağlamı arasındaki farktır ve bu fark büyüktür:**
 
@@ -433,7 +433,7 @@
 
 **Ve şahıs farkı ikinci sırada kaydedilmelidir:** Yâsîn'de bilmeyenler "onlar"dır — anlatılan bir grup. **Nahl'de bilmeyen doğrudan muhataptır: "siz."** Yani cümle, okuyanın kendi bilgisinin sınırını söylüyor.
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu cümle, fennî mucize iddiaları için sık kullanılan yerlerden biridir:** "bilmediğiniz şeyler" ifadesinin bugün bilinen taşıtlarla, teknolojiyle ya da başka bir olguyla doldurulması yaygın bir yorumdur.
 
@@ -658,7 +658,7 @@
 
 - **رَوَٰسِى — kök ر-س-و: demir atmak, sabitlenmek.** **Kökün geminin demirlemesiyle ilişkisi `050-kaf.md` 50/7'de kaydedilmişti.**
 - **أَن تَمِيدَ بِكُمْ — *meyd*: sallanmak, çalkalanmak.** **Dilciler kelimeyi özellikle deniz tutması ve geminin sallanması için kullanır.**
-- **Ve Lokmân'da konan USLUP kaydı burada da geçerlidir ve tekrarlıyorum:** buradan modern jeolojiye, izostaziye ya da kütleçekimine dair bir sonuç çıkarılmıyor. **Ayetin işlevi, gözle görülen bir düzenin görünür bir dayanağı olmadan durduğunu söylemektir.**
+- **Ve Lokmân'da konan STYLE kaydı burada da geçerlidir ve tekrarlıyorum:** buradan modern jeolojiye, izostaziye ya da kütleçekimine dair bir sonuç çıkarılmıyor. **Ayetin işlevi, gözle görülen bir düzenin görünür bir dayanağı olmadan durduğunu söylemektir.**
 
 **Buraya ait olan fark kaydedilmelidir ve iki ayet aynı bağlamda değildir:**
 
@@ -1223,7 +1223,7 @@
 
 **Bu, sûre içinde doğrulanabilir bir tekrardır. Ve kendi okumam olarak şunu kaydediyorum:** emir bir sürekli bağımlılık kurmuyor. **Sorulması emredilen şey, hemen ardından muhatabın kendi eline veriliyor.**
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu ayet, tarih boyunca çok farklı yerlerde ve çok farklı amaçlarla kullanılmıştır.** **Bu tefsirde ayete, lafzının ve bağlamının verdiğinden fazlası yüklenmiyor.**
 
@@ -1482,7 +1482,7 @@
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** aynı edat sûrenin dördüncü ayetinde **yaratılıştan tartışmaya** geçişte, elli dördüncü ayetinde **kurtuluştan şirke** geçişte kullanılıyor. **İki geçiş de aynı biçimde, aradaki basamaklar atlanarak veriliyor.**
 
-**فَرِيقٌ مِّنكُم** — ve kapsam kaydedilmelidir. **Ayet "hepiniz" demiyor: *ferîkun minküm* — "içinizden bir grup".** **Ve `029-ankebut.md` 29/47'de aynı hassasiyet kaydedilmişti;** oraya dayanıyorum. **USLUP gereği burada da aynı çizgi korunuyor: hüküm bir gruba değil, bir tavra bağlanmış.**
+**فَرِيقٌ مِّنكُم** — ve kapsam kaydedilmelidir. **Ayet "hepiniz" demiyor: *ferîkun minküm* — "içinizden bir grup".** **Ve `029-ankebut.md` 29/47'de aynı hassasiyet kaydedilmişti;** oraya dayanıyorum. **STYLE gereği burada da aynı çizgi korunuyor: hüküm bir gruba değil, bir tavra bağlanmış.**
 
 ### لِمَا لَا يَعْلَمُونَ
 
@@ -1505,7 +1505,7 @@
 
 "**Allah'a kızları yakıştırıyorlar — O bundan uzaktır — kendilerine ise canlarının çektiğini.** · **Onlardan birine kız müjdelendiğinde, yüzü kapkara kesilir ve içi dolar.** · **Kendisine verilen müjdenin kötülüğü yüzünden halktan gizlenir: aşağılanmış olarak onu tutsun mu, yoksa toprağa mı gömsün? Bakın, ne kötü hüküm veriyorlar!**"
 
-### USLUP gereği, başta konması gereken kayıt
+### STYLE gereği, başta konması gereken kayıt
 
 **Bu üç ayeti işlerken bir şeyi baştan net tutmak gerekiyor ve aynı kayıt `043-zuhruf.md` 43/17-18'de de düşülmüştü:**
 
@@ -1724,11 +1724,11 @@
 
 "**Davarlarda da sizin için bir ibret vardır: karınlarındakinden, fers ile kan arasından çıkan, içenlerin boğazından kolayca geçen tertemiz bir süt içiriyoruz size.**"
 
-### USLUP gereği, başta konması gereken kayıt
+### STYLE gereği, başta konması gereken kayıt
 
 **Bu ayet, fennî mucize iddiaları için en sık kullanılan yerlerden biridir. Bu tefsirde bu yola girilmiyor.**
 
-**Gerekçe USLUP'un açık maddesidir:** *"Fennî mucize avcılığı yapılmaz. Ayete modern bir bilgi zorla giydirilmez."*
+**Gerekçe STYLE'ın açık maddesidir:** *"Fennî mucize avcılığı yapılmaz. Ayete modern bir bilgi zorla giydirilmez."*
 
 **Ve buna iki pratik sebep ekliyorum, `054-kamer.md` 54/1'de yazılanın aynısı:**
 
@@ -1936,7 +1936,7 @@
 
 ### فِيهِ شِفَآءٌ لِّلنَّاسِ
 
-**Burada dikkatli olmak gerekiyor ve USLUP gereği sınır açıkça konmalıdır.**
+**Burada dikkatli olmak gerekiyor ve STYLE gereği sınır açıkça konmalıdır.**
 
 **شِفَآء** — kök **ش-ف-ي**: **iyileşmek; ve bir şeyin kenarına, ucuna gelmek.** *Şefâ* — kenar, uç (Kur'an'da *şefâ hufretin* — çukurun kenarı). **Dilciler iki dalı birleştirir:** *şifâ*, hastalığın **sınırına** gelmek, onu geçmektir.
 
@@ -2204,7 +2204,7 @@
 
 **Ve *eynemâ yüveccihhü lâ ye'ti bi-hayr* cümlesi kaydedilmelidir:** *tevcîh* — **yöneltmek.** **Yani ayet, kişinin yönlendirilebildiğini ama yönlendirmenin bir sonuç vermediğini söylüyor.**
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu temsil, engelli bir kişi hakkında bir hüküm kurmuyor.** **Bunu açıkça yazmak gerekiyor.**
 
@@ -2504,7 +2504,7 @@
 
 **Bu, sûreler arası doğrulanabilir bir fark ve bunu kendi okumam olarak veriyorum:** Rûm bakışın sığlığını, Nahl bakıştan sonraki adımı teşhis ediyor. **İki sûre aynı olguyu iki ayrı aşamada yakalıyor.**
 
-**وَأَكْثَرُهُمُ ٱلْكَٰفِرُونَ** — ve kapsam kaydedilmelidir. **Ayet "hepsi" demiyor: *ekseruhüm* — çoğu.** **USLUP gereği, hüküm bir gruba değil bir vasfa bağlanmıştır ve ayetin kendi kelimesi de bunu koruyor.**
+**وَأَكْثَرُهُمُ ٱلْكَٰفِرُونَ** — ve kapsam kaydedilmelidir. **Ayet "hepsi" demiyor: *ekseruhüm* — çoğu.** **STYLE gereği, hüküm bir gruba değil bir vasfa bağlanmıştır ve ayetin kendi kelimesi de bunu koruyor.**
 
 ---
 
@@ -2773,7 +2773,7 @@
 
 **Bu okumayı bir nakle dayandırmıyorum; dayanağım temsilin seçtiği iş ile *enkâs* kelimesinin çoğulluğudur.**
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Temsilde bir kadın anılıyor ve klasik kaynaklarda bu benzetmenin Mekke'de yaşamış belirli bir kadına işaret ettiği nakledilir.** **Bu tefsirde bu nakle bir kişi adı bağlanmıyor**, çünkü elimde doğrulanmış bir kaynak yok. **Ve daha önemlisi: ayetin kurduğu şey bir kişi tarifi değil, bir *iş* tarifidir.**
 
@@ -3014,7 +3014,7 @@
 
 **أَعْجَمِىّ** — kök **ع-ج-م**: **konuşmada açık olmamak, anlaşılmaz olmak.** *A'cem* — meramını açıkça anlatamayan; **kelime bir milleti değil, *anlaşılırlık durumunu* adlandırır.**
 
-**Bunu bir dil gözlemi olarak kaydediyorum ve USLUP gereği ayrıca belirtiyorum:** ayet bir dil ya da millet hakkında bir değer hükmü kurmuyor. **Karşıtlık *arabî / a'cemî* değil, *anlaşılır / anlaşılmaz* eksenindedir** — nitekim ayet *arabî* kelimesine *mübîn* (apaçık) sıfatını ekliyor. **Yani vurgu, dilin adında değil, açıklığında.**
+**Bunu bir dil gözlemi olarak kaydediyorum ve STYLE gereği ayrıca belirtiyorum:** ayet bir dil ya da millet hakkında bir değer hükmü kurmuyor. **Karşıtlık *arabî / a'cemî* değil, *anlaşılır / anlaşılmaz* eksenindedir** — nitekim ayet *arabî* kelimesine *mübîn* (apaçık) sıfatını ekliyor. **Yani vurgu, dilin adında değil, açıklığında.**
 
 ---
 
@@ -3049,7 +3049,7 @@
 
 ### İstisnanın öne çıkarılması
 
-**Bu ayeti işlerken USLUP gereği bir sınır baştan konmalıdır: burada fıkhî hüküm verilmiyor.** Klasik kaynaklarda bu ayet, ikrah (zorlama) hukukunun temel dayanaklarından biri sayılmış ve etrafında geniş bir fıkhî literatür oluşmuştur. **Bu tefsirde o literatüre girilmiyor.**
+**Bu ayeti işlerken STYLE gereği bir sınır baştan konmalıdır: burada fıkhî hüküm verilmiyor.** Klasik kaynaklarda bu ayet, ikrah (zorlama) hukukunun temel dayanaklarından biri sayılmış ve etrafında geniş bir fıkhî literatür oluşmuştur. **Bu tefsirde o literatüre girilmiyor.**
 
 **Ayetin lafzî olarak yaptığı şey işleniyor. Ve dizim bakımından ayetin en dikkat çekici yeri, istisnanın nereye konduğudur.**
 
@@ -3376,7 +3376,7 @@
 
 **و-ص-ف kökü:** bir şeyi niteleyerek tarif etmek. **Ve kelimenin buradaki işi:** hüküm, bir bilgiye değil bir **nitelendirmeye** dayanıyor.
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu ayet, bir usul ilkesi koyuyor ve bu tefsirin kendi sınırıyla doğrudan ilgilidir.**
 
@@ -3386,7 +3386,7 @@
 
 **Ve `002-bakara.md` 2/169'da bu çizgi işlenmişti** (*ve en tekūlû alallâhi mâ lâ ta'lemûn*); oraya dayanıyorum.
 
-**Bu tefsirde fıkhî hüküm verilmemesinin gerekçelerinden biri, USLUP'ta yazılı olan maddedir. Bu ayet, o maddenin metin içindeki dayanaklarından biridir.**
+**Bu tefsirde fıkhî hüküm verilmemesinin gerekçelerinden biri, STYLE'da yazılı olan maddedir. Bu ayet, o maddenin metin içindeki dayanaklarından biridir.**
 
 ---
 
@@ -3411,13 +3411,13 @@
 
 **Fark tek kelimededir: otuz üçüncü ayette *Allâh* açıkça anılıyor; yüz on sekizincide birinci çoğul şahıs kullanılıyor.**
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu ayet bir topluluk hakkında toptan hüküm kurmuyor ve bunu açıkça yazmak gerekiyor.**
 
 **Metin içi delil şudur:** ayetin konusu bir **yasak listesidir**, bir kimlik değerlendirmesi değil. **Ve cümlenin ikinci yarısı, hükmü bir fiile bağlıyor: *kânû enfüsehüm yazlimûn*.**
 
-**USLUP'un maddesi burada aynen geçerlidir:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* **Ve `029-ankebut.md` 29/46-47'de bu hassasiyetin nasıl korunduğu ayrıntılı işlendi; oraya dayanıyorum.**
+**STYLE'ın maddesi burada aynen geçerlidir:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* **Ve `029-ankebut.md` 29/46-47'de bu hassasiyetin nasıl korunduğu ayrıntılı işlendi; oraya dayanıyorum.**
 
 ---
 
@@ -3888,7 +3888,7 @@
 | 119 | *Cehâlet* — bilgisizlik mi düşüncesizlik mi |
 | 120 | *Ümmet* tek kişi için — üç izah |
 
-### USLUP gereği konan sınırlar
+### STYLE gereği konan sınırlar
 
 | Ayet | Konu | Konan sınır |
 |---|---|---|

@@ -89,7 +89,7 @@ There is no disagreement that the sūra is Medinan. The indications inside the t
 
 ## A note on method: how this sūra will not be read
 
-Per the method (`USLUP.md`), I am obliged to draw two limits before entering this sūra. They will affect the reading from beginning to end.
+Per the method (`STYLE.md`), I am obliged to draw two limits before entering this sūra. They will affect the reading from beginning to end.
 
 **One. This sūra is not a text of the law of war, and no legal ruling will be drawn from it in this commentary.** The fourth verse is one of the most debated texts in the chapter on captives in classical jurisprudence; **I will transmit that debate in the form of a table of disagreement** and will prefer no view. The work of this commentary is to show what the text says; it is not to say what is to be done.
 
@@ -401,7 +401,7 @@ When a ruling is issued, two things can be done: the ruling can be issued and le
 
 **This determines how the sūra is to be read.** This sūra carries hard sentences; but not one of its hard sentences has been left without a ground. To take a ruling out of its context is to take it away from its ground as well — and the ground is what determines to whom the ruling applies.
 
-**In terms of the method (`USLUP.md`), this yields a direct consequence:** the verses issue their ruling not upon a group but upon the **attributes** counted in the ground. The ground of the third verse is not "those who deny"; it is **"their having followed falsehood"**. If the attribute changes the ruling changes too — and indeed the sūra will make this an explicit condition at 47/34: *"then they died as deniers"*.
+**In terms of the method (`STYLE.md`), this yields a direct consequence:** the verses issue their ruling not upon a group but upon the **attributes** counted in the ground. The ground of the third verse is not "those who deny"; it is **"their having followed falsehood"**. If the attribute changes the ruling changes too — and indeed the sūra will make this an explicit condition at 47/34: *"then they died as deniers"*.
 
 ### ٱتَّبَعُوا۟ — Form VIII
 
@@ -473,7 +473,7 @@ And the root **م-ث-ل** will occur three times in the sūra: here (3), at 47/1
 
 ---
 
-**This verse is one of the most frequently torn from its context in the sūra and perhaps in the Qurʾān. Per the method (`USLUP.md`), I shall do four things here in order:**
+**This verse is one of the most frequently torn from its context in the sūra and perhaps in the Qurʾān. Per the method (`STYLE.md`), I shall do four things here in order:**
 
 1. I shall show **how the sentence is built** — because the way the sentence is built determines its scope.
 2. I shall analyse the roots of the words.
@@ -796,7 +796,7 @@ It says: this is not a matter God could not have handled otherwise. It is not a 
 | **3** | **Muḥammad 47/4 has been abrogated**; the ruling was changed by verses that came later. | It rests on other reports about the order of revelation. |
 | **4** | **There is no abrogation; the ruling has been left to the discretion of the head of state or the commander** (*takhyīr*). The verse's *immā… wa immā* pattern is already a pattern of choice. | The pattern itself announces *takhyīr*. |
 
-**In this commentary I make no preference and issue no legal ruling.** Per the method (`USLUP.md`), the views of the schools of law are transmitted and no ruling is issued; and I have no sound measure by which to prefer among the reports concerning the order of revelation.
+**In this commentary I make no preference and issue no legal ruling.** Per the method (`STYLE.md`), the views of the schools of law are transmitted and no ruling is issued; and I have no sound measure by which to prefer among the reports concerning the order of revelation.
 
 **What is to be recorded is this:** the debate itself shows that the verse has not been read as **a general ruling standing alone and settled**. The classical exegetical tradition has always taken this verse up **together with other verses**. To take the verse by itself and present it as a general ruling is the exact opposite of what that tradition does.
 
@@ -1407,7 +1407,7 @@ And the verse says this by way of a subtraction: in the sentence nothing is adde
 
 **That is, the comparison is not a contempt but a *measurement*:** the space a person's life occupies is measured, and the result comes out the same as the space an animal's life occupies.
 
-**And the verse says explicitly to whom this measurement is to be applied: *alladhīna kafarū*.** Per the method (`USLUP.md`): this is not an identity but an **attribute**. Whoever carries that attribute is included in it — and the attribute is "being content with just this much".
+**And the verse says explicitly to whom this measurement is to be applied: *alladhīna kafarū*.** Per the method (`STYLE.md`): this is not an identity but an **attribute**. Whoever carries that attribute is included in it — and the attribute is "being content with just this much".
 
 **I rest this reading on the wording of the text** (*kamā taʾkulu* — the particle of comparison attached to the verb); the "measurement" interpretation I draw from it is my own inference.
 
@@ -1490,7 +1490,7 @@ The Prophet is being addressed and the town is still **attributed to him**: *qar
 
 **I do not present this with a claim of certainty.** The wording of the verse gives no time; *akhrajatka* (it drove you out) is a perfect verb and shows that the departure has taken place, but it does not say when.
 
-**And this qualification is required per the method (`USLUP.md`):** the expression "the town that drove you out" is not a blanket ruling about a town or a community. The ruling the verse gives is not even about that town — the sentence says that **other towns** were destroyed, and makes a comparison.
+**And this qualification is required per the method (`STYLE.md`):** the expression "the town that drove you out" is not a blanket ruling about a town or a community. The ruling the verse gives is not even about that town — the sentence says that **other towns** were destroyed, and makes a comparison.
 
 Indeed the Qurʾān speaks about the same town in an entirely different language elsewhere: Sūrat al-Balad opens *"I swear by this town"* (90/1), and the word order of that oath was treated in `090-beled.md`. The same place is named in two different sūras with two different faces.
 
@@ -2211,7 +2211,7 @@ The combination of **هَلْ** (the particle of interrogation) + **إِلَّا
 
 **And a note on method is needed here:** **the verse does not say what the signs are.** It gives no number, no list, no description.
 
-**In the classical commentaries there is a wide literature on these signs, and I do not enter that literature in this commentary.** The reason is the method (`USLUP.md`): I do not transmit reports of which I am not certain, and the subject of the signs of the Hour contains more disputed transmission than the method of this commentary can carry.
+**In the classical commentaries there is a wide literature on these signs, and I do not enter that literature in this commentary.** The reason is the method (`STYLE.md`): I do not transmit reports of which I am not certain, and the subject of the signs of the Hour contains more disputed transmission than the method of this commentary can carry.
 
 **The only thing I shall record is an explanation widely transmitted in the classical commentaries:** that the Prophet's having been sent is itself counted among the signs. **I transmit this as a view; there is no such determination in the wording of the verse.**
 
@@ -2812,7 +2812,7 @@ From the same root **لَعِين** (*laʿīn* — driven away) and **مَلْع
 
 **And this raises an unavoidable question:** if it is God who makes deaf and blinds, to whom does the responsibility belong?
 
-**This is one of the oldest debates in theology, and I do not enter that debate in this commentary.** The reason is the method (`USLUP.md`): the views of the schools may be transmitted but not preferred, and on this matter even the transmitting would be honest only with a long context.
+**This is one of the oldest debates in theology, and I do not enter that debate in this commentary.** The reason is the method (`STYLE.md`): the views of the schools may be transmitted but not preferred, and on this matter even the transmitting would be honest only with a long context.
 
 **The only thing I shall record is what stands in the text:**
 
@@ -2986,7 +2986,7 @@ The verse does not say **ٱلْقُلُوب** (al-qulūb — "the hearts", defin
 
 **And its meaning is this: the ruling is set not upon all hearts but upon a portion of them.** The verse does not say "people's hearts are locked".
 
-**In terms of the method (`USLUP.md`) this yields a direct consequence:** the verse does not issue a blanket ruling upon a community. The indefiniteness narrows the scope.
+**In terms of the method (`STYLE.md`) this yields a direct consequence:** the verse does not issue a blanket ruling upon a community. The indefiniteness narrows the scope.
 
 **The second point: *aqfāl* is made definite by a pronoun.**
 
@@ -3107,7 +3107,7 @@ The verb of the verse is in the **third person plural:** *yatadabbarūna* — "d
 
 **The same sentence in two verses.** And both do the same work: they narrow the scope of the ruling to an act performed **after knowledge has been had**.
 
-**In terms of the method (`USLUP.md`) this is a limit that must be recorded:** the verse does not issue a ruling upon one who does not know.
+**In terms of the method (`STYLE.md`) this is a limit that must be recorded:** the verse does not issue a ruling upon one who does not know.
 
 ### سَوَّلَ — the root س-و-ل
 
@@ -3664,7 +3664,7 @@ A person may put together entirely correct sentences. Everything he says may be 
 
 ### وَٱللَّهُ يَعْلَمُ أَعْمَٰلَكُمْ — and the limit the verse sets for itself
 
-**And now we come to the most important note on this verse. Per the method (`USLUP.md`), I have to write this out separately and plainly.**
+**And now we come to the most important note on this verse. Per the method (`STYLE.md`), I have to write this out separately and plainly.**
 
 **This verse does not tell people to "read one another's intentions". And the verse itself closes this off in three ways.**
 
@@ -4052,7 +4052,7 @@ al-Baqara 2/264 writes explicitly which behaviour voids the deed: reproach and i
 
 ### ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ — the condition at the centre of the verse
 
-**And this is the most important note on the verse, and per the method (`USLUP.md`) it needs to be written out plainly.**
+**And this is the most important note on the verse, and per the method (`STYLE.md`) it needs to be written out plainly.**
 
 **ثُمَّ** — a conjunction announcing sequence and **interval** (*tarākhī*): "then", and it shows that a stretch of time has passed in between. Unlike the *fāʾ*, it announces not immediate succession but **after time has passed**.
 
@@ -4076,7 +4076,7 @@ al-Baqara 2/264 writes explicitly which behaviour voids the deed: reproach and i
 
 **These three consequences follow from the wording of the verse.** None of them is an interpretation; they come from the grammatical function of *thumma* and of the circumstantial clause.
 
-**And the relevant article of the method (`USLUP.md`) works here exactly:**
+**And the relevant article of the method (`STYLE.md`) works here exactly:**
 
 > "No blanket ruling is issued about an ethnic or religious group; what the verse describes are **attributes**, and whoever carries that attribute is included in it."
 
@@ -4111,7 +4111,7 @@ al-Baqara 2/264 writes explicitly which behaviour voids the deed: reproach and i
 
 ---
 
-**This verse will be treated carefully. Per the method (`USLUP.md`) I have to draw a limit here too, and I shall draw it from the verse's own wording and from the Qurʾān itself.**
+**This verse will be treated carefully. Per the method (`STYLE.md`) I have to draw a limit here too, and I shall draw it from the verse's own wording and from the Qurʾān itself.**
 
 ### وَهَنَ — the root و-ه-ن
 
@@ -4492,7 +4492,7 @@ The meaning of the root: **to hold back from giving what one has, to withhold.**
 
 **That is, the sūra carries the diagnosis from outside inward.**
 
-**And in terms of the method (`USLUP.md`) this matters greatly:** if a text sets a heavy diagnosis upon others and leaves the one it addresses outside it, the addressee uses that diagnosis as a weapon. This sūra does not do that. It uses the same word upon the one it addresses too.
+**And in terms of the method (`STYLE.md`) this matters greatly:** if a text sets a heavy diagnosis upon others and leaves the one it addresses outside it, the addressee uses that diagnosis as a weapon. This sūra does not do that. It uses the same word upon the one it addresses too.
 
 **And note: in verse 37 there is a *condition*.** *In yasʾalkum* — "were He to ask". That is, the presence of the rancours is not asserted; **the possibility of their coming out** is recounted.
 
@@ -4574,7 +4574,7 @@ When an obligation ceases to be bearable, it produces in the one trying to bear 
 
 ### فَمِنكُم مَّن يَبْخَلُ — the recording of the proportion
 
-**And in the word order of this clause there is a measure that must be recorded in terms of the method (`USLUP.md`).**
+**And in the word order of this clause there is a measure that must be recorded in terms of the method (`STYLE.md`).**
 
 **The clause: مِنكُم مَّن يَبْخَلُ — "and some of you are miserly."**
 
@@ -4591,7 +4591,7 @@ The particle **مِن** here announces the **partitive** (*tabʿīḍ*): a part 
 
 **And this is a method repeated throughout the sūra:** in verse 24 *qulūbin* came indefinite ("some hearts"), and here *minkum* announces the partitive ("some of you").
 
-**In both places the scope is narrowed.** I record this as an observation about word order and find it important in terms of the method (`USLUP.md`).
+**In both places the scope is narrowed.** I record this as an observation about word order and find it important in terms of the method (`STYLE.md`).
 
 ### يَبْخَلُ عَن نَّفْسِهِۦ — the choice of particle
 
@@ -4767,7 +4767,7 @@ The table I set up at the beginning of this commentary was followed through the 
 | **أَعْمَال** | 1, 8, 9, 28, 32 | 33, 35 |
 | **أَضْغَان** | 29 | 37 |
 
-**This is the sūra's method and it is decisive in terms of the method (`USLUP.md`):** the text does not leave its heavy diagnoses outside the one it addresses.
+**This is the sūra's method and it is decisive in terms of the method (`STYLE.md`):** the text does not leave its heavy diagnoses outside the one it addresses.
 
 ### Three. The language of concrete pictures
 
@@ -4816,7 +4816,7 @@ The table I set up at the beginning of this commentary was followed through the 
 
 - **47/5 — *ʿarrafahā lahum*.** Three readings (making known / sweet scent / the marking of a boundary) were given in a table and no preference was made; the attempt to unite the three under the heading "the lifting of strangeness" is **my own reading.**
 
-- **47/12 — the comparison with animals.** That the comparison attaches to the verb and not to the agent is grammatical data; the "measurement" interpretation drawn from it is **my own inference.** And that the verse issues its ruling upon an attribute and not an identity was recorded separately, per the method (`USLUP.md`).
+- **47/12 — the comparison with animals.** That the comparison attaches to the verb and not to the agent is grammatical data; the "measurement" interpretation drawn from it is **my own inference.** And that the verse issues its ruling upon an attribute and not an identity was recorded separately, per the method (`STYLE.md`).
 
 - **47/15 — the language of the descriptions of the garden.** The literal/figurative debate was referred to `056-vakia.md`, where no preference had been made either. The meaning of the word *mathal* (description/representation) was given in a table and no preference was made.
 
@@ -4864,7 +4864,7 @@ The table I set up at the beginning of this commentary was followed through the 
 
 - **47/33 — the repetition of the verb *aṭīʿū*.** Three explanations were given; **the debate in legal theory was not entered and no preference was made.**
 
-- **47/34 — the ruling's being tied to the moment of death.** This follows from the grammatical function of the particle *thumma* and of the circumstantial clause and is not an interpretation. And the three consequences that follow from it (including that no ruling can be issued about a living person) were written out plainly, per the method (`USLUP.md`).
+- **47/34 — the ruling's being tied to the moment of death.** This follows from the grammatical function of the particle *thumma* and of the circumstantial clause and is not an interpretation. And the three consequences that follow from it (including that no ruling can be issued about a living person) were written out plainly, per the method (`STYLE.md`).
 
 - **47/35 — the parsing of *wa tadʿū*.** The two resolutions (jussive coordination / subjunctive of accompaniment) were tabulated and **no preference was made.**
 

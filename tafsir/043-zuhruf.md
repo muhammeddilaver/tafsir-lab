@@ -90,7 +90,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### حمٓ
 
-**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde düşüldü** (`002-bakara.md`, `068-kalem.md`, `050-kaf.md`, `046-ahkaf.md`); tekrarlamıyorum. **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** USLUP gereği harf-sayı hesabına dayalı iddialara girilmez.
+**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde düşüldü** (`002-bakara.md`, `068-kalem.md`, `050-kaf.md`, `046-ahkaf.md`); tekrarlamıyorum. **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** STYLE gereği harf-sayı hesabına dayalı iddialara girilmez.
 
 **Kaydedilebilecek olan, doğrulanabilir bir dizim olgusudur:** *hâ-mîm* ile açılan sûrelerin hemen hepsinde açılışın ardından **kitap** anılır. Burada bu, iki katlı geliyor: ikinci ayette kitaba yemin ediliyor, üçüncü ayette kitabın **nasıl yapıldığı** söyleniyor.
 
@@ -133,7 +133,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **ع-ج-م** kökü, ع-ر-ب kökünün tam karşıtıdır ve kökün somut anlamı bunu gösterir: **kapalılık, anlaşılmazlık.** *Ucme* — dilde tutukluk, kekemelik. *Acmâ'* — sesi olan ama konuşmayan hayvan. **Yani iki kök arasındaki karşıtlık "Arap / Arap olmayan" değil, dilcilerin kaydettiği kökler düzeyinde "açık / kapalı"dır.**
 
-**Bu ayrım burada önemlidir ve USLUP gereği açıkça yazmam gerekiyor:** ayet bir dilin ya da bir kavmin üstünlüğünü ilan etmiyor. **Ayetin kendi verdiği gerekçe, ayetin sonundadır** — ve gerekçe muhataba bakıyor, dile değil.
+**Bu ayrım burada önemlidir ve STYLE gereği açıkça yazmam gerekiyor:** ayet bir dilin ya da bir kavmin üstünlüğünü ilan etmiyor. **Ayetin kendi verdiği gerekçe, ayetin sonundadır** — ve gerekçe muhataba bakıyor, dile değil.
 
 ### لَّعَلَّكُمْ تَعْقِلُونَ — gerekçenin kendisi
 
@@ -453,7 +453,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Kelimenin ayetteki işi şudur:** yeryüzü bir zemin ya da bir mekân olarak değil, **bir bakım kabı** olarak anılıyor. Beşik, içindekini hem tutar hem taşır hem sallar.
 
-**Ve burada bir fen bağlantısı kurulabilir mi?** Klasik olmayan bazı yorumlarda *mehd* kelimesinden yerkürenin hareketine dair sonuçlar çıkarıldığı görülür. **USLUP gereği bu yola girmiyorum:** kelimenin dilcilerdeki anlamı bellidir ve ayet bir hareket iddiası kurmuyor. **Kelimenin taşıdığı şey bir bakım resmidir, bir fizik bilgisi değil.**
+**Ve burada bir fen bağlantısı kurulabilir mi?** Klasik olmayan bazı yorumlarda *mehd* kelimesinden yerkürenin hareketine dair sonuçlar çıkarıldığı görülür. **STYLE gereği bu yola girmiyorum:** kelimenin dilcilerdeki anlamı bellidir ve ayet bir hareket iddiası kurmuyor. **Kelimenin taşıdığı şey bir bakım resmidir, bir fizik bilgisi değil.**
 
 ### سُبُلًا — yollar
 
@@ -539,7 +539,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Yâsîn ayetinin sonundaki kayıt kaydedilmeye değer: *ve mimmâ lâ ya'lemûn* — "ve bilmedikleri şeylerden".** Yani Kur'an bu genellemeyi yaparken, kapsamın insan bilgisini aştığını kendisi söylüyor.
 
-**Modern fizik ve biyolojideki eşlenik yapılara (parçacık-karşı parçacık, kromozom çiftleri) bu ayetten doğrudan bir işaret çıkarmıyorum.** USLUP gereği fennî mucize avcılığı yapılmaz. **Kaydedilebilecek olan şudur:** ayet çiftlilik ilkesini bir gözlem konusu olarak anıyor ve kapsamını açık bırakıyor.
+**Modern fizik ve biyolojideki eşlenik yapılara (parçacık-karşı parçacık, kromozom çiftleri) bu ayetten doğrudan bir işaret çıkarmıyorum.** STYLE gereği fennî mucize avcılığı yapılmaz. **Kaydedilebilecek olan şudur:** ayet çiftlilik ilkesini bir gözlem konusu olarak anıyor ve kapsamını açık bırakıyor.
 
 ### مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ — dizim
 
@@ -804,7 +804,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 "Onlardan birine, **Rahmân'a yakıştırdığı şey** müjdelendiğinde, yüzü kapkara kesilir ve **içi dolar.** Süs içinde yetiştirilen ve **tartışmada meramını açığa çıkaramayan** biri mi (O'na yakıştırılıyor)?"
 
-**Bu iki ayeti işlerken USLUP gereği bir şeyi baştan net tutmam gerekiyor.**
+**Bu iki ayeti işlerken STYLE gereği bir şeyi baştan net tutmam gerekiyor.**
 
 **Ayet kadın hakkında bir hüküm kurmuyor. Ayet, bir toplumun kız çocuğu karşısındaki tavrını aktarıyor ve o tavrın kendi içindeki çelişkiyi gösteriyor.** Bunun nasıl yapıldığını aşağıda adım adım göstereceğim; çünkü ayetin gücü tam olarak bu aktarım biçimindedir.
 
@@ -893,7 +893,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Bunun dil içindeki delili şudur:** cümle *e-ve* ile başlayan bir **inkâr sorusudur**. İnkâr sorusunda, soruya konan içerik konuşanın kendi hükmü değildir — **muhatabın kabulünden alınıp muhataba geri verilir.** Yani ayet, "kız çocuğu şöyledir" demiyor; **"sizin şöyle gördüğünüz biri, öyle mi?" diyor.**
 
-**Bu ayrımı açıkça yazmak USLUP gereğidir ve ayrıca metinden çıkar.** Ayetin muhatabı, iki hükmü aynı anda taşıyan zihindir: bir yandan kız çocuğunu yüzü kararacak kadar aşağı sayan, öbür yandan aynı şeyi Allah'a yakıştırmakta sakınca görmeyen zihin. **Ayetin gösterdiği şey bu ikisinin bir arada duramayacağıdır.**
+**Bu ayrımı açıkça yazmak STYLE gereğidir ve ayrıca metinden çıkar.** Ayetin muhatabı, iki hükmü aynı anda taşıyan zihindir: bir yandan kız çocuğunu yüzü kararacak kadar aşağı sayan, öbür yandan aynı şeyi Allah'a yakıştırmakta sakınca görmeyen zihin. **Ayetin gösterdiği şey bu ikisinin bir arada duramayacağıdır.**
 
 ### فِى ٱلْحِلْيَة — kök: ح-ل-ي
 
@@ -1271,7 +1271,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Aynı kök: biri bir sonu, öteki bir devamı bildiriyor.** İkisi arasında üç ayet var ve bu, sûrenin sonraki bloğuna geçişi hazırlıyor.
 
-**م-ك-ذ-ب** — *mükezzibîn*, II. bâbdan ism-i fâil: **yalanlayanlar.** **ك-ذ-ب** kökü dizinde işlendi. **Kaydedilecek olan, hükmün fiile bağlanmasıdır:** bir kavim adı ya da bir soy anılmıyor, **bir davranış** anılıyor. **USLUP gereği bu ayrım her yerde korunuyor: ayetin tarif ettiği vasıftır.**
+**م-ك-ذ-ب** — *mükezzibîn*, II. bâbdan ism-i fâil: **yalanlayanlar.** **ك-ذ-ب** kökü dizinde işlendi. **Kaydedilecek olan, hükmün fiile bağlanmasıdır:** bir kavim adı ya da bir soy anılmıyor, **bir davranış** anılıyor. **STYLE gereği bu ayrım her yerde korunuyor: ayetin tarif ettiği vasıftır.**
 
 ---
 
@@ -2001,7 +2001,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve `046-ahkaf.md` 46/26'da kaydedilen tespit buraya bağlanıyor:** orada Âd kavmine kulak, göz ve kalp verildiği, ama işe yaramadığı anlatılmıştı ve şu kaydedilmişti: *"Ayet bir imkânsızlıktan söz etmiyor; kullanılmayan bir imkândan söz ediyor."*
 
-**Aynı ayrımı burada da koruyorum:** Kur'an bu kelimeleri fiziksel engel için değil, **kullanılmayan duyu** için kullanıyor. **USLUP gereği bunu açıkça yazıyorum: ayet, işitme ya da görme engelli insanlar hakkında bir hüküm kurmuyor; bir mecaz kullanıyor ve mecazın konusu duyuları çalışan ama kullanmayan kişidir.**
+**Aynı ayrımı burada da koruyorum:** Kur'an bu kelimeleri fiziksel engel için değil, **kullanılmayan duyu** için kullanıyor. **STYLE gereği bunu açıkça yazıyorum: ayet, işitme ya da görme engelli insanlar hakkında bir hüküm kurmuyor; bir mecaz kullanıyor ve mecazın konusu duyuları çalışan ama kullanmayan kişidir.**
 
 ### فَإِمَّا نَذْهَبَنَّ بِكَ … أَوْ نُرِيَنَّكَ — iki ihtimal
 
@@ -2490,7 +2490,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 "Meryem oğlu bir örnek olarak öne sürülünce, bir de baktık **kavmin ondan dolayı bağrışıyor.** Dediler ki: **'Bizim ilâhlarımız mı daha iyi, yoksa o mu?'** Bunu sana ancak **tartışmak için** öne sürdüler. Doğrusu onlar **çekişmeci bir topluluktur.**"
 
-**Bu blok işlenirken USLUP gereği bir sınırı baştan koymam gerekiyor.**
+**Bu blok işlenirken STYLE gereği bir sınırı baştan koymam gerekiyor.**
 
 **Bu ayetler bir dinî grup hakkında toptan hüküm kurmuyor ve ben de kurmayacağım.** Ayetlerin işlediği şey, **belirli bir tartışma anında takınılan bir tavırdır**: bir örneğin, muhtevası tartışılmadan, tartışmayı kazanmak için öne sürülmesi. **Hükmün bağlandığı yer bir topluluk adı değil, bir vasıftır: *kavmün hasımûn* — çekişmeci bir topluluk.**
 
@@ -2793,7 +2793,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ***El-ahzâb* Kur'an'da başka yerlerde de geçer** (Hûd 11/17, Meryem 19/37, Mü'min 40/5, 40/30) ve **çoğunlukla ihtilafa düşmüş, taraflara ayrılmış gruplar için kullanılır.**
 
-**USLUP gereği burada bir kayıt düşüyorum:** ayet, bir dinî geleneğin bütünü hakkında hüküm kurmuyor. **Anlatılan şey bir olgudur: bir peygamberin sözünden sonra tarafların ayrışması.** Ve hüküm, bir gruba değil, **bir fiile** bağlanıyor: *li'llezîne **zalemû*** — zulmedenlere.
+**STYLE gereği burada bir kayıt düşüyorum:** ayet, bir dinî geleneğin bütünü hakkında hüküm kurmuyor. **Anlatılan şey bir olgudur: bir peygamberin sözünden sonra tarafların ayrışması.** Ve hüküm, bir gruba değil, **bir fiile** bağlanıyor: *li'llezîne **zalemû*** — zulmedenlere.
 
 **Bu, sûre boyunca korunan çizgidir ve `046-ahkaf.md` 46/35'te de kaydedilmişti: hüküm isme değil vasfa bağlanır.**
 

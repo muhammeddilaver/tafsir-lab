@@ -685,7 +685,7 @@ Bu bir okumadır, bağlayıcı değildir.
 
 Bu kayıt iki yönde de önemlidir. Bir yandan vaadi gerçekçi kılıyor: metin, bütün düşmanlığın biteceğini söylemiyor. Öte yandan Beyyine bölümünde uzun uzun tartışılan *min* harfinin işlevini hatırlatıyor: Kur'an bir topluluk hakkında konuşurken sıklıkla bir bölme harfi kullanır ve toptan hüküm kurmaktan kaçınır.
 
-USLUP'ta yazıldığı gibi bu tefsirde bir grup hakkında toptan hüküm kurulmaz; ve burada o ilkeyi metnin kendisi uyguluyor.
+STYLE'da yazıldığı gibi bu tefsirde bir grup hakkında toptan hüküm kurulmaz; ve burada o ilkeyi metnin kendisi uyguluyor.
 
 ### وَٱللَّهُ قَدِيرٌ — niçin bu isim?
 
@@ -1224,7 +1224,7 @@ Ve arada ne olduğunu hatırlayın: yasak konmuş (1), gerekçesi verilmiş (2),
 
 Bu tamlama Fâtiha'nın son ayetindeki **ٱلْمَغْضُوبِ عَلَيْهِمْ** ile aynı köktendir.
 
-Ve burada, USLUP gereği açıkça yazılması gereken bir kayıt var: **bu ifade bir topluluğa kalıcı bir etiket vermez.**
+Ve burada, STYLE gereği açıkça yazılması gereken bir kayıt var: **bu ifade bir topluluğa kalıcı bir etiket vermez.**
 
 Sebepleri şunlar:
 
@@ -1234,7 +1234,7 @@ Sebepleri şunlar:
 
 **Üçüncüsü, sûrenin kendi içindeki yedinci ayet.** *"Belki Allah, sizinle düşmanlık ettikleriniz arasına bir sevgi koyar."* Konumların değişebilir olduğunu söyleyen bir sûre, sonunda değişmez bir kimlik ilan etmez.
 
-USLUP'ta yazıldığı gibi: ayetin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir.
+STYLE'da yazıldığı gibi: ayetin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir.
 
 ### يَئِسُوا۟ — umutsuzluk
 
@@ -1360,6 +1360,6 @@ Metin boyunca birkaç noktada bilerek kesin dil kullanılmadı; okuyucunun bunla
 
 - **60/13'teki benzetmenin yönü.** İki okuma tablo halinde verildi; birincisi daha yaygın ve dizime daha uygun bulundu, ama kesin tercih yapılmadı.
 
-- **60/11'deki *fe-âkabtüm* ve 60/12'deki liste maddeleri için fıkhî hüküm çıkarılmadı.** USLUP gereği bu tefsirde fıkhî hüküm verilmez; mezhep görüşleri de bu bölümde tasnif edilmedi.
+- **60/11'deki *fe-âkabtüm* ve 60/12'deki liste maddeleri için fıkhî hüküm çıkarılmadı.** STYLE gereği bu tefsirde fıkhî hüküm verilmez; mezhep görüşleri de bu bölümde tasnif edilmedi.
 
 - **60/12'deki "kadınların biatı"nın hukukî niteliği hakkında** genelleyici bir sonuç çıkarılmadı; ayetin kaydettiği prosedür olduğu gibi aktarıldı.

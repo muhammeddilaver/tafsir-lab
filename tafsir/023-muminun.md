@@ -91,7 +91,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **أ-م-ن** kökü — **emniyet, güven.** *Mü'min*, IV. bâbdan ism-i fâildir: **güvene kavuşturan / güvenen.** Kök dizinde birçok yerde geçti ve `106-kureys.md`'de (*ve âmenehüm min havf*) ile `059-hasr.md` 59/23'te (*el-Mü'min*) işlendi.
 
-**Ve bir kaydı burada koymak gerekiyor:** sûre boyunca hüküm **gruba değil vasfa** bağlanacaktır. Nitekim yüz on yedinci ayetteki olumsuz karşılık da bir adla değil, **iman etmemek fiiliyle** kuruluyor. **USLUP'ta kayıtlı "toptan hüküm kurulmaz" ilkesinin bu sûredeki karşılığı budur:** ayet bir zümreyi değil, **dokuz ayette sayılan bir hâller bütününü** kurtuluşa bağlıyor.
+**Ve bir kaydı burada koymak gerekiyor:** sûre boyunca hüküm **gruba değil vasfa** bağlanacaktır. Nitekim yüz on yedinci ayetteki olumsuz karşılık da bir adla değil, **iman etmemek fiiliyle** kuruluyor. **STYLE'da kayıtlı "toptan hüküm kurulmaz" ilkesinin bu sûredeki karşılığı budur:** ayet bir zümreyi değil, **dokuz ayette sayılan bir hâller bütününü** kurtuluşa bağlıyor.
 
 ---
 
@@ -253,7 +253,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### مَا مَلَكَتْ أَيْمَٰنُهُمْ
 
-**Terkip, Kur'an'ın indiği dönemde fiilen var olan bir kurumu — köleliği — anmaktadır.** **USLUP gereği burada ne fıkhî hüküm veriyorum ne de tarihî kurumun ayrıntılarına giriyorum.** Kaydedilmesi gereken iki husus vardır ve ikisi de metinden doğrulanabilir:
+**Terkip, Kur'an'ın indiği dönemde fiilen var olan bir kurumu — köleliği — anmaktadır.** **STYLE gereği burada ne fıkhî hüküm veriyorum ne de tarihî kurumun ayrıntılarına giriyorum.** Kaydedilmesi gereken iki husus vardır ve ikisi de metinden doğrulanabilir:
 
 **Bir.** Kur'an bu kurumu **kurmuyor**; indiği toplumda hazır bulduğu bir düzeni anıyor.
 
@@ -451,13 +451,13 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 "**Andolsun, insanı çamurdan süzülmüş bir özden yarattık.**"
 
-### Bu bloğun sınırı — USLUP kaydı, en başa konuyor
+### Bu bloğun sınırı — STYLE kaydı, en başa konuyor
 
 **Bu ayetler dizide birkaç kez işlenen bir alana ait ve her seferinde aynı sınır çizildi. Sınırı burada da baştan koyuyorum:**
 
 > **`040-gafir.md` 40/67'de:** *"nutfe* ve *alaka* kelimelerinin sözlük anlamları dilciler tarafından verilir. **Bunların modern embriyoloji terimleriyle birebir eşitlenmesine girmiyorum;** ayetin işi bir aşama tarifi vermektir ve delil de bu aşamaların **insanın elinde olmamasıdır**."
 
-> **`039-zumer.md` 39/6'da:** *"`040-gafir.md` 40/67'de aynı aşamalı oluşum altı basamakla anlatılmıştı ve orada USLUP sınırı çizilmişti: bu ifadelerin modern embriyoloji terimleriyle birebir eşitlenmesine girilmez. Aynı sınırı burada da koruyorum."*
+> **`039-zumer.md` 39/6'da:** *"`040-gafir.md` 40/67'de aynı aşamalı oluşum altı basamakla anlatılmıştı ve orada STYLE sınırı çizilmişti: bu ifadelerin modern embriyoloji terimleriyle birebir eşitlenmesine girilmez. Aynı sınırı burada da koruyorum."*
 
 > **`032-secde.md` 32/7-9'da** aynı alan işlendi; **`096-alak.md`'de** *alak* kelimesi için beş gerekçeli bir bölüm yazıldı ve embriyoloji iddiası reddedildi; **`075-kiyame.md`, `086-tarik.md`, `077-murselat.md`, `053-necm.md`, `036-yasin.md`, `071-nuh.md`** bölümlerinde aynı tutum korundu.
 
@@ -501,7 +501,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Kök ن-ط-ف: dilcilerin verdiği çekirdek anlam damlamak, sızmaktır.** *Netafe'l-mâ'* — su damladı; *nutfe* — az miktarda su, damla. **Kelime `075-kiyame.md` 75/37'de (*e-lem yekü nutfeten min meniyyin yümnâ*), `076-insan.md` 76/2'de (*min nutfetin emşâc*) ve `040-gafir.md` 40/67'de işlendi.** **Tekrarlamıyorum.**
 
-**USLUP sınırı yukarıda konuldu; kelimenin anlamı bundan ibarettir ve üzerine bir teknik tarif kurulmuyor.**
+**STYLE sınırı yukarıda konuldu; kelimenin anlamı bundan ibarettir ve üzerine bir teknik tarif kurulmuyor.**
 
 ### قَرَارٍ مَّكِين — iki kelime
 
@@ -624,7 +624,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | 3 | **İnsanî yetilerin verilmesi** — akıl, konuşma, ayırt etme | Ayetin *ahsenü'l-hâlikīn* ile bitmesi |
 | 4 | **Doğum** — dışarı çıkış | *Sümme*nin büyük bir aralık bildirmesi |
 
-**İhtilafı aktarıyorum, tercih dayatmıyorum.** **Ve USLUP gereği bir kayıt:** ayet bir keyfiyet vermediği için burada bir keyfiyet üretilmez. `032-secde.md` 32/9'da *min rûhihî* terkibi için konulan kayıt burada da geçerlidir.
+**İhtilafı aktarıyorum, tercih dayatmıyorum.** **Ve STYLE gereği bir kayıt:** ayet bir keyfiyet vermediği için burada bir keyfiyet üretilmez. `032-secde.md` 32/9'da *min rûhihî* terkibi için konulan kayıt burada da geçerlidir.
 
 **Kendi okumam olarak kaydettiğim tek şey şudur ve dayanağı fiilin değişmesidir:** ayet, sayılabilen basamakların ardından **sayılamayan bir basamak** koyuyor. **Önceki altı adım nesne değiştirir; yedincisi cins değiştirir.** Ve metin, o cinsin adını vermiyor. **Bu susma, ayetin yapısının bir parçası olarak okunabilir:** anlatılabilen kısım anlatıldıktan sonra bir eşik konuyor.
 
@@ -711,7 +711,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **İhtilafı aktarıyorum; tercih dayatmıyorum.** **Birinci okumanın sûre içi bir dayanağı vardır ve bunu kaydediyorum:** seksen altıncı ayet *rabbü's-semâvâti's-seb'* diyecek. **Aynı sûre, aynı sayıyı iki ayrı kelimeyle anıyor.**
 
-**Ve USLUP gereği bir sınır:** bu ayet üzerinden **atmosfer katmanları, gök cisimleri kuşakları ya da benzeri modern tasniflerle bir eşleştirmeye girmiyorum.** `086-tarik.md`'de astronomi iddiaları için, `096-alak.md`'de embriyoloji iddiaları için yazılan gerekçeler burada da geçerlidir. **Kelimenin anlamı verilir; ötesi kurulmaz.**
+**Ve STYLE gereği bir sınır:** bu ayet üzerinden **atmosfer katmanları, gök cisimleri kuşakları ya da benzeri modern tasniflerle bir eşleştirmeye girmiyorum.** `086-tarik.md`'de astronomi iddiaları için, `096-alak.md`'de embriyoloji iddiaları için yazılan gerekçeler burada da geçerlidir. **Kelimenin anlamı verilir; ötesi kurulmaz.**
 
 ### وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ
 
@@ -780,7 +780,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Aynı çizgi Mülk 67/30'da da kurulur** (*in asbaha mâüküm ğavran fe-men ye'tîküm bi-mâin maîn*) — **`067-mulk.md`'de işlendi.** Oraya dayanıyorum.
 
-**Ve USLUP gereği bir sınır:** bu ayet üzerinden **yeraltı su tabakaları, akifer yapıları ya da hidrolojik döngü** hakkında bir "önceden haber verme" iddiası kurmuyorum. **Ayetin anlattığı şey gözlemle bilinen bir olgudur:** yağan su yüzeyde kalmaz, yere iner; kuyular ve pınarlar oradan çıkar; ve kuraklıkta bunlar çekilir. **Muhatabın bunu bilmesi için hiçbir özel bilgiye ihtiyacı yoktu** — ve argümanın gücü tam olarak buradan gelir. `077-murselat.md` 77/20-23'te aynı kayıt düşülmüştü.
+**Ve STYLE gereği bir sınır:** bu ayet üzerinden **yeraltı su tabakaları, akifer yapıları ya da hidrolojik döngü** hakkında bir "önceden haber verme" iddiası kurmuyorum. **Ayetin anlattığı şey gözlemle bilinen bir olgudur:** yağan su yüzeyde kalmaz, yere iner; kuyular ve pınarlar oradan çıkar; ve kuraklıkta bunlar çekilir. **Muhatabın bunu bilmesi için hiçbir özel bilgiye ihtiyacı yoktu** — ve argümanın gücü tam olarak buradan gelir. `077-murselat.md` 77/20-23'te aynı kayıt düşülmüştü.
 
 ---
 
@@ -1119,7 +1119,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Ve *bi-a'yüninâ* + *ve vahyinâ* birlikte kaydedilmelidir:** iki şey birden veriliyor — **gözetim** ve **bilgi.** **Yani gemi hem gözetilerek hem tarif edilerek yapılıyor.** Bunu bir dizim gözlemi olarak veriyorum.
 
-**USLUP gereği bir kayıt:** *a'yün* (gözler) terkibi hakkında keyfiyet üretilmez. Dilciler ve müfessirler terkibi genellikle **gözetim ve koruma** olarak açıklar; izahı nakledildiği şekliyle aktarıyorum ve ötesine gitmiyorum.
+**STYLE gereği bir kayıt:** *a'yün* (gözler) terkibi hakkında keyfiyet üretilmez. Dilciler ve müfessirler terkibi genellikle **gözetim ve koruma** olarak açıklar; izahı nakledildiği şekliyle aktarıyorum ve ötesine gitmiyorum.
 
 ### وَفَارَ ٱلتَّنُّورُ
 
@@ -1136,7 +1136,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | 3 | **Belirli bir yer** — nakledilen yer adları vardır |
 | 4 | **Deyim** — "iş kızıştı, tandır kaynadı" gibi bir tabir |
 
-**İhtilafı aktarıyorum; tercih dayatmıyorum.** **Ve nakledilen yer adlarını, kaynağından emin olmadığım için tekrarlamıyorum.** **USLUP gereği kıssada Kur'an'ın vermediği ayrıntıyı eklemiyorum.**
+**İhtilafı aktarıyorum; tercih dayatmıyorum.** **Ve nakledilen yer adlarını, kaynağından emin olmadığım için tekrarlamıyorum.** **STYLE gereği kıssada Kur'an'ın vermediği ayrıntıyı eklemiyorum.**
 
 ### فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ
 
@@ -1454,7 +1454,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | **41** | *Fe-bu'den li'l-kavmi'**z-zâlimîn*** | **Zalimler** — belirli, o kavim |
 | **44** | *Fe-bu'den li-kavmin **lâ yü'minûn*** | **İman etmeyen bir kavim** — belirsiz, genel |
 
-**İki fark kaydedilmelidir: birincisi belirli (*el-kavm*), ikincisi belirsiz (*kavmin*); birincisi zulümle, ikincisi imansızlıkla nitelenmiş.** **Yani dizinin sonunda hüküm bir kavimden bir vasfa geçiyor.** Bu, metinden doğrulanabilir bir farktır ve **USLUP'ta kayıtlı "hüküm gruba değil vasfa bağlanır" ilkesinin bu sûredeki karşılığıdır.**
+**İki fark kaydedilmelidir: birincisi belirli (*el-kavm*), ikincisi belirsiz (*kavmin*); birincisi zulümle, ikincisi imansızlıkla nitelenmiş.** **Yani dizinin sonunda hüküm bir kavimden bir vasfa geçiyor.** Bu, metinden doğrulanabilir bir farktır ve **STYLE'da kayıtlı "hüküm gruba değil vasfa bağlanır" ilkesinin bu sûredeki karşılığıdır.**
 
 ---
 
@@ -1686,7 +1686,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### Yerin adı verilmiyor
 
-**Ayet, tepenin nerede olduğunu söylemiyor.** **Klasik tefsirlerde birkaç yer adı nakledilir; bunları, kaynaklarından emin olmadığım için aktarmıyorum.** **USLUP gereği kıssada Kur'an'ın vermediği ayrıntıyı eklemiyorum.**
+**Ayet, tepenin nerede olduğunu söylemiyor.** **Klasik tefsirlerde birkaç yer adı nakledilir; bunları, kaynaklarından emin olmadığım için aktarmıyorum.** **STYLE gereği kıssada Kur'an'ın vermediği ayrıntıyı eklemiyorum.**
 
 ---
 
@@ -2478,7 +2478,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Ve *ekseruhüm* kaydı kaydedilmelidir: "çoğu".** Hepsi değil.
 
-**Bu, USLUP'ta kayıtlı "toptan hüküm kurulmaz" ilkesinin metinden doğrulanabilir bir örneğidir.** **`037-saffat.md`'nin sonunda aynı husus için bir tablo kurulmuştu** (*ekserü'l-evvelîn* kayıtları). **Oraya dayanıyorum.**
+**Bu, STYLE'da kayıtlı "toptan hüküm kurulmaz" ilkesinin metinden doğrulanabilir bir örneğidir.** **`037-saffat.md`'nin sonunda aynı husus için bir tablo kurulmuştu** (*ekserü'l-evvelîn* kayıtları). **Oraya dayanıyorum.**
 
 ---
 
@@ -3383,7 +3383,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı bu edat farkıdır (*beyne* / *ilâ*):** iki suyun arasındaki engel **iki taraf arasındadır** ve süresizdir; **buradaki engel bir zamana kadar sürüyor.** **Yani kelime aynı işi görüyor — geçişi engelliyor — ama ölçüsü değişiyor.**
 
-#### USLUP kaydı — berzah hayatı hakkında
+#### STYLE kaydı — berzah hayatı hakkında
 
 **Ve burada bir sınır konmalıdır ve açıkça kaydediyorum:**
 
@@ -3397,7 +3397,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | 2 | **Ardlarındadır** | *Min verâihim* |
 | 3 | **Bir zamana kadardır** | *İlâ yevmi yüb'asûn* |
 
-**Bunun ötesinde ayetin verdiği bir bilgi yoktur.** **USLUP'ta kayıtlı olan "emin olmadığın bir sözü nispet etme" ve "kendi çıkarımını nakil gibi gösterme" kuralları burada birebir uygulanıyor.**
+**Bunun ötesinde ayetin verdiği bir bilgi yoktur.** **STYLE'da kayıtlı olan "emin olmadığın bir sözü nispet etme" ve "kendi çıkarımını nakil gibi gösterme" kuralları burada birebir uygulanıyor.**
 
 ***Min verâihim* terkibi üzerinde dilciler bir kayıt düşer ve bunu aktarıyorum:** *verâ'* Arapçada hem **arka** hem **ön** anlamına gelebilir — yani "önlerinde" de okunabilir. **İki okuma da nakledilir; tercih dayatmıyorum.**
 
@@ -4201,7 +4201,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar
 
-**USLUP gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
+**STYLE gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
 
 | Ayet | İhtilaf |
 |---|---|
@@ -4241,7 +4241,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 | **112, 114** | *Kāle* / *kul*; *el-âddîn* kim |
 | **117** | *Burhân* kelimesinin kökeni |
 
-### Bu dosyada çizilen USLUP sınırları
+### Bu dosyada çizilen STYLE sınırları
 
 **Açıkça kaydediyorum:**
 

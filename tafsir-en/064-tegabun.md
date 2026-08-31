@@ -1977,7 +1977,7 @@ And this is like the attitude recorded in `080-abese.md`: there the criticism wa
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list openly the places where certain language was deliberately not used throughout the text:
+Per the method (`STYLE.md`), I list openly the places where certain language was deliberately not used throughout the text:
 
 - **Whether the sūra is Meccan or Medinan.** Three views were given in a table; no preference was adopted. It was stated that the ground of the views is inference within the text rather than transmitted report.
 - **The occasion of revelation.** Because I know of no sound and widely accepted report of an occasion of revelation for the sūra as a whole, none was written. The group of reports transmitted for verse 14 was related with three reservations (it is transmitted; the details do not agree; *al-ʿibratu bi-ʿumūmi'l-lafẓ*) and **no name at all was given.**

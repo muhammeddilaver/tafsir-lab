@@ -81,7 +81,7 @@ The root **خ-ل-ص**: **a thing's separating out from what has been mixed into 
 
 **The use here is worth recording, and it runs in two directions:** *yukawwiru'l-layla ʿala'n-nahāri wa yukawwiru'n-nahāra ʿala'l-layl* — **each is wound over the other.**
 
-**Per the method (`USLUP.md`) I draw a limit:** I derive from this word no firm conclusion about the shape of the earth or its motion. **The dictionary sense of the word is winding and folding; what the verse describes is night and day taking each other's place without a break.** To produce a modern cosmology out of this would be to make the text say what it does not say.
+**Per the method (`STYLE.md`) I draw a limit:** I derive from this word no firm conclusion about the shape of the earth or its motion. **The dictionary sense of the word is winding and folding; what the verse describes is night and day taking each other's place without a break.** To produce a modern cosmology out of this would be to make the text say what it does not say.
 
 ### فِى ظُلُمَٰتٍ ثَلَٰثٍ
 
@@ -89,7 +89,7 @@ The root **خ-ل-ص**: **a thing's separating out from what has been mixed into 
 
 **What the verse itself gives is this, and that much I record:** the forming takes place somewhere **unseen**, and it takes place **by stages** — *khalqan min baʿdi khalq.*
 
-**In `040-gafir.md` at 40/67 the same staged forming had been set out in six steps**, and the limit set by the method (`USLUP.md`) was drawn there: **these expressions are not to be matched one-to-one with the terms of modern embryology.** I keep the same limit here.
+**In `040-gafir.md` at 40/67 the same staged forming had been set out in six steps**, and the limit set by the method (`STYLE.md`) was drawn there: **these expressions are not to be matched one-to-one with the terms of modern embryology.** I keep the same limit here.
 
 **How the proof works is plain:** man's most basic forming is completed in a place hidden from his own eye. **The same line as the one treated in `056-vakia.md` at 56/58-59: the separation of man's share from the outcome.**
 
@@ -634,7 +634,7 @@ The root **ع-و-ج**: **crookedness, warping.** *ʿIwaj* is used for crookednes
 
 **وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا** — the root **ش-ر-ق**: to rise, the spreading of light (*sharq*, *ishrāq* are from the same root).
 
-**A note per the method (`USLUP.md`):** this expression cannot be understood in a way that ascribes a bodily light to God. **It is transmitted that in the classical commentaries the word *nūr* is here interpreted in the sense of justice, or of the judgement coming into the open; the attitude of accepting the wording as it stands and leaving its manner is transmitted as well.** I transmit both; I do not impose a preference.
+**A note per the method (`STYLE.md`):** this expression cannot be understood in a way that ascribes a bodily light to God. **It is transmitted that in the classical commentaries the word *nūr* is here interpreted in the sense of justice, or of the judgement coming into the open; the attitude of accepting the wording as it stands and leaving its manner is transmitted as well.** I transmit both; I do not impose a preference.
 
 **وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ** — *tawfiya*: **to pay in full.** Root **و-ف-ي** — **the same root as *yatawaffa'l-anfus* (to take the souls in full) in the forty-second verse.**
 

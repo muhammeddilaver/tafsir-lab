@@ -95,7 +95,7 @@
 
 **İki okuma da klasik tefsirlerde yer alır ve gramer ikisine de izin verir. Tercih dayatmıyorum.**
 
-**USLUP gereği bir kayıt:** buradan modern astronomiye ya da kütleçekimine dair bir sonuç çıkarmıyorum. **Ayetin işlevi, bir sonraki cümleyle birlikte okunduğunda açıktır: gözle görülen bir düzenin, görünür bir dayanağı olmadan durduğunu söylüyor.**
+**STYLE gereği bir kayıt:** buradan modern astronomiye ya da kütleçekimine dair bir sonuç çıkarmıyorum. **Ayetin işlevi, bir sonraki cümleyle birlikte okunduğunda açıktır: gözle görülen bir düzenin, görünür bir dayanağı olmadan durduğunu söylüyor.**
 
 **رَوَٰسِى** — kök **ر-س-و**: demir atmak, sabitlenmek. **Kök `050-kaf.md` 50/7'de işlendi ve orada geminin demirlemesiyle ilişkisi kaydedildi.** **Tekrarlamıyorum.**
 
@@ -466,7 +466,7 @@
 
 **Bunu bir dizim gözlemi olarak kaydediyorum ve buradan bir sınır çiziyorum:** ayet, **"şu beş şey gaybdır ve başka hiçbir şey bilinemez"** biçiminde bir liste kurmuyor. **Söylediği şey, bu beş alanın Allah'ın bilgisine ait olduğu ve son ikisinde insanın bilgisinin bulunmadığıdır.**
 
-**USLUP gereği bir kayıt daha:** yağmurun indirilmesi ve rahimdeki oluşum hakkında bugün ölçülebilen şeylerin varlığı, bu ayetle çelişmez — **çünkü ayet ölçümden değil, *ilim*den söz ediyor** ve dördüncü ile beşinci maddede olumsuzlamayı açıkça insana bağlıyor. **Bu ayeti bilimsel bir imkânsızlık iddiası gibi okumak, metnin kendi dizimine aykırıdır. Bunu kendi okumam olarak kaydediyorum.**
+**STYLE gereği bir kayıt daha:** yağmurun indirilmesi ve rahimdeki oluşum hakkında bugün ölçülebilen şeylerin varlığı, bu ayetle çelişmez — **çünkü ayet ölçümden değil, *ilim*den söz ediyor** ve dördüncü ile beşinci maddede olumsuzlamayı açıkça insana bağlıyor. **Bu ayeti bilimsel bir imkânsızlık iddiası gibi okumak, metnin kendi dizimine aykırıdır. Bunu kendi okumam olarak kaydediyorum.**
 
 **Ve son iki maddenin seçimi kaydedilmeye değer:** *mâzâ teksibü ğadâ* (yarın ne kazanacağın) ve *bi-eyyi ardın temût* (nerede öleceğin). **Biri en yakın gelecek, öteki en kesin son.** **Yani insanın bilmediği şey, en uzak olan değil — en yakın olandır.**
 

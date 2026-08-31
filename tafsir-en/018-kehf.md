@@ -476,7 +476,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 ### وَأَمَّا ٱلْغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن يُرْهِقَهُمَا طُغْيَٰنًا وَكُفْرًا (80)
 
-**A record, per the method (`USLUP.md`):** this act **is not presented as work a human being could do on his own decision.** **Indeed the eighty-second verse will say this plainly: *wa mā faʿaltuhu ʿan amrī* — "I did not do it of my own accord."**
+**A record, per the method (`STYLE.md`):** this act **is not presented as work a human being could do on his own decision.** **Indeed the eighty-second verse will say this plainly: *wa mā faʿaltuhu ʿan amrī* — "I did not do it of my own accord."**
 
 **This sentence is the ruling of the story, and I record this as my own reading:** **no general rule of conduct** can be derived from the story; **what can be derived is the deferral of judgement where knowledge is lacking** — indeed the sixty-eighth verse had said this from the outset.
 
@@ -504,7 +504,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 "**They ask you about Dhū'l-Qarnayn. Say: I shall recite to you a remembrance of him.**"
 
-### A frame, per the method (`USLUP.md`)
+### A frame, per the method (`STYLE.md`)
 
 **Who Dhū'l-Qarnayn was is not reported in the Qurʾān.** It is transmitted that in the classical and the modern sources he has been matched with various historical figures; **none of these is certain knowledge, and no preference is adopted among them in this commentary.**
 
@@ -518,7 +518,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 **I record this as my own reading, and its support is the verb itself:** the sentence does **not report** where the sun sets; it recounts **what Dhū'l-Qarnayn saw**. **The verb is bound to the position of the observer.** And the same verb is used in the next scene as well: *wajadahā taṭluʿu ʿalā qawmin* (90).
 
-**I write this plainly, per the method (`USLUP.md`):** no ruling about the physical position of the sun can be derived from this verse — **neither an accusation of the form "the Qurʾān says the sun sets in mud", nor the gleaning of some pointer to modern astronomy from it.** Both are making the text say what it does not say.
+**I write this plainly, per the method (`STYLE.md`):** no ruling about the physical position of the sun can be derived from this verse — **neither an accusation of the form "the Qurʾān says the sun sets in mud", nor the gleaning of some pointer to modern astronomy from it.** Both are making the text say what it does not say.
 
 **حَمِئَة** — root **ح-م-أ**: **black mud.** **A variant reading is transmitted: there is also the reading *ḥāmiya* (burning, hot), and it changes the sense.** **I record both readings and do not impose a preference.**
 
@@ -530,7 +530,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 ### يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ (94)
 
-**Per the method (`USLUP.md`): the knowledge the Qurʾān gives about Yaʾjūj and Maʾjūj is limited** — they are mentioned here and in al-Anbiyāʾ 21/96. **What is transmitted about their identity, their place and their time is not certain knowledge; no speculation is entered into in this commentary.**
+**Per the method (`STYLE.md`): the knowledge the Qurʾān gives about Yaʾjūj and Maʾjūj is limited** — they are mentioned here and in al-Anbiyāʾ 21/96. **What is transmitted about their identity, their place and their time is not certain knowledge; no speculation is entered into in this commentary.**
 
 ### قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا (95)
 

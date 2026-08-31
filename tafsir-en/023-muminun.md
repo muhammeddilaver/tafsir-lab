@@ -91,7 +91,7 @@ The sūra consists of eight blocks. The block boundaries are for the most part d
 
 The root **أ-م-ن** — **safety, security.** *Muʾmin* is the active participle of Form IV: **the one who brings to safety / the one who trusts.** The root has occurred in many places across this series and was treated in `106-kureys.md` (*wa āmanahum min khawf*) and at `059-hasr.md` 59/23 (*al-Muʾmin*).
 
-**And an entry must be placed here:** throughout the sūra the verdict will be attached **not to a group but to an attribute.** Accordingly the negative counterpart in the hundred and seventeenth verse is likewise built not with a name but **with the act of not believing.** **This is what the principle recorded in `USLUP.md` — that no blanket ruling is issued about a group — comes to in this sūra:** the verse attaches deliverance not to a faction but to **a whole set of states enumerated across nine verses.**
+**And an entry must be placed here:** throughout the sūra the verdict will be attached **not to a group but to an attribute.** Accordingly the negative counterpart in the hundred and seventeenth verse is likewise built not with a name but **with the act of not believing.** **This is what the principle recorded in `STYLE.md` — that no blanket ruling is issued about a group — comes to in this sūra:** the verse attaches deliverance not to a faction but to **a whole set of states enumerated across nine verses.**
 
 ---
 
@@ -253,7 +253,7 @@ The root **أ-م-ن** — **safety, security.** *Muʾmin* is the active particip
 
 ### مَا مَلَكَتْ أَيْمَٰنُهُمْ
 
-**The construction names an institution that in fact existed in the period the Qurʾān was revealed — slavery.** **Per the method (`USLUP.md`), I issue no legal ruling here and I do not go into the details of the historical institution.** Two matters must be recorded, and both can be verified from the text:
+**The construction names an institution that in fact existed in the period the Qurʾān was revealed — slavery.** **Per the method (`STYLE.md`), I issue no legal ruling here and I do not go into the details of the historical institution.** Two matters must be recorded, and both can be verified from the text:
 
 **One.** The Qurʾān does not **establish** this institution; it names an arrangement it found already in place in the society into which it was revealed.
 
@@ -624,7 +624,7 @@ The root **أ-م-ن** — **safety, security.** *Muʾmin* is the active particip
 | 3 | **The giving of the human faculties** — reason, speech, discrimination | The verse ending with *aḥsanu'l-khāliqīn* |
 | 4 | **Birth** — the coming out | *Thumma* reporting a large gap |
 
-**I pass the disagreement on; I do not impose a preference.** **And an entry, per the method (`USLUP.md`):** since the verse gives no modality, no modality is produced here. The entry set for the construction *min rūḥihī* at `032-secde.md` 32/9 holds here as well.
+**I pass the disagreement on; I do not impose a preference.** **And an entry, per the method (`STYLE.md`):** since the verse gives no modality, no modality is produced here. The entry set for the construction *min rūḥihī* at `032-secde.md` 32/9 holds here as well.
 
 **The only thing I record as my own reading is this, and its ground is the change of verb:** after steps that can be counted, the verse sets **a step that cannot be counted.** **The preceding six steps change the object; the seventh changes the kind.** And the text does not give the name of that kind. **This silence can be read as a part of the structure of the verse:** after the part that can be told has been told, a threshold is set.
 
@@ -711,7 +711,7 @@ The root **أ-م-ن** — **safety, security.** *Muʾmin* is the active particip
 
 **I pass the disagreement on; I do not impose a preference.** **The first reading has a ground within the sūra, and I record it:** the eighty-sixth verse will say *rabbu'l-samāwāti'l-sabʿ*. **The same sūra names the same number with two different words.**
 
-**And a limit, per the method (`USLUP.md`):** on the basis of this verse **I do not enter into any matching with layers of the atmosphere, belts of celestial bodies or similar modern classifications.** The grounds written in `086-tarik.md` for astronomical claims and in `096-alak.md` for embryological claims hold here as well. **The meaning of the word is given; nothing is built beyond it.**
+**And a limit, per the method (`STYLE.md`):** on the basis of this verse **I do not enter into any matching with layers of the atmosphere, belts of celestial bodies or similar modern classifications.** The grounds written in `086-tarik.md` for astronomical claims and in `096-alak.md` for embryological claims hold here as well. **The meaning of the word is given; nothing is built beyond it.**
 
 ### وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَٰفِلِينَ
 
@@ -780,7 +780,7 @@ The root **س-ك-ن**: **the ceasing of motion, settling in a place.** *Sukūn* 
 
 **The same line is drawn at al-Mulk 67/30 as well** (*in aṣbaḥa māʾukum ghawran fa-man yaʾtīkum bi-māʾin maʿīn*) — **treated in `067-mulk.md`.** I rely on that treatment.
 
-**And a limit, per the method (`USLUP.md`):** on the basis of this verse **I build no claim of "foretelling" about underground water tables, aquifer structures or the hydrological cycle.** **What the verse describes is a phenomenon known by observation:** the water that falls does not stay on the surface, it goes down into the ground; wells and springs come out of it; and in drought these recede. **The one addressed needed no special knowledge to know this** — and the force of the argument comes from exactly that. The same entry was made at `077-murselat.md` 77/20-23.
+**And a limit, per the method (`STYLE.md`):** on the basis of this verse **I build no claim of "foretelling" about underground water tables, aquifer structures or the hydrological cycle.** **What the verse describes is a phenomenon known by observation:** the water that falls does not stay on the surface, it goes down into the ground; wells and springs come out of it; and in drought these recede. **The one addressed needed no special knowledge to know this** — and the force of the argument comes from exactly that. The same entry was made at `077-murselat.md` 77/20-23.
 
 ---
 
@@ -1119,7 +1119,7 @@ The root **ر-ب-ص**: **to wait, to watch, to keep a lookout for something to h
 
 **And *bi-aʿyuninā* + *wa waḥyinā* must be recorded together:** two things are given at once — **oversight** and **instruction.** **The ship, that is, is built both under watch and by description.** I give this as an observation about the word order.
 
-**An entry, per the method (`USLUP.md`):** no modality is produced about the construction *aʿyun* (eyes). The lexicographers and the exegetes generally explain the construction as **watching over and protection**; I pass the explanation on as it is transmitted and go no further.
+**An entry, per the method (`STYLE.md`):** no modality is produced about the construction *aʿyun* (eyes). The lexicographers and the exegetes generally explain the construction as **watching over and protection**; I pass the explanation on as it is transmitted and go no further.
 
 ### وَفَارَ ٱلتَّنُّورُ
 
@@ -1136,7 +1136,7 @@ The root **ف-و-ر**: **to boil, to gush, to overflow.** *Fāra'l-qidr* — the
 | 3 | **A particular place** — place names are transmitted |
 | 4 | **An idiom** — an expression like "things came to the boil" |
 
-**I pass the disagreement on; I do not impose a preference.** **And I do not repeat the place names that are transmitted, since I am not certain of their source.** **Per the method (`USLUP.md`), I do not add to the narrative a detail the Qurʾān does not give.**
+**I pass the disagreement on; I do not impose a preference.** **And I do not repeat the place names that are transmitted, since I am not certain of their source.** **Per the method (`STYLE.md`), I do not add to the narrative a detail the Qurʾān does not give.**
 
 ### فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ
 
@@ -1454,7 +1454,7 @@ The root **غ-ث-و / غ-ث-ي**: **the debris a torrent carries down, the froth
 | **41** | *fa-buʿdan li'l-qawmi'**l-ẓālimīn*** | **The wrongdoers** — definite, that people |
 | **44** | *fa-buʿdan li-qawmin **lā yuʾminūn*** | **A people who do not believe** — indefinite, general |
 
-**Two differences must be recorded: the first is definite (*al-qawm*), the second indefinite (*qawmin*); the first is qualified by wrongdoing, the second by not believing.** **At the end of the sequence, that is, the verdict passes from a people to an attribute.** This is a difference that can be verified from the text, and **it is what the principle recorded in `USLUP.md` — that a verdict is attached to an attribute and not to a group — comes to in this sūra.**
+**Two differences must be recorded: the first is definite (*al-qawm*), the second indefinite (*qawmin*); the first is qualified by wrongdoing, the second by not believing.** **At the end of the sequence, that is, the verdict passes from a people to an attribute.** This is a difference that can be verified from the text, and **it is what the principle recorded in `STYLE.md` — that a verdict is attached to an attribute and not to a group — comes to in this sūra.**
 
 ---
 
@@ -1686,7 +1686,7 @@ The root **ر-ب-و**: **to increase, to rise, to swell.** **The root was worked
 
 ### The place is not named
 
-**The verse does not say where the height is.** **A few place names are transmitted in the classical commentaries; I do not pass them on, since I am not certain of their sources.** **Per the method (`USLUP.md`), I do not add to the narrative a detail the Qurʾān does not give.**
+**The verse does not say where the height is.** **A few place names are transmitted in the classical commentaries; I do not pass them on, since I am not certain of their sources.** **Per the method (`STYLE.md`), I do not add to the narrative a detail the Qurʾān does not give.**
 
 ---
 
@@ -2478,7 +2478,7 @@ The root **ك-ر-ه**: **to dislike, not to want; and compulsion (*ikrāh*).** T
 
 **And the qualification *aktharuhum* must be recorded: "most of them".** Not all.
 
-**This is an instance, verifiable from the text, of the principle recorded in `USLUP.md` that no blanket ruling is issued.** **A table was built for the same point at the end of `037-saffat.md`** (the entries on *aktharu'l-awwalīn*). **I rely on that treatment.**
+**This is an instance, verifiable from the text, of the principle recorded in `STYLE.md` that no blanket ruling is issued.** **A table was built for the same point at the end of `037-saffat.md`** (the entries on *aktharu'l-awwalīn*). **I rely on that treatment.**
 
 ---
 
@@ -3397,7 +3397,7 @@ The root **ح-ض-ر**: **to be present, to be at hand.** *Ḥāḍir* — the on
 | 2 | **It is behind them** | *min warāʾihim* |
 | 3 | **It lasts until a time** | *ilā yawmi yubʿathūn* |
 
-**Beyond this the verse gives no information.** **The rules recorded in `USLUP.md` — "do not ascribe a saying you are not sure of" and "do not present your own inference as a transmitted report" — are applied here exactly.**
+**Beyond this the verse gives no information.** **The rules recorded in `STYLE.md` — "do not ascribe a saying you are not sure of" and "do not present your own inference as a transmitted report" — are applied here exactly.**
 
 **The lexicographers enter a note on the construction *min warāʾihim*, and I pass it on:** *warāʾ* in Arabic can mean both **behind** and **in front** — so it can also be read "before them". **Both readings are transmitted; I do not impose a preference.**
 
@@ -4201,7 +4201,7 @@ The root **ك-ر-م**: **to be precious, to be generous.** **The root was treate
 
 ### Disagreements on which no preference is adopted in this commentary
 
-**I record this per the method (`USLUP.md`): in the places below two or more readings were transmitted, and in none of them was a preference imposed.**
+**I record this per the method (`STYLE.md`): in the places below two or more readings were transmitted, and in none of them was a preference imposed.**
 
 | Verse | The disagreement |
 |---|---|

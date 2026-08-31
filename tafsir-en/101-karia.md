@@ -356,7 +356,7 @@ By using this pattern the sūra divides mankind in two. In the fourth verse ther
 
 So the movement of the sūra is this: **one → two.** First everyone becomes the same (the moths), then they are divided in two (the balance).
 
-And this must be stated: **the sūra does not say who is on which side.** It gives the criterion, not the list. This accords with the principle recorded in the method of this commentary (`USLUP.md`): what the verses describe are attributes, and whoever bears that attribute is included in it.
+And this must be stated: **the sūra does not say who is on which side.** It gives the criterion, not the list. This accords with the principle recorded in the method of this commentary (`STYLE.md`): what the verses describe are attributes, and whoever bears that attribute is included in it.
 
 ### ثَقُلَتْ — to weigh heavy
 

@@ -1427,7 +1427,7 @@ Two neighbouring sūras use the same root in two scenes whose ends do not resemb
 
 This expression falls within the group of verses called **mutashābih** in the Qurʾān: its wording ascribes to God a verb used of human beings, and it is not easy to issue a firm ruling on its meaning.
 
-In this commentary I take no theological side; by the measure recorded in `USLUP.md` I convey the two main attitudes as they are.
+In this commentary I take no theological side; by the measure recorded in `STYLE.md` I convey the two main attitudes as they are.
 
 | Attitude | What it says | Its ground |
 |---|---|---|

@@ -182,7 +182,7 @@ The sky is the most unchanging thing in human experience. Cities fall, states en
 
 What the verse does is to remove the last fortress of constancy. And it does this not with a threat but with a **note of time**: *idhā* — "when that time comes".
 
-A boundary must be drawn: to build a bridge from here to modern cosmology is a forcing of the kind forbidden in `USLUP.md`, and it will not be done. The verse does not state a proposition of physics; by using one word — *faṭr* — for both the beginning and the end, it says that **the two ends of existing are the same verb**. This is not a measurable claim; it is a way of looking.
+A boundary must be drawn: to build a bridge from here to modern cosmology is a forcing of the kind forbidden in `STYLE.md`, and it will not be done. The verse does not state a proposition of physics; by using one word — *faṭr* — for both the beginning and the end, it says that **the two ends of existing are the same verb**. This is not a measurable claim; it is a way of looking.
 
 The practical consequence of that way of looking is this: **that a thing has remained the same for a long time is not proof that it is permanent.** The human mind infers permanence from continuity; this is an inference that works but is invalid. In the sixth verse the sūra will ask man "what deceived you?"; this is exactly one of the sources of the deception.
 

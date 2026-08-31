@@ -560,7 +560,7 @@ Ayet gecenin niçin daha uygun olduğunu açıklamıyor; sadece öyle olduğunu 
 
 Bunların üçü de ayetin söylediklerinden çıkarılabilir mi? Hayır. **Bunlar benim gözlemlerimdir**, ayetin gerekçesi değil. Ayet gerekçe vermiyor; ölçü veriyor.
 
-Ve modern uyku ve dikkat araştırmalarında gece uyanıklığının bilişsel etkileri üzerine bir literatür bulunduğunu biliyorum; ama bu literatürün bulguları tartışmalıdır ve kişiden kişiye değişir. **Ayeti oraya bağlamıyorum.** USLUP'un "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu sınırı korumak içindir.
+Ve modern uyku ve dikkat araştırmalarında gece uyanıklığının bilişsel etkileri üzerine bir literatür bulunduğunu biliyorum; ama bu literatürün bulguları tartışmalıdır ve kişiden kişiye değişir. **Ayeti oraya bağlamıyorum.** STYLE'ın "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu sınırı korumak içindir.
 
 ---
 
@@ -950,7 +950,7 @@ Yani anlam "beni bırak, onları da bırak" değil; **"beni onlarla yalnız bır
 
 **Bu kalıp Kur'an'da birkaç yerde geçer ve hepsi aynı işi yapar:** hesabı muhataptan alıp konuşana devretmek. Bir sonraki sûrenin on birinci ayeti aynı kelimeyle açılacak: *zernî ve men halaktü vahîdâ*.
 
-**İki sûrenin on birinci ayeti de aynı fiille başlıyor.** Bu örtüşmeyi bir gözlem olarak kaydediyorum; ayet numaralarının denk gelmesi üzerine hiçbir iddia kurmuyorum — mushaftaki ayet bölümlemesi ayrı bir meseledir ve bu tür sayısal örtüşmelerden hüküm çıkarmak USLUP'un yasakladığı türden bir işlemdir.
+**İki sûrenin on birinci ayeti de aynı fiille başlıyor.** Bu örtüşmeyi bir gözlem olarak kaydediyorum; ayet numaralarının denk gelmesi üzerine hiçbir iddia kurmuyorum — mushaftaki ayet bölümlemesi ayrı bir meseledir ve bu tür sayısal örtüşmelerden hüküm çıkarmak STYLE'ın yasakladığı türden bir işlemdir.
 
 ### Emrin yönü: iş devrediliyor
 
@@ -971,7 +971,7 @@ Bab farkı önemlidir:
 
 Ayet ikincisini kullanıyor. **Yani suçlanan şey yalan söylemek değil, gelen sözü yalan saymaktır.**
 
-Ve ism-i fâil çoğul olarak (*el-mükezzibîn*) geldiği için, bu bir **sıfat**tır — bir grup adı değil. USLUP'ta kaydedildiği gibi: ayetin tarif ettiği vasıftır; kim o vasfı taşırsa ona dahildir.
+Ve ism-i fâil çoğul olarak (*el-mükezzibîn*) geldiği için, bu bir **sıfat**tır — bir grup adı değil. STYLE'da kaydedildiği gibi: ayetin tarif ettiği vasıftır; kim o vasfı taşırsa ona dahildir.
 
 ### أُو۟لِى ٱلنَّعْمَة — burada bir vurgu farkı var
 
@@ -1281,7 +1281,7 @@ Ama **ayetin ad vermemesi anlamlıdır** ve bir yapı kuruyor:
 
 **İki tarafta da ad yok.** Kıyasın kurulduğu şey kişiler değil, **durum**: bir elçi geldi, karşı gelindi, sonuç şu oldu.
 
-Bu, USLUP'ta kaydedilen ilkeyle uyumludur: metin vasıf ve durum tarif ediyor, kimlik değil.
+Bu, STYLE'da kaydedilen ilkeyle uyumludur: metin vasıf ve durum tarif ediyor, kimlik değil.
 
 ### فَعَصَىٰ — karşı geldi
 
@@ -1454,7 +1454,7 @@ Klasik kaynaklarda birkaç izah verilir:
 | **Nisbet anlamı** | *Münfatır*, "yarılma sahibi" (*zâtü'nfitâr*) demektir; nisbet sıfatları müzekker gelebilir | Dilcilerin kaydettiği bir kullanım; *hâid*, *tâlik* gibi örnekler verilir |
 | **Vurgu** | Müzekker gelişi, olayın büyüklüğünü bildiren bir sapmadır | En zayıf izah; gramer sapmalarına anlam yüklemek risklidir |
 
-**Bir tercih dayatmıyorum.** Üçüncü izah dilciler arasında en çok işlenenidir; ama kesin bir sonuç yoktur ve dördüncüsünü zayıf bulduğumu belirtmem gerekiyor — çünkü her gramer sapmasından anlam çıkarmak, USLUP'un uyardığı türden bir zorlamadır.
+**Bir tercih dayatmıyorum.** Üçüncü izah dilciler arasında en çok işlenenidir; ama kesin bir sonuç yoktur ve dördüncüsünü zayıf bulduğumu belirtmem gerekiyor — çünkü her gramer sapmasından anlam çıkarmak, STYLE'ın uyardığı türden bir zorlamadır.
 
 ### بِهِ — "onunla"
 
@@ -2238,7 +2238,7 @@ Bunu bir yönetim ilkesi olarak ayetten çıkarmıyorum. Ayet bir yönetim öğr
 - 73/10'daki *hecran cemîlâ*'nın Kur'an'daki *cemîl* kullanımları içindeki yeri bir dağılım gözlemi olarak verildi; **liste hafızama dayanıyor, tam bir tarama iddiası taşımıyor.**
 - 73/10'un bir savaş ya da misilleme emri olmadığı belirtildi; bu tutumun hangi dönemde geçerli olduğu ve sonraki ayetlerle ilişkisi konusundaki fıkhî tartışmaya **girilmedi ve hüküm verilmedi.**
 - 73/11'deki *na'me* / *ni'me* hareke farkı ve ayetteki okuyuşun *na'me* (refah) olduğu kaydedildi. **Muhalefetin sınıfsal tarafı işlenirken `089-fecr.md`'deki denge korundu:** bolluk bir suç ilan edilmedi, ve belirli kişileri ayetin tarifine yerleştirmenin metnin yasakladığı işlem olduğu tekrar belirtildi.
-- Müzzemmil ile Müddessir'in on birinci ayetlerinin aynı fiille başlaması bir gözlem olarak verildi; **ayet numaralarının örtüşmesinden hiçbir sonuç çıkarılmadı** ve bu tür sayısal işlemlerin USLUP'ça yasaklandığı belirtildi.
+- Müzzemmil ile Müddessir'in on birinci ayetlerinin aynı fiille başlaması bir gözlem olarak verildi; **ayet numaralarının örtüşmesinden hiçbir sonuç çıkarılmadı** ve bu tür sayısal işlemlerin STYLE'ca yasaklandığı belirtildi.
 - 73/12-13'teki dört azap öğesinin "dışarıdan içeriye" sıralandığı okuması benim çıkarımımdır.
 - 73/14'teki dağ görüntülerinin bir "hafifleme dizisi" oluşturduğu okuması benim tasnifimdir. Kumun parçalanmış kaya olduğu gözlemi bir jeoloji iddiası olarak sunulmadı.
 - Firavun örneğinin "en fazla imkâna sahip muhalif" olduğu için seçildiği okuması kendi okumam olarak işaretlendi.

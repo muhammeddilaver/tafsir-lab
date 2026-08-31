@@ -36,7 +36,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlelerin sırasıdır:** ayet somut bir tarif veriyor, sonra tarifin sonu olmadığını söylüyor. **Yani sayı bir bilgi olarak değil, bir ölçek olarak veriliyor.**
 
-**Melekler hakkında USLUP gereği bir kayıt:** metnin bildirdiğinin ötesinde tasvir üretilmez. **`072-cin.md`'de görünmeyen varlıklar hakkında aynı sınır konulmuştu; oraya dayanıyorum.**
+**Melekler hakkında STYLE gereği bir kayıt:** metnin bildirdiğinin ötesinde tasvir üretilmez. **`072-cin.md`'de görünmeyen varlıklar hakkında aynı sınır konulmuştu; oraya dayanıyorum.**
 
 **Ve meleklerin bu ayette anılma sebebi kaydedilmelidir: *rusülâ* — elçiler.** Yani sıfatları görev üzerinden veriliyor.
 
@@ -385,7 +385,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 
 **Ve cümlenin i'râbı üzerinde dilciler durur:** *innemâ yahşallâhe … el-ulemâü* — **fâil *el-ulemâ*, mef'ûl *Allâhe*.** Yani "âlimler Allah'tan korkar." **Bazı dilciler tersini de tartışmıştır; ancak yaygın okuma budur ve kelimelerin harekesi bunu gösterir.**
 
-**USLUP gereği bir kayıt:** buradaki *ulemâ*, belirli bir meslek grubu olarak anlaşılamaz. **Ayetin bağlamı, iki ayet boyunca sayılan tabiat gözlemleridir** — ve bilme fiili orada geçiyor. **Bunu bir gözlem olarak kaydediyorum; kelimenin kapsamını daraltan bir hüküm kurmuyorum.**
+**STYLE gereği bir kayıt:** buradaki *ulemâ*, belirli bir meslek grubu olarak anlaşılamaz. **Ayetin bağlamı, iki ayet boyunca sayılan tabiat gözlemleridir** — ve bilme fiili orada geçiyor. **Bunu bir gözlem olarak kaydediyorum; kelimenin kapsamını daraltan bir hüküm kurmuyorum.**
 
 ---
 

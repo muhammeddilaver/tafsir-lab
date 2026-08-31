@@ -1353,7 +1353,7 @@ And the sūra's own stance prevents it as well: the criticism is said, it ends, 
 
 The sūra's third verse forbids exactly this: *what do you know?* If we cannot rank because we do not know where a person will arrive, then for the same reason we cannot judge either. To take the sūra in hand and say "that man too falls under ʿAbasa's description" is to re-join the vein the sūra cut.
 
-Per the method (`USLUP.md`), a further point must be recorded: the sūra does not describe a group, a class, a section of society. It describes **attributes**.
+Per the method (`STYLE.md`), a further point must be recorded: the sūra does not describe a group, a class, a section of society. It describes **attributes**.
 
 ### What this says to the present
 
@@ -1407,7 +1407,7 @@ This is as much a diagnosis as a threat. For there is no need to wait for the re
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list openly the places throughout the text where definite language was deliberately not used:
+Per the method (`STYLE.md`), I list openly the places throughout the text where definite language was deliberately not used:
 
 - **The report of the occasion of revelation.** There is broad agreement in the sources on the meaning of the report; there is none on its details. I stated that it is attributed to ʿĀʾisha and that it is found in sources among which is al-Tirmidhī; I did not quote its wording verbatim. There are differences among its variants.
 - **The name of the blind Companion.** In the reports he appears as ʿAbd Allāh b. Umm Maktūm; in some transmissions his name is ʿAmr. I recorded this difference.

@@ -685,7 +685,7 @@ The particle **مِنْ** here states the **partitive**: a part of a whole. That
 
 This caveat is important in both directions. On the one hand it makes the promise realistic: the text does not say that all enmity will end. On the other hand it recalls the function of the particle *min* discussed at length in the section on al-Bayyina: when the Qurʾān speaks about a community it frequently uses a particle of division and avoids establishing a wholesale ruling.
 
-Per the method (`USLUP.md`), no wholesale ruling is issued about a group in this commentary; and here the text itself applies that principle.
+Per the method (`STYLE.md`), no wholesale ruling is issued about a group in this commentary; and here the text itself applies that principle.
 
 ### وَٱللَّهُ قَدِيرٌ — why this name?
 
@@ -1224,7 +1224,7 @@ And recall what has come in between: the prohibition was laid down (1), its grou
 
 This construct is from the same root as **ٱلْمَغْضُوبِ عَلَيْهِمْ** in the last verse of al-Fātiḥa.
 
-And here there is a caveat that must, per the method (`USLUP.md`), be written plainly: **this expression does not give a community a permanent label.**
+And here there is a caveat that must, per the method (`STYLE.md`), be written plainly: **this expression does not give a community a permanent label.**
 
 The reasons are these:
 
@@ -1234,7 +1234,7 @@ The reasons are these:
 
 **Third, the seventh verse within the sūra itself.** *"Perhaps God will put an affection between you and those with whom you are at enmity."* A sūra that says positions can change does not at its end declare an unchanging identity.
 
-As is written in the method (`USLUP.md`): what the verse describes are **attributes**; whoever carries that attribute is included in it.
+As is written in the method (`STYLE.md`): what the verse describes are **attributes**; whoever carries that attribute is included in it.
 
 ### يَئِسُوا۟ — despair
 
@@ -1360,6 +1360,6 @@ At several points throughout the text a definite language was deliberately not u
 
 - **The direction of the comparison at 60/13.** Two readings were given in a table; the first was found more widespread and more suited to the word order, but no definite preference was adopted.
 
-- **No legal ruling was drawn from *fa-ʿāqabtum* at 60/11 or from the articles of the list at 60/12.** Per the method (`USLUP.md`) no legal ruling is issued in this commentary; nor were the views of the schools of law classified in this section.
+- **No legal ruling was drawn from *fa-ʿāqabtum* at 60/11 or from the articles of the list at 60/12.** Per the method (`STYLE.md`) no legal ruling is issued in this commentary; nor were the views of the schools of law classified in this section.
 
 - **On the legal character of "the women's pledge" at 60/12** no generalising conclusion was drawn; the procedure the verse records was conveyed as it is.

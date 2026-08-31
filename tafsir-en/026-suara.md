@@ -543,7 +543,7 @@ In summary: the core of the root **ع-ز-ز** is **hardness, resistance to wear*
 
 **What they are is said first, then who they are.** The attribute has been brought forward, the name comes after.
 
-**I record this as my own reading, and its ground is the order:** the reason for the mission is not identity but **deed**. The same technique was recorded in `089-fecr.md` too where the peoples are named — the Qurʾān targets a community not by its name but by its **attribute**. This is the textual ground of the principle recorded in `USLUP.md`: the judgement is built not on an ethnic or religious group but on the **attribute**.
+**I record this as my own reading, and its ground is the order:** the reason for the mission is not identity but **deed**. The same technique was recorded in `089-fecr.md` too where the peoples are named — the Qurʾān targets a community not by its name but by its **attribute**. This is the textual ground of the principle recorded in `STYLE.md`: the judgement is built not on an ethnic or religious group but on the **attribute**.
 
 ### أَلَا يَتَّقُونَ — the mould of the sūra, in the reversed person
 
@@ -1594,7 +1594,7 @@ The root **ط-و-د**: **a high and unshakeable mountain.** *Ṭawd*, unlike an 
 
 **The work of the comparison must be recorded:** the verse says the water divided in two and likens the divided parts to **a mountain**. **There are two points to the respect in which the comparison is made: height and stillness.** The water comes into a state of not flowing and standing high — that is, **the reverse of its own nature**.
 
-**I record this as an observation; I set up no explanation in physics of how the water stood.** No hunting for scientific miracles is done in this commentary (`USLUP.md`).
+**I record this as an observation; I set up no explanation in physics of how the water stood.** No hunting for scientific miracles is done in this commentary (`STYLE.md`).
 
 ### وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِين — bringing near
 
@@ -3204,7 +3204,7 @@ The root **ع-د-و**: **to overstep the limit, to pass the bound, to transgress
 
 **And the particle *bal* must be recorded:** *bal antum qawmun ʿādūn.* **In the seventy-fourth verse the same particle was in the people's mouth** (*bal wajadnā ābāʾanā*); here it is in the messenger's. **The particle announces the leaving of one statement and the passing to the real point:** "the real matter is that you are a people who overstep the bound."
 
-**And that the description rests on an attribute must be recorded:** *qawmun ʿādūn* is not the name of a community but **an attribute**. This is the same as the principle recorded in the eleventh verse of the sūra and accords with the principle recorded in `USLUP.md`: **the judgement is built not on who they are but on what they do.**
+**And that the description rests on an attribute must be recorded:** *qawmun ʿādūn* is not the name of a community but **an attribute**. This is the same as the principle recorded in the eleventh verse of the sūra and accords with the principle recorded in `STYLE.md`: **the judgement is built not on who they are but on what they do.**
 
 ---
 
@@ -3242,7 +3242,7 @@ The root **ق-ل-ي**: **to dislike intensely, to loathe, to detest.** The lexic
 
 **The object of the loathing is not the persons but the *deed*.** The verse does not say *innī lakum mina'l-qālīn* ("I am one of those who detest you").
 
-**I record this as my own reading, and its ground is the preposition (*li-ʿamalikum*):** the distinction is plain in the sentence — the act is separated from the actor. **And this is the textual counterpart of the principle recorded in `USLUP.md`: the judgement is built not on the persons themselves but on the act described.**
+**I record this as my own reading, and its ground is the preposition (*li-ʿamalikum*):** the distinction is plain in the sentence — the act is separated from the actor. **And this is the textual counterpart of the principle recorded in `STYLE.md`: the judgement is built not on the persons themselves but on the act described.**
 
 **And the next verse continues the same distinction:** *najjinī wa ahlī **mimmā yaʿmalūn*** — "save me from **what they do**", not "from them".
 
@@ -3712,7 +3712,7 @@ The root **ع-ج-م**: the core the lexicographers give is **obscurity, unintell
 
 **The *al-aʿjamīn* of the verse is in the first sense: those whose speech is not understood.** The measure, that is, is not lineage but **intelligibility**.
 
-**This distinction must be recorded, because this is where a judgement would be built:** the verse takes as its subject not a nation but **a linguistic situation**. **This accords with the principle recorded in `USLUP.md`.**
+**This distinction must be recorded, because this is where a judgement would be built:** the verse takes as its subject not a nation but **a linguistic situation**. **This accords with the principle recorded in `STYLE.md`.**
 
 ### A comparison with Fuṣṣilat 41/44
 
@@ -4048,7 +4048,7 @@ The root **ب-ر-أ**: **to part from a thing, to come clear of it, to be free o
 | **168** | **Lot** | *Li-ʿamalikum mina'l-qālīn* | ***ʿAmal*** |
 | **216** | **The messenger addressed** | *Barīʾun mimmā taʿmalūn* | ***ʿAmal*** |
 
-**This is an overlap that can be verified from the text.** And **as my own reading** I record this: the sūra sets up separation twice in the same form — **from the act, not from the person.** This is one of the plainest textual grounds for the principle recorded in `USLUP.md`.
+**This is an overlap that can be verified from the text.** And **as my own reading** I record this: the sūra sets up separation twice in the same form — **from the act, not from the person.** This is one of the plainest textual grounds for the principle recorded in `STYLE.md`.
 
 **And the change of pronoun must be recorded:** the sentence begins *fa-in **ʿaṣawka*** (third person — "if they disobey you") and then continues *mimmā **taʿmalūn*** (second person — "what **you** do"). **In Arabic this is called *iltifāt* (a shift in the direction of address).**
 
@@ -4372,7 +4372,7 @@ The senses the lexicographers give for the verb **يَهِيمُ**:
 | Those who go after this attitude are *ghāwūn* | **"Poets are unbelievers"** |
 | Poets who believe, do righteous deeds and defend themselves against wrong are outside this | **"Art is forbidden"** |
 
-**And no general ruling about poetry or art is issued in this commentary.** The verse issues no ruling; **it describes an attribute and plainly leaves outside it those who do not bear that attribute.** This accords exactly with the principle recorded in `USLUP.md`: **a judgement is not built wholesale upon a group; it is the attributes the verse describes, and whoever bears that attribute is included in it.**
+**And no general ruling about poetry or art is issued in this commentary.** The verse issues no ruling; **it describes an attribute and plainly leaves outside it those who do not bear that attribute.** This accords exactly with the principle recorded in `STYLE.md`: **a judgement is not built wholesale upon a group; it is the attributes the verse describes, and whoever bears that attribute is included in it.**
 
 ### The four attributes
 

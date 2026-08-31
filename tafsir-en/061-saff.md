@@ -141,7 +141,7 @@ The function is this:
 
 That is: first the question is asked, then the ruling is laid down. And as the ruling is laid down the addressee changes: the subject is no longer "you" but **the deed itself**. The sentence separates from the person and passes over to the behaviour.
 
-This is a meaningful structure in terms of the method (`USLUP.md`) as well: the ruling is given not to the person but to the deed.
+This is a meaningful structure in terms of the method (`STYLE.md`) as well: the ruling is given not to the person but to the deed.
 
 ### مَقْت — maqt
 
@@ -515,7 +515,7 @@ Throughout history this has been one of the most debated verses of the Qurʾān,
 
 **First:** To make such a claim requires expertise in the linguistic strata of the texts we have to hand, in the history of their translation, and in the manuscript tradition. That is not the area of competence of this commentary.
 
-**Second:** The strictest rule of the method (`USLUP.md`) is not to present as a transmitted report something that cannot be verified. A significant part of the comparisons made on this subject rests on arguments about language, and to pass over to one side without doing justice to those arguments would be to present to the reader as certain something of which I am not certain.
+**Second:** The strictest rule of the method (`STYLE.md`) is not to present as a transmitted report something that cannot be verified. A significant part of the comparisons made on this subject rests on arguments about language, and to pass over to one side without doing justice to those arguments would be to present to the reader as certain something of which I am not certain.
 
 **Third:** The verse's own claim is not a claim to be found in an existing text. The verse transmits what Jesus **said**.
 
@@ -719,7 +719,7 @@ Here the word is in the *ifʿāl* form: **أَظْهَرَ**. And there are two 
 
 These two readings bring with them the question of **what kind** of superiority the superiority is. Several tendencies on this subject are transmitted in the classical commentaries: superiority in respect of proof and argument; actual dominion; and a promise concerning the end of time.
 
-**In this commentary I adopt no preference among them**, and I have a ground: throughout history this verse has been made a support for political programmes, and per the method (`USLUP.md`) this commentary takes no side in current politics. What the wording of the verse says — that a sending has a purpose — must be kept separate from interpretations of how that purpose will be realised. The first belongs to the text, the second to interpretation.
+**In this commentary I adopt no preference among them**, and I have a ground: throughout history this verse has been made a support for political programmes, and per the method (`STYLE.md`) this commentary takes no side in current politics. What the wording of the verse says — that a sending has a purpose — must be kept separate from interpretations of how that purpose will be realised. The first belongs to the text, the second to interpretation.
 
 **عَلَى ٱلدِّينِ كُلِّهِۦ** — "over the whole of religion". *al-Dīn* is singular and definite; together with *kullih* it comes to mean "everything that is religion".
 
@@ -1099,7 +1099,7 @@ And in the section on al-Bayyina the reading preferred for *munfakkīn* looked i
 
 **مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ** — and note the particle **مِن** here: "a group **of** the Children of Israel". No wholesale ruling is issued, that is; the division takes place within a community.
 
-This looks to the same place as the long analysis made of the particle *min* in the section on al-Bayyina; and it does the same work as the *minhum* caveat at al-Mumtaḥana 60/7, in the preceding sūra in the order of the muṣḥaf. Per the method (`USLUP.md`), no wholesale ruling is issued about a group in this commentary — and here the text itself does the same.
+This looks to the same place as the long analysis made of the particle *min* in the section on al-Bayyina; and it does the same work as the *minhum* caveat at al-Mumtaḥana 60/7, in the preceding sūra in the order of the muṣḥaf. Per the method (`STYLE.md`), no wholesale ruling is issued about a group in this commentary — and here the text itself does the same.
 
 ### فَأَيَّدْنَا — We supported
 
@@ -1216,7 +1216,7 @@ At several points throughout the text a language of certainty was deliberately n
 
 - **The observation made on the *nūr* / *nār* distinction at 61/8** was explicitly marked as **an observation about the language**; it was written that it is not a claim about physics.
 
-- **The meaning of the verb *li-yuẓhirahu* at 61/9 and the character of the "prevailing".** Two readings were given; the classical tendencies were enumerated, **no preference was adopted**, and the ground for that (the prohibition in the method (`USLUP.md`) on taking sides in politics) was written plainly.
+- **The meaning of the verb *li-yuẓhirahu* at 61/9 and the character of the "prevailing".** Two readings were given; the classical tendencies were enumerated, **no preference was adopted**, and the ground for that (the prohibition in the method (`STYLE.md`) on taking sides in politics) was written plainly.
 
 - **The function of the imperfect verb at 61/11.** Three views were given in a table. It was transmitted that a variant reading is read in the imperative, but **no authority's name was given**, because I am not certain.
 

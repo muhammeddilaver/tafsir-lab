@@ -129,7 +129,7 @@ In some modern writings the claim is advanced, on the strength of the word *takw
 - The verb of the verse conveys not a **shape** but an **operation**: being rolled up.
 - The usage in al-Zumar 39/5 shows that the word is the name of a movement, not of a shape.
 
-Per the method (`USLUP.md`), claims of this kind are not made in this commentary. What the verse says is strong enough as it stands; it has no need of anything added to it.
+Per the method (`STYLE.md`), claims of this kind are not made in this commentary. What the verse says is strong enough as it stands; it has no need of anything added to it.
 
 ### The sūra's first image: not destruction but gathering up
 
@@ -233,7 +233,7 @@ Why is this the more shattering? Because in the Qurʾān's lexicon the mountain 
 | al-Wāqiʿa 56/5 | *Bussat bassā* — crumbled to powder |
 | al-Naml 27/88 | *Taḥsabuhā jāmidatan wa hiya tamurru marra's-saḥāb* — you suppose them motionless, yet they pass by as the clouds pass |
 
-al-Naml 27/88 is especially striking, because it says that **the mountain's looking fixed is a mistake of ours.** But to read this verse as "the Qurʾān is announcing the movements of the earth's crust" is a forcing of the kind the method (`USLUP.md`) forbids: the context of the verse is the Day of Resurrection, and the description belongs to that Day. I record it as a possible reading, not as a claim.
+al-Naml 27/88 is especially striking, because it says that **the mountain's looking fixed is a mistake of ours.** But to read this verse as "the Qurʾān is announcing the movements of the earth's crust" is a forcing of the kind the method (`STYLE.md`) forbids: the context of the verse is the Day of Resurrection, and the description belongs to that Day. I record it as a possible reading, not as a claim.
 
 ---
 
@@ -393,7 +393,7 @@ There too there is the same word and the same dispute: is *masjūr* "filled" or 
 
 **No preference is adopted.** The word carries both senses and the Qurʾān does not explain. This much, however, can be recorded: the first and the second view do not exclude one another — what fills overflows, what overflows mingles, and in the image of the oven the two are together already.
 
-**And a caution:** on the strength of this verse claims are advanced that rest on the composition of sea water, on the flammability of hydrogen and oxygen, and the like. These are things the verse does not say, and per the method (`USLUP.md`) they are not made in this commentary. The image of the verse is an oven; an oven the hearer knows.
+**And a caution:** on the strength of this verse claims are advanced that rest on the composition of sea water, on the flammability of hydrogen and oxygen, and the like. These are things the verse does not say, and per the method (`STYLE.md`) they are not made in this commentary. The image of the verse is an oven; an oven the hearer knows.
 
 **Its place in the context.** The seas are the last item of the first group. And it is a striking close: the sūra sets the dry thing moving (the mountains) and sets the wet thing ablaze (the seas). Everything turns into the contrary of its own nature. **The first group closes with the suspension of the laws of nature.**
 
@@ -504,7 +504,7 @@ Care is needed here, because the subject lends itself to exaggeration in either 
 - **The exaggeration that "everyone did it".** This is not supported in the sources, and it is demographically incoherent as well. A society that killed its girls on a wide scale would stop reproducing within a generation or two. The reports name particular tribes (Tamīm, for instance) and particular individuals; this gives one to think that the practice was **not widespread, but known and able to be accepted.**
 - **The exaggeration that "it never happened".** This is not defensible either. The Qurʾān is addressing the very society in which the thing took place, and it refers to a practice its hearers knew. A text does not invent, to its own disadvantage, a practice about which its hearers would say "there is no such thing". The hearers brought a great many objections against these verses; that no objection of the form "we do not do such a thing" was recorded is meaningful.
 
-**The wider frame.** Infanticide and exposure are not a practice peculiar to pre-Islamic Arabia. In the Roman world the exposure of the newborn (*expositio*) was for a long time a practice tolerated in law; comparable instances are documented in other societies as well. This information is recorded not in order to make the pre-Islamic practice lighter but **in order to take the subject out of being the characteristic of one people and make it a human matter** — and indeed, per the method (`USLUP.md`), no wholesale ruling is issued about any community in this commentary.
+**The wider frame.** Infanticide and exposure are not a practice peculiar to pre-Islamic Arabia. In the Roman world the exposure of the newborn (*expositio*) was for a long time a practice tolerated in law; comparable instances are documented in other societies as well. This information is recorded not in order to make the pre-Islamic practice lighter but **in order to take the subject out of being the characteristic of one people and make it a human matter** — and indeed, per the method (`STYLE.md`), no wholesale ruling is issued about any community in this commentary.
 
 **And today.** Sex-selective practices have produced measurable imbalances of population in some countries where the means of determination before birth became widespread, and legal measures have been taken on the matter. I write this not as a "scientific miracle of the verse" but as a record that the motive the verse describes — a girl being counted a burden and a disgrace — has not been buried in the past.
 
@@ -926,7 +926,7 @@ The attraction of the second view is real: the "appearing to go backwards" of he
 - The classical exegetes drew this interpretation not from any astronomical knowledge but from **the lexical sense of the words**.
 - And the verse's function is not to give information; it is **to swear an oath.** The things sworn by are things the hearer knows — one does not swear by something he does not know.
 
-Per the method (`USLUP.md`), no forced connection with natural science is made in this commentary. **What can be recorded is this:** the three words name a behaviour seen in the sky — appearing, advancing, vanishing — with three separate verbs; and the description fits what is seen with the naked eye.
+Per the method (`STYLE.md`), no forced connection with natural science is made in this commentary. **What can be recorded is this:** the three words name a behaviour seen in the sky — appearing, advancing, vanishing — with three separate verbs; and the description fits what is seen with the naked eye.
 
 ### And the oath's link with the context
 
@@ -1662,7 +1662,7 @@ The two sūras stand side by side in the codex, and they genuinely complete one 
 
 **The first wrong reading: using the sūra as a source of natural science.**
 
-There are three places in the sūra that look open to this, and at all three one must stop, per the method (`USLUP.md`):
+There are three places in the sūra that look open to this, and at all three one must stop, per the method (`STYLE.md`):
 
 - **كُوِّرَتْ** — the claim that "the sun is a sphere". *Kura* (ك-ر-و) and *kawr* (ك-و-ر) are **separate roots**; the verb conveys not a shape but an operation.
 - **سُجِّرَتْ** — claims resting on the composition of sea water. The image of the verse is an oven; an oven the hearer knows.
@@ -1734,7 +1734,7 @@ The question this puts to the present follows from that, and it is an everyday o
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list explicitly the places throughout the text where definite language was deliberately not used:
+Per the method (`STYLE.md`), I list explicitly the places throughout the text where definite language was deliberately not used:
 
 - **The report about reciting the sūra.** I stated that it is transmitted in sources that include al-Tirmidhī and with an ascription to Ibn ʿUmar; I recorded that its chain of transmission is disputed, and I did not quote its wording verbatim.
 - **The exact sense of كُوِّرَتْ.** The root's two senses (to wind / to gather up and set aside) were given, and on the strength of al-Zumar 39/5 "to wind" was brought forward; but it was not fixed to a single sense.

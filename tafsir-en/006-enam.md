@@ -190,7 +190,7 @@ The **ج-ح-د** root: **to deny knowingly.** **The root was treated at `046-ahk
 | 1 | **The Preserved Tablet** — the record of everything |
 | 2 | **The Qurʾān** — in respect of the foundations of the religion |
 
-**Both readings are transmitted; I do not impose a preference.** **A note, per the method (`USLUP.md`): I draw from this verse no conclusion such as "the Qurʾān contains all the sciences";** a claim of that kind does not follow necessarily from the wording of the verse, and the disagreement must not be concealed.
+**Both readings are transmitted; I do not impose a preference.** **A note, per the method (`STYLE.md`): I draw from this verse no conclusion such as "the Qurʾān contains all the sciences";** a claim of that kind does not follow necessarily from the wording of the verse, and the disagreement must not be concealed.
 
 ---
 
@@ -523,7 +523,7 @@ The **أ-ف-ل** root: **to set, to vanish from sight.** **The choice of the wor
 
 **وَجَعَلَ ٱلَّيْلَ سَكَنًا** — **the root س-ك-ن was treated at `048-fetih.md` 48/4 (*sakīna*) and at `030-rum.md` 30/21 (*li-taskunū ilayhā*).** **And at `025-furkan.md` 25/47 the night was named *libās* (a garment).** **Three sūras give the function of the night with three words: repose, garment, rest.**
 
-**حُسْبَانًا** — **a measure of reckoning.** **Per the method (`USLUP.md`): I draw no conclusion about modern astronomy from this;** the verse states that the sun and the moon are **fit for the measuring of time** — and this occurs in the same form at `010-yunus.md` 10/5.
+**حُسْبَانًا** — **a measure of reckoning.** **Per the method (`STYLE.md`): I draw no conclusion about modern astronomy from this;** the verse states that the sun and the moon are **fit for the measuring of time** — and this occurs in the same form at `010-yunus.md` 10/5.
 
 ---
 
@@ -553,7 +553,7 @@ The **د-ر-ك** root: **to catch up with, to reach, to grasp.** **The root was 
 
 **The lexicographers record this difference:** *idrāk* is **to reach a thing and encompass it**; *ruʾya* is only to see. **This distinction is one of the supports of the theological debate over the question of the vision of God.**
 
-**Per the method (`USLUP.md`): no theological debate is entered into in this commentary.** **I confine myself to transmitting the readings in the classical works of tafsīr, and I do not impose a preference.**
+**Per the method (`STYLE.md`): no theological debate is entered into in this commentary.** **I confine myself to transmitting the readings in the classical works of tafsīr, and I do not impose a preference.**
 
 **And the symmetry the verse itself sets up is worth recording:** *lā tudrikuhu'l-abṣār* / *wa huwa yudriku'l-abṣār.* **The same verb, in two directions: one negative, the other positive.** **And the same structure was treated at `002-bakara.md` 2/255 (*wa lā yuḥīṭūna bi-shayʾin min ʿilmih*):** the encompassing being one-way.
 
@@ -706,7 +706,7 @@ The **د-ر-ك** root: **to catch up with, to reach, to grasp.** **The root was 
 
 **I record this as my own reading:** the comparison describes **shortness of breath** — the drawing of breath growing harder as one climbs. **And the verb is in Form V (*yaṣṣaʿʿadu*): a climbing with effort, step by step.**
 
-**A note, per the method (`USLUP.md`):** I draw from this comparison no claim about modern physiology. **What the verse gives is an experience that the people of that day knew as well: the tightening of the chest as one goes up high.** **And this is what the limit kept in the index requires.**
+**A note, per the method (`STYLE.md`):** I draw from this comparison no claim about modern physiology. **What the verse gives is an experience that the people of that day knew as well: the tightening of the chest as one goes up high.** **And this is what the limit kept in the index requires.**
 
 ---
 
@@ -803,7 +803,7 @@ That is, the ruling is given not as the proclamation of a list but as **a search
 
 The qualification **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ** had occurred in the 119th verse of this sūra as well. **And it was treated at `002-bakara.md` 2/173.**
 
-**وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ … ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ** (146) — **A note, per the method (`USLUP.md`): the verse states a particular ruling laid upon a particular community, and its ground; it issues no blanket ruling about a group.** **Indeed the ground is tied to an act: *bi-baghyihim*.**
+**وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ … ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ** (146) — **A note, per the method (`STYLE.md`): the verse states a particular ruling laid upon a particular community, and its ground; it issues no blanket ruling about a group.** **Indeed the ground is tied to an act: *bi-baghyihim*.**
 
 **The root *baghy* was treated at `042-sura.md` 42/14 and `049-hucurat.md` 49/9.**
 
@@ -882,7 +882,7 @@ The qualification **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْ�
 
 **The non-acceptance of faith that comes at the last moment:** **treated at `039-zumer.md` 39/54-59, `040-gafir.md` 40/84-85 and `010-yunus.md` 10/90-92.** **I rely on that treatment.**
 
-**A note, per the method (`USLUP.md`):** the expression *aw yaʾtiya rabbuka* cannot be understood as a bodily coming; **the same note had been entered in the index at `089-fecr.md` 89/22.** **I transmit the positions taken in the classical works of tafsīr (*tafwīḍ* / *taʾwīl*), and I do not impose a preference.**
+**A note, per the method (`STYLE.md`):** the expression *aw yaʾtiya rabbuka* cannot be understood as a bodily coming; **the same note had been entered in the index at `089-fecr.md` 89/22.** **I transmit the positions taken in the classical works of tafsīr (*tafwīḍ* / *taʾwīl*), and I do not impose a preference.**
 
 ---
 

@@ -2154,7 +2154,7 @@ What the verse records is that the smallest thing left in hand — **what one wa
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list plainly the places where, throughout the text, a definite language was deliberately not used and a note of caution was entered:
+Per the method (`STYLE.md`), I list plainly the places where, throughout the text, a definite language was deliberately not used and a note of caution was entered:
 
 - **The occasion of revelation.** The existence of the reports was recorded, their content was not. No name was given, the incident was not recounted, no preference was adopted as to which branch is the sounder. The ground was explained within the text in three items; the most important is that the Qurʾān itself did not give these details.
 - **The two persons meant at 66/4.** Names are given in the reports; no name was written here. The verse itself gives no name.

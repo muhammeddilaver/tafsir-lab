@@ -1,6 +1,6 @@
 # Fihrist
 
-Ayet ayet, kök tahlili esaslı Kur'an tefsiri. Usul ve üslup kuralları için `USLUP.md`.
+Ayet ayet, kök tahlili esaslı Kur'an tefsiri. Usul ve üslup kuralları için `STYLE.md`.
 
 Ayet numaralandırması besmelesiz sayılır (Fâtiha'da 1 = *el-hamdü lillâh*).
 
@@ -10,120 +10,120 @@ Ayet numaralandırması besmelesiz sayılır (Fâtiha'da 1 = *el-hamdü lillâh*
 
 | Sûre | Dosya | Kapsam |
 |---|---|---|
-| 1. Fâtiha | `tefsir/001-fatiha.md` | Besmele + 1-7 (tam) |
-| 2. Bakara | `tefsir/002-bakara.md` | tam (286 ayet) |
-| 3. Âl-i İmrân | `tefsir/003-al-i-imran.md` | tam (200 ayet) |
-| 4. Nisâ | `tefsir/004-nisa.md` | tam (176 ayet) |
-| 5. Mâide | `tefsir/005-maide.md` | tam (120 ayet) |
-| 6. En'âm | `tefsir/006-enam.md` | tam (165 ayet) |
-| 7. A'râf | `tefsir/007-araf.md` | tam (206 ayet) |
-| 8. Enfâl | `tefsir/008-enfal.md` | tam |
-| 9. Tevbe | `tefsir/009-tevbe.md` | tam (129 ayet) |
-| 10. Yûnus | `tefsir/010-yunus.md` | tam |
-| 11. Hûd | `tefsir/011-hud.md` | tam (123 ayet) |
-| 12. Yûsuf | `tefsir/012-yusuf.md` | tam |
-| 13. Ra'd | `tefsir/013-rad.md` | tam |
-| 14. İbrâhim | `tefsir/014-ibrahim.md` | tam |
-| 15. Hicr | `tefsir/015-hicr.md` | tam |
-| 16. Nahl | `tefsir/016-nahl.md` | tam |
-| 17. İsrâ | `tefsir/017-isra.md` | tam |
-| 18. Kehf | `tefsir/018-kehf.md` | tam |
-| 19. Meryem | `tefsir/019-meryem.md` | tam |
-| 20. Tâhâ | `tefsir/020-taha.md` | tam |
-| 21. Enbiyâ | `tefsir/021-enbiya.md` | tam |
-| 22. Hac | `tefsir/022-hac.md` | tam |
-| 23. Mü'minûn | `tefsir/023-muminun.md` | tam |
-| 24. Nûr | `tefsir/024-nur.md` | tam |
-| 25. Furkān | `tefsir/025-furkan.md` | tam |
-| 26. Şuarâ | `tefsir/026-suara.md` | tam (227 ayet) |
-| 27. Neml | `tefsir/027-neml.md` | tam |
-| 28. Kasas | `tefsir/028-kasas.md` | tam |
-| 29. Ankebût | `tefsir/029-ankebut.md` | tam |
-| 30. Rûm | `tefsir/030-rum.md` | tam |
-| 31. Lokmân | `tefsir/031-lokman.md` | tam |
-| 32. Secde | `tefsir/032-secde.md` | tam |
-| 33. Ahzâb | `tefsir/033-ahzab.md` | tam |
-| 34. Sebe' | `tefsir/034-sebe.md` | tam |
-| 35. Fâtır (Melâike) | `tefsir/035-fatir.md` | tam |
-| 36. Yâsîn | `tefsir/036-yasin.md` | tam |
-| 37. Sâffât | `tefsir/037-saffat.md` | tam (182 ayet) |
-| 38. Sâd | `tefsir/038-sad.md` | tam |
-| 39. Zümer | `tefsir/039-zumer.md` | tam |
-| 40. Ğâfir (Mü'min) | `tefsir/040-gafir.md` | tam |
-| 41. Fussilet | `tefsir/041-fussilet.md` | tam |
-| 42. Şûrâ | `tefsir/042-sura.md` | tam |
-| 43. Zuhruf | `tefsir/043-zuhruf.md` | tam |
-| 44. Duhân | `tefsir/044-duhan.md` | tam |
-| 45. Câsiye | `tefsir/045-casiye.md` | tam |
-| 46. Ahkāf | `tefsir/046-ahkaf.md` | tam |
-| 47. Muhammed | `tefsir/047-muhammed.md` | tam |
-| 48. Fetih | `tefsir/048-fetih.md` | tam |
-| 49. Hucurât | `tefsir/049-hucurat.md` | tam |
-| 50. Kāf | `tefsir/050-kaf.md` | tam |
-| 51. Zâriyât | `tefsir/051-zariyat.md` | tam |
-| 52. Tûr | `tefsir/052-tur.md` | tam |
-| 53. Necm | `tefsir/053-necm.md` | tam |
-| 54. Kamer | `tefsir/054-kamer.md` | tam |
-| 55. Rahmân | `tefsir/055-rahman.md` | tam |
-| 56. Vâkıa | `tefsir/056-vakia.md` | tam |
-| 57. Hadîd | `tefsir/057-hadid.md` | tam |
-| 58. Mücâdele | `tefsir/058-mucadele.md` | tam |
-| 59. Haşr | `tefsir/059-hasr.md` | tam |
-| 60. Mümtehine | `tefsir/060-mumtehine.md` | tam |
-| 61. Saff | `tefsir/061-saff.md` | tam |
-| 62. Cum'a | `tefsir/062-cuma.md` | tam |
-| 63. Münâfikûn | `tefsir/063-munafikun.md` | tam |
-| 64. Teğâbün | `tefsir/064-tegabun.md` | tam |
-| 65. Talâk | `tefsir/065-talak.md` | tam |
-| 66. Tahrîm | `tefsir/066-tahrim.md` | tam |
-| 67. Mülk | `tefsir/067-mulk.md` | tam |
-| 68. Kalem | `tefsir/068-kalem.md` | tam |
-| 69. Hâkka | `tefsir/069-hakka.md` | tam |
-| 70. Meâric | `tefsir/070-mearic.md` | tam |
-| 71. Nûh | `tefsir/071-nuh.md` | tam |
-| 72. Cin | `tefsir/072-cin.md` | tam |
-| 73. Müzzemmil | `tefsir/073-muzzemmil.md` | tam |
-| 74. Müddessir | `tefsir/074-muddessir.md` | tam |
-| 75. Kıyâme | `tefsir/075-kiyame.md` | tam |
-| 76. İnsân (Dehr) | `tefsir/076-insan.md` | tam |
-| 77. Mürselât | `tefsir/077-murselat.md` | tam |
-| 78. Nebe' | `tefsir/078-nebe.md` | tam |
-| 79. Nâziât | `tefsir/079-naziat.md` | tam |
-| 80. Abese | `tefsir/080-abese.md` | tam |
-| 81. Tekvîr | `tefsir/081-tekvir.md` | tam |
-| 82. İnfitâr | `tefsir/082-infitar.md` | tam |
-| 83. Mutaffifîn | `tefsir/083-mutaffifin.md` | tam |
-| 84. İnşikâk | `tefsir/084-insikak.md` | tam |
-| 85. Bürûc | `tefsir/085-buruc.md` | tam |
-| 86. Târık | `tefsir/086-tarik.md` | tam |
-| 87. A'lâ | `tefsir/087-ala.md` | tam |
-| 88. Ğâşiye | `tefsir/088-gasiye.md` | tam |
-| 89. Fecr | `tefsir/089-fecr.md` | tam |
-| 90. Beled | `tefsir/090-beled.md` | tam |
-| 91. Şems | `tefsir/091-sems.md` | tam |
-| 92. Leyl | `tefsir/092-leyl.md` | tam |
-| 93. Duhâ | `tefsir/093-duha.md` | tam |
-| 94. İnşirâh | `tefsir/094-insirah.md` | tam |
-| 95. Tîn | `tefsir/095-tin.md` | tam |
-| 96. Alak | `tefsir/096-alak.md` | tam |
-| 97. Kadr | `tefsir/097-kadr.md` | tam |
-| 98. Beyyine | `tefsir/098-beyyine.md` | tam |
-| 99. Zilzâl | `tefsir/099-zilzal.md` | tam |
-| 100. Âdiyât | `tefsir/100-adiyat.md` | tam |
-| 101. Kâria | `tefsir/101-karia.md` | tam |
-| 102. Tekâsür | `tefsir/102-tekasur.md` | tam |
-| 103. Asr | `tefsir/103-asr.md` | tam |
-| 104. Hümeze | `tefsir/104-humeze.md` | tam |
-| 105. Fîl | `tefsir/105-fil.md` | tam |
-| 106. Kureyş | `tefsir/106-kureys.md` | tam |
-| 107. Mâûn | `tefsir/107-maun.md` | tam |
-| 108. Kevser | `tefsir/108-kevser.md` | tam |
-| 109. Kâfirûn | `tefsir/109-kafirun.md` | tam |
-| 110. Nasr | `tefsir/110-nasr.md` | tam |
-| 111. Tebbet | `tefsir/111-tebbet.md` | tam |
-| 112. İhlâs | `tefsir/112-ihlas.md` | tam |
-| 113. Felak | `tefsir/113-felak.md` | tam |
-| 114. Nâs | `tefsir/114-nas.md` | tam |
+| 1. Fâtiha | `tafsir/001-fatiha.md` | Besmele + 1-7 (tam) |
+| 2. Bakara | `tafsir/002-bakara.md` | tam (286 ayet) |
+| 3. Âl-i İmrân | `tafsir/003-al-i-imran.md` | tam (200 ayet) |
+| 4. Nisâ | `tafsir/004-nisa.md` | tam (176 ayet) |
+| 5. Mâide | `tafsir/005-maide.md` | tam (120 ayet) |
+| 6. En'âm | `tafsir/006-enam.md` | tam (165 ayet) |
+| 7. A'râf | `tafsir/007-araf.md` | tam (206 ayet) |
+| 8. Enfâl | `tafsir/008-enfal.md` | tam |
+| 9. Tevbe | `tafsir/009-tevbe.md` | tam (129 ayet) |
+| 10. Yûnus | `tafsir/010-yunus.md` | tam |
+| 11. Hûd | `tafsir/011-hud.md` | tam (123 ayet) |
+| 12. Yûsuf | `tafsir/012-yusuf.md` | tam |
+| 13. Ra'd | `tafsir/013-rad.md` | tam |
+| 14. İbrâhim | `tafsir/014-ibrahim.md` | tam |
+| 15. Hicr | `tafsir/015-hicr.md` | tam |
+| 16. Nahl | `tafsir/016-nahl.md` | tam |
+| 17. İsrâ | `tafsir/017-isra.md` | tam |
+| 18. Kehf | `tafsir/018-kehf.md` | tam |
+| 19. Meryem | `tafsir/019-meryem.md` | tam |
+| 20. Tâhâ | `tafsir/020-taha.md` | tam |
+| 21. Enbiyâ | `tafsir/021-enbiya.md` | tam |
+| 22. Hac | `tafsir/022-hac.md` | tam |
+| 23. Mü'minûn | `tafsir/023-muminun.md` | tam |
+| 24. Nûr | `tafsir/024-nur.md` | tam |
+| 25. Furkān | `tafsir/025-furkan.md` | tam |
+| 26. Şuarâ | `tafsir/026-suara.md` | tam (227 ayet) |
+| 27. Neml | `tafsir/027-neml.md` | tam |
+| 28. Kasas | `tafsir/028-kasas.md` | tam |
+| 29. Ankebût | `tafsir/029-ankebut.md` | tam |
+| 30. Rûm | `tafsir/030-rum.md` | tam |
+| 31. Lokmân | `tafsir/031-lokman.md` | tam |
+| 32. Secde | `tafsir/032-secde.md` | tam |
+| 33. Ahzâb | `tafsir/033-ahzab.md` | tam |
+| 34. Sebe' | `tafsir/034-sebe.md` | tam |
+| 35. Fâtır (Melâike) | `tafsir/035-fatir.md` | tam |
+| 36. Yâsîn | `tafsir/036-yasin.md` | tam |
+| 37. Sâffât | `tafsir/037-saffat.md` | tam (182 ayet) |
+| 38. Sâd | `tafsir/038-sad.md` | tam |
+| 39. Zümer | `tafsir/039-zumer.md` | tam |
+| 40. Ğâfir (Mü'min) | `tafsir/040-gafir.md` | tam |
+| 41. Fussilet | `tafsir/041-fussilet.md` | tam |
+| 42. Şûrâ | `tafsir/042-sura.md` | tam |
+| 43. Zuhruf | `tafsir/043-zuhruf.md` | tam |
+| 44. Duhân | `tafsir/044-duhan.md` | tam |
+| 45. Câsiye | `tafsir/045-casiye.md` | tam |
+| 46. Ahkāf | `tafsir/046-ahkaf.md` | tam |
+| 47. Muhammed | `tafsir/047-muhammed.md` | tam |
+| 48. Fetih | `tafsir/048-fetih.md` | tam |
+| 49. Hucurât | `tafsir/049-hucurat.md` | tam |
+| 50. Kāf | `tafsir/050-kaf.md` | tam |
+| 51. Zâriyât | `tafsir/051-zariyat.md` | tam |
+| 52. Tûr | `tafsir/052-tur.md` | tam |
+| 53. Necm | `tafsir/053-necm.md` | tam |
+| 54. Kamer | `tafsir/054-kamer.md` | tam |
+| 55. Rahmân | `tafsir/055-rahman.md` | tam |
+| 56. Vâkıa | `tafsir/056-vakia.md` | tam |
+| 57. Hadîd | `tafsir/057-hadid.md` | tam |
+| 58. Mücâdele | `tafsir/058-mucadele.md` | tam |
+| 59. Haşr | `tafsir/059-hasr.md` | tam |
+| 60. Mümtehine | `tafsir/060-mumtehine.md` | tam |
+| 61. Saff | `tafsir/061-saff.md` | tam |
+| 62. Cum'a | `tafsir/062-cuma.md` | tam |
+| 63. Münâfikûn | `tafsir/063-munafikun.md` | tam |
+| 64. Teğâbün | `tafsir/064-tegabun.md` | tam |
+| 65. Talâk | `tafsir/065-talak.md` | tam |
+| 66. Tahrîm | `tafsir/066-tahrim.md` | tam |
+| 67. Mülk | `tafsir/067-mulk.md` | tam |
+| 68. Kalem | `tafsir/068-kalem.md` | tam |
+| 69. Hâkka | `tafsir/069-hakka.md` | tam |
+| 70. Meâric | `tafsir/070-mearic.md` | tam |
+| 71. Nûh | `tafsir/071-nuh.md` | tam |
+| 72. Cin | `tafsir/072-cin.md` | tam |
+| 73. Müzzemmil | `tafsir/073-muzzemmil.md` | tam |
+| 74. Müddessir | `tafsir/074-muddessir.md` | tam |
+| 75. Kıyâme | `tafsir/075-kiyame.md` | tam |
+| 76. İnsân (Dehr) | `tafsir/076-insan.md` | tam |
+| 77. Mürselât | `tafsir/077-murselat.md` | tam |
+| 78. Nebe' | `tafsir/078-nebe.md` | tam |
+| 79. Nâziât | `tafsir/079-naziat.md` | tam |
+| 80. Abese | `tafsir/080-abese.md` | tam |
+| 81. Tekvîr | `tafsir/081-tekvir.md` | tam |
+| 82. İnfitâr | `tafsir/082-infitar.md` | tam |
+| 83. Mutaffifîn | `tafsir/083-mutaffifin.md` | tam |
+| 84. İnşikâk | `tafsir/084-insikak.md` | tam |
+| 85. Bürûc | `tafsir/085-buruc.md` | tam |
+| 86. Târık | `tafsir/086-tarik.md` | tam |
+| 87. A'lâ | `tafsir/087-ala.md` | tam |
+| 88. Ğâşiye | `tafsir/088-gasiye.md` | tam |
+| 89. Fecr | `tafsir/089-fecr.md` | tam |
+| 90. Beled | `tafsir/090-beled.md` | tam |
+| 91. Şems | `tafsir/091-sems.md` | tam |
+| 92. Leyl | `tafsir/092-leyl.md` | tam |
+| 93. Duhâ | `tafsir/093-duha.md` | tam |
+| 94. İnşirâh | `tafsir/094-insirah.md` | tam |
+| 95. Tîn | `tafsir/095-tin.md` | tam |
+| 96. Alak | `tafsir/096-alak.md` | tam |
+| 97. Kadr | `tafsir/097-kadr.md` | tam |
+| 98. Beyyine | `tafsir/098-beyyine.md` | tam |
+| 99. Zilzâl | `tafsir/099-zilzal.md` | tam |
+| 100. Âdiyât | `tafsir/100-adiyat.md` | tam |
+| 101. Kâria | `tafsir/101-karia.md` | tam |
+| 102. Tekâsür | `tafsir/102-tekasur.md` | tam |
+| 103. Asr | `tafsir/103-asr.md` | tam |
+| 104. Hümeze | `tafsir/104-humeze.md` | tam |
+| 105. Fîl | `tafsir/105-fil.md` | tam |
+| 106. Kureyş | `tafsir/106-kureys.md` | tam |
+| 107. Mâûn | `tafsir/107-maun.md` | tam |
+| 108. Kevser | `tafsir/108-kevser.md` | tam |
+| 109. Kâfirûn | `tafsir/109-kafirun.md` | tam |
+| 110. Nasr | `tafsir/110-nasr.md` | tam |
+| 111. Tebbet | `tafsir/111-tebbet.md` | tam |
+| 112. İhlâs | `tafsir/112-ihlas.md` | tam |
+| 113. Felak | `tafsir/113-felak.md` | tam |
+| 114. Nâs | `tafsir/114-nas.md` | tam |
 ## Sûreler arası kurulan bağlar
 
 Metin içinde çapraz atıf verilen yerler:
@@ -231,7 +231,7 @@ Metin içinde çapraz atıf verilen yerler:
 - **Târık 86/12 ↔ Felak 113/1, En'âm 6/95** — yarma kökleri: *falq* fâile (Allah "yaran"), *sad'* mef'ûle (yer "yarılan") nispet edilir; üçüncü kök *şakk* (Abese 80/26)
 - **Târık 86/15-16 ↔ Fîl 105/2** — *keyd*: Fîl belirli bir olayı, Târık aynı ilkenin genel ifadesini verir
 - **Târık 86/4 ↔ İnfitâr 82/10-12** — *hâfız* / *hâfizîn*: kökün hem koruma hem kayıt anlamı
-- **Târık 86/7** — *sulb* ve *terâib* ihtilafı klasik görüşlerle verildi; **modern embriyoloji ve pulsar iddiaları USLUP gereği reddedildi**
+- **Târık 86/7** — *sulb* ve *terâib* ihtilafı klasik görüşlerle verildi; **modern embriyoloji ve pulsar iddiaları STYLE gereği reddedildi**
 - **A'lâ 87/1 ↔ Nasr 110/3** — iki tesbih emri: nesnesi *Rab* + hamd / nesnesi *isim*
 - **A'lâ 87/1 ↔ Leyl 92/20** — aynı tamlama iki farklı temas noktasında: *vechi rabbihi'l-a'lâ* (yöneliş) / *isme rabbike'l-a'lâ* (anılma)
 - **A'lâ 87/1 ↔ Nâziât 79/24** — *el-a'lâ* sıfatının gasp edilmiş hâli: *ene rabbükümü'l-a'lâ*
@@ -370,7 +370,7 @@ Metin içinde çapraz atıf verilen yerler:
 - **Cin 72/6 ↔ Felak 113/1** — ع-و-ذ: aynı kök, aynı basit kalıp; değişen tek şey adres. Felak bölümünün bu ayete verdiği atfın karşılığı. Halk inançları, muska ve büyü alanına **girilmedi**, gerekçesi metne yazıldı
 - **Cin 72/6 ↔ Cin 72/13** — *rehak*: yanlış sığınmanın ürettiği yük / doğru imanın kaldırdığı korku
 - **Cin 72/6 ↔ Cin 72/12 ↔ Cin 72/22** — sığınak olamayacakların listesi aşağıdan yukarı tamamlanıyor: cinler kaçamaz, elçi kurtarılamaz
-- **Cin 72/8-9 ↔ Şuarâ 26/210-212, Tekvîr 81/25** — pasaj bir kozmoloji değil *kaynak tartışması*: "bu söz kâhinlerin bilgisi değildir". **Fennî eşleştirme USLUP gereği yapılmadı**
+- **Cin 72/8-9 ↔ Şuarâ 26/210-212, Tekvîr 81/25** — pasaj bir kozmoloji değil *kaynak tartışması*: "bu söz kâhinlerin bilgisi değildir". **Fennî eşleştirme STYLE gereği yapılmadı**
 - **Cin 72/9 ↔ Cin 72/27** — *rasad* kanalın iki ucunda: kaçak girişi engelleyen gözcü / vahyi koruyan gözcü
 - **Cin 72/10 ↔ Cin 72/25** — د-ر-ي kökü iki ağızdan: *lâ nedrî* (cinler) / *in edrî* (Peygamber); ikisinde de ikinci şıkta *Rab* ismi
 - **Cin 72/10 ↔ Sebe' 34/14** — gaybı bilmedikleri hüküm olarak değil *itiraf* ve *sahne* olarak veriliyor; kehanet meselesinde belirleyici olan budur
@@ -544,7 +544,7 @@ Metin içinde çapraz atıf verilen yerler:
 - **Hâkka ↔ Meâric** — komşu iki sûre, ortak dağarcık, iki farklı iş: *vâkıa* (gerçekleşti) / *vâkı'* (olmakta); *hamîm yok* / *hamîm işe yaramıyor*; kulak-kap / el-kap; *fe-lâ uksimu* ile biri **sözün kaynağını**, öteki **gücün kapsamını** savunuyor; *yemîn/şimâl* birinde **akıbet**, ötekinde **yön**. Hâkka gerçekleşmeyi, Meâric bekleyişi anlatıyor
 - **Meâric 70/1, 10, 25** — س-أ-ل kökü sûrenin omurgası: alay ederek **soran**, sormak isteyip **soramayan**, ve **isteyen** — kökün "sormak" ve "istemek" anlamları tek sûrede üç kişide
 - **Meâric 70/3-4 ↔ Kadr 97/4** — aynı iki özne (*el-melâike ve'r-rûh*), zıt fiiller: *tenezzelü* (inerler) / *ta'rucu* (yükselirler); iki ölçü de zaman ölçüsü, zıt yönlerde
-- **Meâric 70/4** — "elli bin yıl" için beş klasik izah verildi, tercih yapılmadı; **fizik/görelilik iddiasına girilmedi** ve gerekçesi üç maddede yazıldı (USLUP'un fennî mucize yasağı)
+- **Meâric 70/4** — "elli bin yıl" için beş klasik izah verildi, tercih yapılmadı; **fizik/görelilik iddiasına girilmedi** ve gerekçesi üç maddede yazıldı (STYLE'ın fennî mucize yasağı)
 - **Meâric 70/5 ↔ Yûsuf 12/18, 12/86; Hicr 15/85, Müzzemmil 73/10, Ahzâb 33/28** — *cemîl* sıfatı dört davranışı niteliyor ve dördü de **incinme karşısında verilen tepki**; *sabr-ı cemîl*in sınırını Yûsuf 12/86 çiziyor: şikâyetin yasaklanan biçimi **insanlara** yöneltilenidir
 - **Meâric 70/5 ↔ 70/19-21 ↔ İbrâhîm 14/21** — sûre ilacı hastalıktan önce veriyor: 5. ayette *sabır*, 20. ayette *cezû'* (sabrın Kur'an içinde tescilli karşıtı)
 - **Meâric 70/8-9 ↔ Kâria 101/4-5** — iki benzetme çifti: Kâria en hafif canlı ↔ en ağır cisim; Meâric gök ↔ dağ. Ve Meâric'in iki maddesi **zıt yönlere** gidiyor: *mühl* akar (aşağı), *ihn* uçar (yukarı)

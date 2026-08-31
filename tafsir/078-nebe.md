@@ -536,7 +536,7 @@ Bunu bir okuma olarak sunuyorum; ayetin kastettiğini iddia etmiyorum. Ama kelim
 
 Bu ayetin — ve bir sonraki ayetin — çevresinde modern dönemde bir literatür oluşmuştur: yeryüzünün beşik gibi "sallanması", plaka hareketleri, ve benzeri bağlantılar.
 
-**Bu tefsirde bu yola girilmiyor** ve gerekçesi USLUP'ta kayıtlıdır. Sebebi şudur: ayet bir jeoloji bilgisi vermiyor; muhatabına **zaten bildiği bir şeyi** hatırlatıyor. Argümanın işlemesi için muhatabın onu doğrulayabilmesi gerekir. Yedinci yüzyıl Mekkelisinin doğrulayabileceği şey, üzerinde yaşadığı zeminin yaşanabilir olduğudur — plaka hareketleri değil.
+**Bu tefsirde bu yola girilmiyor** ve gerekçesi STYLE'da kayıtlıdır. Sebebi şudur: ayet bir jeoloji bilgisi vermiyor; muhatabına **zaten bildiği bir şeyi** hatırlatıyor. Argümanın işlemesi için muhatabın onu doğrulayabilmesi gerekir. Yedinci yüzyıl Mekkelisinin doğrulayabileceği şey, üzerinde yaşadığı zeminin yaşanabilir olduğudur — plaka hareketleri değil.
 
 Ayete modern bir bilgi giydirmek, argümanı güçlendirmez; **muhatabını değiştirir.**
 
@@ -584,7 +584,7 @@ Bu okumanın dayandığı veriler metindedir: *evtâd* kelimesinin üç geçişi
 
 ### "Dağlar kazıktır" — nasıl okunmalı?
 
-Bu ifade, modern dönemde en çok zorlanan Kur'an ifadelerinden biridir. **USLUP'ta kayıtlı olan kural burada uygulanacak:** ayete modern bir bilgi zorla giydirilmez.
+Bu ifade, modern dönemde en çok zorlanan Kur'an ifadelerinden biridir. **STYLE'da kayıtlı olan kural burada uygulanacak:** ayete modern bir bilgi zorla giydirilmez.
 
 **Önce ayetin ne dediğini görelim.** Ayet, dağların **biçimi** hakkında bir şey söylemiyor. Dağların yapısı, derinliği, oluşumu hakkında bir şey söylemiyor. Söylediği tek şey bir **işlev**dir: dağlar, kazığın çadıra yaptığını yeryüzüne yapar.
 
@@ -879,7 +879,7 @@ Arapçada *sirâc*, **yakılan** bir alettir: yanar, tükenir, ısı verir. *Nû
 
 Güneşin yakıcı, ayın yakıcı olmadığı çıplak gözle bilinen bir şeydir. Güneşe bakılamaz, aya bakılabilir. Güneş ısıtır, ay ısıtmaz. Yedinci yüzyıl Mekkelisi bunu biliyordu ve Arapçanın iki ayrı kelimeye sahip olması bu gözlemin dilde kayıtlı olmasından ibarettir.
 
-Yani buradaki uyum, **kelimelerin yerinde kullanılmasıdır** — ki bu, bir metnin niteliği hakkında bir şey söyler. Ama "Kur'an güneşin nükleer füzyonla yandığını bildirdi" demek, ayetin söylemediği bir şeyi söyletmektir ve USLUP'ta yasaklanmıştır.
+Yani buradaki uyum, **kelimelerin yerinde kullanılmasıdır** — ki bu, bir metnin niteliği hakkında bir şey söyler. Ama "Kur'an güneşin nükleer füzyonla yandığını bildirdi" demek, ayetin söylemediği bir şeyi söyletmektir ve STYLE'da yasaklanmıştır.
 
 **وَهَّاج — Kök: و-ه-ج.** Alevin parlaması, kızgın ışık verme. **وَهَج** — alevin ısısı ve ışığı birlikte.
 
@@ -1333,7 +1333,7 @@ Bunu kendi okumam olarak kaydediyorum: kelimenin bildirdiği şey, cehennemin **
 
 Özetle oradaki tespit şuydu: kökün somut anlamı **suyun yatağını aşması**dır; tuğyan, bir varlığın **kendi sınırını aşması**dır; ve azgınlık kötü bir şeye sahip olmak değil, iyi bir şeyi sınırının dışına taşırmaktır.
 
-**Burada eklenecek olan şudur:** ayet "kâfirler için" demiyor, **"azgınlar için"** diyor. Bu, USLUP'ta kayıtlı olan ilkenin metindeki karşılığıdır: **ayetlerin tarif ettiği şey vasıflardır.**
+**Burada eklenecek olan şudur:** ayet "kâfirler için" demiyor, **"azgınlar için"** diyor. Bu, STYLE'da kayıtlı olan ilkenin metindeki karşılığıdır: **ayetlerin tarif ettiği şey vasıflardır.**
 
 Ve bir sonraki sûre bu vasfı iki kez daha kullanacak:
 
@@ -1409,7 +1409,7 @@ Görüşler:
 
 Buradaki kelime **أَبَدًا**dır ve "ebediyen" demektir.
 
-**Bu tefsirde bu tartışmada taraf tutulmuyor**, ve gerekçesi USLUP'ta kayıtlıdır: bu bir kelam meselesidir, ve tarafların her biri Kur'an'ın farklı ayetlerine dayanır. Ayrıca bu, bu sûrenin çözebileceği bir mesele değildir — sûre bir süre bildiriyor, bir hüküm kurmuyor.
+**Bu tefsirde bu tartışmada taraf tutulmuyor**, ve gerekçesi STYLE'da kayıtlıdır: bu bir kelam meselesidir, ve tarafların her biri Kur'an'ın farklı ayetlerine dayanır. Ayrıca bu, bu sûrenin çözebileceği bir mesele değildir — sûre bir süre bildiriyor, bir hüküm kurmuyor.
 
 Kaydedilebilecek olan şudur: **ayet, sürenin uzunluğunu bildiriyor; sonunu ya da sonsuzluğunu bildirmiyor.** Kelimeye yüklenen sonuçlar, kelimenin dışından geliyor.
 
@@ -1800,7 +1800,7 @@ Sûre azgınları **طَاغِين** diye adlandırmıştı (78/22) — sınır�
 | Sınırla ilişkisi | Sınırı aşar | Sınırı korur |
 | Hareket yönü | Dışa taşma | İçe çekilme |
 
-**İki grup, "inanan/inanmayan" diye değil, "sınırını koruyan/aşan" diye adlandırılmış.** Bu, USLUP'ta kayıtlı olan ilkenin metindeki bir örneğidir: ayetler vasıfları tarif eder.
+**İki grup, "inanan/inanmayan" diye değil, "sınırını koruyan/aşan" diye adlandırılmış.** Bu, STYLE'da kayıtlı olan ilkenin metindeki bir örneğidir: ayetler vasıfları tarif eder.
 
 ### مَفَاز — kurtuluş
 

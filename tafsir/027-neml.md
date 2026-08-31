@@ -416,7 +416,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Bu, sûre içinde doğrulanabilir bir tekrardır.** Ve bunu kendi okumam olarak kaydediyorum: **sûre, konuşmayı bir imkân olarak açıp bir yoksunluk olarak kapatıyor.**
 
-**Bir sınır çiziyorum ve USLUP gereği açıkça yazıyorum:** *mantıku't-tayr* ifadesinden hayvan iletişimi hakkında bilimsel bir iddia çıkarmıyorum. **Ayet, Süleymân'a verilmiş özel bir anlayışı bildiriyor; genel bir bilgi kapısı açtığını söylemiyor.** Nitekim fiil meçhuldür ve öznesi bellidir: *ullimnâ* — "bize öğretildi."
+**Bir sınır çiziyorum ve STYLE gereği açıkça yazıyorum:** *mantıku't-tayr* ifadesinden hayvan iletişimi hakkında bilimsel bir iddia çıkarmıyorum. **Ayet, Süleymân'a verilmiş özel bir anlayışı bildiriyor; genel bir bilgi kapısı açtığını söylemiyor.** Nitekim fiil meçhuldür ve öznesi bellidir: *ullimnâ* — "bize öğretildi."
 
 **وَأُوتِينَا مِن كُلِّ شَىْءٍ** — "bize her şeyden verildi."
 
@@ -463,7 +463,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve `072-cin.md`'de cin kelimesinin kök tahlili yapıldı** (ج-ن-ن — örtmek, gizlemek). **Tekrarlamıyorum.**
 
-**USLUP gereği bir sınır:** bu ayet üzerinden cinlerin mahiyeti, güçleri ya da bugün insanlarla ilişkileri hakkında bir iddia kurmuyorum. **Metnin bildirdiği şey, Süleymân'a verilen bir imkândır ve o kişiye bağlanmıştır.**
+**STYLE gereği bir sınır:** bu ayet üzerinden cinlerin mahiyeti, güçleri ya da bugün insanlarla ilişkileri hakkında bir iddia kurmuyorum. **Metnin bildirdiği şey, Süleymân'a verilen bir imkândır ve o kişiye bağlanmıştır.**
 
 ---
 
@@ -477,9 +477,9 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Önce bir sınır
 
-**USLUP gereği açıkça yazıyorum ve bu sınır bu ayette özellikle gereklidir:**
+**STYLE gereği açıkça yazıyorum ve bu sınır bu ayette özellikle gereklidir:**
 
-- **Karıncaların iletişimi hakkında bugün bilinenlerden hareketle bu ayete bir bilimsel doğrulama yüklemiyorum.** Böyle bir okuma, USLUP'un yasakladığı fennî mucize avcılığıdır.
+- **Karıncaların iletişimi hakkında bugün bilinenlerden hareketle bu ayete bir bilimsel doğrulama yüklemiyorum.** Böyle bir okuma, STYLE'ın yasakladığı fennî mucize avcılığıdır.
 - **Karıncanın nasıl konuştuğu, sesin hangi türden olduğu, Süleymân'ın onu hangi vasıtayla anladığı hakkında metin bir şey söylemiyor.** Bu boşluklar hakkında tahmin yürütmüyorum.
 - **Bu sahne hakkında dolaşan kıssacı ayrıntılara — karıncanın adı, vadinin yeri, konuşmanın uzunluğu — girmiyorum. Kur'an bunları vermiyor.**
 
@@ -803,7 +803,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Bir kıraat farkı — ve anlamı değiştiriyor
 
-**Yirmi beşinci ayetin ilk kelimesi üzerinde bir kıraat farkı vardır ve anlamı doğrudan etkilediği için USLUP gereği kaydedilmelidir:**
+**Yirmi beşinci ayetin ilk kelimesi üzerinde bir kıraat farkı vardır ve anlamı doğrudan etkilediği için STYLE gereği kaydedilmelidir:**
 
 | Okuyuş | Yazılış | Anlam |
 |---|---|---|
@@ -820,7 +820,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Bu sûrede bir tilâvet secdesi bulunduğunda ittifak vardır. Secdenin tam yeri konusunda klasik fıkıh kaynaklarında farklı görüşler nakledilir:** bir görüşe göre 25. ayetin sonunda, bir görüşe göre 26. ayetin sonunda (*rabbü'l-arşi'l-azîm*).
 
-**İhtilafı aktarmakla yetiniyorum; fıkhî hüküm vermiyorum.** **USLUP gereği mezhep görüşleri aktarılır, hüküm kurulmaz.**
+**İhtilafı aktarmakla yetiniyorum; fıkhî hüküm vermiyorum.** **STYLE gereği mezhep görüşleri aktarılır, hüküm kurulmaz.**
 
 ### ٱلْخَبْء — kök خ-ب-أ
 
@@ -861,7 +861,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ayet, kavmin fiilini adlandırıyor: güneşe secde.** **Ve kayıt önemlidir: *min dûnillâh* — "Allah'ı bırakıp."**
 
-**USLUP gereği bir sınır çiziyorum:** bu ayet, tarihte güneşe tapan bir topluluğu tarif ediyor. **Bir etnik ya da coğrafî grup hakkında toptan hüküm kurmuyorum;** ayetin tarif ettiği **bir davranıştır**, ve o davranışı yapan ona dahildir.
+**STYLE gereği bir sınır çiziyorum:** bu ayet, tarihte güneşe tapan bir topluluğu tarif ediyor. **Bir etnik ya da coğrafî grup hakkında toptan hüküm kurmuyorum;** ayetin tarif ettiği **bir davranıştır**, ve o davranışı yapan ona dahildir.
 
 **س-ج-د** kökü `053-necm.md` ve `084-insikak.md`'de işlendi: **eğilmek, yere kapanmak; boyun eğişin en açık bedensel biçimi.** **Tekrarlamıyorum.**
 
@@ -1126,7 +1126,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Tercih dayatmıyorum.** **İki okuma da nakledilir ve ikisinde de cümlenin işi aynıdır: tespiti istisnasız hâle getirmek.**
 
-### USLUP gereği bir sınır
+### STYLE gereği bir sınır
 
 **Bu ayet üzerinden güncel siyasete girmiyorum ve bir yönetim biçimi hakkında hüküm kurmuyorum.**
 
@@ -1490,7 +1490,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Kıssanın bütünü hakkında bir kayıt
 
-**USLUP gereği bir sınır çiziyorum ve bu bölümün tamamı için geçerlidir:**
+**STYLE gereği bir sınır çiziyorum ve bu bölümün tamamı için geçerlidir:**
 
 - **Melikenin adı, kavminin tarihi, Süleymân'la sonraki ilişkisi hakkındaki nakillere girilmemiştir.** Kur'an bunları vermiyor.
 - **Kıssada geçen olağanüstü olayların (tahtın getirilmesi) nasıl gerçekleştiği hakkında bir açıklama denemesi yapılmamıştır.** Metin bir süre veriyor, bir mekanizma vermiyor.
@@ -1610,7 +1610,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 | 12 | *Fî **tis'ı** âyât* | **Dokuz işaret** — Mûsâ'ya verilen |
 | 48 | ***Tis'atü** rahtın* | **Dokuz kişi** — Semûd'da bozgunculuk çıkaran |
 
-**Aynı sayı, sûrenin iki ayrı bloğunda.** Bu, metinden doğrulanabilir bir tekrardır. **Bir anlam bağı kurmuyorum ve USLUP gereği sayı hesabına girmiyorum;** kaydettiğim şey yalnızca tekrarın kendisidir.
+**Aynı sayı, sûrenin iki ayrı bloğunda.** Bu, metinden doğrulanabilir bir tekrardır. **Bir anlam bağı kurmuyorum ve STYLE gereği sayı hesabına girmiyorum;** kaydettiğim şey yalnızca tekrarın kendisidir.
 
 ### يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
@@ -1815,7 +1815,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve *şehveten* kelimesi bunu destekliyor: ش-ه-و kökü — şiddetli istek.** **Cümle, fiilin sebebini istekte gösteriyor, bilgisizlikte değil.**
 
-**USLUP gereği bir kayıt:** bu ayette **ayetin tarif ettiği bir fiil** vardır ve bu tefsirde **fıkhî hüküm verilmemekte, mezhep görüşleri tartışılmamaktadır.** **Kişiler hakkında değil, ayetin adlandırdığı fiil hakkında konuşuyorum.**
+**STYLE gereği bir kayıt:** bu ayette **ayetin tarif ettiği bir fiil** vardır ve bu tefsirde **fıkhî hüküm verilmemekte, mezhep görüşleri tartışılmamaktadır.** **Kişiler hakkında değil, ayetin adlandırdığı fiil hakkında konuşuyorum.**
 
 ---
 
@@ -2014,7 +2014,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve `055-rahman.md` 55/19-20'de aynı olgu *berzah* kelimesiyle geçmişti ve orada işlendi.** **İki sûre aynı şeyi iki ayrı kelimeyle anıyor: *hâciz* ve *berzah*.** Bu, metinden doğrulanabilir bir örtüşmedir.
 
-**USLUP gereği bir sınır çiziyorum:** iki deniz arasındaki engel hakkında **modern okyanus bilimi verilerinden bir mucize iddiası kurmuyorum.** **Ayetin dili gözle görülebilir bir olguya işaret ediyor** — tatlı su ile tuzlu suyun karışmadığı yerler, akıntı sınırları — **ve bu, çölde yaşayan bir muhatabın da doğrulayabileceği bir gözlemdir.** **Bir bakış açısı olarak kaydediyorum; delil olarak değil.**
+**STYLE gereği bir sınır çiziyorum:** iki deniz arasındaki engel hakkında **modern okyanus bilimi verilerinden bir mucize iddiası kurmuyorum.** **Ayetin dili gözle görülebilir bir olguya işaret ediyor** — tatlı su ile tuzlu suyun karışmadığı yerler, akıntı sınırları — **ve bu, çölde yaşayan bir muhatabın da doğrulayabileceği bir gözlemdir.** **Bir bakış açısı olarak kaydediyorum; delil olarak değil.**
 
 ### بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
@@ -2248,7 +2248,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Kelimenin anlamını bir kez daha kaydediyorum:** **غ-ي-ب** kökü — **gözden kaybolmak, örtülü kalmak.** *Ğaybe* — bir şeyin görüş alanından çıkması. **Yani *gayb*, "bilinemez olan" değil, "duyuya kapalı olan"dır** ve neyin bu kapsama girdiği ayetlerin kendi kayıtlarıyla belirlenir.
 
-**Bir sınır daha çiziyorum ve USLUP gereği açıkça yazıyorum:** bu ayetten hareketle **belirli bir bilim dalı ya da araştırma alanı hakkında bir hüküm kurmuyorum.** **Ayet, gaybın kime ait olduğunu bildiriyor; insanın neyi araştırabileceğini düzenlemiyor.**
+**Bir sınır daha çiziyorum ve STYLE gereği açıkça yazıyorum:** bu ayetten hareketle **belirli bir bilim dalı ya da araştırma alanı hakkında bir hüküm kurmuyorum.** **Ayet, gaybın kime ait olduğunu bildiriyor; insanın neyi araştırabileceğini düzenlemiyor.**
 
 ### وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 
@@ -2476,7 +2476,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Ve muhatabın seçimi kaydedilmelidir: *alâ benî isrâîl*.**
 
-**Bunu bir gözlem olarak kaydediyorum ve bir toptan hüküm kurmuyorum:** ayet bir topluluğu **kendi iç ihtilafları** üzerinden anıyor. **USLUP gereği: bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz;** ayetin tarif ettiği, bir metnin bir başka topluluğun tartışmalarına ne yaptığıdır.
+**Bunu bir gözlem olarak kaydediyorum ve bir toptan hüküm kurmuyorum:** ayet bir topluluğu **kendi iç ihtilafları** üzerinden anıyor. **STYLE gereği: bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz;** ayetin tarif ettiği, bir metnin bir başka topluluğun tartışmalarına ne yaptığıdır.
 
 **Ve sûrenin kendi bağlamı kaydedilmelidir:** Neml, kıssalarında Mûsâ'yı, Dâvûd'u, Süleymân'ı, Lût'u anlattı. **Bu ayet, o kıssaların kime hitap ettiğini de bildiriyor.**
 
@@ -2567,7 +2567,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Bir sınır — bu ayetlerin nasıl okunmayacağı
 
-**USLUP gereği açıkça yazıyorum:**
+**STYLE gereği açıkça yazıyorum:**
 
 **Bu ayetler, insanları "ölü, sağır ve kör" diye sınıflandıran bir hüküm cümlesi değildir.** **Cümlenin öznesi Peygamber'dir ve söylenen şey onun *gücünün sınırı*dır** — nitekim fiiller onun fiilleridir: *lâ tüsmiu*, *mâ ente bi-hâdî*.
 
@@ -2604,11 +2604,11 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Önce bir kayıt — ve bu kayıt bu ayette zorunludur
 
-**Bu ayet hakkında çok sayıda rivayet ve yorum dolaşımdadır. USLUP gereği açıkça yazıyorum ve bu bölüm boyunca bu sınırın dışına çıkmıyorum:**
+**Bu ayet hakkında çok sayıda rivayet ve yorum dolaşımdadır. STYLE gereği açıkça yazıyorum ve bu bölüm boyunca bu sınırın dışına çıkmıyorum:**
 
 - **Bu *dâbbe*nin ne olduğu, nerede ve ne zaman çıkacağı, nasıl görüneceği hakkında kesin bilgi yoktur.**
 - **Bu konuda nakledilen rivayetlerin bir kısmı hadis tenkidi geleneğinde tartışmalıdır. Emin olmadığım hiçbir sözü bir kaynağa nispet etmiyorum ve rivayet yığmıyorum.**
-- **Çağdaş dönemde bu ayete yüklenen yorumlara — teknoloji, salgın, belirli bir buluş ya da olay — girmiyorum. Bunlar metinde dayanağı olmayan iddialardır ve USLUP'un yasakladığı türden okumalardır.**
+- **Çağdaş dönemde bu ayete yüklenen yorumlara — teknoloji, salgın, belirli bir buluş ya da olay — girmiyorum. Bunlar metinde dayanağı olmayan iddialardır ve STYLE'ın yasakladığı türden okumalardır.**
 - **Bir tarih, bir yer ya da bir kimlik tayin etmiyorum.**
 
 **Bu ayette yapabileceğim tek şey, lafzın ne söylediğini çözümlemektir. Onu yapıyorum.**
@@ -2854,13 +2854,13 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ### Önce bir sınır
 
-**USLUP gereği açıkça yazıyorum:**
+**STYLE gereği açıkça yazıyorum:**
 
-**Bu ayetten yerin dönüşü, levha tektoniği, kıtaların hareketi ya da başka bir jeolojik/astronomik olguya işaret çıkarmıyorum.** **Bu, USLUP'un yasakladığı türden bir fennî mucize okumasıdır.**
+**Bu ayetten yerin dönüşü, levha tektoniği, kıtaların hareketi ya da başka bir jeolojik/astronomik olguya işaret çıkarmıyorum.** **Bu, STYLE'ın yasakladığı türden bir fennî mucize okumasıdır.**
 
 **Ve `081-tekvir.md` 81/3 bahsinde bu sınır zaten çizilmişti ve bu ayet orada tablolanmıştı. Oradaki kaydı olduğu gibi koruyorum:**
 
-> **Neml 27/88 dikkat çekicidir çünkü dağın sabit görünmesinin bir yanılgı olduğunu söyler. Ama bu ayeti "Kur'an yerkabuğu hareketlerini bildiriyor" diye okumak, USLUP'un yasakladığı türden bir zorlamadır: ayetin siyakı kıyamet günüdür ve tasvir o güne aittir. Bir okuma imkânı olarak kaydediyorum, iddia olarak değil.**
+> **Neml 27/88 dikkat çekicidir çünkü dağın sabit görünmesinin bir yanılgı olduğunu söyler. Ama bu ayeti "Kur'an yerkabuğu hareketlerini bildiriyor" diye okumak, STYLE'ın yasakladığı türden bir zorlamadır: ayetin siyakı kıyamet günüdür ve tasvir o güne aittir. Bir okuma imkânı olarak kaydediyorum, iddia olarak değil.**
 
 **Buna bir şey eklemiyorum ve genişletmiyorum.**
 

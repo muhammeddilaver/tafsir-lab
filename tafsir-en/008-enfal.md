@@ -135,7 +135,7 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 
 **I record this as my own reading:** the command is not laid down absolutely. **The verse itself separates flight from *manoeuvre*** — and the measure is **the direction and the purpose** of the movement.
 
-**Per the method (`USLUP.md`): no current military or political conclusions are drawn from this.**
+**Per the method (`STYLE.md`): no current military or political conclusions are drawn from this.**
 
 ---
 
@@ -158,7 +158,7 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 
 **And this cuts from the same place as the four proofs treated in `056-vakia.md` 56/58-72:** there too the human share is granted (pouring out, sowing, striking fire) and the outcome was kept separate. **I rely on that treatment.**
 
-**A record per the method (`USLUP.md`):** this verse has been used in the theological tradition in the debates over human action and human power. **This commentary does not enter into that debate; the linguistic and word-order side of the verse is what is given.**
+**A record per the method (`STYLE.md`):** this verse has been used in the theological tradition in the debates over human action and human power. **This commentary does not enter into that debate; the linguistic and word-order side of the verse is what is given.**
 
 **وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا** — and the ground: **a good testing.** **The sense of *balāʾ* as "testing" was treated in `002-bakara.md` 2/155.**
 
@@ -326,7 +326,7 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 
 ### وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ (41)
 
-**Per the method (`USLUP.md`): I do not issue a legal ruling.** The details of the division and the question of whose the shares are have been disputed among the schools of law; **I confine myself to transmitting the disagreement, and I enter the record that it is not binding.**
+**Per the method (`STYLE.md`): I do not issue a legal ruling.** The details of the division and the question of whose the shares are have been disputed among the schools of law; **I confine myself to transmitting the disagreement, and I enter the record that it is not binding.**
 
 **What is to be recorded on the linguistic side of the verse is this:** four of the five groups enumerated **are the same as the addressees of spending treated in `002-bakara.md` 2/177 and 2/215** (near relatives, orphans, the poor, the wayfarer). **That is: the division after a battle is attached to the ordinary list of those who are spent upon.**
 
@@ -383,7 +383,7 @@ The lexicographers explain this idiom as **strength, ascendancy, affairs going w
 
 **I record this as my own reading:** al-Anfāl places the same principle in the context of **a favour's being taken back.** **And it overlaps with the twenty-sixth verse of the sūra:** there, *fa-āwākum wa ayyadakum bi-naṣrih* — what had been given was recalled.
 
-**A record per the method (`USLUP.md`):** this verse and al-Raʿd 13/11 are not to be made instruments of current political debates; they are not so used in this commentary.
+**A record per the method (`STYLE.md`):** this verse and al-Raʿd 13/11 are not to be made instruments of current political debates; they are not so used in this commentary.
 
 ### وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ (58)
 
@@ -405,7 +405,7 @@ The lexicographers explain this idiom as **strength, ascendancy, affairs going w
 
 ### Reading the two verses together
 
-**Per the method (`USLUP.md`) I treat these two verses without separating them, because they come one after the other and each is the limit of the other.**
+**Per the method (`STYLE.md`) I treat these two verses without separating them, because they come one after the other and each is the limit of the other.**
 
 **In the sixtieth verse preparation is commanded, and the ground is stated: *turhibūna bih* — deterrence.**
 
@@ -419,7 +419,7 @@ The lexicographers explain this idiom as **strength, ascendancy, affairs going w
 
 **And the sixty-second verse meets the possibility of being deceived as well:** *wa in yurīdū an yakhdaʿūka fa-inna ḥasbaka'llāh.* **That is: the command to incline towards peace is not cancelled by a concern for security — the outcome is attached elsewhere.**
 
-**A record per the method (`USLUP.md`):** no current political or military conclusions are drawn from these verses. **The frame of the verses themselves is a state of war between two sides.**
+**A record per the method (`STYLE.md`):** no current political or military conclusions are drawn from these verses. **The frame of the verses themselves is a state of war between two sides.**
 
 ---
 
@@ -496,7 +496,7 @@ The lexicographers explain this idiom as **strength, ascendancy, affairs going w
 | Muḥammad 47/4 | **After the captives are taken** — two options: release without return, or ransom |
 | **al-Anfāl 8/67** | **Before the captives are taken** — a condition of timing |
 
-**Per the method (`USLUP.md`): I do not issue a legal ruling.** The rulings drawn from these verses and the relation between the two verses have been disputed in the classical sources; **I confine myself to transmitting the disagreement, and I do not impose a preference.**
+**Per the method (`STYLE.md`): I do not issue a legal ruling.** The rulings drawn from these verses and the relation between the two verses have been disputed in the classical sources; **I confine myself to transmitting the disagreement, and I do not impose a preference.**
 
 ### قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ (70)
 

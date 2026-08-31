@@ -365,7 +365,7 @@ This verse is made the subject of a "scientific miracle" claim in modern religio
 
 **Three.** The verse's own work is something else. This is an oath, and the answer to the oath is in the next verse: *"you are in a contradictory word."* The sky here, that is, is named not as a source of information but as a **contrast**: above, order; below, disorder. This contrast will be taken up below, and the verse's real force is there.
 
-**Four.** The rule of `USLUP.md`: no hunting for scientific miracles. The application here is plain — the meaning of the word is given and not cut short; a reader may take the image of "weaving" as an occasion for thought on his own account; but this cannot be presented as the verse's claim.
+**Four.** The rule of `STYLE.md`: no hunting for scientific miracles. The application here is plain — the meaning of the word is given and not cut short; a reader may take the image of "weaving" as an occasion for thought on his own account; but this cannot be presented as the verse's claim.
 
 ### The verse's real work: the opposition of two sentences
 
@@ -2336,7 +2336,7 @@ The work of the three verses, that is, is not to give information but to **prepa
 
 And this argument works equally well for a Meccan of the seventh century and for a reader today. To turn the verse into a description in cosmology makes the argument invisible.
 
-**To sum up:** the word's sense of "breadth" is given and not cut short; the "widening" branch of the root *wusʿ* is real and is not hidden; but the claim that the verse **announces the metric expansion of the universe** lacks grammatical support (there is no object), does not coincide conceptually (*samāʾ* ≠ the universe), runs backwards in method (the information is taken first), and weakens the verse. The rule of `USLUP.md` that no hunting for scientific miracles is done exists precisely to preserve this distinction.
+**To sum up:** the word's sense of "breadth" is given and not cut short; the "widening" branch of the root *wusʿ* is real and is not hidden; but the claim that the verse **announces the metric expansion of the universe** lacks grammatical support (there is no object), does not coincide conceptually (*samāʾ* ≠ the universe), runs backwards in method (the information is taken first), and weakens the verse. The rule of `STYLE.md` that no hunting for scientific miracles is done exists precisely to preserve this distinction.
 
 **One further record.** This rejection does not mean that the verse contradicts modern science. The verse makes no such claim; and so there is nothing for it to contradict. The same record entered for 86/7 in the section on al-Ṭāriq holds here as well.
 

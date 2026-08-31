@@ -31,7 +31,7 @@
 
 ### الٓر
 
-**The general note on the disconnected letters has been entered in the series** (`002-bakara.md`, `050-kaf.md`, `068-kalem.md`, `046-ahkaf.md`, `043-zuhruf.md`). **Its summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them claims certainty.** Per the method (`USLUP.md`) no claims resting on a calculation of letters and numbers are entered into. **I do not repeat it here.**
+**The general note on the disconnected letters has been entered in the series** (`002-bakara.md`, `050-kaf.md`, `068-kalem.md`, `046-ahkaf.md`, `043-zuhruf.md`). **Its summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them claims certainty.** Per the method (`STYLE.md`) no claims resting on a calculation of letters and numbers are entered into. **I do not repeat it here.**
 
 **All that can be recorded is a fact of word order that can be verified:** in every sūra that opens with *alif-lām-rā*, **the Book** is mentioned immediately after the opening. Here it comes in a single word: *kitābun.*
 
@@ -329,7 +329,7 @@
 
 **Three peoples are named, the fourth is not: *wa'lladhīna min baʿdihim* — "and those after them."** And immediately after, a note: **"none but God knows them."**
 
-**I record this as an observation about the word order:** the verse does not close the list, **and it says that it does not close it.** **Per the method (`USLUP.md`) I do not enter here into a counting of peoples, a chronology, or a guess as to who the unnamed communities are** — the verse itself declares that it does not give this information.
+**I record this as an observation about the word order:** the verse does not close the list, **and it says that it does not close it.** **Per the method (`STYLE.md`) I do not enter here into a counting of peoples, a chronology, or a guess as to who the unnamed communities are** — the verse itself declares that it does not give this information.
 
 ### فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ — one of the most disputed idioms in the Qurʾān
 
@@ -990,7 +990,7 @@ The concrete sense of the root **ض-ر-ب** is **to strike**; and in Arabic the 
 
 **Different views are transmitted in the classical sources as to whom this verse was revealed about** — certain leading men of Mecca, or Quraysh in general. **I give no name, because I do not write an attribution I am not sure of.**
 
-**And the language of the verse gives no name in any case:** *alladhīna baddalū* — a description by way of an attribute. **Per the method (`USLUP.md`) I record it: the ruling is attached not to a community but to a behaviour.**
+**And the language of the verse gives no name in any case:** *alladhīna baddalū* — a description by way of an attribute. **Per the method (`STYLE.md`) I record it: the ruling is attached not to a community but to a behaviour.**
 
 ---
 
@@ -1078,7 +1078,7 @@ The concrete sense of the root **ض-ر-ب** is **to strike**; and in Arabic the 
 
 **The word comes in the dual: *dāʾibayn* — "both of them unceasing."**
 
-**Per the method (`USLUP.md`) I draw a boundary:** I derive from this word no modern description of the motion of the heavenly bodies. **The dictionary sense of the word is "going on without a break"; what the verse says to its hearer is that the sun and the moon do their work without interruption.** To produce a piece of astronomy from this would be to make the text say what it does not say.
+**Per the method (`STYLE.md`) I draw a boundary:** I derive from this word no modern description of the motion of the heavenly bodies. **The dictionary sense of the word is "going on without a break"; what the verse says to its hearer is that the sun and the moon do their work without interruption.** To produce a piece of astronomy from this would be to make the text say what it does not say.
 
 ### وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ
 
@@ -1121,7 +1121,7 @@ The concrete sense of the root **ض-ر-ب** is **to strike**; and in Arabic the 
 
 **I record this as an observation:** the block begins with a counting of favours and ends with an attribute of man. **And the attribute is not "unbelieving" but "covering over" — that is, making invisible what he has seen.** **The core of the root ك-ف-ر was analysed in `002-bakara.md`; I do not repeat it.**
 
-**And the verdict is given not to a community but to *al-insān*.** **Per the method (`USLUP.md`) I record it: the verse gives no name of a group, it describes a human tendency** — and other instances of this pattern have been treated in the series (`100-adiyat.md` 100/6, `070-mearic.md` 70/19, `089-fecr.md` 89/15-16). **I rely on those treatments.**
+**And the verdict is given not to a community but to *al-insān*.** **Per the method (`STYLE.md`) I record it: the verse gives no name of a group, it describes a human tendency** — and other instances of this pattern have been treated in the series (`100-adiyat.md` 100/6, `070-mearic.md` 70/19, `089-fecr.md` 89/15-16). **I rely on those treatments.**
 
 ---
 

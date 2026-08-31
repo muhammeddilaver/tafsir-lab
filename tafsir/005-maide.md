@@ -43,7 +43,7 @@ Ve *mîsâk* (sağlam söz, antlaşma) kelimesi sûrede tekrar tekrar döner. **
 
 **Bunu kendi okumam olarak kaydediyorum; dayanağı kelimelerin kendisi ve yerleridir.** Sûre bir topluluğun geçmişini anlatmak için değil, **söz vermenin ne olduğunu** göstermek için bu malzemeyi kullanıyor.
 
-**Ve buradan doğan bir üslup kaydı — bu bölümün baştan sona uyduğu kayıttır:** sûrede geçen "İsrâiloğulları", "nasârâ", "yahûd" ifadeleri, bu bölümde **hiçbir yerde bir topluluk hakkında toptan hüküm** olarak okunmayacaktır. Sebep metnin kendisidir: ayetler ya **şarta** bağlıdır (*le-in ekamtümü's-salâte…*, 5/12), ya **bir fiile** bağlıdır (*fe-bimâ nakdıhim*, 5/13), ya da açıkça **bölerek** konuşur (*minhüm*, *ferîkun minhüm*, *kesîrun minhüm*, *ümmetün muktesıde*). Bu, USLUP'ta konan "bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği **vasıflardır**" kaydının bu sûredeki karşılığıdır ve metnin kendisinden çıkar.
+**Ve buradan doğan bir üslup kaydı — bu bölümün baştan sona uyduğu kayıttır:** sûrede geçen "İsrâiloğulları", "nasârâ", "yahûd" ifadeleri, bu bölümde **hiçbir yerde bir topluluk hakkında toptan hüküm** olarak okunmayacaktır. Sebep metnin kendisidir: ayetler ya **şarta** bağlıdır (*le-in ekamtümü's-salâte…*, 5/12), ya **bir fiile** bağlıdır (*fe-bimâ nakdıhim*, 5/13), ya da açıkça **bölerek** konuşur (*minhüm*, *ferîkun minhüm*, *kesîrun minhüm*, *ümmetün muktesıde*). Bu, STYLE'da konan "bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği **vasıflardır**" kaydının bu sûredeki karşılığıdır ve metnin kendisinden çıkar.
 
 ---
 
@@ -278,7 +278,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ### Bu bölümde ne yapılıyor, ne yapılmıyor
 
-**Bu ayet bir fıkıh ayetidir ve USLUP gereği burada fıkhî hüküm verilmeyecektir.** Yapılacak olan şudur: **listedeki her kelimenin sözlük anlamı verilecek, listenin yapısı gösterilecek ve ayetin kendi kayıtları öne çıkarılacaktır.** Hangi durumda neyin yenip yenmeyeceği, kesim şartları, mezheplerin ayrıntılı görüşleri ve çağdaş uygulamalar **bu bölümün konusu değildir ve karara bağlanmamıştır.**
+**Bu ayet bir fıkıh ayetidir ve STYLE gereği burada fıkhî hüküm verilmeyecektir.** Yapılacak olan şudur: **listedeki her kelimenin sözlük anlamı verilecek, listenin yapısı gösterilecek ve ayetin kendi kayıtları öne çıkarılacaktır.** Hangi durumda neyin yenip yenmeyeceği, kesim şartları, mezheplerin ayrıntılı görüşleri ve çağdaş uygulamalar **bu bölümün konusu değildir ve karara bağlanmamıştır.**
 
 ### Listenin yapısı — dört + beş + iki
 
@@ -516,7 +516,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ### Bu bölümde ne yapılıyor, ne yapılmıyor
 
-**Bu ayet, klasik fıkıh literatürünün en yoğun tartışılan alanlarından birinin kaynağıdır. USLUP gereği burada fıkhî hüküm verilmiyor.** Yapılacak olan: kelimelerin dil yönünü vermek, ayetin kendi kayıtlarını göstermek ve **ihtilafı tarafsız bir tablo hâlinde aktarmaktır.** Aşağıdaki tabloların hiçbiri bu metnin tercihi değildir ve **hiçbiri bağlayıcı değildir.**
+**Bu ayet, klasik fıkıh literatürünün en yoğun tartışılan alanlarından birinin kaynağıdır. STYLE gereği burada fıkhî hüküm verilmiyor.** Yapılacak olan: kelimelerin dil yönünü vermek, ayetin kendi kayıtlarını göstermek ve **ihtilafı tarafsız bir tablo hâlinde aktarmaktır.** Aşağıdaki tabloların hiçbiri bu metnin tercihi değildir ve **hiçbiri bağlayıcı değildir.**
 
 ### Karşılıklılık — cümlenin biçimi
 
@@ -624,7 +624,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ### Bu bölümde ne yapılıyor, ne yapılmıyor
 
-**Bu ayet abdest, gusül ve teyemmüm hükümlerinin ana kaynağıdır ve mezhepler arasında en çok ayrıntı üretmiş ayetlerden biridir. USLUP gereği bu bölümde fıkhî ayrıntıya ve mezhep tartışmasına girilmiyor.** Kelimelerin dil yönü verilecek, **ayetin sonundaki gerekçe cümlesi öne çıkarılacaktır** — çünkü bu bölümün konusu odur.
+**Bu ayet abdest, gusül ve teyemmüm hükümlerinin ana kaynağıdır ve mezhepler arasında en çok ayrıntı üretmiş ayetlerden biridir. STYLE gereği bu bölümde fıkhî ayrıntıya ve mezhep tartışmasına girilmiyor.** Kelimelerin dil yönü verilecek, **ayetin sonundaki gerekçe cümlesi öne çıkarılacaktır** — çünkü bu bölümün konusu odur.
 
 ### Kelimeler
 
@@ -650,7 +650,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ### Kıraat kaydı
 
-**وَأَرْجُلَكُمْ** kelimesinin hem **nasb** (*ercüleküm*) hem **cer** (*ercüliküm*) ile okunduğu meşhurdur ve **anlamı değiştirdiği için USLUP gereği kaydedilmesi gerekir:**
+**وَأَرْجُلَكُمْ** kelimesinin hem **nasb** (*ercüleküm*) hem **cer** (*ercüliküm*) ile okunduğu meşhurdur ve **anlamı değiştirdiği için STYLE gereği kaydedilmesi gerekir:**
 
 | Okuyuş | Bağlandığı fiil | Anlam |
 |---|---|---|
@@ -951,7 +951,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ### Bölümün okunma biçimi — baştan konan kayıt
 
-**5/12'den 5/26'ya kadar süren bu blok, geçmiş toplulukların aldığı sözlerden ve o sözlere ne olduğundan söz eder. USLUP gereği bu bölüm boyunca korunacak kayıtlar şunlardır ve metnin kendisinden çıkarlar:**
+**5/12'den 5/26'ya kadar süren bu blok, geçmiş toplulukların aldığı sözlerden ve o sözlere ne olduğundan söz eder. STYLE gereği bu bölüm boyunca korunacak kayıtlar şunlardır ve metnin kendisinden çıkarlar:**
 
 1. **Ayetlerin yapısı şartlıdır.** 12. ayetin merkezinde *le-in* (eğer) vardır ve vaad beş şarta bağlanmıştır. Şartlı bir cümleden, şartlardan bağımsız bir kimlik hükmü çıkarılamaz.
 2. **Sonuç, kimliğe değil fiile bağlanır.** 13. ayet *fe-bimâ **nakdıhim** mîsâkahüm* ile başlar: sebep, **söz bozmak** fiilidir.
@@ -1232,7 +1232,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Cümlenin öznesi bir topluluk adı değil, bir sözdür: *ellezîne kālû* — "diyenler."**
 
-**Bu, bu bölümde defalarca kaydedilecek bir yapıdır ve USLUP'un "hüküm vasfa bağlanır" kaydının metindeki karşılığıdır.** Ayet bir grup adı anmıyor; **belirli bir cümleyi** anıyor ve hükmü o cümleye bağlıyor.
+**Bu, bu bölümde defalarca kaydedilecek bir yapıdır ve STYLE'ın "hüküm vasfa bağlanır" kaydının metindeki karşılığıdır.** Ayet bir grup adı anmıyor; **belirli bir cümleyi** anıyor ve hükmü o cümleye bağlıyor.
 
 **Aynı yapı 5/72 ve 5/73'te tekrarlanacak, üçünde de aynı kalıp kullanılacaktır: *lekad kefera'llezîne kālû…***
 
@@ -1959,7 +1959,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 | C | **Hükmü inkâr ederek** terk eden ile **kabul edip nefsine uyarak** terk eden ayrılır; birincisi ilk kelimeye, ikincisi diğerlerine girer |
 | D | Ayetlerin **kendi bağlamına** (Ehl-i Kitap'ın elindeki kitapla hükmetmemesi) hasredilmesi |
 
-**Bu tefsirde tercih yapılmıyor, hüküm kurulmuyor ve hiçbir kişi ya da topluluk hakkında bu ayetlerle sıfat tayin edilmiyor.** **USLUP gereği: ayet vasıf tarif eder; kimin o vasfa girdiğinin tespiti bu tefsirin işi değildir.**
+**Bu tefsirde tercih yapılmıyor, hüküm kurulmuyor ve hiçbir kişi ya da topluluk hakkında bu ayetlerle sıfat tayin edilmiyor.** **STYLE gereği: ayet vasıf tarif eder; kimin o vasfa girdiğinin tespiti bu tefsirin işi değildir.**
 
 **Ancak metinden doğrulanabilir üç kayıt vardır ve bunlar kaydedilmelidir:**
 
@@ -2039,7 +2039,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ### Ayetin kendi kayıtları ve Kur'an'ın kendi kaydı
 
-**USLUP gereği burada bir sınır çizilmelidir: bu ayetten bir topluluk hakkında toptan hüküm çıkarılmıyor.** **Bunun gerekçesi dışarıdan bir mülahaza değil, metnin kendi cümleleridir:**
+**STYLE gereği burada bir sınır çizilmelidir: bu ayetten bir topluluk hakkında toptan hüküm çıkarılmıyor.** **Bunun gerekçesi dışarıdan bir mülahaza değil, metnin kendi cümleleridir:**
 
 | Kayıt | Nerede |
 |---|---|
@@ -2130,7 +2130,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Ayette geçen ifadelerin (*el-kıredete ve'l-hanâzîr*) neye işaret ettiği üzerine `002-bakara.md` 2/65 ve `007-araf.md` 7/166'da işlenen tartışma vardır** — **gerçek bir dönüşüm mü, yoksa mecaz mı olduğu klasik tefsirde tartışılmıştır.** **Tercih yapılmıyor.**
 
-**USLUP gereği burada açıkça kaydedilir:** **bu ifadeler bir topluluğun tamamı hakkında bir nitelik değildir.** **Ayetin kendisi *ve ceale minhüm* diyor — yine *min*, yine teb'îz. Ve fiiller geçmiş zamandır: belirli bir olay anlatılıyor.**
+**STYLE gereği burada açıkça kaydedilir:** **bu ifadeler bir topluluğun tamamı hakkında bir nitelik değildir.** **Ayetin kendisi *ve ceale minhüm* diyor — yine *min*, yine teb'îz. Ve fiiller geçmiş zamandır: belirli bir olay anlatılıyor.**
 
 **Bu tefsirde hiçbir topluluk hakkında bu ayetle sıfat kurulmuyor** — **ve bu kayıt, ayetin kendi harfinden çıkmaktadır.**
 
@@ -2160,7 +2160,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ### Nakledilen bir söz
 
-**USLUP gereği kaydedilmelidir:** ayet, bir topluluğa **vasıf** yüklemiyor; **söylenmiş bir sözü naklediyor ve o söze cevap veriyor.** **Cümlenin öznesi *kālet*tir — bir fiil.**
+**STYLE gereği kaydedilmelidir:** ayet, bir topluluğa **vasıf** yüklemiyor; **söylenmiş bir sözü naklediyor ve o söze cevap veriyor.** **Cümlenin öznesi *kālet*tir — bir fiil.**
 
 **غ-ل-ل** kökü: **boyna ya da ele geçirilen halka, kelepçe; sıkıca bağlamak.** ***Ğull* — bukağı.**
 
@@ -2172,7 +2172,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Cevap, aynı deyimi tersine çeviriyor — ve *tesniye* (ikil) kalıbıyla veriyor: *yedâhu*.**
 
-**Müteşâbih ifadeler konusunda bu tefsirin tutumu USLUP'ta belirlenmiştir ve burada da uygulanır:** **keyfiyet tartışmasına girilmiyor.** **Selef çizgisinde "olduğu gibi kabul, keyfiyeti Allah'a havale" tutumu ile te'vil çizgisinde "kudret ve cömertlikten kinaye" okuması klasik tefsirde yan yana bulunur; tercih yapılmıyor.**
+**Müteşâbih ifadeler konusunda bu tefsirin tutumu STYLE'da belirlenmiştir ve burada da uygulanır:** **keyfiyet tartışmasına girilmiyor.** **Selef çizgisinde "olduğu gibi kabul, keyfiyeti Allah'a havale" tutumu ile te'vil çizgisinde "kudret ve cömertlikten kinaye" okuması klasik tefsirde yan yana bulunur; tercih yapılmıyor.**
 
 **Ancak dil düzeyinde şu kaydedilebilir:** cümle, muhatabın kullandığı **deyimin içinden** cevap veriyor — bağlı ele karşı **açık el**. **Ve *yünfiku keyfe yeşâ'* ile deyimin anlamı açıkça söyleniyor: veriş.**
 
@@ -2212,7 +2212,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 |---|---|
 | *Ve kesîrun minhüm sâe mâ ya'melûn* | **Çoğunun yaptığı kötü** |
 
-**İki cümle aynı ayetin içindedir.** **Bu, USLUP'un toptan hüküm yasağının metindeki en açık dayanaklarından biridir ve kaydedilmelidir.**
+**İki cümle aynı ayetin içindedir.** **Bu, STYLE'ın toptan hüküm yasağının metindeki en açık dayanaklarından biridir ve kaydedilmelidir.**
 
 ### 5/67 — يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ
 
@@ -2236,7 +2236,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 **Cümlenin yapısı burada kaydedilmelidir:** dört topluluk **isimle** sayılıyor, sonra hüküm **isme değil** *men âmene … ve amile sâlihâ* şartına bağlanıyor. **Yani sayılan isimler hükmün öznesi değil, hükmün kapsamının genişliğini göstermek için anılıyor.**
 
-**Müfessirler bu ayetin kapsamında ayrılır; tercih yapılmıyor ve bu tefsirde kimin kurtulup kimin kurtulmayacağına dair hüküm kurulmuyor.** **Bu, USLUP gereği bilinçli bir sınırdır.**
+**Müfessirler bu ayetin kapsamında ayrılır; tercih yapılmıyor ve bu tefsirde kimin kurtulup kimin kurtulmayacağına dair hüküm kurulmuyor.** **Bu, STYLE gereği bilinçli bir sınırdır.**
 
 **Not:** *es-Sâbiûn* kelimesinin buradaki i'râbı üzerine nahiv kitaplarında ayrıntılı bir tartışma vardır (merfû gelişinin sebebi). **Konu dil düzeyindedir ve burada tercih yapılmıyor.**
 
@@ -2268,7 +2268,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ### Hükmün öznesi
 
-**USLUP gereği kaydedilmelidir:** cümlenin öznesi *ellezîne **kālû*** — **"şöyle diyenler".** **Yani hüküm bir topluluğa değil, belirli bir söze bağlanıyor.**
+**STYLE gereği kaydedilmelidir:** cümlenin öznesi *ellezîne **kālû*** — **"şöyle diyenler".** **Yani hüküm bir topluluğa değil, belirli bir söze bağlanıyor.**
 
 **Ve ayet, karşı delili Mesîh'in kendi sözünden getiriyor: *ve kāle'l-Mesîhu yâ benî İsrâîle'büdüllâhe rabbî ve rabbeküm.***
 
@@ -2334,7 +2334,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ### Ayetin kendi gerekçesi
 
-**USLUP gereği burada en açık kaydı koymak gerekir ve dayanağı ayetin kendisidir:** **cümle bir sebep bildiriyor** — ***zâlike bi-enne minhüm kıssîsîne ve ruhbânen ve ennehüm lâ yestekbirûn.***
+**STYLE gereği burada en açık kaydı koymak gerekir ve dayanağı ayetin kendisidir:** **cümle bir sebep bildiriyor** — ***zâlike bi-enne minhüm kıssîsîne ve ruhbânen ve ennehüm lâ yestekbirûn.***
 
 | Verilen gerekçe | Ne tür bir şey |
 |---|---|
@@ -2532,7 +2532,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 | **Geçmiş için** | *Afâllâhu anhâ* |
 | **Uyarı** | 102: *Kad seelehâ kavmün min kabliküm sümme asbahû bihâ kâfirîn* |
 
-**USLUP gereği kaydedilir:** **bu ayet, öğrenmeyi ve anlamayı yasaklayan bir ayet olarak okunmuyor.** **Bunun gerekçesi metnin kendisidir:** aynı Kitap *fes'elû ehle'z-zikri in küntüm lâ ta'lemûn* (`016-nahl.md` 16/43) diyor ve `009-tevbe.md` 9/122'de ilim için sefere çıkılması emrediliyor.
+**STYLE gereği kaydedilir:** **bu ayet, öğrenmeyi ve anlamayı yasaklayan bir ayet olarak okunmuyor.** **Bunun gerekçesi metnin kendisidir:** aynı Kitap *fes'elû ehle'z-zikri in küntüm lâ ta'lemûn* (`016-nahl.md` 16/43) diyor ve `009-tevbe.md` 9/122'de ilim için sefere çıkılması emrediliyor.
 
 **Bunu kendi okumam olarak kaydediyorum:** yasağın konusu, **cevabı yükümlülük doğuracak** ya da **açıklanması sıkıntı verecek** ayrıntıların, hüküm henüz inmemişken kurcalanmasıdır. **Ve 102. ayet bunun sonucunu gösteriyor: soruyu soran topluluk, gelen cevabın altında kalmıştır.**
 

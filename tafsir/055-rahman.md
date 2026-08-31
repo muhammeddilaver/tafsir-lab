@@ -517,7 +517,7 @@ Yani sûre, Zâriyât 51/49'un ilkesini **bir metnin biçimine dönüştürmüş
 
 **Bunu kendi okumam olarak kaydediyorum.** Ayetlerin lafızları ve sûrenin ikil kipleri metindedir; aralarında kurduğum bağ bir yorumdur ve klasik bir müfessire nispet etmiyorum.
 
-Ve bir kayıt daha: bu, **bir sayı hesabı değildir.** USLUP'ta yasaklanan şey harf ve sayı hesabına dayalı iddialardır; burada sayılan bir şey yok. Kaydedilen, bir gramer kipinin sûre boyunca baskın olmasıdır — ki bu, herhangi bir mushaf açılıp doğrulanabilir.
+Ve bir kayıt daha: bu, **bir sayı hesabı değildir.** STYLE'da yasaklanan şey harf ve sayı hesabına dayalı iddialardır; burada sayılan bir şey yok. Kaydedilen, bir gramer kipinin sûre boyunca baskın olmasıdır — ki bu, herhangi bir mushaf açılıp doğrulanabilir.
 
 ---
 
@@ -1520,7 +1520,7 @@ Ayeti bir keşif haberine çevirmek, onun sûre içindeki işini görünmez kıl
 
 - **Kelimelerin anlamı verilir ve eksiltilmez:** iki su kütlesi salıverilmiştir, kavuşurlar, aralarında bir engel vardır ve birbirlerinin sınırını aşmazlar. Bu, ayetin düz anlamıdır ve tartışmasızdır.
 - **Bu tarifin modern oşinografideki bir olguyu çağrıştırdığını fark eden okur**, bu çağrışımı kendi payına bir düşünme vesilesi sayabilir.
-- **Ama bu, ayetin iddiası olarak sunulamaz ve bir mucize delili haline getirilemez.** USLUP'un "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
+- **Ama bu, ayetin iddiası olarak sunulamaz ve bir mucize delili haline getirilemez.** STYLE'ın "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
 
 ---
 

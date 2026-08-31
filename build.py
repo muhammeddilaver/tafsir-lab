@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""tefsir/*.md -> site/index.html
+"""tafsir/*.md -> site/index.html
 
-Markdown alt kumesi: h1/h2/h3, **kalin**, *egik*, `kod`, tablolar,
---- yatay cizgi, - madde, > alinti. Arapca metin otomatik isaretlenir.
+A Markdown subset: h1/h2/h3, **bold**, *italic*, `code`, tables,
+--- horizontal rule, - list items, > quotes. Arabic text is marked up
+automatically.
 """
 import re, os, json, html, glob
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(ROOT, "tefsir")
+SRC = os.path.join(ROOT, "tafsir")
 OUT = os.path.join(ROOT, "site")
 
 AR = r"؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿"
@@ -20,7 +21,7 @@ def esc(s):
     return html.escape(s, quote=False)
 
 def wrap_arabic(s):
-    """Arapca kosularini <span class=ar> ile sar (escape SONRASI calisir)."""
+    """Wrap Arabic runs in <span class=ar> (runs AFTER escaping)."""
     return AR_RE.sub(lambda m: f'<span class="ar">{m.group(0)}</span>', s)
 
 def inline(s):
@@ -77,7 +78,7 @@ def render_blocks(lines, sura_no, sura_name, roots, counters):
             if lvl == 2:
                 counters[0] += 1
                 cur_anchor = f"s{sura_no}-{counters[0]}"
-                # "2/6 — <arabic>" bicimini ayir
+                # split the "2/6 — <arabic>" form
                 mm = re.match(r"^(.*?)\s+—\s+(.*)$", txt)
                 if mm and is_mostly_arabic(mm.group(2)):
                     label, arab = mm.group(1), mm.group(2)
@@ -122,13 +123,13 @@ def render_blocks(lines, sura_no, sura_name, roots, counters):
             out.append(f'<blockquote>{inline(" ".join(buf))}</blockquote>')
             continue
 
-        # paragraf
+        # paragraph
         buf = []
         while i < n and lines[i].strip() and not re.match(r"^(#{2,4}\s|[-*]\s|\||>|---$)", lines[i].strip()):
             buf.append(lines[i].strip()); i += 1
         if not buf:
-            # hicbir dala girmeyen satir (ornegin basliksiz tablo satiri):
-            # oldugu gibi paragraf yap ve ILERLE — yoksa sonsuz dongu olur.
+            # a line matching no branch (a table row with no header, say):
+            # emit it as a paragraph and ADVANCE — otherwise this loops forever.
             buf.append(st); i += 1
         para = " ".join(buf)
         roots.extend(find_roots(para, sura_no, sura_name, cur_anchor))
@@ -163,7 +164,7 @@ def build():
         suras.append({"no": no, "name": name, "title": title, "html": htmlbody,
                       "words": words, "ayahs": ayah_ct})
 
-    # kok dizini
+    # root index
     agg = {}
     seen = {}
     for r in roots:
@@ -188,8 +189,8 @@ def build():
                        + ";const STATS=" + json.dumps({"words": total_words, "ayahs": total_ayahs,
                                                        "suras": len(suras)}, ensure_ascii=False) + ";")
     open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(page)
-    print(f"{len(suras)} sure | {total_ayahs} ayet bolumu | {total_words} kelime | "
-          f"{len(rootlist)} kok | {len(page)//1024} KB")
+    print(f"{len(suras)} suras | {total_ayahs} verse sections | {total_words} words | "
+          f"{len(rootlist)} roots | {len(page)//1024} KB")
 
 if __name__ == "__main__":
     build()

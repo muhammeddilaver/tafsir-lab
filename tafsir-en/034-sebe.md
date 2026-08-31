@@ -130,7 +130,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 ### مِثْقَالُ ذَرَّةٍ — what the word meant then
 
-**Per the method (`USLUP.md`) a limit has to be set here, and I set it plainly: the atom of modern physics cannot be drawn out of this word.** What the word meant in the language in which the Qurʾān came down is known, and the senses the lexicographers give are these:
+**Per the method (`STYLE.md`) a limit has to be set here, and I set it plainly: the atom of modern physics cannot be drawn out of this word.** What the word meant in the language in which the Qurʾān came down is known, and the senses the lexicographers give are these:
 
 | Sense given | Explanation |
 |---|---|
@@ -228,7 +228,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **أُوتُوا۟ ٱلْعِلْمَ** — the verb is passive: **"those who have been given knowledge".** Knowledge, that is, is named not as something acquired but as **something given**. At `035-fatir.md` 35/28 (*innamā yakhsha'llāha min ʿibādihi'l-ʿulamāʾ*) the link between those who know and awe was treated; **I rely on that treatment, and record the difference here:** in Fāṭir those who know **feared**; here they **see.**
 
-**And I issue no narrowing ruling as to who is meant in the verse.** Per the method (`USLUP.md`): what the verse describes is an **attribute** — having been given knowledge — and whoever bears that attribute is included in it.
+**And I issue no narrowing ruling as to who is meant in the verse.** Per the method (`STYLE.md`): what the verse describes is an **attribute** — having been given knowledge — and whoever bears that attribute is included in it.
 
 **صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ** — and the owner of the path is named with two names. **The second must be recorded: *al-ḥamīd*.** **The sūra opened with praise in the first verse; in the sixth verse the root of praise returns as a name.** This is a link that can be verified within the sūra.
 
@@ -520,7 +520,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **And the placing of the clause must be recorded:** while enumerating what was given to Solomon, the verse inserts **a note about punishment**. **That is, what was given is not presented as an unlimited disposal;** the command to which the workers are bound is named in the same sentence.
 
-**A note about the jinn, per the method (`USLUP.md`):** at `072-cin.md` the limit was set that one does not go beyond what the text states about unseen beings. **I rely on that.** What the verse says is this: they were working, they were working **by leave**, and whoever swerved from the command had his recompense.
+**A note about the jinn, per the method (`STYLE.md`):** at `072-cin.md` the limit was set that one does not go beyond what the text states about unseen beings. **I rely on that.** What the verse says is this: they were working, they were working **by leave**, and whoever swerved from the command had his recompense.
 
 ---
 
@@ -583,7 +583,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **تَمَٰثِيل** — the plural of *timthāl*; root **م-ث-ل**: **to resemble, to make the like of a thing.** The word is thus wider than "statue": **to bring out the image or likeness of something.**
 
-**There is a legal debate about this word, and per the method (`USLUP.md`) I issue no legal ruling.** What is to be recorded is this: **the verse states that these things were made for Solomon; it does not frame a sentence either approving or forbidding them.** Differing views are transmitted on the question in the classical commentaries; **I content myself with transmitting them.**
+**There is a legal debate about this word, and per the method (`STYLE.md`) I issue no legal ruling.** What is to be recorded is this: **the verse states that these things were made for Solomon; it does not frame a sentence either approving or forbidding them.** Differing views are transmitted on the question in the classical commentaries; **I content myself with transmitting them.**
 
 **جِفَانٍ كَٱلْجَوَابِ** — *jifān*, the plural of *jafna*: **a large bowl, a trough.** *Jawāb* is the plural of *jābiya*: **a basin in which water is stored, a cistern.** **Hence "bowls like reservoirs".**
 
@@ -601,7 +601,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 ### The conclusion the verse itself draws
 
-**A great many details are transmitted around this story: how long he stayed thus, when the worm gnawed the staff, what the jinn did.** **Per the method (`USLUP.md`) I do not go into these details; I do not add to the verse what is not in it.**
+**A great many details are transmitted around this story: how long he stayed thus, when the worm gnawed the staff, what the jinn did.** **Per the method (`STYLE.md`) I do not go into these details; I do not add to the verse what is not in it.**
 
 **The verse itself states a conclusion, and all the weight lies there:** *an law kānū yaʿlamūna'l-ghayba mā labithū fi'l-ʿadhābi'l-muhīn* — **"had they known the unseen, they would not have remained in that humiliating punishment."**
 
@@ -1739,7 +1739,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ** — and the correction comes: the one really followed was another.
 
-**The limit set by the method (`USLUP.md`) concerning the jinn holds here too: I rely on the measure laid down at `072-cin.md`** — no description is produced beyond what the text states. **What the verse says is this: the direction of the attachment was not where the one who served supposed it to be.**
+**The limit set by the method (`STYLE.md`) concerning the jinn holds here too: I rely on the measure laid down at `072-cin.md`** — no description is produced beyond what the text states. **What the verse says is this: the direction of the attachment was not where the one who served supposed it to be.**
 
 **And the clause *aktharuhum bihim muʾminūn* must be recorded: "most of them had *faith* in them".** **The verb is the verb of *īmān*** — and here it is used not in a positive sense but in the sense of **attachment**. That is, the word states a trust whose direction is not specified.
 
@@ -2264,7 +2264,7 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **How the word is rendered must be recorded: "their like" or "those who took the same road".** **What is meant, that is, is not a lineage or a nation — but *those who share the same stance*.**
 
-**A note per the method (`USLUP.md`):** what the verse describes is an **attribute**. No blanket ruling is issued about a particular community; **whoever bears that attribute is included in it.**
+**A note per the method (`STYLE.md`):** what the verse describes is an **attribute**. No blanket ruling is issued about a particular community; **whoever bears that attribute is included in it.**
 
 **And the clause builds the idea of a settled way once more: *kamā fuʿila … min qabl* — "as was done before".** **At `040-gafir.md` 40/85 *sunnata'llāhi'llatī qad khalat fī ʿibādih* was treated in detail**, and **at `035-fatir.md` 35/43 (*fa-lan tajida li-sunnati'llāhi tabdīlā*) the same concept was treated.** **I rely on those treatments.**
 

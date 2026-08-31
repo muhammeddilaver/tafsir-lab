@@ -92,7 +92,7 @@ A few measures need to be set down:
 
 **Three. That the Qurʾān gives no name is not a deficiency but a choice.** We saw this in the first verse of Sūrat al-Mujādala as well: there too the woman's name was not given. The sūra recounts not a people but a **situation**: a community that had made an agreement, then took up position in the opposing rank, relied on its defences and was mistaken. The addressee of the verse is everyone who carries that attribute.
 
-**Four — and most important of all:** per the method (`USLUP.md`) no wholesale ruling is issued about an ethnic or religious group. This sūra takes as its subject a particular behaviour of a particular community at a historical moment. Indeed the sūra itself does not leave the picture one-sided: in the same section the **hypocrites** — that is, those who appear to be Muslims — are described in far heavier language (11-17). The criticism of the sūra is directed not at an identity but at a stance.
+**Four — and most important of all:** per the method (`STYLE.md`) no wholesale ruling is issued about an ethnic or religious group. This sūra takes as its subject a particular behaviour of a particular community at a historical moment. Indeed the sūra itself does not leave the picture one-sided: in the same section the **hypocrites** — that is, those who appear to be Muslims — are described in far heavier language (11-17). The criticism of the sūra is directed not at an identity but at a stance.
 
 Moreover the Qurʾān itself closes off any general ruling of enmity that might be drawn from a conflict of this kind:
 
@@ -801,7 +801,7 @@ What it does is to lay down a **measure**: the rightness of a financial regulati
 
 This measure has counterparts in modern economics — the measurement of the distribution of wealth, the velocity of circulation, the accessibility of resources are studied separately. But to read these back into the verse would be forcing. What the verse gives is not an instrument of measurement but a direction.
 
-**And a record, per the method (`USLUP.md`):** the concrete economic models drawn from this verse — which system, which rate, which regulation — are not the verse itself. The verse lays down a principle; how the principle is to be applied is the field of *ijtihād*, and it has been applied in different forms in history. I do not take sides in current political debates.
+**And a record, per the method (`STYLE.md`):** the concrete economic models drawn from this verse — which system, which rate, which regulation — are not the verse itself. The verse lays down a principle; how the principle is to be applied is the field of *ijtihād*, and it has been applied in different forms in history. I do not take sides in current political debates.
 
 ### وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
 

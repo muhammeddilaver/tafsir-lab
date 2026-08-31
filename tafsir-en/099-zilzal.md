@@ -333,7 +333,7 @@ A modern connection looks tempting here: that a place should carry the trace of 
 
 The only work the comparison does is this: the idea of "a place keeping a record" is not foreign to us today, whereas for the first hearers it was an entirely unaccustomed conception. This is why it is in one way easier and in another way harder for the present-day reader to feel the force of the verse.
 
-The rule laid down by the method (`USLUP.md`) holds here: modern information is not fitted onto a verse. Nor am I fitting any; I only point to an intuition the present-day reader already has.
+The rule laid down by the method (`STYLE.md`) holds here: modern information is not fitted onto a verse. Nor am I fitting any; I only point to an intuition the present-day reader already has.
 
 ---
 
@@ -493,7 +493,7 @@ In modern Arabic the word **ذَرَّة** is used as the equivalent of "atom": 
 
 To say that this verse speaks of the atom is **to read a later-given term back into the text.** The verse does not speak of physics; it speaks of the smallest weight its hearers knew.
 
-The rule laid down by the method (`USLUP.md`) holds here exactly: **no hunting for scientific miracles.** Nor am I hunting for any.
+The rule laid down by the method (`STYLE.md`) holds here exactly: **no hunting for scientific miracles.** Nor am I hunting for any.
 
 And this must be added: the force of the verse has no need of this claim in any case. **The verse does not rest on how small a mote physically is; it rests on its being the smallest thing a human being can imagine.** For the first hearers this was the young of an ant; today it may be something else. The function of the measure stays the same: *even the smallest quantity you can bring to mind is inside the reckoning.*
 
@@ -560,7 +560,7 @@ There is one further point to be noticed, and it is important:
 
 The verse does not say **"the one who believes"** or **"the one who disbelieves"**. It says **مَن** (whoever) — the particle of condition, in its most general form.
 
-That is, the ruling has been attached not to the person's identity but to **his act**. This is the textual counterpart of the principle recorded in this commentary's method (`USLUP.md`): what the verses describe are attributes, and whoever bears that attribute is included in them.
+That is, the ruling has been attached not to the person's identity but to **his act**. This is the textual counterpart of the principle recorded in this commentary's method (`STYLE.md`): what the verses describe are attributes, and whoever bears that attribute is included in them.
 
 A theological debate has been conducted over these two verses throughout history: what is the standing in the world to come of a good deed done by someone who does not believe? The relation of deeds to faith is taken up in other verses of the Qurʾān, and the matter is not confined to these two verses. The detail of the debate goes beyond the limits of this section; the only thing I record here is **that there is no note of identity in the wording of these two verses**.
 

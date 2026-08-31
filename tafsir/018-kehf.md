@@ -476,7 +476,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 ### وَأَمَّا ٱلْغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن يُرْهِقَهُمَا طُغْيَٰنًا وَكُفْرًا (80)
 
-**USLUP gereği bir kayıt:** bu olay, **bir insanın kendi kararıyla yapabileceği bir iş olarak sunulmuyor.** **Nitekim seksen ikinci ayet bunu açıkça söyleyecek: *ve mâ fealtühû an emrî* — "bunu kendiliğimden yapmadım."**
+**STYLE gereği bir kayıt:** bu olay, **bir insanın kendi kararıyla yapabileceği bir iş olarak sunulmuyor.** **Nitekim seksen ikinci ayet bunu açıkça söyleyecek: *ve mâ fealtühû an emrî* — "bunu kendiliğimden yapmadım."**
 
 **Bu cümle kıssanın hükmüdür ve bunu kendi okumam olarak kaydediyorum:** kıssadan **genel bir davranış kuralı** çıkarılamaz; **çıkarılabilecek olan, bilginin eksik olduğu yerde hükmün ertelenmesidir** — nitekim altmış sekizinci ayet bunu baştan söylemişti.
 
@@ -504,7 +504,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 "**Sana Zülkarneyn'i soruyorlar. De ki: size ondan bir anı okuyacağım.**"
 
-### USLUP gereği bir çerçeve
+### STYLE gereği bir çerçeve
 
 **Zülkarneyn'in kim olduğu Kur'an'da bildirilmemiştir.** Klasik ve modern kaynaklarda çeşitli tarihî kişilerle eşleştirildiği nakledilir; **bunların hiçbiri kesin bilgi değildir ve bu tefsirde tercih edilmemektedir.**
 
@@ -518,7 +518,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin kendisidir:** cümle güneşin nerede battığını **bildirmiyor**; Zülkarneyn'in **ne gördüğünü** anlatıyor. **Fiil, gözlemcinin konumuna bağlı.** Ve aynı fiil bir sonraki sahnede de kullanılıyor: *vecedehâ tatluu alâ kavmin* (90).
 
-**USLUP gereği açıkça yazıyorum:** bu ayetten güneşin fizikî konumuna dair bir hüküm çıkarılamaz — **ne "Kur'an güneşin çamura battığını söylüyor" biçiminde bir itham, ne de buradan modern astronomiye bir işaret devşirme.** İkisi de metnin söylemediğini söyletmektir.
+**STYLE gereği açıkça yazıyorum:** bu ayetten güneşin fizikî konumuna dair bir hüküm çıkarılamaz — **ne "Kur'an güneşin çamura battığını söylüyor" biçiminde bir itham, ne de buradan modern astronomiye bir işaret devşirme.** İkisi de metnin söylemediğini söyletmektir.
 
 **حَمِئَة** — kök **ح-م-أ**: **siyah balçık.** **Kıraat farkı nakledilir: *hâmiye* (kızgın, sıcak) okuyuşu da vardır ve anlamı değiştirir.** **İki okuyuşu da kaydediyorum, tercih dayatmıyorum.**
 
@@ -530,7 +530,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 ### يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ (94)
 
-**USLUP gereği: Ye'cûc ve Me'cûc hakkında Kur'an'ın verdiği bilgi sınırlıdır** — burada ve Enbiyâ 21/96'da anılırlar. **Kimlikleri, yerleri ve zamanları hakkında nakledilen şeyler kesin bilgi değildir; bu tefsirde spekülasyona girilmemektedir.**
+**STYLE gereği: Ye'cûc ve Me'cûc hakkında Kur'an'ın verdiği bilgi sınırlıdır** — burada ve Enbiyâ 21/96'da anılırlar. **Kimlikleri, yerleri ve zamanları hakkında nakledilen şeyler kesin bilgi değildir; bu tefsirde spekülasyona girilmemektedir.**
 
 ### قَالَ مَا مَكَّنِّى فِيهِ رَبِّى خَيْرٌ فَأَعِينُونِى بِقُوَّةٍ أَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًا (95)
 

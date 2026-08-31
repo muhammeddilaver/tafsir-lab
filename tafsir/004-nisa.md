@@ -50,7 +50,7 @@ Sûrenin Medine döneminde indiğinde ihtilaf yoktur ve metnin kendisi bunu dest
 
 Bu sûrenin birçok ayeti için kaynaklarda ayrıntılı olay anlatıları nakledilir: bir savaştan sonra kalan dul ve yetimler, malı elinden alınan bir kadın, bir hırsızlık iddiası, bir kabile anlaşmazlığı.
 
-**Bu tefsirde o anlatılar "nakledilir" diliyle ve kişi adı verilmeden aktarılır.** Sebebi USLUP'un doğruluk kuralıdır: bir olayı belirli kişilere bağlamak, kaynağından emin olmayı gerektirir. **Emin olmadığım hiçbir isnadı yazmıyorum.** Ve ayetin anlaşılması için gereken çerçeve, çoğu zaman zaten ayetin kendi lafzındadır.
+**Bu tefsirde o anlatılar "nakledilir" diliyle ve kişi adı verilmeden aktarılır.** Sebebi STYLE'ın doğruluk kuralıdır: bir olayı belirli kişilere bağlamak, kaynağından emin olmayı gerektirir. **Emin olmadığım hiçbir isnadı yazmıyorum.** Ve ayetin anlaşılması için gereken çerçeve, çoğu zaman zaten ayetin kendi lafzındadır.
 
 ## Sûrenin yapısı
 
@@ -215,7 +215,7 @@ Bu bir dilbilgisi olgusudur, bir yorum değildir. Sonucu şudur:
 | **B. Cins / tür** | İnsan türü, tek bir yaratılış aslı | *Min cinsihâ* — "kendi türünden" | Kur'an *min enfüsiküm ezvâcen* der (Rûm 30/21; Nahl 16/72): eşin "sizden/kendi cinsinizden" olduğunu bildirir. Aynı edat orada tür anlamındadır | Ayetin *vâhide* (tek) kaydını genelleştirir |
 | **C. Tek asıl (nesep birliği)** | Bütün insanların ortak kökü | Eş de aynı kökten | Ayetin devamı: *ve besse minhümâ* — çoğalma **ikisinden** başlatılıyor | A ve B ile çelişmez; ayrı bir görüş sayılmayabilir |
 
-**Üç okuma da klasik literatürde bulunur ve aralarında kesin bir tercih yapmıyorum.** Bunun sebebi USLUP'un ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
+**Üç okuma da klasik literatürde bulunur ve aralarında kesin bir tercih yapmıyorum.** Bunun sebebi STYLE'ın ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
 
 **Ama tabloya girmeyen, ayetin lafzından doğrudan okunabilen üç şey vardır ve bunlar tartışmalı değildir:**
 
@@ -541,7 +541,7 @@ Bunu bir **dizim gözlemi** olarak kaydediyorum; buradan bir hüküm çıkarmıy
 | **4/3 ile 4/129'un ilişkisi** | Yukarıdaki üç yönelim (a, b, c) burada da geçerlidir |
 | **Şartın ihlâlinin sonucu** | Nikâhın geçerliliğini etkileyip etkilemediği, kadının hangi taleplerde bulunabileceği konusunda mezhepler ayrılır |
 
-**Bu tablo bir fetva değildir ve bir uygulama rehberi olarak okunamaz.** Buraya konmasının sebebi USLUP'un ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
+**Bu tablo bir fetva değildir ve bir uygulama rehberi olarak okunamaz.** Buraya konmasının sebebi STYLE'ın ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
 
 **Ve güncel tartışmalara girilmiyor.** Bu ayetin bugün nasıl anlaşıldığı, hangi ülkede nasıl düzenlendiği ve etrafındaki toplumsal tartışmalar bu metnin konusu değildir.
 
@@ -673,7 +673,7 @@ Kök `072-cin.md` 72/4'te (*ve ennehû kâne yekūlü sefîhünâ alallâhi şet
 | **2** | Malı savuran **herkes** — yaş şartı yok |
 | **3** | Belirli bir grup değil; **vasıf** anlatılıyor: kim malı elinde tutamıyorsa |
 
-**Tercih dayatmıyorum.** Üçüncü okuma, USLUP'un "ayetin tarif ettiği vasıftır" ölçüsüyle uyumludur; ama bunu bir tercih olarak değil, bir kayıt olarak veriyorum.
+**Tercih dayatmıyorum.** Üçüncü okuma, STYLE'ın "ayetin tarif ettiği vasıftır" ölçüsüyle uyumludur; ama bunu bir tercih olarak değil, bir kayıt olarak veriyorum.
 
 ### أَمْوَٰلَكُمُ — zamirin şaşırtıcılığı
 
@@ -2182,7 +2182,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Ayet, yasakları ikiye ayırıyor: *kebâir* (büyükler) ve *seyyiât* (kusurlar).**
 
-**Ve ayrımın nasıl yapılacağı ayette söylenmiyor.** Klasik tefsirde *kebâir*in listesi ve tanımı üzerinde geniş bir tartışma vardır; **bu tefsirde o liste verilmiyor ve bir tanım tercih edilmiyor.** Sebebi USLUP'un fıkhî hüküm kuralıdır.
+**Ve ayrımın nasıl yapılacağı ayette söylenmiyor.** Klasik tefsirde *kebâir*in listesi ve tanımı üzerinde geniş bir tartışma vardır; **bu tefsirde o liste verilmiyor ve bir tanım tercih edilmiyor.** Sebebi STYLE'ın fıkhî hüküm kuralıdır.
 
 **Metinden söylenebilecek olan şudur: ayet bir *oran* kuruyor.** Büyüklerden kaçınmak, küçüklerin örtülmesini getiriyor. **Yani ayet, kusursuzluk değil, bir öncelik istiyor.**
 
@@ -2409,7 +2409,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Üç okuma da klasik ve sonraki literatürde savunulmuştur. Hiçbirini tercih etmiyorum ve hiçbiri bağlayıcı değildir.**
 
-**Ve bir sınır kaydı, USLUP gereği açıkça yazılıyor:** bu cümleden bir cinsin ötekinden **insanlık bakımından** üstün olduğu sonucu çıkarılamaz. Sûrenin birinci ayeti (*min nefsin vâhide*) ve yirmi beşinci ayeti (*ba'duküm min ba'd*) bu tefsirde işlendi ve oradaki kayıtlar burada da geçerlidir.
+**Ve bir sınır kaydı, STYLE gereği açıkça yazılıyor:** bu cümleden bir cinsin ötekinden **insanlık bakımından** üstün olduğu sonucu çıkarılamaz. Sûrenin birinci ayeti (*min nefsin vâhide*) ve yirmi beşinci ayeti (*ba'duküm min ba'd*) bu tefsirde işlendi ve oradaki kayıtlar burada da geçerlidir.
 
 ### Dört: قَٰنِتَٰت ve حَٰفِظَٰت لِّلْغَيْبِ
 
@@ -2485,7 +2485,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 | **2** | **هَجْر فِي ٱلْمَضَاجِع** (*hecr*) — kök ه-ج-ر: ayrılmak, terk etmek | (a) Yatakta yalnız bırakma; (b) yatağı ayırma; (c) konuşmayı değil yalnızca yatağı sınırlama | *Fi'l-medâci'* kaydının fiili **sınırlaması**: terk mutlak değil, yere bağlı |
 | **3** | **ضَرْب** (*darb*) — kök ض-ر-ب | (a) **Ağır olmayan, iz bırakmayan, incitmeyen** bir dokunuş; klasik literatürde bu kayıt yaygın olarak nakledilir. (b) Basamağın **caydırıcı** olduğu, fiilen uygulanmasının amaçlanmadığı. (c) Kökün geniş anlam alanından hareketle **ayrılma / uzaklaşma** yönünde okunması. (d) Basamağın belirli şartlara bağlı ve son çare olduğu | (a) için: klasik tefsirlerde nakledilen sınırlayıcı kayıtlar. (b) için: basamakların sıralı ve giderek daralan yapısı. (c) için: ض-ر-ب kökünün Kur'an'da *darabe fi'l-ard* (yola çıkmak), *darabe meselen* (örnek vermek) gibi çok yönlü kullanımı. (d) için: ayetin devamındaki *fe-in eta'neküm fe-lâ tebğū* kaydı |
 
-**Bu tablo bir fetva değildir ve bir uygulama rehberi olarak okunamaz.** Buraya konmasının sebebi USLUP'un ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
+**Bu tablo bir fetva değildir ve bir uygulama rehberi olarak okunamaz.** Buraya konmasının sebebi STYLE'ın ihtilaf kuralıdır: ihtilaf gizlenmez, tercih dayatılmaz.
 
 **Ve ayetin lafzından doğrudan çıkan üç kayıt vardır; bunlar ihtilaf değil, metin verisidir:**
 
@@ -2828,7 +2828,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Bu ayetten klasik fıkhın geniş bir bahsi doğmuştur: abdest, gusül, teyemmüm ve bunların şartları. Bu bölümde o bahse girilmiyor.**
 
-**Sebebi USLUP'un fıkhî hüküm kuralıdır.** Ayrıca ayetteki *ev lâmestümü'n-nisâ* ifadesinin kapsamı üzerinde klasik fıkıhta bilinen bir ihtilaf vardır; **o ihtilafın ayrıntısı ve sonuçları bu metnin konusu değildir.** Burada işlenen şey ayetin **dil yönü**dür.
+**Sebebi STYLE'ın fıkhî hüküm kuralıdır.** Ayrıca ayetteki *ev lâmestümü'n-nisâ* ifadesinin kapsamı üzerinde klasik fıkıhta bilinen bir ihtilaf vardır; **o ihtilafın ayrıntısı ve sonuçları bu metnin konusu değildir.** Burada işlenen şey ayetin **dil yönü**dür.
 
 ### حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ — ayetin kendi verdiği ölçü
 
@@ -2873,7 +2873,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Önce bir usul kaydı
 
-**USLUP gereği bir kayıt düşülüyor ve bu kayıt kırk dördüncü ayetten yüz altmış ikinci ayete kadar uzanan bütün bahisler için geçerlidir.**
+**STYLE gereği bir kayıt düşülüyor ve bu kayıt kırk dördüncü ayetten yüz altmış ikinci ayete kadar uzanan bütün bahisler için geçerlidir.**
 
 **Ayetler bir topluluğun tamamı hakkında hüküm kurmuyor.** Lafız bunu açıkça gösterir:
 
@@ -3075,7 +3075,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Önce bir usul kaydı
 
-**USLUP gereği bu bahiste iki şey yapılmıyor:**
+**STYLE gereği bu bahiste iki şey yapılmıyor:**
 
 **Bir. *Ülü'l-emr*in kim olduğu üzerindeki ihtilafta tercih dayatılmıyor.** İhtilaf tablo hâlinde, dayanaklarıyla verilir ve hiçbiri bağlayıcı değildir.
 
@@ -3286,7 +3286,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Ve ayetin bu kesimi nasıl tarif ettiği kaydedilmelidir: bir isim verilmiyor, bir fiil veriliyor.** *Le-men le-yübattıenn* — "ağırdan alan biri". **Tarif, kişiye değil davranışa bağlı.**
 
-**Bu, USLUP'un vasıf kuralıyla örtüşür ve bu tefsirde sürdürülen çizgidir.**
+**Bu, STYLE'ın vasıf kuralıyla örtüşür ve bu tefsirde sürdürülen çizgidir.**
 
 ### يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ — kelimenin iki yönü
 
@@ -3350,7 +3350,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** zulüm bir yere değil, **o yerdeki insanların fiiline** nispet ediliyor.
 
-**Ve bu, USLUP'un vasıf kuralıyla örtüşür: hüküm, bir mekâna ya da bir topluluğa toptan değil, bir fiile bağlanıyor.**
+**Ve bu, STYLE'ın vasıf kuralıyla örtüşür: hüküm, bir mekâna ya da bir topluluğa toptan değil, bir fiile bağlanıyor.**
 
 ### وَلِيًّا … نَصِيرًا — duanın iki kelimesi
 
@@ -3483,7 +3483,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Yani cümle, muhatabın kendisine söylenmiştir.** Bir insanın, başka birinin başına gelen için "bu onun kendindendir" demesi, **bu ayetin lafzından çıkmaz.**
 
-**Bunu ayrıca ve açıkça kaydediyorum, çünkü USLUP'un okuru azarlamama ve toptan hüküm kurmama kuralları burada işlemektedir.**
+**Bunu ayrıca ve açıkça kaydediyorum, çünkü STYLE'ın okuru azarlamama ve toptan hüküm kurmama kuralları burada işlemektedir.**
 
 ### Altı: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ — bloğun açılışı
 
@@ -3541,7 +3541,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Bu alan `063-munafikun.md`'de ayrıntılı işlendi ve oraya dayanıyorum:** orada da mesele, **söz ile söz sahibi arasındaki mesafe** olarak kurulmuştu.
 
-**Ve USLUP gereği kayıt: burada tarif edilen şey bir *vasıftır*.** Ayet bir kesimi (*tâifetün minhüm*) anıyor ve onu bir davranışla tarif ediyor. **Kim o davranışı yaparsa tarife dahildir; bu bir grup hükmü değildir.**
+**Ve STYLE gereği kayıt: burada tarif edilen şey bir *vasıftır*.** Ayet bir kesimi (*tâifetün minhüm*) anıyor ve onu bir davranışla tarif ediyor. **Kim o davranışı yaparsa tarife dahildir; bu bir grup hükmü değildir.**
 
 ---
 
@@ -3720,7 +3720,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Önce bir usul kaydı — istisnaların öne çıkarılması
 
-**Bu blok, USLUP'un "bir gruba toptan hüküm kurulmaz" kuralının en açık işlediği yerlerden biridir. Ve sebebi bir yorum değil, ayetlerin kendi lafzıdır: blok, hüküm verdikten sonra üç ayrı istisna koyuyor.**
+**Bu blok, STYLE'ın "bir gruba toptan hüküm kurulmaz" kuralının en açık işlediği yerlerden biridir. Ve sebebi bir yorum değil, ayetlerin kendi lafzıdır: blok, hüküm verdikten sonra üç ayrı istisna koyuyor.**
 
 | Sıra | İstisna | Lafız |
 |---|---|---|
@@ -4304,7 +4304,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Yüz on dokuzuncu ayetteki bu ifadenin neyi kapsadığı üzerinde klasik tefsirlerde ihtilaf vardır ve izahlar birbirinden farklıdır.**
 
-**Bu tefsirde ifadenin kapsamı hakkında kesin bir şey söylenmiyor ve bir liste verilmiyor.** Sebebi USLUP'un doğruluk kuralıdır: **kapsamı ayette yazmayan bir ifadeye içerik doldurmak, ayete eklemek olur.**
+**Bu tefsirde ifadenin kapsamı hakkında kesin bir şey söylenmiyor ve bir liste verilmiyor.** Sebebi STYLE'ın doğruluk kuralıdır: **kapsamı ayette yazmayan bir ifadeye içerik doldurmak, ayete eklemek olur.**
 
 **Metinden söylenebilecek olan şudur: ifade, bir *vaat* cümlesinin içinde geçiyor ve söyleyen taraf ayetin kendisi değil, aktarılan sözün sahibidir.** **Yani cümle bir hüküm değil, bir iddianın nakli olarak duruyor.**
 
@@ -4326,7 +4326,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ — iki tarafa birden konan kayıt
 
-**Bu cümle, USLUP'un "bir gruba toptan hüküm kurulmaz" kuralının metinden gelen en açık dayanaklarından biridir ve ayrıca kaydedilmelidir.**
+**Bu cümle, STYLE'ın "bir gruba toptan hüküm kurulmaz" kuralının metinden gelen en açık dayanaklarından biridir ve ayrıca kaydedilmelidir.**
 
 **Cümle iki tarafı da aynı anda sayıyor:**
 
@@ -4547,7 +4547,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Ve yüz otuz birinci ayette hitabın iki tarafa birden yapılması kaydedilmelidir: *ellezîne ûtü'l-kitâbe min kabliküm ve iyyâküm*.**
 
-**Bu, yüz yirmi üçüncü ayetteki kayıtla aynı yöndedir** (*leyse bi-emâniyyiküm ve lâ emâniyyi ehli'l-kitâb*): **aynı şey iki tarafa birden söyleniyor.** Bu, sûre içinde doğrulanabilir bir tekrardır ve **USLUP'un toptan hüküm kurmama kuralının metinden gelen dayanağıdır.**
+**Bu, yüz yirmi üçüncü ayetteki kayıtla aynı yöndedir** (*leyse bi-emâniyyiküm ve lâ emâniyyi ehli'l-kitâb*): **aynı şey iki tarafa birden söyleniyor.** Bu, sûre içinde doğrulanabilir bir tekrardır ve **STYLE'ın toptan hüküm kurmama kuralının metinden gelen dayanağıdır.**
 
 ### ثَوَابَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ — cevabın biçimi
 
@@ -4712,7 +4712,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Önce bir usul kaydı — ve bu kayıt 136-152 arası için geçerlidir
 
-**Bu blok bir kesimi tarif ediyor ve tarif, USLUP gereği şöyle okunur: konu edilen şey bir grup değil, bir dizi fiildir.**
+**Bu blok bir kesimi tarif ediyor ve tarif, STYLE gereği şöyle okunur: konu edilen şey bir grup değil, bir dizi fiildir.**
 
 **Ve bu bir yorum değil, ayetlerin kendi kuruluşudur:**
 
@@ -4786,7 +4786,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 > *"Ve emrin sınırı kaydedilmeye değer: *hattâ yehûdû fî hadîsin ğayrih* — başka bir söze geçene kadar. **Bunu kendi okumam olarak kaydediyorum:** yüz çevirme **süresiz** değil, **konuya bağlı.** Ve kişilere değil, **konuşulan şeye** bağlanıyor. **Yani ayrılık kalıcı bir kopuş olarak kurulmuyor.**"*
 
-**Oraya dayanıyorum ve bu kaydı burada da koruyorum.** **Bu, USLUP'un toptan hüküm kurmama kuralının metinden gelen bir dayanağıdır: emir kişiye değil, konuya bağlanmıştır.**
+**Oraya dayanıyorum ve bu kaydı burada da koruyorum.** **Bu, STYLE'ın toptan hüküm kurmama kuralının metinden gelen bir dayanağıdır: emir kişiye değil, konuya bağlanmıştır.**
 
 **Ve Nisâ'nın eklediği kayıt kaydedilmelidir: *inneküm izen mislühüm* — "o zaman siz de onlar gibi olursunuz."**
 
@@ -4936,7 +4936,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Önce bir usul kaydı — hükümlerin fiillere bağlı olduğu
 
-**USLUP gereği bu blok şöyle okunur: konu edilen şey fiillerdir, bir topluluğun kendisi değil. Ve bu bir yorum değil, ayetin kendi dizimidir.**
+**STYLE gereği bu blok şöyle okunur: konu edilen şey fiillerdir, bir topluluğun kendisi değil. Ve bu bir yorum değil, ayetin kendi dizimidir.**
 
 **Yüz elli beşinci ayet bir *sebep listesi*dir ve her kalem *bi-* edatıyla gelir. Tablo, ayetin lafzını verir:**
 
@@ -5055,7 +5055,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Aynı fiil ve aynı *bi'l-bâtıl* kaydı, sûrenin iki ucunda.** Bu, sayılabilir bir olgudur.
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin ortak lafzıdır:** sûre, bir kesim hakkında sebep olarak saydığı fiili, **kendi muhataplarına da yasaklamıştı.** **Yani ölçü iki tarafa da aynıdır — bu, USLUP'un toptan hüküm kurmama kuralının metinden gelen bir dayanağıdır.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin ortak lafzıdır:** sûre, bir kesim hakkında sebep olarak saydığı fiili, **kendi muhataplarına da yasaklamıştı.** **Yani ölçü iki tarafa da aynıdır — bu, STYLE'ın toptan hüküm kurmama kuralının metinden gelen bir dayanağıdır.**
 
 ### لَٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ — ayrımın yapıldığı yer
 
@@ -5063,7 +5063,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Ve *minhüm* kaydı ayrıca kaydedilmelidir: "onlardan".** **Yani ayrım, topluluğun *içinden* yapılıyor.**
 
-**Bunu ayrıca öne çıkarıyorum, çünkü USLUP'un vasıf kuralı burada metnin kendisi tarafından kurulmaktadır.**
+**Bunu ayrıca öne çıkarıyorum, çünkü STYLE'ın vasıf kuralı burada metnin kendisi tarafından kurulmaktadır.**
 
 ### وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ — bir i'râb nüktesi
 
@@ -5431,7 +5431,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### Dört. Sûrenin toptanlaştırmayı engellediği yerler
 
-**USLUP'un "bir gruba toptan hüküm kurulmaz" kuralı bu sûrede metnin kendisi tarafından kurulmaktadır. Aşağıdaki tablo, ayetlerin kendi daraltmalarını toplar.**
+**STYLE'ın "bir gruba toptan hüküm kurulmaz" kuralı bu sûrede metnin kendisi tarafından kurulmaktadır. Aşağıdaki tablo, ayetlerin kendi daraltmalarını toplar.**
 
 | Ayet | Lafız | Ne yapıyor |
 |---|---|---|

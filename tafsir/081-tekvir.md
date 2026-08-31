@@ -129,7 +129,7 @@ Bazı modern yazılarda *tekvîr* kelimesinden hareketle "Kur'an güneşin küre
 - Ayetin fiili bir **şekil** bildirmiyor, bir **işlem** bildiriyor: dürülme.
 - Zümer 39/5'teki kullanım, kelimenin bir şeklin değil bir hareketin adı olduğunu gösteriyor.
 
-USLUP gereği bu tür iddialar bu tefsirde kurulmaz. Ayetin söylediği şey zaten yeterince güçlü; ona bir şey eklemeye ihtiyacı yok.
+STYLE gereği bu tür iddialar bu tefsirde kurulmaz. Ayetin söylediği şey zaten yeterince güçlü; ona bir şey eklemeye ihtiyacı yok.
 
 ### Sûrenin ilk görüntüsü: yıkım değil, toplama
 
@@ -233,7 +233,7 @@ Bu neden daha sarsıcı? Çünkü dağ, Kur'an'ın sözlüğünde **sabitliğin*
 | Vâkıa 56/5 | *Büsset bessâ* — ufalandı |
 | Neml 27/88 | *Tehsebühâ câmideten ve hiye temürru merre's-sehâb* — donuk sanırsın, oysa bulut gibi geçer |
 
-Neml 27/88 özellikle dikkat çekicidir çünkü **dağın sabit görünmesinin bir yanılgı olduğunu** söyler. Ama bu ayeti "Kur'an yerkabuğu hareketlerini bildiriyor" diye okumak, USLUP'un yasakladığı türden bir zorlamadır: ayetin siyakı kıyamet günüdür ve tasvir o güne aittir. Bir okuma imkânı olarak kaydediyorum, iddia olarak değil.
+Neml 27/88 özellikle dikkat çekicidir çünkü **dağın sabit görünmesinin bir yanılgı olduğunu** söyler. Ama bu ayeti "Kur'an yerkabuğu hareketlerini bildiriyor" diye okumak, STYLE'ın yasakladığı türden bir zorlamadır: ayetin siyakı kıyamet günüdür ve tasvir o güne aittir. Bir okuma imkânı olarak kaydediyorum, iddia olarak değil.
 
 ---
 
@@ -393,7 +393,7 @@ Orada da aynı kelime ve aynı tartışma vardır: *mescûr* dolu mu, tutuşturu
 
 **Tercih yapmıyorum.** Kelime iki anlamı da taşıyor ve Kur'an açıklamıyor. Ancak şu kaydedilebilir: birinci ve ikinci görüş birbirini dışlamıyor — dolan bir şey taşar, taşan bir şey karışır, ve fırın benzetmesinde ikisi zaten bir aradadır.
 
-**Ve bir uyarı:** Bu ayetten hareketle deniz suyunun bileşimine, hidrojen ve oksijenin yanıcılığına vb. dayanan iddialar ileri sürülür. Bunlar ayetin söylemediği şeylerdir ve USLUP gereği bu tefsirde kurulmaz. Ayetin görüntüsü bir tandırdır; muhatabın bildiği bir tandır.
+**Ve bir uyarı:** Bu ayetten hareketle deniz suyunun bileşimine, hidrojen ve oksijenin yanıcılığına vb. dayanan iddialar ileri sürülür. Bunlar ayetin söylemediği şeylerdir ve STYLE gereği bu tefsirde kurulmaz. Ayetin görüntüsü bir tandırdır; muhatabın bildiği bir tandır.
 
 **Siyaktaki yeri.** Denizler, birinci grubun son maddesi. Ve dikkat çekici bir kapanış: sûre kuru olanı yürütüp (dağlar) ıslak olanı tutuşturuyor (denizler). Her şey kendi tabiatının tersine dönüyor. **Birinci grup, tabiat kanunlarının askıya alınmasıyla kapanıyor.**
 
@@ -504,7 +504,7 @@ Burada dikkatli olmak gerekiyor, çünkü konu iki yönde de abartılmaya elveri
 - **"Herkes yapıyordu" abartısı.** Bu, kaynaklarda desteklenmiyor ve demografik olarak da tutarsız. Bir toplumun kız çocuklarını yaygın biçimde öldürmesi, o toplumun bir iki kuşakta üremesini durdurur. Rivayetlerde belirli kabileler (Temîm gibi) ve belirli kişiler anılır; bu, uygulamanın **yaygın değil ama bilinen ve kabul görebilen** bir şey olduğunu düşündürür.
 - **"Hiç olmadı" abartısı.** Bu da savunulabilir değil. Kur'an, olayın geçtiği toplumun kendisine hitap ediyor ve muhataplarının bildiği bir uygulamaya atıf yapıyor. Bir metin, muhatabının "böyle bir şey yok" diyeceği bir uygulamayı kendi aleyhine icat etmez. Muhataplar bu ayetlere pek çok itiraz getirmiştir; "böyle bir şey yapmıyoruz" itirazının kaydedilmemiş olması anlamlıdır.
 
-**Daha geniş çerçeve.** Bebek öldürme ve terk etme, cahiliye Arabistan'ına özgü bir uygulama değildir. Roma dünyasında yeni doğanın terk edilmesi (*expositio*) uzun süre hukuken hoş görülmüş bir uygulamaydı; benzer örnekler başka toplumlarda da belgelenmiştir. Bu bilgi, cahiliye uygulamasını hafifletmek için değil, **konuyu bir kavim özelliği olmaktan çıkarıp bir insan meselesi haline getirmek için** kaydediliyor — nitekim USLUP gereği bu tefsirde bir topluluk hakkında toptan hüküm kurulmaz.
+**Daha geniş çerçeve.** Bebek öldürme ve terk etme, cahiliye Arabistan'ına özgü bir uygulama değildir. Roma dünyasında yeni doğanın terk edilmesi (*expositio*) uzun süre hukuken hoş görülmüş bir uygulamaydı; benzer örnekler başka toplumlarda da belgelenmiştir. Bu bilgi, cahiliye uygulamasını hafifletmek için değil, **konuyu bir kavim özelliği olmaktan çıkarıp bir insan meselesi haline getirmek için** kaydediliyor — nitekim STYLE gereği bu tefsirde bir topluluk hakkında toptan hüküm kurulmaz.
 
 **Ve bugün.** Cinsiyete dayalı seçici uygulamalar, doğum öncesi tespit imkânlarının yaygınlaştığı bazı ülkelerde ölçülebilir nüfus dengesizlikleri üretmiş, bu konuda yasal düzenlemeler yapılmıştır. Bunu bir "ayetin bilimsel mucizesi" olarak değil, ayetin tarif ettiği saikin — kız çocuğunun bir yük ve bir utanç sayılması — tarihe gömülmediğinin kaydı olarak yazıyorum.
 
@@ -926,7 +926,7 @@ Kur'an bu kelimeyi gemiler için de kullanır: *"Denizde dağlar gibi yükseltil
 - Klasik müfessirler bu yorumu astronomik bir bilgiden değil, **kelimelerin sözlük anlamından** çıkarmışlardır.
 - Ve ayetin işlevi bilgi vermek değil; **yemin etmek.** Yemin edilen şeyler, muhatabın bildiği şeylerdir — bilmediği bir şeye yemin edilmez.
 
-USLUP gereği bu tefsirde zorlama fen bağlantısı kurulmaz. **Kaydedilebilecek olan şudur:** üç kelime, gökte görülen bir davranışı — belirme, ilerleme, kaybolma — üç ayrı fiille adlandırıyor; ve tarif, çıplak gözle görülene uyuyor.
+STYLE gereği bu tefsirde zorlama fen bağlantısı kurulmaz. **Kaydedilebilecek olan şudur:** üç kelime, gökte görülen bir davranışı — belirme, ilerleme, kaybolma — üç ayrı fiille adlandırıyor; ve tarif, çıplak gözle görülene uyuyor.
 
 ### Ve yeminin siyakla bağı
 
@@ -1662,7 +1662,7 @@ Bu, Mâûn'un mimarîsiyle (hesap gününden bir kovaya) ve Abese'nin sofra tabl
 
 **Birinci yanlış okuma: sûreyi fen bilgisi kaynağı gibi kullanmak.**
 
-Sûrede buna elverişli görünen üç yer var ve üçünde de USLUP gereği durulması gerekiyor:
+Sûrede buna elverişli görünen üç yer var ve üçünde de STYLE gereği durulması gerekiyor:
 
 - **كُوِّرَتْ** — "güneş küredir" iddiası. *Küre* (ك-ر-و) ile *kevr* (ك-و-ر) **ayrı köklerdir**; fiil şekil değil işlem bildiriyor.
 - **سُجِّرَتْ** — deniz suyunun bileşimine dayanan iddialar. Ayetin görüntüsü bir tandırdır; muhatabın bildiği bir tandır.
@@ -1734,7 +1734,7 @@ Bugüne bakan soru bundan çıkıyor ve gündelik: *bugün bir şey ekledin mi, 
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **Sûrenin okunmasına dair rivayet.** Tirmizî'nin de aralarında bulunduğu kaynaklarda ve İbn Ömer'e nispetle nakledildiğini belirttim; senedi üzerinde tartışma olduğunu kaydettim ve lafzını birebir alıntılamadım.
 - **كُوِّرَتْ'ın tam anlamı.** Kökün iki anlamı (sarmak / toplayıp atmak) verildi ve Zümer 39/5'e dayanarak "sarmak" öne çıkarıldı; ama tek anlamda kesinleştirilmedi.

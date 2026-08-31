@@ -918,7 +918,7 @@ Aynı ölçüyü *sutihat* için kuruyorum:
 
 **Dört ve en önemlisi: bu, ne bir yuvarlaklık iddiasıdır ne bir düzlük iddiası.** Ayet bu soruya cevap vermek üzere kurulmamıştır. Bir metne, sormadığı sorunun cevabını yükletmek — iki yönde de — metni okumamaktır.
 
-Bunu sakin ve net biçimde yazıyorum çünkü USLUP'un koyduğu ölçü buradadır: fennî mucize avcılığı yapılmaz, ve ayete modern bir bilgi zorla giydirilmez. Bu, savunma amacıyla yapıldığında da geçerlidir.
+Bunu sakin ve net biçimde yazıyorum çünkü STYLE'ın koyduğu ölçü buradadır: fennî mucize avcılığı yapılmaz, ve ayete modern bir bilgi zorla giydirilmez. Bu, savunma amacıyla yapıldığında da geçerlidir.
 
 ---
 

@@ -8,11 +8,11 @@ Sûre bir **antlaşma feshi ilanıyla** açılıyor, bir **savaş çağrısıyla
 
 | # | Sınır | Dayanağı |
 |---|---|---|
-| **1** | **Hiçbir dinî ya da etnik grup hakkında toptan hüküm kurulmayacak.** Ayetlerin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir | USLUP, "Yasaklar" maddesi |
-| **2** | **Fıkhî hüküm verilmeyecek**; mezhep ve müfessir görüşleri tablo hâlinde aktarılacak, tercih dayatılmayacak | USLUP, "İhtilaf" maddesi |
-| **3** | **Güncel siyasete, güncel çatışmalara, taraflara hiçbir bağ kurulmayacak** | USLUP, "Yasaklar" maddesi |
-| **4** | **Uydurma nakil yok.** Tarihî ayrıntılar "nakledilir" diliyle ve iddiasız verilecek; kişi adı verilmeyecek | USLUP, "Doğruluk" maddesi |
-| **5** | Kendi çıkarımlarım **"kendi okumam olarak kaydediyorum"** ibaresiyle ayrılacak | USLUP, "Doğruluk" maddesi |
+| **1** | **Hiçbir dinî ya da etnik grup hakkında toptan hüküm kurulmayacak.** Ayetlerin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir | STYLE, "Yasaklar" maddesi |
+| **2** | **Fıkhî hüküm verilmeyecek**; mezhep ve müfessir görüşleri tablo hâlinde aktarılacak, tercih dayatılmayacak | STYLE, "İhtilaf" maddesi |
+| **3** | **Güncel siyasete, güncel çatışmalara, taraflara hiçbir bağ kurulmayacak** | STYLE, "Yasaklar" maddesi |
+| **4** | **Uydurma nakil yok.** Tarihî ayrıntılar "nakledilir" diliyle ve iddiasız verilecek; kişi adı verilmeyecek | STYLE, "Doğruluk" maddesi |
+| **5** | Kendi çıkarımlarım **"kendi okumam olarak kaydediyorum"** ibaresiyle ayrılacak | STYLE, "Doğruluk" maddesi |
 
 **Ve bir yöntem kaydı:** `047-muhammed.md`'de 47/4 işlenirken uygulanan usul burada da uygulanacaktır — **ayetin kendi lafzının koyduğu sınırlar önce gösterilecek, sonra ihtilaf tablolanacak, hüküm verilmeyecek.** `008-enfal.md`'de savaş ayetleri, esirler ve antlaşma âdâbı için konan ölçüler bu sûrenin dayanağıdır ve sürekli oraya gönderme yapılacaktır.
 
@@ -97,7 +97,7 @@ Klasik kaynaklarda şunlar **nakledilir** (ayrıntılarda kaynaklar birbirinden 
 
 **Üç.** Sûrenin kendi mantığı rivayete bağlı değildir. Antlaşmanın bozanla bozmayan arasında ayrılması (4), sığınma isteyenin korunması (6), mazeret sahiplerinin ayrılması (91), hükmün askıda bırakılması (106) — bunların hepsi **metnin kendi lafzındadır.**
 
-**Dört.** USLUP gereği **hiçbir gruba toptan hüküm kurulmayacaktır.** Sûre *müşrikîn*, *ehl-i kitâb*, *a'râb*, *münâfikûn* gibi adlar kullanır; **bunların her biri bu tefsirde bir vasıf olarak okunacak, bir kimlik yaftası olarak değil.** Bunun metin içindeki dayanağı sûrenin kendisidir: 4. ayet *müşrikîn*in içinden bir grubu istisna eder, 6. ayet *müşrikîn*den birine koruma tanır, 99. ayet *a'râb*ın içinden bir grubu ayırır, 100. ayet bir topluluğu över. **Sûre kategorileri kendisi bölüyor.**
+**Dört.** STYLE gereği **hiçbir gruba toptan hüküm kurulmayacaktır.** Sûre *müşrikîn*, *ehl-i kitâb*, *a'râb*, *münâfikûn* gibi adlar kullanır; **bunların her biri bu tefsirde bir vasıf olarak okunacak, bir kimlik yaftası olarak değil.** Bunun metin içindeki dayanağı sûrenin kendisidir: 4. ayet *müşrikîn*in içinden bir grubu istisna eder, 6. ayet *müşrikîn*den birine koruma tanır, 99. ayet *a'râb*ın içinden bir grubu ayırır, 100. ayet bir topluluğu över. **Sûre kategorileri kendisi bölüyor.**
 
 ## Sûrenin yapısı
 
@@ -325,7 +325,7 @@ Cümle şöyle kurulabilirdi ve kurulmuyor:
 
 ---
 
-**Bu ayet, Kur'an'ın en çok bağlamından koparılan ayetlerinden biridir. USLUP gereği burada beş şeyi sırasıyla yapacağım ve hiçbirinin dışına çıkmayacağım:**
+**Bu ayet, Kur'an'ın en çok bağlamından koparılan ayetlerinden biridir. STYLE gereği burada beş şeyi sırasıyla yapacağım ve hiçbirinin dışına çıkmayacağım:**
 
 1. Cümlenin **nasıl kurulduğunu** göstereceğim.
 2. Kelimeleri çözeceğim.
@@ -823,7 +823,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ### شَٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ
 
-**Ayetin koyduğu kayıt kaydedilmelidir ve bu, USLUP açısından önemlidir.**
+**Ayetin koyduğu kayıt kaydedilmelidir ve bu, STYLE açısından önemlidir.**
 
 **Ayet, engeli bir kimliğe değil, bir beyana bağlıyor: *şâhidîne alâ enfüsihim bi'l-küfr* — "kendi aleyhlerine küfürle şahitlik ederek."**
 
@@ -1044,12 +1044,12 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ## Dördüncü blok (28-35) hakkında bir ön kayıt
 
-**Bu blok, USLUP açısından sûrenin en dikkatli işlenmesi gereken yeridir.** 28. ve 29. ayetler, dinî bir topluluk hakkında konuştuğu izlenimi veren ifadeler taşır. **Burada uygulanacak usulü baştan yazıyorum:**
+**Bu blok, STYLE açısından sûrenin en dikkatli işlenmesi gereken yeridir.** 28. ve 29. ayetler, dinî bir topluluk hakkında konuştuğu izlenimi veren ifadeler taşır. **Burada uygulanacak usulü baştan yazıyorum:**
 
 1. **Kelimelerin sözlük anlamları verilecek** — *neces*, *cizye*, *an yedin*, *sâğirûn*.
 2. **Klasik tefsirlerdeki anlayışlar ihtilaf tablosu hâlinde aktarılacak.**
 3. **Hiçbir fıkhî hüküm verilmeyecek; "bağlayıcı değildir" kaydı düşülecek.**
-4. **Ayetlerin belirli bir tarihî durumu düzenlediği ve bir grup hakkında toptan hüküm kurmadığı, USLUP'un ilgili maddesine dayanılarak açıkça kaydedilecek.**
+4. **Ayetlerin belirli bir tarihî durumu düzenlediği ve bir grup hakkında toptan hüküm kurmadığı, STYLE'ın ilgili maddesine dayanılarak açıkça kaydedilecek.**
 5. **Güncel hiçbir tartışmaya, hiçbir siyasî duruma girilmeyecek.**
 
 ---
@@ -1081,11 +1081,11 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Bu görüşler arasında tercih yapmıyorum.** Kaydedilecek olan şudur: **görüşlerin çoğunluğu ifadeyi bedensel bir nitelik olarak okumamıştır**; ancak bu, bir sayım değil bir kayıttır ve kesinlik iddiası taşımaz.
 
-### USLUP gereği kaydedilecek olanlar
+### STYLE gereği kaydedilecek olanlar
 
 **Bir. Ayet, bir grup hakkında toptan bir hüküm kurmuyor; belirli bir mekâna giriş hakkında bir düzenleme yapıyor.** Bunun lafzî dayanağı ayetin kendisidir: hüküm cümlesi *fe-lâ yakrabü'l-**mescide'l-harâme**'dir — yani konu **bir mekândır**, kişilerin genel statüsü değil. Ve zaman kaydı da vardır: *ba'de âmihim hâzâ* — "**bu yıllarından sonra**."
 
-**İki. USLUP'un "Yasaklar" maddesi burada doğrudan işler:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır."* **Bu tefsirde ayet, bir vasıf hakkında konuşan bir düzenleme olarak okunmakta; hiçbir topluluk hakkında bir yargı kurulmamaktadır.**
+**İki. STYLE'ın "Yasaklar" maddesi burada doğrudan işler:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır."* **Bu tefsirde ayet, bir vasıf hakkında konuşan bir düzenleme olarak okunmakta; hiçbir topluluk hakkında bir yargı kurulmamaktadır.**
 
 **Üç. Bu ayetten çıkarılan fıkhî hükümler mezhepler arasında tartışılmıştır** — hangi mekânları kapsadığı, kimleri kapsadığı, sürekli mi geçici mi olduğu. **Bu tefsirde o tartışmaya girilmemekte, hiçbir hüküm verilmemekte ve hiçbir görüş bağlayıcı sayılmamaktadır.**
 
@@ -1111,7 +1111,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ---
 
-**Bu ayet, USLUP açısından sûrenin en hassas ayetidir. Yukarıda yazdığım beş maddelik usulü burada harfiyen uyguluyorum.**
+**Bu ayet, STYLE açısından sûrenin en hassas ayetidir. Yukarıda yazdığım beş maddelik usulü burada harfiyen uyguluyorum.**
 
 ---
 
@@ -1190,7 +1190,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **Tercih yapmıyorum.** **Ve şunu ayrıca kaydediyorum:** C görüşünden çıkarılan uygulama biçimleri fıkıh literatüründe tartışılmış ve bir kısım âlim bunları reddetmiştir. **Bu tartışmaya da girilmemektedir.**
 
-### Üçüncü mesele: ayetin çerçevesi — USLUP gereği kaydedilecekler
+### Üçüncü mesele: ayetin çerçevesi — STYLE gereği kaydedilecekler
 
 **Bir. Ayet bir savaş hâlini düzenliyor ve bir bitiş noktası koyuyor.**
 
@@ -1205,7 +1205,7 @@ Bunun lafzî dayanakları şunlardır ve hepsi metnin içindedir:
 - **مِنَ** edatı vardır ve en az bir okumada teb'îz bildirir.
 - Aynı Kur'an, kitap ehlinin içinden bir kesimi ayrıca över (Âl-i İmrân 3/113-115) — bu ayetlere yalnızca gönderme yapıyorum, o sûreler bu dizinde henüz işlenmemiştir.
 
-**USLUP'un ilgili maddesi burada doğrudan uygulanmaktadır:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* **Bu tefsirde bu ayetten hiçbir topluluk hakkında hüküm çıkarılmamaktadır.**
+**STYLE'ın ilgili maddesi burada doğrudan uygulanmaktadır:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* **Bu tefsirde bu ayetten hiçbir topluluk hakkında hüküm çıkarılmamaktadır.**
 
 **Üç. Fıkhî hüküm verilmemektedir ve verilen hiçbir görüş bağlayıcı değildir.**
 
@@ -1225,13 +1225,13 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 "**Yahudiler 'Uzeyr Allah'ın oğludur' dediler; Hristiyanlar da 'Mesih Allah'ın oğludur' dediler. Bu, onların ağızlarıyla söyledikleri sözdür; daha önce inkâr edenlerin sözüne benzetiyorlar. Allah onları kahretsin; nasıl da çevriliyorlar.**"
 
-### USLUP gereği bir sınır
+### STYLE gereği bir sınır
 
 **Bu ayet ve devamı, iki dinî topluluğa nispet edilen iddialar hakkındadır. Bu tefsirde uygulanan ölçü şudur ve açıkça yazıyorum:**
 
 **Eleştirilen şey bir *sözdür*, bir *topluluk* değil.** Ayetin kendi lafzı bunu söyler: ***zâlike kavlühüm* — "bu, onların sözüdür."** Konu, bir cümlenin doğru olup olmadığıdır.
 
-**Bu tefsirde hiçbir dinî topluluk hakkında hüküm kurulmamakta, hiçbir topluluğa bir nitelik atfedilmemektedir. USLUP'un ilgili maddesi burada da işlemektedir.**
+**Bu tefsirde hiçbir dinî topluluk hakkında hüküm kurulmamakta, hiçbir topluluğa bir nitelik atfedilmemektedir. STYLE'ın ilgili maddesi burada da işlemektedir.**
 
 **Ve bir kayıt daha:** ayette *Uzeyr* hakkında söylenen sözün tarihî olarak hangi çevrede ve ne yaygınlıkta bulunduğu konusunda klasik ve modern kaynaklarda farklı değerlendirmeler vardır. **Bu tefsirde bu meseleye girilmemekte, hiçbir tarihî iddia ileri sürülmemektedir.** Ayetin lafzı bir sözü kaydeder; bu tefsir de o kaydı aktarır.
 
@@ -1263,11 +1263,11 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 **Yaygın olarak nakledilen izah şudur:** buradaki "rab edinme", onlara secde etmek ya da ilâh olduklarına inanmak değildir. **Kastedilen, *helâl ve haram belirleme yetkisinin* onlara verilmesidir** — yani onların helâl saydığını helâl, haram saydığını haram kabul etmek.
 
-**Bu izah, klasik tefsir geleneğinde yaygındır. Bir hadis rivayetine dayandırıldığı da nakledilir; rivayetin lafzını ve kaynağını kesin olarak veremediğim için nakletmiyorum.** USLUP gereği: **emin olmadığım bir sözü bir kaynağa nispet etmiyorum.**
+**Bu izah, klasik tefsir geleneğinde yaygındır. Bir hadis rivayetine dayandırıldığı da nakledilir; rivayetin lafzını ve kaynağını kesin olarak veremediğim için nakletmiyorum.** STYLE gereği: **emin olmadığım bir sözü bir kaynağa nispet etmiyorum.**
 
 **Ayetin kendi lafzından doğrulanabilen şudur ve bunu kendi okumam olarak kaydediyorum:** cümlenin devamı ***ve mâ ümirû illâ li-ya'budû ilâhen vâhıdâ*** — "oysa onlara yalnız tek bir ilâha **kulluk etmeleri** emredilmişti." **Yani ayet, yapılan şeyi *ibadet* alanında adlandırıyor.** Ve *ibâdet* kelimesinin Kur'an'daki kapsamı, secdeden ibaret değildir.
 
-**Bir sınır daha, USLUP gereği:** bu ayet, **her din âliminin ya da her dinî otoritenin** mahkûm edildiği bir ayet olarak okunamaz. Ayetin tarif ettiği şey bir **fiildir**: yetkinin yerinden edilmesi. **Kim o fiili yaparsa tarife dahildir; bu, hiçbir topluluğa toptan bir hüküm kurmaz.** Bunu USLUP'un ilgili maddesine dayanarak kaydediyorum.
+**Bir sınır daha, STYLE gereği:** bu ayet, **her din âliminin ya da her dinî otoritenin** mahkûm edildiği bir ayet olarak okunamaz. Ayetin tarif ettiği şey bir **fiildir**: yetkinin yerinden edilmesi. **Kim o fiili yaparsa tarife dahildir; bu, hiçbir topluluğa toptan bir hüküm kurmaz.** Bunu STYLE'ın ilgili maddesine dayanarak kaydediyorum.
 
 ---
 
@@ -1311,7 +1311,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 | **C** | Belirli bir bölgede gerçekleşmiş bir durum | Tarihî okuma |
 | **D** | Zaman bakımından geleceğe ait bir bildirim | Fiilin gaye kalıbında olması |
 
-**Bu tefsirde tercih yapılmamaktadır. Ve USLUP gereği: bu ayetten güncel siyasî ya da toplumsal sonuçlar çıkarılmamaktadır.**
+**Bu tefsirde tercih yapılmamaktadır. Ve STYLE gereği: bu ayetten güncel siyasî ya da toplumsal sonuçlar çıkarılmamaktadır.**
 
 ---
 
@@ -1329,7 +1329,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı ism-i mevsûlün mutlak gelmesidir:** biriktirme hükmü **bir gruba** değil, **bir fiile** bağlanıyor. Cümle "onlardan biriktirenler" demiyor; "**biriktirenler**" diyor.
 
-**Ve *inne kesîran min* kaydı da ayrıca kaydedilmelidir:** *kesîran min* — "birçoğu." **Yani ilk cümle bile bütünü kapsamıyor.** USLUP gereği: **hiçbir topluluğa toptan hüküm kurulmamaktadır ve ayetin kendi lafzı bunu zaten yapmamaktadır.**
+**Ve *inne kesîran min* kaydı da ayrıca kaydedilmelidir:** *kesîran min* — "birçoğu." **Yani ilk cümle bile bütünü kapsamıyor.** STYLE gereği: **hiçbir topluluğa toptan hüküm kurulmamaktadır ve ayetin kendi lafzı bunu zaten yapmamaktadır.**
 
 ### كَنَزَ — kök: ك-ن-ز
 
@@ -1411,7 +1411,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 **Zaman kaydı kaydedilmelidir ve bunu bir gözlem olarak veriyorum:** ayet, ay sayısını **bir gelenek** ya da **bir anlaşma** olarak değil, **yaratılışa** bağlıyor. **Yani sayının kaynağı beşerî bir düzenleme sayılmıyor.**
 
-**Ve bunun somut karşılığı vardır:** ay takvimi, ayın evrelerine dayanır ve on iki devir bir güneş yılına yaklaşır. **Bu bir gözlemdir; ayetten çıkarılan bir fennî iddia değildir.** USLUP gereği: **fennî mucize avcılığı yapılmamaktadır. Ayetin söylediği, sayının kaynağıdır; astronomik bir ayrıntı değil.**
+**Ve bunun somut karşılığı vardır:** ay takvimi, ayın evrelerine dayanır ve on iki devir bir güneş yılına yaklaşır. **Bu bir gözlemdir; ayetten çıkarılan bir fennî iddia değildir.** STYLE gereği: **fennî mucize avcılığı yapılmamaktadır. Ayetin söylediği, sayının kaynağıdır; astronomik bir ayrıntı değil.**
 
 ### مِنْهَآ أَرْبَعَةٌ حُرُمٌ
 
@@ -1627,7 +1627,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 | **A** | **Resul** — cümlenin öznesi ve bağlamın merkezi |
 | **B** | **Arkadaşı** — teselli edilen taraf olması |
 
-**İhtilafı aktarıyor, tercih dayatmıyorum.** **Ve USLUP gereği: bu ayet üzerinden yapılan tarihî ve mezhebî tartışmalara girilmemektedir.**
+**İhtilafı aktarıyor, tercih dayatmıyorum.** **Ve STYLE gereği: bu ayet üzerinden yapılan tarihî ve mezhebî tartışmalara girilmemektedir.**
 
 **`048-fetih.md`'de kaydedilen ölçü burada da geçerlidir:** *sekîne*, **iç çırpınmanın durmasıdır** — korkulacak şeyin ortadan kalkması değil. **Ve bu ayette korkulacak şey açıkça yerindedir:** takip vardır, çıkarılma vardır, iki kişi bir mağaradadır. **Kalkan şey, kişiyi savuran hareketin kendisidir.**
 
@@ -1940,7 +1940,7 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 | **Sekiz sınıfa dağıtım** | Malın sekizine de bölünmesinin zorunlu olup olmadığı, bir kısmına verilmesinin yeterli olup olmadığı mezhepler arasında ayrılık konusudur |
 | **Sadaka/zekât ilişkisi** | Ayetteki *sadakāt* kelimesinin kapsamı tartışılmıştır |
 
-**Bu tefsirde hiçbir görüş tercih edilmemekte, hiçbir hüküm verilmemektedir. USLUP gereği: fıkhî hüküm verilmez, mezhep görüşleri aktarılır.**
+**Bu tefsirde hiçbir görüş tercih edilmemekte, hiçbir hüküm verilmemektedir. STYLE gereği: fıkhî hüküm verilmez, mezhep görüşleri aktarılır.**
 
 **Ayetin dil yönünde kaydedilecek olan şudur ve bunu kendi okumam olarak veriyorum:** liste, **ihtiyacın sebeplerini** sayıyor — yoksulluk, hareketsizlik, borç, esaret, yolculuk — ve yanına **işi görenleri** ve **bir yönü** ekliyor. **Yani liste yalnız "muhtaçlar" listesi değil; bir *işleyişin* listesidir: kim alacak, kim dağıtacak, ne için harcanacak.**
 
@@ -2057,7 +2057,7 @@ Zamir kaydedilmelidir: *tünebbiü**hüm*** — başkalarına değil, **onlara.*
 
 ### إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ
 
-**Ayetin son cümlesi kaydedilmelidir ve USLUP açısından önemlidir.**
+**Ayetin son cümlesi kaydedilmelidir ve STYLE açısından önemlidir.**
 
 **Cümle *tâife* (bir kesim) kelimesini iki kez kullanıyor: bir kesim affediliyor, bir kesime azap ediliyor.**
 
@@ -2241,7 +2241,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 **Aynı kök sûrenin 123. ayetinde tekrar geçecek: *velyecidû fîküm ğılzah*.** **İki geçiş 123'te karşılaştırılacaktır.**
 
-**USLUP gereği bir kayıt:** bu ayetten güncel hiçbir tutum, hiçbir siyasî sonuç çıkarılmamaktadır. **Ve kelimenin muhatabı ayette bellidir: tekil, elçidir.**
+**STYLE gereği bir kayıt:** bu ayetten güncel hiçbir tutum, hiçbir siyasî sonuç çıkarılmamaktadır. **Ve kelimenin muhatabı ayette bellidir: tekil, elçidir.**
 
 ### وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ
 
@@ -2365,7 +2365,7 @@ Kökün anlamı: ölçüyle biçmek, yaratmak; ve *halâk* — **ayrılmış pay
 
 ### Hükmün konusu
 
-**USLUP gereği kaydedilecek olan şudur:** ayetin gerekçesi **açıkça verilmiştir** ve bir kimlik değil, bir durumdur: *innehüm keferû … ve mâtû ve hüm fâsikūn* — **ölüm anındaki hâl.**
+**STYLE gereği kaydedilecek olan şudur:** ayetin gerekçesi **açıkça verilmiştir** ve bir kimlik değil, bir durumdur: *innehüm keferû … ve mâtû ve hüm fâsikūn* — **ölüm anındaki hâl.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı gerekçe cümlesidir:** hüküm, bir gruba değil **belirli bir durumda ölmüş kişilere** bağlanmıştır. **Ve bu tefsirde bundan hiçbir genel hüküm çıkarılmamaktadır. Fıkhî hüküm verilmemektedir.**
 
@@ -2412,7 +2412,7 @@ Kelime *hâlife*nin çoğuludur: **geride kalanlar.**
 | **B** | Kadınlar ve çocuklar |
 | **C** | Bir işe yaramayanlar — kelimenin "artakalan" anlamından |
 
-**İhtilafı aktarıyorum, tercih dayatmıyorum.** **Ve USLUP gereği bir kayıt: B görüşünden hiçbir toplumsal hüküm çıkarılmamaktadır; ayet bir kelime kullanmakta, bir değerlendirme yapmamaktadır.**
+**İhtilafı aktarıyorum, tercih dayatmıyorum.** **Ve STYLE gereği bir kayıt: B görüşünden hiçbir toplumsal hüküm çıkarılmamaktadır; ayet bir kelime kullanmakta, bir değerlendirme yapmamaktadır.**
 
 **Ve fiil kaydedilmelidir: *radū* — "razı oldular."** **Bu, 59. ayetteki *radū*nun karşıtıdır:** orada rıza istenen şeydi (*ve lev ennehüm radū mâ âtâhümüllâh*), burada rıza yerilen şey. **Aynı fiil, iki ayrı nesneyle iki ayrı değer taşıyor.**
 
@@ -2459,7 +2459,7 @@ Kelime *hâlife*nin çoğuludur: **geride kalanlar.**
 
 **Ve *min* edatı burada da teb'îz bildirir: *mine'l-a'râb* — "bedevîlerden."** **Nitekim sûrenin 99. ayeti aynı topluluğun içinden bir kesimi ayrı olarak anacaktır.**
 
-**USLUP gereği: bu kelimeden hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır.**
+**STYLE gereği: bu kelimeden hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır.**
 
 ---
 
@@ -2527,7 +2527,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 "**Bedevîler, inkâr ve münafıklık bakımından daha katıdırlar ve Allah'ın Resulüne indirdiği hükümlerin sınırlarını bilmemeye daha yatkındırlar**… **Bedevîlerden kimi de Allah'a ve âhiret gününe inanır.**"
 
-### USLUP gereği zorunlu bir kayıt
+### STYLE gereği zorunlu bir kayıt
 
 **Bu üç ayet bir arada okunmadan hüküm çıkarılamaz** ve bunu açıkça kaydediyorum.
 
@@ -2543,7 +2543,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **Ve doksan yedinci ayetin gerekçesi de metinde veriliyor:** *ve ecderu ellâ ya'lemû hudûde mâ enzelallâh* — **hükümlerden uzak yaşamaları.** **Yani tespit bir soy ya da kimlik hükmü değil, bir *durum* tespitidir; ve sebebi coğrafî mesafedir.**
 
-***A'râb* kelimesinin "Araplar" değil bedevîler demek olduğu `048-fetih.md` ve `049-hucurat.md` 49/14'te işlendi;** oraya dayanıyorum. **USLUP gereği hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır ve sûrenin kendisi zaten kurmuyor.**
+***A'râb* kelimesinin "Araplar" değil bedevîler demek olduğu `048-fetih.md` ve `049-hucurat.md` 49/14'te işlendi;** oraya dayanıyorum. **STYLE gereği hiçbir etnik ya da toplumsal gruba toptan hüküm kurulmamaktadır ve sûrenin kendisi zaten kurmuyor.**
 
 **مَغْرَمًا** (98) — kök **غ-ر-م**: borç, zarar, ödenmesi gereken bedel. **Kök `056-vakia.md` 56/66'da (*innâ le-muğramûn*) ve `052-tur.md`, `068-kalem.md`'de işlendi.**
 
@@ -2599,7 +2599,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı ayetin kendi ifadesidir:** sûre, üç grubu sayarken **üçüncüsü hakkında hüküm vermiyor.** *İmmâ … ve immâ* — iki ihtimal açık bırakılıyor.
 
-**Ve bu, USLUP'ta korunan tavırla örtüşüyor:** **bir metin, hakkında hüküm bulunmayan yeri boş bırakabiliyor.** **Sûre bunu kendi içinde uyguluyor** — nitekim 101. ayette de *lâ ta'lemühüm* denmişti.
+**Ve bu, STYLE'da korunan tavırla örtüşüyor:** **bir metin, hakkında hüküm bulunmayan yeri boş bırakabiliyor.** **Sûre bunu kendi içinde uyguluyor** — nitekim 101. ayette de *lâ ta'lemühüm* denmişti.
 
 ---
 
@@ -2727,7 +2727,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟** — **ve sıra kaydedilmeye değer: kabul, tövbeden *önce* anılıyor.** *Tâbe aleyhim li-yetûbû* — **"tövbe edebilsinler diye tövbelerini kabul etti."** **Bunu bir dizim gözlemi olarak kaydediyorum.**
 
-**USLUP gereği:** bu ayetin arka planında anlatılan olay klasik kaynaklarda ayrıntılı olarak nakledilir. **Bu tefsirde kişi adı verilmemekte ve rivayet aktarılmamaktadır;** ayetin kendi verdiği çerçeveyle yetiniliyor.
+**STYLE gereği:** bu ayetin arka planında anlatılan olay klasik kaynaklarda ayrıntılı olarak nakledilir. **Bu tefsirde kişi adı verilmemekte ve rivayet aktarılmamaktadır;** ayetin kendi verdiği çerçeveyle yetiniliyor.
 
 ---
 
@@ -2768,7 +2768,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 ### Ayetin kendi kayıtları
 
-**USLUP gereği, ayet kendi kayıtlarıyla birlikte okunmalıdır** — ve bu kayıtlar yorum değil, **cümlenin kendi öğeleridir:**
+**STYLE gereği, ayet kendi kayıtlarıyla birlikte okunmalıdır** — ve bu kayıtlar yorum değil, **cümlenin kendi öğeleridir:**
 
 | Kayıt | İfade | Ne sınırlıyor |
 |---|---|---|
@@ -2786,7 +2786,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **Bunu kendi okumam olarak kaydediyorum:** ikisi çelişmiyor, çünkü **muhatapları farklıdır** — biri kendi çevresine karşı tavır, öteki savaş hâlindeki tarafa karşı caydırıcılık. **Ve `048-fetih.md` 48/29'da (*eşiddâü ale'l-küffâri ruhamâü beynehüm*) bu ayrım işlendi ve orada sınır konuldu;** oraya dayanıyorum.
 
-### USLUP gereği çizilen sınır
+### STYLE gereği çizilen sınır
 
 **Bu ayetten güncel siyasî ya da askerî bir sonuç çıkarılmamaktadır.** Ayetin çerçevesi, sûrenin kendi anlattığı **karşılıklı bir savaş hâli**dir; ve o hâlin sınırları sûrenin ilk on altı ayetinde tek tek sayılmıştır (antlaşmaya sadık kalanın istisna edilmesi, sığınanın korunup güvenli yere ulaştırılması, barışa yanaşıldığında karşılık verilmesi — `008-enfal.md` 8/61'de işlendi).
 
@@ -2850,7 +2850,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin iki ucudur:** aynı sûre, bir **fesih ilanıyla** açılıp bir **merhamet tarifiyle** kapanıyor. **Ve iki ucun arasında, sûre boyunca hep aynı ayrım işletildi: antlaşmasını bozanla bozmayan, mazereti olanla olmayan, veren-de-zarar-sayanla veren-de-yakınlık-sayan.**
 
-**Yani sûre bir topluluğa değil, bir *davranışa* karşı konum alıyor** — ve bu, USLUP'un "ayetin tarif ettiği vasıflardır" maddesinin sûrenin kendi yapısındaki karşılığıdır.
+**Yani sûre bir topluluğa değil, bir *davranışa* karşı konum alıyor** — ve bu, STYLE'ın "ayetin tarif ettiği vasıflardır" maddesinin sûrenin kendi yapısındaki karşılığıdır.
 
 **فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ** (129)
 

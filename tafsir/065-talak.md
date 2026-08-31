@@ -36,7 +36,7 @@ Bu sûre hüküm bildiriyor. Ve hükümler üzerinde, on dört asırdır süren 
 - **Kelimeleri** açmak: hangi kök seçilmiş, seçilmeyen alternatif neydi, kalıp ne katıyor.
 - **İhtilafı gizlememek:** görüşler ayrılmışsa ayrıldığını söylemek, ama taraf tutmamak.
 
-Ve bir kayıt daha: **görüş sahiplerinin adını, emin olmadığım yerde vermeyeceğim.** "Hanefîlere göre şöyledir" gibi cümleler, ancak gerçekten emin olunduğunda yazılabilir; aksi halde bir mezhebe, savunmadığı bir görüş nispet edilmiş olur. Bu yüzden çoğu yerde "bir görüşe göre… başka bir görüşe göre…" diyeceğim. Bu bir kaçamak değil, USLUP'un doğruluk kuralının gereğidir.
+Ve bir kayıt daha: **görüş sahiplerinin adını, emin olmadığım yerde vermeyeceğim.** "Hanefîlere göre şöyledir" gibi cümleler, ancak gerçekten emin olunduğunda yazılabilir; aksi halde bir mezhebe, savunmadığı bir görüş nispet edilmiş olur. Bu yüzden çoğu yerde "bir görüşe göre… başka bir görüşe göre…" diyeceğim. Bu bir kaçamak değil, STYLE'ın doğruluk kuralının gereğidir.
 
 **Bir uyarı daha, ters yönden.** Bu sûre, modern tartışmaların ortasına düşmüş bir metindir ve iki yönlü bir baskı altında okunur: bir taraf onu savunulacak bir belge, öteki taraf suçlanacak bir belge olarak ele alır. İkisi de aynı hatayı yapar — metne, metnin kendi sorusundan başka bir soru sordurur.
 
@@ -1720,7 +1720,7 @@ Ayetin bir ifadesi hakkında **kesin konuşmayacağım** ve sebebini yazacağım
 
 Klasik tefsirlerde bu konuda farklı izahlar nakledilmiştir ve aralarında kesin bir tercih yapılmamıştır. Kimi izahlarda sayı benzerliği, kimilerinde yaratılış benzerliği öne çıkar.
 
-**Ve buraya modern bir kozmoloji bilgisi yerleştirmeyeceğim.** USLUP'un açık kuralı budur: fennî mucize avcılığı yapılmaz, ayete modern bir bilgi zorla giydirilmez. Ayet, gök ve yer hakkında bir yapı tarifi vermiyor; bir **kuşatma** ve bir **iniş** tarif ediyor. Ayetin kendi cümlesi de bunu söylüyor: *li-ta'lemû* — bilinmesi istenen şey, kozmografya değil, kudret ve ilim.
+**Ve buraya modern bir kozmoloji bilgisi yerleştirmeyeceğim.** STYLE'ın açık kuralı budur: fennî mucize avcılığı yapılmaz, ayete modern bir bilgi zorla giydirilmez. Ayet, gök ve yer hakkında bir yapı tarifi vermiyor; bir **kuşatma** ve bir **iniş** tarif ediyor. Ayetin kendi cümlesi de bunu söylüyor: *li-ta'lemû* — bilinmesi istenen şey, kozmografya değil, kudret ve ilim.
 
 Metnin sustuğu yerde susuyorum.
 
@@ -1880,7 +1880,7 @@ Sûrenin çözümü bir öğüt değil, bir mekanizma: süreyi say, yerinde kal,
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **Fıkhî hükümlerin hiçbiri karara bağlanmadı.** Talâk-ı sünnî / bid'î ayrımı ve bid'î talâkın sonuçları, *lâ tuhricûhunne*'nin bâin talâkı kapsayıp kapsamadığı, bâin talâkta süknâ ve nafakanın gerekip gerekmediği, şahitliğin şart mı tavsiye mi olduğu ve hangi ana ait olduğu, emzirmenin vücûbu ve ücretin tespiti — bunların hepsinde ihtilafın varlığı kaydedildi, tercih yapılmadı. **Bu tefsir fıkhî hüküm vermez; amel edilecek hüküm için fıkıh kaynaklarına bakılmalıdır.**
 - **Mezhep adı ve imam adı verilmedi.** Görüşler "bir görüşe göre / başka bir görüşe göre" biçiminde aktarıldı. Sebep: bir görüşü yanlış bir mezhebe nispet etmemek. Emin olmadığım hiçbir nispeti yazmadım.
@@ -1892,7 +1892,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **مَخْرَجًا'nın kalıbı.** İsm-i mekân mı masdar mîmî mi olduğu konusunda birinci okuyuş tercih edildi, ama bunun bir tercih olduğu ve bağlayıcı olmadığı belirtildi.
 - **مِنْ أَمْرِهِۦ'deki zamir** (65/4). İki okuyuş verildi; birincisi bağlama daha uygun bulundu ama tercih olarak sunuldu.
 - **رَّسُولًا'nın irabı** (65/11). Klasik tahlillerin ihtimalleri sıralandı; hiçbiri tercih edilmedi, çünkü anlamı esaslı biçimde değiştirmiyorlar.
-- **وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ.** Neyin neye benzediği konusunda hiçbir izah tercih edilmedi ve modern bir kozmoloji bilgisi yerleştirilmedi. USLUP'un fennî mucize yasağı gereği metnin sustuğu yerde susuldu.
+- **وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ.** Neyin neye benzediği konusunda hiçbir izah tercih edilmedi ve modern bir kozmoloji bilgisi yerleştirilmedi. STYLE'ın fennî mucize yasağı gereği metnin sustuğu yerde susuldu.
 - **Kıraat farkları için imam adı verilmedi.** 65/1'deki tekil okuyuşun ve 65/4'teki *ellâî* biçimlerinin varlığı kaynaklarda kayıtlıdır; hangi imamlara ait oldukları konusunda emin olmadığım için isim yazılmadı ve anlamı değiştirmedikleri için üzerinde durulmadı.
 - **Tevekkülle ilgili "önce bağla, sonra tevekkül et" rivayeti** hadis olarak nakledilmedi; sıhhati üzerinde tartışma bulunduğu belirtildi ve kelimenin kendi yapısının aynı sonucu verdiği kaydedildi.
 - **Bakara 2/286 ile Talâk 65/7 arasındaki lafız farkı** bir gözlem olarak kaydedildi. İki ilkenin çeliştiği ya da birinin ötekini kayıtladığı sonucu **çıkarılmadı**; klasik kaynaklarda bu farkın nasıl ele alındığı konusunda kesin bir bilgim yok.

@@ -32,7 +32,7 @@ Rivayeti bir tefsir malzemesi olarak değil, **sûrenin nasıl bir metin olduğu
 
 ## Bir de "garânîk" meselesi
 
-19-20. ayetlere bağlanan ve bazı erken siyer ve tefsir derlemelerinde nakledilen bir rivayet vardır: Peygamber'in bu ayetleri okurken üç putu öven bir cümle söylediği, sonra bunun düzeltildiği iddia edilir. **Bu meseleyi atlamıyorum, çünkü USLUP gereği ihtilaf gizlenmez.** Ama şunları kaydetmek gerekiyor:
+19-20. ayetlere bağlanan ve bazı erken siyer ve tefsir derlemelerinde nakledilen bir rivayet vardır: Peygamber'in bu ayetleri okurken üç putu öven bir cümle söylediği, sonra bunun düzeltildiği iddia edilir. **Bu meseleyi atlamıyorum, çünkü STYLE gereği ihtilaf gizlenmez.** Ama şunları kaydetmek gerekiyor:
 
 - Rivayet, hadis tenkidi geleneğinde **yaygın olarak reddedilmiştir**; senedlerinin kopukluğu (mürsel oluşu) ve muttasıl bir yolla sabit olmaması gerekçe gösterilir.
 - İddia edilen cümlenin lafzını **aktarmıyorum.**
@@ -689,7 +689,7 @@ Bu üç ayet, "gözle görme"yi savunmayı zorlaştırır. Buna karşılık bu s
 
 1. **Ayet isim vermiyor.** Metin zamirlerle konuşmayı seçmiş. Bir metnin bilerek adlandırmadığı şeyi adlandırmak, metne bir şey eklemektir.
 2. **İki görüş de erken dönemde ve ciddi isimlerce savunulmuştur.** Birini "yanlış" ilan etmek için elde yeterli veri yok.
-3. **Kelâmî tartışma bu tefsirin konusu değildir** ve USLUP gereği fıkhî-kelâmî hüküm verilmiyor.
+3. **Kelâmî tartışma bu tefsirin konusu değildir** ve STYLE gereği fıkhî-kelâmî hüküm verilmiyor.
 
 **Ancak şu kaydedilebilir ve metnin verisidir:** sûre, ne olduğunu değil **kimin gördüğünü ve ne kadar yaklaşıldığını** anlatıyor. Ayetlerin hiçbiri görülenin şeklini, rengini, biçimini vermez. Verilen tek şey **mesafedir.** Metin, tarif etmeyi değil, **yakınlığı bildirmeyi** seçmiş.
 
@@ -1304,7 +1304,7 @@ Kur'an bu üç adı yalnızca burada, bir arada anar. Ve şunları kaydetmek ger
 
 **Kur'an'ın verdiği bilgi çok azdır ve şudur:** bunlar isimlerdir (23), sahiplerine dişil isnat edilmiştir (21), ve haklarında Allah'tan bir delil inmemiştir (23). **Kur'an bu putların nerede olduğunu, neye benzediğini, kimler tarafından ne zaman benimsendiğini söylemez.**
 
-Bu bilgiler siyer, ensâb ve "putlar kitabı" türü eserlerden gelir. **Bu tefsirde onlara girmiyorum** ve gerekçesi USLUP'tur: Kur'an'ın vermediği ayrıntılar üzerine tefsir bina edilmez.
+Bu bilgiler siyer, ensâb ve "putlar kitabı" türü eserlerden gelir. **Bu tefsirde onlara girmiyorum** ve gerekçesi STYLE'dır: Kur'an'ın vermediği ayrıntılar üzerine tefsir bina edilmez.
 
 **Kur'an'ın verdiği ve önemli olan tek tarihî çerçeve şudur:** aynı toplum bu üç varlığı Allah'ın kızları sayıyordu. Kur'an bunu birçok yerde kaydeder:
 
@@ -1745,7 +1745,7 @@ Yani ayet, keyfî adlandırmanın **sebebini** gösteriyor: bir sonucu olmayaca�
 
 Bunu bir çıkarım olarak sunuyorum, nakil olarak değil.
 
-**Ve şunu eklemek gerekiyor:** USLUP gereği bu tefsirde bir topluluk hakkında toptan hüküm kurulmaz. Ayetin tarif ettiği bir **vasıftır**: âhirete inanmamak ve buradan hareketle keyfî adlandırma yapmak. Kim bu vasfı taşırsa hükme dahildir.
+**Ve şunu eklemek gerekiyor:** STYLE gereği bu tefsirde bir topluluk hakkında toptan hüküm kurulmaz. Ayetin tarif ettiği bir **vasıftır**: âhirete inanmamak ve buradan hareketle keyfî adlandırma yapmak. Kim bu vasfı taşırsa hükme dahildir.
 
 ### ٱلْأُنثَىٰ — sûredeki üçüncü ve şaşırtıcı geçiş
 
@@ -1871,7 +1871,7 @@ Ayet demiyor ki: "bunlar cahildir", "bilmiyorlar", "yalan söylüyorlar." Diyor 
 
 **Ve teşhisin tonu üzerinde durmaya değer.** Ayet aşağılamıyor; **ölçüyor.** Bir kişinin nereye kadar gidebildiğini söylemek, onu yalancılıkla suçlamaktan farklı bir işlemdir. İlki bir tespit, ikincisi bir itham.
 
-**USLUP gereği şunu eklemek gerekiyor:** ayet bir topluluğu değil bir **vasfı** tarif ediyor — isteğini dünya hayatıyla sınırlamak ve bilgisi o sınırda kalmak. Kim bu vasfı taşırsa hükme dahildir.
+**STYLE gereği şunu eklemek gerekiyor:** ayet bir topluluğu değil bir **vasfı** tarif ediyor — isteğini dünya hayatıyla sınırlamak ve bilgisi o sınırda kalmak. Kim bu vasfı taşırsa hükme dahildir.
 
 ### إِنَّ رَبَّكَ هُوَ أَعْلَمُ — ve bloğun kapanışı
 
@@ -2036,7 +2036,7 @@ Ayrıca: **لَمَم** — hafif bir dokunuş; ve bir dilsel kullanımda **hafi
 
 **Bir tercih bildiriyorum ve bağlayıcı değildir:** kökün "uğrayıp geçmek, temas edip kalmamak" anlamı, ikinci ve üçüncü görüşleri destekliyor; ve bu üçü (küçük günah / tekrarlanmayan / yaklaşıp yapmayan) birbirini dışlamıyor. Ortak çekirdek şudur: ***lemem*, kalıcı olmayan, yerleşmeyen kusur.**
 
-**Ve şunu açıkça kaydetmek gerekiyor:** "büyük günah" ile "küçük günah" ayrımının sınırları fıkıh ve kelâm literatüründe uzun uzun tartışılmıştır ve tek bir liste yoktur. **USLUP gereği bu tefsirde fıkhî hüküm verilmiyor;** ayrımın varlığı Kur'an'ın kendi verisidir (Nisâ 4/31: *"Size yasaklanan büyük günahlardan kaçınırsanız, küçük kusurlarınızı örteriz"*), sınırların nerede olduğu ise bu bölümün konusu değildir.
+**Ve şunu açıkça kaydetmek gerekiyor:** "büyük günah" ile "küçük günah" ayrımının sınırları fıkıh ve kelâm literatüründe uzun uzun tartışılmıştır ve tek bir liste yoktur. **STYLE gereği bu tefsirde fıkhî hüküm verilmiyor;** ayrımın varlığı Kur'an'ın kendi verisidir (Nisâ 4/31: *"Size yasaklanan büyük günahlardan kaçınırsanız, küçük kusurlarınızı örteriz"*), sınırların nerede olduğu ise bu bölümün konusu değildir.
 
 ### إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ — araya giren cümle
 
@@ -2793,7 +2793,7 @@ Yirmi birinci ayette iki kelime **bölüştürülüyordu**: biri size, öteki O'
 
 **Bir kıraat farkı nakledilir:** fiilin **يُمْنَىٰ** (*yümnâ*, müzekker) olarak da okunduğu belirtilir. Fark, fiilin *nutfe*ye mi (müennes) yoksa akıtılan şeye mi (müzekker) bağlandığındandır. **İmam adı vermiyorum;** anlam farkı üretmiyor.
 
-**Ve bir kayıt:** **`096-alak.md`** bölümünde embriyoloji iddialarına girilmemesinin beş gerekçesi verilmiş, **`075-kiyame.md`** bölümünde aynı tutum korunmuştu. **Bu bölümde de aynı tutumu koruyorum;** USLUP gereği ayete modern bir bilgi giydirilmiyor.
+**Ve bir kayıt:** **`096-alak.md`** bölümünde embriyoloji iddialarına girilmemesinin beş gerekçesi verilmiş, **`075-kiyame.md`** bölümünde aynı tutum korunmuştu. **Bu bölümde de aynı tutumu koruyorum;** STYLE gereği ayete modern bir bilgi giydirilmiyor.
 
 ### ٱلنَّشْأَةَ ٱلْأُخْرَىٰ — öteki yaratılış
 
@@ -2938,7 +2938,7 @@ Bu ayrımı bir okuma olarak sunuyorum, bir nakil olarak değil.
 
 **Ve burada durmak gerekiyor.**
 
-**USLUP gereği bu tefsirde fennî mucize avcılığı yapılmaz.** Bu ayet, modern astronomiye dair iddialarda sık kullanılan ayetlerden biridir: Sirius'un çift yıldız olduğu, yörünge hareketi, kütlesi vb. üzerinden çeşitli iddialar ileri sürülür.
+**STYLE gereği bu tefsirde fennî mucize avcılığı yapılmaz.** Bu ayet, modern astronomiye dair iddialarda sık kullanılan ayetlerden biridir: Sirius'un çift yıldız olduğu, yörünge hareketi, kütlesi vb. üzerinden çeşitli iddialar ileri sürülür.
 
 **Bu iddiaları bu tefsirde kurmuyorum ve gerekçeleri şunlardır:**
 
@@ -3516,7 +3516,7 @@ Bu üçlemeyi kendi okumam olarak sunuyorum; kelimelerin kökleri ve yönleri is
 
 **Bu ayet, Kur'an'daki tilâvet secdesi ayetlerinden biri sayılır** ve yukarıda kaydedildiği gibi, sûrenin Mekke'de okunması sırasında topluluğun secdeye kapandığı yaygın olarak nakledilir.
 
-**Fıkhî hüküm vermiyorum;** USLUP gereği yalnızca ihtilafın varlığını kaydediyorum: mufassal sûrelerdeki tilâvet secdelerinin hükmü konusunda mezhepler arasında görüş farkı bulunduğu, bir kısmının bunları vâcip/gerekli saymadığı nakledilir. **Ayrıntısı fıkıh kitaplarının konusudur.**
+**Fıkhî hüküm vermiyorum;** STYLE gereği yalnızca ihtilafın varlığını kaydediyorum: mufassal sûrelerdeki tilâvet secdelerinin hükmü konusunda mezhepler arasında görüş farkı bulunduğu, bir kısmının bunları vâcip/gerekli saymadığı nakledilir. **Ayrıntısı fıkıh kitaplarının konusudur.**
 
 ### Son kelime: وَٱعْبُدُوا۟
 
@@ -3677,7 +3677,7 @@ Ve bunun pratik bir tarafı var: bir esasın doğruluğu, ilk kez söyleniyor ol
 
 ## Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **Birinci ayetteki *necm*in ne olduğu.** Üç görüş tablo halinde verildi; **tercih dayatılmadı.** Kökün "taksit" anlamıyla Kur'an'ın parça parça inişi arasındaki bağ **bir çağrışım olarak** kaydedildi, bir tefsir olarak değil, ve fiilin (*hevâ*) bu okumayı zorlaştırdığı belirtildi.
 - **Sûrenin aleni okunması ve secde rivayeti.** Buhârî'nin de aralarında bulunduğu kaynaklarda ve İbn Mes'ûd'a nispetle nakledildiği belirtildi; **lafzı birebir alıntılanmadı** ve rivayetin ayrıntılarındaki tartışmalara girilmedi.
@@ -3698,7 +3698,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **ضِيزَىٰ'nın vezni.** *Fu'lâ* aslından dönüştüğü izahı **nahivcilerden nakil olarak** verildi, kendi tespitim olarak değil. Kelimenin nadirliğinin bir "duraklama" ürettiği gözlemi **kasıt iddiası olarak sunulmadı.**
 - **ٱسْم'in kökü.** İki türetme (**س-م-و** ve **و-س-م**) verildi ve **tercih yapılmadı.**
 - **26. ayette وَيَرْضَىٰ'nın öznesi.** İki okuma verildi ve ikisinin de aynı yere çıktığı belirtildi.
-- **27. ayette "âhirete inanmayanlar" nitelemesinin sebebi.** Önerilen izah **kendi okumam** olarak sunuldu. USLUP gereği bunun bir topluluk hakkında değil bir **vasıf** hakkında hüküm olduğu ayrıca kaydedildi.
+- **27. ayette "âhirete inanmayanlar" nitelemesinin sebebi.** Önerilen izah **kendi okumam** olarak sunuldu. STYLE gereği bunun bir topluluk hakkında değil bir **vasıf** hakkında hüküm olduğu ayrıca kaydedildi.
 - **أ-ن-ث kökündeki "yumuşaklık" izahı.** **`075-kiyame.md`**'deki kayda uyularak "kesin değildir" notuyla nakledildi.
 - **ٱللَّمَم'in ne olduğu.** Dört görüş ve iki gramer okuması tablo halinde verildi. Ortak çekirdek ("kalıcı olmayan kusur") bir **tercih** olarak bildirildi ve **bağlayıcı olmadığı** yazıldı. **Büyük/küçük günah ayrımının sınırlarına girilmedi;** fıkhî hüküm verilmedi.
 - **أَقْنَىٰ'nın anlamı.** Üç görüş tablo halinde verildi; birincisi **tercih edildi** ve gerekçesi (kökün sözlük anlamı) yazıldı, **bağlayıcı değildir.** *قناعة* ile *قنية* arasındaki **kök farkı** açıkça belirtildi.

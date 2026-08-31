@@ -43,7 +43,7 @@ I record this as my own reading, and its support is the text's own sentences:
 
 ### First: what the verse says and what it does not say
 
-**Per the method (`USLUP.md`), a boundary has to be drawn in this verse before anything else, because this is one of the verses in the Qurʾān that carries the heaviest load of transmitted report.**
+**Per the method (`STYLE.md`), a boundary has to be drawn in this verse before anything else, because this is one of the verses in the Qurʾān that carries the heaviest load of transmitted report.**
 
 **What the verse says in its own wording is the following, and all of it can be verified from the text:**
 
@@ -168,7 +168,7 @@ The detailed analysis of the root **ش-ك-ر** was made at 31/12 in **`031-lokma
 
 **Second: the verse's own grammar already enters this record** — it will be shown separately below. **The seventh verse is a conditional sentence, and both arms of the condition are open.**
 
-**Third: in this commentary these verses are not linked to any current political question.** **The rule of `USLUP.md` that "no side is taken in current politics" is applied here to the letter.** What the verse recounts is two periods made known in the Book; **who filled these two periods, when, and by what events, has been disputed in the classical commentaries, and there is no agreement on it.**
+**Third: in this commentary these verses are not linked to any current political question.** **The rule of `STYLE.md` that "no side is taken in current politics" is applied here to the letter.** What the verse recounts is two periods made known in the Book; **who filled these two periods, when, and by what events, has been disputed in the classical commentaries, and there is no agreement on it.**
 
 ### Who were the two corruptions? — the disagreement
 
@@ -564,7 +564,7 @@ The root **ن-ش-ر**: **to spread, to open out** (the unrolling of something th
 
 **The root ت-ر-ف: to grow soft amid abundance, to be raised in indulgence.** *Mutraf* — a passive participle: **one who has let ease spoil him.** **That the pattern is passive is worth recording: the person is not spoiling himself, he *is being spoiled*.**
 
-**I record this as an observation about the language:** the pattern says that ease works an **effect** upon the person. **And this requires a record, per the method (`USLUP.md`): the verse issues no ruling about wealth, it describes a state.** The same record was entered in `043-zuhruf.md`.
+**I record this as an observation about the language:** the pattern says that ease works an **effect** upon the person. **And this requires a record, per the method (`STYLE.md`): the verse issues no ruling about wealth, it describes a state.** The same record was entered in `043-zuhruf.md`.
 
 ### فَحَقَّ عَلَيْهَا ٱلْقَوْلُ
 

@@ -65,7 +65,7 @@ A few measures need to be set down:
 
 **Three. The strangeness of the sūra does not depend on the reports.** Even with no information brought in from outside, the text says this within itself: entry was not possible (25), the sacrificial animals did not reach their place (25), the dream was deferred (27) — and in spite of this it was called "fatḥ". The reports do not produce this strangeness; they only say in which event it was lived through.
 
-**Four.** Per the method (`USLUP.md`), no wholesale ruling will be issued about any group. The sūra says "those left behind from among the bedouin"; this is the name of a **behaviour**, not of an identity. Indeed the same sūra opens a door to those same bedouin a few verses later: *"if you obey, God will give you a good reward"* (16). What is at issue is not a door closed but a participation deferred.
+**Four.** Per the method (`STYLE.md`), no wholesale ruling will be issued about any group. The sūra says "those left behind from among the bedouin"; this is the name of a **behaviour**, not of an identity. Indeed the same sūra opens a door to those same bedouin a few verses later: *"if you obey, God will give you a good reward"* (16). What is at issue is not a door closed but a participation deferred.
 
 ## The structure of the sūra
 
@@ -546,7 +546,7 @@ Those who defend the second view explain texts such as this verse as follows:
 - **What increases is the quality of faith.** Its steadiness, its brightness, its unshakeability increase; not the assent itself.
 - **What increases is the fruit of faith.** Works and obedience increase; in ordinary speech this is ascribed to faith.
 
-**I take no side in this debate.** Both views have been defended by major scholars from an early period, and the question is a debate about a definition: the two sides call different things "faith" and then argue over whether it increases. Per the method (`USLUP.md`), no theological partisanship is adopted.
+**I take no side in this debate.** Both views have been defended by major scholars from an early period, and the question is a debate about a definition: the two sides call different things "faith" and then argue over whether it increases. Per the method (`STYLE.md`), no theological partisanship is adopted.
 
 **Let us record what the verse says at its own level; these things are independent of the debate:**
 
@@ -661,7 +661,7 @@ A detail to be noticed: the two groups enumerated are **the hypocrites** and **t
 
 This order is no accident. The context of the sūra is an **internal separation**: who came, who did not, whose speech does and whose does not agree with what is in his heart. Verses 11-16 of the sūra will work through this question from beginning to end. The text puts first not the opposition outside but **the stance taken up inside**.
 
-**And a note:** *munāfiq* is not a name but an **attribute**. The root analysis of the word was made at `002-bakara.md`: from the root **ن-ف-ق** comes *nafaq* — the two-mouthed burrow of the field mouse; the hypocrite is the person who always keeps a second exit tunnel in reserve. Whose attribute this is depends on who carries it; per the method (`USLUP.md`) it is not fastened wholesale onto any community. Indeed the sūra itself names no one.
+**And a note:** *munāfiq* is not a name but an **attribute**. The root analysis of the word was made at `002-bakara.md`: from the root **ن-ف-ق** comes *nafaq* — the two-mouthed burrow of the field mouse; the hypocrite is the person who always keeps a second exit tunnel in reserve. Whose attribute this is depends on who carries it; per the method (`STYLE.md`) it is not fastened wholesale onto any community. Indeed the sūra itself names no one.
 
 ### ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ — thinking evil
 
@@ -1124,7 +1124,7 @@ Here there is another word from the same root, **passive** in the same way: **م
 
 **In this verse too there is a qualification, and it must not be overlooked:** the verse does not say *"the bedouin"*; it says ***"those of the bedouin who were left behind"***. The ruling, that is, is directed not at a people but at those within that people who show a particular behaviour. The particle *min* here conveys the **partitive** (the separating off of a part).
 
-Per the method (`USLUP.md`), no wholesale ruling is issued here about any community either. What the verse describes is an **attribute**; whoever carries that attribute is included in it — in the desert or in the town.
+Per the method (`STYLE.md`), no wholesale ruling is issued here about any community either. What the verse describes is an **attribute**; whoever carries that attribute is included in it — in the desert or in the town.
 
 ### شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا — the structure of the excuse
 
@@ -1336,7 +1336,7 @@ The sentence does not say *"We have prepared a fire for him"*; it says *"for the
 
 **Two. It leaves the door open.** The sentence does not say "to these people", it says "to those who carry this attribute". If the attribute changes, the ruling changes too.
 
-**This is one of the clearest examples in the text of the distinction between name and attribute set out in `USLUP.md`.** The verse does not place the group named in the eleventh verse directly inside this ruling; it describes an attribute and attaches the ruling to that. Indeed, two verses later **a new call** will be made to the same group (16) — which is the proof that the ruling is attached to the attribute and not to persons.
+**This is one of the clearest examples in the text of the distinction between name and attribute set out in `STYLE.md`.** The verse does not place the group named in the eleventh verse directly inside this ruling; it describes an attribute and attaches the ruling to that. Indeed, two verses later **a new call** will be made to the same group (16) — which is the proof that the ruling is attached to the attribute and not to persons.
 
 ### سَعِير — root: س-ع-ر
 
@@ -1497,7 +1497,7 @@ In the classical commentaries what the expression **كَلَٰمَ ٱللَّه�
 
 **إِلَّا قَلِيلًا — "except a little".** And this qualification must not be overlooked.
 
-The verse does not make an absolute negation; it sets an **exception**. It does not say "they understand nothing", it says "they understand little". This is, within the text itself, the counterpart of the prohibition on wholesale rulings set out in `USLUP.md`: the Qurʾān itself limits the negative ruling it has just framed.
+The verse does not make an absolute negation; it sets an **exception**. It does not say "they understand nothing", it says "they understand little". This is, within the text itself, the counterpart of the prohibition on wholesale rulings set out in `STYLE.md`: the Qurʾān itself limits the negative ruling it has just framed.
 
 **There are two readings of what the exception attaches to:**
 
@@ -1524,7 +1524,7 @@ In the preceding verse a request was refused, and the refusal was absolute: *lan
 
 What was refused, that is, was not the **persons** but **that particular request to take part**. The text does not extend a past choice into the future.
 
-**This is the practical counterpart of the distinction between name and attribute recorded at verse 13.** And it is the textual support for the principle in `USLUP.md` that no wholesale ruling is issued about any group: the Qurʾān itself attaches the ruling to a behaviour rather than to persons, and because behaviour can change, the ruling stays open to change too.
+**This is the practical counterpart of the distinction between name and attribute recorded at verse 13.** And it is the textual support for the principle in `STYLE.md` that no wholesale ruling is issued about any group: the Qurʾān itself attaches the ruling to a behaviour rather than to persons, and because behaviour can change, the ruling stays open to change too.
 
 ### سَتُدْعَوْنَ — "you will be called"
 
@@ -1548,7 +1548,7 @@ I record this as an observation about the word order.
 | Great struggles that came about later | More distant periods |
 | It is deliberately left indefinite | The verse gives no name on purpose |
 
-**Various names are mentioned in the classical commentaries; I do not give these names**, because the reports differ from one another and none of them is certain. Per the method (`USLUP.md`) I do not write an ascription of which I am not sure.
+**Various names are mentioned in the classical commentaries; I do not give these names**, because the reports differ from one another and none of them is certain. Per the method (`STYLE.md`) I do not write an ascription of which I am not sure.
 
 **What the text says amounts to this:** a situation will come in which a fierce might is met, and this group will be called at that time. Neither its name nor its date is given.
 
@@ -2085,7 +2085,7 @@ The word comes in the **accusative**: *sunnat**a**'llāh*. This is a point the g
 
 **I record this as my own reading:** *sunnat Allāh* is a measure given for understanding the past; it is not an authority given for judging the present. The command in Āl ʿImrān 3/137 is "travel and **see**" — not "pass judgement".
 
-**And this commentary does not enter current politics.** The application of this concept to contemporary events is a field that `USLUP.md` explicitly leaves outside.
+**And this commentary does not enter current politics.** The application of this concept to contemporary events is a field that `STYLE.md` explicitly leaves outside.
 
 ---
 
@@ -2286,7 +2286,7 @@ And the sūra has a continuation that supports this reading: Sūrat al-Naṣr re
 
 **I record this as my own reading:** this is one of the most practical measures in the sūra. What stands in the way of applying a collective treatment to a body of people is that the body is **not homogeneous**. And real communities never are. The verse uses this fact as a ground and draws a consequence from it: intermixture makes collective treatment impossible.
 
-**A note:** this verse is one of the clearest supports within the Qurʾān for the principle in `USLUP.md` that no wholesale ruling is issued about any group. The text itself sets, in the way of taking a community as a whole, the unknown people inside that community.
+**A note:** this verse is one of the clearest supports within the Qurʾān for the principle in `STYLE.md` that no wholesale ruling is issued about any group. The text itself sets, in the way of taking a community as a whole, the unknown people inside that community.
 
 ---
 
@@ -2357,7 +2357,7 @@ And it was recorded there that on one view *jāhiliyya* is not "the age of ignor
 
 **The word names a stance, that is, not a stretch of history.** A thought may be *jāhilī*, a judgement may be *jāhilī*, a fury may be *jāhilī*. And these can be met with at any time.
 
-**This is another instance of the distinction between attribute and name in `USLUP.md`:** the verse names not a community but a state.
+**This is another instance of the distinction between attribute and name in `STYLE.md`:** the verse names not a community but a state.
 
 ### The contrast of the two roots: heating and settling
 
@@ -2754,7 +2754,7 @@ The root analysis of the word **دِين** was made at `107-maun.md` (**د-ي-ن
 
 **And one further note:** this verse does not describe a historical event; it frames a clause of **purpose** (*li-yuẓhira* — "so that He may make it…"). Clauses of purpose give no information about the time or the manner of fulfilment.
 
-**I do not enter current politics and I draw no contemporary programme from this verse;** this is the field `USLUP.md` leaves outside.
+**I do not enter current politics and I draw no contemporary programme from this verse;** this is the field `STYLE.md` leaves outside.
 
 ### وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
@@ -2842,7 +2842,7 @@ Because the verse is long I shall proceed piece by piece.
 
 ### How this description is not to be read — a note
 
-**Here, per the method (`USLUP.md`), I am obliged to enter an explicit note.**
+**Here, per the method (`STYLE.md`), I am obliged to enter an explicit note.**
 
 **One. The verse looks at a position, not at an identity.** The root of the word *al-kuffār* was analysed at `002-bakara.md`: **ك-ف-ر — to cover.** And it was recorded there that the word is used within the same Qurʾān in the sense of "farmer" (`057-hadid.md`, 57/20). The word states an attribute: one who covers, who closes over the truth. Whoever carries that attribute is included in it; it is not the name of an ethnic, national or religious group.
 

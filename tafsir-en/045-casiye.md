@@ -24,7 +24,7 @@ The sūra is one of the seven that open with *ḥā-mīm*, and it stands immedia
 
 "Ḥā-mīm. The sending down of this Book is from God, the Mighty, the Wise."
 
-**The note on the disconnected letters has already been entered elsewhere in this series** (`002-bakara.md`, `050-kaf.md`, `046-ahkaf.md`): **there is no certain knowledge about the meaning of these letters**, many explanations are transmitted in the classical commentaries, and none of them claims certainty. Claims resting on letter-and-number reckoning are not entered into, per the method (`USLUP.md`). **I do not repeat it here.**
+**The note on the disconnected letters has already been entered elsewhere in this series** (`002-bakara.md`, `050-kaf.md`, `046-ahkaf.md`): **there is no certain knowledge about the meaning of these letters**, many explanations are transmitted in the classical commentaries, and none of them claims certainty. Claims resting on letter-and-number reckoning are not entered into, per the method (`STYLE.md`). **I do not repeat it here.**
 
 **What belongs here is a verifiable fact:** the second verse **is word for word the same as the second verse of `046-ahkaf.md`** (al-Aḥqāf 46/2).
 

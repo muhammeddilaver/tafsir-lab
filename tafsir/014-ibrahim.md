@@ -31,7 +31,7 @@
 
 ### الٓر
 
-**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde düşüldü** (`002-bakara.md`, `050-kaf.md`, `068-kalem.md`, `046-ahkaf.md`, `043-zuhruf.md`). **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** USLUP gereği harf-sayı hesabına dayalı iddialara girilmiyor. **Tekrarlamıyorum.**
+**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde düşüldü** (`002-bakara.md`, `050-kaf.md`, `068-kalem.md`, `046-ahkaf.md`, `043-zuhruf.md`). **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** STYLE gereği harf-sayı hesabına dayalı iddialara girilmiyor. **Tekrarlamıyorum.**
 
 **Kaydedilebilecek olan yalnızca doğrulanabilir bir dizim olgusudur:** *elif-lâm-râ* ile açılan sûrelerin hepsinde açılışın hemen ardından **kitap** anılır. Burada bu, tek kelimeyle geliyor: *kitâbün.*
 
@@ -329,7 +329,7 @@
 
 **Üç kavim adlandırılıyor, dördüncüsü adlandırılmıyor: *ve'llezîne min ba'dihim* — "onlardan sonrakiler."** Ve hemen ardından bir kayıt: **"onları Allah'tan başkası bilmez."**
 
-**Bunu bir dizim gözlemi olarak kaydediyorum:** ayet listeyi kapatmıyor, **kapatmadığını da söylüyor.** **USLUP gereği burada bir kavim sayımına, bir tarih dizimine ya da adı verilmemiş toplulukların kim olduğuna dair tahmine girmiyorum** — ayetin kendisi bu bilgiyi vermediğini bildiriyor.
+**Bunu bir dizim gözlemi olarak kaydediyorum:** ayet listeyi kapatmıyor, **kapatmadığını da söylüyor.** **STYLE gereği burada bir kavim sayımına, bir tarih dizimine ya da adı verilmemiş toplulukların kim olduğuna dair tahmine girmiyorum** — ayetin kendisi bu bilgiyi vermediğini bildiriyor.
 
 ### فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ — Kur'an'ın en çok tartışılan deyimlerinden
 
@@ -990,7 +990,7 @@
 
 **Bu ayetin kimin hakkında indiği konusunda klasik kaynaklarda farklı görüşler nakledilir** — Mekke'nin belirli ileri gelenleri, ya da genel olarak Kureyş. **Bir isim vermiyorum, çünkü emin olmadığım bir nispeti yazmıyorum.**
 
-**Ve ayetin dili zaten bir isim vermiyor:** *ellezîne beddelû* — vasıf üzerinden tarif. **USLUP gereği kaydediyorum: hüküm bir topluluğa değil, bir davranışa bağlanmıştır.**
+**Ve ayetin dili zaten bir isim vermiyor:** *ellezîne beddelû* — vasıf üzerinden tarif. **STYLE gereği kaydediyorum: hüküm bir topluluğa değil, bir davranışa bağlanmıştır.**
 
 ---
 
@@ -1078,7 +1078,7 @@
 
 **Kelime ikil (tesniye) gelmiş: *dâibeyn* — "ikisi de aralıksız."**
 
-**USLUP gereği bir sınır çiziyorum:** bu kelimeden gök cisimlerinin hareketine dair modern bir tarif çıkarmıyorum. **Kelimenin sözlük anlamı "aralıksız süregelme"dir; ayetin muhatabına söylediği şey, güneş ve ayın işlerini kesintisiz yaptığıdır.** Buradan bir astronomi bilgisi üretmek, metnin söylemediğini söyletmek olur.
+**STYLE gereği bir sınır çiziyorum:** bu kelimeden gök cisimlerinin hareketine dair modern bir tarif çıkarmıyorum. **Kelimenin sözlük anlamı "aralıksız süregelme"dir; ayetin muhatabına söylediği şey, güneş ve ayın işlerini kesintisiz yaptığıdır.** Buradan bir astronomi bilgisi üretmek, metnin söylemediğini söyletmek olur.
 
 ### وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ
 
@@ -1121,7 +1121,7 @@
 
 **Bunu bir gözlem olarak kaydediyorum:** blok, nimetlerin sayımıyla başlayıp insanın vasfıyla bitiyor. **Ve vasıf "inanmayan" değil, "örten" — yani gördüğünü görünmez kılan.** **ك-ف-ر kökünün çekirdeği `002-bakara.md`'de çözümlendi; tekrarlamıyorum.**
 
-**Ve hüküm bir topluluğa değil *el-insân*a veriliyor.** **USLUP gereği kaydediyorum: ayet bir grup adı vermiyor, bir insan eğilimini tarif ediyor** — ve dizinde bu kalıbın başka örnekleri işlendi (`100-adiyat.md` 100/6, `070-mearic.md` 70/19, `089-fecr.md` 89/15-16). **Oralara dayanıyorum.**
+**Ve hüküm bir topluluğa değil *el-insân*a veriliyor.** **STYLE gereği kaydediyorum: ayet bir grup adı vermiyor, bir insan eğilimini tarif ediyor** — ve dizinde bu kalıbın başka örnekleri işlendi (`100-adiyat.md` 100/6, `070-mearic.md` 70/19, `089-fecr.md` 89/15-16). **Oralara dayanıyorum.**
 
 ---
 

@@ -300,7 +300,7 @@ The **س-ل-ك** root: **to pass a thing through a narrow place, to insert as on
 
 ### وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ
 
-The **س-ن-ن** root: **to make a thing flow smoothly, to open a way.** *Sunna* — an opened road, one that is walked upon. **The root was treated at `048-fetih.md` 48/23 (*sunnatallāh*), and a boundary was set there per the method (`USLUP.md`): the application of the concept to contemporary events is not entered into. I rely on that treatment.**
+The **س-ن-ن** root: **to make a thing flow smoothly, to open a way.** *Sunna* — an opened road, one that is walked upon. **The root was treated at `048-fetih.md` 48/23 (*sunnatallāh*), and a boundary was set there per the method (`STYLE.md`): the application of the concept to contemporary events is not entered into. I rely on that treatment.**
 
 **The verb must be recorded: *khalat* — "it has passed, it has been left behind."** **That is, the way is named not as a rule but as something that has happened.**
 
@@ -359,7 +359,7 @@ The particle **bal** is used in Arabic **to turn from what has been said and sta
 
 > The verse does not describe a heavenly body. It does not recount a physical event. It does not give a piece of astronomy.
 
-**Per the method (`USLUP.md`) this commentary does not go down that road.** No matching will be made with notions such as meteorites, shooting stars or cosmic radiation.
+**Per the method (`STYLE.md`) this commentary does not go down that road.** No matching will be made with notions such as meteorites, shooting stars or cosmic radiation.
 
 **The frame recorded in the section on al-Jinn holds here too, and I rely on it:** this group of verses is part not of a lesson in cosmology but of a **dispute about a source**. One of the accusations directed at the Prophet in Mecca was that what he said came from a jinn; **these passages are an answer to that accusation.**
 
@@ -381,7 +381,7 @@ The particle **bal** is used in Arabic **to turn from what has been said and sta
 | 2 | **Determined positions or stations in the sky** |
 | 3 | **Fortresses, protected structures** — in agreement with the "guarding" of the next verse |
 
-**I do not impose a preference.** **And I record it per the method (`USLUP.md`): I do not derive from the word an astronomical classification or a star map.**
+**I do not impose a preference.** **And I record it per the method (`STYLE.md`): I do not derive from the word an astronomical classification or a star map.**
 
 **The third reading agrees at the level of vocabulary with *ḥafiẓnāhā* in the seventeenth verse, and I record this as a supporting indication, not as a preference:** a *burj* is a defensive structure; **and immediately after it comes an announcement of guarding.**
 
@@ -411,7 +411,7 @@ The particle **bal** is used in Arabic **to turn from what has been said and sta
 
 The **م-د-د** root: **to stretch, to spread, to extend.** **The root was treated with a near word at `067-mulk.md` and at `043-zuhruf.md` 43/10 (*jaʿala lakumu'l-arḍa mahdā*). I rely on those treatments.**
 
-**I draw a boundary per the method (`USLUP.md`):** I derive from this verb no conclusion about the shape of the earth — neither to confirm a claim nor to refute one. **The lexical sense of the word is "to spread out"; what the verse says to the one it addresses is that a breadth to be walked upon has been prepared.** **The same boundary was set at `039-zumer.md` 39/5 for the verb *yukawwiru*; I rely on that treatment.**
+**I draw a boundary per the method (`STYLE.md`):** I derive from this verb no conclusion about the shape of the earth — neither to confirm a claim nor to refute one. **The lexical sense of the word is "to spread out"; what the verse says to the one it addresses is that a breadth to be walked upon has been prepared.** **The same boundary was set at `039-zumer.md` 39/5 for the verb *yukawwiru*; I rely on that treatment.**
 
 **رَوَٰسِى** — the plural of *rāsiya*. **Root ر-س-و: to be fixed in a place, to cast anchor.** *Mursā* — the place where a ship anchors.
 
@@ -513,7 +513,7 @@ The **ل-ق-ح** root. **The concrete sense of the root is given by the lexicogr
 
 **All three explanations are transmitted; I do not impose a preference.**
 
-### A boundary per the method (`USLUP.md`)
+### A boundary per the method (`STYLE.md`)
 
 **This verse is one of the most forced verses of the modern period, and an explicit note must be entered here.**
 
@@ -936,7 +936,7 @@ A noun of place or time from the **و-ع-د** root: **a place or time of meeting
 
 **Various explanations of what the gates are and by what they are divided are transmitted in the classical commentaries.** **The wording of the verse gives no classification; for this reason I set up no table and do not enter into description.**
 
-**I record it further per the method (`USLUP.md`): no calculation is built upon this number.** **The same boundary was set at `097-kadr.md` for the thousand months; I rely on that treatment.**
+**I record it further per the method (`STYLE.md`): no calculation is built upon this number.** **The same boundary was set at `097-kadr.md` for the thousand months; I rely on that treatment.**
 
 ### جُزْءٌ مَّقْسُومٌ
 
@@ -1069,7 +1069,7 @@ The **ض-ي-ف** root: **guest.** **And because in Arabic the word comes from a 
 | Who receives the tidings | **Abraham and his wife** — the woman's reaction is recounted | **Abraham alone** |
 | Abraham's reaction | **Not recounted** | *A-bashshartumūnī ʿalā an massaniya'l-kibar* |
 
-**The two sūras show the same event from two different places.** **I record it per the method (`USLUP.md`): I do not enter into detail the Qurʾān does not give** — who the guests were, how many they were, how they appeared, is not in the text.
+**The two sūras show the same event from two different places.** **I record it per the method (`STYLE.md`): I do not enter into detail the Qurʾān does not give** — who the guests were, how many they were, how they appeared, is not in the text.
 
 ### وَجِلُون — root: و-ج-ل
 
@@ -1331,7 +1331,7 @@ The **ب-ش-ر** root and *istibshār*: **to receive glad news, to rejoice.** **
 
 **All three are transmitted; I do not impose a preference, and I derive no legal ruling from here.**
 
-**I record it further per the method (`USLUP.md`): I do not enter into detail the Qurʾān does not give.** The text gives no information about the number of the daughters, who they were, or how the offer was met.
+**I record it further per the method (`STYLE.md`): I do not enter into detail the Qurʾān does not give.** The text gives no information about the number of the daughters, who they were, or how the offer was met.
 
 **What the wording of the verse says is this, and I keep within it:** Lot proposed an alternative and qualified it with a conditional clause: *in kuntum fāʿilīn* — "if you are going to act."
 
@@ -1358,7 +1358,7 @@ The **ع-م-ر** root: **lifetime, life; and to make a place flourish** (*ʿimā
 
 **Both readings are transmitted; I do not impose a preference.**
 
-**And a note per the method (`USLUP.md`):** various assessments are made in the classical commentaries about a human being's life being sworn by in the Qurʾān. **I do not enter these assessments and record the wording of the verse as it stands.**
+**And a note per the method (`STYLE.md`):** various assessments are made in the classical commentaries about a human being's life being sworn by in the Qurʾān. **I do not enter these assessments and record the wording of the verse as it stands.**
 
 **سَكْرَة** — root **س-ك-ر**: drunkenness. **And the word is from the same root as the fifteenth verse of the sūra:** *innamā **sukkirat** abṣārunā.*
 
@@ -1949,7 +1949,7 @@ The **ض-ي-ق** root: **narrowness.** *Ḍayq* — to be narrow. **And the cons
 | 91 | The root of the word *ʿiḍīn* |
 | **99** | **What the word *yaqīn* corresponds to** — **four views given in a table, no preference made** |
 
-### Boundaries set per the method (`USLUP.md`)
+### Boundaries set per the method (`STYLE.md`)
 
 - **At 15/16-18** **no astronomical interpretation was made** of the guarding of the sky and of *shihāb*; the boundary set at `072-cin.md` and `037-saffat.md` was preserved.
 - **At 15/19** no conclusion about the shape of the earth was drawn from the verb *madadnāhā*.

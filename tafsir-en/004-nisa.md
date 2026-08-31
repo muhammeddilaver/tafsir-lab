@@ -50,7 +50,7 @@ There is no disagreement that the sūra came down in the Medinan period, and the
 
 For many verses of this sūra the sources transmit detailed accounts of events: the widows and orphans left after a battle, a woman whose property was taken from her, an accusation of theft, a tribal dispute.
 
-**In this commentary those accounts are related in the language of "it is transmitted" and without naming persons.** The reason is the rule of accuracy in the method (`USLUP.md`): to attach an event to particular people requires being sure of one's source. **I write down no chain of attribution I am not sure of.** And the frame needed to understand a verse is most often already in the verse's own wording.
+**In this commentary those accounts are related in the language of "it is transmitted" and without naming persons.** The reason is the rule of accuracy in the method (`STYLE.md`): to attach an event to particular people requires being sure of one's source. **I write down no chain of attribution I am not sure of.** And the frame needed to understand a verse is most often already in the verse's own wording.
 
 ## The structure of the sūra
 
@@ -215,7 +215,7 @@ This is a fact of grammar, not an interpretation. Its consequence is this:
 | **B. The kind / the species** | The human species, a single origin of creation | *Min jinsihā* — "from its own kind" | The Qurʾān says *min anfusikum azwājan* (al-Rūm 30/21; al-Naḥl 16/72): it states that the mate is "from you / from your own kind". The same preposition there carries the sense of kind | It generalises the verse's qualification *wāḥida* (single) |
 | **C. A single origin (unity of descent)** | The common root of all human beings | The mate too is from the same root | The continuation of the verse: *wa bassa minhumā* — increase is set going **from the two of them** | It does not conflict with A and B; it may not count as a separate view |
 
-**All three readings are found in the classical literature, and I make no firm choice among them.** The reason is the rule on disagreement in the method (`USLUP.md`): the disagreement is not concealed, no preference is imposed.
+**All three readings are found in the classical literature, and I make no firm choice among them.** The reason is the rule on disagreement in the method (`STYLE.md`): the disagreement is not concealed, no preference is imposed.
 
 **But there are three things that do not enter the table, that can be read directly from the wording of the verse, and that are not in dispute:**
 
@@ -541,7 +541,7 @@ I record this as an **observation about word order**; I draw no ruling from it.
 | **The relation between 4/3 and 4/129** | The three tendencies above (a, b, c) apply here too |
 | **The consequence of breaching the condition** | The schools differ over whether it affects the validity of the marriage and over what claims the woman may bring |
 
-**This table is not a fatwā and cannot be read as a guide to practice.** The reason it is placed here is the rule on disagreement in the method (`USLUP.md`): the disagreement is not concealed, no preference is imposed.
+**This table is not a fatwā and cannot be read as a guide to practice.** The reason it is placed here is the rule on disagreement in the method (`STYLE.md`): the disagreement is not concealed, no preference is imposed.
 
 **And current debates are not entered into.** How this verse is understood today, how it is regulated in this or that country, and the social debates around it are not the subject of this text.
 
@@ -2409,7 +2409,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 **All three readings have been defended in the classical and later literature. I prefer none of them and none of them is binding.**
 
-**And a limiting record is written plainly, per the method (`USLUP.md`):** no conclusion that one sex is superior to the other **in respect of being human** can be drawn from this sentence. The sūra's first verse (*min nafsin wāḥida*) and its twenty-fifth (*baʿḍukum min baʿḍ*) were treated in this commentary, and the records made there hold here too.
+**And a limiting record is written plainly, per the method (`STYLE.md`):** no conclusion that one sex is superior to the other **in respect of being human** can be drawn from this sentence. The sūra's first verse (*min nafsin wāḥida*) and its twenty-fifth (*baʿḍukum min baʿḍ*) were treated in this commentary, and the records made there hold here too.
 
 ### Four: قَٰنِتَٰت and حَٰفِظَٰت لِّلْغَيْبِ
 
@@ -2485,7 +2485,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 | **2** | **هَجْر فِي ٱلْمَضَاجِع** (*hajr*) — root ه-ج-ر: to separate, to leave | (a) Leaving alone in bed; (b) separating the beds; (c) restricting only the bed and not speech | That the qualification *fi'l-maḍājiʿ* **restricts** the verb: the leaving is not absolute but tied to a place |
 | **3** | **ضَرْب** (*ḍarb*) — root ض-ر-ب | (a) A touch that is **not heavy, that leaves no mark, that does not injure**; this qualification is widely transmitted in the classical literature. (b) That the step is a **deterrent**, and that its actual carrying out is not intended. (c) Reading it, on the strength of the root's wide semantic field, in the direction of **parting / withdrawing**. (d) That the step is tied to particular conditions and is a last resort | For (a): the restricting qualifications transmitted in the classical commentaries. For (b): the ordered and progressively narrowing structure of the steps. For (c): the many-sided use of the root ض-ر-ب in the Qurʾān, as in *ḍaraba fi'l-arḍ* (to set out on a journey), *ḍaraba mathalan* (to give a parable). For (d): the qualification *fa-in aṭaʿnakum fa-lā tabghū* in the continuation of the verse |
 
-**This table is not a fatwā and cannot be read as a guide to practice.** The reason it is placed here is the rule on disagreement in the method (`USLUP.md`): the disagreement is not concealed, no preference is imposed.
+**This table is not a fatwā and cannot be read as a guide to practice.** The reason it is placed here is the rule on disagreement in the method (`STYLE.md`): the disagreement is not concealed, no preference is imposed.
 
 **And there are three qualifications that follow directly from the wording of the verse; these are not disagreement but data of the text:**
 
@@ -2873,7 +2873,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ### First, a note on method
 
-**Per the method (`USLUP.md`) a record is entered, and this record holds for all the discussions running from the forty-fourth verse to the hundred and sixty-second.**
+**Per the method (`STYLE.md`) a record is entered, and this record holds for all the discussions running from the forty-fourth verse to the hundred and sixty-second.**
 
 **The verses do not lay down a ruling about a whole community.** The wording shows this plainly:
 
@@ -3075,7 +3075,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ### First, a note on method
 
-**Per the method (`USLUP.md`) two things are not done in this discussion:**
+**Per the method (`STYLE.md`) two things are not done in this discussion:**
 
 **One. No preference is imposed in the disagreement over who the *ulu'l-amr* are.** The disagreement is given as a table, with its grounds, and none of it is binding.
 
@@ -3541,7 +3541,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 **This field was treated in detail in `063-munafikun.md`, and I rely on that treatment:** there too the matter was framed as **the distance between the word and the one who speaks it**.
 
-**And a record per the method (`USLUP.md`): what is described here is an *attribute*.** The verse names a group (*ṭāʾifatun minhum*) and describes it by a behaviour. **Whoever does that thing falls within the description; this is not a ruling about a group.**
+**And a record per the method (`STYLE.md`): what is described here is an *attribute*.** The verse names a group (*ṭāʾifatun minhum*) and describes it by a behaviour. **Whoever does that thing falls within the description; this is not a ruling about a group.**
 
 ---
 
@@ -4712,7 +4712,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ### First, a note on method — and this note holds for 136-152
 
-**This block describes a group, and per the method (`USLUP.md`) the description is read thus: what is at issue is not a group but a series of acts.**
+**This block describes a group, and per the method (`STYLE.md`) the description is read thus: what is at issue is not a group but a series of acts.**
 
 **And this is not an interpretation but the verses' own construction:**
 
@@ -4936,7 +4936,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ### First, a note on method — that the rulings are tied to acts
 
-**Per the method (`USLUP.md`) this block is read thus: what is at issue are acts, not a community itself. And this is not an interpretation but the verse's own word order.**
+**Per the method (`STYLE.md`) this block is read thus: what is at issue are acts, not a community itself. And this is not an interpretation but the verse's own word order.**
 
 **The hundred and fifty-fifth verse is a *list of causes*, and every item comes with the particle *bi-*. The table gives the wording of the verse:**
 

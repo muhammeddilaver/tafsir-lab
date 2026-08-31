@@ -318,7 +318,7 @@ Ayet üç Rablik alanı sayıyor: gökler, yer, ikisi arasındakiler. Sonra **d�
 
 **Bu izahların ilki (fâsıla) doğrulanabilir bir olguya dayanıyor; diğerleri makul ama ispatlanamaz. Tercih dayatmıyorum.**
 
-**Ve bir sınır kaydı — USLUP gereği:** bu ayetten astronomik bir bilgi çıkarılmıyor. *Meşârık* kelimesinin çoğul olması bir gökbilim beyanı değildir; Arapçada bir yerin yıl boyunca değişen doğuş noktalarını anlatmak gündelik bir dil kullanımıdır ve muhatabın gözlemine dayanır.
+**Ve bir sınır kaydı — STYLE gereği:** bu ayetten astronomik bir bilgi çıkarılmıyor. *Meşârık* kelimesinin çoğul olması bir gökbilim beyanı değildir; Arapçada bir yerin yıl boyunca değişen doğuş noktalarını anlatmak gündelik bir dil kullanımıdır ve muhatabın gözlemine dayanır.
 
 ### Siyak — yeminden hükme
 
@@ -858,7 +858,7 @@ Dilcilerin verdiği anlam: **yapışan, birbirine tutunan, ele bulaşan.** *Lezi
 
 **`056-vakia.md`'de *ezvâc* kelimesinin "sınıf" anlamı işlendi.** **Bu üç görüş de klasik kaynaklarda nakledilir; tercih dayatmıyorum.** Ayet belirtmiyor.
 
-**Ve bir kayıt gerekiyor — USLUP gereği:** birinci görüş benimsense bile ayet "eşler birbirinin günahını taşır" demiyor. **Toplananların ortak yanı, ayetin kendi ifadesiyle, *zulmetmiş olmalarıdır*** — *ellezîne **zalemû***. Vasıf ortaktır, akrabalık değil.
+**Ve bir kayıt gerekiyor — STYLE gereği:** birinci görüş benimsense bile ayet "eşler birbirinin günahını taşır" demiyor. **Toplananların ortak yanı, ayetin kendi ifadesiyle, *zulmetmiş olmalarıdır*** — *ellezîne **zalemû***. Vasıf ortaktır, akrabalık değil.
 
 ### وَمَا كَانُوا۟ يَعْبُدُونَ — ve taptıkları şeyler
 
@@ -2295,7 +2295,7 @@ Oradaki tanım: **gizlice, fark ettirmeden bir tarafa çekilmek; yön değiştir
 
 **Her iki okuma da nahivcilerce nakledilir ve klasik tefsirlerde ikisi de savunulmuştur.**
 
-**Ve bir kayıt gerekiyor — USLUP gereği:** **bu ayet kelâm ilminde uzun bir tartışmanın merkezinde yer almıştır.** İkinci okuma (masdariyye) bu tartışmanın dayanaklarından biri sayılmıştır. **Bu tefsirde o tartışmaya girilmiyor** — çünkü mesele burada bir dil meselesi olarak duruyor ve iki okuma da dilce mümkündür.
+**Ve bir kayıt gerekiyor — STYLE gereği:** **bu ayet kelâm ilminde uzun bir tartışmanın merkezinde yer almıştır.** İkinci okuma (masdariyye) bu tartışmanın dayanaklarından biri sayılmıştır. **Bu tefsirde o tartışmaya girilmiyor** — çünkü mesele burada bir dil meselesi olarak duruyor ve iki okuma da dilce mümkündür.
 
 **Dizim bakımından kaydedilebilecek olan şudur ve bir hüküm değildir:** doksan beşinci ayette *mâ tenhıtûn* açıkça mevsûledir ("yonttuğunuz şey"). Doksan altıncı ayetteki *mâ ta'melûn* onun hemen ardından geliyor ve aynı kalıptadır. **İki ayetin peş peşe gelmesi, birinci okumaya dizim bakımından bir kolaylık sağlıyor.** Bu, ikinci okumayı elemez.
 
@@ -2873,7 +2873,7 @@ Yani *bereket*, çokluk değil **kalıcılık ve süreklilik**tir: bir şeyin ye
 
 ***Muhsin*, sûrenin kapanış kalıbının kelimesidir** (*neczi'l-**muhsinîn***). **Yani ödül kalıbında geçen sıfat, burada soyun bir kısmına veriliyor — hepsine değil.**
 
-**Ve bu, USLUP'ta kayıtlı bir ilkenin doğrudan metin karşılığıdır:**
+**Ve bu, STYLE'da kayıtlı bir ilkenin doğrudan metin karşılığıdır:**
 
 > *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."*
 
@@ -3109,7 +3109,7 @@ Ve tek istisna yüz on altıncı ayettir: *ve nasarnâ**hüm*** — **çoğul.**
 | **71** | Öncekilerin **çoğu** saptı — **hepsi değil** |
 | **126** | Allah, **atalarınızın da Rabbidir** — **atalar toptan mahkûm edilmiyor** |
 
-**Bu, USLUP'un "toptan hüküm kurulmaz" ilkesinin metin içindeki karşılığıdır ve yüz on üçüncü ayetteki *muhsin ve zâlim* ayrımıyla aynı yöndedir.**
+**Bu, STYLE'ın "toptan hüküm kurulmaz" ilkesinin metin içindeki karşılığıdır ve yüz on üçüncü ayetteki *muhsin ve zâlim* ayrımıyla aynı yöndedir.**
 
 ### فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ — yalanlama ve sonuç
 
@@ -4267,7 +4267,7 @@ Ve ortadaki cümle — *ve selâmün ale'l-mürselîn* — bir insan sözüdür:
 
 ### Sûrenin tuttuğu sınırlar
 
-**Aşağıdakiler USLUP gereği kaydedilen ve metnin kendisinden okunan sınırlardır:**
+**Aşağıdakiler STYLE gereği kaydedilen ve metnin kendisinden okunan sınırlardır:**
 
 | Ayet | Ne yapıyor |
 |---|---|
@@ -4277,11 +4277,11 @@ Ve ortadaki cümle — *ve selâmün ale'l-mürselîn* — bir insan sözüdür:
 | **128** | *illâ ıbâda'llâhi'l-muhlasîn* — **yalanlayan kavmin içinden bir istisna** |
 | **148** | *fe-âmenû* — **dizinin sonunda iman eden bir kavim** |
 
-**Beş yerin beşi de aynı yönde:** hüküm gruba değil, **vasfa** bağlanıyor. **Bu, USLUP'ta kayıtlı "toptan hüküm kurulmaz" ilkesinin sûre içindeki karşılığıdır.**
+**Beş yerin beşi de aynı yönde:** hüküm gruba değil, **vasfa** bağlanıyor. **Bu, STYLE'da kayıtlı "toptan hüküm kurulmaz" ilkesinin sûre içindeki karşılığıdır.**
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar
 
-**USLUP gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
+**STYLE gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
 
 | Ayet | İhtilaf |
 |---|---|

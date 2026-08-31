@@ -36,7 +36,7 @@ This sūra states rulings. And upon these rulings a wide body of jurisprudence h
 - To open up **the words**: which root was chosen, what the unchosen alternative was, what the pattern adds.
 - **Not to conceal the disagreement:** where the views have parted, to say that they have parted, but not to take a side.
 
-And one further note: **I shall not give the names of those who hold a view where I am not sure of it.** Sentences such as "according to the Ḥanafīs it is thus" can be written only when one is genuinely certain; otherwise a view is ascribed to a school that never held it. For this reason I shall in most places say "according to one view… according to another view…". This is not an evasion; it is what the truthfulness rule of the method (`USLUP.md`) requires.
+And one further note: **I shall not give the names of those who hold a view where I am not sure of it.** Sentences such as "according to the Ḥanafīs it is thus" can be written only when one is genuinely certain; otherwise a view is ascribed to a school that never held it. For this reason I shall in most places say "according to one view… according to another view…". This is not an evasion; it is what the truthfulness rule of the method (`STYLE.md`) requires.
 
 **One further warning, from the opposite direction.** This sūra is a text that has fallen into the middle of modern debates, and it is read under a two-sided pressure: one side takes it as a document to be defended, the other as a document to be indicted. Both make the same mistake — they make the text answer a question other than its own.
 
@@ -1720,7 +1720,7 @@ I shall **not speak with certainty** about one expression in the verse, and I sh
 
 Different explanations have been transmitted in the classical commentaries on this, and no definite preference has been made among them. In some explanations likeness in number comes forward, in others likeness in creation.
 
-**And I shall not insert a piece of modern cosmology here.** This is the plain rule of the method (`USLUP.md`): no hunting for scientific miracles, no forcing a piece of modern knowledge onto a verse. The verse gives no description of the structure of heaven and earth; it describes an **encompassing** and a **descent**. The verse's own sentence says this too: *li-taʿlamū* — what is to be known is not cosmography but power and knowledge.
+**And I shall not insert a piece of modern cosmology here.** This is the plain rule of the method (`STYLE.md`): no hunting for scientific miracles, no forcing a piece of modern knowledge onto a verse. The verse gives no description of the structure of heaven and earth; it describes an **encompassing** and a **descent**. The verse's own sentence says this too: *li-taʿlamū* — what is to be known is not cosmography but power and knowledge.
 
 Where the text is silent I am silent.
 
@@ -1880,7 +1880,7 @@ The sūra's solution is not an exhortation but a mechanism: count the period, st
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list plainly the places where certain language has deliberately not been used throughout the text:
+Per the method (`STYLE.md`), I list plainly the places where certain language has deliberately not been used throughout the text:
 
 - **None of the legal rulings has been settled.** The distinction between *ṭalāq sunnī* and *bidʿī* and the consequences of a *bidʿī* divorce, whether *lā tukhrijūhunna* covers the irrevocable divorce, whether lodging and maintenance are owed in an irrevocable divorce, whether the witnessing is a condition or a recommendation and to which moment it belongs, the obligatoriness of suckling and the fixing of the wage — in all of these the existence of the disagreement was recorded and no preference was adopted. **This commentary does not issue legal rulings; for a ruling to be acted upon, the works of jurisprudence must be consulted.**
 - **No name of a school and no name of an imām was given.** The views were transmitted in the form "according to one view / according to another view". The reason: not to ascribe a view to the wrong school. I have written no ascription of which I was not sure.
@@ -1892,7 +1892,7 @@ Per the method (`USLUP.md`), I list plainly the places where certain language ha
 - **The pattern of مَخْرَجًا.** As to whether it is a noun of place or a mīmic verbal noun, the first reading was preferred, but it was stated that this is a preference and that it is not binding.
 - **The pronoun in مِنْ أَمْرِهِۦ** (65/4). Two readings were given; the first was found better suited to the context but was offered as a preference.
 - **The syntax of رَّسُولًا** (65/11). The possibilities of the classical analyses were listed; none was preferred, because they do not substantially change the meaning.
-- **وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ.** No explanation was preferred as to what is like what, and no piece of modern cosmology was inserted. Per the method's (`USLUP.md`) prohibition of scientific-miracle hunting, silence was kept where the text is silent.
+- **وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ.** No explanation was preferred as to what is like what, and no piece of modern cosmology was inserted. Per the method's (`STYLE.md`) prohibition of scientific-miracle hunting, silence was kept where the text is silent.
 - **No imām's name was given for the variant readings.** The existence of the singular reading at 65/1 and of the forms *allāʾī* at 65/4 is on record in the sources; since I am not sure to which imāms they belong, no name was written, and since they do not change the meaning they were not dwelt on.
 - **The report concerning *tawakkul*, "tie it first, then rely",** was not transmitted as a ḥadīth; it was stated that there is dispute about its soundness, and it was recorded that the structure of the word itself yields the same result.
 - **The difference of wording between al-Baqara 2/286 and al-Ṭalāq 65/7** was recorded as an observation. The conclusion that the two principles conflict or that one restricts the other was **not drawn**; I have no certain knowledge of how this difference has been handled in the classical sources.

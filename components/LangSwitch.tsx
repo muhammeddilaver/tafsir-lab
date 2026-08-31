@@ -1,13 +1,14 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import { ROUTES, T, type Lang } from "@/lib/i18n";
+import { LANG_COOKIE, ROUTES, T, type Lang } from "@/lib/i18n";
 
-// Ayet capasi: iki dilde ayni ("2/255"). Blok capalari icerik ozetinden
-// uretildigi icin dil degisince tutmaz; onlar tasinmaz.
+// Verse anchors are identical in both languages ("2/255"). Block anchors are
+// derived from a hash of the content, so they do not survive a language
+// change; those are not carried over.
 const AYAH_HASH = /^#\d{1,3}\/\d{1,3}(-\d{1,3})?$/;
 
-/** Bulunulan sayfanin oteki dildeki karsiligi; eslesmezse o dilin ana sayfasi. */
+/** The current page's counterpart in the other language; its home page if none. */
 export function counterpart(path: string, from: Lang) {
   const to: Lang = from === "tr" ? "en" : "tr";
   const src = ROUTES[from];
@@ -21,8 +22,15 @@ export function counterpart(path: string, from: Lang) {
   return dst.home;
 }
 
+/** Store the explicit choice for a year; it wins the next time "/" is visited. */
+function remember(to: Lang) {
+  const secure = location.protocol === "https:" ? "; secure" : "";
+  document.cookie = `${LANG_COOKIE}=${to}; path=/; max-age=31536000; samesite=lax${secure}`;
+}
+
 export default function LangSwitch({ lang }: { lang: Lang }) {
   const path = usePathname() ?? ROUTES[lang].home;
+  const other: Lang = lang === "tr" ? "en" : "tr";
   const href = counterpart(path, lang);
   const t = T[lang];
 
@@ -30,10 +38,11 @@ export default function LangSwitch({ lang }: { lang: Lang }) {
     <a
       className="lang"
       href={href}
-      hrefLang={lang === "tr" ? "en" : "tr"}
+      hrefLang={other}
       aria-label={t.langSwitchLabel}
       onClick={(e) => {
-        // Ayni ayete karsi dilde in: capa tasinabiliyorsa tasi.
+        remember(other);
+        // Land on the same verse in the other language when the anchor carries.
         const h = location.hash;
         if (!AYAH_HASH.test(decodeURIComponent(h))) return;
         e.preventDefault();

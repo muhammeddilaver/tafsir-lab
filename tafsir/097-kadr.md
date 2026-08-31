@@ -298,7 +298,7 @@ Burada dürüst olmak gerekiyor: iki okuma da mümkündür ve ikisi de savunulab
 
 Bu, sûrenin asıl iddiasıdır ve aşağıda ayrıca ele alacağım.
 
-**Bir uyarı.** Bu sayı üzerinden hesap kurmak — yıllara bölmek, oranlar çıkarmak, harflerle ilişkilendirmek — USLUP gereği bu tefsirin dışındadır. Ayet bir ölçü koyuyor, bir denklem vermiyor.
+**Bir uyarı.** Bu sayı üzerinden hesap kurmak — yıllara bölmek, oranlar çıkarmak, harflerle ilişkilendirmek — STYLE gereği bu tefsirin dışındadır. Ayet bir ölçü koyuyor, bir denklem vermiyor.
 
 ### Nüzul sebebi olarak nakledilenler
 
@@ -567,7 +567,7 @@ Bu ikinci rivayet önemlidir: **gecenin gizli kalması, bir bilgi eksikliği de�
 | **Yılın tamamı içinde** | Azınlık görüşü | Ramazan kaydını zorlar |
 | **Kaldırılmıştır**, artık yoktur | "Bilgi kaldırıldı" rivayetinin uç bir yorumu | Çoğunluk reddeder; rivayette kaldırılan şey **bilgidir**, gecenin kendisi değil |
 
-**Tercih yapmıyorum.** Sûre gecenin tarihini vermiyor ve bu, metnin bilinçli bir sessizliği gibi görünüyor. Hadis verisinin en açık söylediği şey "son on günün tek gecelerinde arayın"dır; bunun ötesindeki her belirleme bir kanaattir. USLUP gereği, tercih edilmeyen bir konuda tercih üretmiyorum.
+**Tercih yapmıyorum.** Sûre gecenin tarihini vermiyor ve bu, metnin bilinçli bir sessizliği gibi görünüyor. Hadis verisinin en açık söylediği şey "son on günün tek gecelerinde arayın"dır; bunun ötesindeki her belirleme bir kanaattir. STYLE gereği, tercih edilmeyen bir konuda tercih üretmiyorum.
 
 ### Gizliliğin kendisi bir hüküm mü?
 

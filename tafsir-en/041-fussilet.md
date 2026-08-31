@@ -120,7 +120,7 @@ It is the second of the seven sūras that open with *Ḥā-mīm*.
 
 **I transmit this as an explanation that is reported.**
 
-**And per the method (`USLUP.md`) I draw the limit explicitly:** the text does not state how long a duration the word "day" corresponds to here. **I do not dress these verses in modern cosmology;** I derive no model of the universe from the word "smoke", nor do I equate the days with geological ages. **Such an equation would be making the text say what it does not say.**
+**And per the method (`STYLE.md`) I draw the limit explicitly:** the text does not state how long a duration the word "day" corresponds to here. **I do not dress these verses in modern cosmology;** I derive no model of the universe from the word "smoke", nor do I equate the days with geological ages. **Such an equation would be making the text say what it does not say.**
 
 **What the text says is this, and that much is what I record:** creation is described as **ordered** and **measured**; not at one stroke, but in stages. **And the last sentence lays down a judgement: *dhālika taqdīru'l-ʿazīzi'l-ʿalīm* — that is the measuring of the Mighty, the Knowing.**
 
@@ -157,7 +157,7 @@ It is the second of the seven sūras that open with *Ḥā-mīm*.
 
 **فِىٓ أَيَّامٍ نَّحِسَاتٍ** — the word *naḥisāt* in this expression, used in the account of the destruction of ʿĀd, means "ill-omened, calamitous days". **The same event occurred with the expression *fī yawmi naḥsin mustamirr* at `054-kamer.md` 54/19, and was treated there.** **The two sūras use the same root; one says a single day, the other days.**
 
-**A note per the method (`USLUP.md`):** no ground for a belief in lucky and unlucky days is to be derived from this. **The word qualifies particular days that befell that community; it lays down no general ruling about the calendar.**
+**A note per the method (`STYLE.md`):** no ground for a belief in lucky and unlucky days is to be derived from this. **The word qualifies particular days that befell that community; it lays down no general ruling about the calendar.**
 
 ---
 
@@ -480,7 +480,7 @@ It is the second of the seven sūras that open with *Ḥā-mīm*.
 
 ### My limit on this verse
 
-**In the modern period this verse has been made the subject of a great many claims.** Per the method (`USLUP.md`) I write it out plainly:
+**In the modern period this verse has been made the subject of a great many claims.** Per the method (`STYLE.md`) I write it out plainly:
 
 **I derive from the verse no pointer to any particular scientific discovery, invention or historical event.** There is no ground in the text for such a determination; **the verse specifies neither a field nor a time.**
 

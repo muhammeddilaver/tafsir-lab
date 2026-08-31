@@ -786,7 +786,7 @@ What it teaches is an **order**: verify first, then act. And this is the same as
 
 **Five. And this commentary's own note.**
 
-In writing what this verse says to the present, I have avoided using the verse about any particular side, any particular event, or any current controversy. The reason is the rule of the method (`USLUP.md`), and it agrees with the verse itself: **the verse named neither of the two sides.** To place it as a weapon in the hand of one side would be to undo the first thing the verse does.
+In writing what this verse says to the present, I have avoided using the verse about any particular side, any particular event, or any current controversy. The reason is the rule of the method (`STYLE.md`), and it agrees with the verse itself: **the verse named neither of the two sides.** To place it as a weapon in the hand of one side would be to undo the first thing the verse does.
 
 ---
 
@@ -1163,7 +1163,7 @@ I relate this as an explanation, not as a settled ruling.
 
 ### What this says to the present
 
-In writing what this verse says to the present I enter into no current conflict; this is the plain rule of the method (`USLUP.md`). What can be recorded is the **structure** of the verse, and the structure is general:
+In writing what this verse says to the present I enter into no current conflict; this is the plain rule of the method (`STYLE.md`). What can be recorded is the **structure** of the verse, and the structure is general:
 
 **One. The responsibility laid on the third party.** The verse addresses not the two sides in conflict but those outside. To stand aside in a dispute does not figure as an option in the verse's sequence.
 
@@ -1971,7 +1971,7 @@ I record this link as my own reading; that the two verses stand in the same sūr
 
 ### What this says to the present
 
-In writing what this verse says to the present a note is needed, and I write it at the outset: **no wholesale ruling is issued in this text about any ethnic, national or religious group, and no side is taken in any current political controversy.** This is the plain rule of the method (`USLUP.md`), and it coincides with the verse's own logic — because the verse lays down precisely a measure that makes it impossible to pass judgment on the whole of a group.
+In writing what this verse says to the present a note is needed, and I write it at the outset: **no wholesale ruling is issued in this text about any ethnic, national or religious group, and no side is taken in any current political controversy.** This is the plain rule of the method (`STYLE.md`), and it coincides with the verse's own logic — because the verse lays down precisely a measure that makes it impossible to pass judgment on the whole of a group.
 
 What can be recorded is the **structure** of the verse:
 

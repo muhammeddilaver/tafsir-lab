@@ -1471,7 +1471,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 **This is seen elsewhere in the Qurʾān too:** at al-Naḥl 16/8 it is said *"and He creates what you do not know"*.
 
-**And now a caveat of method must be entered — per the method (`USLUP.md`) and plainly:**
+**And now a caveat of method must be entered — per the method (`STYLE.md`) and plainly:**
 
 **This verse is one of the places most often used for claims of scientific miracle.** Filling the third item with this or that fact known today is a widespread interpretation. **This commentary does not take that road.** The ground is the text itself:
 
@@ -1550,7 +1550,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 **This verse is one of the places in the Qurʾān where claims of scientific miracle have been produced most abundantly.** Interpretations that draw this or that finding of modern astronomy out of the verse are widespread.
 
-**Per the method (`USLUP.md`) and plainly: this commentary does not take that road.** The grounds:
+**Per the method (`STYLE.md`) and plainly: this commentary does not take that road.** The grounds:
 
 1. **The verse's own proof is not a piece of astronomical information.** The second half of the sentence says so: *dhālika **taqdīru**'l-ʿAzīzi'l-ʿAlīm* — **"this is a measure."** The proof is not how the sun moves but that its movement is **measured**.
 2. **For the one addressed the sign is the order visible to the eye.** The verse does not report a fact unknown to the one addressed; it names a fact he knows. **In the thirty-third verse the dead earth, in the thirty-seventh the night — all of them were things seen.**
@@ -1753,7 +1753,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 **And the link inside the sūra can be verified and is striking:** in the fortieth verse *falak*, **in the forty-first *fulk*.** **Two verses in a row, the same root, two different words** — one in the sky, one at sea. **I record this as an observation;** I do not claim that the sūra sets up a deliberate play on words. What I record is that two derivatives of the root have been used **one after the other**.
 
-**And a caveat of method — per the method (`USLUP.md`):** no modern model of orbits and no particular astronomical structure is drawn out of the word *falak*. **The lexical sense of the word is "that which turns / that which is round", and that is the information the verse gives.** Correlations beyond this are one point of view and are not the proof of the verse.
+**And a caveat of method — per the method (`STYLE.md`):** no modern model of orbits and no particular astronomical structure is drawn out of the word *falak*. **The lexical sense of the word is "that which turns / that which is round", and that is the information the verse gives.** Correlations beyond this are one point of view and are not the proof of the verse.
 
 ### يَسْبَحُون — the form used for rational beings
 
@@ -2899,7 +2899,7 @@ The information a person gives about himself and the information his conduct giv
 
 **Both occurrences can be verified, and they carry two differences: form and addressee.**
 
-**I record this as my own reading, and its ground is these two differences:** in the seventh verse the word is named as **having come about**, in the seventieth as **coming about**. And the addressee turns from a numerical majority (*aktharihim*) into **an attribute** (*al-kāfirīn*). **The verdict, that is, is tied not to a group but to a description** — and as is set down in `USLUP.md`, **what the verse describes are attributes; whoever bears the attribute falls under it.**
+**I record this as my own reading, and its ground is these two differences:** in the seventh verse the word is named as **having come about**, in the seventieth as **coming about**. And the addressee turns from a numerical majority (*aktharihim*) into **an attribute** (*al-kāfirīn*). **The verdict, that is, is tied not to a group but to a description** — and as is set down in `STYLE.md`, **what the verse describes are attributes; whoever bears the attribute falls under it.**
 
 **And a point of word order:** the seventieth verse joins two purposes with a *wāw* — *li-yundhira* (that it may warn) **and** *yaḥiqqa'l-qawl* (that the word may come true). **Two different outcomes of the same text, side by side in a single sentence.**
 
@@ -3309,7 +3309,7 @@ The information a person gives about himself and the information his conduct giv
 
 **And the background is concrete:** in the desert fire was struck by rubbing two branches together, and there were trees known to be suitable for the work. **The lexicographers name these trees.** **The verse, that is, looks at a technique the one addressed has in his own hands** — as was recorded in the discussion of al-Wāqiʿa.
 
-### A caveat of method — per the method (`USLUP.md`)
+### A caveat of method — per the method (`STYLE.md`)
 
 **This verse is one of the places often used for claims of scientific miracle:** correlations are made with the storing of energy in plants, the chemistry of combustion and the like.
 

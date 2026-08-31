@@ -2429,7 +2429,7 @@ On this basis the verses may be saying: in this world there was **something done
 
 **I offer this reading as my own inference and do not offer it as a settled ruling**; the choice of word may have other explanations — in particular the requirements of the verse-ending (the rhyme) affect the choice of words in Arabic texts.
 
-And one further note is needed: that the believers are named **by a verb** in both verses accords with the principle recorded in `USLUP.md` — the Qurʾān describes an attribute, it does not hand out identities. Faith is named as something done.
+And one further note is needed: that the believers are named **by a verb** in both verses accords with the principle recorded in `STYLE.md` — the Qurʾān describes an attribute, it does not hand out identities. Faith is named as something done.
 
 ### فَٱلْيَوْم — "today"
 

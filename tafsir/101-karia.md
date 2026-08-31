@@ -356,7 +356,7 @@ Sûre bu kalıbı kullanarak insanlığı ikiye bölüyor. Dördüncü ayette *"
 
 Yani sûrenin hareketi şudur: **tek → iki.** Önce herkes aynı hale gelir (kelebekler), sonra ikiye ayrılır (terazi).
 
-Ve şunu belirtmek gerekiyor: **sûre kimin hangi tarafta olduğunu söylemiyor.** Ölçütü veriyor, listeyi vermiyor. Bu, bu tefsirin `USLUP.md`'de kayıtlı olan ilkeyle uyumludur: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
+Ve şunu belirtmek gerekiyor: **sûre kimin hangi tarafta olduğunu söylemiyor.** Ölçütü veriyor, listeyi vermiyor. Bu, bu tefsirin `STYLE.md`'de kayıtlı olan ilkeyle uyumludur: ayetlerin tarif ettiği şey vasıflardır, kim o vasfı taşırsa ona dahildir.
 
 ### ثَقُلَتْ — ağır gelmek
 

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Fonts from "@/components/Fonts";
+import { fontVars } from "@/components/Fonts";
 import Peek from "@/components/Peek";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import { rootMetadata } from "@/lib/meta";
@@ -11,10 +11,7 @@ export const viewport = { themeColor: "#EFF1EF" };
 
 export default function TrLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="tr">
-      <head>
-        <Fonts />
-      </head>
+    <html lang="tr" className={fontVars}>
       <body>
         <SiteHeader lang="tr" />
         {children}

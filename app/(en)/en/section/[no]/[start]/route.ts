@@ -1,4 +1,4 @@
-import { AYET, getSura, section } from "@/lib/content";
+import { VERSES, getSura, section } from "@/lib/content";
 import { renderBare } from "@/lib/render";
 
 export const dynamic = "force-static";
@@ -6,7 +6,7 @@ export const dynamicParams = false;
 
 export function generateStaticParams() {
   const out: { no: string; start: string }[] = [];
-  for (let no = 1; no <= AYET.length; no++) {
+  for (let no = 1; no <= VERSES.length; no++) {
     for (const s of getSura("en", no)?.sections ?? []) {
       out.push({ no: String(no), start: String(s.from) });
     }

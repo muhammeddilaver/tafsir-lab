@@ -86,7 +86,7 @@ Adını **46, 47 ve 48. ayetlerde geçen** kelimeden alıyor:
 
 **Bir — *ve lâ tüfsidû fi'l-ardı ba'de ıslâhıhâ* (56) ile *ve lâ tüfsidû fi'l-ardı ba'de ıslâhıhâ* (85) aynı cümledir.** Birincisi doğrudan okuyucuya, ikincisi **Şuayb'in ağzında Medyen'e** söyleniyor. **Yani sûre, kendi emrini bir peygamberin ağzına koyuyor.** `011-hud.md` Tablo 4'te Hûd sûresinin aynı işi yaptığı tablolanmıştı (*istağfirû rabbeküm sümme tûbû ileyh* → sûrenin 3. ayeti ile üç peygamberin ağzı). **Oraya dayanıyorum; A'râf aynı tekniği bir kez uyguluyor.**
 
-**İki — *ümmetün yehdûne bi'l-hakkı ve bihî ya'dilûn* cümlesi birebir iki kez geçiyor** (159 ve 181). **Birincisi Mûsâ'nın kavmi için, ikincisi bütün yaratılanlar için.** **Bunu bir gözlem olarak kaydediyorum:** sûre, bir topluluk hakkında toptan hüküm kurmadığını **kendi cümlesini genişleterek** gösteriyor. USLUP'un "toptan hüküm kurulmaz" kaydı (`USLUP.md`) burada metnin kendi içinden destek buluyor.
+**İki — *ümmetün yehdûne bi'l-hakkı ve bihî ya'dilûn* cümlesi birebir iki kez geçiyor** (159 ve 181). **Birincisi Mûsâ'nın kavmi için, ikincisi bütün yaratılanlar için.** **Bunu bir gözlem olarak kaydediyorum:** sûre, bir topluluk hakkında toptan hüküm kurmadığını **kendi cümlesini genişleterek** gösteriyor. STYLE'ın "toptan hüküm kurulmaz" kaydı (`STYLE.md`) burada metnin kendi içinden destek buluyor.
 
 ### Fâsıla
 
@@ -114,7 +114,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Kur'an'da dört harften oluşan iki mukattaa dizisinden biridir** (öteki *el-Mr* — Ra'd 13/1). **Ve *el-Mṣ* dizisi Kur'an'da yalnız burada geçer.**
 
-**Mukattaa harfleri hakkındaki kayıt `002-bakara.md` 2/1'de ve `020-taha.md` 20/1'de konmuştu: harflerin ne anlama geldiği kesin olarak bilinmemektedir; nakledilen izahlar vardır, hiçbiri kesinlik taşımaz.** **Oraya dayanıyorum ve tekrarlamıyorum.** **Harf ve sayı hesabına dayalı iddialar bu tefsirde kullanılmaz** (`USLUP.md`).
+**Mukattaa harfleri hakkındaki kayıt `002-bakara.md` 2/1'de ve `020-taha.md` 20/1'de konmuştu: harflerin ne anlama geldiği kesin olarak bilinmemektedir; nakledilen izahlar vardır, hiçbiri kesinlik taşımaz.** **Oraya dayanıyorum ve tekrarlamıyorum.** **Harf ve sayı hesabına dayalı iddialar bu tefsirde kullanılmaz** (`STYLE.md`).
 
 **Buraya ait olan tek şey, dizinin yerleşimidir ve bu sayılabilir bir veridir:**
 
@@ -1266,9 +1266,9 @@ Kökün somut anlamı: **kuş tüyü.** *Rîş*, kuşun tüyü ve kanadıdır. B
 
 **Aynı ilişki iki ayette iki ayrı fâile bağlanıyor: 27'de "kıldık", 30'da "edindiler".**
 
-**Bu, kelâmî bir tartışmanın (kaza-kader, fiillerin yaratılması) alanına giren bir yerdir ve bu tefsirde kelâmî polemiğe girilmez** (`USLUP.md`). **Kaydettiğim yalnız şudur: metin iki cümleyi de kuruyor ve aralarındaki ilişkiyi çözmüyor.** **İki ayet üç ayet arayla duruyor ve okuyucuya birlikte veriliyor.**
+**Bu, kelâmî bir tartışmanın (kaza-kader, fiillerin yaratılması) alanına giren bir yerdir ve bu tefsirde kelâmî polemiğe girilmez** (`STYLE.md`). **Kaydettiğim yalnız şudur: metin iki cümleyi de kuruyor ve aralarındaki ilişkiyi çözmüyor.** **İki ayet üç ayet arayla duruyor ve okuyucuya birlikte veriliyor.**
 
-**Ve şu dizim verisi kaydedilmelidir:** yirmi yedinci ayette hüküm *lillezîne **lâ yü'minûn*** (inanmayanlar için) diye kayıtlıdır — **yani genel değildir, bir vasfa bağlıdır.** **USLUP gereği bunun bir kimlik değil bir vasıf olduğunu kaydediyorum** (`047-muhammed.md` 47/12 bahsinde aynı kayıt düşülmüştü).
+**Ve şu dizim verisi kaydedilmelidir:** yirmi yedinci ayette hüküm *lillezîne **lâ yü'minûn*** (inanmayanlar için) diye kayıtlıdır — **yani genel değildir, bir vasfa bağlıdır.** **STYLE gereği bunun bir kimlik değil bir vasıf olduğunu kaydediyorum** (`047-muhammed.md` 47/12 bahsinde aynı kayıt düşülmüştü).
 
 ---
 
@@ -1378,7 +1378,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **İki taraf simetrik kurulmuyor.** Birincide fiil etken ve fâil bellidir (*hedâ* — "iletti"); **ikincide fiil *hakka* (hak oldu) ve öznesi *ed-dalâle*dir, yani "saptırdı" denmiyor.**
 
-**Bunu bir gözlem olarak kaydediyorum ve bu, dizinde işlenen bir örüntünün yeni bir halkasıdır.** **`039-zumer.md` ve `074-muddessir.md` bahislerinde benzer asimetriler kaydedilmişti.** **Ve bu tefsirde kelâmî polemiğe girilmez** (`USLUP.md`); **kaydettiğim yalnız dizim verisidir.**
+**Bunu bir gözlem olarak kaydediyorum ve bu, dizinde işlenen bir örüntünün yeni bir halkasıdır.** **`039-zumer.md` ve `074-muddessir.md` bahislerinde benzer asimetriler kaydedilmişti.** **Ve bu tefsirde kelâmî polemiğe girilmez** (`STYLE.md`); **kaydettiğim yalnız dizim verisidir.**
 
 **Ve ayetin devamı, ikinci grubun durumunun kendi fiilleriyle gerekçelendirildiğini gösteriyor:** *inne**hüm**ü'ttehazü'ş-şeyâtîne evliyâe min dûnillâh* — "**çünkü onlar** şeytanları dost edindiler."
 
@@ -1541,7 +1541,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **Ayet, bir şeyi haram saymanın da bir iddia olduğunu söylüyor.** **Yirmi sekizinci ayet "Allah bunu emretti" demenin dayanağını soruyordu; otuz ikinci ayet "Allah bunu yasakladı" demenin dayanağını soruyor.**
 
-**Bu tefsirde fıkhî hüküm verilmez** (`USLUP.md`). **Kaydettiğim yalnız ayetin kendi kuruluşudur: soru, yasağın kaynağını istiyor.**
+**Bu tefsirde fıkhî hüküm verilmez** (`STYLE.md`). **Kaydettiğim yalnız ayetin kendi kuruluşudur: soru, yasağın kaynağını istiyor.**
 
 ---
 
@@ -1553,7 +1553,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 ### Listenin çözümü
 
-**Bu ayet bir liste veriyor ve `USLUP.md` gereği burada fıkhî hüküm kurulmaz.** **Yapacağım iş, listenin kaç maddeden oluştuğunu ve maddelerin ne olduğunu çözmektir.**
+**Bu ayet bir liste veriyor ve `STYLE.md` gereği burada fıkhî hüküm kurulmaz.** **Yapacağım iş, listenin kaç maddeden oluştuğunu ve maddelerin ne olduğunu çözmektir.**
 
 **Dizim nüktesi kaydedilmelidir: cümle *innemâ* ile başlıyor — bu, Arapçada hasr (sınırlama) edatıdır: "yalnızca şunları haram kıldı."**
 
@@ -1947,7 +1947,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **ج-ر-م** kökü: kesmek, koparmak — buradan *cürm*, "kazanılan kötü iş". **ظ-ل-م** kökü: bir şeyi yerinden başka yere koymak (8-9 bahsinde işlendi).
 
-**İki kelime arka arkaya gelerek aynı grubu iki ayrı vasıfla anıyor.** **Bu, sûrenin başından beri süren "vasıf üzerinden tanımlama" tavrıyla uyumludur** (`USLUP.md`: "ayetin tarif ettiği vasıflardır").
+**İki kelime arka arkaya gelerek aynı grubu iki ayrı vasıfla anıyor.** **Bu, sûrenin başından beri süren "vasıf üzerinden tanımlama" tavrıyla uyumludur** (`STYLE.md`: "ayetin tarif ettiği vasıflardır").
 
 ---
 
@@ -2117,7 +2117,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **Ve ayetin kendisi iki dalı yan yana kullanıyor:** *ve ale'l-**a'râf**i ricâlün **ya'rifûne** küllen bi-sîmâhüm*.
 
-**Bunu bir gözlem olarak kaydediyorum ve dayanağı ayetin kendi kelimeleridir:** **aynı kök, aynı cümlede hem yer adı hem fiil olarak geçiyor.** **Bu bir ses ya da sayı oyunu değil, kökün iki dalının aynı cümlede bulunmasıdır** — dolayısıyla `USLUP.md`'nin yasakladığı türden bir hesap değildir.
+**Bunu bir gözlem olarak kaydediyorum ve dayanağı ayetin kendi kelimeleridir:** **aynı kök, aynı cümlede hem yer adı hem fiil olarak geçiyor.** **Bu bir ses ya da sayı oyunu değil, kökün iki dalının aynı cümlede bulunmasıdır** — dolayısıyla `STYLE.md`'nin yasakladığı türden bir hesap değildir.
 
 **Ve *ma'rûf* kelimesi bu sûrede iki kez geçecek:** *ve'mur bi'l-**urf*** (199) ve *ye'müruhüm bi'l-**ma'rûf*** (157). **Aynı kök, sûrenin adında ve iki emirde.**
 
@@ -2167,7 +2167,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **İki okuma da nakledilir; tercih dayatmıyorum.** **İkinci okuma, dördüncü görüşün (bekletilenler) dayanağıdır.**
 
-**Kaydetmem gereken şudur ve bunu açıkça yazıyorum:** **Kur'an, *A'râf* ehlinin kim olduğunu söylemiyor.** **Yukarıdaki görüşlerin hepsi, metinden çıkarılan okumalardır.** **Bir tercih yapmıyorum, rivayet uydurmuyorum ve kişi adı vermiyorum** (`USLUP.md`).
+**Kaydetmem gereken şudur ve bunu açıkça yazıyorum:** **Kur'an, *A'râf* ehlinin kim olduğunu söylemiyor.** **Yukarıdaki görüşlerin hepsi, metinden çıkarılan okumalardır.** **Bir tercih yapmıyorum, rivayet uydurmuyorum ve kişi adı vermiyorum** (`STYLE.md`).
 
 ### سِيمَا — kök
 
@@ -2349,7 +2349,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **Bir — `050-kaf.md` 50/38'deki kayıt:** **ي-و-م** kelimesi Arapçada yalnızca "yirmi dört saatlik gün" demek değildir; kökün asıl anlamı **bir zaman dilimi, bir devredir.** **Altı "gün"ün ne kadar sürdüğü bildirilmemiştir ve bilinmemektedir.**
 
-**İki — `041-fussilet.md` 41/9-12'deki kayıt:** **bu ayetlere modern kozmoloji giydirilmez;** günler jeolojik çağlarla eşitlenmez. **Böyle bir eşitleme, metnin söylemediğini söyletmek olur** (`USLUP.md`).
+**İki — `041-fussilet.md` 41/9-12'deki kayıt:** **bu ayetlere modern kozmoloji giydirilmez;** günler jeolojik çağlarla eşitlenmez. **Böyle bir eşitleme, metnin söylemediğini söyletmek olur** (`STYLE.md`).
 
 **Bu iki sınır burada da geçerlidir ve tekrarlamıyorum.**
 
@@ -2365,7 +2365,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 ### ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ — tenzih kaydı, tartışma açılmadan
 
-**Bu terkip hakkında USLUP gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
+**Bu terkip hakkında STYLE gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
 
 **`040-gafir.md` 40/7'de arş ile ilgili ifadeler için dizinde tutarlı biçimde korunan kayıt konmuştu ve oraya dayanıyorum:** **bu ifadeler Allah'a mekân, cisim ya da taşınma nispet edecek şekilde anlaşılamaz.** **Klasik tefsirlerde bu tür ayetler için başlıca iki tavır nakledilir:**
 
@@ -2374,7 +2374,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 | **Tefvîz** | Lafız olduğu gibi kabul edilir, **keyfiyeti Allah'a havale edilir** |
 | **Te'vîl** | **Hükümranlık ve tasarruf** anlamında yorumlanır |
 
-**İkisini de aktarıyorum, tercih dayatmıyorum.** **Aynı kayıt `032-secde.md` 32/4 ve `020-taha.md` 20/5'te de konmuştu; ortak ilke Şûrâ 42/11'dir.** **Tekrarlamıyorum ve kelâmî polemiğe girmiyorum** (`USLUP.md`).
+**İkisini de aktarıyorum, tercih dayatmıyorum.** **Aynı kayıt `032-secde.md` 32/4 ve `020-taha.md` 20/5'te de konmuştu; ortak ilke Şûrâ 42/11'dir.** **Tekrarlamıyorum ve kelâmî polemiğe girmiyorum** (`STYLE.md`).
 
 **Buraya ait olan yalnız bir metin verisidir ve `020-taha.md` 20/5'te sayılmıştı: terkip Kur'an'da yedi yerde geçer** — **A'râf 7/54**, Yûnus 10/3, Ra'd 13/2, Tâhâ 20/5, Furkān 25/59, Secde 32/4, Hadîd 57/4. **Bu ayet, o yedinin ilkidir.**
 
@@ -2409,7 +2409,7 @@ Kökün anlamı: **haddi aşan çirkinlik.** Dilciler *fuhş*u "söz ya da işte
 
 **Ve bu, sûrenin geri kalanıyla uyumludur — bunu bir okuma olarak veriyorum:** A'râf, aceleyle gelen bir şeyi anlatan sûredir. **Dördüncü ayette helâk *beyâten ev hüm kāilûn* (gece ya da öğle uykusunda) gelmişti; otuz dördüncü ayette ecel bir saat bile ertelenmiyordu.** **Elli dördüncü ayetteki *hasîsâ*, aynı çizginin evren ölçeğindeki resmidir.**
 
-**Fen bağlantısı konusunda sınırı çiziyorum:** buradan gezegen hareketi, dönüş hızı ya da gölge sınırı hakkında bir sonuç çıkarılmaz. **Ayet bir gözlem resmini kuruyor: ufukta karanlığın aydınlığın ardından hızla gelmesi.** **Bu, herkesin gözüyle gördüğü bir olgudur ve ayetin kullandığı da odur** (`USLUP.md`).
+**Fen bağlantısı konusunda sınırı çiziyorum:** buradan gezegen hareketi, dönüş hızı ya da gölge sınırı hakkında bir sonuç çıkarılmaz. **Ayet bir gözlem resmini kuruyor: ufukta karanlığın aydınlığın ardından hızla gelmesi.** **Bu, herkesin gözüyle gördüğü bir olgudur ve ayetin kullandığı da odur** (`STYLE.md`).
 
 ### مُسَخَّرَٰتٍۭ بِأَمْرِهِۦ ve أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ
 
@@ -2827,7 +2827,7 @@ Ve ayetin kapanışı kaydedilmelidir: *elâ lehü'l-**halku** ve'l-**emr***. **
 
 **Ve ikisi de aynı cümleyle bağlanıyor: *fe'zkürû âlâallâh* — "Allah'ın nimetlerini anın".**
 
-**بَسْطَةً فِى ٱلْخَلْقِ** — kök **ب-س-ط**: **yaymak, genişletmek.** **Neyin genişliği olduğu metinde adlandırılmıyor.** **Klasik tefsirlerde boy ve güç olarak izah edilir; bu izahı nakledildiği şekliyle aktarıyorum ve ayrıntıya girmiyorum, çünkü ayet girmiyor** (`USLUP.md`).
+**بَسْطَةً فِى ٱلْخَلْقِ** — kök **ب-س-ط**: **yaymak, genişletmek.** **Neyin genişliği olduğu metinde adlandırılmıyor.** **Klasik tefsirlerde boy ve güç olarak izah edilir; bu izahı nakledildiği şekliyle aktarıyorum ve ayrıntıya girmiyorum, çünkü ayet girmiyor** (`STYLE.md`).
 
 ### أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ
 
@@ -2871,7 +2871,7 @@ Ve ayetin kapanışı kaydedilmelidir: *elâ lehü'l-**halku** ve'l-**emr***. **
 
 **ن-و-ق** kökü: **dişi deve.** **Kur'an bu deveden birkaç yerde söz eder** (A'râf 7/73; Hûd 11/64; İsrâ 17/59; Kamer 54/27; Şems 91/13) **ve `054-kamer.md` ile `091-sems.md`'de işlendi.** **Oraya dayanıyorum.**
 
-**Ve burada, USLUP gereği açıkça yazmam gereken bir sınır var:** **devenin nereden geldiği, nasıl ortaya çıktığı, boyu, rengi, sütü hakkında Kur'an hiçbir şey söylemez.** **Klasik kaynaklarda aktarılan ayrıntılı anlatımlar vardır; bu tefsirde onlara girilmez** — **çünkü ayet girmiyor ve sıhhatleri verilemiyor** (`USLUP.md`).
+**Ve burada, STYLE gereği açıkça yazmam gereken bir sınır var:** **devenin nereden geldiği, nasıl ortaya çıktığı, boyu, rengi, sütü hakkında Kur'an hiçbir şey söylemez.** **Klasik kaynaklarda aktarılan ayrıntılı anlatımlar vardır; bu tefsirde onlara girilmez** — **çünkü ayet girmiyor ve sıhhatleri verilemiyor** (`STYLE.md`).
 
 **Metnin söylediği şudur ve o kadarını kaydediyorum:**
 
@@ -2905,7 +2905,7 @@ Ve ayetin kapanışı kaydedilmelidir: *elâ lehü'l-**halku** ve'l-**emr***. **
 
 **Ve ayetin içindeki bir bedel kaydı vardır ve kaydedilmelidir:** *lillezîne'stud'ifû **li-men âmene minhüm*** — "zayıf bırakılanlara, **onlardan iman edenlere**". **İkinci ifade birincisini daraltıyor.**
 
-**Bunu bir dizim gözlemi olarak kaydediyorum:** ayet, "zayıf bırakılanlar" ile "iman edenler"i **eşitlemiyor**; ikincisini birincisinin içinden ayırıyor. **Yani sûre burada da toptan bir sınıf hükmü kurmuyor** (`USLUP.md`).
+**Bunu bir dizim gözlemi olarak kaydediyorum:** ayet, "zayıf bırakılanlar" ile "iman edenler"i **eşitlemiyor**; ikincisini birincisinin içinden ayırıyor. **Yani sûre burada da toptan bir sınıf hükmü kurmuyor** (`STYLE.md`).
 
 ### فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ
 
@@ -2973,7 +2973,7 @@ Ve ayetin kapanışı kaydedilmelidir: *elâ lehü'l-**halku** ve'l-**emr***. **
 
 **Yani sûre, üçüncü blokta koyduğu iki ölçüyü altıncı blokta bir kıssanın içine yerleştiriyor.** **Bunu bir gözlem olarak kaydediyorum ve dayanağı kelimelerin kendisidir.**
 
-**Ve buradan bir fıkhî hüküm çıkarmıyorum; ayetin koyduğu adlandırmayı aktarmakla yetiniyorum** (`USLUP.md`). **Ve şu kayıt gereklidir:** ayet **bir davranışı** adlandırıyor; bir topluluk hakkında toptan hüküm kurmuyor. **Sûrenin kendi ilkesi budur ve yapı bölümünde kaydedilmişti: tarif edilen şey vasıftır, kim o vasfı taşırsa ona dahildir.**
+**Ve buradan bir fıkhî hüküm çıkarmıyorum; ayetin koyduğu adlandırmayı aktarmakla yetiniyorum** (`STYLE.md`). **Ve şu kayıt gereklidir:** ayet **bir davranışı** adlandırıyor; bir topluluk hakkında toptan hüküm kurmuyor. **Sûrenin kendi ilkesi budur ve yapı bölümünde kaydedilmişti: tarif edilen şey vasıftır, kim o vasfı taşırsa ona dahildir.**
 
 ### إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ — cevabın biçimi
 
@@ -3086,7 +3086,7 @@ Ve ayetin kapanışı kaydedilmelidir: *elâ lehü'l-**halku** ve'l-**emr***. **
 | 1 | **Fiil "girmek, geçmek" anlamındadır**; önceden o hâlde bulunmayı gerektirmez | Arapçada *âde* fiilinin *sâra* (oldu, hâline geldi) anlamında kullanılması |
 | 2 | **Söz, iman edenlerin çoğunluğuna göre söylenmiştir**; kalabalığın hâli topluluğa nispet edilmiştir | Cümlenin muhatabının *Şuayb ve beraberindekiler* olması — ikinci grup için avdet gerçek anlamdadır |
 
-**İki izah da nakledilir; tercih dayatmıyorum.** **Bu bir dil meselesidir ve peygamberler hakkında bir hüküm kurmak için kullanılmaz** (`USLUP.md`).
+**İki izah da nakledilir; tercih dayatmıyorum.** **Bu bir dil meselesidir ve peygamberler hakkında bir hüküm kurmak için kullanılmaz** (`STYLE.md`).
 
 ### كَأَن لَّمْ يَغْنَوْا۟ فِيهَا
 
@@ -3212,7 +3212,7 @@ Buraya ait olan fark şudur ve kaydedilmelidir: A'râf'ta kapı **açılmıyor.*
 
 **Bunu kendi okumam olarak kaydediyorum ve bağlayıcı değildir; dayanağı elli yedinci ayettir:** orada da su gökten iniyor (*fe-enzelnâ bihi'l-mâe*) ve ürün yerden çıkıyordu (*fe-ahracnâ bihî min külli's-semerât*). **Doksan altıncı ayetteki ikili, elli yedinci ayetteki iki hareketin adıdır.** **Bu bir okumadır, bir hüküm değil.**
 
-**Ve USLUP gereği bir sınır çiziyorum:** buradan iman ile iktisadî refah arasında **mekanik bir yasa** çıkarılmaz. **Sûrenin kendi ayetleri buna izin vermiyor:** doksan dördüncü ayet, elçi gönderilen her yerde halkın **darlıkla** yakalandığını söylüyor; doksan beşinci ayet, bolluğun da bir sınama olduğunu söylüyor. **Ve elli birinci ayet, dünya hayatının aldatabileceğini kaydediyor.**
+**Ve STYLE gereği bir sınır çiziyorum:** buradan iman ile iktisadî refah arasında **mekanik bir yasa** çıkarılmaz. **Sûrenin kendi ayetleri buna izin vermiyor:** doksan dördüncü ayet, elçi gönderilen her yerde halkın **darlıkla** yakalandığını söylüyor; doksan beşinci ayet, bolluğun da bir sınama olduğunu söylüyor. **Ve elli birinci ayet, dünya hayatının aldatabileceğini kaydediyor.**
 
 **Yani sûre, refahı bir ödül göstergesi olarak kurmuyor.** **Bunu bir metin verisi olarak kaydediyorum ve dayanağı sûrenin kendi ayetleridir.**
 
@@ -3232,7 +3232,7 @@ Buraya ait olan fark şudur ve kaydedilmelidir: A'râf'ta kapı **açılmıyor.*
 
 **Ve *yel'abûn* fiili elli birinci ayetle bağlanıyor:** orada dinlerini *lehven ve **leibâ*** edindikleri söylenmişti. **Aynı kök, biri vasıf biri hâl.**
 
-**مَكْر kelimesi için USLUP gereği bir tenzih kaydı düşüyorum:**
+**مَكْر kelimesi için STYLE gereği bir tenzih kaydı düşüyorum:**
 
 **م-ك-ر** kökü: **gizli bir tedbir almak, karşı tarafın hesaba katmadığı bir yoldan iş görmek.** **Kelime Arapçada kendiliğinden kötü anlamlı değildir; kötülük, kime ve ne için yapıldığına göre gelir.**
 
@@ -3240,7 +3240,7 @@ Buraya ait olan fark şudur ve kaydedilmelidir: A'râf'ta kapı **açılmıyor.*
 
 **Ve Kur'an'ın kendisi bunu başka bir yerde açıkça kuruyor:** *ve yemkürûne ve yemkürullâh **vallâhu hayru'l-mâkirîn*** (Enfâl 8/30). **Yani kelime bir karşılık bağlamında geçiyor.**
 
-**Bu kaydı koyup tartışmayı kapatıyorum; kelâmî polemiğe girmiyorum** (`USLUP.md`).
+**Bu kaydı koyup tartışmayı kapatıyorum; kelâmî polemiğe girmiyorum** (`STYLE.md`).
 
 **Ve doksan dokuzuncu ayetin kapanışı kaydedilmelidir: *fe-lâ ye'menü mekrallâhi ille'l-kavmü'l-**hâsirûn***.** **Aynı kelime doksanıncı ve doksan ikinci ayetlerde Şuayb kıssasında geçmişti.** **Sûre, kıssanın kelimesini kaideye taşıyor.**
 
@@ -3276,7 +3276,7 @@ Buraya ait olan fark şudur ve kaydedilmelidir: A'râf'ta kapı **açılmıyor.*
 
 **Ve kökün sûredeki geçişleri sayılabilir: 100, 101 — ve 7/40'ta (*ve kezâlike neczi'l-mücrimîn* bağlamında) aynı alanın başka fiilleri kullanılacaktır.**
 
-**Ve USLUP gereği bir kayıt gerekiyor ve bunu açıkça yazıyorum:** **mühür meselesi kelâmî bir tartışma alanıdır** (kulun fiili ile ilâhî takdirin ilişkisi). **Bu tefsirde o tartışmaya taraf olunmuyor.**
+**Ve STYLE gereği bir kayıt gerekiyor ve bunu açıkça yazıyorum:** **mühür meselesi kelâmî bir tartışma alanıdır** (kulun fiili ile ilâhî takdirin ilişkisi). **Bu tefsirde o tartışmaya taraf olunmuyor.**
 
 **Metinden doğrulanabilir olan tek şeyi kaydediyorum ve o da cümlenin sırasıdır:**
 
@@ -3615,7 +3615,7 @@ Ve üçüncü parçanın kaydı kaydedilmelidir: *li'l-**müttekīn*** — "sak�
 
 **İyi olan kendine, kötü olan karşı tarafa nispet ediliyor.** **Bu, metinden doğrulanabilir bir yapıdır ve ayet bunu bir teşhis olarak veriyor.**
 
-**Sosyal bilim bağlantısı olarak bir kayıt düşüyorum ve "bir bakış açısıdır" kaydıyla veriyorum** (`USLUP.md`): **başarıyı kendine, başarısızlığı dış etkenlere bağlama eğilimi, sosyal psikolojide gözlemlenmiş ve adlandırılmış bir örüntüdür.** **Ayetin tarif ettiği tavırla örtüşen bir gözlemdir; ayet bunu bir teori olarak kurmuyor, bir topluluğun davranışı olarak anlatıyor.** **Bunu bir bağlantı imkânı olarak veriyorum, bir delil olarak değil.**
+**Sosyal bilim bağlantısı olarak bir kayıt düşüyorum ve "bir bakış açısıdır" kaydıyla veriyorum** (`STYLE.md`): **başarıyı kendine, başarısızlığı dış etkenlere bağlama eğilimi, sosyal psikolojide gözlemlenmiş ve adlandırılmış bir örüntüdür.** **Ayetin tarif ettiği tavırla örtüşen bir gözlemdir; ayet bunu bir teori olarak kurmuyor, bir topluluğun davranışı olarak anlatıyor.** **Bunu bir bağlantı imkânı olarak veriyorum, bir delil olarak değil.**
 
 ### مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ — cümlenin kapalılığı
 
@@ -3651,7 +3651,7 @@ Ve Kur'an'ın bu sayıma koyduğu vasıf kaydedilmelidir: *âyâtin **mufassalâ
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ayet, olayların ardarda gelişini değil, **ayırt edilebilirliğini** vurguluyor.
 
-**Ve USLUP gereği bir sınır çiziyorum:** bu beş olayın tarihî ya da tabii sebepleri hakkında bir izah kurmuyorum; **Kur'an olayları anıyor, mekanizmalarını anlatmıyor.** **Ve bunları başka bir dinî metinle karşılaştırıp eşitleme ya da ayrıştırma yoluna gitmiyorum** (`USLUP.md`).
+**Ve STYLE gereği bir sınır çiziyorum:** bu beş olayın tarihî ya da tabii sebepleri hakkında bir izah kurmuyorum; **Kur'an olayları anıyor, mekanizmalarını anlatmıyor.** **Ve bunları başka bir dinî metinle karşılaştırıp eşitleme ya da ayrıştırma yoluna gitmiyorum** (`STYLE.md`).
 
 ### Verilen söz ve bozulması
 
@@ -3697,7 +3697,7 @@ Ve *ilâ ecelin hüm bâliğûh* kaydı kaydedilmelidir: kaldırma **süreliydi.
 
 **Ve buraya ait olan kayıt şudur:** **ayet bir yer adı vermiyor.** *Meşârika'l-ardı ve meğâribehâ* — **"yerin doğuları ve batıları".** **Sınır çizilmiyor.**
 
-**Bunu bir dizim gözlemi olarak kaydediyorum:** **metin coğrafî bir tapu kaydı kurmuyor; bir sonucu bildiriyor.** **Ve USLUP gereği açıkça yazıyorum: bu ayetten bugünkü hiçbir siyasî iddiaya dayanak çıkarılmaz.** **Bu tefsirde güncel siyasete taraf olunmaz** (`USLUP.md`).
+**Bunu bir dizim gözlemi olarak kaydediyorum:** **metin coğrafî bir tapu kaydı kurmuyor; bir sonucu bildiriyor.** **Ve STYLE gereği açıkça yazıyorum: bu ayetten bugünkü hiçbir siyasî iddiaya dayanak çıkarılmaz.** **Bu tefsirde güncel siyasete taraf olunmaz** (`STYLE.md`).
 
 **Ve ayetin kendi koyduğu kayıt kaydedilmelidir: *bimâ saberû* — "sabretmeleri sebebiyle".** **Miras bir soya değil, bir davranışa bağlanıyor.** **Ve bu, yüz yirmi sekizinci ayetteki *ve'l-âkıbetü li'l-müttekīn* kaydıyla aynı çizgidedir.**
 
@@ -3752,7 +3752,7 @@ Ve *ilâ ecelin hüm bâliğûh* kaydı kaydedilmelidir: kaldırma **süreliydi.
 
 **Ve üçüncü basamaktaki kelime kaydedilmelidir: *faddaleküm ale'l-âlemîn*.** **Bu ifade Kur'an'da İsrâiloğulları için birkaç yerde geçer** (Bakara 2/47, 2/122; Câsiye 45/16) **ve `002-bakara.md` 2/47'de işlendi.** **Oraya dayanıyorum.**
 
-**Ve orada konan kayıt burada da geçerlidir ve tekrarlıyorum, çünkü USLUP gereğidir:** **ifade bir soy üstünlüğü kurmuyor; verilen bir imkânı bildiriyor.** **Ve sûrenin kendisi bunu 159. ve 168. ayetlerde açıkça bölecektir: aynı topluluğun içinden *ümmetün yehdûne bi'l-hakk* (159) ve *minhüm dûne zâlik* (168) diye ayrılan gruplar sayılacaktır.** **Bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz** (`USLUP.md`).
+**Ve orada konan kayıt burada da geçerlidir ve tekrarlıyorum, çünkü STYLE gereğidir:** **ifade bir soy üstünlüğü kurmuyor; verilen bir imkânı bildiriyor.** **Ve sûrenin kendisi bunu 159. ve 168. ayetlerde açıkça bölecektir: aynı topluluğun içinden *ümmetün yehdûne bi'l-hakk* (159) ve *minhüm dûne zâlik* (168) diye ayrılan gruplar sayılacaktır.** **Bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz** (`STYLE.md`).
 
 ### 7/141 — hitabın yön değiştirmesi
 
@@ -3799,7 +3799,7 @@ Ve *ilâ ecelin hüm bâliğûh* kaydı kaydedilmelidir: kaldırma **süreliydi.
 
 **Ve *leyle* (gece) kelimesinin seçilmesi kaydedilmeye değer: "gün" değil, "gece" sayılıyor.** **Bu, Arapçada süre saymanın yaygın biçimlerinden biridir ve dilciler ayrıca kaydeder.**
 
-**Klasik tefsirlerde otuz ile on arasındaki bölünmenin sebebine dair birkaç izah nakledilir.** **Bunları aktarmıyorum, çünkü hiçbirinin sıhhatini veremiyorum ve Kur'an bir sebep söylemiyor** (`USLUP.md`). **Metinden doğrulanabilir olan tek şey, bölünmenin bulunduğudur.**
+**Klasik tefsirlerde otuz ile on arasındaki bölünmenin sebebine dair birkaç izah nakledilir.** **Bunları aktarmıyorum, çünkü hiçbirinin sıhhatini veremiyorum ve Kur'an bir sebep söylemiyor** (`STYLE.md`). **Metinden doğrulanabilir olan tek şey, bölünmenin bulunduğudur.**
 
 ### ٱخْلُفْنِى فِى قَوْمِى — Hârûn'a verilen üç talimat
 
@@ -3834,7 +3834,7 @@ Ve *ilâ ecelin hüm bâliğûh* kaydı kaydedilmelidir: kaldırma **süreliydi.
 
 ### İhtilaf — ru'yet meselesi
 
-**Bu ayet, İslâm düşünce tarihinin en çok tartışılan ayetlerinden biridir ve tartışma kelâmî bir tartışmadır.** **USLUP gereği burada bir tercih dayatmıyorum, taraf olmuyorum ve polemiğe girmiyorum.** **Görüşleri, dayanaklarıyla birlikte tablo hâlinde veriyorum.**
+**Bu ayet, İslâm düşünce tarihinin en çok tartışılan ayetlerinden biridir ve tartışma kelâmî bir tartışmadır.** **STYLE gereği burada bir tercih dayatmıyorum, taraf olmuyorum ve polemiğe girmiyorum.** **Görüşleri, dayanaklarıyla birlikte tablo hâlinde veriyorum.**
 
 **Tartışmanın konusu şudur: *len terânî* ("beni asla göremezsin") cümlesi neyi olumsuzluyor?**
 
@@ -3919,7 +3919,7 @@ Ve dizim nüktesi kaydedilmelidir: *tecellâ rabbühû **li'l-cebel*** — tecel
 | 2 | **Ruhsat ile azimet arasında, daha üstün olanı tutmak** | Metnin izin verdiği ile tavsiye ettiği arasında bir ayrım bulunması |
 | 3 | **Emredilenler ile mubah kılınanlar arasında, emredilenleri tutmak** | Aynı ayrımın hüküm türlerine uygulanması |
 
-**Üç izah da nakledilir; tercih dayatmıyorum ve buradan fıkhî bir kural çıkarmıyorum** (`USLUP.md`).
+**Üç izah da nakledilir; tercih dayatmıyorum ve buradan fıkhî bir kural çıkarmıyorum** (`STYLE.md`).
 
 ### سَأَصْرِفُ عَنْ ءَايَٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ
 
@@ -3966,7 +3966,7 @@ Ve dizim nüktesi kaydedilmelidir: *tecellâ rabbühû **li'l-cebel*** — tecel
 
 **Ayet ikisini aynı cümlede veriyor: cansız bir gövde ve bir ses.** **Bunu bir gözlem olarak kaydediyorum ve dayanağı ayetin kendi kelimeleridir.**
 
-**Ve sesin nasıl çıktığı ayette söylenmiyor.** **Klasik kaynaklarda ayrıntılı izahlar aktarılır; bu tefsirde onlara girilmez, çünkü metin girmiyor ve sıhhatleri verilemiyor** (`USLUP.md`).
+**Ve sesin nasıl çıktığı ayette söylenmiyor.** **Klasik kaynaklarda ayrıntılı izahlar aktarılır; bu tefsirde onlara girilmez, çünkü metin girmiyor ve sıhhatleri verilemiyor** (`STYLE.md`).
 
 ### أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا
 
@@ -4118,7 +4118,7 @@ Ve dizim nüktesi kaydedilmelidir: *tecellâ rabbühû **li'l-cebel*** — tecel
 
 **ف-ت-ن** kökü: **altını ateşe sokup ayarını anlamak.** **Kökün bu somut anlamı `020-taha.md` 20/40'ta işlendi;** oraya dayanıyorum.
 
-**Ve cümlenin devamı — *tudıllü bihâ men teşâü ve tehdî men teşâ* — kelâmî bir tartışma alanına açılır.** **USLUP gereği o tartışmaya girmiyorum ve taraf olmuyorum.**
+**Ve cümlenin devamı — *tudıllü bihâ men teşâü ve tehdî men teşâ* — kelâmî bir tartışma alanına açılır.** **STYLE gereği o tartışmaya girmiyorum ve taraf olmuyorum.**
 
 **Metinden doğrulanabilir olan şeyleri kaydediyorum:**
 
@@ -4151,7 +4151,7 @@ Ve dizim nüktesi kaydedilmelidir: *tecellâ rabbühû **li'l-cebel*** — tecel
 
 **`002-bakara.md` 2/62'de bu kök işlendi ve orada kaydedilmişti: Kur'an bu kökü fiil hâlinde kullanır ve *A'râf 7/156'da tövbe anlamında geçer*.** **Oraya dayanıyorum.**
 
-**Ve bu, kelime çözümlemesi bakımından kaydedilmesi gereken bir veridir; buradan bir topluluk hakkında bir hüküm çıkarılmaz** (`USLUP.md`).
+**Ve bu, kelime çözümlemesi bakımından kaydedilmesi gereken bir veridir; buradan bir topluluk hakkında bir hüküm çıkarılmaz** (`STYLE.md`).
 
 ### 7/157 — vasıflar dizisi
 
@@ -4192,7 +4192,7 @@ Ve dizim nüktesi kaydedilmelidir: *tecellâ rabbühû **li'l-cebel*** — tecel
 
 **Bunu bir kelime kaydı olarak veriyorum ve dayanağı kökün somut anlamıdır.**
 
-**Ve bu ayetten fıkhî hüküm kurmuyorum ve hangi yükün kastedildiğini adlandırmıyorum;** **Kur'an burada bir vasıf tarif ediyor ve ayrıntıya girmiyor** (`USLUP.md`).
+**Ve bu ayetten fıkhî hüküm kurmuyorum ve hangi yükün kastedildiğini adlandırmıyorum;** **Kur'an burada bir vasıf tarif ediyor ve ayrıntıya girmiyor** (`STYLE.md`).
 
 ---
 
@@ -4265,7 +4265,7 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 **Ve *min* edatı kaydedilmelidir: *ve min kavmi Mûsâ* — "kavminden bir kısmı".** **Cümle bütünü kapsamıyor; bir bölümü ayırıyor.**
 
-**Ve bu, USLUP'un "toptan hüküm kurulmaz" ilkesinin metin içinden gelen desteğidir.** **Sûre aynı işi yüz altmış sekizinci ayette bir kez daha yapacak:** *minhümü's-sâlihûne ve **minhüm dûne zâlik***.
+**Ve bu, STYLE'ın "toptan hüküm kurulmaz" ilkesinin metin içinden gelen desteğidir.** **Sûre aynı işi yüz altmış sekizinci ayette bir kez daha yapacak:** *minhümü's-sâlihûne ve **minhüm dûne zâlik***.
 
 ### ٱثْنَتَىْ عَشْرَةَ — sayının iki yerde tekrarı
 
@@ -4407,9 +4407,9 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 "**Hani Rabbin bildirmişti: kıyamet gününe kadar onlara azabın en kötüsünü tattıracak kimseleri elbette gönderecektir. Şüphesiz Rabbin cezası çabuk olandır; ve O, çok bağışlayan, çok merhamet edendir. · Onları yeryüzünde topluluklara ayırdık. İçlerinde iyi olanlar da vardır, böyle olmayanlar da. Belki dönerler diye onları iyiliklerle de kötülüklerle de sınadık.**"
 
-### Ayetin okunmasında USLUP gereği bir sınır
+### Ayetin okunmasında STYLE gereği bir sınır
 
-**Bu ayet, tarih boyunca çok sayıda siyasî ve toplumsal iddiaya dayanak yapılmıştır.** **Bu tefsirde öyle bir kullanıma gidilmez ve bunu açıkça yazıyorum** (`USLUP.md`).
+**Bu ayet, tarih boyunca çok sayıda siyasî ve toplumsal iddiaya dayanak yapılmıştır.** **Bu tefsirde öyle bir kullanıma gidilmez ve bunu açıkça yazıyorum** (`STYLE.md`).
 
 **Metnin kendisi bir bölme kaydı koyuyor ve bu bölme kaydı ayetin kendi cümlesidir:**
 
@@ -4573,7 +4573,7 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 ### İhtilaf — "elest" ne anlatıyor
 
-**Bu ayet üzerinde iki büyük okuma vardır ve ikisi de klasik kaynaklarda dile getirilmiştir.** **USLUP gereği ihtilafı dayanaklarıyla tablo hâlinde veriyorum ve TERCİH DAYATMIYORUM.** **Bu, kelâmî bir tartışma alanıdır ve burada taraf olunmaz.**
+**Bu ayet üzerinde iki büyük okuma vardır ve ikisi de klasik kaynaklarda dile getirilmiştir.** **STYLE gereği ihtilafı dayanaklarıyla tablo hâlinde veriyorum ve TERCİH DAYATMIYORUM.** **Bu, kelâmî bir tartışma alanıdır ve burada taraf olunmaz.**
 
 | | **Okuma 1 — Hakikî bir hitap** | **Okuma 2 — Fıtratın tarifi** |
 |---|---|---|
@@ -4584,7 +4584,7 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 **İki okuma da nakledilir. Tercih dayatmıyorum ve bir tarafın delilini ötekinin aleyhine kullanmıyorum.**
 
-**Ve bu tefsirde bu ayet hakkında hiçbir rivayet nakledilmiyor, çünkü sıhhatleri verilemiyor.** **Kur'an'ın vermediği ayrıntı uydurulmuyor: sahnenin yeri, zamanı, biçimi ve kimlerin nasıl çıkarıldığı hakkında bir şey yazmıyorum** (`USLUP.md`).
+**Ve bu tefsirde bu ayet hakkında hiçbir rivayet nakledilmiyor, çünkü sıhhatleri verilemiyor.** **Kur'an'ın vermediği ayrıntı uydurulmuyor: sahnenin yeri, zamanı, biçimi ve kimlerin nasıl çıkarıldığı hakkında bir şey yazmıyorum** (`STYLE.md`).
 
 ### فِطْرَة ile bağ — `030-rum.md` 30/30
 
@@ -4635,13 +4635,13 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 "**Onlara, kendisine âyetlerimizi verdiğimiz kişinin haberini oku: o, onlardan sıyrılıp çıktı; şeytan da onu peşine taktı ve azgınlardan oldu. · Dileseydik onu o âyetlerle yükseltirdik; fakat o yere saplandı ve hevâsının ardına düştü. Onun durumu, köpeğin durumu gibidir: üstüne varsan da dilini sarkıtıp solur, kendi hâline bıraksan da dilini sarkıtıp solur. İşte âyetlerimizi yalanlayan topluluğun durumu budur. Bu kıssayı anlat — belki düşünürler. · Âyetlerimizi yalanlayan ve kendilerine haksızlık eden topluluğun durumu ne kötüdür!**"
 
-### USLUP gereği bir sınır — kişi adı verilmiyor
+### STYLE gereği bir sınır — kişi adı verilmiyor
 
 **Bu ayet hakkında klasik kaynaklarda birbirini tutmayan çok sayıda rivayet ve isim aktarılır.** **Bu tefsirde hiçbir isim verilmiyor ve hiçbir rivayet nakledilmiyor**, çünkü:
 
 **Bir — Kur'an isim vermiyor.** **Ayet *ellezî* (o kişi) diyor; bu kadar.**
 
-**İki — nakledilen isimler birbirini tutmuyor ve sıhhatleri verilemiyor** (`USLUP.md`).
+**İki — nakledilen isimler birbirini tutmuyor ve sıhhatleri verilemiyor** (`STYLE.md`).
 
 **Üç — ve ayetin kendisi, olayın bir kişiye özgü kalmadığını söylüyor:** *zâlike **meselü'l-kavmi**'llezîne kezzebû bi-âyâtinâ* — **"işte âyetlerimizi yalanlayan topluluğun durumu budur."**
 
@@ -4716,7 +4716,7 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 **İki ayet aynı yapıyı kuruyor: giriş ne olursa olsun çıkış değişmiyor.** **Bu, sûre içinde doğrulanabilir bir örtüşmedir.**
 
-**Ve USLUP gereği bir kayıt daha düşüyorum, çünkü bu benzetme incitici bir dille kullanılabilir:** **ayet bir insan grubunu hayvanlaştırmıyor;** **bir *davranış biçimini* tarif ediyor.** **Ve tarif edilenin kim olduğunu ayetin kendisi söylüyor: *ellezîne kezzebû bi-âyâtinâ* — bir vasıf.** **Kim o vasfı taşırsa ona dahildir; bu, sûrenin kendi ilkesidir.**
+**Ve STYLE gereği bir kayıt daha düşüyorum, çünkü bu benzetme incitici bir dille kullanılabilir:** **ayet bir insan grubunu hayvanlaştırmıyor;** **bir *davranış biçimini* tarif ediyor.** **Ve tarif edilenin kim olduğunu ayetin kendisi söylüyor: *ellezîne kezzebû bi-âyâtinâ* — bir vasıf.** **Kim o vasfı taşırsa ona dahildir; bu, sûrenin kendi ilkesidir.**
 
 **Ve dizim nüktesi kaydedilmelidir: benzetme kişiye değil, duruma yapılıyor** — *fe-**meselühû** ke-**meseli**'l-kelb*: "onun **durumu**, köpeğin **durumu** gibidir". **İki tarafta da *mesel* kelimesi var.**
 
@@ -4750,14 +4750,14 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 **ذ-ر-أ** kökü **`023-muminun.md` 23/79'da çözümlendi ve orada A'râf 7/179 anıldı.** **Oraya dayanıyorum. Orada kaydedilen: kökün somut anlamı, tohum saçar gibi yaymak, çoğaltmaktır; dilciler kökü yaratma ile yayma arasında bir yerde tarif eder.** **Tekrarlamıyorum.**
 
-**Buraya ait olan, *li-cehenneme* terkibindeki *lâm*ın işlevidir ve bu, kelâmî bir tartışmaya açılır.** **USLUP gereği tartışmaya taraf olmuyorum; iki izahı tabloyla aktarıyorum:**
+**Buraya ait olan, *li-cehenneme* terkibindeki *lâm*ın işlevidir ve bu, kelâmî bir tartışmaya açılır.** **STYLE gereği tartışmaya taraf olmuyorum; iki izahı tabloyla aktarıyorum:**
 
 | Okuma | *Lâm* ne bildiriyor | Dayanak |
 |---|---|---|
 | 1 | ***Lâmü'l-âkıbe*** — **sonuç lâmı**: "sonunda cehenneme varacak olan" | Arapçada bu lâmın sonuç bildirdiği örnekler bulunması (*fe'ltekatahû âlü Fir'avne li-yekûne lehüm adüvven* — Kasas 28/8: alınma amacı düşmanlık değildi) |
 | 2 | ***Lâmü't-ta'lîl*** — **gaye lâmı** | Lâmın asıl işlevinin gaye bildirmek olması |
 
-**İki izah da nakledilir; tercih dayatmıyorum ve kader tartışmasına girmiyorum** (`USLUP.md`).
+**İki izah da nakledilir; tercih dayatmıyorum ve kader tartışmasına girmiyorum** (`STYLE.md`).
 
 **Metinden doğrulanabilir olan tek şeyi kaydediyorum ve o da ayetin kendi devamıdır:** **ayet, bu kimseleri bir vasıf dizisiyle tarif ediyor** — üç organ ve üçünün kullanılmaması. **Yani tarif, bir soy ya da grup adıyla değil, fiilsizlikle yapılıyor.**
 
@@ -5051,7 +5051,7 @@ Ve hitabın kapsamı kaydedilmelidir: *yâ eyyühe'n-**nâs*** ve *ileyküm **ce
 
 **Birinci ve ikinci okuma metin üzerinden yürütülebilir; tercih dayatmıyorum.**
 
-**Ve üçüncü okuma için USLUP gereği açıkça yazıyorum: bu ayet hakkında peygamberlere bir kusur nispet eden anlatımlar aktarılmıştır.** **Bu tefsirde o anlatımlara girilmiyor**, çünkü sıhhatleri verilemiyor ve **Kur'an'ın vermediği ayrıntı uydurulmuyor** (`USLUP.md`).
+**Ve üçüncü okuma için STYLE gereği açıkça yazıyorum: bu ayet hakkında peygamberlere bir kusur nispet eden anlatımlar aktarılmıştır.** **Bu tefsirde o anlatımlara girilmiyor**, çünkü sıhhatleri verilemiyor ve **Kur'an'ın vermediği ayrıntı uydurulmuyor** (`STYLE.md`).
 
 ### لِيَسْكُنَ إِلَيْهَا
 
@@ -5323,7 +5323,7 @@ Ve sûrede kök daha önce geçmişti: *inneküm kavmün **techelûn*** (138) �
 
 **İkisi birlikte bir hâl tarif ediyor.** **Ve edat kaydedilmelidir: *istemiû lehû* — *lâm* ile geçişli: dikkatin yöneltildiği yer belirtiliyor.**
 
-**Ve USLUP gereği bir sınır çiziyorum: bu ayetten fıkhî bir hüküm kurmuyorum.** **Ayetin hangi durumları kapsadığı (namaz içi, namaz dışı, hangi durumlarda) mezhepler arasında tartışılmıştır ve o tartışmada taraf olunmuyor** (`USLUP.md`).
+**Ve STYLE gereği bir sınır çiziyorum: bu ayetten fıkhî bir hüküm kurmuyorum.** **Ayetin hangi durumları kapsadığı (namaz içi, namaz dışı, hangi durumlarda) mezhepler arasında tartışılmıştır ve o tartışmada taraf olunmuyor** (`STYLE.md`).
 
 ### 7/205 — ses ölçüsü
 
@@ -5384,7 +5384,7 @@ Ve sûrede kök daha önce geçmişti: *inneküm kavmün **techelûn*** (138) �
 
 > *İnne'llezîne **inde rabbike** lâ **yestekbirûne** an ıbâdetihî ve **yüsebbihûnehû** ve lehû **yescüdûn***
 
-**Bu ayet Kur'an'ın secde ayetlerinden biridir.** **Secde ayetlerinin sayısı ve hangi ayetlerin bu kapsamda olduğu mezhepler arasında farklılık gösterir; bu tefsirde o tartışmada taraf olunmuyor ve fıkhî hüküm verilmiyor** (`USLUP.md`). **Kaydedilen şey, bu ayetin secde ayetlerinden biri olarak nakledildiğidir ve bu kayıt ihtilafsızdır.**
+**Bu ayet Kur'an'ın secde ayetlerinden biridir.** **Secde ayetlerinin sayısı ve hangi ayetlerin bu kapsamda olduğu mezhepler arasında farklılık gösterir; bu tefsirde o tartışmada taraf olunmuyor ve fıkhî hüküm verilmiyor** (`STYLE.md`). **Kaydedilen şey, bu ayetin secde ayetlerinden biri olarak nakledildiğidir ve bu kayıt ihtilafsızdır.**
 
 **Ve ayetin sûre içindeki yeri kaydedilmelidir ve bu, sûrenin en dikkat çekici kapanışıdır.**
 
@@ -5401,7 +5401,7 @@ Ve sûrede kök daha önce geçmişti: *inneküm kavmün **techelûn*** (138) �
 
 **Bunu kendi okumam olarak kaydediyorum ve bağlayıcı değildir; dayanağı iki ayetin ortak kökleridir:** **sûre, secdeden kaçınmanın anlatımıyla açılıp secde edenlerin anlatımıyla kapanıyor.** **Ve arada iki yüz ayet boyunca aynı mesele işleniyor: verilen bilgi ve ona verilen karşılık.**
 
-**Ve *inde rabbike* kaydı kaydedilmelidir: kimlerin kastedildiği adlandırılmıyor.** **Klasik tefsirlerde melekler olarak izah edilir; bu izahı nakledildiği şekliyle aktarıyorum ve metnin adlandırmadığını adlandırmıyorum** (`USLUP.md`).
+**Ve *inde rabbike* kaydı kaydedilmelidir: kimlerin kastedildiği adlandırılmıyor.** **Klasik tefsirlerde melekler olarak izah edilir; bu izahı nakledildiği şekliyle aktarıyorum ve metnin adlandırmadığını adlandırmıyorum** (`STYLE.md`).
 
 **Ve üç fiil sayılıyor ve sıralaması kaydedilmeye değer:**
 
@@ -5468,11 +5468,11 @@ Ve sûrede kök daha önce geçmişti: *inneküm kavmün **techelûn*** (138) �
 
 **Bir — 35. satır sûrenin en tutarlı ölçüsüdür.** **Üç ayrı yerde, üç ayrı muhatap için aynı soru soruluyor: elinde olan şeyle ne yapıyorsun / ne yapabiliyor?** **Buzağı için (148: konuşmuyor, yol göstermiyor), insan için (179: organlar var, işlemiyor), çağrılanlar için (195: organlar var mı?).** **Ölçü hiçbir yerde değişmiyor.**
 
-**İki — 32. satır, USLUP'un "toptan hüküm kurulmaz" ilkesinin metin içinden gelen desteğidir.** **Sûre, hakkında en sert şeyleri söylediği yerlerde bile dört kez bölme kaydı düşüyor.** **Bu, sayılabilir bir veridir ve yorum değildir; yorum olan yalnız buradan çıkardığım sonuçtur.**
+**İki — 32. satır, STYLE'ın "toptan hüküm kurulmaz" ilkesinin metin içinden gelen desteğidir.** **Sûre, hakkında en sert şeyleri söylediği yerlerde bile dört kez bölme kaydı düşüyor.** **Bu, sayılabilir bir veridir ve yorum değildir; yorum olan yalnız buradan çıkardığım sonuçtur.**
 
 ### Tablo B — tercih yapılmayan ihtilaflar
 
-**Aşağıdaki yerlerde ihtilaf tablolanmış ve TERCİH DAYATILMAMIŞTIR.** **Sebep her seferinde aynıdır: ya Kur'an bir tercih bildirmiyor, ya mesele kelâmî bir tartışma alanına giriyor, ya da nakledilen izahların hiçbirine kesinlik verilemiyor** (`USLUP.md`).
+**Aşağıdaki yerlerde ihtilaf tablolanmış ve TERCİH DAYATILMAMIŞTIR.** **Sebep her seferinde aynıdır: ya Kur'an bir tercih bildirmiyor, ya mesele kelâmî bir tartışma alanına giriyor, ya da nakledilen izahların hiçbirine kesinlik verilemiyor** (`STYLE.md`).
 
 | # | Ayet | Mesele | Kaç görüş tablolandı | Türü |
 |---|---|---|---|---|

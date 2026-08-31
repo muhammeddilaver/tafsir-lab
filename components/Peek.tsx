@@ -32,7 +32,7 @@ export default function Peek({ lang }: { lang: Lang }) {
     opener.current?.focus();
   }, []);
 
-  // --- baglantiya tiklama: yalnizca duz sol tik modal acar ---
+  // --- link clicks: only a plain left click opens the modal ---
   useEffect(() => {
     function onClick(ev: MouseEvent) {
       if (ev.defaultPrevented || ev.button !== 0) return;
@@ -55,7 +55,7 @@ export default function Peek({ lang }: { lang: Lang }) {
     return () => document.removeEventListener("click", onClick);
   }, [open]);
 
-  // --- geri tusu modali kapatsin ---
+  // --- the back button should close the modal ---
   useEffect(() => {
     if (!open) return;
     function onPop() {
@@ -67,7 +67,7 @@ export default function Peek({ lang }: { lang: Lang }) {
     return () => window.removeEventListener("popstate", onPop);
   }, [open]);
 
-  // --- parcayi getir ---
+  // --- fetch the fragment ---
   useEffect(() => {
     if (!top) return;
     const key = `${lang}:${top.no}/${top.start}`;
@@ -91,12 +91,12 @@ export default function Peek({ lang }: { lang: Lang }) {
     };
   }, [top, lang]);
 
-  // yeni parcaya gecince icerigi basa sar
+  // scroll the content back to the top on a new fragment
   useEffect(() => {
     if (bodyRef.current) bodyRef.current.scrollTop = 0;
   }, [data]);
 
-  // --- Esc, odak tuzagi, arka plan kilidi ---
+  // --- Esc, focus trap, background lock ---
   useEffect(() => {
     if (!open) return;
     const prev = document.body.style.overflow;

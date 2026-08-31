@@ -342,7 +342,7 @@ Bu ifade Kur'an'da birkaç yerde tekrar eder ve üzerinde durmak gerekiyor, çü
 
 Yani *yevm*, ölçüsü bağlama göre değişen bir birimdir. Güneş henüz yaratılmamışken "gün"ün bugünkü anlamıyla kullanılamayacağı da açıktır.
 
-Bu tefsirde şu tutum benimseniyor: **altı "gün"ün ne kadar sürdüğü bildirilmemiştir ve bilinmemektedir.** Bu belirsizliği kapatıp modern kozmoloji ya da jeoloji dönemleriyle birebir eşleştirmeye çalışmak, USLUP'ta yasaklanan fennî zorlamadır. Kaydedilmesi gereken tek şey şudur: ayet, yaratmayı bir **süreç** olarak anlatıyor — anlık değil, aşamalı.
+Bu tefsirde şu tutum benimseniyor: **altı "gün"ün ne kadar sürdüğü bildirilmemiştir ve bilinmemektedir.** Bu belirsizliği kapatıp modern kozmoloji ya da jeoloji dönemleriyle birebir eşleştirmeye çalışmak, STYLE'da yasaklanan fennî zorlamadır. Kaydedilmesi gereken tek şey şudur: ayet, yaratmayı bir **süreç** olarak anlatıyor — anlık değil, aşamalı.
 
 Ve bu, Bakara 2/117'deki *kün fe-yekûn* ifadesiyle çelişmez. Orada kaydedilmişti: *kün fe-yekûn* emrin kime ait olduğunu, "altı gün" ise sürecin nasıl işlediğini söyler. İki ayrı sorunun iki ayrı cevabı.
 
@@ -362,7 +362,7 @@ Kur'an'ın en çok tartışılmış ifadelerinden biri. Yedi yerde geçer.
 | **Te'vîl** | İstivâ, "hükümranlığı eline alma, işi yönetmeye başlama" anlamındadır | Şûrâ 42/11 (*"benzeri hiçbir şey yoktur"*); Arapçada *istevâ alâ*'nın "hâkim oldu" anlamında kullanımı |
 | **Zâhirî kabul** | Lafız zâhiri üzere alınır, ama teşbihe düşmeden | Nassa bağlılık |
 
-Bu ihtilafa taraf olmuyorum. USLUP gereği kelâmî tartışmalarda tarafgirlik yapılmıyor ve bu, tefsirin en eski kelâmî ayrılıklarından biridir.
+Bu ihtilafa taraf olmuyorum. STYLE gereği kelâmî tartışmalarda tarafgirlik yapılmıyor ve bu, tefsirin en eski kelâmî ayrılıklarından biridir.
 
 Kaydedilmesi gerekenler şunlardır:
 
@@ -1471,7 +1471,7 @@ Sûre bu noktaya kadar kimlere seslenmişti? İnanmayanlara (8), infak etmeyenle
 
 Ve söylenen şey bir müjde değil, bir **sitem**dir.
 
-Bu, Kur'an'ın kendi topluluğuna yönelttiği en doğrudan uyarılardan biridir. Ve tam olarak burada, USLUP'un koyduğu ölçü işlemeye başlar: metnin tarif ettiği şey bir **vasıftır**, ve o vasıf burada dışarıdaki bir grupta değil, **içeridekilerde** aranıyor.
+Bu, Kur'an'ın kendi topluluğuna yönelttiği en doğrudan uyarılardan biridir. Ve tam olarak burada, STYLE'ın koyduğu ölçü işlemeye başlar: metnin tarif ettiği şey bir **vasıftır**, ve o vasıf burada dışarıdaki bir grupta değil, **içeridekilerde** aranıyor.
 
 Rivayet edilir ki İbn Mes'ûd, müslüman olmalarıyla bu ayetin inmesi arasında yalnızca birkaç yılın bulunduğunu söylemiş ve bunu bir sitem olarak anmıştır. Rivayetin metnini birebir alıntılamıyorum ve hangi hadis mecmuasında yer aldığını kesin veremediğim için kaynak nispeti yapmıyorum; ancak rivayetin taşıdığı fikir ayetin anlaşılması için önemlidir: **süre kısa olsa da soğuma başlayabilir.**
 
@@ -1575,7 +1575,7 @@ Bu tespiti bir "fennî mucize" olarak sunmuyorum; ayet bir sinirbilim iddiası i
 
 Bu, ayetin en ağır tarafıdır. Çünkü şunu ima eder: **aynı süreç sizin başınıza da gelebilir.** "Onlar" ile "siz" arasındaki fark, cinsî bir fark değil; **zamansal** bir farktır. Onlar erken başladılar, sizin süreniz henüz kısa.
 
-USLUP'un koyduğu ölçü burada birebir işler ve açıkça belirtilmelidir: **ayet bir topluluk hakkında toptan hüküm kurmuyor.** Kurduğu şey bir mekanizma tarifidir, ve o mekanizmanın kime işlediği açıkça söyleniyor — muhatap, kıyasın yapıldığı taraf değil, kıyasın yapıldığı **kişilerdir.**
+STYLE'ın koyduğu ölçü burada birebir işler ve açıkça belirtilmelidir: **ayet bir topluluk hakkında toptan hüküm kurmuyor.** Kurduğu şey bir mekanizma tarifidir, ve o mekanizmanın kime işlediği açıkça söyleniyor — muhatap, kıyasın yapıldığı taraf değil, kıyasın yapıldığı **kişilerdir.**
 
 Nitekim ayet bunu kendi içinde de kayıtlıyor: **وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ** — "onların **çoğu** yoldan çıkmıştır." *Çoğu* denmiş, *hepsi* değil. Aynı kayıt sûrenin 26. ve 27. ayetlerinde de tekrarlanacak; ve 27. ayette *"içlerinden inananlara ecirlerini verdik"* denecek.
 
@@ -2541,7 +2541,7 @@ Ve dikkat edin: bu ayette de **قدر** (ölçü) kelimesi geçiyor — Hadîd 5
 
 **Üçüncü sorun: yöntem sorunu.**
 
-USLUP'ta kaydedilen ilke burada birebir işler: **ayete modern bir bilgi zorla giydirilmez.**
+STYLE'da kaydedilen ilke burada birebir işler: **ayete modern bir bilgi zorla giydirilmez.**
 
 Bu iddianın yöntem sorunu şudur: eğer *enzelnâ* fiili demirin uzaydan geldiğini gösteriyorsa, aynı fiil elbisenin ve davarların da uzaydan geldiğini göstermelidir. Aynı fiil, aynı bab, aynı yapı. Bir kelimenin bir yerde fizikî, başka yerde mecazî okunması için bağlamdan bir gerekçe gerekir; burada öyle bir gerekçe yoktur — aksine, ayetin bağlamı fizikî okumayı desteklemiyor.
 
@@ -2770,7 +2770,7 @@ Ama **her iki taraf da var.** Ve bu, ayetin en önemli kaydıdır: hüküm topta
 
 **كثير** kelimesi burada kritiktir. "Hepsi" denmemiş, **"çoğu"** denmiş. Aynı kayıt 16. ayette de vardı ve 27. ayette bir kez daha gelecek.
 
-**Sûre bu kaydı üç kez tekrar ediyor** (16, 26, 27) ve bu tekrar, USLUP'ta konan ilkenin metin içi karşılığıdır: **bir dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır.**
+**Sûre bu kaydı üç kez tekrar ediyor** (16, 26, 27) ve bu tekrar, STYLE'da konan ilkenin metin içi karşılığıdır: **bir dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır.**
 
 Metin bunu kendisi yapıyor — üç kez, aynı kelimeyle.
 
@@ -2889,7 +2889,7 @@ Yani sûre aynı teşhisi iki kez koyuyor: **başlangıçtaki hâl korunmuyor.**
 
 ### Dengeli okuma: ayet ne söylüyor, ne söylemiyor
 
-Bu bahiste dikkatli olmak gerekiyor ve USLUP'un koyduğu ölçü burada özellikle önemlidir.
+Bu bahiste dikkatli olmak gerekiyor ve STYLE'ın koyduğu ölçü burada özellikle önemlidir.
 
 **Ayet ne söylüyor:**
 
@@ -3290,7 +3290,7 @@ Metin boyunca birkaç noktada bilerek kesin dil kullanılmadı; okuyucunun bunla
 - ***Li-ya'lema'llâh*** ifadesi için iki izah verildi; tercih dayatılmadı.
 - **57/27'nin i'râbı** konusunda iki ana okuma ve *illâ* istisnası için iki okuma tablo halinde verildi. Birinci okuma esas alındı, **bunun bir tercih olduğu ve bağlayıcı olmadığı** kaydedildi.
 - **Ruhbanlığın ne olduğu (kapsamı) metinde tanımlanmadığı için tanımlanmadı**; klasik tefsirde farklı tarifler bulunduğu belirtildi.
-- **Ruhbanlık bahsinde bir dinî grup hakkında toptan hüküm kurulmadı.** Ayetin kendi kayıtları (*"çoğu"*, *"içlerinden inananlara ecirlerini verdik"*) vurgulandı ve Mâide 5/82'nin aynı kelimeyi olumlu bağlamda kullandığı gösterildi. USLUP'un vasıf/isim ayrımı korundu.
+- **Ruhbanlık bahsinde bir dinî grup hakkında toptan hüküm kurulmadı.** Ayetin kendi kayıtları (*"çoğu"*, *"içlerinden inananlara ecirlerini verdik"*) vurgulandı ve Mâide 5/82'nin aynı kelimeyi olumlu bağlamda kullandığı gösterildi. STYLE'ın vasıf/isim ayrımı korundu.
 - **57/28'in muhatabının kim olduğu** (ehl-i kitap / müslümanlar) ihtilaflıdır; iki okuma verildi, tercih dayatılmadı.
 - ***Kifleyn*** ile ilgili olarak "iki kere ecir alanlar" hadisine değinildi, ancak **lafzı ve kaynağı kesin verilemediği için ayrıntı yazılmadı ve tefsirin dayanağı yapılmadı.**
 - **57/29'daki *lâ*'nın zâide olup olmadığı** konusunda üç okuma verildi; birincisi esas alındı ve **tercihin bağlayıcı olmadığı** kaydedildi.

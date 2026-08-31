@@ -229,7 +229,7 @@ Bu kelime, son yüzyılda çok tartışıldı ve tartışmanın büyük kısmı 
 
 **5. Ayetin kendi amacı bilgi vermek değil.** Bağlam ortada: sûre, kendini yeterli gören insana neyden geldiğini hatırlatıyor. Ayet bir alçaltma cümlesidir, bir tarif değil. Ayeti embriyoloji dersine çevirmek, onun asıl işini görünmez kılar.
 
-**Toparlarsak:** kelimenin "asılan, tutunan, yapışan" anlamı verilir ve eksiltilmez; bunun modern embriyolojideki tutunma evresini çağrıştırdığını fark eden okur bu çağrışımı kendi payına bir düşünme vesilesi sayabilir; ama bu, ayetin iddiası olarak sunulamaz ve bir mucize delili haline getirilemez. USLUP'un "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
+**Toparlarsak:** kelimenin "asılan, tutunan, yapışan" anlamı verilir ve eksiltilmez; bunun modern embriyolojideki tutunma evresini çağrıştırdığını fark eden okur bu çağrışımı kendi payına bir düşünme vesilesi sayabilir; ama bu, ayetin iddiası olarak sunulamaz ve bir mucize delili haline getirilemez. STYLE'ın "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
 
 ### Bugüne bakan yönü
 
@@ -510,7 +510,7 @@ Bu teşhislerin ortak özelliği şudur: hemen hepsinin ardından bir **istisna*
 
 Alak sûresinde bu istisna açıkça yazılmaz; ama sûrenin son ayeti onun yerine geçer: *"secde et ve yaklaş."* Teşhis konmuş, tedavi de en sona konmuştur.
 
-USLUP gereği not edilmesi gereken bir şey daha: ayet bir grup, bir sınıf, bir kesim tarif etmiyor. Bir **eğilim** tarif ediyor. Kim o eğilimin peşine düşerse ayet ondan söz ediyordur.
+STYLE gereği not edilmesi gereken bir şey daha: ayet bir grup, bir sınıf, bir kesim tarif etmiyor. Bir **eğilim** tarif ediyor. Kim o eğilimin peşine düşerse ayet ondan söz ediyordur.
 
 ---
 
@@ -694,7 +694,7 @@ Klasik tefsirlerde bu ayetlerin Ebû Cehil hakkında indiği söylenir. Nakledil
 
 **Usul notu.** Rivayet doğru olsa bile, hükmün Ebû Cehil'le sınırlı olmadığı açıktır. Mâûn bahsinde zikrettiğimiz kaide burada da geçerli: *el-ibretü bi-umûmi'l-lafz lâ bi-husûsi's-sebeb* — hüküm sözün genelliğine göredir. Nitekim ayetin kendisi de kimseyi adlandırmıyor.
 
-Bir gözlem daha: sûre iki tarafı da **isimsiz** bırakıyor. Ne engelleyenin adı var, ne engellenenin. İkisi de yaptıklarıyla tarif ediliyor. Bu, USLUP'un altını çizdiği ilkeyi metnin kendisinde gösteriyor: tarif edilen kişiler değil, vasıflar.
+Bir gözlem daha: sûre iki tarafı da **isimsiz** bırakıyor. Ne engelleyenin adı var, ne engellenenin. İkisi de yaptıklarıyla tarif ediliyor. Bu, STYLE'ın altını çizdiği ilkeyi metnin kendisinde gösteriyor: tarif edilen kişiler değil, vasıflar.
 
 ---
 

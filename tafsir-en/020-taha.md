@@ -194,7 +194,7 @@ The root **خ-ش-ي**: **to hold back because one knows the greatness of a thing
 
 ### ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ
 
-**On this expression I enter a note per the method (`USLUP.md`) and do not open the discussion.**
+**On this expression I enter a note per the method (`STYLE.md`) and do not open the discussion.**
 
 **The same expression was treated at `032-secde.md` on 32/4, and two positions were tabulated there** — **tafwīḍ** (the wording is accepted as it stands and its modality is committed to God) and **taʾwīl** (it is interpreted as the establishing of sovereignty). **Both are transmitted; I do not impose a preference. I rely on that treatment and do not repeat it here.** The common principle is al-Shūrā 42/11.
 
@@ -722,7 +722,7 @@ The root **ص-ن-ع**: **to make something with skill, with labour spent on it.*
 
 **And the verb is passive: *tuṣnaʿa* — "that you might be made, be reared".**
 
-**عَلَىٰ عَيْنِى** — "upon My eye". **In Arabic the idiom conveys being under watch and protection.** **I enter a note per the method (`USLUP.md`):** this expression cannot be understood in a way that ascribes an organ to God. **The note entered at `002-bakara.md` on 2/115 for *wajh* and at `040-gafir.md` on 40/7 for the throne holds here as well:** in the classical tradition two positions are transmitted — accepting the wording as it stands and committing its modality to God (**tafwīḍ**), or interpreting it in the sense of watchful care (**taʾwīl**). **I transmit both and do not impose a preference.**
+**عَلَىٰ عَيْنِى** — "upon My eye". **In Arabic the idiom conveys being under watch and protection.** **I enter a note per the method (`STYLE.md`):** this expression cannot be understood in a way that ascribes an organ to God. **The note entered at `002-bakara.md` on 2/115 for *wajh* and at `040-gafir.md` on 40/7 for the throne holds here as well:** in the classical tradition two positions are transmitted — accepting the wording as it stands and committing its modality to God (**tafwīḍ**), or interpreting it in the sense of watchful care (**taʾwīl**). **I transmit both and do not impose a preference.**
 
 **And the distribution of the root in the sūra is a datum of the text:**
 
@@ -1005,7 +1005,7 @@ The root **ف-ر-ط** — **is analysed here for the first time in the series.**
 
 **And the object of the verb *hadā* is not stated.** Not "He guided them" or "He guided man" — but **absolute: *hadā*.** The scope is left open.
 
-**I enter a note about the connection to science, and it is per the method (`USLUP.md`):** links have been drawn from this verse to the instinctive behaviour of living things, to migration routes, or to genetic information. **No such link is drawn in this commentary.** The verse is not a proposition of biology but a **declaration of an act**; and what it says ("no being knows of itself what it is to do; it is shown") is already sufficient on its own. **I add this as an observation, not as a claim of a miracle:** the distinction the sentence draws — **existence and instruction** — is a distinction that can also be thought about today for any ordered system, living or not; but the verse does not claim this, and neither do I.
+**I enter a note about the connection to science, and it is per the method (`STYLE.md`):** links have been drawn from this verse to the instinctive behaviour of living things, to migration routes, or to genetic information. **No such link is drawn in this commentary.** The verse is not a proposition of biology but a **declaration of an act**; and what it says ("no being knows of itself what it is to do; it is shown") is already sufficient on its own. **I add this as an observation, not as a claim of a miracle:** the distinction the sentence draws — **existence and instruction** — is a distinction that can also be thought about today for any ordered system, living or not; but the verse does not claim this, and neither do I.
 
 **And a link within the sūra must be recorded:** the verb *hadā* will return in the seventy-ninth verse **negated, of Pharaoh**: *wa aḍalla Firʿawnu qawmahu **wa mā hadā*** — "he led astray and did not guide".
 
@@ -1435,7 +1435,7 @@ The root **ف-ط-ر**: **to split a thing open, to bring it forth for the first 
 
 **I record this as my own reading, and its ground is the pattern itself:** the scene of the drowning is **not told.** Neither the height of the water, nor the cries, nor the duration. **The verb is repeated and its object left indefinite.** **And at `026-suara.md` on 26/66 the same event was given in a single phrase:** *thumma aghraqna'l-ākharīn.* **Neither sūra widens the scene.**
 
-**This confirms from the text itself a principle recorded in `USLUP.md`:** one does not enter into a detail the Qurʾān does not give — **because the text itself does not enter into it.**
+**This confirms from the text itself a principle recorded in `STYLE.md`:** one does not enter into a detail the Qurʾān does not give — **because the text itself does not enter into it.**
 
 ### وَأَضَلَّ فِرْعَوْنُ قَوْمَهُۥ وَمَا هَدَىٰ
 
@@ -1571,7 +1571,7 @@ The root **ف-ط-ر**: **to split a thing open, to bring it forth for the first 
 
 **Beyond this — who he was, what people he came from, from what his name derives — the Qurʾān says nothing.** **Various explanations are transmitted in the classical commentaries, and a significant part of them rests on narratives drawn from the surrounding cultures.**
 
-**I enter a note per the method (`USLUP.md`), and it holds for the whole of this discussion: this commentary does not enter into the Isrāʾīliyyāt and does not manufacture detail the Qurʾān has not given.** **There is no certain knowledge.**
+**I enter a note per the method (`STYLE.md`), and it holds for the whole of this discussion: this commentary does not enter into the Isrāʾīliyyāt and does not manufacture detail the Qurʾān has not given.** **There is no certain knowledge.**
 
 ---
 
@@ -1756,7 +1756,7 @@ The root **ر-ق-ب**: **to keep watch, to crane the neck and look.** *Raqaba* �
 
 **This verse is one of the sentences in the Qurʾān over which the most speculation has been produced.**
 
-**I draw the boundary at the outset, per the method (`USLUP.md`), and it holds for the whole of this discussion:**
+**I draw the boundary at the outset, per the method (`STYLE.md`), and it holds for the whole of this discussion:**
 
 - **No detail the Qurʾān has not given is entered into.**
 - **No Isrāʾīliyyāt are entered into.**
@@ -2742,7 +2742,7 @@ The root **م-د-د**: **to stretch, to draw out, to pull long.** *Madd* — ext
 | al-Qaṣaṣ 28/83 | *Wa'l-ʿāqibatu **li'l-muttaqīn*** | **To persons** — to those who guard themselves |
 | **Ṭāhā 20/132** | *Wa'l-ʿāqibatu **li't-taqwā*** | **To an attribute** — to the guarding itself |
 
-**The same sentence, one attached to persons and one to an attribute.** **This is a difference between the two sūras that can be verified, and it agrees with the principle recorded in `USLUP.md`:** a ruling is built on attributes, not on groups.
+**The same sentence, one attached to persons and one to an attribute.** **This is a difference between the two sūras that can be verified, and it agrees with the principle recorded in `STYLE.md`:** a ruling is built on attributes, not on groups.
 
 ---
 

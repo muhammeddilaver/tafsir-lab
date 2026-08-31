@@ -380,7 +380,7 @@ The root **و-ه-ن**: **the loosening of strength, the ebbing of capacity.** **
 
 **All three of the sentences begin with what is shared and end with one's own position.** I record this as my own reading: **the utterance is built not by rejecting the other side but by enumerating what is common** — and the divergence is stated only at the end, and not as a claim but as **a definition**.
 
-**A note per the method (`USLUP.md`):** the exception *illa'lladhīna ẓalamū minhum* issues no blanket ruling about a community — **what is excepted are those characterised as *doing wrong*.** The particle *minhum* (of them) shows this as well: **not the whole of the group, but a part of it.** **The same care was preserved at `049-hucurat.md` and `043-zuhruf.md`; it is preserved here too.**
+**A note per the method (`STYLE.md`):** the exception *illa'lladhīna ẓalamū minhum* issues no blanket ruling about a community — **what is excepted are those characterised as *doing wrong*.** The particle *minhum* (of them) shows this as well: **not the whole of the group, but a part of it.** **The same care was preserved at `049-hucurat.md` and `043-zuhruf.md`; it is preserved here too.**
 
 ---
 
@@ -392,7 +392,7 @@ The root **و-ه-ن**: **the loosening of strength, the ebbing of capacity.** **
 
 **And the particle *min* occurs explicitly with the second group: *wa min hāʾulāʾi man yuʾminu bih* — "and among these too there are those who believe."**
 
-**I record this as an observation:** the verse issues no blanket ruling about either of the two communities. **The note on *illa'lladhīna ẓalamū minhum* at `029-ankebut.md` 29/46 came from the same place.** **The sūra draws its distinction not between groups but between attitudes** — and this is the line the method (`USLUP.md`) preserves.
+**I record this as an observation:** the verse issues no blanket ruling about either of the two communities. **The note on *illa'lladhīna ẓalamū minhum* at `029-ankebut.md` 29/46 came from the same place.** **The sūra draws its distinction not between groups but between attitudes** — and this is the line the method (`STYLE.md`) preserves.
 
 **يَجْحَدُ** — root **ج-ح-د**: to deny while knowing. **The root was treated at `046-ahkaf.md` 46/26**, and there the connection the lexicographers record with "ground being barren" (*arḍun jaḥād*) was given. **I do not repeat it here.**
 

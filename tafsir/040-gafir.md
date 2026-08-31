@@ -562,7 +562,7 @@ Yani ret, bir baştan reddediş olarak değil, **delil geldikten sonraki** bir k
 
 **Bu kayıt kaydedilmeye değer ve kendi okumam olarak veriyorum:** ayet düzenli bir basamak dizisi kurup **istisnayı kendisi ekliyor.** Yani sıra bir kural olarak sunulmuyor; **herkesin sonuna kadar gitmediği aynı cümlede söyleniyor.**
 
-**USLUP gereği bir sınır:** *nutfe* ve *alaka* kelimelerinin sözlük anlamları (damla; asılıp tutunan, sülük benzeri şey) dilciler tarafından verilir. **Bunların modern embriyoloji terimleriyle birebir eşitlenmesine girmiyorum;** ayetin işi bir aşama tarifi vermektir ve delil de bu aşamaların **insanın elinde olmamasıdır** — `056-vakia.md` 56/58-59'da işlenen çizginin aynısı.
+**STYLE gereği bir sınır:** *nutfe* ve *alaka* kelimelerinin sözlük anlamları (damla; asılıp tutunan, sülük benzeri şey) dilciler tarafından verilir. **Bunların modern embriyoloji terimleriyle birebir eşitlenmesine girmiyorum;** ayetin işi bir aşama tarifi vermektir ve delil de bu aşamaların **insanın elinde olmamasıdır** — `056-vakia.md` 56/58-59'da işlenen çizginin aynısı.
 
 **`046-ahkaf.md` 46/15'te aynı hayat basamakları anne-baba bağlamında geçmişti** (*hattâ izâ belağa eşüddehû ve belağa erbaîne sene*). **İki sûre aynı kelimeyi (*eşüdd*) kullanıyor.**
 

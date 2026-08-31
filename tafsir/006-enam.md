@@ -190,7 +190,7 @@
 | 1 | **Levh-i mahfûz** — her şeyin kaydı |
 | 2 | **Kur'an** — dinin esasları bakımından |
 
-**İki okuma da nakledilir; tercih dayatmıyorum.** **USLUP gereği bir kayıt: bu ayetten "Kur'an bütün ilimleri içerir" gibi bir sonuç çıkarmıyorum;** böyle bir iddia ayetin lafzından zorunlu olarak çıkmaz ve ihtilaf gizlenmemelidir.
+**İki okuma da nakledilir; tercih dayatmıyorum.** **STYLE gereği bir kayıt: bu ayetten "Kur'an bütün ilimleri içerir" gibi bir sonuç çıkarmıyorum;** böyle bir iddia ayetin lafzından zorunlu olarak çıkmaz ve ihtilaf gizlenmemelidir.
 
 ---
 
@@ -523,7 +523,7 @@
 
 **وَجَعَلَ ٱلَّيْلَ سَكَنًا** — **س-ك-ن kökü `048-fetih.md` 48/4'te (*sekîne*) ve `030-rum.md` 30/21'de (*li-teskünû ileyhâ*) işlendi.** **Ve `025-furkan.md` 25/47'de gece *libâs* (elbise) diye anılmıştı.** **Üç sûre, gecenin işlevini üç kelimeyle veriyor: sükûn, elbise, dinlenme.**
 
-**حُسْبَانًا** — **hesap ölçüsü.** **USLUP gereği: buradan modern astronomiye dair bir sonuç çıkarmıyorum;** ayet, güneş ve ayın **zaman ölçmeye elverişli** olmasını bildiriyor — ve bu, `010-yunus.md` 10/5'te de aynı biçimde geçer.
+**حُسْبَانًا** — **hesap ölçüsü.** **STYLE gereği: buradan modern astronomiye dair bir sonuç çıkarmıyorum;** ayet, güneş ve ayın **zaman ölçmeye elverişli** olmasını bildiriyor — ve bu, `010-yunus.md` 10/5'te de aynı biçimde geçer.
 
 ---
 
@@ -553,7 +553,7 @@
 
 **Dilciler bu farkı kaydeder:** *idrâk*, bir şeye **ulaşıp kuşatmak**tır; *rü'yet* ise yalnız görmek. **Bu ayrım, ru'yet meselesindeki kelâmî tartışmanın dayanaklarından biridir.**
 
-**USLUP gereği: bu tefsirde kelâmî tartışmaya girilmemektedir.** **Klasik tefsirlerdeki okumaları aktarmakla yetiniyorum ve tercih dayatmıyorum.**
+**STYLE gereği: bu tefsirde kelâmî tartışmaya girilmemektedir.** **Klasik tefsirlerdeki okumaları aktarmakla yetiniyorum ve tercih dayatmıyorum.**
 
 **Ve ayetin kendi kurduğu simetri kaydedilmeye değer:** *lâ tüdrikühü'l-ebsâr* / *ve hüve yüdrikü'l-ebsâr.* **Aynı fiil, iki yönde: biri olumsuz, öteki olumlu.** **Ve `002-bakara.md` 2/255'te (*ve lâ yuhîtûne bi-şey'in min ilmih*) aynı yapı işlendi:** kuşatmanın tek yönlü olması.
 
@@ -706,7 +706,7 @@
 
 **Bunu kendi okumam olarak kaydediyorum:** benzetme, **nefes darlığını** tarif ediyor — yükseldikçe soluk almanın zorlaşması. **Ve fiil V. bâbdandır (*yessa''adü*): zorlanarak, adım adım tırmanma.**
 
-**USLUP gereği bir kayıt:** bu benzetmeden modern fizyolojiye dair bir iddia çıkarmıyorum. **Ayetin verdiği şey, o günün insanının da bildiği bir tecrübedir: yükseğe çıkarken göğsün daralması.** **Ve bu, dizinde tutulan sınırın gereğidir.**
+**STYLE gereği bir kayıt:** bu benzetmeden modern fizyolojiye dair bir iddia çıkarmıyorum. **Ayetin verdiği şey, o günün insanının da bildiği bir tecrübedir: yükseğe çıkarken göğsün daralması.** **Ve bu, dizinde tutulan sınırın gereğidir.**
 
 ---
 
@@ -803,7 +803,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ** kaydı bu sûrenin 119. ayetinde de geçmişti. **Ve `002-bakara.md` 2/173'te işlendi.**
 
-**وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ … ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ** (146) — **USLUP gereği bir kayıt: ayet, belirli bir topluluğa konmuş belirli bir hükmü ve gerekçesini bildiriyor; bir grup hakkında toptan hüküm kurmuyor.** **Nitekim gerekçe bir fiile bağlanıyor: *bi-bağyihim*.**
+**وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ … ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ** (146) — **STYLE gereği bir kayıt: ayet, belirli bir topluluğa konmuş belirli bir hükmü ve gerekçesini bildiriyor; bir grup hakkında toptan hüküm kurmuyor.** **Nitekim gerekçe bir fiile bağlanıyor: *bi-bağyihim*.**
 
 ***Bağy* kökü `042-sura.md` 42/14 ve `049-hucurat.md` 49/9'da işlendi.**
 
@@ -882,7 +882,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 **Son anda gelen imanın kabul edilmemesi:** **`039-zumer.md` 39/54-59, `040-gafir.md` 40/84-85 ve `010-yunus.md` 10/90-92'de işlendi.** **Oraya dayanıyorum.**
 
-**USLUP gereği bir kayıt:** *ev ye'tiye rabbüke* ifadesi cismanî bir geliş olarak anlaşılamaz; **dizinde `089-fecr.md` 89/22'de aynı kayıt düşülmüştü.** **Klasik tefsirlerdeki tavırları (tefvîz / te'vîl) aktarıyor, tercih dayatmıyorum.**
+**STYLE gereği bir kayıt:** *ev ye'tiye rabbüke* ifadesi cismanî bir geliş olarak anlaşılamaz; **dizinde `089-fecr.md` 89/22'de aynı kayıt düşülmüştü.** **Klasik tefsirlerdeki tavırları (tefvîz / te'vîl) aktarıyor, tercih dayatmıyorum.**
 
 ---
 

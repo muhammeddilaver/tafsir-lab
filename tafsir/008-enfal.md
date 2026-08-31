@@ -135,7 +135,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 **Bunu kendi okumam olarak kaydediyorum:** emir mutlak konmuyor. **Ayet, kaçmak ile *manevra* arasındaki farkı kendisi ayırıyor** — ve ölçü, hareketin **yönü ve amacı**.
 
-**USLUP gereği: buradan güncel askerî ya da siyasî sonuçlar çıkarılmamaktadır.**
+**STYLE gereği: buradan güncel askerî ya da siyasî sonuçlar çıkarılmamaktadır.**
 
 ---
 
@@ -158,7 +158,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 **Ve bu, `056-vakia.md` 56/58-72'de işlenen dört delille aynı yerden kesiyor:** orada da insanın payı teslim ediliyor (akıtmak, ekmek, çakmak) ve sonuç ayrılıyordu. **Oraya dayanıyorum.**
 
-**USLUP gereği bir kayıt:** bu ayet, kelâm geleneğinde insanın fiili ve kudreti tartışmalarında kullanılmıştır. **Bu tefsirde o tartışmaya girilmemekte; ayetin dil ve dizim yönü verilmektedir.**
+**STYLE gereği bir kayıt:** bu ayet, kelâm geleneğinde insanın fiili ve kudreti tartışmalarında kullanılmıştır. **Bu tefsirde o tartışmaya girilmemekte; ayetin dil ve dizim yönü verilmektedir.**
 
 **وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا** — ve gerekçe: **güzel bir sınama.** ***Belâ* kelimesinin "sınama" anlamı `002-bakara.md` 2/155'te işlendi.**
 
@@ -326,7 +326,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 ### وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ (41)
 
-**USLUP gereği: fıkhî hüküm vermiyorum.** Paylaşımın ayrıntıları ve payların kimlere ait olduğu mezhepler arasında tartışılmıştır; **ihtilafı aktarmakla yetiniyorum ve "bağlayıcı değildir" kaydını düşüyorum.**
+**STYLE gereği: fıkhî hüküm vermiyorum.** Paylaşımın ayrıntıları ve payların kimlere ait olduğu mezhepler arasında tartışılmıştır; **ihtilafı aktarmakla yetiniyorum ve "bağlayıcı değildir" kaydını düşüyorum.**
 
 **Ayetin dil yönünde kaydedilecek olan şudur:** sayılan beş grubun dördü **`002-bakara.md` 2/177 ve 2/215'te işlenen infak adresleriyle aynıdır** (yakınlar, yetimler, yoksullar, yolda kalmış). **Yani savaş sonrası paylaşım, olağan infak listesine bağlanıyor.**
 
@@ -383,7 +383,7 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 **Bunu kendi okumam olarak kaydediyorum:** Enfâl, aynı ilkeyi **nimetin geri alınması** bağlamına yerleştiriyor. **Ve sûrenin yirmi altıncı ayetiyle örtüşüyor:** orada *fe-âvâküm ve eyyedeküm bi-nasrih* — verilen hatırlatılmıştı.
 
-**USLUP gereği bir kayıt:** bu ayet ve Ra'd 13/11 güncel siyasî tartışmalara alet edilmez; bu tefsirde öyle kullanılmamaktadır.
+**STYLE gereği bir kayıt:** bu ayet ve Ra'd 13/11 güncel siyasî tartışmalara alet edilmez; bu tefsirde öyle kullanılmamaktadır.
 
 ### وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ (58)
 
@@ -405,7 +405,7 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 ### İki ayetin birlikte okunması
 
-**USLUP gereği bu iki ayeti ayırmadan işliyorum, çünkü art arda geliyorlar ve biri diğerinin sınırıdır.**
+**STYLE gereği bu iki ayeti ayırmadan işliyorum, çünkü art arda geliyorlar ve biri diğerinin sınırıdır.**
 
 **Altmışıncı ayette hazırlık emrediliyor ve gerekçe belirtiliyor: *türhibûne bihî* — caydırma.**
 
@@ -419,7 +419,7 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 **Ve altmış ikinci ayet, aldanma ihtimalini de karşılıyor:** *ve in yürîdû en yahdeûke fe-inne hasbekallâh.* **Yani barışa yanaşma emri, güvenlik kaygısıyla iptal edilmiyor — sonuç başka yere bağlanıyor.**
 
-**USLUP gereği bir kayıt:** bu ayetlerden güncel siyasî ya da askerî sonuçlar çıkarılmamaktadır. **Ayetlerin kendi çerçevesi, karşılıklı bir savaş hâlidir.**
+**STYLE gereği bir kayıt:** bu ayetlerden güncel siyasî ya da askerî sonuçlar çıkarılmamaktadır. **Ayetlerin kendi çerçevesi, karşılıklı bir savaş hâlidir.**
 
 ---
 
@@ -496,7 +496,7 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 | Muhammed 47/4 | **Esir sonrası** — iki seçenek: karşılıksız salıverme ya da fidye |
 | **Enfâl 8/67** | **Esir öncesi** — zamanlama şartı |
 
-**USLUP gereği: fıkhî hüküm vermiyorum.** Bu ayetlerden çıkarılan hükümler ve iki ayet arasındaki ilişki klasik kaynaklarda tartışılmıştır; **ihtilafı aktarmakla yetiniyor, tercih dayatmıyorum.**
+**STYLE gereği: fıkhî hüküm vermiyorum.** Bu ayetlerden çıkarılan hükümler ve iki ayet arasındaki ilişki klasik kaynaklarda tartışılmıştır; **ihtilafı aktarmakla yetiniyor, tercih dayatmıyorum.**
 
 ### قُل لِّمَن فِىٓ أَيْدِيكُم مِّنَ ٱلْأَسْرَىٰٓ إِن يَعْلَمِ ٱللَّهُ فِى قُلُوبِكُمْ خَيْرًا يُؤْتِكُمْ خَيْرًا مِّمَّآ أُخِذَ مِنكُمْ وَيَغْفِرْ لَكُمْ (70)
 

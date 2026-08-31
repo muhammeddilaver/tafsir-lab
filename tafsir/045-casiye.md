@@ -24,7 +24,7 @@ Sûre, *hâ-mîm* ile açılan yedi sûreden biridir ve Ahkāf'ın hemen öncesi
 
 "Hâ-mîm. Bu kitabın indirilişi, üstün ve hikmet sahibi Allah'tandır."
 
-**Hurûf-ı mukattaa hakkındaki kayıt dizinde daha önce düşüldü** (`002-bakara.md`, `050-kaf.md`, `046-ahkaf.md`): **bu harflerin anlamı hakkında kesin bilgi yoktur**, klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz. Harf-sayı hesabına dayalı iddialara USLUP gereği girilmez. **Tekrarlamıyorum.**
+**Hurûf-ı mukattaa hakkındaki kayıt dizinde daha önce düşüldü** (`002-bakara.md`, `050-kaf.md`, `046-ahkaf.md`): **bu harflerin anlamı hakkında kesin bilgi yoktur**, klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz. Harf-sayı hesabına dayalı iddialara STYLE gereği girilmez. **Tekrarlamıyorum.**
 
 **Buraya ait olan, doğrulanabilir bir olgudur:** ikinci ayet, **`046-ahkaf.md`'nin ikinci ayetiyle kelime kelime aynıdır** (Ahkāf 46/2).
 

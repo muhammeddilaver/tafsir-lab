@@ -2429,7 +2429,7 @@ Buna göre ayetler şunu söylüyor olabilir: dünyada **yapılan bir şey** var
 
 **Bu okumayı kendi çıkarımım olarak sunuyorum ve kesin bir hüküm olarak sunmuyorum**; kelime seçiminin başka açıklamaları da olabilir — özellikle fasıla (kafiye) gerekleri Arapça metinlerde kelime seçimini etkiler.
 
-Ve bir kayıt daha gerekiyor: müminlerin iki ayette de **fiille** anılması, USLUP'ta kaydedilen ilkeyle uyumludur — Kur'an bir vasıf tarif eder, kimlik dağıtmaz. İman, yapılan bir şey olarak adlandırılıyor.
+Ve bir kayıt daha gerekiyor: müminlerin iki ayette de **fiille** anılması, STYLE'da kaydedilen ilkeyle uyumludur — Kur'an bir vasıf tarif eder, kimlik dağıtmaz. İman, yapılan bir şey olarak adlandırılıyor.
 
 ### فَٱلْيَوْم — "bugün"
 

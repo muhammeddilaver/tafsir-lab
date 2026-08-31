@@ -79,7 +79,7 @@ In the classical works of exegesis and biography it is widely reported that vers
 
 **In this commentary I use this account with the note "it is transmitted", and without entering into detail.** I give no tribal name, no personal name, and no numbers. The reason is the measure recorded at `049-hucurat.md` and at `048-fetih.md`: **attaching the name of a tribe or a community to a verse can be read as a ruling about people who today bear that name or are traced to that lineage.** The wording of the Qurʾān does not do this; the verse speaks not of a tribe but of "those who came", "those who said", "those who kept their pledge".
 
-**Verses 26-27 require a further note as well**, and it will be given in detail beneath those verses: the text recounts a **single event** that took place upon a **breach of treaty**, concerning one community, within the law of war of that day. No general ruling about a religion or a lineage is drawn from these verses. The note in `USLUP.md` that "no wholesale ruling is issued about an ethnic or religious group" does its heaviest work in this sūra just there.
+**Verses 26-27 require a further note as well**, and it will be given in detail beneath those verses: the text recounts a **single event** that took place upon a **breach of treaty**, concerning one community, within the law of war of that day. No general ruling about a religion or a lineage is drawn from these verses. The note in `STYLE.md` that "no wholesale ruling is issued about an ethnic or religious group" does its heaviest work in this sūra just there.
 
 For the account of Zayd it is reported in the sources that Zayd was adopted by the Prophet and was for a time called "Zayd b. Muḥammad"; and that after the regulation in verses 4-5 this ascription was removed. Into the details about how the marriage was made and how it ended I **do not enter**; I explain the reason at verse 37.
 
@@ -195,7 +195,7 @@ The two groups are named within the same prohibition, and this announces in adva
 
 **And the reason the two are joined in the same prohibition stands in the verb of the verse:** *obedience.* A person may fall in with either of them for the same reason — pressure, interest, the desire to fit in. That is, the verse is not likening the two groups to one another; it is saying that **falling in with them** is the same thing.
 
-Per the method (`USLUP.md`) I record: both of the words named here are **attributes**, not the name of a community. Whoever bears that attribute is the one the verse speaks of.
+Per the method (`STYLE.md`) I record: both of the words named here are **attributes**, not the name of a community. Whoever bears that attribute is the one the verse speaks of.
 
 ### وَٱتَّبِعْ — the counterpart of the prohibition
 
@@ -288,7 +288,7 @@ The conception of the heart recorded at `049-hucurat.md` works here too: in the 
 
 Care is needed here, because two kinds of interpretation circulate about this sentence.
 
-**What it does not say:** This sentence is not giving a piece of anatomy and cannot be presented as a "scientific miracle". The note in `USLUP.md` that "no hunting for scientific miracles is done" works here exactly. The verse is not reporting the number of the human heart; it is already using the word heart in the sense of **the centre of consciousness** — indeed the same sūra will say a few verses later "those in whose hearts is sickness", and there too no organ will be meant.
+**What it does not say:** This sentence is not giving a piece of anatomy and cannot be presented as a "scientific miracle". The note in `STYLE.md` that "no hunting for scientific miracles is done" works here exactly. The verse is not reporting the number of the human heart; it is already using the word heart in the sense of **the centre of consciousness** — indeed the same sūra will say a few verses later "those in whose hearts is sickness", and there too no organ will be meant.
 
 **What it says:** There cannot be **two separate centres of orientation** inside a person. And this connects directly with the context of the verse: a woman cannot be both wife and mother; a child cannot be both another man's son and your son. **One body, one centre.**
 
@@ -783,7 +783,7 @@ It is widely transmitted in the classical sources that this verse and what follo
 
 **There is a historical observation that can be made independently of the text, and it is worth recording:** the breaking up of coalitions besieging a city is a very familiar fact in military history. Coalitions are formed around a shared aim, but their costs are paid separately. The longer a siege lasts, the higher each component's own cost rises and the lower the value of the shared aim falls. **The parting comes not from the fighting but from the duration.**
 
-This is an observation from the social sciences, not a claim of the verse. **The verse ties the event to a wind and to what is unseen; I am recording here a historical pattern, not dressing the verse in an explanation.** Per the note in `USLUP.md` that "no forced connection is made", I keep the two apart.
+This is an observation from the social sciences, not a claim of the verse. **The verse ties the event to a wind and to what is unseen; I am recording here a historical pattern, not dressing the verse in an explanation.** Per the note in `STYLE.md` that "no forced connection is made", I keep the two apart.
 
 ---
 
@@ -1189,7 +1189,7 @@ There are three elements:
 
 **And the verse's answer annuls all three elements with a single sentence:** *wa mā hiya bi-ʿawra.* Once the ground is refuted, the structure falls.
 
-**One further note, per the method (`USLUP.md`):** the verse does not say **who** it was that spoke this sentence — it gives no name, no tribe. And as recorded at `063-munafikun.md` this is a deliberate choice: **the description lasts, the exposure passes.** This verse cannot be used today to identify anyone; it can only be read in order to recognise the anatomy of an excuse — **and one's own excuses first.**
+**One further note, per the method (`STYLE.md`):** the verse does not say **who** it was that spoke this sentence — it gives no name, no tribe. And as recorded at `063-munafikun.md` this is a deliberate choice: **the description lasts, the exposure passes.** This verse cannot be used today to identify anyone; it can only be read in order to recognise the anatomy of an excuse — **and one's own excuses first.**
 
 ---
 
@@ -1378,7 +1378,7 @@ Five behaviours are enumerated, and all five are observable:
 
 **Pattern: the active participle of Form II (*muʿawwiq*).** This form generally conveys **intensity and repetition.** That is, the word does not mean "one who obstructs once" but **one who is continually occupied with the work of obstructing.**
 
-**مِنكُمْ — "from among you".** **This note is important and, per the method (`USLUP.md`), must be stressed:** the verse says that those who hold back are **from within the community.** That is, not a threat coming from outside; a mechanism working from within.
+**مِنكُمْ — "from among you".** **This note is important and, per the method (`STYLE.md`), must be stressed:** the verse says that those who hold back are **from within the community.** That is, not a threat coming from outside; a mechanism working from within.
 
 **And precisely for that reason these verses cannot be used as an instrument of identification.** What is from within is not visible from without. The measure recorded at `063-munafikun.md` holds here too.
 
@@ -1502,7 +1502,7 @@ At the end the verse issues a ruling: *lam yuʾminū* — "they have not believe
 
 **A note is needed on how this ruling is to be read.**
 
-**One.** The ruling concerns **those who bear the attributes** enumerated in this verse. Per the method (`USLUP.md`): this is not the name of a group but the description of an attribute.
+**One.** The ruling concerns **those who bear the attributes** enumerated in this verse. Per the method (`STYLE.md`): this is not the name of a group but the description of an attribute.
 
 **Two.** The ruling is **a ruling God gives about an inward state**, not a conclusion people may draw. At the head of the verse it had already said *"God knows"* (*qad yaʿlamu'llāh*). **That is, the knowing party has been stated explicitly.**
 
@@ -1556,7 +1556,7 @@ The word **ٱلْأَحْزَاب** occurs **twice** in this verse and once in t
 
 **ٱلْأَعْرَاب** — **this word was treated in detail at `049-hucurat.md`, and the finding recorded there holds here too: *aʿrāb* does not mean "the Arabs"; it means *the bedouin*, that is, those who live a nomadic life.** The same note was entered at `048-fetih.md` as well. I rely on that treatment.
 
-**This is a critical note in view of the method (`USLUP.md`):** the word names not an ethnic group but a **way of living.** And the verse does not condemn that way of living; it records **the desire of the person who wants to flee there.**
+**This is a critical note in view of the method (`STYLE.md`):** the word names not an ethnic group but a **way of living.** And the verse does not condemn that way of living; it records **the desire of the person who wants to flee there.**
 
 ### يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ — the completing of the picture
 
@@ -1816,7 +1816,7 @@ I record this as my own reading; its ground is the reciprocal position within th
 
 **مِّنَ ٱلْمُؤْمِنِينَ — the partitive (indicating a part).** The particle *min* here means "some of". **That is, the verse is not speaking about all the believers; it is setting a part apart.**
 
-**This must also be recorded in view of the method (`USLUP.md`):** the verse does not load an attribute wholesale onto a group. Neither in praise nor in blame.
+**This must also be recorded in view of the method (`STYLE.md`):** the verse does not load an attribute wholesale onto a group. Neither in praise nor in blame.
 
 ### رِجَال — the weight of the word
 
@@ -1949,7 +1949,7 @@ This is the exact opposite of the excuse in the thirteenth verse: there the word
 
 The same structure was recorded at `048-fetih.md`: *"What is at issue is not a door closed but a participation deferred."* **In al-Aḥzāb the door is opened wider still, because the possibility of *tawba* is written explicitly.**
 
-**And, per the method (`USLUP.md`), this must be stressed:** the sūra frames **no permanent ruling** about a group. In the nineteenth verse it was said *lam yuʾminū*; in the twenty-fourth a door of repentance is opened to the same group. **What is understood when the two verses are read together is this: the ruling concerns the state at that moment; it is not a file closed on a person.**
+**And, per the method (`STYLE.md`), this must be stressed:** the sūra frames **no permanent ruling** about a group. In the nineteenth verse it was said *lam yuʾminū*; in the twenty-fourth a door of repentance is opened to the same group. **What is understood when the two verses are read together is this: the ruling concerns the state at that moment; it is not a file closed on a person.**
 
 I record this as my own reading; its ground is that the two verses concern the same group and that the second opens a door.
 
@@ -2079,7 +2079,7 @@ I record this link as my own reading; its ground is the position of the root in 
 
 "And He brought down from their strongholds those of the People of the Book who had supported them, and cast terror into their hearts. Some you were killing, and some you were taking captive. · And He gave you their land, their dwellings and their possessions as an inheritance, and a land you had not set foot on. God has power over all things."
 
-### First a note, per the method (`USLUP.md`)
+### First a note, per the method (`STYLE.md`)
 
 **These two verses are the place in this sūra that must be read with the greatest care**, and before beginning to read, four notes must be entered explicitly.
 
@@ -2091,13 +2091,13 @@ I record this link as my own reading; its ground is the position of the root in 
 
 **Four. Al-Mumtaḥina 60/8, as a boundary verse, holds here too**, and it was cited with the same function at `048-fetih.md`: *"God does not forbid you to deal kindly and justly with those who have not fought you over religion and have not driven you from your homes."*
 
-**The note in `USLUP.md` works here exactly: "no wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes."** This commentary abides by that note.
+**The note in `STYLE.md` works here exactly: "no wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes."** This commentary abides by that note.
 
 ### Historical background — in the language of "it is transmitted"
 
 In the classical works of biography and exegesis it is transmitted that during the siege a community bound by treaty within the city broke the treaty and gave support to the besiegers; that after the siege dispersed this community was besieged in turn; that after their surrender a ruling was applied through arbitration, within the law of war of that day.
 
-**The details of this account — the name of the community, the identity of the arbiter, the extent of the ruling applied, the numbers — vary in the sources and are not given in this commentary.** The reason is the rule of `USLUP.md` about fabrication and certainty: when the reports differ at the level of detail, the detail cannot be presented as certain knowledge.
+**The details of this account — the name of the community, the identity of the arbiter, the extent of the ruling applied, the numbers — vary in the sources and are not given in this commentary.** The reason is the rule of `STYLE.md` about fabrication and certainty: when the reports differ at the level of detail, the detail cannot be presented as certain knowledge.
 
 **And there is a more important reason, which I record:** the wording of the verse gives none of these details. **The Qurʾān has not written the name of a community.** This is not a deficiency but a choice consistent with the principle recorded at `063-munafikun.md`: **the description lasts, the exposure passes.**
 
@@ -2204,7 +2204,7 @@ I record this as my own reading.
 
 ### What this says to the present
 
-**This is the place where the greatest care must be taken in speaking of what these verses say to the present, and, per the method (`USLUP.md`), I draw the limit explicitly.**
+**This is the place where the greatest care must be taken in speaking of what these verses say to the present, and, per the method (`STYLE.md`), I draw the limit explicitly.**
 
 **These verses cannot be used to fix an attitude today towards any community, religion or people.** The reasons are inside the text:
 
@@ -2214,7 +2214,7 @@ I record this as my own reading.
 
 **Three.** The same Qurʾān uses the same expression (*ahl al-kitāb*) in contexts of common ground, of kindness and of justice as well. **To take one place in a text and disregard its other places is not to read that text.**
 
-**And current politics is not entered.** The note in `USLUP.md` is plain and is abided by in this commentary.
+**And current politics is not entered.** The note in `STYLE.md` is plain and is abided by in this commentary.
 
 **A measure that can be drawn from the text and targets no one is this:** the verse concerns the breaking of a treaty. **And it agrees with the whole logic of the sūra:** the seventh verse spoke of the weight of a word, the fifteenth of the word given being asked about, the twenty-third of not changing the word. **The twenty-sixth verse records a case in which the word was broken.**
 
@@ -2476,7 +2476,7 @@ I record this as my own reading; its ground is the positive command that follows
 
 I record this as my own reading; its ground is the repetition of the expression in two different contexts in the same sūra.
 
-**And one further note, per the method (`USLUP.md`):** the verse does not lay **the whole** of the responsibility on the one who speaks. The sentence speaks of a sickness, and the sickness is on the other side. **What the verse does is to propose a precaution — not to impute an offence.**
+**And one further note, per the method (`STYLE.md`):** the verse does not lay **the whole** of the responsibility on the one who speaks. The sentence speaks of a sickness, and the sickness is on the other side. **What the verse does is to propose a precaution — not to impute an offence.**
 
 ### قَوْلًا مَّعْرُوفًا — the measure
 
@@ -2570,7 +2570,7 @@ This is one of the most practical things that can be said about communication: t
 | **A yet older period** | By "the first ignorance" a more ancient age is meant; the addressee's own period is a separate one |
 | **An allusion to a second ignorance** | The adjective implies an ignorance that will come later |
 
-**I do not impose a preference.** And I do not enter into applying the third explanation to contemporary events — the note in `USLUP.md` that "no side is taken in current politics" holds here.
+**I do not impose a preference.** And I do not enter into applying the third explanation to contemporary events — the note in `STYLE.md` that "no side is taken in current politics" holds here.
 
 ### وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ — two basic commands
 
@@ -2586,7 +2586,7 @@ I record this as my own reading.
 
 ### إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 
-**This sentence is one of the most debated sentences of this sūra and perhaps of the Qurʾān. Per the method (`USLUP.md`), a particular care is needed here, and I state the method in advance:**
+**This sentence is one of the most debated sentences of this sūra and perhaps of the Qurʾān. Per the method (`STYLE.md`), a particular care is needed here, and I state the method in advance:**
 
 **One.** The words will be analysed one by one.
 **Two.** The data the text gives (grammatical gender, context, construction) will be recorded.
@@ -2667,13 +2667,13 @@ And the same pattern will come again in verse 56 (*sallimū taslīmā*).
 
 **After this table I enter five notes:**
 
-**One. No view is preferred in this commentary.** Per the principle of `USLUP.md` that "if a preference is adopted its ground is written and the note that it is not binding is entered": no preference has been adopted here, because the question stands at the centre of a disagreement between the schools, and to prefer would be to insinuate something against one side.
+**One. No view is preferred in this commentary.** Per the principle of `STYLE.md` that "if a preference is adopted its ground is written and the note that it is not binding is entered": no preference has been adopted here, because the question stands at the centre of a disagreement between the schools, and to prefer would be to insinuate something against one side.
 
 **Two. That the context concerns the wives is a datum of the text.** The whole of verses 28-34 addresses the wives; so does what precedes and what follows verse 33. **I record this as a datum.**
 
 **Three. And this datum does not by itself settle the debate.** The reasons: (a) the lexicographers have recorded that there are rulings in the Qurʾān which extend beyond the context of a sentence; (b) the change of gender is a fact that itself requires explanation; (c) the question rests not on language alone but on transmitted material too.
 
-**Four. The material of the reports is not entered into in this commentary.** Reports are transmitted in both directions; the evaluation of those reports is the business of the science of ḥadīth and cannot be done here. **Per the note in `USLUP.md` that "you are not to ascribe a saying of which you are not sure", no name, wording or source is given.**
+**Four. The material of the reports is not entered into in this commentary.** Reports are transmitted in both directions; the evaluation of those reports is the business of the science of ḥadīth and cannot be done here. **Per the note in `STYLE.md` that "you are not to ascribe a saying of which you are not sure", no name, wording or source is given.**
 
 **Five. This verse cannot be used to exalt one group or to exclude another** — on any reading. The wording of the verse states a **will**: *yurīdu'llāhu li-yudhhiba*. **A statement of will is not a claim of superiority.**
 
@@ -3009,7 +3009,7 @@ I record this as my own reading, and I do not confuse the religious context of t
 
 ### وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ
 
-**This is the most disputed place in the verse, and here, per the method (`USLUP.md`), I draw a firm limit.**
+**This is the most disputed place in the verse, and here, per the method (`STYLE.md`), I draw a firm limit.**
 
 **What the wording of the verse says:**
 
@@ -3026,7 +3026,7 @@ I record this as my own reading, and I do not confuse the religious context of t
 
 **This commentary does not enter into these narratives**, and I record this: **it is widely transmitted that in the classical exegetical tradition these imputations were rejected.** A considerable number of exegetes characterised these narratives as material with no source value, without a chain of transmission, or inconsistent under textual criticism, and rejected them.
 
-**I give this in the language of "it is transmitted" and mention no name or wording,** because the note in `USLUP.md` is plain: a saying of which one is not sure is not ascribed to an exegete.
+**I give this in the language of "it is transmitted" and mention no name or wording,** because the note in `STYLE.md` is plain: a saying of which one is not sure is not ascribed to an exegete.
 
 **The second kind — explanations resting on the wording of the verse.** In classical exegesis there are also explanations of what the hidden thing may have been that keep within the verse's own sentences:
 
@@ -3115,7 +3115,7 @@ I record this as my own reading; its ground is that the clause of ground is give
 
 **These details are not entered into in this commentary.** The reasons:
 
-**One.** The reports differ from one another at the level of detail, and per the method (`USLUP.md`) a detail of which one is not sure cannot be presented as certain knowledge.
+**One.** The reports differ from one another at the level of detail, and per the method (`STYLE.md`) a detail of which one is not sure cannot be presented as certain knowledge.
 
 **Two.** **The wording of the verse gives none of these details.** To make a piece of information the Qurʾān does not give into a condition of a verse's meaning is a breach of the three-layered frame set up at `048-fetih.md`.
 
@@ -3323,7 +3323,7 @@ I record this as my own reading; its ground is the concrete sense of the root.
 
 **Different interpretations have been put forward on this through history, and they have been a subject of division among schools and movements. This commentary does not enter that debate and makes no insinuation against any group.**
 
-Per the note in `USLUP.md`: **the disagreement is not concealed, but no polemic is entered.** The existence of the disagreement is recorded here; its content and its parties are not the subject of this commentary.
+Per the note in `STYLE.md`: **the disagreement is not concealed, but no polemic is entered.** The existence of the disagreement is recorded here; its content and its parties are not the subject of this commentary.
 
 ### The place of the verse in the sūra — the closing of the ring
 
@@ -3655,7 +3655,7 @@ In its middle part the verse makes an enumeration. The categories in brief:
 
 **Two.** What conclusion is to be drawn as a whole from the verses in which this expression occurs is a question long debated in the history of Islamic thought and **goes beyond the limits of this commentary.** What is done here is to record, **without concealment**, the existence of the expression and the Qurʾān's other notes on the same subject.
 
-**Per the method (`USLUP.md`): no legal ruling is issued, no preference is imposed, and current debates are not entered.**
+**Per the method (`STYLE.md`): no legal ruling is issued, no preference is imposed, and current debates are not entered.**
 
 ### لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ — the ground
 
@@ -4213,7 +4213,7 @@ The root of the word says exactly this.
 
 ### A note at the outset
 
-**Per the method (`USLUP.md`), no legal ruling is issued on this verse.** What will be done is this:
+**Per the method (`STYLE.md`), no legal ruling is issued on this verse.** What will be done is this:
 
 1. The lexical sense of the word and what the lexicographers give as its counterpart in that period will be conveyed.
 2. **The ground the verse itself gives will be brought forward.**
@@ -4325,7 +4325,7 @@ In the classical exegetical sources it is transmitted that at that time some wom
 
 **No side is taken in any of these debates in this commentary and no ruling is issued.**
 
-**And I enter the note of `USLUP.md` explicitly: what is given here is a conveying of information, and it is not binding.** A ruling about anyone's practice is not the subject of this text.
+**And I enter the note of `STYLE.md` explicitly: what is given here is a conveying of information, and it is not binding.** A ruling about anyone's practice is not the subject of this text.
 
 **Current debates and politics are not entered.** This verse has been the material of a great many political disputes over the last two centuries; **this commentary is not, and cannot be, a party to any of them.**
 
@@ -4428,13 +4428,13 @@ I record this as my own reading; its ground is that the concrete senses of the t
 
 **That is, the verse does not state a ruling, it lays down a *condition*.** And whether the condition came about is not said in the text.
 
-**This is a fact of word order that must be recorded and is important in view of the method (`USLUP.md`):** the verse is a sentence of warning and **the way out is in the first clause** — *if they do not desist.*
+**This is a fact of word order that must be recorded and is important in view of the method (`STYLE.md`):** the verse is a sentence of warning and **the way out is in the first clause** — *if they do not desist.*
 
 ### مَّلْعُونِينَ أَيْنَمَا ثُقِفُوٓا۟ — on the sixty-first verse
 
 **This verse describes a sanction to be applied in the order of a city under the conditions of that day, and it stands in a single, historical context.**
 
-**Per the method (`USLUP.md`) I record explicitly:**
+**Per the method (`STYLE.md`) I record explicitly:**
 
 **One.** The verse is **dependent on the condition** in the sixtieth verse. It is not a sentence of ruling on its own.
 
@@ -4585,7 +4585,7 @@ I record this as my own reading.
 
 I record this as my own reading.
 
-**And one further note, per the method (`USLUP.md`):** the verse gives no names. **And no person or group today can be identified from this verse.** What the verse describes is a **form of relationship**: a person's handing over his own choice to another's position.
+**And one further note, per the method (`STYLE.md`):** the verse gives no names. **And no person or group today can be identified from this verse.** What the verse describes is a **form of relationship**: a person's handing over his own choice to another's position.
 
 ### ٱلرَّسُولَا۠ / ٱلسَّبِيلَا۠ — a difference of reading
 
@@ -5215,7 +5215,7 @@ The word **بيت** occurs again and again in the sūra, and each time with a di
 ### Where this section does not speak with certainty
 
 - **That verses 9-27 of the sūra came down after an event of siege** is widely reported in the classical sources, and it was given in this commentary **in the language of "it is transmitted"**. The length of the siege, the names of the parties, the numbers, the existence and the form of the entrenchment were not presented as certain knowledge, **because they are not in the Qurʾān.** **No tribal or personal name was given.** The only settlement names the Qurʾān gives are **Yathrib** (13, in the mouths of those calling for flight) and **al-Madīna** (60), and the only personal name it gives is **Zayd** (37).
-- **On the setting of the "two hearts" sentence in 33/4** three explanations were given in a table; the third (that it was an answer to a particular saying) was conveyed with the note "it is transmitted" and **was not presented as certain knowledge.** No reading of the sentence as a **scientific miracle** was entered into; the note in `USLUP.md` that "no hunting for scientific miracles is done" was observed.
+- **On the setting of the "two hearts" sentence in 33/4** three explanations were given in a table; the third (that it was an answer to a particular saying) was conveyed with the note "it is transmitted" and **was not presented as certain knowledge.** No reading of the sentence as a **scientific miracle** was entered into; the note in `STYLE.md` that "no hunting for scientific miracles is done" was observed.
 - **On *ẓihār*, reliance was placed on `058-mucadele.md`** and the detail given there was not repeated. **The ruling on the preservation of the tie of lineage was conveyed; no legal detail was entered into;** the differing rulings of the schools on care, inheritance and guardianship **are not the subject of this commentary** and no preference was adopted.
 - **The classical explanations of the extent of the ruling in the word *awlā* at 33/6** were given **in a table of four items.** **No legal conclusion was constructed and no preference was imposed.** Nor was any ruling issued on the extent of the maternal standing of the Prophet's wives.
 - **The difference of reading in *lā muqāma lakum* at 33/13** (*muqām* / *maqām*) was recorded and **no preference was adopted.**

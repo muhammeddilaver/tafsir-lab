@@ -81,7 +81,7 @@
 
 **Buradaki kullanım kaydedilmeye değer ve iki yönlüdür:** *yükevviru'l-leyle ale'n-nehâri ve yükevviru'n-nehâra ale'l-leyl* — **her ikisi de diğerinin üzerine sarılıyor.**
 
-**USLUP gereği bir sınır çiziyorum:** bu kelimeden yerin biçimine ya da hareketine dair kesin bir sonuç çıkarmıyorum. **Kelimenin sözlük anlamı sarma ve katlamadır; ayetin anlattığı şey gece ile gündüzün birbirinin yerini kesintisiz alışıdır.** Buradan modern bir kozmoloji tarifi üretmek, metnin söylemediğini söyletmek olur.
+**STYLE gereği bir sınır çiziyorum:** bu kelimeden yerin biçimine ya da hareketine dair kesin bir sonuç çıkarmıyorum. **Kelimenin sözlük anlamı sarma ve katlamadır; ayetin anlattığı şey gece ile gündüzün birbirinin yerini kesintisiz alışıdır.** Buradan modern bir kozmoloji tarifi üretmek, metnin söylemediğini söyletmek olur.
 
 ### فِى ظُلُمَٰتٍ ثَلَٰثٍ
 
@@ -89,7 +89,7 @@
 
 **Ayetin kendi verdiği şey şudur ve o kadarını kaydediyorum:** oluşum **görülmeyen** bir yerde, **aşamalı** olarak gerçekleşiyor — *halkan min ba'di halk.*
 
-**`040-gafir.md` 40/67'de aynı aşamalı oluşum altı basamakla anlatılmıştı** ve orada USLUP sınırı çizilmişti: **bu ifadelerin modern embriyoloji terimleriyle birebir eşitlenmesine girilmez.** Aynı sınırı burada da koruyorum.
+**`040-gafir.md` 40/67'de aynı aşamalı oluşum altı basamakla anlatılmıştı** ve orada STYLE sınırı çizilmişti: **bu ifadelerin modern embriyoloji terimleriyle birebir eşitlenmesine girilmez.** Aynı sınırı burada da koruyorum.
 
 **Delilin işleyişi ise açıktır:** insanın en temel oluşumu, kendi gözünden saklı bir yerde tamamlanıyor. **`056-vakia.md` 56/58-59'da işlenen çizginin aynısı: insanın payı ile sonucun ayrılması.**
 
@@ -634,7 +634,7 @@
 
 **وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا** — **ش-ر-ق** kökü: doğmak, ışığın yayılması (*şark*, *işrâk* aynı kökten).
 
-**USLUP gereği bir kayıt:** bu ifade, Allah'a cismanî bir ışık nispet edecek şekilde anlaşılamaz. **Klasik tefsirlerde *nûr* kelimesinin burada adaletin ya da hükmün açığa çıkması anlamında yorumlandığı nakledilir; lafzı olduğu gibi kabul edip keyfiyetini bırakma tavrı da nakledilir.** İkisini de aktarıyorum, tercih dayatmıyorum.
+**STYLE gereği bir kayıt:** bu ifade, Allah'a cismanî bir ışık nispet edecek şekilde anlaşılamaz. **Klasik tefsirlerde *nûr* kelimesinin burada adaletin ya da hükmün açığa çıkması anlamında yorumlandığı nakledilir; lafzı olduğu gibi kabul edip keyfiyetini bırakma tavrı da nakledilir.** İkisini de aktarıyorum, tercih dayatmıyorum.
 
 **وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ** — *tevfiye*: **eksiksiz ödemek.** Kök **و-ف-ي** — **kırk ikinci ayetteki *yeteveffe'l-enfüs* (canları tam olarak almak) ile aynı kök.**
 

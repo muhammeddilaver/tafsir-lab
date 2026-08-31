@@ -130,7 +130,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 ### مِثْقَالُ ذَرَّةٍ — kelimenin o günkü karşılığı
 
-**USLUP gereği burada bir sınır konulması gerekiyor ve açıkça koyuyorum: bu kelimeden modern fizikteki atom çıkarılmaz.** Kelimenin Kur'an'ın indiği dildeki karşılığı bellidir ve dilcilerin verdiği karşılıklar şunlardır:
+**STYLE gereği burada bir sınır konulması gerekiyor ve açıkça koyuyorum: bu kelimeden modern fizikteki atom çıkarılmaz.** Kelimenin Kur'an'ın indiği dildeki karşılığı bellidir ve dilcilerin verdiği karşılıklar şunlardır:
 
 | Verilen karşılık | Açıklama |
 |---|---|
@@ -228,7 +228,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **أُوتُوا۟ ٱلْعِلْمَ** — fiil meçhuldür: **"kendilerine ilim verilenler".** Yani ilim, kazanılan bir şey olarak değil, **verilen bir şey** olarak anılıyor. `035-fatir.md` 35/28'de (*innemâ yahşallâhe min ıbâdihi'l-ulemâ*) bilenlerle haşyet arasındaki bağ işlenmişti; **oraya dayanıyorum ve buradaki farkı kaydediyorum:** Fâtır'da bilenler **korkuyordu**, burada **görüyorlar.**
 
-**Ve ayette kimin kastedildiğine dair daraltıcı bir hüküm kurmuyorum.** USLUP gereği: ayetin tarif ettiği bir **vasıftır** — ilim verilmiş olmak — ve kim o vasfı taşırsa ona dahildir.
+**Ve ayette kimin kastedildiğine dair daraltıcı bir hüküm kurmuyorum.** STYLE gereği: ayetin tarif ettiği bir **vasıftır** — ilim verilmiş olmak — ve kim o vasfı taşırsa ona dahildir.
 
 **صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ** — ve yolun sahibi iki isimle anılıyor. **İkincisi kaydedilmelidir: *el-hamîd*.** **Sûre birinci ayette hamd ile açılmıştı; altıncı ayette hamd kökü bir isim olarak geri dönüyor.** Bu, sûre içinde doğrulanabilir bir bağdır.
 
@@ -520,7 +520,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Ve cümlenin yeri kaydedilmelidir:** ayet, Süleymân'a verilen imkânları sayarken **araya bir ceza kaydı** koyuyor. **Yani verilen şey sınırsız bir tasarruf olarak sunulmuyor;** çalışanların bağlı olduğu emir de aynı cümlede anılıyor.
 
-**Cinler hakkında USLUP gereği bir kayıt:** `072-cin.md`'de görünmeyen varlıklar hakkında metnin bildirdiğinin ötesine geçilmeyeceği sınırı konulmuştu. **Oraya dayanıyorum.** Ayetin söylediği şudur: çalışıyorlardı, **izinle** çalışıyorlardı, ve emirden sapanın karşılığı vardı.
+**Cinler hakkında STYLE gereği bir kayıt:** `072-cin.md`'de görünmeyen varlıklar hakkında metnin bildirdiğinin ötesine geçilmeyeceği sınırı konulmuştu. **Oraya dayanıyorum.** Ayetin söylediği şudur: çalışıyorlardı, **izinle** çalışıyorlardı, ve emirden sapanın karşılığı vardı.
 
 ---
 
@@ -583,7 +583,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **تَمَٰثِيل** — *timsâl*in çoğulu; kök **م-ث-ل**: **benzemek, bir şeyin benzerini yapmak.** Yani kelime "heykel"den daha geniştir: **bir şeyin sûretini/benzerini çıkarmak.**
 
-**Bu kelimenin fıkhî tartışması vardır ve USLUP gereği fıkhî hüküm vermiyorum.** Kaydedilecek olan şudur: **ayet bu yapıların Süleymân için yapıldığını bildiriyor; onaylayıcı ya da yasaklayıcı bir hüküm cümlesi kurmuyor.** Klasik tefsirlerde bu meselede farklı görüşler nakledilir; **aktarmakla yetiniyorum.**
+**Bu kelimenin fıkhî tartışması vardır ve STYLE gereği fıkhî hüküm vermiyorum.** Kaydedilecek olan şudur: **ayet bu yapıların Süleymân için yapıldığını bildiriyor; onaylayıcı ya da yasaklayıcı bir hüküm cümlesi kurmuyor.** Klasik tefsirlerde bu meselede farklı görüşler nakledilir; **aktarmakla yetiniyorum.**
 
 **جِفَانٍ كَٱلْجَوَابِ** — *cifân*, *cefne*nin çoğulu: **büyük çanak, tekne.** *Cevâb* ise *câbiye*nin çoğulu: **su biriktirilen havuz, sarnıç.** **Yani "havuz gibi çanaklar".**
 
@@ -601,7 +601,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 ### Ayetin kendi verdiği sonuç
 
-**Bu kıssa etrafında pek çok ayrıntı nakledilir: ne kadar süre öyle kaldığı, kurdun asayı ne zaman kemirdiği, cinlerin ne yaptığı.** **USLUP gereği bu ayrıntılara girmiyorum; ayette olmayanı ayete eklemiyorum.**
+**Bu kıssa etrafında pek çok ayrıntı nakledilir: ne kadar süre öyle kaldığı, kurdun asayı ne zaman kemirdiği, cinlerin ne yaptığı.** **STYLE gereği bu ayrıntılara girmiyorum; ayette olmayanı ayete eklemiyorum.**
 
 **Ayetin kendisi bir sonuç bildiriyor ve bütün ağırlık orada:** *en lev kânû ya'lemûne'l-ğaybe mâ lebisû fi'l-azâbi'l-mühîn* — **"gaybı bilselerdi o alçaltıcı azap içinde kalmazlardı."**
 
@@ -1739,7 +1739,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ** — ve düzeltme geliyor: asıl uyulan başkasıydı.
 
-**Cinler hakkında USLUP gereği sınır burada da geçerlidir: `072-cin.md`'de konulan ölçüye dayanıyorum** — metnin bildirdiğinin ötesinde tasvir üretilmez. **Ayetin söylediği şudur: bağlılığın yönü, tapanın sandığı yer değildi.**
+**Cinler hakkında STYLE gereği sınır burada da geçerlidir: `072-cin.md`'de konulan ölçüye dayanıyorum** — metnin bildirdiğinin ötesinde tasvir üretilmez. **Ayetin söylediği şudur: bağlılığın yönü, tapanın sandığı yer değildi.**
 
 **Ve *ekseruhüm bihim mü'minûn* cümlesi kaydedilmelidir: "çoğu onlara *inanmıştı*".** **Fiil *îmân* fiilidir** — ve burada olumlu bir anlamda değil, **bağlanma** anlamında kullanılıyor. Yani kelime, yönü belirtilmemiş bir güven bildiriyor.
 
@@ -2264,7 +2264,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Kelimenin çevirisi kaydedilmelidir: "benzerleri" ya da "aynı yolu tutanlar".** **Yani kastedilen bir soy ya da millet değil — *aynı tavrı paylaşanlar*.**
 
-**USLUP gereği bir kayıt:** ayetin tarif ettiği şey bir **vasıf**tır. Belirli bir topluluk hakkında toptan hüküm kurulmuyor; **kim o vasfı taşırsa ona dahildir.**
+**STYLE gereği bir kayıt:** ayetin tarif ettiği şey bir **vasıf**tır. Belirli bir topluluk hakkında toptan hüküm kurulmuyor; **kim o vasfı taşırsa ona dahildir.**
 
 **Ve cümle, sünnet fikrini bir kez daha kuruyor: *kemâ fuıle … min kabl* — "önce yapıldığı gibi".** **`040-gafir.md` 40/85'te *sünnetallâhi'lletî kad halet fî ıbâdih* ayrıntılı işlendi** ve **`035-fatir.md` 35/43'te (*fe-len tecide li-sünnetillâhi tebdîlâ*) aynı kavram işlendi.** **Oraya dayanıyorum.**
 

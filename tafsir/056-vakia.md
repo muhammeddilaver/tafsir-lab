@@ -1251,7 +1251,7 @@ Kelime *havrâ*'nın (müennes) ya da *ahver*in (müzekker) çoğuludur. **Kalı
 
 ### Kıraat farkı — ve anlamı değiştiriyor
 
-Bu ayette anlamı değiştiren bir kıraat farkı vardır ve **USLUP gereği kaydedilmelidir.** İki okuyuş nakledilir:
+Bu ayette anlamı değiştiren bir kıraat farkı vardır ve **STYLE gereği kaydedilmelidir.** İki okuyuş nakledilir:
 
 | Okuyuş | İ'râb | Cümledeki yeri | Doğan anlam |
 |---|---|---|---|
@@ -1806,7 +1806,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum. **Çerçeveleme, ikinci tablonun bi
 
 ### Bir kayıt: bu tasvirlerin dili üzerine
 
-**USLUP gereği burada bir şeyi açıkça yazmam gerekiyor, çünkü söylenmediğinde metin yanlış anlaşılıyor.**
+**STYLE gereği burada bir şeyi açıkça yazmam gerekiyor, çünkü söylenmediğinde metin yanlış anlaşılıyor.**
 
 **Birincisi — muhatap meselesi.** Bu ayetler, çölde yaşayan, susuzluğu ve yoksunluğu gündelik hayatın parçası olan bir topluluğa inmiştir. Gölge, akan su, kesilmeyen meyve, yükseltilmiş döşek: **hepsi o hayatta gerçekten eksik olan şeylerdir.** Tasvirin bu malzemeden kurulması, muhatabın anlayabileceği dilden konuşulmasıdır. Bunu söylemek tasviri küçültmez; **kime söylendiğini hesaba katmak, tefsirin işidir.**
 
@@ -2324,7 +2324,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 **Bugünün bilgisiyle bakıldığında ayetin çektiği çizgi somut bir karşılık buluyor:** insanın iradesiyle yaptığı şey ile hücrenin bölünmesi, tutunması ve gelişmesi arasındaki fark, bugün çok daha ayrıntılı olarak bilinmektedir.
 
-**Ama bunu bir "mucize" iddiası olarak sunmuyorum ve USLUP gereği sınırını açıkça çiziyorum:** ayet bir embriyoloji tarifi vermiyor, **bir sorumluluk sorusu soruyor.** Muhatabı olan yedinci yüzyıl insanının da bu soruyu anlaması için hücre bilgisine ihtiyacı yoktu — **kendi çocuğunun oluşumuna karışamadığını zaten biliyordu.**
+**Ama bunu bir "mucize" iddiası olarak sunmuyorum ve STYLE gereği sınırını açıkça çiziyorum:** ayet bir embriyoloji tarifi vermiyor, **bir sorumluluk sorusu soruyor.** Muhatabı olan yedinci yüzyıl insanının da bu soruyu anlaması için hücre bilgisine ihtiyacı yoktu — **kendi çocuğunun oluşumuna karışamadığını zaten biliyordu.**
 
 **Yani ayetin delili, bilinmeyen bir bilgiye değil, herkesin bildiği bir acizliğe dayanıyor. Bugünün bilgisi bu acizliğin ayrıntısını çoğaltıyor, delilin kendisini değiştirmiyor.**
 
@@ -2664,7 +2664,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 **Ve söylediği şey açıktır:** yeminin büyüklüğü, yemin edilen şeyin bilinmesine bağlı. **Yıldızların yerlerinin ne demek olduğu bilinseydi, yeminin ağırlığı anlaşılırdı.**
 
-**Bunu bir gözlem olarak kaydediyorum ve sınırını da çiziyorum:** ayet, muhatabın bilgisinin eksik olduğunu söylüyor. **Buradan "modern astronomi kastedilmiştir" gibi bir sonuç çıkarmıyorum** — USLUP gereği böyle bir iddia dayanaksızdır. Ayetin söylediği, bilginin eksikliğidir; **hangi bilgi olduğunu belirtmemiştir.**
+**Bunu bir gözlem olarak kaydediyorum ve sınırını da çiziyorum:** ayet, muhatabın bilgisinin eksik olduğunu söylüyor. **Buradan "modern astronomi kastedilmiştir" gibi bir sonuç çıkarmıyorum** — STYLE gereği böyle bir iddia dayanaksızdır. Ayetin söylediği, bilginin eksikliğidir; **hangi bilgi olduğunu belirtmemiştir.**
 
 ### إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ — ve reddedilmiş sıfatın dönüşü
 
@@ -2719,7 +2719,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 ***Mutahherûn* kalıbı bir karine sayılır ve kaydedilmelidir:** kelime **ism-i mef'ûl**dür (temizlenmiş), *mütetahhirûn* (kendini temizleyen) değil. **Yani temizlik kendilerinden değil, kendilerine yapılmış görünüyor.** Birinci görüşü savunanlar bu kalıba dayanır.
 
-**Tercih dayatmıyorum ve USLUP gereği fıkhî hüküm vermiyorum.** Mushafa abdestsiz dokunma meselesi bir fıkıh tartışmasıdır; **mezheplerin bu konudaki görüşleri farklıdır ve bu ayetin o tartışmadaki yeri de ihtilaflıdır.** Burada aktarılan, ayetin dil ve tefsir yönüdür.
+**Tercih dayatmıyorum ve STYLE gereği fıkhî hüküm vermiyorum.** Mushafa abdestsiz dokunma meselesi bir fıkıh tartışmasıdır; **mezheplerin bu konudaki görüşleri farklıdır ve bu ayetin o tartışmadaki yeri de ihtilaflıdır.** Burada aktarılan, ayetin dil ve tefsir yönüdür.
 
 ### تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِين — dört ayetin dizimi
 
@@ -3057,7 +3057,7 @@ Zamir müennes: *terciûne**hâ*** — yani seksen üçüncü ayette adı söyle
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar
 
-**USLUP gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
+**STYLE gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
 
 | Ayet | İhtilaf |
 |---|---|

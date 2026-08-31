@@ -89,7 +89,7 @@ Sûrenin Medenî olduğunda ihtilaf yoktur. Metnin içindeki karineler bunu zate
 
 ## Bir usul kaydı: bu sûre nasıl okunmayacak
 
-USLUP gereği, bu sûreye girmeden önce iki sınır çizmek zorundayım. Bunlar okumayı baştan sona etkileyecek.
+STYLE gereği, bu sûreye girmeden önce iki sınır çizmek zorundayım. Bunlar okumayı baştan sona etkileyecek.
 
 **Bir. Bu sûre bir savaş hukuku metni değildir ve bu tefsirde ondan fıkhî hüküm çıkarılmayacaktır.** Dördüncü ayet, klasik fıkıhta esirler bahsinin en çok tartışılan metinlerinden biridir; o tartışmayı **ihtilaf tablosu hâlinde aktaracağım** ve hiçbir görüşü tercih etmeyeceğim. Bu tefsirin işi, metnin ne dediğini göstermektir; ne yapılacağını söylemek değildir.
 
@@ -401,7 +401,7 @@ Bir hüküm verildiğinde iki şey yapılabilir: hüküm verilip bırakılır, y
 
 **Bu, sûrenin okunma biçimini belirler.** Bu sûre sert cümleler taşır; ama sert cümlelerinin hiçbiri gerekçesiz bırakılmamıştır. Bir hükmü bağlamından koparıp almak, gerekçesinden de koparmak demektir — ve gerekçe, hükmün kime uygulanacağını belirleyen şeydir.
 
-**USLUP açısından bu doğrudan bir sonuç verir:** ayetler bir gruba değil, gerekçede sayılan **vasıflara** hüküm kuruyor. Üçüncü ayetin gerekçesi "inkâr edenler" değil; **"bâtıla uymuş olmaları"**dır. Vasıf değişirse hüküm de değişir — nitekim sûre bunu 47/34'te açıkça şarta bağlayacak: *"sonra kâfir olarak ölürlerse"*.
+**STYLE açısından bu doğrudan bir sonuç verir:** ayetler bir gruba değil, gerekçede sayılan **vasıflara** hüküm kuruyor. Üçüncü ayetin gerekçesi "inkâr edenler" değil; **"bâtıla uymuş olmaları"**dır. Vasıf değişirse hüküm de değişir — nitekim sûre bunu 47/34'te açıkça şarta bağlayacak: *"sonra kâfir olarak ölürlerse"*.
 
 ### ٱتَّبَعُوا۟ — iftiâl babı
 
@@ -473,7 +473,7 @@ Ve **م-ث-ل** kökü sûrede üç kez geçecek: burada (3), 47/10'da (*ve li'l
 
 ---
 
-**Bu ayet, sûrenin ve belki Kur'an'ın en çok bağlamından koparılan ayetlerinden biridir. USLUP gereği burada dört şeyi sırasıyla yapacağım:**
+**Bu ayet, sûrenin ve belki Kur'an'ın en çok bağlamından koparılan ayetlerinden biridir. STYLE gereği burada dört şeyi sırasıyla yapacağım:**
 
 1. Cümlenin **nasıl kurulduğunu** göstereceğim — çünkü cümlenin kuruluşu, kapsamını belirliyor.
 2. Kelimelerin köklerini tahlil edeceğim.
@@ -796,7 +796,7 @@ Nahivciler bunu birkaç şekilde çözer: mahzûf bir mübtedanın haberi (*el-e
 | **3** | **Muhammed 47/4 neshedilmiştir**; sonradan gelen ayetlerle hüküm değişmiştir. | Nüzul sırasına dair başka nakillere dayanır. |
 | **4** | **Nesih yoktur; hüküm devlet başkanının/komutanın takdirine bırakılmıştır** (tahyîr). Ayetin *immâ… ve immâ* kalıbı zaten bir seçim kalıbıdır. | Kalıbın kendisi tahyîr bildirir. |
 
-**Bu tefsirde tercih yapmıyorum ve fıkhî hüküm vermiyorum.** USLUP gereği mezhep görüşleri aktarılır, hüküm verilmez; ve nüzul sıralarına dair nakiller arasında tercih yapacak sağlam bir ölçü elimde yoktur.
+**Bu tefsirde tercih yapmıyorum ve fıkhî hüküm vermiyorum.** STYLE gereği mezhep görüşleri aktarılır, hüküm verilmez; ve nüzul sıralarına dair nakiller arasında tercih yapacak sağlam bir ölçü elimde yoktur.
 
 **Kaydedilecek olan şudur:** tartışmanın kendisi, ayetin **tek başına ve kesin bir genel hüküm** olarak okunmadığını gösteriyor. Klasik tefsir geleneği bu ayeti daima **başka ayetlerle birlikte** ele almıştır. Ayeti tek başına alıp genel bir hüküm gibi sunmak, bu geleneğin yaptığının tam tersidir.
 
@@ -1407,7 +1407,7 @@ Ve ayet bunu, bir eksiltme yoluyla söylüyor: cümlede insanın yemesine eklene
 
 **Yani benzetme bir aşağılama değil, bir *ölçüm*dür:** insanın hayatının kapladığı alan ölçülüyor ve çıkan sonuç, hayvanın hayatının kapladığı alanla aynı bulunuyor.
 
-**Ve bu ölçümün kime uygulanacağını ayet açıkça söylüyor: *ellezîne keferû*.** USLUP gereği: bu bir kimlik değil, bir **vasıf**tır. Kim o vasfı taşıyorsa ona dahildir — ve vasıf, "yalnız bu kadarıyla yetinmek"tir.
+**Ve bu ölçümün kime uygulanacağını ayet açıkça söylüyor: *ellezîne keferû*.** STYLE gereği: bu bir kimlik değil, bir **vasıf**tır. Kim o vasfı taşıyorsa ona dahildir — ve vasıf, "yalnız bu kadarıyla yetinmek"tir.
 
 **Bu okumayı metnin lafzına dayandırıyorum** (*kemâ te'külü* — fiile bağlanan benzetme edatı); buradan çıkardığım "ölçüm" yorumu benim çıkarımımdır.
 
@@ -1490,7 +1490,7 @@ Peygamber'e hitap ediliyor ve şehir hâlâ **ona nispet ediliyor**: *karyetike*
 
 **Bunu kesinlik iddiasıyla sunmuyorum.** Ayetin lafzı bir zaman bildirmez; *ahracetke* (seni çıkardı) mâzî kiptir ve çıkışın olmuş olduğunu gösterir, ama ne zaman olduğunu söylemez.
 
-**Ve şu kayıt USLUP gereği gereklidir:** "seni çıkaran şehir" ifadesi, bir şehir ya da bir topluluk hakkında toptan bir hüküm değildir. Ayetin verdiği hüküm, o şehir hakkında bile değildir — cümle, **başka şehirlerin** helâk edildiğini söylüyor ve karşılaştırma yapıyor.
+**Ve şu kayıt STYLE gereği gereklidir:** "seni çıkaran şehir" ifadesi, bir şehir ya da bir topluluk hakkında toptan bir hüküm değildir. Ayetin verdiği hüküm, o şehir hakkında bile değildir — cümle, **başka şehirlerin** helâk edildiğini söylüyor ve karşılaştırma yapıyor.
 
 Nitekim Kur'an, aynı şehir hakkında bambaşka bir dille de konuşur: Beled sûresi *"Bu şehre yemin ederim"* diye açılır (90/1) ve `090-beled.md`'de o yeminin dizimi işlendi. Aynı yer, iki ayrı sûrede iki ayrı yüzüyle anılıyor.
 
@@ -2211,7 +2211,7 @@ Yani: *hedâhu fe'htedâ* — "ona yol gösterdi, o da yola girdi". Fiil, dışa
 
 **Ve burada bir usul kaydı gerekiyor:** **ayet alâmetlerin ne olduğunu söylemiyor.** Sayı vermiyor, liste vermiyor, tarif vermiyor.
 
-**Klasik tefsirlerde bu alâmetler üzerine geniş bir literatür vardır ve bu tefsirde o literatüre girmiyorum.** Sebebi USLUP'tur: emin olmadığım rivayetleri nakletmiyorum, ve kıyamet alâmetleri konusu, bu tefsirin yönteminin kaldıramayacağı kadar çok tartışmalı nakil içerir.
+**Klasik tefsirlerde bu alâmetler üzerine geniş bir literatür vardır ve bu tefsirde o literatüre girmiyorum.** Sebebi STYLE'dır: emin olmadığım rivayetleri nakletmiyorum, ve kıyamet alâmetleri konusu, bu tefsirin yönteminin kaldıramayacağı kadar çok tartışmalı nakil içerir.
 
 **Kaydedeceğim tek şey, klasik tefsirlerde yaygın olarak nakledilen bir izahtır:** Peygamber'in gönderilmiş olmasının kendisi, alâmetlerden sayılır. **Bunu bir görüş olarak aktarıyorum; ayetin lafzında böyle bir belirleme yoktur.**
 
@@ -2812,7 +2812,7 @@ Aynı kökten **لَعِين** (*laîn* — kovulmuş) ve **مَلْعُون**.
 
 **Ve bu, kaçınılmaz bir soru doğurur:** eğer sağır eden ve kör eden Allah ise, sorumluluk kime aittir?
 
-**Bu, kelâmın en eski tartışmalarından biridir ve bu tefsirde o tartışmaya girmiyorum.** Sebebi USLUP'tur: mezhep görüşleri aktarılabilir ama tercih edilemez, ve bu meselede aktarma bile ancak uzun bir bağlamla dürüst olur.
+**Bu, kelâmın en eski tartışmalarından biridir ve bu tefsirde o tartışmaya girmiyorum.** Sebebi STYLE'dır: mezhep görüşleri aktarılabilir ama tercih edilemez, ve bu meselede aktarma bile ancak uzun bir bağlamla dürüst olur.
 
 **Kaydedeceğim tek şey metinde durandır:**
 
@@ -2986,7 +2986,7 @@ Ayet **ٱلْقُلُوب** (el-kulûb — "kalpler", belirli) demiyor. **قُل
 
 **Ve bunun anlamı şudur: hüküm bütün kalplere değil, bir kısmına konuyor.** Ayet "insanların kalpleri kilitlidir" demiyor.
 
-**Bu, USLUP açısından doğrudan bir sonuç verir:** ayet bir topluluğa toptan hüküm kurmuyor. Nekrelik, kapsamı daraltıyor.
+**Bu, STYLE açısından doğrudan bir sonuç verir:** ayet bir topluluğa toptan hüküm kurmuyor. Nekrelik, kapsamı daraltıyor.
 
 **İkinci nokta: *akfâl* zamirle marife.**
 
@@ -3107,7 +3107,7 @@ Ayetin fiili **üçüncü çoğul şahıstır:** *yetedebberûne* — "onlar ted
 
 **İki ayette aynı cümle.** Ve ikisi de aynı işi görüyor: hükmün kapsamını, **bilgi sahibi olduktan sonra** yapılan bir fiile daraltıyor.
 
-**Bu, USLUP açısından kaydedilmesi gereken bir sınırdır:** ayet, bilmeyene hüküm kurmuyor.
+**Bu, STYLE açısından kaydedilmesi gereken bir sınırdır:** ayet, bilmeyene hüküm kurmuyor.
 
 ### سَوَّلَ — س-و-ل kökü
 
@@ -3664,7 +3664,7 @@ Bir kişi tamamen doğru cümleler kurabilir. Söylediği her şey yerinde olabi
 
 ### وَٱللَّهُ يَعْلَمُ أَعْمَٰلَكُمْ — ve ayetin kendi koyduğu sınır
 
-**Ve şimdi bu ayetin en önemli kaydına geliyoruz. USLUP gereği bunu ayrıca ve açıkça yazmam gerekiyor.**
+**Ve şimdi bu ayetin en önemli kaydına geliyoruz. STYLE gereği bunu ayrıca ve açıkça yazmam gerekiyor.**
 
 **Bu ayet, insanlara "birbirinizin niyetini okuyun" demiyor. Ve bunu ayetin kendisi üç yolla kapatıyor.**
 
@@ -4052,7 +4052,7 @@ Bakara 2/264, hangi davranışın ameli iptal ettiğini açıkça yazar: minnet 
 
 ### ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ — ayetin merkezindeki şart
 
-**Ve bu, ayetin en önemli kaydıdır ve USLUP gereği açıkça yazılması gerekiyor.**
+**Ve bu, ayetin en önemli kaydıdır ve STYLE gereği açıkça yazılması gerekiyor.**
 
 **ثُمَّ** — tertip ve **terâhî** (aralık) bildiren atıf harfi: "sonra", ve arada bir süre geçtiğini gösterir. *Fâ* gibi hemen ardından gelmeyi değil, **aradan zaman geçtikten sonra**yı bildirir.
 
@@ -4076,7 +4076,7 @@ Bakara 2/264, hangi davranışın ameli iptal ettiğini açıkça yazar: minnet 
 
 **Bu üç sonuç ayetin lafzından çıkar.** Hiçbiri bir yorum değildir; *sümme* ve hâl cümlesinin gramer işlevinden gelir.
 
-**Ve USLUP'un ilgili maddesi burada tam olarak işliyor:**
+**Ve STYLE'ın ilgili maddesi burada tam olarak işliyor:**
 
 > "Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği **vasıflardır**, kim o vasfı taşırsa ona dahildir."
 
@@ -4111,7 +4111,7 @@ Bakara 2/264, hangi davranışın ameli iptal ettiğini açıkça yazar: minnet 
 
 ---
 
-**Bu ayet dikkatle işlenecek. USLUP gereği burada da bir sınır çizmem gerekiyor ve sınırı ayetin kendi lafzından ve Kur'an'ın kendisinden çıkaracağım.**
+**Bu ayet dikkatle işlenecek. STYLE gereği burada da bir sınır çizmem gerekiyor ve sınırı ayetin kendi lafzından ve Kur'an'ın kendisinden çıkaracağım.**
 
 ### وَهَنَ — و-ه-ن kökü
 
@@ -4492,7 +4492,7 @@ Kökün anlamı: **elde olanı vermekten kaçınmak, tutmak.** Ve dilciler *buhl
 
 **Yani sûre, teşhisi dışarıdan içeriye taşıyor.**
 
-**Ve bunun USLUP açısından önemi büyüktür:** bir metin, başkaları hakkında ağır bir teşhis koyup muhatabını dışarıda bırakırsa, muhatap o teşhisi bir silah olarak kullanır. Bu sûre bunu yapmıyor. Aynı kelimeyi muhatabının üzerine de kullanıyor.
+**Ve bunun STYLE açısından önemi büyüktür:** bir metin, başkaları hakkında ağır bir teşhis koyup muhatabını dışarıda bırakırsa, muhatap o teşhisi bir silah olarak kullanır. Bu sûre bunu yapmıyor. Aynı kelimeyi muhatabının üzerine de kullanıyor.
 
 **Ve dikkat: 37. ayette bir *şart* var.** *İn yes'elküm* — "eğer istese". Yani kinlerin varlığı iddia edilmiyor; **ortaya çıkma ihtimali** anlatılıyor.
 
@@ -4574,7 +4574,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 ### فَمِنكُم مَّن يَبْخَلُ — oranın kaydı
 
-**Ve bu cümlenin diziminde, USLUP açısından kaydedilmesi gereken bir ölçü var.**
+**Ve bu cümlenin diziminde, STYLE açısından kaydedilmesi gereken bir ölçü var.**
 
 **Cümle: مِنكُم مَّن يَبْخَلُ — "içinizden bazısı cimrilik ediyor."**
 
@@ -4591,7 +4591,7 @@ Bir yükümlülük, taşınabilir olmaktan çıktığında, taşımaya çalışa
 
 **Ve bu, sûrenin bütününde tekrarlanan bir yöntemdir:** 24. ayette *kulûbin* nekre gelmişti ("bazı kalpler"), burada *minküm* teb'îz bildiriyor ("içinizden bazısı").
 
-**İki yerde de kapsam daraltılıyor.** Bunu bir dizim gözlemi olarak kaydediyorum ve USLUP açısından önemli buluyorum.
+**İki yerde de kapsam daraltılıyor.** Bunu bir dizim gözlemi olarak kaydediyorum ve STYLE açısından önemli buluyorum.
 
 ### يَبْخَلُ عَن نَّفْسِهِۦ — harfin seçimi
 
@@ -4767,7 +4767,7 @@ Bu tefsirin başında kurduğum tablo, sûre boyunca izlendi ve tamamlandı:
 | **أَعْمَال** | 1, 8, 9, 28, 32 | 33, 35 |
 | **أَضْغَان** | 29 | 37 |
 
-**Bu, sûrenin yöntemidir ve USLUP açısından belirleyicidir:** metin, ağır teşhisleri muhatabın dışında bırakmıyor.
+**Bu, sûrenin yöntemidir ve STYLE açısından belirleyicidir:** metin, ağır teşhisleri muhatabın dışında bırakmıyor.
 
 ### Üç. Somut resimlerin dili
 
@@ -4816,7 +4816,7 @@ Bu tefsirin başında kurduğum tablo, sûre boyunca izlendi ve tamamlandı:
 
 - **47/5 — *arrafehâ lehüm*.** Üç okuma (tanıtma / güzel koku / sınır belirleme) tablo hâlinde verildi, tercih yapılmadı; üçünü "yabancılığın kalkması" başlığı altında birleştirme denemesi **kendi okumamdır.**
 
-- **47/12 — hayvan benzetmesi.** Benzetmenin faile değil fiile bağlandığı gramer verisidir; buradan çıkarılan "ölçüm" yorumu **kendi çıkarımımdır.** Ve ayetin bir kimliğe değil bir vasfa hüküm kurduğu USLUP gereği ayrıca kaydedildi.
+- **47/12 — hayvan benzetmesi.** Benzetmenin faile değil fiile bağlandığı gramer verisidir; buradan çıkarılan "ölçüm" yorumu **kendi çıkarımımdır.** Ve ayetin bir kimliğe değil bir vasfa hüküm kurduğu STYLE gereği ayrıca kaydedildi.
 
 - **47/15 — cennet tasvirlerinin dili.** Lafzî/temsilî tartışması `056-vakia.md`'ye havale edildi ve orada da tercih yapılmamıştı. *Mesel* kelimesinin anlamı (sıfat/temsil) tablo hâlinde verildi, tercih yapılmadı.
 
@@ -4864,7 +4864,7 @@ Bu tefsirin başında kurduğum tablo, sûre boyunca izlendi ve tamamlandı:
 
 - **47/33 — *etîû* fiilinin tekrarı.** Üç izah verildi; **fıkıh usûlü tartışmasına girilmedi ve tercih yapılmadı.**
 
-- **47/34 — hükmün ölüm anına bağlı olduğu.** Bu, *sümme* harfinin ve hâl cümlesinin gramer işlevinden çıkar ve bir yorum değildir. Ve buradan çıkan üç sonuç (yaşayan hakkında hüküm verilemeyeceği dahil) USLUP gereği açıkça yazıldı.
+- **47/34 — hükmün ölüm anına bağlı olduğu.** Bu, *sümme* harfinin ve hâl cümlesinin gramer işlevinden çıkar ve bir yorum değildir. Ve buradan çıkan üç sonuç (yaşayan hakkında hüküm verilemeyeceği dahil) STYLE gereği açıkça yazıldı.
 
 - **47/35 — *ve ted'û*'nun i'râbı.** İki çözüm (meczûm atıf / mansûb maiyye) tablolandı ve **tercih yapılmadı.**
 

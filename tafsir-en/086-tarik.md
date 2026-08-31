@@ -473,7 +473,7 @@ For about a century this verse has stood at the centre of the claim that "the Qu
 
 **Fourth — and most important of all — the argument does not need it.** The flow of the sūra is this: *look at what you were created from (5) → from a water (6) → coming out of such a region (7) → therefore He is able to bring you back (8).* The seventh verse is the qualification of the sixth; it is not a proof but a description. What serves as proof is **the plainness of the water**, not the coordinates of the place it came out of.
 
-The rule laid down in the method of this commentary (`USLUP.md`) is applied here exactly: no modern information is forced onto a verse; a connection is drawn only where one really exists. The connection that really exists here is this, and it is enough: **man's material origin is out of all proportion to the greatness he claims.** This is an observation that both that day and this one can verify.
+The rule laid down in the method of this commentary (`STYLE.md`) is applied here exactly: no modern information is forced onto a verse; a connection is drawn only where one really exists. The connection that really exists here is this, and it is enough: **man's material origin is out of all proportion to the greatness he claims.** This is an observation that both that day and this one can verify.
 
 ---
 
@@ -1118,7 +1118,7 @@ What this says to the one addressed is: what looks long by your measure is short
 
 **Root: ك-ف-ر.** This root was treated at al-Baqara 2/6 on the occasion of *kufr*; what was recorded there was this: the concrete sense of the root is **to cover** — because the sower covers the seed with soil, he is called *kāfir* in Arabic.
 
-The one point that belongs here must be recorded per the method (`USLUP.md`): **the word states an attribute; it is not the name of a group.** What the verse describes is an attitude that lays plots and counts the word a joke; whoever carries that attitude falls under the description. In this commentary no blanket ruling is issued about an ethnic or religious group.
+The one point that belongs here must be recorded per the method (`STYLE.md`): **the word states an attribute; it is not the name of a group.** What the verse describes is an attitude that lays plots and counts the word a joke; whoever carries that attitude falls under the description. In this commentary no blanket ruling is issued about an ethnic or religious group.
 
 ---
 
@@ -1230,7 +1230,7 @@ The work the verse does is not to explain but **to make looking possible again.*
 - The two variant readings in verse 4 (*lammā* / *lamā*) were recorded; **because I could not state with certainty which imam of the variant readings preferred which, no names were written.**
 - Who the *ḥāfiẓ* is (angels / God) is disputed; the views were given and no preference was stated.
 - To whom the *ṣulb* and the *tarāʾib* of verse 7 belong is disputed in the classical works of exegesis; three views were given in a table and **no preference is adopted.** The ground was explained in the text.
-- **The modern embryological claims about verse 7 were rejected.** This does not mean that the verse contradicts modern science; it means that the verse makes no such claim and that the classical readings do not run in that direction. The ban on hunting for scientific miracles in the method (`USLUP.md`) was applied here exactly.
+- **The modern embryological claims about verse 7 were rejected.** This does not mean that the verse contradicts modern science; it means that the verse makes no such claim and that the classical readings do not run in that direction. The ban on hunting for scientific miracles in the method (`STYLE.md`) was applied here exactly.
 - The "pulsar" claim about verse 3 was rejected on the same ground.
 - The referent of the pronoun in *rajʿihī* in verse 8 is disputed; a preference was made on the ground of context and **it was stated that it is not binding.**
 - What the *rajʿ* of verse 11 is (rain / the return of the heavenly bodies / the water cycle) is disputed; the majority's preference was given together with its ground, and no certainty was claimed.

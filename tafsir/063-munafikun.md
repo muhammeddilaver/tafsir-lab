@@ -518,7 +518,7 @@ Bunun sebebi ayetin kendisinde değil ama sûrenin bütününde var: birinci aye
 
 Ve korunması gereken bir sırrı olan herkes, aynı hesabı yapar: *"Acaba anlaşıldı mı?"* Bu soru bir kez zihne yerleştiğinde, her uyarana uygulanır. Bir bakış, bir sessizlik, bir kapı sesi, bir toplantı çağrısı — hepsi aynı soruya veri olur.
 
-Bunun adı bugün **aşırı uyarılmışlık** ya da tetikte olma halidir ve psikoloji literatüründe iyi tarif edilmiş bir durumdur. Ayetin yaptığı gözlem bununla örtüşüyor. Ancak buradan bir "Kur'an psikolojiyi önceden bildi" iddiası çıkarmıyorum — bu, USLUP'un yasakladığı türden bir zorlama olur. Söylenebilecek olan şudur: **ayet, gizli bir çelişki taşımanın bedelini doğru tarif ediyor**, ve bu tarif gözlemle uyumludur.
+Bunun adı bugün **aşırı uyarılmışlık** ya da tetikte olma halidir ve psikoloji literatüründe iyi tarif edilmiş bir durumdur. Ayetin yaptığı gözlem bununla örtüşüyor. Ancak buradan bir "Kur'an psikolojiyi önceden bildi" iddiası çıkarmıyorum — bu, STYLE'ın yasakladığı türden bir zorlama olur. Söylenebilecek olan şudur: **ayet, gizli bir çelişki taşımanın bedelini doğru tarif ediyor**, ve bu tarif gözlemle uyumludur.
 
 Bedelin ne olduğuna dikkat edelim: **rahat yok.** Sûrenin bu tipe biçtiği ceza, dışarıdan görülen bir ceza değil. Konumları sağlam, bedenleri etkileyici, sözleri dinleniyor. Ama her ses onların üstüne geliyor.
 
@@ -1153,7 +1153,7 @@ Mâûn 107/5'te *hüm* zamiri için kaydedilmişti: *"gramer açısından zorunl
 
 **Ve şart cümlesinin yapısına dikkat:** *ve men yef'al zâlike* — "kim bunu yaparsa". Genel. İsim yok, grup yok, mensubiyet yok. Sekiz ayet boyunca "münafıklar" denen tip anlatıldıktan sonra, hüküm **"kim yaparsa"** biçiminde açık uçlu bırakılıyor.
 
-Bu, USLUP'un temel kaydının metnin kendisinde bulunmasıdır: tarif edilen şey **vasıf**tır, kim o vasfı taşırsa ona dahildir.
+Bu, STYLE'ın temel kaydının metnin kendisinde bulunmasıdır: tarif edilen şey **vasıf**tır, kim o vasfı taşırsa ona dahildir.
 
 ---
 

@@ -372,7 +372,7 @@ Beyyine'de kategori metne aktarılmıştı. **Burada tersi olabilir mi — kateg
 | **Giysinin, sahibinin durumunu göstermesi** | Arapçada "elbisesi temiz" ifadesi, kişinin ahlâkının temizliği için kullanılır; "eteği kirli" ise tersi | Bu deyimsel kullanım Arapçada kayıtlıdır ve Türkçede de vardır ("eteği temiz", "yakası kirli") | Deyimin o dönemde bu ayette kastedildiği kesin değil |
 | **Şirkten arınma** | Elbise, kişinin üzerinde taşıdığı inanç ve bağlılıklar | Bir sonraki ayetle (*er-rucze fe'hcur*) bağ kurulur | Bir sonraki ayet zaten bunu söylüyorsa, bu ayet tekrar olur |
 
-**Bunların hepsi klasik kaynaklarda geçer.** Bir tercih dayatmıyorum ve bu, USLUP'un gereğidir — çünkü metin ayrımı yapmıyor.
+**Bunların hepsi klasik kaynaklarda geçer.** Bir tercih dayatmıyorum ve bu, STYLE'ın gereğidir — çünkü metin ayrımı yapmıyor.
 
 **Metnin kendisinden söylenebilecek olan.** Üç gözlem:
 
@@ -803,7 +803,7 @@ Tefsir kaynaklarının büyük çoğunluğu, 11-25. ayetleri Kureyş'in ileri ge
 
 **İkincisi — metin ad vermiyor.** Sûre, on beş ayet boyunca bu kişiyi anlatıyor ve **bir kez bile adını anmıyor.** `080-abese.md`'de aynı tespit yapılmıştı: *"sûrenin kendisi hiçbir isim vermiyor."* Ve orada eklenen not burada da geçerli: isimlerin sonradan verilmiş cevaplar olma ihtimali gözden uzak tutulmamalıdır.
 
-**Üçüncüsü — ve en önemlisi: adın verilmemesi, ayetin işleyişinin bir parçasıdır.** USLUP'ta kaydedildiği gibi: ayetin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir. Metin bir kişiyi mahkûm etmiyor; bir **davranış dizisini** tarif ediyor. Ve o dizinin — 18-25. ayetlerde görüleceği gibi — bir kişiye bağlanmakla sınırlanmayacak kadar genel olduğu, sûrenin kendi diliyle bellidir.
+**Üçüncüsü — ve en önemlisi: adın verilmemesi, ayetin işleyişinin bir parçasıdır.** STYLE'da kaydedildiği gibi: ayetin tarif ettiği **vasıflardır**; kim o vasfı taşırsa ona dahildir. Metin bir kişiyi mahkûm etmiyor; bir **davranış dizisini** tarif ediyor. Ve o dizinin — 18-25. ayetlerde görüleceği gibi — bir kişiye bağlanmakla sınırlanmayacak kadar genel olduğu, sûrenin kendi diliyle bellidir.
 
 Dolayısıyla rivayeti reddetmiyorum, ama tefsiri ona bağlamıyorum.
 
@@ -1752,11 +1752,11 @@ Ve `002-bakara.md`'deki kök tahlili bu örgüyü tamamlıyor: aynı kelime hem 
 
 **Ve ayet, on dokuzun neyin sayısı olduğunu söylemiyor.** Ne olduğu bir sonraki ayette açıklanacak: melekler.
 
-### Bir sınır — USLUP gereği
+### Bir sınır — STYLE gereği
 
 **Bu sayı üzerine, tarih boyunca ve özellikle son dönemde, sayısal ve harf hesabına dayalı iddialar ileri sürülmüştür.**
 
-**USLUP'un açık kuralı gereği bu iddiaların hiçbirine girmiyorum:** *"Sayı/harf hesabı, ebced türü iddialar kullanılmaz."*
+**STYLE'ın açık kuralı gereği bu iddiaların hiçbirine girmiyorum:** *"Sayı/harf hesabı, ebced türü iddialar kullanılmaz."*
 
 Bunun gerekçesi burada özellikle güçlüdür ve ayetin kendisinden çıkar. **Çünkü bir sonraki ayet, bu sayının ne işe yaradığını kendisi söylüyor** — ve söylediği şey, sayıyı çözülecek bir bilmece olarak sunmuyor.
 
@@ -1916,7 +1916,7 @@ Bir sayı verildi; ve hemen ardından, bu alandaki bilginin insana kapalı oldu�
 
 **Yani ayetin kendisi, verdiği sayıyı bir bilgi kaynağı olmaktan çıkarıyor.** Sayı verilmiştir ama üzerine bina yapılacak bir zemin olarak verilmemiştir.
 
-Bu, USLUP'un koyduğu sınırın ayetin kendisinden desteklendiği yerdir.
+Bu, STYLE'ın koyduğu sınırın ayetin kendisinden desteklendiği yerdir.
 
 ### وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
@@ -3058,7 +3058,7 @@ Ve cümle çok açık: *"Rabbinin ordularını O'ndan başkası bilmez."*
 
 Bir sayı verildiğinde iki tepki mümkündür: onu bir kayıt olarak almak, ya da onu bir hesap malzemesi haline getirmek. **Ayet, ikincisinin önünü kendi kapatıyor.**
 
-Ve `073-muzzemmil.md`'de kaydedilen usul kuralı burada metnin kendi desteğini buluyor: USLUP'un sayı/harf hesabı yasağı, dışarıdan konmuş bir sınır değil; bu ayetin kendi koyduğu sınırla örtüşen bir kuraldır.
+Ve `073-muzzemmil.md`'de kaydedilen usul kuralı burada metnin kendi desteğini buluyor: STYLE'ın sayı/harf hesabı yasağı, dışarıdan konmuş bir sınır değil; bu ayetin kendi koyduğu sınırla örtüşen bir kuraldır.
 
 ### Altıncısı: dört gerekçenin kendi ağızlarından çıkması
 
@@ -3137,7 +3137,7 @@ Bu, metnin kendi tonu hakkında bir şey söylüyor ve gözlenebilir bir yapıd�
 - İki sûrenin açılış kelimelerinin aynı ses olayını (idgam) geçirmiş olması bir gözlem olarak kaydedildi.
 - 74/2'de *enzir* fiilinin nesnesiz bırakılmasından çıkarılan sonuç ("emir sınırsız kalıyor") benim çıkarımımdır. `096-alak.md`'deki *ikra'* ile paralellik bir gözlem olarak kuruldu.
 - 74/3'teki *kebbir* ile 74/23'teki *istekbera* arasında kurulan örgü metinde durmaktadır; **bilinçli bir tasarım olduğu iddia edilmedi.** Tekbîretü'l-ihrâm meselesinde **fıkhî hüküm verilmedi.**
-- **74/4 ("elbiseni temizle") üzerindeki beş görüş tablo halinde verildi ve hiçbiri tercih edilmedi.** Bunun USLUP gereği olduğu belirtildi. "İkisi birbirini dışlamıyor" gözlemi kendi okumam olarak işaretlendi. Ayrıca klasik tefsirlerin çoğunun burada tek bir anlamda karar kılmadığı kaydedildi.
+- **74/4 ("elbiseni temizle") üzerindeki beş görüş tablo halinde verildi ve hiçbiri tercih edilmedi.** Bunun STYLE gereği olduğu belirtildi. "İkisi birbirini dışlamıyor" gözlemi kendi okumam olarak işaretlendi. Ayrıca klasik tefsirlerin çoğunun burada tek bir anlamda karar kılmadığı kaydedildi.
 - **74/5'teki ٱلرُّجْز / ٱلرِّجْز kıraat farkı aktarıldı; hangi okuyuşun hangi imama ait olduğu konusunda liste verilmedi.** Yaygın basılı mushaftaki (Hafs rivayeti) okuyuş belirtildi. Terk edilecek şeyin ne olduğu konusundaki dört görüş tablo halinde verildi, tercih dayatılmadı. *Ricz* ile *rics* arasındaki akrabalık bir **ihtimal** olarak sunuldu.
 - **74/6'daki *lâ temnün testeksir* için dört okuma tablo halinde verildi ve tercih dayatılmadı.** Üçünü birleştiren okuma ("iyiliğin bir alacağa dönüşmesi yasaklanıyor") kendi okumam olarak işaretlendi. *Ğayru memnûn* ile kurulan bağ bir gözlemdir; ayetler arasında gönderme iddia edilmedi.
 - 74/7'deki *li* ile Müzzemmil 73/10'daki *alâ* arasında kurulan karşılaştırma kendi okumamdır; edat farkının varlığı ise tartışmasızdır.
@@ -3166,7 +3166,7 @@ Bu, metnin kendi tonu hakkında bir şey söylüyor ve gözlenebilir bir yapıd�
 - "Sihir" ile "insan sözü" suçlamalarının birbiriyle çeliştiği gözlemi kendi okumamdır.
 - 74/28'deki iki fiil arasındaki fark konusunda dört izah verildi; tercih dayatılmadı ve dördüncüsünün bir görüş değil gözlem olduğu belirtildi.
 - **74/29'daki ٱلْبَشَر kelimesinin iki anlamı (insanlar / deriler) tablo halinde verildi ve tercih dayatılmadı.** İkisinin aynı kökün iki ucu olduğu birleştirmesi kendi okumamdır; dayandığı dil verisi (**ب-ش-ر** kökünün merkezinin deri olması) `002-bakara.md` 2/25'e dayandırıldı. **Bir *tehekküm* (alay) iddiasında bulunulmadı** ve `083-mutaffifin.md`'deki tekniğin burada geçerli olmadığı ayrıca belirtildi.
-- **74/30'daki on dokuz sayısı üzerine hiçbir sayısal, harf hesabına dayalı ya da ebced türü iddiaya girilmedi.** Bunun USLUP kuralı olduğu ve ayrıca 74/31'in *"Rabbinin ordularını O'ndan başkası bilmez"* cümlesiyle metnin kendisi tarafından desteklendiği belirtildi. Sayının neyi saydığı konusundaki üç görüş tablo halinde verildi, tercih dayatılmadı.
+- **74/30'daki on dokuz sayısı üzerine hiçbir sayısal, harf hesabına dayalı ya da ebced türü iddiaya girilmedi.** Bunun STYLE kuralı olduğu ve ayrıca 74/31'in *"Rabbinin ordularını O'ndan başkası bilmez"* cümlesiyle metnin kendisi tarafından desteklendiği belirtildi. Sayının neyi saydığı konusundaki üç görüş tablo halinde verildi, tercih dayatılmadı.
 - 74/31'de kitap ehlinin niçin "kesin olarak bileceği" konusunda klasik izah aktarıldı, ancak **hangi metinde ne şekilde böyle bir bilgi bulunduğuna dair kesin bir tespit yapılamadığı açıkça belirtildi** ve bu konuda iddiada bulunulmadı.
 - **74/31'deki *yudillu / yehdî* cümlesi hakkında taraf tutulmadı;** `002-bakara.md` 2/7 ve `081-tekvir.md` 81/29'daki tavır ve kayıt aynen korundu. *Kezâlike* edatından çıkarılan okuma kendi çıkarımım olarak işaretlendi ve **bir kelam görüşü olarak öne sürülmedi.**
 - **74/33'teki *iz* / *izâ* farkında bir kıraat farkı bulunduğu belirtildi ve edat farkından sonuç çıkarılmadı.** Hangi okuyuşun hangi imama ait olduğu konusunda liste verilmedi.

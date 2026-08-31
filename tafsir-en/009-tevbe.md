@@ -8,11 +8,11 @@ The sūra opens with a **declaration that treaties are dissolved**, continues wi
 
 | # | Limit | Ground |
 |---|---|---|
-| **1** | **No wholesale ruling will be issued about any religious or ethnic group.** What the verses describe are **attributes**; whoever carries the attribute is included in it | `USLUP.md`, the section "Prohibitions" |
-| **2** | **No legal ruling will be issued**; the views of the schools and of the exegetes will be conveyed in tables, and no preference will be imposed | `USLUP.md`, the section "Disagreement" |
-| **3** | **No link whatever will be made to present-day politics, present-day conflicts, or any party to them** | `USLUP.md`, the section "Prohibitions" |
-| **4** | **No fabricated report.** Historical details will be given in the language of "it is reported" and without assertion; no personal names will be given | `USLUP.md`, the section "Accuracy" |
-| **5** | My own inferences will be set apart with the phrase **"I record this as my own reading"** | `USLUP.md`, the section "Accuracy" |
+| **1** | **No wholesale ruling will be issued about any religious or ethnic group.** What the verses describe are **attributes**; whoever carries the attribute is included in it | `STYLE.md`, the section "Prohibitions" |
+| **2** | **No legal ruling will be issued**; the views of the schools and of the exegetes will be conveyed in tables, and no preference will be imposed | `STYLE.md`, the section "Disagreement" |
+| **3** | **No link whatever will be made to present-day politics, present-day conflicts, or any party to them** | `STYLE.md`, the section "Prohibitions" |
+| **4** | **No fabricated report.** Historical details will be given in the language of "it is reported" and without assertion; no personal names will be given | `STYLE.md`, the section "Accuracy" |
+| **5** | My own inferences will be set apart with the phrase **"I record this as my own reading"** | `STYLE.md`, the section "Accuracy" |
 
 **And a note on method:** the procedure applied in `047-muhammed.md` in treating 47/4 will be applied here too — **the limits set by the wording of the verse itself will be shown first, then the disagreement will be tabulated, and no ruling will be issued.** The measures laid down in `008-enfal.md` for the verses on war, for captives and for the etiquette of treaties are the ground of this sūra, and reference will be made to them continually.
 
@@ -97,7 +97,7 @@ The following are **reported** in the classical sources (the sources differ from
 
 **Three.** The logic of the sūra itself does not depend on the reports. The separating of the one who broke the treaty from the one who did not (4), the protection of the one who seeks refuge (6), the setting apart of those with a genuine excuse (91), the suspension of judgement (106) — all of these are **in the wording of the text itself.**
 
-**Four.** Per the method (`USLUP.md`), **no wholesale ruling will be issued about any group.** The sūra uses names such as *mushrikīn*, *ahl al-kitāb*, *aʿrāb*, *munāfiqūn*; **each of these will be read in this commentary as an attribute, not as a label of identity.** The ground for this within the text is the sūra itself: verse 4 excepts a group from among the *mushrikīn*, verse 6 grants protection to one of the *mushrikīn*, verse 99 sets apart a group from among the *aʿrāb*, verse 100 praises a community. **The sūra divides its own categories.**
+**Four.** Per the method (`STYLE.md`), **no wholesale ruling will be issued about any group.** The sūra uses names such as *mushrikīn*, *ahl al-kitāb*, *aʿrāb*, *munāfiqūn*; **each of these will be read in this commentary as an attribute, not as a label of identity.** The ground for this within the text is the sūra itself: verse 4 excepts a group from among the *mushrikīn*, verse 6 grants protection to one of the *mushrikīn*, verse 99 sets apart a group from among the *aʿrāb*, verse 100 praises a community. **The sūra divides its own categories.**
 
 ## The structure of the sūra
 
@@ -325,7 +325,7 @@ The root **ت-م-م**: **to bring to completeness, to carry through to the end.*
 
 ---
 
-**This is one of the verses of the Qurʾān most often cut away from its context. Per the method (`USLUP.md`) I shall do five things here, in order, and go beyond none of them:**
+**This is one of the verses of the Qurʾān most often cut away from its context. Per the method (`STYLE.md`) I shall do five things here, in order, and go beyond none of them:**
 
 1. I shall show **how the sentence is built**.
 2. I shall analyse the words.
@@ -1049,7 +1049,7 @@ The root **ع-ج-ب**: **to astonish, to strike with wonder.** *Aʿjaba* — it 
 1. **The lexical senses of the words will be given** — *najas*, *jizya*, *ʿan yad*, *ṣāghirūn*.
 2. **The understandings found in the classical commentaries will be conveyed as a table of disagreement.**
 3. **No legal ruling will be issued; the note "it is not binding" will be entered.**
-4. **That the verses regulate a determinate historical situation and issue no wholesale ruling about a group will be recorded openly, on the basis of the relevant clause of `USLUP.md`.**
+4. **That the verses regulate a determinate historical situation and issue no wholesale ruling about a group will be recorded openly, on the basis of the relevant clause of `STYLE.md`.**
 5. **No present-day controversy and no political situation will be entered into.**
 
 ---
@@ -1081,11 +1081,11 @@ The root **ع-ج-ب**: **to astonish, to strike with wonder.** *Aʿjaba* — it 
 
 **I adopt no preference among these views.** What is to be recorded is this: **the majority of the views have not read the expression as a bodily quality**; but this is a note, not a tally, and it carries no claim of certainty.
 
-### What is to be recorded per the method (`USLUP.md`)
+### What is to be recorded per the method (`STYLE.md`)
 
 **One. The verse issues no wholesale ruling about a group; it makes a regulation about entry to a particular place.** The ground for this in the wording is the verse itself: the sentence that carries the ruling is *fa-lā yaqrabu'l-**masjida'l-ḥarām*** — the subject, that is, is **a place**, not the general status of persons. And there is a note of time as well: *baʿda ʿāmihim hādhā* — "**after this year of theirs**."
 
-**Two. The "Prohibitions" clause of `USLUP.md` bears directly here:** *"No wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes."* **In this commentary the verse is read as a regulation speaking about an attribute; no judgement is issued about any community.**
+**Two. The "Prohibitions" clause of `STYLE.md` bears directly here:** *"No wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes."* **In this commentary the verse is read as a regulation speaking about an attribute; no judgement is issued about any community.**
 
 **Three. The legal rulings drawn from this verse have been debated between the schools** — which places it covers, whom it covers, whether it is permanent or temporary. **This commentary does not enter that debate, issues no ruling, and counts no view as binding.**
 
@@ -1190,7 +1190,7 @@ The root **ع-ي-ل**: **poverty, straitened livelihood, the burden of providing
 
 **I adopt no preference.** **And I record this separately:** the forms of practice drawn from view C have been debated in the legal literature, and some scholars have rejected them. **That debate too is not entered into.**
 
-### The third question: the frame of the verse — what is to be recorded per the method (`USLUP.md`)
+### The third question: the frame of the verse — what is to be recorded per the method (`STYLE.md`)
 
 **One. The verse regulates a state of war and lays down a point at which it ends.**
 
@@ -1205,7 +1205,7 @@ The grounds for this in the wording are as follows, and all of them are within t
 - There is the particle **مِنَ**, and on at least one reading it states a partitive.
 - The same Qurʾān separately praises a section from among the People of the Book (Āl ʿImrān 3/113-115) — I only refer to those verses; those sūras have not yet been treated in this series.
 
-**The relevant clause of `USLUP.md` is applied here directly:** *"No wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes, and whoever carries the attribute is included in it."* **In this commentary no ruling about any community is drawn from this verse.**
+**The relevant clause of `STYLE.md` is applied here directly:** *"No wholesale ruling is issued about an ethnic or religious group; what the verse describes are attributes, and whoever carries the attribute is included in it."* **In this commentary no ruling about any community is drawn from this verse.**
 
 **Three. No legal ruling is issued, and no view conveyed is binding.**
 
@@ -1225,13 +1225,13 @@ The ground for this is the sūra's own notes of time: the preceding verse says *
 
 "**The Jews said, 'ʿUzayr is the son of God'; and the Christians said, 'The Messiah is the son of God.' That is their word with their mouths; they make it resemble the word of those who rejected before. May God confound them — how they are turned away!**"
 
-### A limit per the method (`USLUP.md`)
+### A limit per the method (`STYLE.md`)
 
 **This verse and what follows it are about claims ascribed to two religious communities. The measure applied in this commentary is as follows, and I write it out plainly:**
 
 **What is criticised is a *word*, not a *community*.** The wording of the verse itself says so: ***dhālika qawluhum* — "that is their word."** The subject is whether a sentence is true.
 
-**In this commentary no ruling is issued about any religious community, and no quality is ascribed to any community. The relevant clause of `USLUP.md` operates here too.**
+**In this commentary no ruling is issued about any religious community, and no quality is ascribed to any community. The relevant clause of `STYLE.md` operates here too.**
 
 **And one further note:** as to the historical setting in which the word about *ʿUzayr* mentioned in the verse was held, and how widespread it was, there are differing assessments in the classical and modern sources. **This commentary does not enter that question and advances no historical claim.** The wording of the verse records a word; this commentary conveys that record.
 
@@ -1263,11 +1263,11 @@ The ground for this is the sūra's own notes of time: the preceding verse says *
 
 **The explanation widely transmitted is this:** the "taking as lords" here is not prostrating to them or believing them to be gods. **What is meant is the giving over to them of *the authority to determine the lawful and the forbidden*** — that is, accepting as lawful what they count lawful, and as forbidden what they count forbidden.
 
-**This explanation is widespread in the classical exegetical tradition. It is also reported to rest on a hadith report; since I cannot give the wording and the source of that report with certainty, I do not transmit it.** Per the method (`USLUP.md`): **I do not ascribe to a source a saying of which I am not certain.**
+**This explanation is widespread in the classical exegetical tradition. It is also reported to rest on a hadith report; since I cannot give the wording and the source of that report with certainty, I do not transmit it.** Per the method (`STYLE.md`): **I do not ascribe to a source a saying of which I am not certain.**
 
 **What can be verified from the wording of the verse itself is this, and I record it as my own reading:** the continuation of the sentence is ***wa mā umirū illā li-yaʿbudū ilāhan wāḥidā*** — "yet they were commanded only **to serve** one God." **The verse, that is, names what was done within the field of *service*.** And the scope of the word *ʿibāda* in the Qurʾān is not confined to prostration.
 
-**One further limit, per the method (`USLUP.md`):** this verse cannot be read as a verse condemning **every scholar of religion or every religious authority**. What the verse describes is an **act**: the displacing of authority. **Whoever performs that act falls under the description; this issues no wholesale ruling about any community.** I record this on the basis of the relevant clause of `USLUP.md`.
+**One further limit, per the method (`STYLE.md`):** this verse cannot be read as a verse condemning **every scholar of religion or every religious authority**. What the verse describes is an **act**: the displacing of authority. **Whoever performs that act falls under the description; this issues no wholesale ruling about any community.** I record this on the basis of the relevant clause of `STYLE.md`.
 
 ---
 
@@ -1311,7 +1311,7 @@ The root **أ-ب-ي**: **not to accept, to refuse, to resist.** **The same verb 
 | **C** | A state realised in a determinate region | A historical reading |
 | **D** | A statement referring, in respect of time, to the future | That the verb is in the form of purpose |
 
-**No preference is adopted in this commentary. And per the method (`USLUP.md`): no present-day political or social conclusions are drawn from this verse.**
+**No preference is adopted in this commentary. And per the method (`STYLE.md`): no present-day political or social conclusions are drawn from this verse.**
 
 ---
 
@@ -1329,7 +1329,7 @@ The root **أ-ب-ي**: **not to accept, to refuse, to resist.** **The same verb 
 
 **I record this as my own reading, and its ground is that the relative pronoun comes without restriction:** the ruling on hoarding is tied not **to a group** but **to an act.** The sentence does not say "those of them who hoard"; it says "**those who hoard**".
 
-**And the qualification *inna kathīran min* must also be recorded separately:** *kathīran min* — "many of." **Even the first sentence, that is, does not cover the whole.** Per the method (`USLUP.md`): **no wholesale ruling is issued about any community, and the wording of the verse does not do so in the first place.**
+**And the qualification *inna kathīran min* must also be recorded separately:** *kathīran min* — "many of." **Even the first sentence, that is, does not cover the whole.** Per the method (`STYLE.md`): **no wholesale ruling is issued about any community, and the wording of the verse does not do so in the first place.**
 
 ### كَنَزَ — root: ك-ن-ز
 
@@ -1411,7 +1411,7 @@ The root **ك-و-ي**: **to brand** — to burn with heated iron. This is a conc
 
 **The note of time must be recorded, and I give it as an observation:** the verse ties the number of the months not to **a custom** or **an agreement** but to **the creation.** **The source of the number, that is, is not counted as a human arrangement.**
 
-**And there is a concrete counterpart to this:** the lunar calendar rests on the phases of the moon, and twelve cycles come close to a solar year. **This is an observation; it is not a scientific claim drawn from the verse.** Per the method (`USLUP.md`): **no hunting for scientific miracles is done. What the verse states is the source of the number; not an astronomical detail.**
+**And there is a concrete counterpart to this:** the lunar calendar rests on the phases of the moon, and twelve cycles come close to a solar year. **This is an observation; it is not a scientific claim drawn from the verse.** Per the method (`STYLE.md`): **no hunting for scientific miracles is done. What the verse states is the source of the number; not an astronomical detail.**
 
 ### مِنْهَآ أَرْبَعَةٌ حُرُمٌ
 
@@ -1627,7 +1627,7 @@ The root **ح-ز-ن**: **grief; and as the concrete sense of the root the lexico
 | **A** | **The Messenger** — the subject of the sentence and the centre of the context |
 | **B** | **His companion** — as the one being consoled |
 
-**I convey the disagreement and impose no preference.** **And per the method (`USLUP.md`): the historical and sectarian debates conducted by way of this verse are not entered into.**
+**I convey the disagreement and impose no preference.** **And per the method (`STYLE.md`): the historical and sectarian debates conducted by way of this verse are not entered into.**
 
 **The measure recorded in `048-fetih.md` holds here too:** *sakīna* is **the ceasing of inner agitation** — not the removal of the thing to be feared. **And in this verse the thing to be feared is plainly still in place:** there is pursuit, there is a driving out, two people are in a cave. **What is lifted is the motion that flings a person about.**
 
@@ -1940,7 +1940,7 @@ The root **ف-ر-ض**: **to cut, to open a notch; to fix, to determine.** The le
 | **Distribution among the eight categories** | Whether it is obligatory to divide the money among all eight, and whether giving to some of them suffices, is a point of divergence between the schools |
 | **The relation of alms to the obligatory alms** | The scope of the word *ṣadaqāt* in the verse has been debated |
 
-**No view is preferred in this commentary and no ruling is issued. Per the method (`USLUP.md`): no legal ruling is issued; the views of the schools are conveyed.**
+**No view is preferred in this commentary and no ruling is issued. Per the method (`STYLE.md`): no legal ruling is issued; the views of the schools are conveyed.**
 
 **What is to be recorded on the linguistic side of the verse is this, and I give it as my own reading:** the list enumerates **the causes of need** — poverty, immobility, debt, bondage, travel — and adds beside them **those who do the work** and **a direction**. **The list, that is, is not only a list of "the needy"; it is the list of a *working system*: who will receive, who will distribute, on what it will be spent.**
 
@@ -2241,7 +2241,7 @@ The root **غ-ل-ظ**: **thickness, coarseness; the opposite of fineness and sof
 
 **The same root will occur again in verse 123 of the sūra: *wa'l-yajidū fīkum ghilẓa*.** **The two occurrences will be compared at 123.**
 
-**A note per the method (`USLUP.md`):** no present-day attitude and no political conclusion is drawn from this verse. **And the one addressed by the word is plain in the verse: singular, the envoy.**
+**A note per the method (`STYLE.md`):** no present-day attitude and no political conclusion is drawn from this verse. **And the one addressed by the word is plain in the verse: singular, the envoy.**
 
 ### وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ
 
@@ -2365,7 +2365,7 @@ The root **ج-ه-د**: **strength, capacity, being strained.** **The root was an
 
 ### The subject of the ruling
 
-**What is to be recorded per the method (`USLUP.md`) is this:** the ground of the verse **is given openly**, and it is not an identity but a state: *innahum kafarū … wa mātū wa hum fāsiqūn* — **the state at the moment of death.**
+**What is to be recorded per the method (`STYLE.md`) is this:** the ground of the verse **is given openly**, and it is not an identity but a state: *innahum kafarū … wa mātū wa hum fāsiqūn* — **the state at the moment of death.**
 
 **I record this as my own reading, and its ground is the clause of grounds:** the ruling is tied not to a group but **to persons who died in a determinate state.** **And no general ruling is drawn from this in this commentary. No legal ruling is issued.**
 
@@ -2412,7 +2412,7 @@ The word is the plural of *khālifa*: **those who stay behind.**
 | **B** | Women and children |
 | **C** | Those who are of no use — from the word's sense of "what is left over" |
 
-**I convey the disagreement and impose no preference.** **And a note per the method (`USLUP.md`): no social ruling is drawn from view B; the verse uses a word, it does not make an assessment.**
+**I convey the disagreement and impose no preference.** **And a note per the method (`STYLE.md`): no social ruling is drawn from view B; the verse uses a word, it does not make an assessment.**
 
 **And the verb must be recorded: *raḍū* — "they were content."** **This is the opposite of the *raḍū* in verse 59:** there contentment was the thing asked for (*wa law annahum raḍū mā ātāhumu'llāh*), here contentment is the thing censured. **The same verb carries two different values with two different objects.**
 
@@ -2459,7 +2459,7 @@ The word is the plural of *khālifa*: **those who stay behind.**
 
 **And the particle *min* here too states a partitive: *mina'l-aʿrāb* — "of the bedouin."** **And indeed verse 99 of the sūra will name a section from within that same community separately.**
 
-**Per the method (`USLUP.md`): no wholesale ruling about any ethnic or social group is drawn from this word.**
+**Per the method (`STYLE.md`): no wholesale ruling about any ethnic or social group is drawn from this word.**
 
 ---
 
@@ -2527,7 +2527,7 @@ This verse shows how the excuse is established, and I record it as my own readin
 
 "**The bedouin are harder in rejection and hypocrisy, and more apt not to know the limits of what God has sent down upon His Messenger**… **And among the bedouin is one who believes in God and the last day.**"
 
-### A note required per the method (`USLUP.md`)
+### A note required per the method (`STYLE.md`)
 
 **No ruling can be drawn without reading these three verses together**, and I record this openly.
 
@@ -2543,7 +2543,7 @@ This verse shows how the excuse is established, and I record it as my own readin
 
 **And the ground of the ninety-seventh verse is given in the text as well:** *wa ajdaru allā yaʿlamū ḥudūda mā anzala'llāh* — **their living far from the rulings.** **The observation, that is, is not a ruling about descent or identity but the observation of a *situation*; and its cause is geographical distance.**
 
-***That the word aʿrāb* means not "the Arabs" but the bedouin was treated in `048-fetih.md` and in `049-hucurat.md` at 49/14;** I rely on that treatment. **Per the method (`USLUP.md`) no wholesale ruling is issued about any ethnic or social group, and the sūra itself does not issue one in any case.**
+***That the word aʿrāb* means not "the Arabs" but the bedouin was treated in `048-fetih.md` and in `049-hucurat.md` at 49/14;** I rely on that treatment. **Per the method (`STYLE.md`) no wholesale ruling is issued about any ethnic or social group, and the sūra itself does not issue one in any case.**
 
 **مَغْرَمًا** (98) — root **غ-ر-م**: debt, loss, a price that must be paid. **The root was treated in `056-vakia.md` at 56/66 (*innā la-mughramūn*) and in `052-tur.md` and `068-kalem.md`.**
 
@@ -2599,7 +2599,7 @@ The root **خ-ل-ط**: **to mix.** **I record this as an observation:** the vers
 
 **I record this as my own reading, and its ground is the verse's own wording:** in enumerating three groups, the sūra **issues no ruling about the third.** *Immā … wa immā* — two possibilities are left open.
 
-**And this coincides with the posture kept in the method (`USLUP.md`):** **a text can leave blank the place about which it has no ruling.** **The sūra applies this within itself** — and indeed in verse 101 it had said *lā taʿlamuhum*.
+**And this coincides with the posture kept in the method (`STYLE.md`):** **a text can leave blank the place about which it has no ruling.** **The sūra applies this within itself** — and indeed in verse 101 it had said *lā taʿlamuhum*.
 
 ---
 
@@ -2727,7 +2727,7 @@ The root **خ-ل-ط**: **to mix.** **I record this as an observation:** the vers
 
 **ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟** — **and the order is worth recording: the acceptance is named *before* the turning back.** *Tāba ʿalayhim li-yatūbū* — **"He turned to them in acceptance so that they might turn back."** **I record this as an observation about the structure.**
 
-**Per the method (`USLUP.md`):** the event related in the background of this verse is transmitted in detail in the classical sources. **In this commentary no personal name is given and no report is conveyed;** what the verse itself supplies as a frame is enough.
+**Per the method (`STYLE.md`):** the event related in the background of this verse is transmitted in detail in the classical sources. **In this commentary no personal name is given and no report is conveyed;** what the verse itself supplies as a frame is enough.
 
 ---
 
@@ -2768,7 +2768,7 @@ The root **خ-ل-ط**: **to mix.** **I record this as an observation:** the vers
 
 ### The verse's own qualifications
 
-**Per the method (`USLUP.md`), the verse must be read together with its own qualifications** — and these qualifications are not interpretation but **the elements of the sentence itself:**
+**Per the method (`STYLE.md`), the verse must be read together with its own qualifications** — and these qualifications are not interpretation but **the elements of the sentence itself:**
 
 | Qualification | Expression | What it limits |
 |---|---|---|
@@ -2786,7 +2786,7 @@ The root **و-ل-ي**: **to be near, to be adjacent.** *Walī*, *awlā*, *mawlā
 
 **I record this as my own reading:** the two do not contradict one another, because **the parties addressed are different** — one is a bearing towards one's own circle, the other a deterrence towards a party in a state of war. **And in `048-fetih.md` at 48/29 (*ashiddāʾu ʿala'l-kuffāri ruḥamāʾu baynahum*) this distinction was treated and a limit was laid down there;** I rely on that treatment.
 
-### The limit drawn per the method (`USLUP.md`)
+### The limit drawn per the method (`STYLE.md`)
 
 **No present-day political or military conclusion is drawn from this verse.** The frame of the verse is **a state of mutual war** which the sūra itself relates; and the limits of that state were enumerated one by one in the first sixteen verses of the sūra (the excepting of the one who keeps his treaty, the protecting of the one who seeks refuge and his being brought to a place of safety, the answering in kind when peace is inclined to — treated in `008-enfal.md` at 8/61).
 
@@ -2850,7 +2850,7 @@ The root **ح-ر-ص**: **to be anxious over a thing, to want it insistently.**
 
 **I record this as my own reading, and its ground is the two ends of the sūra:** one and the same sūra opens with a **declaration of dissolution** and closes with a **description of mercy.** **And between the two ends, throughout the sūra, the same distinction has been at work: the one who broke his treaty and the one who did not, the one with an excuse and the one without, the one who gives and counts it a loss and the one who gives and counts it a nearness.**
 
-**The sūra, that is, takes its stand not against a community but against a *behaviour*** — and this is the counterpart, in the sūra's own structure, of the clause of `USLUP.md` that says "what the verse describes are attributes".
+**The sūra, that is, takes its stand not against a community but against a *behaviour*** — and this is the counterpart, in the sūra's own structure, of the clause of `STYLE.md` that says "what the verse describes are attributes".
 
 **فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ** (129)
 

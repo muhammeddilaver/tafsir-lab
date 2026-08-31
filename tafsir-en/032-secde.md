@@ -110,11 +110,11 @@ Its summary was this: **the meaning of these letters is not known with certainty
 
 ### My limit on these two verses — I write it first
 
-**This verse is one of those most often made the subject of a claim about physics in the modern period. Per the method (`USLUP.md`) I draw the line at the outset:**
+**This verse is one of those most often made the subject of a claim about physics in the modern period. Per the method (`STYLE.md`) I draw the line at the outset:**
 
 **From here I do not go to the theory of relativity, to the relativity of time, to the speed of light, or to any modern proposition of physics.** I draw no such connection, and I do not support those that have been drawn.
 
-**The ground was written in detail in `070-mearic.md`, and I rely on that treatment.** It was summarised in three items: **(1)** the verse states not a proposition of physics but a **measure**; **(2)** the principle recorded in the method (`USLUP.md`) is that modern information is not to be forced onto a verse; **(3)** when such a connection is drawn, the truth of the text is made to hang on the fate of the connection drawn.
+**The ground was written in detail in `070-mearic.md`, and I rely on that treatment.** It was summarised in three items: **(1)** the verse states not a proposition of physics but a **measure**; **(2)** the principle recorded in the method (`STYLE.md`) is that modern information is not to be forced onto a verse; **(3)** when such a connection is drawn, the truth of the text is made to hang on the fate of the connection drawn.
 
 **What the verse says is enough in itself, and that much I record:** man's measure of time and the measure of time of this working are not the same. **The verse says this itself:** *mimmā **taʿuddūn*** — **"of what you count".** That is, the sentence keeps expressly on record **by whose reckoning** the measure is taken.
 
@@ -182,7 +182,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 ### ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
 
-**On this construct I enter a note per the method (`USLUP.md`) and do not open the discussion.**
+**On this construct I enter a note per the method (`STYLE.md`) and do not open the discussion.**
 
 **Two main positions are transmitted in the classical tradition:**
 
@@ -287,7 +287,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 **And this root will come back in the eighteenth verse of the sūra: *lā yastawūn* — "they are not equal".** **The same root, one in the making and one in the ruling.** This is a repetition that can be verified within the sūra, and it will be tabulated separately at the end.
 
-**مِن رُّوحِهِ — "of His own spirit". A note per the method (`USLUP.md`): no account of the manner is produced about this construct. What the lexicographers and the exegetes mostly record is that the particle *min* here does not state a part; what it states is relation and honour. (Indeed the same structure is seen in constructs such as "the House of God", "the she-camel of God".) I transmit this explanation as it has been transmitted and go no further.**
+**مِن رُّوحِهِ — "of His own spirit". A note per the method (`STYLE.md`): no account of the manner is produced about this construct. What the lexicographers and the exegetes mostly record is that the particle *min* here does not state a part; what it states is relation and honour. (Indeed the same structure is seen in constructs such as "the House of God", "the she-camel of God".) I transmit this explanation as it has been transmitted and go no further.**
 
 ### وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ — the fourth link
 
@@ -348,7 +348,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 **And the word order sets up a sequence:** *yatawaffākum* (he takes your souls) → *turjaʿūn* (you are returned). **Both verbs stand in a position close to the passive: the subject of the first is one under orders, that of the second is not stated.** **That is, at no stage of the process is any disposal of man's own named.**
 
-**A note per the method (`USLUP.md`):** about the name, the number and the manner of the angel of death I write nothing beyond what the text states. **The limit laid down about the angels in `035-fatir.md` 35/1 holds here too; I rely on that treatment.**
+**A note per the method (`STYLE.md`):** about the name, the number and the manner of the angel of death I write nothing beyond what the text states. **The limit laid down about the angels in `035-fatir.md` 35/1 holds here too; I rely on that treatment.**
 
 ---
 
@@ -447,7 +447,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 **I record this as an observation:** the verse does not say that the guiding of everyone is **impossible**. **It grants the possibility openly and states that the possibility was not used.** That is, the matter is not one of power but one of **how the order was set up**.
 
-**A limit per the method (`USLUP.md`):** from here I do not enter the discussion of destiny and compulsion, and I do not argue the views of the schools of theology. **What the verse says in its wording is two things:** the willing was possible; and a word came true beforehand.
+**A limit per the method (`STYLE.md`):** from here I do not enter the discussion of destiny and compulsion, and I do not argue the views of the schools of theology. **What the verse says in its wording is two things:** the willing was possible; and a word came true beforehand.
 
 **حَقَّ ٱلْقَوْلُ مِنِّى** — *ḥaqqa* — root **ح-ق-ق**: **to be fixed, to come true, to find its place as a right.** **The same verb in the same pattern occurred in `041-fussilet.md` 41/25** (*ḥaqqa ʿalayhimu'l-qawl*), and there it was the sentence that ended the block. **The two sūras use the same expression.**
 
@@ -942,7 +942,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 **And there is a reversal worth recording:** in Fuṣṣilat *iʿrāḍ* was the act of **the other side**. **Here the same verb is commanded to the one addressed.** **The same root, in two directions: one a turning away from the text, the other a turning away from the one who turns away.**
 
-**A note per the method (`USLUP.md`):** from this I draw no ruling of estrangement or of wholesale abandonment. **The context of the sentence is plain: in the twenty-eighth verse a date was asked for, and in the twenty-ninth an answer was given. *Iʿrāḍ* is the not-continuing of the argument.**
+**A note per the method (`STYLE.md`):** from this I draw no ruling of estrangement or of wholesale abandonment. **The context of the sentence is plain: in the twenty-eighth verse a date was asked for, and in the twenty-ninth an answer was given. *Iʿrāḍ* is the not-continuing of the argument.**
 
 ### وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ — a comparison with al-Dukhān
 

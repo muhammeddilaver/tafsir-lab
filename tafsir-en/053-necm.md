@@ -32,7 +32,7 @@ I transmit the report not as material of exegesis but **to show what kind of tex
 
 ## And the matter of the "gharānīq"
 
-There is a report attached to verses 19-20 and transmitted in some early collections of biography and exegesis: it is claimed that while reciting these verses the Prophet uttered a sentence praising three idols, and that this was afterwards corrected. **I do not pass over this matter, because per the method (`USLUP.md`) disagreement is not concealed.** But the following must be recorded:
+There is a report attached to verses 19-20 and transmitted in some early collections of biography and exegesis: it is claimed that while reciting these verses the Prophet uttered a sentence praising three idols, and that this was afterwards corrected. **I do not pass over this matter, because per the method (`STYLE.md`) disagreement is not concealed.** But the following must be recorded:
 
 - The report has been **widely rejected** in the tradition of hadith criticism; the broken state of its chains (their being *mursal*) and its not being established by a connected line are given as grounds.
 - I **do not transmit** the wording of the sentence alleged.
@@ -689,7 +689,7 @@ These three verses make it difficult to defend "seeing with the eye". Against th
 
 1. **The verse gives no name.** The text has chosen to speak in pronouns. To name what a text deliberately does not name is to add something to the text.
 2. **Both views were defended in the early period and by serious names.** There is not enough data in hand to declare either "wrong".
-3. **Theological debate is not the subject of this commentary**, and per the method (`USLUP.md`) no legal or theological ruling is issued.
+3. **Theological debate is not the subject of this commentary**, and per the method (`STYLE.md`) no legal or theological ruling is issued.
 
 **But this can be recorded, and it is data of the text:** the sūra recounts not what was seen but **who saw and how near it came.** None of the verses gives the shape, colour or form of what was seen. The one thing given is **distance.** The text has chosen not to describe but **to report a nearness.**
 
@@ -1304,7 +1304,7 @@ The Qurʾān names these three only here, and together. And this must be recorde
 
 **What the Qurʾān gives is very little, and it is this:** they are names (23), the feminine is ascribed to them by their owners (21), and no proof has been sent down about them from God (23). **The Qurʾān does not say where these idols were, what they looked like, or by whom and when they were adopted.**
 
-That information comes from biography, genealogy and works of the "book of idols" type. **In this commentary I do not enter into them**, and the ground is `USLUP.md`: no exegesis is built upon details the Qurʾān does not give.
+That information comes from biography, genealogy and works of the "book of idols" type. **In this commentary I do not enter into them**, and the ground is `STYLE.md`: no exegesis is built upon details the Qurʾān does not give.
 
 **The one historical frame the Qurʾān does give, and which matters, is this:** the same society counted these three beings the daughters of God. The Qurʾān records this in many places:
 
@@ -1745,7 +1745,7 @@ The verse shows, that is, the **cause** of arbitrary naming: believing that it w
 
 I present this as an inference, not as transmitted.
 
-**And this must be added:** per the method (`USLUP.md`), no wholesale ruling about a community is issued in this commentary. What the verse describes is an **attribute**: not believing in the hereafter and, proceeding from that, naming arbitrarily. Whoever bears that attribute falls under the ruling.
+**And this must be added:** per the method (`STYLE.md`), no wholesale ruling about a community is issued in this commentary. What the verse describes is an **attribute**: not believing in the hereafter and, proceeding from that, naming arbitrarily. Whoever bears that attribute falls under the ruling.
 
 ### ٱلْأُنثَىٰ — the third and surprising occurrence in the sūra
 
@@ -1871,7 +1871,7 @@ The particle *min* again conveys a part: *mina'l-ʿilm* — "of knowledge". Ther
 
 **And the tone of the diagnosis is worth dwelling on.** The verse does not humiliate; it **measures.** To say how far a person has been able to go is a different operation from accusing him of lying. The first is a finding, the second an accusation.
 
-**Per the method (`USLUP.md`) this must be added:** the verse describes not a community but an **attribute** — limiting one's wanting to the life of this world, and one's knowledge stopping at that limit. Whoever bears that attribute falls under the ruling.
+**Per the method (`STYLE.md`) this must be added:** the verse describes not a community but an **attribute** — limiting one's wanting to the life of this world, and one's knowledge stopping at that limit. Whoever bears that attribute falls under the ruling.
 
 ### إِنَّ رَبَّكَ هُوَ أَعْلَمُ — and the closing of the block
 
@@ -2036,7 +2036,7 @@ Of what kind is the exception **إِلَّا** here?
 
 **I state a preference and it is not binding:** the root's sense of "to call and pass on, to touch and not stay" supports the second and third views; and these three (small sin / not repeated / approached but not done) do not exclude one another. The common core is: ***lamam* is a fault that does not last, that does not settle in.**
 
-**And this must be recorded explicitly:** the boundaries of the distinction between "great sin" and "small sin" have been debated at length in the literature of law and theology, and there is no single list. **Per the method (`USLUP.md`) no legal ruling is issued in this commentary;** that the distinction exists is the Qurʾān's own datum (al-Nisāʾ 4/31: *"If you avoid the great sins you are forbidden, We shall cover your lesser faults"*), while where the boundaries lie is not the subject of this section.
+**And this must be recorded explicitly:** the boundaries of the distinction between "great sin" and "small sin" have been debated at length in the literature of law and theology, and there is no single list. **Per the method (`STYLE.md`) no legal ruling is issued in this commentary;** that the distinction exists is the Qurʾān's own datum (al-Nisāʾ 4/31: *"If you avoid the great sins you are forbidden, We shall cover your lesser faults"*), while where the boundaries lie is not the subject of this section.
 
 ### إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ — the intervening sentence
 
@@ -2793,7 +2793,7 @@ This root was analysed in the section **`075-kiyame.md`**, and **precisely this 
 
 **A variant reading is transmitted:** it is stated that the verb is also read **يُمْنَىٰ** (*yumnā*, masculine). The difference lies in whether the verb attaches to *nuṭfa* (feminine) or to the thing emitted (masculine). **I do not name an imam;** it produces no difference of meaning.
 
-**And a note:** in the section **`096-alak.md`** five grounds were given for not entering into claims about embryology, and the same stance was kept in the section **`075-kiyame.md`**. **I keep the same stance in this section too;** per the method (`USLUP.md`) no modern information is fitted onto the verse.
+**And a note:** in the section **`096-alak.md`** five grounds were given for not entering into claims about embryology, and the same stance was kept in the section **`075-kiyame.md`**. **I keep the same stance in this section too;** per the method (`STYLE.md`) no modern information is fitted onto the verse.
 
 ### ٱلنَّشْأَةَ ٱلْأُخْرَىٰ — the other bringing-forth
 
@@ -2938,7 +2938,7 @@ I present this distinction as a reading, not as transmitted.
 
 **And here one must stop.**
 
-**Per the method (`USLUP.md`) no hunting for scientific miracles is done in this commentary.** This verse is one of those often used in claims about modern astronomy: various claims are advanced about Sirius being a double star, its orbital motion, its mass and so on.
+**Per the method (`STYLE.md`) no hunting for scientific miracles is done in this commentary.** This verse is one of those often used in claims about modern astronomy: various claims are advanced about Sirius being a double star, its orbital motion, its mass and so on.
 
 **I do not set up these claims in this commentary, and the grounds are these:**
 
@@ -3516,7 +3516,7 @@ I offer this triad as my own reading; the roots and directions of the words are 
 
 **This verse is counted one of the verses of the prostration of recitation in the Qurʾān**, and as recorded above it is widely transmitted that the company fell into prostration when the sūra was recited in Mecca.
 
-**I issue no legal ruling;** per the method (`USLUP.md`) I record only the existence of the disagreement: it is transmitted that there is a difference of view among the schools of law over the ruling on the prostrations of recitation in the *mufaṣṣal* sūras, and that some of them do not count these obligatory. **The details are the subject of the books of law.**
+**I issue no legal ruling;** per the method (`STYLE.md`) I record only the existence of the disagreement: it is transmitted that there is a difference of view among the schools of law over the ruling on the prostrations of recitation in the *mufaṣṣal* sūras, and that some of them do not count these obligatory. **The details are the subject of the books of law.**
 
 ### The last word: وَٱعْبُدُوا۟
 
@@ -3677,7 +3677,7 @@ And this has a practical side: the truth of a principle does not depend on its b
 
 ## Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list explicitly the places where definite language was deliberately not used throughout the text:
+Per the method (`STYLE.md`), I list explicitly the places where definite language was deliberately not used throughout the text:
 
 - **What the *najm* of the first verse is.** Three views were given in a table; **no preference was imposed.** The connection between the "instalment" sense of the root and the Qurʾān's piecemeal descent was recorded **as an association**, not as an interpretation, and it was stated that the verb (*hawā*) makes that reading difficult.
 - **The public recitation of the sūra and the report of the prostration.** It was stated that it is transmitted in sources including al-Bukhārī and on the authority of Ibn Masʿūd; **its wording was not quoted verbatim** and the debates over the details of the report were not entered into.
@@ -3698,7 +3698,7 @@ Per the method (`USLUP.md`), I list explicitly the places where definite languag
 - **The measure of ضِيزَىٰ.** The explanation that it was converted from an original *fuʿlā* was given **as transmitted from the grammarians**, not as a finding of my own. The observation that the word's rarity produces a "pause" was **not presented as a claim of intent.**
 - **The root of ٱسْم.** Two derivations (**س-م-و** and **و-س-م**) were given and **no choice was made.**
 - **The subject of وَيَرْضَىٰ at verse 26.** Two readings were given and it was stated that both come out at the same place.
-- **The reason for the characterisation "those who do not believe in the hereafter" at verse 27.** The explanation offered was presented as **my own reading.** Per the method (`USLUP.md`) it was recorded separately that this is a ruling not about a community but about an **attribute.**
+- **The reason for the characterisation "those who do not believe in the hereafter" at verse 27.** The explanation offered was presented as **my own reading.** Per the method (`STYLE.md`) it was recorded separately that this is a ruling not about a community but about an **attribute.**
 - **The "softness" explanation for the root أ-ن-ث.** It was transmitted, in keeping with the note in **`075-kiyame.md`**, with the remark "it is not certain".
 - **What ٱللَّمَم is.** Four views and two grammatical readings were given in a table. The common core ("a fault that does not last") was stated as a **preference**, and it was written that it is **not binding.** **The boundaries of the distinction between great and small sins were not entered into;** no legal ruling was issued.
 - **The sense of أَقْنَىٰ.** Three views were given in a table; the first was **preferred** and its ground written out (the lexical sense of the root), and it is **not binding.** The **difference of root** between *قناعة* and *قنية* was stated explicitly.

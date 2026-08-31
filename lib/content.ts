@@ -1,28 +1,37 @@
 import fs from "node:fs";
 import path from "node:path";
-import { parse, inline, setSectionLookup, stripMd, type Block, type SuraMeta } from "./md";
+import {
+  inline,
+  isMostlyArabic,
+  parse,
+  setSectionLookup,
+  stripMd,
+  type Block,
+  type SuraMeta,
+} from "./md";
 import { sectionOf } from "./sections";
 import { type Lang } from "./i18n";
 
 setSectionLookup(sectionOf);
 
-// Yollar duz yazilir: path.join(cwd, degisken) veriuince Turbopack kaynak
-// klasorunu cozemiyor ve butun projeyi sunucu paketine izliyor.
+// The paths are written out literally: given path.join(cwd, variable),
+// Turbopack cannot resolve the source folder and traces the whole project
+// into the server bundle.
 const srcDir = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "tefsir-en") : path.join(process.cwd(), "tefsir");
+  lang === "en" ? path.join(process.cwd(), "tafsir-en") : path.join(process.cwd(), "tafsir");
 const methodFile = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "USLUP-en.md") : path.join(process.cwd(), "USLUP.md");
+  lang === "en" ? path.join(process.cwd(), "STYLE-en.md") : path.join(process.cwd(), "STYLE.md");
 
-// sure no -> ayet sayisi (kontrol.py ile ayni liste)
-export { AYET } from "./ayet";
-import { AYET } from "./ayet";
+// sura number -> verse count (the same list as check.py)
+export { VERSES } from "./verses";
+import { VERSES } from "./verses";
 
 export type Sura = SuraMeta & {
   blocks: Block[];
   ayahAnchors: [number, string][];
   anchorsBySection: Record<string, number[]>;
   ayahCount: number;
-  sections: { id: string; label: string; from: number }[];
+  sections: { id: string; label: string; from: number; to: number; title: string }[];
   lead: string;
 };
 
@@ -41,8 +50,9 @@ function files(lang: Lang): FileRef[] {
   return list;
 }
 
-// Baslik -> kisa ad. Turkce'de ek sonda ("Bakara Sûresi"), Ingilizce'de
-// basta ("Sūrat al-Baqara"); ikisi de kirpilir, kalan liste/gezinme adidir.
+// Title -> short name. Turkish puts the affix last ("Bakara Sûresi"),
+// English first ("Sūrat al-Baqara"); both are trimmed and what remains is the
+// name used in lists and navigation.
 function shortName(title: string, slug: string, lang: Lang) {
   const t = title.replace(/^\d+\.\s*/, "").trim();
   if (!t) return slug;
@@ -78,7 +88,7 @@ export function suraList(lang: Lang): (SuraMeta & { ayahCount: number; lead: str
       slug: f.slug,
       title,
       name: nm.get(f.no)!,
-      ayahCount: AYET[f.no - 1],
+      ayahCount: VERSES[f.no - 1],
       lead: stripMd(firstPara ?? "").slice(0, 150),
     };
   });
@@ -96,8 +106,8 @@ export function getSura(lang: Lang, no: number): Sura | null {
   const nm = names(lang);
   const { blocks, ayahAnchors, lead } = parse(raw, no, nm, lang);
 
-  // Her ayet numarasi bir bolume dussun: bosluk kalirsa en yakin bolume bagla.
-  const total = AYET[no - 1];
+  // Every verse number must land in a section: any gap attaches to the nearest one.
+  const total = VERSES[no - 1];
   const arr: string[] = new Array(total + 1).fill("");
   for (let a = 1; a <= total; a++) arr[a] = ayahAnchors.get(a) ?? "";
   let last = "";
@@ -121,7 +131,14 @@ export function getSura(lang: Lang, no: number): Sura | null {
     .map((b) => ({
       id: b.id,
       from: b.ayah!.from,
+      to: b.ayah!.to,
       label: b.ayah!.from === b.ayah!.to ? `${b.ayah!.from}` : `${b.ayah!.from}-${b.ayah!.to}`,
+      // The descriptive part of a heading such as "## 2/8-20 — Munafiklar";
+      // empty for headings whose tail is Arabic. The index on the sura page
+      // displays it.
+      title: b.arabic
+        ? ""
+        : b.plain.replace(/^\d{1,3}\/\d{1,3}(?:-\d{1,3})?\s*[—–-]\s*/, "").trim(),
     }));
 
   const sura: Sura = {
@@ -140,14 +157,14 @@ export function getSura(lang: Lang, no: number): Sura | null {
   return sura;
 }
 
-// ---------- kok dizini ----------
+// ---------- root index ----------
 const AR = "؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿";
 const ROOT_AR = new RegExp(`\\*\\*?([${AR}]\\s*-\\s*[${AR}]\\s*-\\s*[${AR}](?:\\s*-\\s*[${AR}])?)\\*\\*?`, "g");
 
-// Latin harfli kok yazimi dile gore degisir:
-//   Turkce  *k-t-b*, *ktb* harfleri sade Latin + Turkce harfler
-//   Ingilizce *q-w-m*, *kh-t-m*, *ʿ-q-l* — cift harfli sesler (kh/sh/gh/th/dh)
-//   ve harf-uzeri isaretler (ḥ ṣ ṭ ẓ ḍ ʿ ʾ ā ī ū) kullanilir
+// How a root is written in Latin script differs by language:
+//   Turkish  *k-t-b*, *ktb* — plain Latin plus Turkish letters
+//   English  *q-w-m*, *kh-t-m*, *ʿ-q-l* — digraphs (kh/sh/gh/th/dh) and
+//            diacritics (ḥ ṣ ṭ ẓ ḍ ʿ ʾ ā ī ū)
 const LAT: Record<Lang, string> = {
   tr: "a-zçğışöü",
   en: "a-zʿʾāīūḥṣṭẓḍṯḏšġḫḳẖ",
@@ -214,27 +231,128 @@ export function roots(lang: Lang): RootEntry[] {
   return list;
 }
 
-/** Tek bir ayet bolumu: basliktan bir sonraki ust duzey baslige kadar. */
+/**
+ * Section start -> the roots analysed in that section. roots() already knows
+ * which section heading each hit falls under; this inverts that so a section
+ * page can list its own roots. Built once per language.
+ */
+const _rootsBySec = new Map<Lang, Map<string, string[]>>();
+export function rootsBySection(lang: Lang): Map<string, string[]> {
+  const hit = _rootsBySec.get(lang);
+  if (hit) return hit;
+  const m = new Map<string, string[]>();
+  for (const e of roots(lang)) {
+    for (const h of e.hits) {
+      const at = /^(\d{1,3})\/(\d{1,3})/.exec(h.anchor);
+      if (!at) continue;
+      const key = `${at[1]}/${at[2]}`;
+      const arr = m.get(key) ?? [];
+      if (!arr.includes(e.root)) arr.push(e.root);
+      m.set(key, arr);
+    }
+  }
+  _rootsBySec.set(lang, m);
+  return m;
+}
+
+/**
+ * The starts that get a section page. sura.sections is the raw heading list
+ * and carries two headings that begin at the same verse separately; on the
+ * page surface those are one address (/sure/7/46), so they are merged here.
+ * Page generation, the sitemap and the index on the sura page must all use
+ * this list — otherwise the same URL enters the sitemap twice.
+ */
+export function sectionStarts(lang: Lang, no: number) {
+  const sura = getSura(lang, no);
+  if (!sura) return [];
+  const m = new Map<number, { from: number; to: number; title: string }>();
+  for (const s of sura.sections) {
+    const hit = m.get(s.from);
+    if (!hit) m.set(s.from, { from: s.from, to: s.to, title: s.title });
+    else {
+      hit.to = Math.max(hit.to, s.to);
+      if (!hit.title) hit.title = s.title;
+    }
+  }
+  return [...m.values()];
+}
+
+/**
+ * A single verse section: from its heading to the next top-level heading.
+ * Both the citation modal (/parca) and the section page (/sure/N/a) are fed
+ * from here; the extra fields the page needs (title, lead, neighbouring
+ * sections) are ignored by the modal.
+ */
 export function section(lang: Lang, no: number, start: number) {
   const sura = getSura(lang, no);
   if (!sura) return null;
   const i = sura.blocks.findIndex((b) => b.k === "h" && b.ayah?.from === start);
   if (i < 0) return null;
+  // Consecutive level-2 headings starting at the same verse are one section:
+  //   "## 7/46-49 — A'raf ehli"   group lead-in
+  //   "## 7/46-47 — <Arabic>"     body
+  // Cutting at the first would leave only the lead-in paragraph on the page
+  // and drop the verse itself from the section-page surface entirely.
+  // Happens in seven places.
   let j = i + 1;
   while (j < sura.blocks.length) {
     const b = sura.blocks[j];
-    if (b.k === "h" && b.lvl === 2) break;
+    if (b.k === "h" && b.lvl === 2 && b.ayah?.from !== start) break;
     j++;
   }
   const head = sura.blocks[i] as Extract<Block, { k: "h" }>;
-  const label =
-    head.ayah!.from === head.ayah!.to
-      ? `${no}/${head.ayah!.from}`
-      : `${no}/${head.ayah!.from}-${head.ayah!.to}`;
-  return { no, name: sura.name, label, id: head.id, blocks: sura.blocks.slice(i, j) };
+  const blocks = sura.blocks.slice(i, j);
+
+  // The merged headings' widest range and first descriptive title win.
+  const heads = blocks.filter(
+    (b): b is Extract<Block, { k: "h" }> => b.k === "h" && b.lvl === 2 && b.ayah?.from === start
+  );
+  const from = start;
+  const to = Math.max(...heads.map((h) => h.ayah!.to));
+  const label = from === to ? `${no}/${from}` : `${no}/${from}-${to}`;
+
+  // A section heading comes in two forms: "## 2/255 — <Arabic>" or
+  // "## 2/8-20 — Munafiklar". The first has no descriptive title, the second does.
+  const title =
+    heads
+      .filter((h) => !h.arabic)
+      .map((h) => h.plain.replace(/^\d{1,3}\/\d{1,3}(?:-\d{1,3})?\s*[—–-]\s*/, "").trim())
+      .find(Boolean) ?? "";
+
+  // The first plain paragraph, for the description; headings and tables are
+  // skipped. Arabic paragraphs are skipped too: in sections with a descriptive
+  // title the verse itself arrives as its own paragraph and filled the meta
+  // description end to end with Arabic — unreadable in a Turkish search result.
+  const lead =
+    blocks.find(
+      (b): b is Extract<Block, { k: "p" }> => b.k === "p" && !isMostlyArabic(b.plain)
+    )?.plain ?? sura.lead;
+
+  const starts = sectionStarts(lang, no);
+  const at = starts.findIndex((x) => x.from === from);
+  const nb = (k: number) => (at >= 0 ? starts[at + k] : undefined);
+
+  return {
+    no,
+    name: sura.name,
+    suraTitle: sura.title,
+    label,
+    id: head.id,
+    from,
+    to,
+    title,
+    lead,
+    arabic: heads.map((h) => h.arabic).find(Boolean) ?? "",
+    ayahs: [...new Set(heads.flatMap((h) => sura.anchorsBySection[h.id] ?? []))].sort(
+      (a, b) => a - b
+    ),
+    prev: nb(-1),
+    next: nb(1),
+    blocks,
+  };
 }
 
-/** Usul metni (USLUP.md / USLUP-en.md). */
+/** The method text (STYLE.md / STYLE-en.md). */
 export function method(lang: Lang) {
   const raw = fs.readFileSync(methodFile(lang), "utf8");
   const title = /^#\s+(.*)$/m.exec(raw)?.[1] ?? "Usul";
@@ -243,7 +361,7 @@ export function method(lang: Lang) {
 }
 
 export function stats(lang: Lang) {
-  return { suras: files(lang).length, ayahs: AYET.reduce((a, b) => a + b, 0) };
+  return { suras: files(lang).length, ayahs: VERSES.reduce((a, b) => a + b, 0) };
 }
 
 export { inline };

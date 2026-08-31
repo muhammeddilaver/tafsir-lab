@@ -473,7 +473,7 @@ Bu ayet, yaklaşık bir asırdır "Kur'an'ın embriyolojiyi haber verdiği" iddi
 
 **Dördüncüsü — ve en önemlisi — argüman buna ihtiyaç duymuyor.** Sûrenin akışı şudur: *bak neden yaratıldın (5) → bir sudan (6) → şu bölgeden çıkan (7) → öyleyse O seni geri getirmeye kadirdir (8).* Yedinci ayet, altıncı ayetin nitelemesidir; bir kanıt değil, bir tasvirdir. Delil olan şey **suyun basitliği**dir, çıktığı yerin koordinatı değil.
 
-Bu tefsirin USLUP bölümünde konan kural burada birebir uygulanıyor: ayete modern bir bilgi zorla giydirilmez; bağlantı ancak gerçekten varsa kurulur. Burada gerçekten var olan bağlantı şudur ve yeterlidir: **insanın maddî kökeni, iddia ettiği büyüklükle orantısızdır.** Bu, hem o günün hem bugünün doğrulayabildiği bir gözlemdir.
+Bu tefsirin STYLE bölümünde konan kural burada birebir uygulanıyor: ayete modern bir bilgi zorla giydirilmez; bağlantı ancak gerçekten varsa kurulur. Burada gerçekten var olan bağlantı şudur ve yeterlidir: **insanın maddî kökeni, iddia ettiği büyüklükle orantısızdır.** Bu, hem o günün hem bugünün doğrulayabildiği bir gözlemdir.
 
 ---
 
@@ -1118,7 +1118,7 @@ Bunun muhataba söylediği şey şudur: senin ölçünle uzun görünen şey, me
 
 **Kök: ك-ف-ر.** Bu kök Bakara 2/6'da *küfr* vesilesiyle işlendi; orada kaydedilen şuydu: kökün somut anlamı **örtmek**tir — ekinci tohumu toprakla örttüğü için Arapçada *kâfir* diye anılır.
 
-Buraya ait olan tek nokta USLUP gereği kaydedilmelidir: **kelime bir vasıf bildirir, bir grup adı değildir.** Ayetin tarif ettiği, tuzak kuran ve sözü şaka sayan bir tutumdur; kim o tutumu taşırsa tarife dahildir. Bu tefsirde bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz.
+Buraya ait olan tek nokta STYLE gereği kaydedilmelidir: **kelime bir vasıf bildirir, bir grup adı değildir.** Ayetin tarif ettiği, tuzak kuran ve sözü şaka sayan bir tutumdur; kim o tutumu taşırsa tarife dahildir. Bu tefsirde bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz.
 
 ---
 
@@ -1230,7 +1230,7 @@ Ayetin yaptığı iş, açıklamak değil; **bakmayı yeniden mümkün kılmak.*
 - 4. ayetteki iki kıraat (*lemmâ* / *lemâ*) kaydedildi; **hangi kıraat imamının hangisini tercih ettiğini kesin veremediğim için isim yazılmadı.**
 - *Hâfız*ın kim olduğu (melekler / Allah) ihtilaflıdır; görüşler verildi, tercih belirtilmedi.
 - 7. ayetteki *sulb* ve *terâib*in kime ait olduğu klasik tefsirlerde ihtilaflıdır; üç görüş tablo halinde verildi ve **tercih yapılmadı.** Gerekçesi metinde açıklandı.
-- **7. ayetle ilgili modern embriyoloji iddiaları reddedildi.** Bu, ayetin modern bilimle çeliştiği anlamına gelmez; ayetin böyle bir iddiada bulunmadığı ve klasik okumaların bu yönde olmadığı anlamına gelir. USLUP'taki fennî mucize yasağı burada birebir uygulandı.
+- **7. ayetle ilgili modern embriyoloji iddiaları reddedildi.** Bu, ayetin modern bilimle çeliştiği anlamına gelmez; ayetin böyle bir iddiada bulunmadığı ve klasik okumaların bu yönde olmadığı anlamına gelir. STYLE'daki fennî mucize yasağı burada birebir uygulandı.
 - 3. ayetle ilgili "pulsar" iddiası da aynı gerekçeyle reddedildi.
 - 8. ayetteki *rac'ihî* zamirinin mercii ihtilaflıdır; bağlam üzerinden tercih yapıldı ve **bağlayıcı olmadığı belirtildi.**
 - 11. ayetteki *rec'*in ne olduğu (yağmur / gök cisimlerinin dönüşü / su çevrimi) ihtilaflıdır; çoğunluğun tercihi gerekçesiyle birlikte verildi, kesinlik iddia edilmedi.

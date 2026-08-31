@@ -298,7 +298,7 @@ Here one must be honest: both readings are possible and both can be defended.
 
 This is the sūra's real claim, and I shall take it up separately below.
 
-**A caution.** Building calculations on this number — dividing it into years, deriving ratios, tying it to letters — falls outside this commentary per the method (`USLUP.md`). The verse sets a measure; it does not give an equation.
+**A caution.** Building calculations on this number — dividing it into years, deriving ratios, tying it to letters — falls outside this commentary per the method (`STYLE.md`). The verse sets a measure; it does not give an equation.
 
 ### What is transmitted as the occasion of revelation
 
@@ -567,7 +567,7 @@ This second report is important: **the night's remaining hidden is not a lack of
 | **Within the whole of the year** | A minority view | It strains the Ramadan qualification |
 | **It has been lifted away**, it no longer exists | An extreme interpretation of the "the knowledge was lifted" report | The majority reject it; what is lifted in the report is **the knowledge**, not the night itself |
 
-**I adopt no preference.** The sūra does not give the date of the night, and this looks like a deliberate silence of the text. The clearest thing the hadith data says is "seek it on the odd nights of the last ten days"; every determination beyond that is a judgement. Per the method (`USLUP.md`), I do not manufacture a preference on a matter where no preference is settled.
+**I adopt no preference.** The sūra does not give the date of the night, and this looks like a deliberate silence of the text. The clearest thing the hadith data says is "seek it on the odd nights of the last ten days"; every determination beyond that is a judgement. Per the method (`STYLE.md`), I do not manufacture a preference on a matter where no preference is settled.
 
 ### Is the hiddenness itself a ruling?
 

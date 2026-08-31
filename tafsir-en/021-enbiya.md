@@ -146,7 +146,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **I transmit the disagreement and do not impose a preference.** That certain verbs in Arabic bear two opposite senses (*aḍdād*) is recorded by the lexicographers; *asarra* has been counted among them.
 
-**وَٱلَّذِينَ ظَلَمُوا۟** — the subject comes after the verb. **The grammarians' explanation:** the sentence gives the act first and names its agent afterwards. **And the naming is not a name but an attribute:** *alladhīna ẓalamū* — "those who do wrong". **I record this per the method (`USLUP.md`): what is named here is not a community but an attribute.**
+**وَٱلَّذِينَ ظَلَمُوا۟** — the subject comes after the verb. **The grammarians' explanation:** the sentence gives the act first and names its agent afterwards. **And the naming is not a name but an attribute:** *alladhīna ẓalamū* — "those who do wrong". **I record this per the method (`STYLE.md`): what is named here is not a community but an attribute.**
 
 **هَلْ هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ** — and the content of the whisper is the objection that will be answered in the seventh verse of the sūra.
 
@@ -338,7 +338,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **The root occurs only here in the Qurʾān.** **I give this as a note about the word.**
 
-**كَانَتْ ظَالِمَةً** — and the town is named not by its name but **by its attribute.** **I record this per the method (`USLUP.md`): the ground of the destruction is not an identity but a quality.**
+**كَانَتْ ظَالِمَةً** — and the town is named not by its name but **by its attribute.** **I record this per the method (`STYLE.md`): the ground of the destruction is not an identity but a quality.**
 
 **وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ** — the root ن-ش-أ: to bring a thing into being afresh, to raise it up. **The sentence leaves no gap: in the place of what was broken a new one is set.**
 
@@ -656,7 +656,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 ### What the verse does not say
 
-**I draw a boundary here per the method (`USLUP.md`), because this verse has often been used torn from its context.**
+**I draw a boundary here per the method (`STYLE.md`), because this verse has often been used torn from its context.**
 
 **The verse does not say that no reason is given.** **The evidence for this is the sūra itself, and it is read wholly from the text:**
 
@@ -793,7 +793,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 "**Have those who deny not seen that the heavens and the earth were sewn together, and We tore them apart? And We made every living thing from water. Will they still not believe?**"
 
-### First the boundary — per the method (`USLUP.md`)
+### First the boundary — per the method (`STYLE.md`)
 
 **This verse is among the Qurʾānic verses most forced in the modern period. So I draw the boundary first and then pass to the words.**
 
@@ -2515,7 +2515,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **The Qurʾān speaks of these two names here and in Sūrat al-Kahf (18/94). They do not occur anywhere else.**
 
-**And about their identity, their place or their number the Qurʾān says nothing.** **I record this per the method (`USLUP.md`): that gap will not be filled in this commentary.** Various explanations are found in the classical commentaries and in the history books; **not one of them is information the Qurʾān has given, and none is transmitted in this commentary.**
+**And about their identity, their place or their number the Qurʾān says nothing.** **I record this per the method (`STYLE.md`): that gap will not be filled in this commentary.** Various explanations are found in the classical commentaries and in the history books; **not one of them is information the Qurʾān has given, and none is transmitted in this commentary.**
 
 **And a point of grammar:** the verb *futiḥat* (was opened) has come in the feminine; the grammarians attach this to an elided governing noun such as *sadd* (the barrier) or *jiha* (the direction). **A variant reading is transmitted as well: *futiḥat* and *futtiḥat* (with doubling).** **The second conveys multiplicity and emphasis; I name no reciter.**
 
@@ -2591,7 +2591,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **This determines the scope of the verse, and it is mentioned in the classical commentaries as an answer to this objection:** "In the past there were also **beings possessed of intellect** who were worshipped — do they too fall under this ruling?" **The answer is one of language: the particle *mā* does not cover them.**
 
-**I transmit this as a datum of language and add this:** the ruling of the verse is directed at **the objects worshipped** and at **those who worship.** **I record this per the method (`USLUP.md`): what is named here is not a community but an act and its object.**
+**I transmit this as a datum of language and add this:** the ruling of the verse is directed at **the objects worshipped** and at **those who worship.** **I record this per the method (`STYLE.md`): what is named here is not a community but an act and its object.**
 
 ### 21/99 — the form of the proof
 
@@ -2728,7 +2728,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 ### Again a boundary
 
-**I draw the boundary here too, per the method (`USLUP.md`), because this verse as well has been matched with cosmological models.**
+**I draw the boundary here too, per the method (`STYLE.md`), because this verse as well has been matched with cosmological models.**
 
 **I derive from the verse no physical model of the end of the universe.** **My reason is the same as the reasons I gave at the thirtieth verse, and one of them is particularly strong here:**
 
@@ -2803,7 +2803,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **I record this as my own reading, its ground being the count above:** the attribute the sūra used three times in the series is made, at the end, **the subject of a promise.** **That is, the promise is tied not to a community but to the quality described in the series.**
 
-**And I enter a note per the method (`USLUP.md`):** the verse does not set up a promise of property to an ethnic or a religious group. **The condition is in the verse's own wording: *ʿibādī* (My servants) and *al-ṣāliḥūn* (the righteous).** **Whoever carries that quality is included in it.**
+**And I enter a note per the method (`STYLE.md`):** the verse does not set up a promise of property to an ethnic or a religious group. **The condition is in the verse's own wording: *ʿibādī* (My servants) and *al-ṣāliḥūn* (the righteous).** **Whoever carries that quality is included in it.**
 
 **بَلَٰغ** — root **ب-ل-غ**: **to reach a place, to arrive.** **And the word is used in two senses:** *tablīgh* (conveying) and **"what is enough"** (*balāgh* — provision that suffices). **The second sense gives the sentence the tone of "this much is enough".**
 
@@ -3195,7 +3195,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 ### The boundaries drawn in this commentary
 
-**Per the method (`USLUP.md`), a boundary has been set openly in the following places so as not to make the text say what it does not say:**
+**Per the method (`STYLE.md`), a boundary has been set openly in the following places so as not to make the text say what it does not say:**
 
 | Verse | The boundary |
 |---|---|

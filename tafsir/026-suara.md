@@ -543,7 +543,7 @@ Oradaki tarif: **زَوْج**, "çift" değil **"çiftin bir teki"**dir. Yani e�
 
 **Yani önce ne oldukları söyleniyor, sonra kim oldukları.** Vasıf öne alınmış, ad sonra gelmiş.
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı sıradır:** görevin sebebi kimlik değil, **fiil**dir. Aynı teknik `089-fecr.md`'de kavimler anılırken de kaydedilmişti — Kur'an bir topluluğu adıyla değil, **vasfıyla** hedef alır. Bu, `USLUP.md`'de kayıtlı ilkenin metindeki dayanağıdır: hüküm etnik ya da dinî bir gruba değil, **vasfa** kurulur.
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı sıradır:** görevin sebebi kimlik değil, **fiil**dir. Aynı teknik `089-fecr.md`'de kavimler anılırken de kaydedilmişti — Kur'an bir topluluğu adıyla değil, **vasfıyla** hedef alır. Bu, `STYLE.md`'de kayıtlı ilkenin metindeki dayanağıdır: hüküm etnik ya da dinî bir gruba değil, **vasfa** kurulur.
 
 ### أَلَا يَتَّقُونَ — sûrenin kalıbı, ters şahısta
 
@@ -1594,7 +1594,7 @@ Sahnenin kaydettiği şey, bir görüş değişimi değil. **Ücret için gelmi�
 
 **Benzetmenin işi kaydedilmelidir:** ayet suyun ikiye ayrıldığını söylüyor ve ayrılan parçaları **dağa** benzetiyor. **Benzetmenin cihetiyle ilgili iki nokta var: yükseklik ve durağanlık.** Su, akmayan ve yüksek duran bir hâle geliyor — yani **kendi tabiatının tersine.**
 
-**Bunu bir gözlem olarak kaydediyorum; suyun nasıl durduğuna dair bir fizik izahı kurmuyorum.** Bu tefsirde fennî mucize avcılığı yapılmıyor (`USLUP.md`).
+**Bunu bir gözlem olarak kaydediyorum; suyun nasıl durduğuna dair bir fizik izahı kurmuyorum.** Bu tefsirde fennî mucize avcılığı yapılmıyor (`STYLE.md`).
 
 ### وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِين — yaklaştırma
 
@@ -3204,7 +3204,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve *bel* edatı kaydedilmelidir:** *bel entüm kavmun âdûn.* **Yetmiş dördüncü ayette aynı edat kavmin ağzındaydı** (*bel vecednâ âbâenâ*); burada elçinin ağzında. **Edat, bir sözü bırakıp asıl noktaya geçmeyi bildirir:** "asıl mesele şu ki, siz sınırı aşan bir topluluksunuz."
 
-**Ve tarifin vasfa dayandığı kaydedilmelidir:** *kavmun âdûn* — bir topluluk adı değil, **bir vasıf.** Bu, sûrenin on birinci ayetinde kaydedilen ilkeyle aynıdır ve `USLUP.md`'de kayıtlı ilkeyle uyumludur: **hüküm, kim olduklarına değil, ne yaptıklarına kuruluyor.**
+**Ve tarifin vasfa dayandığı kaydedilmelidir:** *kavmun âdûn* — bir topluluk adı değil, **bir vasıf.** Bu, sûrenin on birinci ayetinde kaydedilen ilkeyle aynıdır ve `STYLE.md`'de kayıtlı ilkeyle uyumludur: **hüküm, kim olduklarına değil, ne yaptıklarına kuruluyor.**
 
 ---
 
@@ -3242,7 +3242,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Nefretin nesnesi kişiler değil, *amel*dir.** Ayet *innî leküm mine'l-kālîn* ("sizden tiksinenlerdenim") demiyor.
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı harf-i cerdir (*li-amelikküm*):** cümlede ayrım açıktır — fiil ile fâil ayrılıyor. **Ve bu, `USLUP.md`'de kayıtlı ilkenin metindeki karşılığıdır: hüküm, kişilerin kendisine değil, tarif edilen fiile kuruluyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı harf-i cerdir (*li-amelikküm*):** cümlede ayrım açıktır — fiil ile fâil ayrılıyor. **Ve bu, `STYLE.md`'de kayıtlı ilkenin metindeki karşılığıdır: hüküm, kişilerin kendisine değil, tarif edilen fiile kuruluyor.**
 
 **Ve bir sonraki ayet de aynı ayrımı sürdürüyor:** *neccinî ve ehlî **mimmâ ya'melûn*** — "**yaptıklarından** kurtar", "onlardan kurtar" değil.
 
@@ -3712,7 +3712,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ayette geçen *el-a'cemîn*, birinci anlamdadır: dili anlaşılmayanlar.** Yani ölçü soy değil, **anlaşılırlık**tır.
 
-**Bu ayrım kaydedilmelidir çünkü hüküm kurulacak yer burasıdır:** ayet bir milleti değil, **bir dil durumunu** konu ediyor. **Bu, `USLUP.md`'de kayıtlı ilkeyle uyumludur.**
+**Bu ayrım kaydedilmelidir çünkü hüküm kurulacak yer burasıdır:** ayet bir milleti değil, **bir dil durumunu** konu ediyor. **Bu, `STYLE.md`'de kayıtlı ilkeyle uyumludur.**
 
 ### Fussilet 41/44 ile karşılaştırma
 
@@ -4048,7 +4048,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 | **168** | **Lût** | *Li-amelikküm mine'l-kālîn* | ***Amel*** |
 | **216** | **Muhatap elçi** | *Berîun mimmâ ta'melûn* | ***Amel*** |
 
-**Bu, metinden doğrulanabilir bir örtüşmedir.** Ve **kendi okumam olarak** şunu kaydediyorum: sûre, ayrılığı iki kez aynı biçimde kuruyor — **kişiden değil, fiilden.** Bu, `USLUP.md`'de kayıtlı ilkenin metindeki en açık dayanaklarından biridir.
+**Bu, metinden doğrulanabilir bir örtüşmedir.** Ve **kendi okumam olarak** şunu kaydediyorum: sûre, ayrılığı iki kez aynı biçimde kuruyor — **kişiden değil, fiilden.** Bu, `STYLE.md`'de kayıtlı ilkenin metindeki en açık dayanaklarından biridir.
 
 **Ve zamir değişimi kaydedilmelidir:** cümle *fe-in **asavke*** (III. şahıs — "sana karşı gelirlerse") diye başlıyor, sonra *mimmâ **ta'melûn*** (II. şahıs — "**sizin** yaptıklarınız") diye devam ediyor. **Arapçada buna *iltifât* (hitabın yön değiştirmesi) denir.**
 
@@ -4372,7 +4372,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 | Bu tavrın ardından gidenler *ğâvûn*dur | **"Şairler kâfirdir"** |
 | İman edip sâlih amel işleyen ve zulme karşı kendini savunan şairler bunun dışındadır | **"Sanat yasaktır"** |
 
-**Ve bu tefsirde şiir ya da sanat hakkında genel bir hüküm kurulmuyor.** Ayet bir hüküm kurmuyor; **bir vasıf tarif ediyor ve o vasfı taşımayanları açıkça dışarıda bırakıyor.** Bu, `USLUP.md`'de kayıtlı ilkeyle birebir uyumludur: **hüküm bir gruba toptan kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir.**
+**Ve bu tefsirde şiir ya da sanat hakkında genel bir hüküm kurulmuyor.** Ayet bir hüküm kurmuyor; **bir vasıf tarif ediyor ve o vasfı taşımayanları açıkça dışarıda bırakıyor.** Bu, `STYLE.md`'de kayıtlı ilkeyle birebir uyumludur: **hüküm bir gruba toptan kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir.**
 
 ### Dört vasıf
 

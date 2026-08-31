@@ -65,7 +65,7 @@ Birkaç ölçü koymak gerekiyor:
 
 **Üç. Sûrenin tuhaflığı rivayete bağlı değildir.** Metin, dışarıdan hiçbir bilgi getirilmese bile kendi içinde şunu söylüyor: girilemedi (25), kurbanlıklar yerine ulaşamadı (25), rüya ertelendi (27) — ve buna rağmen "fetih" dendi. Rivayetler bu tuhaflığı üretmiyor; sadece hangi olayda yaşandığını söylüyor.
 
-**Dört.** USLUP gereği hiçbir gruba toptan hüküm kurulmayacak. Sûre "bedevîlerden geride bırakılanlar" der; bu, bir kimliğin değil bir **davranışın** adıdır. Nitekim aynı sûre, aynı bedevîlere birkaç ayet sonra bir kapı açar: *"itaat ederseniz Allah size güzel bir karşılık verir"* (16). Kapatılan bir kapı değil, ertelenen bir katılım söz konusudur.
+**Dört.** STYLE gereği hiçbir gruba toptan hüküm kurulmayacak. Sûre "bedevîlerden geride bırakılanlar" der; bu, bir kimliğin değil bir **davranışın** adıdır. Nitekim aynı sûre, aynı bedevîlere birkaç ayet sonra bir kapı açar: *"itaat ederseniz Allah size güzel bir karşılık verir"* (16). Kapatılan bir kapı değil, ertelenen bir katılım söz konusudur.
 
 ## Sûrenin yapısı
 
@@ -546,7 +546,7 @@ Tartışmanın kaynağı bir tanım farkıdır: **iman nedir?**
 - **Artan, imanın niteliğidir.** Sabitliği, parlaklığı, sarsılmazlığı artar; tasdikin kendisi değil.
 - **Artan, imanın semeresidir.** Amel ve itaat artar; bu, dilde imana nispet edilir.
 
-**Bu tartışmada taraf tutmuyorum.** İki görüş de erken dönemden itibaren büyük âlimler tarafından savunulmuştur ve mesele bir tanım tartışmasıdır: taraflar farklı şeylere "iman" diyor, sonra artıp artmayacağını tartışıyorlar. USLUP gereği kelâmî tarafgirlik yapılmıyor.
+**Bu tartışmada taraf tutmuyorum.** İki görüş de erken dönemden itibaren büyük âlimler tarafından savunulmuştur ve mesele bir tanım tartışmasıdır: taraflar farklı şeylere "iman" diyor, sonra artıp artmayacağını tartışıyorlar. STYLE gereği kelâmî tarafgirlik yapılmıyor.
 
 **Ayetin kendi düzeyinde söylediklerini kaydedelim; bunlar tartışmadan bağımsızdır:**
 
@@ -661,7 +661,7 @@ Dikkat edilmesi gereken bir ayrıntı: sayılan iki grup **münafıklar** ve **m
 
 Bu sıra tesadüf değil. Sûrenin bağlamı bir **iç ayrışma**dır: kimin geldiği, kimin gelmediği, kimin söylediğiyle kalbindekinin uyuşup uyuşmadığı. Sûrenin 11-16. ayetleri baştan sona bu meseleyi işleyecek. Metin, dışarıdaki muhalefeti değil, **içeride konumlanan tavrı** öne alıyor.
 
-**Ve bir kayıt:** *münâfık* bir isim değil, bir **vasıf**tır. Kelimenin kök tahlili `002-bakara.md`'de yapıldı: **ن-ف-ق** kökünden *nefak* — tarla faresinin iki ağızlı yuvası; münafık, her zaman ikinci bir çıkış tüneli saklı tutan kişidir. Bu vasfın kime ait olduğu, kimin taşıdığına bağlıdır; USLUP gereği hiçbir topluluğa toptan yakıştırılmaz. Nitekim sûre de isim vermiyor.
+**Ve bir kayıt:** *münâfık* bir isim değil, bir **vasıf**tır. Kelimenin kök tahlili `002-bakara.md`'de yapıldı: **ن-ف-ق** kökünden *nefak* — tarla faresinin iki ağızlı yuvası; münafık, her zaman ikinci bir çıkış tüneli saklı tutan kişidir. Bu vasfın kime ait olduğu, kimin taşıdığına bağlıdır; STYLE gereği hiçbir topluluğa toptan yakıştırılmaz. Nitekim sûre de isim vermiyor.
 
 ### ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ — kötü zan
 
@@ -1124,7 +1124,7 @@ Burada aynı kökten, aynı şekilde **edilgen** bir başka kelime var: **مُخ
 
 **Bu ayette de bir kayıt var ve gözden kaçırılmamalıdır:** ayet *"bedevîler"* demiyor; ***"bedevîlerden geride bırakılanlar"*** diyor. Yani hüküm bir kavme değil, o kavim içinde belirli bir davranışı gösterenlere yöneliktir. *Min* edatı burada **teb'îz** (bir kısmını ayırma) bildirir.
 
-USLUP gereği burada da hiçbir topluluk hakkında toptan hüküm kurulmuyor. Ayetin tarif ettiği bir **vasıftır**; kim o vasfı taşırsa ona dahildir — çölde ya da şehirde.
+STYLE gereği burada da hiçbir topluluk hakkında toptan hüküm kurulmuyor. Ayetin tarif ettiği bir **vasıftır**; kim o vasfı taşırsa ona dahildir — çölde ya da şehirde.
 
 ### شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا — mazeretin yapısı
 
@@ -1336,7 +1336,7 @@ Yani cümle *"ona ateş hazırlamışızdır"* demiyor; *"inkârcılara"* diyor.
 
 **İki. Kapıyı açık bırakır.** Cümle "şu kişilere" demiyor, "şu vasfı taşıyanlara" diyor. Vasıf değişirse hüküm de değişir.
 
-**Bu, USLUP'un isim/vasıf ayrımının metin içindeki en açık örneklerinden biridir.** Ayet, on birinci ayette anılan grubu doğrudan bu hükmün içine koymuyor; bir vasıf tarif ediyor ve hükmü ona bağlıyor. Nitekim iki ayet sonra aynı gruba **yeni bir çağrı** yapılacak (16) — bu, hükmün kişilere değil vasfa bağlandığının delilidir.
+**Bu, STYLE'ın isim/vasıf ayrımının metin içindeki en açık örneklerinden biridir.** Ayet, on birinci ayette anılan grubu doğrudan bu hükmün içine koymuyor; bir vasıf tarif ediyor ve hükmü ona bağlıyor. Nitekim iki ayet sonra aynı gruba **yeni bir çağrı** yapılacak (16) — bu, hükmün kişilere değil vasfa bağlandığının delilidir.
 
 ### سَعِير — kök: س-ع-ر
 
@@ -1497,7 +1497,7 @@ Klasik tefsirlerde **كَلَٰمَ ٱللَّهِ** ifadesinin burada neye işa
 
 **إِلَّا قَلِيلًا — "pek az müstesna".** Ve bu kayıt gözden kaçırılmamalıdır.
 
-Ayet mutlak bir olumsuzlama yapmıyor; bir **istisna** koyuyor. "Hiç anlamıyorlar" demiyor, "az anlıyorlar" diyor. Bu, USLUP'un toptan hüküm yasağının metnin kendisinde bulunan karşılığıdır: Kur'an, kendi kurduğu olumsuz hükmü kendisi sınırlandırıyor.
+Ayet mutlak bir olumsuzlama yapmıyor; bir **istisna** koyuyor. "Hiç anlamıyorlar" demiyor, "az anlıyorlar" diyor. Bu, STYLE'ın toptan hüküm yasağının metnin kendisinde bulunan karşılığıdır: Kur'an, kendi kurduğu olumsuz hükmü kendisi sınırlandırıyor.
 
 **İstisnanın neye döndüğü konusunda iki okuma vardır:**
 
@@ -1524,7 +1524,7 @@ Bir önceki ayette bir talep reddedildi ve bu ret kesindi: *len tettebiûnâ* �
 
 Yani reddedilen şey **kişiler** değil, **o belirli katılım talebi**dir. Metin, geçmiş bir tercihi geleceğe uzatmıyor.
 
-**Bu, on üçüncü ayette kaydedilen isim/vasıf ayrımının pratikteki karşılığıdır.** Ve USLUP'un "hiçbir gruba toptan hüküm kurulmaz" ilkesinin metin içindeki dayanağıdır: Kur'an'ın kendisi, hükmü kişilere değil davranışa bağlıyor ve davranış değişebilir olduğu için hüküm de değişebilir kalıyor.
+**Bu, on üçüncü ayette kaydedilen isim/vasıf ayrımının pratikteki karşılığıdır.** Ve STYLE'ın "hiçbir gruba toptan hüküm kurulmaz" ilkesinin metin içindeki dayanağıdır: Kur'an'ın kendisi, hükmü kişilere değil davranışa bağlıyor ve davranış değişebilir olduğu için hüküm de değişebilir kalıyor.
 
 ### سَتُدْعَوْنَ — "çağrılacaksınız"
 
@@ -1548,7 +1548,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum.
 | Sonradan gerçekleşen büyük mücadeleler | Daha uzak dönemler |
 | Belirsiz bırakılmıştır | Ayet kasten isim vermiyor |
 
-**Klasik tefsirlerde farklı isimler zikredilir; ben bu isimleri vermiyorum**, çünkü rivayetler birbirinden ayrılır ve hiçbiri kesin değildir. USLUP gereği emin olmadığım bir nispeti yazmıyorum.
+**Klasik tefsirlerde farklı isimler zikredilir; ben bu isimleri vermiyorum**, çünkü rivayetler birbirinden ayrılır ve hiçbiri kesin değildir. STYLE gereği emin olmadığım bir nispeti yazmıyorum.
 
 **Metnin söylediği kadarı şudur:** ileride, çetin bir güçle karşılaşılacak bir durum gelecektir ve bu grup o zaman çağrılacaktır. Adı ve zamanı verilmemiştir.
 
@@ -2085,7 +2085,7 @@ Kelime **mansûb** (üstün) gelmiştir: *sünnet**e**'llâh*. Bu, gramercilerin
 
 **Kendi okumam olarak kaydediyorum:** *sünnetullah*, geçmişi anlamak için verilmiş bir ölçüdür; bugünü yargılamak için verilmiş bir yetki değil. Âl-i İmrân 3/137'nin emri "dolaşın ve **bakın**"dır — hüküm verin değil.
 
-**Ve bu tefsirde güncel siyasete girilmiyor.** Bu kavramın çağdaş olaylara uygulanması, USLUP'un açıkça dışarıda bıraktığı bir alandır.
+**Ve bu tefsirde güncel siyasete girilmiyor.** Bu kavramın çağdaş olaylara uygulanması, STYLE'ın açıkça dışarıda bıraktığı bir alandır.
 
 ---
 
@@ -2286,7 +2286,7 @@ Ve sûrenin bu okumayı destekleyen bir devamı vardır: Nasr sûresinde insanla
 
 **Kendi okumam olarak kaydediyorum:** bu, sûrenin en pratik ölçülerinden biridir. Bir topluluğa toplu bir işlem uygulamanın önündeki engel, o topluluğun **homojen olmaması**dır. Ve gerçek topluluklar hiçbir zaman homojen değildir. Ayet, bu gerçeği bir gerekçe olarak kullanıyor ve ondan bir sonuç çıkarıyor: iç içelik, toplu işlemi imkânsız kılar.
 
-**Bir kayıt:** bu ayet, USLUP'un "hiçbir gruba toptan hüküm kurulmaz" ilkesinin Kur'an içindeki en açık dayanaklarından biridir. Metnin kendisi, bir topluluğu toptan ele almanın önüne o topluluğun içindeki bilinmeyen insanları koyuyor.
+**Bir kayıt:** bu ayet, STYLE'ın "hiçbir gruba toptan hüküm kurulmaz" ilkesinin Kur'an içindeki en açık dayanaklarından biridir. Metnin kendisi, bir topluluğu toptan ele almanın önüne o topluluğun içindeki bilinmeyen insanları koyuyor.
 
 ---
 
@@ -2357,7 +2357,7 @@ Ve orada kaydedilmişti: bir görüşe göre *câhiliye*, "bilgisizlik dönemi" 
 
 **Yani kelime bir tarih dilimini değil, bir tavrı adlandırıyor.** Bir zan câhilî olabilir, bir hüküm câhilî olabilir, bir kızgınlık câhilî olabilir. Ve bunlar herhangi bir zamanda görülebilir.
 
-**Bu, USLUP'un vasıf/isim ayrımının bir başka örneğidir:** ayet bir topluluğu değil, bir hâli adlandırıyor.
+**Bu, STYLE'ın vasıf/isim ayrımının bir başka örneğidir:** ayet bir topluluğu değil, bir hâli adlandırıyor.
 
 ### İki kökün karşıtlığı: ısınma ve durulma
 
@@ -2754,7 +2754,7 @@ Klasik izahlarda bu ayrım şöyle açıklanır: *hüdâ* **bilgi** tarafıdır 
 
 **Ve bir kayıt daha:** bu ayet, tarihî bir olayı tarif etmiyor; bir **gaye** cümlesi kuruyor (*li-yuzhira* — "…kılsın diye"). Gaye cümleleri, gerçekleşme zamanı ve biçimi hakkında bilgi vermez.
 
-**Güncel siyasete girmiyorum ve bu ayetten çağdaş bir program çıkarmıyorum;** USLUP'un dışarıda bıraktığı alan budur.
+**Güncel siyasete girmiyorum ve bu ayetten çağdaş bir program çıkarmıyorum;** STYLE'ın dışarıda bıraktığı alan budur.
 
 ### وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
@@ -2842,7 +2842,7 @@ Ayet uzun olduğu için parça parça ilerleyeceğim.
 
 ### Bu tarifin nasıl okunmayacağı — bir kayıt
 
-**Burada USLUP gereği açık bir kayıt düşmek zorundayım.**
+**Burada STYLE gereği açık bir kayıt düşmek zorundayım.**
 
 **Bir. Ayet bir kimliğe değil bir konuma bakıyor.** *el-Küffâr* kelimesinin kökü `002-bakara.md`'de çözümlendi: **ك-ف-ر — örtmek.** Ve kelimenin aynı Kur'an'da "çiftçi" anlamında kullanıldığı (`057-hadid.md`, 57/20) orada kaydedildi. Kelime bir vasıf bildirir: örten, gerçeğin üstünü kapatan. Kim o vasfı taşırsa ona dahildir; bir etnik, millî ya da dinî grup adı değildir.
 

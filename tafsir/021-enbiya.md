@@ -146,7 +146,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **İhtilafı aktarıyorum, tercih dayatmıyorum.** Arapçada bazı fiillerin zıt iki anlamı taşıdığı (*ezdâd*) dilcilerce kaydedilir; *eserre* bunlar arasında sayılmıştır.
 
-**وَٱلَّذِينَ ظَلَمُوا۟** — fâil, fiilden sonra geliyor. **Nahivcilerin izahı:** cümle önce eylemi veriyor, sonra failini adlandırıyor. **Ve adlandırma bir isim değil, bir vasıftır:** *ellezîne zalemû* — "zulmedenler". **USLUP gereği kaydediyorum: burada bir topluluk değil, bir vasıf anılıyor.**
+**وَٱلَّذِينَ ظَلَمُوا۟** — fâil, fiilden sonra geliyor. **Nahivcilerin izahı:** cümle önce eylemi veriyor, sonra failini adlandırıyor. **Ve adlandırma bir isim değil, bir vasıftır:** *ellezîne zalemû* — "zulmedenler". **STYLE gereği kaydediyorum: burada bir topluluk değil, bir vasıf anılıyor.**
 
 **هَلْ هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ** — ve fısıltının içeriği, sûrenin yedinci ayetinde cevaplanacak olan itirazdır.
 
@@ -338,7 +338,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Kur'an'da kök yalnızca burada geçer.** **Bunu bir kelime kaydı olarak veriyorum.**
 
-**كَانَتْ ظَالِمَةً** — ve şehir, adıyla değil **vasfıyla** anılıyor. **USLUP gereği kaydediyorum: helâk gerekçesi bir kimlik değil, bir sıfattır.**
+**كَانَتْ ظَالِمَةً** — ve şehir, adıyla değil **vasfıyla** anılıyor. **STYLE gereği kaydediyorum: helâk gerekçesi bir kimlik değil, bir sıfattır.**
 
 **وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ** — ن-ش-أ kökü: bir şeyi yeni baştan var etmek, yükseltmek. **Cümle bir boşluk bırakmıyor: kırılanın yerine yenisi konuyor.**
 
@@ -656,7 +656,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### Ayetin ne söylemediği
 
-**USLUP gereği burada bir sınır çiziyorum, çünkü bu ayet çok kez bağlamından koparılarak kullanılmıştır.**
+**STYLE gereği burada bir sınır çiziyorum, çünkü bu ayet çok kez bağlamından koparılarak kullanılmıştır.**
 
 **Ayet, sebep gösterilmediğini söylemiyor.** **Bunun delili sûrenin kendisidir ve tamamen metinden okunur:**
 
@@ -793,7 +793,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 "**İnkâr edenler görmediler mi ki gökler ve yer bitişikti; biz onları ayırdık. Ve her canlı şeyi sudan yaptık. Hâlâ inanmıyorlar mı?**"
 
-### Önce sınır — USLUP gereği
+### Önce sınır — STYLE gereği
 
 **Bu ayet, modern dönemde en çok zorlanan Kur'an ayetlerinden biridir. Bu yüzden önce sınırı çiziyorum, sonra kelimelere geçiyorum.**
 
@@ -2515,7 +2515,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Kur'an bu iki addan burada ve Kehf sûresinde (18/94) söz eder. Başka bir yerde geçmez.**
 
-**Ve kimliğine, yerine, sayısına dair Kur'an bir şey söylemiyor.** **USLUP gereği kaydediyorum: bu tefsirde o boşluk doldurulmayacak.** Klasik tefsirlerde ve tarih kitaplarında çeşitli izahlar bulunur; **hiçbiri Kur'an'ın verdiği bir bilgi değildir ve bu tefsirde nakledilmez.**
+**Ve kimliğine, yerine, sayısına dair Kur'an bir şey söylemiyor.** **STYLE gereği kaydediyorum: bu tefsirde o boşluk doldurulmayacak.** Klasik tefsirlerde ve tarih kitaplarında çeşitli izahlar bulunur; **hiçbiri Kur'an'ın verdiği bir bilgi değildir ve bu tefsirde nakledilmez.**
 
 **Ve bir gramer nüktesi:** fiil *fütihat* (açıldı) müennes gelmiştir; nahivciler bunu *sedd* (set) ya da *cihet* gibi mahzuf bir muzâfa bağlar. **Bir kıraat farkı da nakledilir: *fütihat* ve *füttihat* (şeddeli).** **İkincisi çokluk ve pekiştirme bildirir; imam adı vermiyorum.**
 
@@ -2591,7 +2591,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Bu, ayetin kapsamını belirliyor ve klasik tefsirlerde şu itiraza cevap olarak zikredilir:** "Geçmişte kendisine tapılan bazı **akıl sahipleri** de vardı — onlar da mı bu hükme giriyor?" **Cevap dilcedir: *mâ* edatı onları kapsamaz.**
 
-**Bunu bir dil verisi olarak aktarıyorum ve şunu ekliyorum:** ayetin hükmü, **tapılan nesnelere** ve **tapanlara** yöneliktir. **USLUP gereği kaydediyorum: burada bir topluluk değil, bir fiil ve onun konusu anılıyor.**
+**Bunu bir dil verisi olarak aktarıyorum ve şunu ekliyorum:** ayetin hükmü, **tapılan nesnelere** ve **tapanlara** yöneliktir. **STYLE gereği kaydediyorum: burada bir topluluk değil, bir fiil ve onun konusu anılıyor.**
 
 ### 21/99 — delilin biçimi
 
@@ -2728,7 +2728,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### Yine bir sınır
 
-**USLUP gereği burada da sınırı çiziyorum, çünkü bu ayet de kozmolojik modellerle eşleştirilmiştir.**
+**STYLE gereği burada da sınırı çiziyorum, çünkü bu ayet de kozmolojik modellerle eşleştirilmiştir.**
 
 **Ayetten evrenin sonuna dair fiziksel bir model çıkarmıyorum.** **Gerekçem, otuzuncu ayette verdiğim gerekçelerin aynısıdır ve bir tanesi burada özellikle güçlüdür:**
 
@@ -2803,7 +2803,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı yukarıdaki sayımdır:** sûre, dizide üç kez kullandığı sıfatı sonda **bir vaadin öznesi** yapıyor. **Yani vaat, bir topluluğa değil, dizide tarif edilen vasfa bağlanıyor.**
 
-**Ve USLUP gereği bir kayıt düşüyorum:** ayet bir etnik ya da dinî gruba mülk vaadi kurmuyor. **Şart, ayetin kendi lafzındadır: *ıbâdî* (kullarım) ve *es-sâlihûn* (iyi olanlar).** **Kim o vasfı taşırsa ona dahildir.**
+**Ve STYLE gereği bir kayıt düşüyorum:** ayet bir etnik ya da dinî gruba mülk vaadi kurmuyor. **Şart, ayetin kendi lafzındadır: *ıbâdî* (kullarım) ve *es-sâlihûn* (iyi olanlar).** **Kim o vasfı taşırsa ona dahildir.**
 
 **بَلَٰغ** — kök **ب-ل-غ**: **bir yere ulaşmak, erişmek.** **Ve kelime iki anlamda kullanılır:** *tebliğ* (ulaştırma) ve **"yetecek kadar olan"** (*belâğ* — kifayet eden azık). **İkinci anlam, cümleye "bu kadarı yeter" tonunu veriyor.**
 
@@ -3195,7 +3195,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 ### Bu tefsirde çizilen sınırlar
 
-**USLUP gereği, aşağıdaki yerlerde metnin söylemediğini söyletmemek için açıkça sınır konmuştur:**
+**STYLE gereği, aşağıdaki yerlerde metnin söylemediğini söyletmemek için açıkça sınır konmuştur:**
 
 | Ayet | Sınır |
 |---|---|

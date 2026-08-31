@@ -1353,7 +1353,7 @@ Ayrıca sûrenin kendi tavrı da bunu engelliyor: eleştiri söylenir, biter, ge
 
 Sûrenin üçüncü ayeti tam olarak bunu yasaklıyor: *sen ne bilirsin?* Bir insanın nereye varacağını bilmediğimiz için sıralayamıyorsak, aynı sebeple yargılayamayız da. Sûreyi elimize alıp "şu adam da Abese'nin tarifine giriyor" demek, sûrenin kestiği damarı yeniden bağlamaktır.
 
-USLUP gereği ayrıca kaydedilmesi gereken bir nokta: sûre bir grup, bir sınıf, bir kesim tarif etmiyor. **Vasıflar** tarif ediyor.
+STYLE gereği ayrıca kaydedilmesi gereken bir nokta: sûre bir grup, bir sınıf, bir kesim tarif etmiyor. **Vasıflar** tarif ediyor.
 
 ### Bugüne bakan yönü
 
@@ -1407,7 +1407,7 @@ Bu, bir tehdit olduğu kadar bir teşhis. Çünkü bağların çözülmesi için
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **Nüzul sebebi rivayeti.** Rivayetin anlamı üzerinde kaynaklarda geniş bir birlik vardır; ayrıntılarında yoktur. Âişe'ye nispet edildiğini ve Tirmizî'nin de aralarında bulunduğu kaynaklarda yer aldığını belirttim; lafzını birebir alıntılamadım. Varyantlarında farklar vardır.
 - **Âmâ sahâbînin adı.** Rivayetlerde Abdullah b. Ümmi Mektûm olarak geçer; bazı nakillerde adı Amr'dır. Bu farkı kaydettim.

@@ -1471,7 +1471,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Bu, Kur'an'da başka yerde de görülür:** Nahl 16/8'de *"ve bilmediğiniz şeyleri de yaratır"* denir.
 
-**Ve şimdi bir usul kaydı düşmek gerekiyor — USLUP gereği ve açıkça:**
+**Ve şimdi bir usul kaydı düşmek gerekiyor — STYLE gereği ve açıkça:**
 
 **Bu ayet, fennî mucize iddiaları için sık kullanılan yerlerden biridir.** Üçüncü maddenin bugün bilinen şu ya da bu olguyla doldurulması yaygın bir yorumdur. **Bu tefsirde bu yola girilmiyor.** Gerekçesi metnin kendisidir:
 
@@ -1550,7 +1550,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Bu ayet, fennî mucize iddialarının Kur'an'da en çok üretildiği yerlerden biridir.** Ayetten modern astronominin şu ya da bu bulgusunun çıkarıldığı yorumlar yaygındır.
 
-**USLUP gereği ve açıkça: bu tefsirde o yola girilmiyor.** Gerekçeler:
+**STYLE gereği ve açıkça: bu tefsirde o yola girilmiyor.** Gerekçeler:
 
 1. **Ayetin kendi delili astronomik bir bilgi değildir.** Cümlenin ikinci yarısı bunu söylüyor: *zâlike **takdîru**'l-azîzi'l-alîm* — **"bu, bir ölçüdür."** Delil, güneşin nasıl hareket ettiği değil, hareketinin **ölçülü** olmasıdır.
 2. **Muhatap için işaret, gözle görülen düzendir.** Ayet, muhatabın bilmediği bir olguyu haber vermiyor; bildiği bir olgunun adını koyuyor. **Otuz üçüncü ayette ölü toprak, otuz yedinci ayette gece — hepsi görülen şeylerdi.**
@@ -1753,7 +1753,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Ve sûre içi bağ doğrulanabilir ve çarpıcıdır:** kırkıncı ayette *felek*, **kırk birinci ayette *fülk*.** **İki ayet üst üste, aynı kök, iki ayrı kelime** — biri gökte, biri denizde. **Bunu bir gözlem olarak kaydediyorum;** sûrenin bilinçli bir kelime oyunu kurduğu iddiasında değilim. Kaydettiğim şey, kökün iki türevinin **art arda** kullanılmış olmasıdır.
 
-**Ve bir usul kaydı — USLUP gereği:** *felek* kelimesinden modern yörünge modeli ya da belirli bir astronomik yapı çıkarılmıyor. **Kelimenin sözlük anlamı "dönen/yuvarlak olan"dır ve ayetin verdiği bilgi budur.** Bunun ötesindeki eşleştirmeler bir bakış açısıdır ve ayetin delili değildir.
+**Ve bir usul kaydı — STYLE gereği:** *felek* kelimesinden modern yörünge modeli ya da belirli bir astronomik yapı çıkarılmıyor. **Kelimenin sözlük anlamı "dönen/yuvarlak olan"dır ve ayetin verdiği bilgi budur.** Bunun ötesindeki eşleştirmeler bir bakış açısıdır ve ayetin delili değildir.
 
 ### يَسْبَحُون — akıllı varlık kipi
 
@@ -2899,7 +2899,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **İki geçiş doğrulanabilir ve iki fark taşıyor: kip ve muhatap.**
 
-**Kendi okumam olarak kaydediyorum ve dayanağı bu iki farktır:** yedinci ayette söz **olmuş** olarak, yetmişinci ayette **olmakta** olan olarak anılıyor. Ve muhatap, sayısal bir çoğunluktan (*ekserihim*) **bir vasfa** (*el-kâfirîn*) dönüşüyor. **Yani hüküm bir gruba değil, bir sıfata bağlanıyor** — ve `USLUP.md`'de kayıtlı olduğu gibi, **ayetin tarif ettiği şey vasıftır; kim o vasfı taşırsa ona dahildir.**
+**Kendi okumam olarak kaydediyorum ve dayanağı bu iki farktır:** yedinci ayette söz **olmuş** olarak, yetmişinci ayette **olmakta** olan olarak anılıyor. Ve muhatap, sayısal bir çoğunluktan (*ekserihim*) **bir vasfa** (*el-kâfirîn*) dönüşüyor. **Yani hüküm bir gruba değil, bir sıfata bağlanıyor** — ve `STYLE.md`'de kayıtlı olduğu gibi, **ayetin tarif ettiği şey vasıftır; kim o vasfı taşırsa ona dahildir.**
 
 **Ve dizim nüktesi:** yetmişinci ayet iki gayeyi *vâv* ile bağlıyor — *li-yünzira* (uyarsın diye) **ve** *yehıkka'l-kavl* (söz gerçekleşsin diye). **Aynı metnin iki ayrı sonucu, tek cümlede yan yana.**
 
@@ -3097,7 +3097,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kelimenin sözlük anlamı: az miktarda su, damla.** *Nutfe* — dilcilerde "kovada ya da kapta kalan az su" için de kullanılır. **Kök `075-kiyame.md`, `076-insan.md`, `080-abese.md` ve `053-necm.md`'de geçti.**
 
-**Ve `040-gafir.md` 40/67'de konulan USLUP sınırı burada da geçerlidir ve tekrarlıyorum:** *nutfe* gibi kelimelerin **modern embriyoloji terimleriyle birebir eşitlenmesine girilmiyor.** **Ayetin işi bir aşama tarifi vermek değildir** — nitekim burada aşama zaten sayılmıyor. **Delil, insanın başlangıcının kendi elinde olmamasıdır.** `056-vakia.md` 56/58-59'da işlenen çizginin aynısı.
+**Ve `040-gafir.md` 40/67'de konulan STYLE sınırı burada da geçerlidir ve tekrarlıyorum:** *nutfe* gibi kelimelerin **modern embriyoloji terimleriyle birebir eşitlenmesine girilmiyor.** **Ayetin işi bir aşama tarifi vermek değildir** — nitekim burada aşama zaten sayılmıyor. **Delil, insanın başlangıcının kendi elinde olmamasıdır.** `056-vakia.md` 56/58-59'da işlenen çizginin aynısı.
 
 ### خَصِيم — sûre içi tekrar
 
@@ -3309,7 +3309,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Ve arka plan somuttur:** çölde ateş, iki dalın birbirine sürtülmesiyle çakılırdı ve bu iş için elverişli olduğu bilinen ağaçlar vardı. **Dilciler bu ağaçları adlarıyla anar.** **Yani ayet, muhatabın kendi elindeki tekniğe bakıyor** — Vâkıa bahsinde kaydedildiği gibi.
 
-### Bir usul kaydı — USLUP gereği
+### Bir usul kaydı — STYLE gereği
 
 **Bu ayet, fennî mucize iddiaları için sık kullanılan yerlerden biridir:** bitkideki enerji birikimi, yanma kimyası ve benzeri eşleştirmeler yapılır.
 

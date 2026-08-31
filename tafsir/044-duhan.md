@@ -1785,7 +1785,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **Ve dikkat: *âliyen* nekre (belirsiz) gelmiş ve arkasından *mine'l-müsrifîn* geliyor.** Yani cümle onu bir sınıfa yerleştiriyor: **haddi aşanlardan biri.**
 
-**Bunu kendi okumam olarak veriyorum:** ayet Firavun'u eşsiz bir kötülük örneği olarak sunmuyor; **bir türün örneği** olarak sunuyor. Ve `USLUP`ta kayıtlı olan ilke burada işliyor: ayetin tarif ettiği şey **vasıftır**, kim o vasfı taşırsa ona dahildir.
+**Bunu kendi okumam olarak veriyorum:** ayet Firavun'u eşsiz bir kötülük örneği olarak sunmuyor; **bir türün örneği** olarak sunuyor. Ve `STYLE`ta kayıtlı olan ilke burada işliyor: ayetin tarif ettiği şey **vasıftır**, kim o vasfı taşırsa ona dahildir.
 
 ### مُّسْرِفِين — kök س-ر-ف
 
@@ -1857,7 +1857,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **Tercih dayatmıyorum.**
 
-**Ama iki kayıt düşmek zorundayım ve ikisi de `USLUP` gereğidir.**
+**Ama iki kayıt düşmek zorundayım ve ikisi de `STYLE` gereğidir.**
 
 **Bir. Bu tefsirde bir topluluk hakkında toptan hüküm kurulmaz.** Ayetin tarif ettiği şey bir **durumdur**: bir topluluğa bir şey verilmiştir. Verilenin ne olduğu bir sonraki ayette söyleniyor ve o kelime belirleyicidir: ***belâ*** — imtihan.
 
@@ -2402,7 +2402,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Tercih dayatmıyorum.**
 
-**Ama bir kayıt düşüyorum ve `USLUP` gereğidir:** ikinci okumada bile ayetin kurduğu şey bir **vasıftır**. `050-kaf.md`'de ve bu tefsirin genelinde kayıtlı olan ilke burada da işler: **ayetin tarif ettiği şey vasıftır, kim o vasfı taşırsa ona dahildir.**
+**Ama bir kayıt düşüyorum ve `STYLE` gereğidir:** ikinci okumada bile ayetin kurduğu şey bir **vasıftır**. `050-kaf.md`'de ve bu tefsirin genelinde kayıtlı olan ilke burada da işler: **ayetin tarif ettiği şey vasıftır, kim o vasfı taşırsa ona dahildir.**
 
 ---
 
@@ -2754,7 +2754,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Tercih dayatmıyorum.**
 
-**Ve `USLUP` gereği bir kayıt daha: bu ayetten hareketle belirli bir kişi hakkında hüküm kurmuyorum.** Metnin kurduğu şey bir **vasıf** ve o vasfın karşılığıdır.
+**Ve `STYLE` gereği bir kayıt daha: bu ayetten hareketle belirli bir kişi hakkında hüküm kurmuyorum.** Metnin kurduğu şey bir **vasıf** ve o vasfın karşılığıdır.
 
 ---
 
@@ -3465,7 +3465,7 @@ Onlar şunu söylemişti: *"Tek bir ölüm var, o kadar."* **Ve elli altıncı a
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar
 
-**`USLUP` gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
+**`STYLE` gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
 
 | Ayet | İhtilaf |
 |---|---|

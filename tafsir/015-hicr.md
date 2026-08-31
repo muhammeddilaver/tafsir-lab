@@ -300,7 +300,7 @@
 
 ### وَقَدْ خَلَتْ سُنَّةُ ٱلْأَوَّلِينَ
 
-**س-ن-ن** kökü: **bir şeyi düzgünce akıtmak, yol açmak.** *Sünnet* — açılmış, üzerinde yürünen yol. **Kök `048-fetih.md` 48/23'te (*sünnetallâh*) işlendi ve orada USLUP gereği bir sınır konmuştu: kavramın çağdaş olaylara uygulanmasına girilmiyor. Oraya dayanıyorum.**
+**س-ن-ن** kökü: **bir şeyi düzgünce akıtmak, yol açmak.** *Sünnet* — açılmış, üzerinde yürünen yol. **Kök `048-fetih.md` 48/23'te (*sünnetallâh*) işlendi ve orada STYLE gereği bir sınır konmuştu: kavramın çağdaş olaylara uygulanmasına girilmiyor. Oraya dayanıyorum.**
 
 **Fiil kaydedilmelidir: *halet* — "geçti, geride kaldı."** **Yani sünnet bir kural olarak değil, olmuş bir şey olarak anılıyor.**
 
@@ -359,7 +359,7 @@
 
 > Ayet bir gök cismi tarif etmiyor. Bir fizikî olay anlatmıyor. Bir astronomi bilgisi vermiyor.
 
-**USLUP gereği bu tefsirde o yola girilmiyor.** Göktaşı, meteor, kozmik ışıma gibi kavramlarla eşleştirme yapılmayacak.
+**STYLE gereği bu tefsirde o yola girilmiyor.** Göktaşı, meteor, kozmik ışıma gibi kavramlarla eşleştirme yapılmayacak.
 
 **Cin bölümünde kaydedilen çerçeve burada da geçerlidir ve oraya dayanıyorum:** bu ayet grubu bir kozmoloji dersinin değil, bir **kaynak tartışmasının** parçasıdır. Mekke'de Peygamber'e yöneltilen ithamlardan biri, söylediklerinin bir cinden geldiğiydi; **bu pasajlar o ithama cevaptır.**
 
@@ -381,7 +381,7 @@
 | 2 | **Gökteki belirli konumlar, menziller** |
 | 3 | **Kaleler, korunaklı yapılar** — bir sonraki ayetteki "koruma" ile uyumlu |
 
-**Tercih dayatmıyorum.** **Ve USLUP gereği kaydediyorum: kelimeden bir astronomi tasnifi ya da bir yıldız haritası çıkarmıyorum.**
+**Tercih dayatmıyorum.** **Ve STYLE gereği kaydediyorum: kelimeden bir astronomi tasnifi ya da bir yıldız haritası çıkarmıyorum.**
 
 **Üçüncü okuma, on yedinci ayetteki *hafıznâhâ* ile kelime düzeyinde uyumludur ve bunu bir karîne olarak kaydediyorum, tercih olarak değil:** *burc* bir savunma yapısıdır; **ve hemen ardından bir koruma bildirimi geliyor.**
 
@@ -411,7 +411,7 @@
 
 **م-د-د** kökü: **uzatmak, yaymak, germek.** **Kök `067-mulk.md`'de ve `043-zuhruf.md` 43/10'da (*ceale lekümü'l-arda mehdâ*) yakın bir kelimeyle işlendi. Oralara dayanıyorum.**
 
-**USLUP gereği bir sınır çiziyorum:** bu fiilden yerin biçimine dair bir sonuç çıkarmıyorum — ne bir iddiayı doğrulamak ne de çürütmek için. **Kelimenin sözlük anlamı "yaymak"tır; ayetin muhatabına söylediği şey, üzerinde yürünecek bir genişliğin hazırlanmış olmasıdır.** **Aynı sınır `039-zumer.md` 39/5'te *yükevviru* fiili için konmuştu; oraya dayanıyorum.**
+**STYLE gereği bir sınır çiziyorum:** bu fiilden yerin biçimine dair bir sonuç çıkarmıyorum — ne bir iddiayı doğrulamak ne de çürütmek için. **Kelimenin sözlük anlamı "yaymak"tır; ayetin muhatabına söylediği şey, üzerinde yürünecek bir genişliğin hazırlanmış olmasıdır.** **Aynı sınır `039-zumer.md` 39/5'te *yükevviru* fiili için konmuştu; oraya dayanıyorum.**
 
 **رَوَٰسِى** — *râsiye*nin çoğulu. **Kök ر-س-و: bir yere sabitlenmek, demir atmak.** *Mürsâ* — geminin demirlediği yer.
 
@@ -513,7 +513,7 @@
 
 **Üç izah da nakledilir; tercih dayatmıyorum.**
 
-### USLUP gereği bir sınır
+### STYLE gereği bir sınır
 
 **Bu ayet, modern dönemde en çok zorlanan ayetlerden biridir ve burada açık bir kayıt düşülmesi gerekiyor.**
 
@@ -936,7 +936,7 @@
 
 **Kapıların ne olduğu, neye göre ayrıldığı üzerinde klasik tefsirlerde çeşitli izahlar nakledilir.** **Ayetin lafzı bir tasnif vermiyor; bu yüzden bir tablo kurmuyorum ve tasvire girmiyorum.**
 
-**USLUP gereği ayrıca kaydediyorum: bu sayı üzerinden hesap kurulmuyor.** **Aynı sınır `097-kadr.md`'de bin ay için konmuştu; oraya dayanıyorum.**
+**STYLE gereği ayrıca kaydediyorum: bu sayı üzerinden hesap kurulmuyor.** **Aynı sınır `097-kadr.md`'de bin ay için konmuştu; oraya dayanıyorum.**
 
 ### جُزْءٌ مَّقْسُومٌ
 
@@ -1069,7 +1069,7 @@
 | Müjdenin muhatabı | **İbrâhim ve karısı** — kadının tepkisi anlatılıyor | **Yalnız İbrâhim** |
 | İbrâhim'in tepkisi | **Anlatılmıyor** | *E-beşşertümûnî alâ en messeniye'l-kiber* |
 
-**İki sûre aynı olayı iki ayrı yerden gösteriyor.** **USLUP gereği kaydediyorum: Kur'an'ın vermediği ayrıntıya girmiyorum** — konukların kim olduğu, kaç kişi oldukları, nasıl göründükleri metinde yoktur.
+**İki sûre aynı olayı iki ayrı yerden gösteriyor.** **STYLE gereği kaydediyorum: Kur'an'ın vermediği ayrıntıya girmiyorum** — konukların kim olduğu, kaç kişi oldukları, nasıl göründükleri metinde yoktur.
 
 ### وَجِلُون — kök: و-ج-ل
 
@@ -1331,7 +1331,7 @@
 
 **Üçü de nakledilir; tercih dayatmıyorum ve buradan fıkhî bir hüküm çıkarmıyorum.**
 
-**USLUP gereği ayrıca kaydediyorum: Kur'an'ın vermediği ayrıntıya girmiyorum.** Metin kızların sayısı, kim oldukları, teklifin nasıl karşılandığı hakkında bilgi vermiyor.
+**STYLE gereği ayrıca kaydediyorum: Kur'an'ın vermediği ayrıntıya girmiyorum.** Metin kızların sayısı, kim oldukları, teklifin nasıl karşılandığı hakkında bilgi vermiyor.
 
 **Ayetin lafzının söylediği şudur ve onunla sınırlı kalıyorum:** Lût bir alternatif önerdi ve şart cümlesiyle kayıtladı: *in küntüm fâılîn* — "eğer yapacaksanız."
 
@@ -1358,7 +1358,7 @@
 
 **İki okuma da nakledilir; tercih dayatmıyorum.**
 
-**Ve USLUP gereği bir kayıt:** Kur'an'da bir insanın ömrüne yemin edilmesi hakkında klasik tefsirlerde çeşitli değerlendirmeler yapılır. **Bu değerlendirmelere girmiyorum ve ayetin lafzını olduğu gibi kaydediyorum.**
+**Ve STYLE gereği bir kayıt:** Kur'an'da bir insanın ömrüne yemin edilmesi hakkında klasik tefsirlerde çeşitli değerlendirmeler yapılır. **Bu değerlendirmelere girmiyorum ve ayetin lafzını olduğu gibi kaydediyorum.**
 
 **سَكْرَة** — kök **س-ك-ر**: sarhoşluk. **Ve kelime sûrenin on beşinci ayetiyle aynı köktendir:** *innemâ **sükkiret** ebsârunâ.*
 
@@ -1949,7 +1949,7 @@
 | 91 | *Idîn* kelimesinin kökü |
 | **99** | ***Yakīn* kelimesinin karşılığı** — **dört görüş tablo hâlinde verildi, tercih yapılmadı** |
 
-### USLUP gereği konulan sınırlar
+### STYLE gereği konulan sınırlar
 
 - **15/16-18'de** göğün korunması ve *şihâb* hakkında **astronomi yorumu yapılmadı;** `072-cin.md` ve `037-saffat.md`'deki sınır korundu.
 - **15/19'da** *medednâhâ* fiilinden yerin biçimine dair sonuç çıkarılmadı.

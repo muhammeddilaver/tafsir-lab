@@ -110,11 +110,11 @@ Adı bir başka sûreyle karışabilir: **Fussilet sûresi de *Hâ-mîm es-Secde
 
 ### Bu iki ayette sınırım — önce yazıyorum
 
-**Bu ayet, modern dönemde en çok fizik iddiasına konu edilen ayetlerden biridir. USLUP gereği sınırı baştan çiziyorum:**
+**Bu ayet, modern dönemde en çok fizik iddiasına konu edilen ayetlerden biridir. STYLE gereği sınırı baştan çiziyorum:**
 
 **Buradan görelilik kuramına, zamanın göreliliğine, ışık hızına ya da herhangi bir modern fizik önermesine gitmiyorum.** Böyle bir bağ kurmuyorum, kurulmuş olanları da desteklemiyorum.
 
-**Gerekçe `070-mearic.md`'de ayrıntılı yazıldı ve oraya dayanıyorum.** Üç maddede özetlenmişti: **(1)** ayet bir fizik önermesi değil bir **ölçü** bildiriyor; **(2)** USLUP'ta kayıtlı ilke, ayete modern bilginin zorla giydirilmemesidir; **(3)** böyle bir bağ kurulduğunda metnin doğruluğu, kurulan bağın kaderine bağlanmış olur.
+**Gerekçe `070-mearic.md`'de ayrıntılı yazıldı ve oraya dayanıyorum.** Üç maddede özetlenmişti: **(1)** ayet bir fizik önermesi değil bir **ölçü** bildiriyor; **(2)** STYLE'da kayıtlı ilke, ayete modern bilginin zorla giydirilmemesidir; **(3)** böyle bir bağ kurulduğunda metnin doğruluğu, kurulan bağın kaderine bağlanmış olur.
 
 **Ayetin söylediği şey zaten yeterlidir ve o kadarını kaydediyorum:** insanın zaman ölçüsü ile bu işleyişin zaman ölçüsü aynı değildir. **Ayet bunu kendisi söylüyor:** *mimmâ **teuddûn*** — **"sizin saydığınızdan".** Yani cümle, ölçünün **kime göre** olduğunu açıkça kayıtlı tutuyor.
 
@@ -182,7 +182,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 ### ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
 
-**Bu terkip hakkında USLUP gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
+**Bu terkip hakkında STYLE gereği bir kayıt düşüyorum ve tartışmayı açmıyorum.**
 
 **Klasik gelenekte iki ana tavır nakledilir:**
 
@@ -287,7 +287,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Ve bu kök sûrenin on sekizinci ayetinde geri dönecek: *lâ yestevûn* — "bir olmazlar".** **Aynı kök, biri yapılışta biri hükümde.** Bu, sûre içinde doğrulanabilir bir tekrardır ve sonda ayrıca tablolanacak.
 
-**مِن رُّوحِهِ — "kendi ruhundan". USLUP gereği bir kayıt: bu terkip hakkında keyfiyet üretilmez. Dilcilerin ve müfessirlerin çoğunlukla kaydettiği husus, *min* edatının burada bir parça bildirmediği, nispet ve şeref bildirdiğidir (nitekim aynı yapı "Allah'ın evi", "Allah'ın devesi" gibi terkiplerde de görülür). Bu izahı nakledildiği şekliyle aktarıyorum ve daha ötesine gitmiyorum.**
+**مِن رُّوحِهِ — "kendi ruhundan". STYLE gereği bir kayıt: bu terkip hakkında keyfiyet üretilmez. Dilcilerin ve müfessirlerin çoğunlukla kaydettiği husus, *min* edatının burada bir parça bildirmediği, nispet ve şeref bildirdiğidir (nitekim aynı yapı "Allah'ın evi", "Allah'ın devesi" gibi terkiplerde de görülür). Bu izahı nakledildiği şekliyle aktarıyorum ve daha ötesine gitmiyorum.**
 
 ### وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ — dördüncü halka
 
@@ -348,7 +348,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Ve dizim bir sıra kuruyor:** *yeteveffâküm* (canınızı alır) → *türceûn* (döndürülürsünüz). **İki fiil de meçhule yakın bir konumda: birincisinin öznesi görevli, ikincisininki söylenmemiş.** **Yani sürecin hiçbir aşamasında insanın kendi tasarrufu anılmıyor.**
 
-**USLUP gereği bir kayıt:** ölüm meleğinin adı, sayısı, keyfiyeti hakkında metnin bildirdiğinin ötesinde bir şey yazmıyorum. **`035-fatir.md` 35/1'de melekler hakkında konan sınır burada da geçerlidir; oraya dayanıyorum.**
+**STYLE gereği bir kayıt:** ölüm meleğinin adı, sayısı, keyfiyeti hakkında metnin bildirdiğinin ötesinde bir şey yazmıyorum. **`035-fatir.md` 35/1'de melekler hakkında konan sınır burada da geçerlidir; oraya dayanıyorum.**
 
 ---
 
@@ -447,7 +447,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, herkesin hidayete erdirilmesinin **imkânsız olduğunu** söylemiyor. **İmkânı açıkça teslim edip, o imkânın kullanılmadığını bildiriyor.** Yani mesele kudret meselesi değil, **düzenin nasıl kurulduğu** meselesidir.
 
-**USLUP gereği bir sınır:** buradan kader/cebir tartışmasına girmiyorum ve kelâm mezheplerinin görüşlerini tartışmıyorum. **Ayetin lafzî olarak söylediği iki şeydir:** dileme mümkündü; ve bir söz önceden gerçekleşmiştir.
+**STYLE gereği bir sınır:** buradan kader/cebir tartışmasına girmiyorum ve kelâm mezheplerinin görüşlerini tartışmıyorum. **Ayetin lafzî olarak söylediği iki şeydir:** dileme mümkündü; ve bir söz önceden gerçekleşmiştir.
 
 **حَقَّ ٱلْقَوْلُ مِنِّى** — *hakka* — kök **ح-ق-ق**: **sabit olmak, gerçekleşmek, hak olarak yerini bulmak.** **`041-fussilet.md` 41/25'te aynı fiil aynı kalıpta geçmişti** (*hakka aleyhimü'l-kavl*) ve orada bloğu bitiren cümleydi. **İki sûre aynı ifadeyi kullanıyor.**
 
@@ -942,7 +942,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 **Ve kaydedilmeye değer bir tersine dönüş var:** Fussilet'te *i'râd* **karşı tarafın** fiiliydi. **Burada aynı fiil, muhataba emrediliyor.** **Aynı kök, iki yönde: biri metinden yüz çevirme, öteki yüz çevirenden yüz çevirme.**
 
-**USLUP gereği bir kayıt:** buradan bir küslük ya da toptan terk hükmü çıkarmıyorum. **Cümlenin siyakı bellidir: yirmi sekizinci ayette bir tarih sorulmuş, yirmi dokuzuncu ayette cevap verilmişti. *İ'râd*, tartışmanın sürdürülmemesidir.**
+**STYLE gereği bir kayıt:** buradan bir küslük ya da toptan terk hükmü çıkarmıyorum. **Cümlenin siyakı bellidir: yirmi sekizinci ayette bir tarih sorulmuş, yirmi dokuzuncu ayette cevap verilmişti. *İ'râd*, tartışmanın sürdürülmemesidir.**
 
 ### وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ — Duhân ile karşılaştırma
 

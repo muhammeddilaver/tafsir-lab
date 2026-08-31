@@ -95,7 +95,7 @@ The root **ل-ه-و**: **to be diverted, to be occupied with what holds one back
 
 **Both readings are found in the classical commentaries, and the grammar permits both. I impose no preference.**
 
-**A note, per the method (`USLUP.md`):** I draw from this no conclusion about modern astronomy or about gravitation. **The function of the verse is plain when it is read together with the sentence that follows: it says that an order visible to the eye stands without any visible support.**
+**A note, per the method (`STYLE.md`):** I draw from this no conclusion about modern astronomy or about gravitation. **The function of the verse is plain when it is read together with the sentence that follows: it says that an order visible to the eye stands without any visible support.**
 
 **رَوَٰسِى** — root **ر-س-و**: to drop anchor, to be held fast. **The root was treated at 50/7 in `050-kaf.md`, and its relation to the anchoring of a ship was recorded there.** **I do not repeat it.**
 
@@ -466,7 +466,7 @@ The root **غ-ض-ض**: **to reduce, to lower, to bring down.**
 
 **I record this as an observation about the word order, and from it I draw a limit:** the verse does not set up a list of the form **"these five things are the unseen and nothing else can be known."** **What it says is that these five domains belong to God's knowledge, and that in the last two man's knowledge is absent.**
 
-**One further note, per the method (`USLUP.md`):** the existence of things that can be measured today about the sending down of rain and about formation in the womb does not contradict this verse — **because the verse speaks not of measurement but of *knowledge*** — and in the fourth and fifth items it ties the negation explicitly to man. **To read this verse as a claim of scientific impossibility runs against the word order of the text itself. I record this as my own reading.**
+**One further note, per the method (`STYLE.md`):** the existence of things that can be measured today about the sending down of rain and about formation in the womb does not contradict this verse — **because the verse speaks not of measurement but of *knowledge*** — and in the fourth and fifth items it ties the negation explicitly to man. **To read this verse as a claim of scientific impossibility runs against the word order of the text itself. I record this as my own reading.**
 
 **And the choice of the last two items is worth recording:** *mādhā taksibu ghadā* (what you will earn tomorrow) and *bi-ayyi arḍin tamūt* (where you will die). **One is the nearest future, the other the most certain end.** **That is, what man does not know is not the most distant thing — it is the nearest.**
 

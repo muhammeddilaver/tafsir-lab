@@ -912,7 +912,7 @@ This emptiness is the sūra's most important silent declaration, and it says two
 
 **2. The measure is not identity but conduct.** Even in verse 6 what carried the ruling was the verb *kafarū* (the identity merely bounded it); and in verse 7 there is nothing at all besides the act. In determining the sides the sūra uses a single measure, and that measure is not a name.
 
-This is the rule in `USLUP.md` in the form in which it emerges from the text itself: **what the verse enumerates is an attribute, not a name.**
+This is the rule in `STYLE.md` in the form in which it emerges from the text itself: **what the verse enumerates is an attribute, not a name.**
 
 ### ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
 
@@ -1283,7 +1283,7 @@ The connection between the sūra's end and its beginning is exactly this: from o
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list explicitly the places throughout the text where definite language was deliberately not used:
+Per the method (`STYLE.md`), I list explicitly the places throughout the text where definite language was deliberately not used:
 
 - ***Munfakkīn* in verse 1.** What the word expresses a parting from is one of the unsettled questions in the history of exegesis. Six readings were given in tabular form; none was presented as certainly correct. I stated my own preference (a combination of the second and the fourth readings) plainly as a preference and with its ground; it is not binding.
 - **Whether the sūra is Meccan or Medinan.** It is disputed; it can be said that the majority call it Medinan, but there is no consensus. No preference was stated.

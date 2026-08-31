@@ -26,7 +26,7 @@ Burada tutumumu açıkça yazıyorum: **rivayetin muhtevasını aktarmıyorum ve
 
 Bu ikinci nokta bir usul ölçüsüne dayanıyor ve Beled sûresi bölümünde de kullanılmıştı: *el-ibretü bi-umûmi'l-lafz lâ bi-husûsi's-sebeb* — hüküm, sözün genelliğine göredir, sebebin özelliğine göre değil. Sekizinci ayet bir isim vermiyor. **"Yoksula, yetime ve esire, sevdikleri halde yemek yedirenleri"** tarif ediyor. Kim o tarife giriyorsa ayete dahildir; girmiyorsa, hakkında ne nakledilirse nakledilsin dahil değildir.
 
-Bu, USLUP'ta kayıtlı olan ilkenin uygulamasıdır: ayetin tarif ettiği **vasıflardır**.
+Bu, STYLE'da kayıtlı olan ilkenin uygulamasıdır: ayetin tarif ettiği **vasıflardır**.
 
 ## Sûrenin kuruluşu
 

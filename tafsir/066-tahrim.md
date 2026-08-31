@@ -2154,7 +2154,7 @@ Ayetin kaydettiği şey, elde kalan en küçük şeyin — **neyi istediğinin**
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan ve ihtiyat kaydı düşülen yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan ve ihtiyat kaydı düşülen yerleri açıkça listeliyorum:
 
 - **Nüzul sebebi.** Rivayetlerin varlığı kaydedildi, muhtevası kaydedilmedi. İsim verilmedi, olay anlatılmadı, hangi kolun daha sağlam olduğu konusunda tercih yapılmadı. Gerekçe metin içinde üç madde halinde açıklandı; en önemlisi, Kur'an'ın kendisinin bu ayrıntıları vermemiş olmasıdır.
 - **66/4'te kastedilen iki kişi.** Rivayetlerde isimler verilir; burada isim yazılmadı. Ayetin kendisi ad vermemektedir.

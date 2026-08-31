@@ -229,7 +229,7 @@ This word has been much discussed over the last century, and most of the discuss
 
 **5. The verse's own purpose is not to give information.** The context is plain: the sūra is reminding the human being who sees himself as self-sufficient what he came from. The verse is a sentence of lowering, not a description. To turn the verse into a lesson in embryology renders its real work invisible.
 
-**To sum up:** the word's sense of "hanging, holding on, sticking" is given and is not reduced; the reader who notices that this calls to mind the phase of attachment in modern embryology may count that association, for his own part, an occasion for thought; but this cannot be presented as the verse's claim and cannot be turned into a proof of miracle. The rule of the method (`USLUP.md`) that "no hunting for scientific miracles is done" exists precisely to preserve this distinction.
+**To sum up:** the word's sense of "hanging, holding on, sticking" is given and is not reduced; the reader who notices that this calls to mind the phase of attachment in modern embryology may count that association, for his own part, an occasion for thought; but this cannot be presented as the verse's claim and cannot be turned into a proof of miracle. The rule of the method (`STYLE.md`) that "no hunting for scientific miracles is done" exists precisely to preserve this distinction.
 
 ### What this says to the present
 
@@ -510,7 +510,7 @@ The common feature of these diagnoses is this: almost all of them are followed b
 
 In Sūrat al-ʿAlaq this exception is not written openly; but the last verse of the sūra stands in its place: *"prostrate and draw near."* The diagnosis has been made, and the treatment has been put at the very end.
 
-One more thing must be noted, per the method (`USLUP.md`): the verse does not describe a group, a class, a section of people. It describes a **tendency**. Whoever goes after that tendency is the one the verse is speaking of.
+One more thing must be noted, per the method (`STYLE.md`): the verse does not describe a group, a class, a section of people. It describes a **tendency**. Whoever goes after that tendency is the one the verse is speaking of.
 
 ---
 
@@ -694,7 +694,7 @@ In the classical commentaries it is said that these verses came down concerning 
 
 **A note on method.** Even if the report is correct, it is plain that the ruling is not restricted to Abū Jahl. The rule we mentioned in the discussion of al-Māʿūn holds here too: *al-ʿibra bi-ʿumūm al-lafẓ lā bi-khuṣūṣ al-sabab* — the ruling goes by the generality of the wording. Accordingly the verse itself names no one.
 
-One more observation: the sūra leaves both parties **without a name**. Neither the one who restrains nor the one restrained has a name. Both are described by what they do. This displays in the text itself the principle the method (`USLUP.md`) underlines: what is described is not persons but attributes.
+One more observation: the sūra leaves both parties **without a name**. Neither the one who restrains nor the one restrained has a name. Both are described by what they do. This displays in the text itself the principle the method (`STYLE.md`) underlines: what is described is not persons but attributes.
 
 ---
 

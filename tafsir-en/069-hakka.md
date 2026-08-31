@@ -399,7 +399,7 @@ It is rare for the Qurʾān to give **a duration** in its accounts of destructio
 
 The first two explanations complete one another and are arithmetically sound. I transmit them; I do not impose a preference.
 
-**No reckoning is done on the numbers.** As is recorded in `USLUP.md`, claims of the number-and-letter-reckoning kind are not used in this commentary. I draw no meaning from the figures seven and eight. The one thing I record is this: compared with its neighbours, this sūra is **dense in numbers** — seven nights, eight days (7), eight (17), seventy cubits (32). I note this as a feature of style, not as a sign.
+**No reckoning is done on the numbers.** As is recorded in `STYLE.md`, claims of the number-and-letter-reckoning kind are not used in this commentary. I draw no meaning from the figures seven and eight. The one thing I record is this: compared with its neighbours, this sūra is **dense in numbers** — seven nights, eight days (7), eight (17), seventy cubits (32). I note this as a feature of style, not as a sign.
 
 **What the duration does.** The real matter is not the number but that there is a duration at all.
 
@@ -1996,7 +1996,7 @@ The seventy there is not a limit; the following verse shows as much. The number,
 
 Some classical exegetes read the seventy here in the same way; others count it a real measure. **I do not impose a preference.**
 
-**A note per the method (`USLUP.md`):** I draw no reckoning from this number. Claims of the number-and-letter-reckoning kind are not used in this commentary.
+**A note per the method (`STYLE.md`):** I draw no reckoning from this number. Claims of the number-and-letter-reckoning kind are not used in this commentary.
 
 **But that a measure has been given is worth recording**, and it suggests the following — which I record as my own reading:
 
@@ -2844,7 +2844,7 @@ It says **"some among you"**. *Min* here is **partitive** (*tabʿīḍ*).
 
 The effect is this: the crowd addressed is divided, but **who is on which side is not said.**
 
-And this accords with a principle recorded several times in this commentary. In the section on al-Qāriʿa: *"the sūra does not say who is on which side. It gives the criterion, not the list."* And, as is recorded in `USLUP.md`: what the verses describe are **attributes**.
+And this accords with a principle recorded several times in this commentary. In the section on al-Qāriʿa: *"the sūra does not say who is on which side. It gives the criterion, not the list."* And, as is recorded in `STYLE.md`: what the verses describe are **attributes**.
 
 **And there is one thing more.** The verse says *"We know"*. There is knowledge, that is, but it **is not announced.**
 
@@ -3225,13 +3225,13 @@ And this prevents the verses from being used to measure other people. As was rec
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list explicitly the places where certain language was deliberately not used throughout the text.
+Per the method (`STYLE.md`), I list explicitly the places where certain language was deliberately not used throughout the text.
 
 - **In which sense the name ٱلْحَآقَّة is meant** (that whose coming to pass is certain / the day on which matters turn out true / the one that wins the case) is disputed; three explanations were given in a table and **no preference was made.**
 - **What ٱلطَّاغِيَة is** (their own overstepping / a sound or convulsion that passes all bounds / an overstepping person) is disputed; the views were given, an inclination to the first was stated with its ground, and **it was recorded that this is not binding.**
 - On **the sense of صَرْصَر** (howling / freezing) two explanations were given; it was recorded that many exegetes combine the two, and no preference was imposed.
 - On **the grammatical position of حُسُومًا** (a plural attribute / an absolute object / a circumstantial) three solutions were given; the interpretation that two of them meet in a single image **is mine.**
-- On **the count of seven nights and eight days** three explanations were given and no preference was imposed. **No reckoning at all was drawn from the numbers**; the prohibition in `USLUP.md` on number-and-letter reckoning was kept. The same holds for **the "eight" in verse 17** and **the "seventy" in verse 32**.
+- On **the count of seven nights and eight days** three explanations were given and no preference was imposed. **No reckoning at all was drawn from the numbers**; the prohibition in `STYLE.md` on number-and-letter reckoning was kept. The same holds for **the "eight" in verse 17** and **the "seventy" in verse 32**.
 - **What is numbered by the ثَمَٰنِيَة of verse 17** is not stated in the Qurʾān. The grammatical datum (reversed gender agreement, the masculinity of the *maʿdūd*) was recorded; **what the *maʿdūd* is was not settled**, and the details in the literature of reports were **not relayed.**
 - **The variant reading at وَمَن قَبْلَهُ** (*qablahu* / *qibalahu*) is transmitted; **since it could not be stated with certainty which reading belongs to which authority, no name was written.** The same note holds for the **تَخْفَىٰ / يَخْفَىٰ** variation in verse 18.
 - On **which cities ٱلْمُؤْتَفِكَٰت are** the view of the majority (the cities of the people of Lot) was relayed; **the names, numbers and locations of the cities were not given**, because the Qurʾān does not give them.

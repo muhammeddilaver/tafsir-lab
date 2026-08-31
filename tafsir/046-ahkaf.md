@@ -25,7 +25,7 @@ Sûre, *hâ-mîm* ile açılan yedi sûrenin sonuncusudur. Bu grubun ortak özel
 
 ### حمٓ
 
-**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde daha önce düşüldü** (`068-kalem.md` ve `050-kaf.md`); tekrarlamıyorum. **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** USLUP gereği harf-sayı hesabına dayalı iddialara girilmez.
+**Hurûf-ı mukattaa hakkındaki genel kayıt dizinde daha önce düşüldü** (`068-kalem.md` ve `050-kaf.md`); tekrarlamıyorum. **Özeti şudur: bu harflerin anlamı hakkında kesin bilgi yoktur; klasik tefsirlerde birçok izah nakledilir ve hiçbiri kesinlik iddiası taşımaz.** STYLE gereği harf-sayı hesabına dayalı iddialara girilmez.
 
 **Kaydedilebilecek olan, doğrulanabilir bir dizim olgusudur:** *hâ-mîm* ile açılan sûrelerin hemen hepsinde açılışın ardından **kitap** anılır. Burada da öyle: ikinci ayet *tenzîlü'l-kitâb* ile başlıyor.
 
@@ -253,7 +253,7 @@ Arapçada *sümme*, *fâ*dan farklı olarak **arada bir mesafe** bildirir. **Yan
 
 **Klasik fıkıh kaynaklarında bu ayetle Bakara 2/233'ün (*havleyni kâmileyn* — tam iki yıl emzirme) birlikte okunduğu ve aradaki farktan asgarî gebelik süresine dair bir sonuç çıkarıldığı nakledilir.**
 
-**Bu bir istidlâldir ve öyle işaretlenmelidir:** ayet bu hesabı kendisi yapmıyor. **Nakledilen bir çıkarım olarak aktarıyorum, ayetin lafzî hükmü olarak değil.** USLUP gereği fıkhî sonuç kurmuyorum.
+**Bu bir istidlâldir ve öyle işaretlenmelidir:** ayet bu hesabı kendisi yapmıyor. **Nakledilen bir çıkarım olarak aktarıyorum, ayetin lafzî hükmü olarak değil.** STYLE gereği fıkhî sonuç kurmuyorum.
 
 ### حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ
 

@@ -141,7 +141,7 @@ Ayet, muhatabı savunmaya değil, **kendine bakmaya** zorluyor.
 
 Yani önce soruluyor, sonra hükmü konuyor. Ve hüküm konurken muhatap değişiyor: artık "siz" değil, **fiilin kendisi** öznedir. Cümle kişiden ayrılıp davranışa geçiyor.
 
-Bu, USLUP bakımından da anlamlı bir yapıdır: hüküm kişiye değil, fiile veriliyor.
+Bu, STYLE bakımından da anlamlı bir yapıdır: hüküm kişiye değil, fiile veriliyor.
 
 ### مَقْت — makt
 
@@ -515,7 +515,7 @@ Bu ayet, tarih boyunca en çok tartışılan Kur'an ayetlerinden biridir ve tart
 
 **Birincisi:** Böyle bir iddiada bulunmak, elimizde bulunan metinlerin dil katmanları, çeviri tarihi ve el yazması geleneği hakkında uzmanlık gerektirir. Bu tefsirin yetkinlik alanı değildir.
 
-**İkincisi:** USLUP'un en katı kuralı, doğrulanamayan bir şeyi nakil gibi sunmamaktır. Bu konuda yapılan karşılaştırmaların önemli bir kısmı, dil bilgisi tartışmalarına dayanır ve bu tartışmaların hakkını vermeden bir tarafa geçmek, okuyucuya emin olmadığım bir şeyi emin gibi sunmak olur.
+**İkincisi:** STYLE'ın en katı kuralı, doğrulanamayan bir şeyi nakil gibi sunmamaktır. Bu konuda yapılan karşılaştırmaların önemli bir kısmı, dil bilgisi tartışmalarına dayanır ve bu tartışmaların hakkını vermeden bir tarafa geçmek, okuyucuya emin olmadığım bir şeyi emin gibi sunmak olur.
 
 **Üçüncüsü:** Ayetin kendi iddiası, mevcut bir metinde bulunma iddiası değildir. Ayet, Îsâ'nın **söylediğini** aktarıyor.
 
@@ -719,7 +719,7 @@ Burada kelime *if'âl* bâbındadır: **أَظْهَرَ**. Ve anlamı üzerinde
 
 Bu iki okuma, üstünlüğün **ne türden** bir üstünlük olduğu sorusunu da beraberinde getirir. Klasik tefsirlerde bu konuda birkaç eğilim nakledilir: delil ve hüccet bakımından üstünlük; fiilî hâkimiyet; ve âhirzamana dair bir vaat.
 
-**Bu tefsirde bunlar arasında tercih yapmıyorum** ve bir gerekçem var: bu ayet, tarih boyunca siyasî programlara dayanak yapılmıştır ve USLUP gereği bu tefsirde güncel siyasete taraf olunmaz. Ayetin lafzının söylediği şey — bir gönderilişin bir gayesi olduğu — ile o gayenin nasıl gerçekleşeceğine dair yorumlar birbirinden ayrılmalıdır. Birincisi metnin, ikincisi yorumun alanıdır.
+**Bu tefsirde bunlar arasında tercih yapmıyorum** ve bir gerekçem var: bu ayet, tarih boyunca siyasî programlara dayanak yapılmıştır ve STYLE gereği bu tefsirde güncel siyasete taraf olunmaz. Ayetin lafzının söylediği şey — bir gönderilişin bir gayesi olduğu — ile o gayenin nasıl gerçekleşeceğine dair yorumlar birbirinden ayrılmalıdır. Birincisi metnin, ikincisi yorumun alanıdır.
 
 **عَلَى ٱلدِّينِ كُلِّهِۦ** — "dinin tamamına". *Ed-dîn* tekil ve belirlidir; *küllih* ile birlikte "din olan her şey" anlamına gelir.
 
@@ -1099,7 +1099,7 @@ Ve Beyyine bölümünde *münfekkîn* için tercih edilen okuma da bu yöne bak�
 
 **مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ** — ve buradaki **مِن** harfine dikkat: "İsrâiloğulları'**ndan** bir grup". Yani toptan bir hüküm kurulmuyor; bölünme bir topluluğun içinde gerçekleşiyor.
 
-Bu, Beyyine bölümünde *min* harfi için yapılan uzun tahlille aynı yere bakıyor; ve mushaf tertibinde önceki sûrede, Mümtehine 60/7'deki *minhüm* kaydıyla da aynı işi görüyor. USLUP gereği bu tefsirde bir grup hakkında toptan hüküm kurulmaz — ve burada da metnin kendisi bunu yapıyor.
+Bu, Beyyine bölümünde *min* harfi için yapılan uzun tahlille aynı yere bakıyor; ve mushaf tertibinde önceki sûrede, Mümtehine 60/7'deki *minhüm* kaydıyla da aynı işi görüyor. STYLE gereği bu tefsirde bir grup hakkında toptan hüküm kurulmaz — ve burada da metnin kendisi bunu yapıyor.
 
 ### فَأَيَّدْنَا — destekledik
 
@@ -1216,7 +1216,7 @@ Metin boyunca birkaç noktada bilerek kesin dil kullanılmadı; okuyucunun bunla
 
 - **61/8'deki *nûr* / *nâr* ayrımı üzerine yapılan gözlem** açıkça bir **dil gözlemi** olarak işaretlendi; fizik iddiası olmadığı yazıldı.
 
-- **61/9'daki *li-yuzhirahû* fiilinin anlamı ve "üstün gelme"nin niteliği.** İki okuma verildi; klasik eğilimler sayıldı, **tercih yapılmadı** ve gerekçesi (USLUP'un siyasete taraf olma yasağı) açıkça yazıldı.
+- **61/9'daki *li-yuzhirahû* fiilinin anlamı ve "üstün gelme"nin niteliği.** İki okuma verildi; klasik eğilimler sayıldı, **tercih yapılmadı** ve gerekçesi (STYLE'ın siyasete taraf olma yasağı) açıkça yazıldı.
 
 - **61/11'deki muzâri fiilin işlevi.** Üç görüş tablo halinde verildi. Emir kipiyle bir kıraat okunduğu nakledildi ama **imam adı verilmedi**, çünkü emin değilim.
 

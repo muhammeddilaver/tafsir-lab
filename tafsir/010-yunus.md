@@ -199,7 +199,7 @@
 
 **Bir kısım dilci ayrımı daha keskin koyar ve *dıyâ*yı "kendinden olan", *nûr*u "başkasından alınan/yansıyan" diye ayırır.** **`021-enbiya.md` 21/33'te bu ayrım nakledilmişti ve orada da "nakledilen bir ayrım" kaydıyla verilmişti.**
 
-**USLUP gereği burada açık bir sınır koyuyorum:** **bu ayrımdan modern astronomiye bir sonuç çıkarmıyorum.** Ayın ışığının yansıma olduğu bilgisi bugün bilinen bir şeydir; **ama ayetin bunu bildirdiğini söylemek, dilcilerin bir üslup ayrımını fizik önermesine çevirmek olur.** **Klasik dilcilerin ayrımı, kelimelerin *şiddet ve yumuşaklık* farkına dayanır — kaynak farkına değil.** **İkinci okuma nakledilir ve aktarılabilir; ama "Kur'an ayın yansıyan ışığını haber verdi" cümlesi bu tefsirde kurulmaz. Bu bir bakış açısıdır ve o kadarıyla bırakılır.**
+**STYLE gereği burada açık bir sınır koyuyorum:** **bu ayrımdan modern astronomiye bir sonuç çıkarmıyorum.** Ayın ışığının yansıma olduğu bilgisi bugün bilinen bir şeydir; **ama ayetin bunu bildirdiğini söylemek, dilcilerin bir üslup ayrımını fizik önermesine çevirmek olur.** **Klasik dilcilerin ayrımı, kelimelerin *şiddet ve yumuşaklık* farkına dayanır — kaynak farkına değil.** **İkinci okuma nakledilir ve aktarılabilir; ama "Kur'an ayın yansıyan ışığını haber verdi" cümlesi bu tefsirde kurulmaz. Bu bir bakış açısıdır ve o kadarıyla bırakılır.**
 
 **Ve şu kayıt da gerekir:** Kur'an *dıyâ* kelimesini güneşten başka şeyler için de kullanır — Enbiyâ 21/48'de Mûsâ ve Hârûn'a verilen kitap için *dıyâ* denir. **Yani kelime, "kendinden ışık saçan gök cismi" diye teknik bir terim değildir.** Bu, ayrımı fizik önermesine çevirmemek için kaydedilmesi gereken bir veridir.
 
@@ -1058,7 +1058,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu edattır:** yalanlama, **bekleme süresi dolmadan** verilmiş bir hükümdür. **Ve sûre bunu ellinci-elli birinci ayetlerde bir sahneyle gösterecek: te'vil geldiğinde iman ediliyor, ama vakit geçmiş oluyor.**
 
-**وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِ** (40) — **USLUP gereği bir kayıt:** ayet muhatapları **toptan** bir hükme bağlamıyor; ayrım yapıyor. **`013-rad.md` 13/36 ve `029-ankebut.md` 29/47'de aynı hassasiyet işlendi; oraya dayanıyorum.**
+**وَمِنْهُم مَّن يُؤْمِنُ بِهِۦ وَمِنْهُم مَّن لَّا يُؤْمِنُ بِهِ** (40) — **STYLE gereği bir kayıt:** ayet muhatapları **toptan** bir hükme bağlamıyor; ayrım yapıyor. **`013-rad.md` 13/36 ve `029-ankebut.md` 29/47'de aynı hassasiyet işlendi; oraya dayanıyorum.**
 
 ---
 
@@ -1338,7 +1338,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve *izin* kelimesi sûrenin üçüncü ayetinden geliyor: *illâ min ba'di iznih*.** **Aynı kelime, biri şefaat biri hüküm için.** Bunu bir lafız gözlemi olarak kaydediyorum.
 
-**USLUP gereği bir kayıt:** bu tefsirde fıkhî hüküm verilmez. **Ayetin lafzî olarak söylediği şey, helâl-haram belirleme yetkisinin nereden alındığıdır** — belirli bir yiyecek listesi hakkında hüküm kurmuyorum.
+**STYLE gereği bir kayıt:** bu tefsirde fıkhî hüküm verilmez. **Ayetin lafzî olarak söylediği şey, helâl-haram belirleme yetkisinin nereden alındığıdır** — belirli bir yiyecek listesi hakkında hüküm kurmuyorum.
 
 **Ve ayetin tarihî arka planı klasik kaynaklarda nakledilir:** Arapların bazı hayvanları kendi koydukları kurallarla haram sayması. **Kur'an bu uygulamayı başka yerlerde adlandırır** (En'âm 6/136-140, Mâide 5/103). **Bu bağlantıyı ayet düzeyinde veriyorum; ayrıntıya girmiyorum.**
 
@@ -1378,7 +1378,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ### مِّثْقَالِ ذَرَّةٍ — ve sınırı koruyorum
 
-**Bu terkip `034-sebe.md` 34/3'te ayrıntılı çözümlendi ve orada USLUP gereği açık bir sınır konmuştu. O sınırı aynen koruyorum:**
+**Bu terkip `034-sebe.md` 34/3'te ayrıntılı çözümlendi ve orada STYLE gereği açık bir sınır konmuştu. O sınırı aynen koruyorum:**
 
 > **"Bu kelimeden modern fizikteki atom çıkarılmaz."**
 
@@ -1427,7 +1427,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı altmış üçüncü ayetin varlığıdır:** terkip açık bırakılmıyor, **hemen tanımlanıyor.** **Ve tanımda iki şey var: bir kabul (*âmenû*, mâzi) ve bir süreklilik (*kânû yettekūn*, *kâne* + muzâri — devam bildirir).**
 
-**USLUP gereği bir kayıt:** bu terkip etrafında tarih boyunca kurulan tasavvufî ve kelâmî tartışmalara girmiyorum. **Ayetin kendisi bir tanım verdiği için, tanımın ötesine geçmiyorum.**
+**STYLE gereği bir kayıt:** bu terkip etrafında tarih boyunca kurulan tasavvufî ve kelâmî tartışmalara girmiyorum. **Ayetin kendisi bir tanım verdiği için, tanımın ötesine geçmiyorum.**
 
 ### لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 
@@ -1863,7 +1863,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve ن-ج-و kökü hakkındaki dördüncü izah kaydedilmeye değer, çünkü kelimenin somut anlamına dayanır:** *necve* — **yüksekçe yer, tümsek.** **"Kurtulmak" anlamı bu resimden gelir: sel gelince yükseğe çıkan kurtulur.** **Bu türetmeyi dilcilerin kaydettiği şekliyle aktarıyorum.**
 
-**USLUP gereği açık bir sınır koyuyorum ve bunu yazmak zorunludur:**
+**STYLE gereği açık bir sınır koyuyorum ve bunu yazmak zorunludur:**
 
 **Bu ayetten çağdaş arkeolojiye, müzelerde bulunan herhangi bir mumyaya ya da belirli bir tarihî şahsa dair hiçbir sonuç çıkarmıyorum.** **Ayet bir isim vermiyor, bir tarih vermiyor, bir yer vermiyor.** **Kur'an'ın vermediği ayrıntıya girilmez — bu, dizinin kıssalarda uyguladığı kuraldır.** **Ve böyle bir bağ kurulduğunda metnin doğruluğu, kurulan bağın kaderine bağlanmış olur.** **`032-secde.md` 32/5'te ve `070-mearic.md`'de aynı gerekçe yazıldı; oraya dayanıyorum.**
 
@@ -2109,7 +2109,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve `026-suara.md` 26/4'te bu ayet bir tabloya girmişti:** *ve lev şâe rabbüke le-âmene men fi'l-ard* (Yûnus 10/99), *ve lev şi'nâ le-âteynâ külle nefsin hüdâhâ* (Secde 32/13). **Ve orada kaydedilmişti: "üç ayet de aynı yapıdadır: dilemek + zorlamak + gerçekleşmemek."** **Oraya dayanıyorum.**
 
-**USLUP gereği bir kayıt:** bu ayet, dinî inanç konusunda **kimseye toptan hüküm kurmak** ya da güncel siyasî bir pozisyon üretmek için kullanılmaz. **Ayetin lafzî olarak söylediği şey, zorlamanın elçinin işi olmadığıdır.**
+**STYLE gereği bir kayıt:** bu ayet, dinî inanç konusunda **kimseye toptan hüküm kurmak** ya da güncel siyasî bir pozisyon üretmek için kullanılmaz. **Ayetin lafzî olarak söylediği şey, zorlamanın elçinin işi olmadığıdır.**
 
 **وَمَا كَانَ لِنَفْسٍ أَن تُؤْمِنَ إِلَّا بِإِذْنِ ٱللَّهِ** (100) — **ve *izin* kelimesi sûrede üçüncü kez geçiyor.**
 
@@ -2394,7 +2394,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ### Sınır kayıtları
 
-**Bu bölümde USLUP gereği açıkça çizilen sınırlar:**
+**Bu bölümde STYLE gereği açıkça çizilen sınırlar:**
 
 | Ayet | Sınır |
 |---|---|

@@ -578,7 +578,7 @@ Sûrenin bu kadar keskin olması, iki yönde suistimale açık hale getiriyor. �
 
 **İkinci yanlış okuma: sûreyi başkalarını ölçmek için kullanmak.** Sûrenin dördüncü ayette yaptığı manevra tam olarak bunu engellemek içindir. Metin okuru önce güvenli bir yere koyup sonra oradan çıkarıyor. Bu ayetleri elinize alıp "şu adam da Mâûn'un tarifine giriyor" demek, sûrenin yaptığı işi tersine çevirmektir. Sûre bir tanı aracıdır ve tanı, önce kendine konulur.
 
-Bir de USLUP gereği not edilmesi gereken bir nokta: sûre bir grup, bir sınıf, bir kesim tarif etmiyor. **Vasıflar** tarif ediyor. Kim o vasfı taşıyorsa ayet ondan söz ediyordur; kimliği, mensubiyeti, dış görünüşü ne olursa olsun.
+Bir de STYLE gereği not edilmesi gereken bir nokta: sûre bir grup, bir sınıf, bir kesim tarif etmiyor. **Vasıflar** tarif ediyor. Kim o vasfı taşıyorsa ayet ondan söz ediyordur; kimliği, mensubiyeti, dış görünüşü ne olursa olsun.
 
 ### Bugüne bakan yönü
 

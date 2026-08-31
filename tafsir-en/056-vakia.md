@@ -1251,7 +1251,7 @@ The plural of *ʿaynāʾ* (feminine) or of *aʿyan* (masculine). Sense: **wide-e
 
 ### A variant reading — and it changes the sense
 
-There is a variant reading in this verse that changes the sense, and **per the method (`USLUP.md`) it must be recorded.** Two readings are transmitted:
+There is a variant reading in this verse that changes the sense, and **per the method (`STYLE.md`) it must be recorded.** Two readings are transmitted:
 
 | Reading | Case | Its place in the sentence | The sense that arises |
 |---|---|---|---|
@@ -1806,7 +1806,7 @@ I record this as an observation about word order. **The framing shows that the s
 
 ### A note on the language of these descriptions
 
-**Per the method (`USLUP.md`) I must write something plainly here, because when it is not said the text is misunderstood.**
+**Per the method (`STYLE.md`) I must write something plainly here, because when it is not said the text is misunderstood.**
 
 **First — the matter of the audience.** These verses came down to a community living in the desert, for whom thirst and want were part of daily life. Shade, running water, fruit that is not cut off, a raised couch: **all of them are things really lacking in that life.** That the description is built from this material is a speaking in a language the hearer can understand. To say this does not diminish the description; **to take into account to whom something is said is the work of exegesis.**
 
@@ -2324,7 +2324,7 @@ The expected expression would be *mina'sh-shajari'l-zaqqūm* (from the zaqqūm t
 
 **Looked at with the knowledge of today, the line the verse draws finds a concrete counterpart:** the difference between what man does by his will and the dividing, implanting and developing of the cell is known today in far greater detail.
 
-**But I do not present this as a claim of "miracle", and per the method (`USLUP.md`) I draw its limit plainly:** the verse gives no description of embryology, **it asks a question about responsibility.** The seventh-century person addressed by it needed no knowledge of cells to understand this question either — **he already knew that he could not interfere in the forming of his own child.**
+**But I do not present this as a claim of "miracle", and per the method (`STYLE.md`) I draw its limit plainly:** the verse gives no description of embryology, **it asks a question about responsibility.** The seventh-century person addressed by it needed no knowledge of cells to understand this question either — **he already knew that he could not interfere in the forming of his own child.**
 
 **The proof of the verse, that is, rests not on some unknown piece of knowledge but on a helplessness everyone knows. Today's knowledge multiplies the detail of that helplessness; it does not change the proof itself.**
 
@@ -2664,7 +2664,7 @@ The expected expression would be *mina'sh-shajari'l-zaqqūm* (from the zaqqūm t
 
 **And what it says is plain:** the greatness of the oath depends on what is sworn by being known. **Had it been known what the places of the stars mean, the weight of the oath would have been understood.**
 
-**I record this as an observation and draw its limit too:** the verse says that the hearer's knowledge is deficient. **I draw no conclusion from this such as "modern astronomy is meant"** — per the method (`USLUP.md`) such a claim is groundless. What the verse says is that knowledge is deficient; **it has not specified which knowledge.**
+**I record this as an observation and draw its limit too:** the verse says that the hearer's knowledge is deficient. **I draw no conclusion from this such as "modern astronomy is meant"** — per the method (`STYLE.md`) such a claim is groundless. What the verse says is that knowledge is deficient; **it has not specified which knowledge.**
 
 ### إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ — and the return of a denied attribute
 
@@ -2719,7 +2719,7 @@ The expected expression would be *mina'sh-shajari'l-zaqqūm* (from the zaqqūm t
 
 **The pattern *muṭahharūn* is counted an indication and must be recorded:** the word is a **passive participle** (purified), not *mutaṭahhirūn* (those who purify themselves). **The purifying appears to have been done to them, that is, not by them.** Those who maintain the first view rest on this pattern.
 
-**I impose no preference and, per the method (`USLUP.md`), I issue no legal ruling.** The question of touching the codex without ritual purity is a question of law; **the schools differ on it, and this verse's place in that debate is itself disputed.** What is relayed here is the linguistic and exegetical side of the verse.
+**I impose no preference and, per the method (`STYLE.md`), I issue no legal ruling.** The question of touching the codex without ritual purity is a question of law; **the schools differ on it, and this verse's place in that debate is itself disputed.** What is relayed here is the linguistic and exegetical side of the verse.
 
 ### تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِين — the word order of the four verses
 
@@ -3057,7 +3057,7 @@ The pronoun is feminine: *tarjiʿūna**hā*** — that is, **the thing** whose n
 
 ### The disagreements on which no preference is made in this commentary
 
-**Per the method (`USLUP.md`) I record: in the following places two or more readings were relayed and no preference was imposed in any of them.**
+**Per the method (`STYLE.md`) I record: in the following places two or more readings were relayed and no preference was imposed in any of them.**
 
 | Verse | The disagreement |
 |---|---|

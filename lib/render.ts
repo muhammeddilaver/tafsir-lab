@@ -1,18 +1,18 @@
-// Bloklari dogrudan HTML dizesine cevirir.
-// Neden JSX degil: sure sayfalari 30 bine yakin dugum iceriyor ve icerik
-// tamamen statik. JSX agaci olarak verilince ayni icerik bir de RSC
-// yukunde tasiniyor (sayfanin %66'si) ve istemcide hydrate ediliyordu.
-// Tek bir dizeye cevirince hem yuk yariya iniyor hem de hydration kalkiyor.
+// Turns blocks straight into an HTML string.
+// Why not JSX: a sura page holds close to 30,000 nodes and the content is
+// entirely static. As a JSX tree the same content was also carried in the
+// RSC payload (66% of the page) and hydrated on the client. Rendering to a
+// single string halves the payload and removes hydration.
 import type { Block } from "./md";
 import { T, type Lang } from "./i18n";
 
-// Zincir (baglanti) ikonu CSS'te maske olarak duruyor: § isareti okurun
-// cogu icin anlamsizdi, ama SVG'yi her satira gomunce en buyuk surede
-// 624 KB ediyordu (2124 capa x 301 bayt). Isaret artik .anchor::before.
+// The chain (link) icon lives in CSS as a mask: a § sign meant nothing to
+// most readers, but inlining the SVG on every line cost 624 KB in the
+// longest sura (2,124 anchors x 301 bytes). The mark is now .anchor::before.
 const anchor = (id: string, label: string) =>
   `<a class="anchor" href="#${id}" data-anchor="${id}" aria-label="${label}" title="${label}"></a>`;
 
-/** Modal parcasi icin: id, capa ve § isareti olmadan sade govde. */
+/** For the modal fragment: a bare body with no ids, anchors or § marks. */
 export function renderBare(blocks: Block[], lang: Lang = "tr"): string {
   return renderBlocks(blocks, {}, lang)
     .replace(/<a class="anchor"[\s\S]*?<\/a>/g, "")
@@ -28,8 +28,9 @@ export function renderBlocks(
 ): string {
   const a = (id: string) => anchor(id, T[lang].shareLine);
   const out: string[] = [];
-  // Ayri bir bolumun kendi id'si olan ayet numaralari icin span uretme:
-  // ayni id iki kez cikmasin (ornegin "42/36-39" bolumu + ayri "42/36" bolumu).
+  // Do not emit a span for verse numbers that are already a section id of
+  // their own, so the same id is not produced twice (for example the
+  // "42/36-39" section plus a separate "42/36" section).
   const sectionIds = new Set(blocks.filter((b) => b.k === "h" && b.ayah).map((b) => b.id));
 
   for (const b of blocks) {
@@ -42,7 +43,8 @@ export function renderBlocks(
       if (b.ayah) {
         const { sura, from, to } = b.ayah;
         const label = from === to ? `${sura}/${from}` : `${sura}/${from}-${to}`;
-        // Tek ayetlik bolumde bolum id'si zaten "N/a" — capayi tekrar etme.
+        // In a single-verse section the section id is already "N/a" — do
+        // not repeat the anchor.
         const spans = (anchorsBySection[b.id] ?? [])
           .filter((n) => !sectionIds.has(`${sura}/${n}`))
           .map((n) => `<span class="a-anchor" id="${sura}/${n}"></span>`)

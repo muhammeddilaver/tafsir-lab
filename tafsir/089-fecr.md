@@ -1427,7 +1427,7 @@ Kur'an'daki akrabaları: *es-Sâffât* (Sâffât 37/1 — saf saf dizilenler), *
 
 Bu ifade, Kur'an'da **müteşâbih** denilen ayetler grubuna girer: lafzı, insan için kullanılan bir fiili Allah'a nispet eder ve anlamı üzerinde kesin bir hüküm vermek kolay değildir.
 
-Bu tefsirde kelâmî bir taraf tutmuyorum; USLUP'un kaydettiği ölçü gereği iki ana tavrı olduğu gibi aktarıyorum.
+Bu tefsirde kelâmî bir taraf tutmuyorum; STYLE'ın kaydettiği ölçü gereği iki ana tavrı olduğu gibi aktarıyorum.
 
 | Tavır | Ne der | Dayanağı |
 |---|---|---|

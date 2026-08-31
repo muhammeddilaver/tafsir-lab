@@ -518,7 +518,7 @@ The reason for this is not in the verse itself but is there in the sūra as a wh
 
 And everyone who has a secret to protect makes the same reckoning: *"Has it been found out?"* Once this question settles in the mind it is applied to every stimulus. A glance, a silence, the sound of a door, a summons to a meeting — all become data for the same question.
 
-Today this is called **hypervigilance**, or the state of being on the alert, and it is a condition well described in the psychological literature. The observation the verse makes agrees with it. But I draw no claim from this that "the Qurʾān knew psychology in advance" — that would be a forcing of the kind the method (`USLUP.md`) forbids. What can be said is this: **the verse correctly describes the price of carrying a hidden contradiction**, and that description agrees with observation.
+Today this is called **hypervigilance**, or the state of being on the alert, and it is a condition well described in the psychological literature. The observation the verse makes agrees with it. But I draw no claim from this that "the Qurʾān knew psychology in advance" — that would be a forcing of the kind the method (`STYLE.md`) forbids. What can be said is this: **the verse correctly describes the price of carrying a hidden contradiction**, and that description agrees with observation.
 
 Let us note what the price is: **there is no ease.** The punishment the sūra assigns to this type is not a punishment seen from outside. Their position is secure, their bodies impressive, their words listened to. But every sound comes down upon them.
 
@@ -1153,7 +1153,7 @@ For the pronoun *hum* it was recorded at al-Māʿūn 107/5: *"a pronoun written 
 
 **And note the structure of the conditional clause:** *wa man yafʿal dhālika* — "whoever does that". General. No name, no group, no membership. After the type called "the hypocrites" has been related over eight verses, the ruling is left open-ended in the form **"whoever does it"**.
 
-This is the basic qualification of the method (`USLUP.md`) found within the text itself: what is described is **an attribute**, and whoever carries that attribute is included in it.
+This is the basic qualification of the method (`STYLE.md`) found within the text itself: what is described is **an attribute**, and whoever carries that attribute is included in it.
 
 ---
 

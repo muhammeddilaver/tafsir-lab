@@ -502,7 +502,7 @@ Burada tercih edilen kelimenin **belirli bir kitap** olması anlamlıdır. Ayet 
 
 Ama ayetin devamı bu belirliliği hemen genişletiyor: *"Allah'ın ayetlerini yalanlayan **topluluğun** durumu ne kötüdür."* İkinci cümlede Tevrat geçmiyor; genel bir vasıf konuyor. Yani benzetme belirli bir topluluk için kuruluyor, hüküm ise **vasıf** üzerinden veriliyor.
 
-Bu, USLUP'un temel kaydının metnin kendisinde bulunması demektir: Kur'an burada bir topluluğu adlandırıyor ama hükmü bir davranışa bağlıyor. Kim o davranışı yaparsa tarif ona da uyar — ve sûrenin on birinci ayeti tam olarak bunu gösterecek.
+Bu, STYLE'ın temel kaydının metnin kendisinde bulunması demektir: Kur'an burada bir topluluğu adlandırıyor ama hükmü bir davranışa bağlıyor. Kim o davranışı yaparsa tarif ona da uyar — ve sûrenin on birinci ayeti tam olarak bunu gösterecek.
 
 ### كَمَثَلِ الْحِمَارِ — benzetmenin dizimi
 
@@ -606,7 +606,7 @@ Benzetmenin eşeği seçmesi bu noktada isabetlidir: eşek, kitabın *nesne* tar
 
 **İki. İçeriğe kayıtsız taşıyıcılık.** Benzetmenin merkezinde zekâ eksikliği değil, **ilgi eksikliği** var. Bu, bilgiyi mesleği gereği taşıyan herkes için geçerli bir uyarıdır: bir metni öğreten, aktaran, yayan, savunan kişi de taşıyıcıdır. Taşıma işi profesyonelleştiğinde içerikten kopması kolaylaşır — çünkü taşıma işinin kendi ölçütleri oluşur ve içerik o ölçütlerin dışında kalır.
 
-**Üç. Benzetmenin sınırı.** Ayet Tevrat üzerinden konuşuyor; ama bir sûre içinde kalıp on birinci ayete geldiğinizde, aynı tarifin başka bir topluluk hakkında kaydedildiğini görüyorsunuz. Bu, sûrenin kendi içinde kurduğu bir sınırdır: benzetme bir topluluğa yapıştırılıp orada bırakılamaz. Kim kitabı taşıyıp taşımıyorsa, tarif onundur. USLUP gereği burada açıkça kaydediyorum: bu ayet, bir dinî topluluk hakkında toptan hüküm kurmak için kullanılamaz. Ayetin kendisi hükmü *"Allah'ın ayetlerini yalanlayanlar"* vasfına bağlamıştır ve altı ayet sonra aynı sûre, ilk muhataplarını da aynı aynanın karşısına oturtmuştur.
+**Üç. Benzetmenin sınırı.** Ayet Tevrat üzerinden konuşuyor; ama bir sûre içinde kalıp on birinci ayete geldiğinizde, aynı tarifin başka bir topluluk hakkında kaydedildiğini görüyorsunuz. Bu, sûrenin kendi içinde kurduğu bir sınırdır: benzetme bir topluluğa yapıştırılıp orada bırakılamaz. Kim kitabı taşıyıp taşımıyorsa, tarif onundur. STYLE gereği burada açıkça kaydediyorum: bu ayet, bir dinî topluluk hakkında toptan hüküm kurmak için kullanılamaz. Ayetin kendisi hükmü *"Allah'ın ayetlerini yalanlayanlar"* vasfına bağlamıştır ve altı ayet sonra aynı sûre, ilk muhataplarını da aynı aynanın karşısına oturtmuştur.
 
 ---
 
@@ -1383,7 +1383,7 @@ Ve son ayetin *er-râzikîn* ile bitmesi, sûrenin 5-7 arasındaki *-în* kümes
 
 **Bir: ticaretin kötülüğünü.** Onuncu ayet bunu açıkça kapatıyor. Sûre iktisadî faaliyeti değil, onun sırasını düzenliyor.
 
-**İki: belirli bir dinî topluluğun toptan mahkûmiyetini.** Beşinci ayet Tevrat ehline hitap ediyor ama hükmü *"Allah'ın ayetlerini yalanlayan topluluk"* vasfına bağlıyor. Ve on birinci ayet, aynı arızanın ilk muhataplarında da görüldüğünü kaydediyor. USLUP gereği açıkça yazıyorum: bu ayetler bir etnik ya da dinî grup hakkında toptan hüküm kurmak için kullanılamaz. Sûrenin kendi yapısı bunu engelliyor — çünkü benzetmeyi kurduktan altı ayet sonra aynayı çeviriyor.
+**İki: belirli bir dinî topluluğun toptan mahkûmiyetini.** Beşinci ayet Tevrat ehline hitap ediyor ama hükmü *"Allah'ın ayetlerini yalanlayan topluluk"* vasfına bağlıyor. Ve on birinci ayet, aynı arızanın ilk muhataplarında da görüldüğünü kaydediyor. STYLE gereği açıkça yazıyorum: bu ayetler bir etnik ya da dinî grup hakkında toptan hüküm kurmak için kullanılamaz. Sûrenin kendi yapısı bunu engelliyor — çünkü benzetmeyi kurduktan altı ayet sonra aynayı çeviriyor.
 
 **Üç: ölümü istemenin genel olarak istenir olduğunu.** Altıncı ayetteki test belirli bir iddianın tutarlılığını ölçüyor; genel bir tavsiye değil.
 

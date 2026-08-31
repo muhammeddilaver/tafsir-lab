@@ -26,7 +26,7 @@ Here I write my position plainly: **I do not relay the content of the report, an
 
 This second point rests on a measure of method that was used in the section on Sūrat al-Balad as well: *al-ʿibratu bi-ʿumūmi'l-lafẓ lā bi-khuṣūṣi's-sabab* — the ruling goes by the generality of the wording, not by the particularity of the occasion. The eighth verse gives no name. It describes **"those who feed food, though they love it, to the needy, the orphan and the captive."** Whoever comes under that description is included in the verse; whoever does not is not included, whatever may be transmitted about him.
 
-This is the application of the principle recorded in `USLUP.md`: what the verse describes are **attributes**.
+This is the application of the principle recorded in `STYLE.md`: what the verse describes are **attributes**.
 
 ## How the sūra is built
 

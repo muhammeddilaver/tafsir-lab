@@ -339,7 +339,7 @@ This is where the two great readings arise.
 
 ### The disagreement: what does the splitting of the moon relate?
 
-**On this question I issue no definite ruling.** Per the method (`USLUP.md`) I give the disagreement with its evidence and I do not impose a preference. There are two main views and one reconciling view.
+**On this question I issue no definite ruling.** Per the method (`STYLE.md`) I give the disagreement with its evidence and I do not impose a preference. There are two main views and one reconciling view.
 
 | | **(a) An event that occurred in the past** | **(b) A sign of the Hour related in the perfect** |
 |---|---|---|
@@ -361,7 +361,7 @@ This is where the two great readings arise.
 
 There is a kind of claim that circulates widely around this verse: the claim that some geological formation on the surface of the moon (most often a fissure or a *rille*) is the "scientific proof" of this verse, together with the various accounts that accompany it.
 
-**This commentary does not use these claims.** The ground is an explicit clause of `USLUP.md`: *"No hunting for scientific miracles. No modern piece of knowledge is forced onto a verse."*
+**This commentary does not use these claims.** The ground is an explicit clause of `STYLE.md`: *"No hunting for scientific miracles. No modern piece of knowledge is forced onto a verse."*
 
 Beyond that there are two further practical reasons:
 
@@ -645,7 +645,7 @@ Two elisions of the codex's orthography come together in this expression:
 - **يَدْعُ** — its original is *yadʿū* (يدعو). The final **و** is not written.
 - **ٱلدَّاعِ** — its original is *al-dāʿī* (الداعي). The final **ي** is not written.
 
-Elisions of this kind are found in several places in the written codex, and the letter is not pronounced in recitation. **I record this as a datum of the language; I draw from it no meaning and no numerical claim whatsoever.** The prohibition in `USLUP.md` on letter-and-number computation holds here too.
+Elisions of this kind are found in several places in the written codex, and the letter is not pronounced in recitation. **I record this as a datum of the language; I draw from it no meaning and no numerical claim whatsoever.** The prohibition in `STYLE.md` on letter-and-number computation holds here too.
 
 **ٱلدَّاعِ** — the caller. **Root: د-ع-و**, and this root was treated in detail in **`071-nuh.md`** as the backbone of that sūra: it was shown there that the root does two jobs at once in Arabic (to call and to pray).
 
@@ -1502,7 +1502,7 @@ The root used in both verses is **ط-ي-ر** (*ṭiyara* — to take auguries by
 
 **Three.** The verse itself already names the agent: *innā arsalnā* — **"We sent."** The misfortune of the day is not a power; it is a characterisation of the event.
 
-I give these three points together with the notes of `USLUP.md` that *"the link with science, history and social science must not be forced"* and that *"where certainty is not spoken must be stated openly."* All three rest on the text of the Qurʾān; the stance in the conclusion is mine.
+I give these three points together with the notes of `STYLE.md` that *"the link with science, history and social science must not be forced"* and that *"where certainty is not spoken must be stated openly."* All three rest on the text of the Qurʾān; the stance in the conclusion is mine.
 
 ### مُّسْتَمِرّ — the second occurrence in the sūra
 
@@ -2295,7 +2295,7 @@ This pattern occurs in several places in the Qurʾān, and in **`055-rahman.md`*
 
 In **`055-rahman.md`** the difference between the first two was recorded: *"al-Mursalāt names the agent, al-Raḥmān the act."* Al-Qamar takes a third path: **it defines the person by his act** — "whoever gives thanks".
 
-And the relative pronoun **مَنْ** is indefinite here: not a name but a quality. This accords with the principle recorded in `USLUP.md`: *"what the verse describes are qualities; whoever bears that quality is included in it."*
+And the relative pronoun **مَنْ** is indefinite here: not a name but a quality. This accords with the principle recorded in `STYLE.md`: *"what the verse describes are qualities; whoever bears that quality is included in it."*
 
 ### Why "thanks"?
 
@@ -2960,7 +2960,7 @@ And from this **jurm**: a crime. The lexicographers' explanation: a crime is the
 
 **The word's position in the sūra is worth recording.** The sūra named four peoples one by one: the people of Noah, ʿĀd, Thamūd, the people of Lot, the house of Pharaoh. At verse forty-seven the names end and a single **quality** remains: *al-mujrimūn.*
 
-**The principle recorded in `USLUP.md` here appears in the text's own working:** *"No blanket judgement is issued about an ethnic or religious group; what the verse describes are qualities, and whoever bears that quality is included in it."* The sūra itself makes the same transition: from the names of peoples to a quality.
+**The principle recorded in `STYLE.md` here appears in the text's own working:** *"No blanket judgement is issued about an ethnic or religious group; what the verse describes are qualities, and whoever bears that quality is included in it."* The sūra itself makes the same transition: from the names of peoples to a quality.
 
 I record this as an observation.
 
@@ -3130,7 +3130,7 @@ Limited — because it has been measured; it is not infinite. Sufficient — bec
 
 Its counterpart in a person's own life is the fact that resources and spans are limited: time is measured, strength is measured, opportunity is measured. The verse names this not as a lack but as an **order.**
 
-This is not the sort of dressing-up of a verse in modern knowledge that `USLUP.md` forbids; it follows directly from the lexical sense of the word. And I record it not as a definite ruling but as a reading.
+This is not the sort of dressing-up of a verse in modern knowledge that `STYLE.md` forbids; it follows directly from the lexical sense of the word. And I record it not as a definite ruling but as a reading.
 
 ---
 
@@ -3264,7 +3264,7 @@ Its uses in the Qurʾān show the field of the word:
 
 **Two — it does not specify the kind of tie.** A *shīʿa* is not a bond of descent; it is a bond of **acting together.** What is said to the addressee, that is, is not "they are your forefathers" but **"they are those who behaved as you do".**
 
-And this accords with the principle recorded in `USLUP.md`: the tie is established not by identity but by **quality.**
+And this accords with the principle recorded in `STYLE.md`: the tie is established not by identity but by **quality.**
 
 **I record this as my own reading.** The sense of the root is a datum of the language; the reading "a tie of quality" that I draw from it is mine.
 
@@ -3729,7 +3729,7 @@ In **`055-rahman.md`** al-Raḥmān's last verse and the sūra's outer frame wer
 
 ## What this says to the present
 
-Per the method (`USLUP.md`), what is said in this section is **my own reading**; it is not offered as transmitted material and it is not binding.
+Per the method (`STYLE.md`), what is said in this section is **my own reading**; it is not offered as transmitted material and it is not binding.
 
 **One — the question is not answered.**
 
@@ -3793,12 +3793,12 @@ This is the exact opposite of al-Raḥmān's refrain, and at this point the two 
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list openly the places where, throughout the text, definite language was deliberately not used.
+Per the method (`STYLE.md`), I list openly the places where, throughout the text, definite language was deliberately not used.
 
 - **What the splitting of the moon in 54/1 relates** — an event that occurred in the past, or a sign of the Hour related in the perfect — **is disputed.** Two great readings and one reconciling reading were given in tabular form, with their evidence and their weak sides. **No preference was adopted and no definite ruling was issued.**
 - **The ascription of the second view to al-Ḥasan al-Baṣrī** is widely transmitted in the classical sources; **certainty was not claimed about the soundness of the ascription**, because no verified chain can be given.
 - **That reports about the splitting of the moon are found in al-Bukhārī and Muslim** was recorded; **the text of no report was relayed, no chain of transmitters was given and no single report was made a support.**
-- **Claims of "scientific proof" drawn from geological formations on the moon's surface were rejected**, and the ground was written openly: `USLUP.md`'s prohibition on hunting for scientific miracles, the claim's own lack of support, and the fact that such a link works against the text.
+- **Claims of "scientific proof" drawn from geological formations on the moon's surface were rejected**, and the ground was written openly: `STYLE.md`'s prohibition on hunting for scientific miracles, the claim's own lack of support, and the fact that such a link works against the text.
 - **On the sense of مُّسْتَمِرّ** (going on / about to pass / strong) three readings were given; **no preference was imposed.** The sentence that all three arrive at the same result is **my own reading.**
 - **On whether the senses "to pass by" and "to be bitter" in the root م-ر-ر come from the same root, no definite ruling was issued.**
 - **That the roots م-ر-ر and م-ر-ي are distinct was recorded explicitly**; **no meaning was drawn** from the closeness in sound between the two roots.
@@ -3832,7 +3832,7 @@ Per the method (`USLUP.md`), I list openly the places where, throughout the text
 - **The names, number and locations of the cities of the people of Lot were not given;** the note of the section on al-Ḥāqqa was preserved.
 - **That the word مَلِيك occurs only here in the Qurʾān** was stated on the basis of the widespread note; **no absolute claim about the count was made.** The same caution holds for *munhamir* and *adhā*.
 - **Explanations of roots:** ه-و-ي (falling / craving), ع-ق-ر (cutting / barrenness), ح-ظ-ر (fold / prohibition), ز-ب-ر (writing / a block of iron), س-ح-ب (dragging / cloud), د-ه-ي (disaster / intelligence), س-ع-ر (madness / flame), ج-ن-ن (covering / madness), ن-ه-ر (river / daytime), ه-ش-م (breaking / the name *Hāshim*), ج-ر-د (stripping / locust), ع-ط-و (giving / reaching out and taking), and the difference between ن-د-و and د-ع-و — **all of these were transmitted as relations set up by the lexicographers**, not offered as settled etymological rulings.
-- **The elisions in the orthography of the codex** (*yadʿu*, *al-dāʿī*, *tughni*) were recorded as data of the language; **no meaning, number or letter-computation whatsoever was drawn from them.** `USLUP.md`'s prohibition on abjad/letter computation was preserved.
+- **The elisions in the orthography of the codex** (*yadʿu*, *al-dāʿī*, *tughni*) were recorded as data of the language; **no meaning, number or letter-computation whatsoever was drawn from them.** `STYLE.md`'s prohibition on abjad/letter computation was preserved.
 - **No claim of a miracle was drawn from the unity of the verse-endings;** it was stated explicitly that rhyme of this kind is a widespread technique in Arabic poetry and rhymed prose.
 - **My own readings.** The following are mine, are not transmitted material and are not binding: the difference of function drawn from the five separate placements of the refrains; the comparison of the refrains of al-Raḥmān and al-Qamar and the reading "one points with a finger, the other sweeps the room"; the conclusion drawn from the word *rasūl* never occurring in the sūra and from the objects of the verb *irsāl*; the table showing that the verse-ending selects the word-forms and the reading "in al-Qamar you have to look at the wording to see the refrain"; the recording of the overlap between *siḥr* in verse two and *saḥar* in verse thirty-four (the shared root is a datum of the language; a deliberate choice was **not claimed**); the gathering of the three examples of the "handing the word back to its owner" technique under a single heading; the link between the rule in verse three and the instance in verse thirty-eight; the reversal of the root ز-ج-ر in verses four and nine; the "unlikeness / likeness" division of labour between *nukur* and *jarād*; the comparison of al-Qāriʿa's *farāsh* with al-Qamar's *jarād* and the "lightness / multitude" distinction; the recording of the shared root between *nushūr* and *muntashir*; the contrast between *ʿasir* and *yassarnā*; the contrast between Noah's *maghlūb* and their *muntaṣir*; the "from duality to unity" reading of the meeting of the two waters; the contrast of the gate between al-Aʿrāf 7/40 and 54/11; the ship's not being named and being reduced to its material; the difference between al-Ḥāqqa's *ḥamalnākum* and al-Qamar's *ḥamalnāhu*; the drowning never being mentioned; the attaching of *fa-hal min muddakir* to three separate sources (the event / the text / the addressee himself); the reading that the material piled up behind the refrain increases; the framing of ʿĀd's account by the refrain; the function of the question coming before the answer in Thamūd; the turn of the mood to the imperative in Lot being a preparation; the distribution of Form VII in the sūra; the joining of *munqaʿir* with *khāwiya*; the word *al-nās* enlarging the asymmetry; the classification of the three objections as "kind / number / choice"; the reading drawn from the choice of the word *bashar*; the point about the definite article between verses twenty-five and twenty-six; the conclusion drawn from reading *qismatun* as a verbal-noun predicate; the defining of Thamūd's offence as "the abolition of the turn"; the reading drawn from the object of *taʿāṭā* not being named; the sense "to cut off continuance" of the root ع-ق-ر being functional in the sūra; the three comparisons being taken from the addressee's way of making a living; the contrast in a people who built houses out of rock being likened to dry brushwood; the contrast between *āla Lūṭin* and *āla Firʿawna*; the distance of about an hour between *saḥar* and *bukra*; the conclusion drawn from the rescue being named a "favour" and the return "thanks", and the contrast set up with al-Raḥmān; the table of the three "thus do We recompense" formulas; the reading of *tamārī* as "neutralising by opening to debate"; the offence-and-penalty matching (eye / eye); the five-point observation about word order on why the account of Pharaoh is the shortest, and the "item on a list" reading; the division of labour between *ʿazīz* and *muqtadir*; the question-and-answer circle between verses forty-three and fifty-two; the "scattering of the unity" reading drawn from the singular-plural shift in verses forty-four and forty-five; the meeting of *mass* and *saqar*; the comparison of the root ق-د-ر's three-branched use in Sūrat al-Qadr with its use divided over two words in al-Qamar; the table of the theme of measure in the sūra; the word for eye being used in five separate roles; the difference of particle between al-Naḥl 16/77 and 54/50; the reading of verses forty-nine and fifty as "the measure is in the object, not in the command"; the word *ashyāʿ* establishing a tie of quality; the "permanence / order" division of labour between ز-ب-ر and س-ط-ر; the reading about duration drawn from the occurrences of the word *maqʿad* in the Qurʾān; the pattern *maqʿadi ṣidqin* "qualifying the reality of the promise"; the conclusion drawn from the count of ك-ذ-ب and ص-د-ق; the "what it does" column of the table of inner circles; the reduction of the argument to fifteen steps; the two observations drawn from the counts of repetition; the comparison of the last verses of the neighbouring sūras; and **the whole of the section "What this says to the present".**
 - **The links made with the sections on al-Raḥmān, al-Ḥāqqa, al-Qāriʿa, al-Shams, Nūḥ, al-Mursalāt and al-Qadr are observations about the arrangement of the codex and shared wording; they are not claims about the order of revelation.**

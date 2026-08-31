@@ -918,7 +918,7 @@ All three say the same thing: **this ground has been set so that life may be liv
 
 **Four, and most important: this is neither a claim of roundness nor a claim of flatness.** The verse was not set up to answer this question. To load onto a text the answer to a question it does not ask — in either direction — is not to read the text.
 
-I write this calmly and plainly because the measure laid down by the method (`USLUP.md`) is here: no hunting for scientific miracles is done, and a modern piece of knowledge is not forced onto a verse. This holds when it is done for the purpose of defence as well.
+I write this calmly and plainly because the measure laid down by the method (`STYLE.md`) is here: no hunting for scientific miracles is done, and a modern piece of knowledge is not forced onto a verse. This holds when it is done for the purpose of defence as well.
 
 ---
 

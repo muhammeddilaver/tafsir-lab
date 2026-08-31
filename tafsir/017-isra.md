@@ -43,7 +43,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### Önce: ayet ne söylüyor, ne söylemiyor
 
-**USLUP gereği bu ayette önce bir sınır çizmek gerekiyor, çünkü bu ayet Kur'an'da rivayet yükü en ağır ayetlerden biridir.**
+**STYLE gereği bu ayette önce bir sınır çizmek gerekiyor, çünkü bu ayet Kur'an'da rivayet yükü en ağır ayetlerden biridir.**
 
 **Ayetin kendi lafzıyla söylediği şunlardır ve bunların hepsi metinden doğrulanabilir:**
 
@@ -160,7 +160,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 "**İsrâiloğulları'na kitapta şunu bildirdik: 'Yeryüzünde iki kez bozgunculuk çıkaracak ve büyük bir kibirle yükseleceksiniz.' İkisinden birincisinin vakti gelince, üzerinize güçlü kullarımızı gönderdik; evlerin aralarına kadar girip dolaştılar. Bu, yerine getirilmiş bir vaatti. Sonra sizi onlara karşı yeniden üstün kıldık; mallar ve oğullarla destekledik, sayınızı çoğalttık. İyilik ederseniz kendinize iyilik etmiş olursunuz; kötülük ederseniz o da kendinizedir… Rabbinizin size merhamet etmesi umulur; ama siz dönerseniz biz de döneriz. Ve cehennemi inkârcılar için kuşatıcı kıldık.**"
 
-### USLUP gereği konması gereken kayıt
+### STYLE gereği konması gereken kayıt
 
 **Bu beş ayet, bu tefsirdeki en dikkatli işlenmesi gereken yerlerden biridir ve baştan üç şey kaydedilmelidir:**
 
@@ -168,7 +168,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **İkincisi: ayetin kendi grameri bu kaydı zaten koyuyor** — aşağıda ayrıca gösterilecek. **Yedinci ayet bir şart cümlesidir ve şartın iki kolu da açıktır.**
 
-**Üçüncüsü: bu tefsirde bu ayetler hiçbir güncel siyasî mesele ile ilişkilendirilmez.** **USLUP'un "güncel siyasete taraf olunmaz" kaydı burada birebir uygulanır.** Ayetin anlattığı, kitapta bildirilmiş iki dönemdir; **kimin, ne zaman, hangi olayla bu iki dönemi doldurduğu klasik tefsirlerde tartışılmıştır ve üzerinde birlik yoktur.**
+**Üçüncüsü: bu tefsirde bu ayetler hiçbir güncel siyasî mesele ile ilişkilendirilmez.** **STYLE'ın "güncel siyasete taraf olunmaz" kaydı burada birebir uygulanır.** Ayetin anlattığı, kitapta bildirilmiş iki dönemdir; **kimin, ne zaman, hangi olayla bu iki dönemi doldurduğu klasik tefsirlerde tartışılmıştır ve üzerinde birlik yoktur.**
 
 ### İki bozgun kimdi? — ihtilaf
 
@@ -564,7 +564,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Kök ت-ر-ف: bolluk içinde yumuşamak, naz içinde büyümek.** *Mütref* — ism-i mef'ûl: **refahın kendisini şımartmasına izin vermiş kimse.** **Kalıbın edilgen olması kaydedilmeye değer: kişi şımarmıyor, *şımartılıyor*.**
 
-**Bunu bir dil gözlemi olarak kaydediyorum:** kalıp, refahın kişi üzerinde bir **etki** yaptığını söylüyor. **Ve bu, USLUP gereği bir kayıt gerektirir: ayet zenginlik hakkında hüküm kurmuyor, bir hâl tarif ediyor.** `043-zuhruf.md`'de aynı kayıt düşülmüştü.
+**Bunu bir dil gözlemi olarak kaydediyorum:** kalıp, refahın kişi üzerinde bir **etki** yaptığını söylüyor. **Ve bu, STYLE gereği bir kayıt gerektirir: ayet zenginlik hakkında hüküm kurmuyor, bir hâl tarif ediyor.** `043-zuhruf.md`'de aynı kayıt düşülmüştü.
 
 ### فَحَقَّ عَلَيْهَا ٱلْقَوْلُ
 
@@ -1003,11 +1003,11 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** İsrâ, bu kalıbı **iki kez arka arkaya** kullanan tek yerdir — ve iki konu farklıdır (beden ve mal). **Yani kalıp, tek bir alana özgü değil.**
 
-### USLUP gereği bir kayıt
+### STYLE gereği bir kayıt
 
 **Bu ayetten fıkhî bir hüküm çıkarmıyorum.** Ceza hukukuna ait hükümler Kur'an'ın başka ayetlerinde ve fıkıh literatüründe ayrıca ele alınır; **bu tefsirde fıkhî hüküm verilmez.** Burada işlenen, ayetin **dil ve dizim** düzeyinde ne yaptığıdır.
 
-**Ve şu da kaydedilmelidir:** ayet bir kişi ya da grup hakkında hüküm kurmuyor — bir fiil ve ona götüren mesafe hakkında konuşuyor. USLUP gereği bu ayrım korunuyor.
+**Ve şu da kaydedilmelidir:** ayet bir kişi ya da grup hakkında hüküm kurmuyor — bir fiil ve ona götüren mesafe hakkında konuşuyor. STYLE gereği bu ayrım korunuyor.
 
 ### فَٰحِشَة ve سَآءَ سَبِيلًا
 
@@ -1261,7 +1261,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **مَكْرُوهًا** — kök **ك-ر-ه**: hoşlanmama. **Kök `046-ahkaf.md` 46/15'te ve `002-bakara.md` 2/216, 2/256'da işlendi.**
 
-**USLUP gereği bir kayıt:** bu kelime, fıkıhta teknik bir terim (*mekrûh*) olarak da kullanılır. **Ayetteki kullanım sözlük anlamındadır ve buradan fıkhî bir kategori hükmü çıkarmıyorum.**
+**STYLE gereği bir kayıt:** bu kelime, fıkıhta teknik bir terim (*mekrûh*) olarak da kullanılır. **Ayetteki kullanım sözlük anlamındadır ve buradan fıkhî bir kategori hükmü çıkarmıyorum.**
 
 ---
 
@@ -1300,7 +1300,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Yani sûre aynı yasağı iki kez söylerken, ikincisinde sonucu bir derece ileri götürüyor.** Bu, metinden doğrulanabilir bir farktır.
 
-### USLUP gereği kapanış kaydı
+### STYLE gereği kapanış kaydı
 
 **Bu bölümde (17/22-39) sayılan maddelerden hiçbiri için fıkhî hüküm kurulmadı.** İhtilaflı noktalarda görüşler tablo hâlinde aktarıldı ve tercih dayatılmadı. **Maddelerin fıkhî tafsili — miktarlar, şartlar, ceza hükümleri — fıkıh literatürünün konusudur ve bu tefsirin kapsamı dışındadır.**
 
@@ -1320,7 +1320,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **`053-necm.md` 53/21-22'de (*e-lekümü'z-zekeru ve lehü'l-ünsâ · tilke izen kısmetün dîzâ*) aynı itiraz ayrıntılı işlendi** ve orada bu ayet (İsrâ 17/40) zaten anılmıştı. **Oraya dayanıyorum.** **Ve `043-zuhruf.md` 43/16-19'da aynı iddia bir kez daha ele alınmıştı.**
 
-**USLUP gereği bir kayıt:** bu ayetlerden kadın-erkek hakkında bir değer hükmü çıkarılmaz. **Ayet, muhatapların kendi değer sıralamasını aktarıyor ve o sıralamayı bir çelişkiyi göstermek için kullanıyor.** `053-necm.md`'de aynı kayıt düşülmüştü.
+**STYLE gereği bir kayıt:** bu ayetlerden kadın-erkek hakkında bir değer hükmü çıkarılmaz. **Ayet, muhatapların kendi değer sıralamasını aktarıyor ve o sıralamayı bir çelişkiyi göstermek için kullanıyor.** `053-necm.md`'de aynı kayıt düşülmüştü.
 
 ### صَرَّفْنَا — çevirip çevirmek
 
@@ -1364,9 +1364,9 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 "**Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder. Hiçbir şey yoktur ki O'nu hamd ile tesbih etmesin. Fakat siz onların tesbihini anlamazsınız. O halîmdir, çok bağışlayıcıdır.**"
 
-### USLUP gereği önce bir sınır
+### STYLE gereği önce bir sınır
 
-**Bu ayet, "fennî mucize" iddialarında en çok kullanılan ayetlerden biridir ve USLUP gereği baştan bir kayıt konmalıdır.**
+**Bu ayet, "fennî mucize" iddialarında en çok kullanılan ayetlerden biridir ve STYLE gereği baştan bir kayıt konmalıdır.**
 
 **Bu tefsirde bu ayetten fizik, akustik, titreşim ya da parçacık hareketi hakkında bir sonuç çıkarılmaz.** **Gerekçe ayetin kendi cümlesidir ve bu, iddiaya karşı en güçlü metin verisidir:** *ve lâkin **lâ tefkahûne** tesbîhahüm* — "**onların tesbihini anlamazsınız.**"
 
@@ -1919,7 +1919,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu sıralamadır:** sûre, insanın nankörlüğünü anlattıktan **hemen sonra** onun şereflendirilmiş olduğunu bildiriyor. **Yani şeref, insanın performansına bağlanmıyor.** Nankörlük kaydedilmiş, buna rağmen hüküm değişmemiş.
 
-**Ve bu, USLUP gereği bir kayıt gerektiriyor:** ayet **bütün** Âdemoğulları için konuşuyor — *benî Âdem*. **Hiçbir topluluk, hiçbir soy dışarıda tutulmuyor.** Bu tefsirde bu ayetten hiçbir grubu ayıran bir sonuç çıkarılmaz.
+**Ve bu, STYLE gereği bir kayıt gerektiriyor:** ayet **bütün** Âdemoğulları için konuşuyor — *benî Âdem*. **Hiçbir topluluk, hiçbir soy dışarıda tutulmuyor.** Bu tefsirde bu ayetten hiçbir grubu ayıran bir sonuç çıkarılmaz.
 
 ---
 
@@ -1965,7 +1965,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ve `025-furkan.md` 25/44'te aynı ifade (*bel hüm edallü sebîlâ*) geçmişti** — orada hayvanlarla karşılaştırma vardı ve orada kaydedilmişti: **hayvanın bir yolu yoktur ki sapsın; karşılaştırma, verilen imkânın kullanılmamasına bakıyor.** **Oraya dayanıyorum.**
 
-**USLUP gereği bir kayıt:** buradaki *a'mâ*, fiziksel körlük değil; **ayetin kendisi bunu belirtiyor** — *fî hâzihî* (bu dünyada) ve *fi'l-âhıra* (âhirette) karşıtlığı, kavrayışla ilgili bir hâli tarif ediyor. **Bu ayetten hiçbir engellilik hâli hakkında hüküm çıkarılmaz.**
+**STYLE gereği bir kayıt:** buradaki *a'mâ*, fiziksel körlük değil; **ayetin kendisi bunu belirtiyor** — *fî hâzihî* (bu dünyada) ve *fi'l-âhıra* (âhirette) karşıtlığı, kavrayışla ilgili bir hâli tarif ediyor. **Bu ayetten hiçbir engellilik hâli hakkında hüküm çıkarılmaz.**
 
 ---
 
@@ -2006,7 +2006,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Dilciler bunu, konumun sorumluluğu ağırlaştırmasıyla açıklar** — nitekim benzer bir ölçü `033-ahzab.md` 33/30'da işlenmişti. **Bu izahı aktarıyorum; ayet bir gerekçe vermiyor.**
 
-**Ve bu ayetler USLUP gereği bir kayıt gerektiriyor:** ayet Peygamber'e söylenmiştir ve içeriği bir **uyarı**dır. **Ayetin, gerçekleşmiş bir olay anlattığı gibi okunması metne aykırıdır;** *kâde* ve *levlâ* kalıpları bunu kapatıyor.
+**Ve bu ayetler STYLE gereği bir kayıt gerektiriyor:** ayet Peygamber'e söylenmiştir ve içeriği bir **uyarı**dır. **Ayetin, gerçekleşmiş bir olay anlattığı gibi okunması metne aykırıdır;** *kâde* ve *levlâ* kalıpları bunu kapatıyor.
 
 ---
 
@@ -2067,7 +2067,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **غَسَق** — kök **غ-س-ق**: **karanlığın koyulaşması, akması.** **Kök `113-felak.md` 113/3'te (*ve min şerri ğâsikın izâ vekab*) işlendi.** **Tekrarlamıyorum.**
 
-**USLUP gereği bir kayıt:** klasik fıkıh kaynaklarında bu ayet, namaz vakitlerinin belirlenmesinde bir dayanak olarak kullanılır ve mezhepler arasında ayrıntı farkları vardır. **Bu tefsirde fıkhî hüküm verilmez;** ayetin lafzî olarak yaptığı şey, ibadeti **güneşin hareketine** bağlamaktır.
+**STYLE gereği bir kayıt:** klasik fıkıh kaynaklarında bu ayet, namaz vakitlerinin belirlenmesinde bir dayanak olarak kullanılır ve mezhepler arasında ayrıntı farkları vardır. **Bu tefsirde fıkhî hüküm verilmez;** ayetin lafzî olarak yaptığı şey, ibadeti **güneşin hareketine** bağlamaktır.
 
 **Ve bunu bir gözlem olarak kaydediyorum:** ayet bir saat vermiyor. **Ölçü, gökyüzünün kendisi.** Bu, on ikinci ayette (*li-ta'lemû adede's-sinîne ve'l-hisâb*) kurulan çerçeveyle uyumludur — **sûre, zamanı ölçmenin aracını orada göstermişti; burada o araç bir ibadete bağlanıyor.**
 
@@ -2156,7 +2156,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu bir dil gözlemi olarak kaydediyorum:** kelimenin seçimi, muhatabı **hasta** olarak konumlandırıyor — yani cahil ya da bilgisiz değil. **Şifa, eksik bir şeyin tamamlanması değil, bozulmuş bir şeyin düzelmesidir.**
 
-**USLUP gereği bir kayıt:** bu ayetten tıbbî bir sonuç çıkarılmaz. **Ayet, bir metin ile onu okuyan arasındaki ilişkiden söz ediyor;** kelimenin mecazî kullanımı Arapçada yaygındır.
+**STYLE gereği bir kayıt:** bu ayetten tıbbî bir sonuç çıkarılmaz. **Ayet, bir metin ile onu okuyan arasındaki ilişkiden söz ediyor;** kelimenin mecazî kullanımı Arapçada yaygındır.
 
 ### وَلَا يَزِيدُ … إِلَّا خَسَارًا
 
@@ -2171,7 +2171,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Aynı kalıp (*mâ/lâ yezîdü … illâ*) sûrede dört kez.** Bu, sûre içinde doğrulanabilir bir örgüdür.
 
-**Ve seksen ikinci ayetteki fark kaydedilmelidir: burada özne *zâlimîn* — yani bir vasıf.** **USLUP gereği bu kayıt önemlidir: hüküm bir gruba değil, bir vasfa bağlanıyor.**
+**Ve seksen ikinci ayetteki fark kaydedilmelidir: burada özne *zâlimîn* — yani bir vasıf.** **STYLE gereği bu kayıt önemlidir: hüküm bir gruba değil, bir vasfa bağlanıyor.**
 
 ---
 
@@ -2215,7 +2215,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ama iki okumanın da ortak yanı kaydedilebilir ve bunu bir gözlem olarak veriyorum:** kelime, kişinin **kendine ait** bir şeyden söz ediyor. **Ve ayetin devamı bunu bir hüküm cümlesi yapmıyor — bilmeyi Allah'a bırakıyor: *fe-rabbüküm a'lemü bimen hüve ehdâ sebîlâ*.**
 
-**Bu, sûrenin omurgasında tablolanan sorumluluk hattının bir halkasıdır.** **Ve USLUP gereği kaydedilmelidir: ayet, kimin doğru yolda olduğunun bilgisini insana bırakmıyor.** Bu, başkası hakkında hüküm kurmayı kapatan bir cümledir.
+**Bu, sûrenin omurgasında tablolanan sorumluluk hattının bir halkasıdır.** **Ve STYLE gereği kaydedilmelidir: ayet, kimin doğru yolda olduğunun bilgisini insana bırakmıyor.** Bu, başkası hakkında hüküm kurmayı kapatan bir cümledir.
 
 ---
 
@@ -2227,7 +2227,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### Önce: kesin bilgi yoktur
 
-**USLUP gereği bu ayette en başta bir kayıt konmalıdır ve kayıt ayetin kendi cümlesinden çıkıyor:**
+**STYLE gereği bu ayette en başta bir kayıt konmalıdır ve kayıt ayetin kendi cümlesinden çıkıyor:**
 
 **Ayet bir soruya cevap veriyor ve cevabın içeriği bir tarif değil, bir *kaynak bildirimi*dir: *min emri rabbî*.** **Ve hemen ardından bilgi sınırı konuyor: *ve mâ ûtîtüm mine'l-ilmi illâ kalîlâ*.**
 
@@ -2570,7 +2570,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **ل-ف-ف** kökü: **sarmak, dürmek, bir araya toplamak.** **Yani ayrılmış olanlar bir araya getirilecek.**
 
-**Ve USLUP gereği bir kayıt:** bu ayet de, ikinci blok gibi, bir kavim hakkında toptan hüküm kurmuyor. **Yüz dördüncü ayet bir toplanmadan söz ediyor ve toplananların hâli hakkında bir şey söylemiyor.** **Bu tefsirde bu ayet hiçbir güncel siyasî mesele ile ilişkilendirilmez.**
+**Ve STYLE gereği bir kayıt:** bu ayet de, ikinci blok gibi, bir kavim hakkında toptan hüküm kurmuyor. **Yüz dördüncü ayet bir toplanmadan söz ediyor ve toplananların hâli hakkında bir şey söylemiyor.** **Bu tefsirde bu ayet hiçbir güncel siyasî mesele ile ilişkilendirilmez.**
 
 ### تِسْعَ ءَايَٰتٍ — dokuz âyet
 
@@ -2740,7 +2740,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ve `031-lokman.md` 31/19'da (*ve'ğdud min savtik*) ses ölçüsü işlendi;** **`019-meryem.md` 19/3'te (*nidâen hafiyyâ*) aynı ölçü duaya uygulanmıştı.** **Ve `049-hucurat.md` 49/2-3'te ses ölçüsü ayrıntılı işlendi.** **Oraya dayanıyorum.**
 
-**USLUP gereği bir kayıt:** klasik tefsirlerde bu ayetin namazda kıraatin sesiyle mi, dua ile mi, yoksa bir nüzul sebebiyle mi ilgili olduğu tartışılmıştır. **Bu tefsirde fıkhî hüküm verilmez;** ayetin lafzî yapısı iki uç ve bir orta koyuyor.
+**STYLE gereği bir kayıt:** klasik tefsirlerde bu ayetin namazda kıraatin sesiyle mi, dua ile mi, yoksa bir nüzul sebebiyle mi ilgili olduğu tartışılmıştır. **Bu tefsirde fıkhî hüküm verilmez;** ayetin lafzî yapısı iki uç ve bir orta koyuyor.
 
 ### وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا — sûrenin ölçü hattı
 
@@ -2889,7 +2889,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | 101 | Dokuz âyetin hangileri olduğu |
 | 110 | Ses ölçüsünün namazda kıraatle mi, dua ile mi ilgili olduğu |
 
-### USLUP kayıtları
+### STYLE kayıtları
 
 **Bu sûrede özellikle korunan üç sınır:**
 

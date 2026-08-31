@@ -1548,7 +1548,7 @@ This word was mentioned in the section on al-Shams: there, in treating **طَح�
 
 ### A warning: the reading "the earth is egg-shaped"
 
-**This word is one of the Qurʾānic words most strained in the modern period** and the rule recorded in the method (`USLUP.md`) will be applied here.
+**This word is one of the Qurʾānic words most strained in the modern period** and the rule recorded in the method (`STYLE.md`) will be applied here.
 
 **The ground of the straining is this:** in Arabic there is the word **أُدْحِيَّة** (*udḥiyya*) and it names **the place where the ostrich lays its eggs**. Setting out from this, it is argued that the verb *daḥāhā* means "He made it egg-shaped" and that the verse announces the sphericity of the earth.
 
@@ -1927,7 +1927,7 @@ I record this as my own reading. The meanings of the four verbs are, however, di
 
 In the seventeenth verse running beyond bounds was the state of one person. In the thirty-seventh verse it becomes a **category**: *man* (whoever) — indefinite, open to everyone.
 
-**And this is one of the clearest instances in the text of the principle recorded in the method (`USLUP.md`):** *"what the verse describes are attributes; whoever bears that attribute is included in it."*
+**And this is one of the clearest instances in the text of the principle recorded in the method (`STYLE.md`):** *"what the verse describes are attributes; whoever bears that attribute is included in it."*
 
 The sūra does not recount Pharaoh and then say *"such are the wicked"*. It recounts Pharaoh and gives the **measure**. And the measure holds for everyone whose name is not mentioned.
 
@@ -2255,7 +2255,7 @@ I record this as an observation; the shared word is, however, a datum that can b
 
 **This is a consistency worth recording.** The Qurʾān writes into the text something its own prophet does not know.
 
-And this has a consequence that looks directly at the present: **claims to compute the date of the Hour conflict with the Qurʾān's own text.** In this commentary, per the method (`USLUP.md`), claims of the numerical and alphabetical-computation sort are not used; this verse is one of the supports in the text for that rule.
+And this has a consequence that looks directly at the present: **claims to compute the date of the Hour conflict with the Qurʾān's own text.** In this commentary, per the method (`STYLE.md`), claims of the numerical and alphabetical-computation sort are not used; this verse is one of the supports in the text for that rule.
 
 ### إِلَىٰ رَبِّكَ مُنتَهَىٰهَا
 
@@ -2470,7 +2470,7 @@ Let us see together what was recorded separately above:
 
 **And in the thirty-seventh verse the example is not mentioned.** It does not say *"those who are like Pharaoh"*; it says *"whoever runs beyond bounds"*. The example turns into a measure that goes beyond itself.
 
-**This is one of the clearest instances in the text of the principle recorded in the method (`USLUP.md`)** and it has a practical consequence: the sūra recounts a person but does not teach the passing of judgement on a person. It gives the measure.
+**This is one of the clearest instances in the text of the principle recorded in the method (`STYLE.md`)** and it has a practical consequence: the sūra recounts a person but does not teach the passing of judgement on a person. It gives the measure.
 
 ### The verse-endings — the three voices of the sūra
 
@@ -2658,7 +2658,7 @@ And Fāṭir 35/28 confirms this: *"Of His servants, only the learned feel awe o
 
 **The practical consequence is this:** a language that tries to produce fear puts itself in the place of the thing it describes. The sūra's method is the reverse: **it makes known, and leaves the fear to be the result of knowing.**
 
-A rule recorded in this commentary's method (`USLUP.md`) agrees with this too: *"No ornate, preaching, emotionally exploitative language."*
+A rule recorded in this commentary's method (`STYLE.md`) agrees with this too: *"No ornate, preaching, emotionally exploitative language."*
 
 ### Fifth: remembering
 
@@ -2714,7 +2714,7 @@ And this is the exact opposite of *ṭughyān*: *ṭughyān* is to pass the limi
 
 ### Eighth: trying to know the unknown
 
-Verses forty-two to forty-four are the support in the text for a rule recorded in this commentary's method (`USLUP.md`).
+Verses forty-two to forty-four are the support in the text for a rule recorded in this commentary's method (`STYLE.md`).
 
 **The Qurʾān writes into the text that its own prophet does not know the time of the Hour.**
 

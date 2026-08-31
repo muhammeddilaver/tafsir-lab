@@ -318,7 +318,7 @@ The verse names three domains of lordship: the heavens, the earth, what is betwe
 
 **The first of these explanations (the verse-ending) rests on a verifiable fact; the others are plausible but cannot be proved. I do not impose a preference.**
 
-**And a note of limitation — per the method (`USLUP.md`):** no astronomical information is derived from this verse. That the word *mashāriq* is plural is not a statement of astronomy; describing the changing points of rising over the year in a given place is an everyday use of language in Arabic and rests on the observation of those addressed.
+**And a note of limitation — per the method (`STYLE.md`):** no astronomical information is derived from this verse. That the word *mashāriq* is plural is not a statement of astronomy; describing the changing points of rising over the year in a given place is an everyday use of language in Arabic and rests on the observation of those addressed.
 
 ### Context — from the oath to the ruling
 
@@ -858,7 +858,7 @@ The sense the lexicographers give: **sticking, clinging together, adhering to th
 
 **In `056-vakia.md` the sense of *azwāj* as "class" was treated.** **All three views are transmitted in the classical sources; I do not impose a preference.** The verse does not specify.
 
-**And a note is required — per the method (`USLUP.md`):** even if the first view is adopted, the verse does not say "spouses bear one another's sin". **What those gathered have in common is, in the verse's own words, *that they did wrong*** — *alladhīna **ẓalamū***. The attribute is what is shared, not the kinship.
+**And a note is required — per the method (`STYLE.md`):** even if the first view is adopted, the verse does not say "spouses bear one another's sin". **What those gathered have in common is, in the verse's own words, *that they did wrong*** — *alladhīna **ẓalamū***. The attribute is what is shared, not the kinship.
 
 ### وَمَا كَانُوا۟ يَعْبُدُونَ — and the things they served
 
@@ -2295,7 +2295,7 @@ The definition there: **to draw aside quietly, without being noticed; to slip of
 
 **Both readings are transmitted by the grammarians, and both have been defended in the classical commentaries.**
 
-**And a note is required — per the method (`USLUP.md`):** **this verse has stood at the centre of a long dispute in theology.** The second reading (verbal-noun) has been counted one of the grounds of that dispute. **That dispute is not entered into in this commentary** — because the matter stands here as a matter of language, and both readings are linguistically possible.
+**And a note is required — per the method (`STYLE.md`):** **this verse has stood at the centre of a long dispute in theology.** The second reading (verbal-noun) has been counted one of the grounds of that dispute. **That dispute is not entered into in this commentary** — because the matter stands here as a matter of language, and both readings are linguistically possible.
 
 **What can be recorded in point of word order is this, and it is not a ruling:** in the ninety-fifth verse *mā tanḥitūn* is plainly relative ("what you carve"). The *mā taʿmalūn* of the ninety-sixth comes immediately after it and is in the same mould. **That the two verses come one after another gives the first reading an ease in point of word order.** This does not eliminate the second reading.
 
@@ -2873,7 +2873,7 @@ The mould normally comes at **the end** of the account (80, 110, 121, 131). **He
 
 ***Muḥsin* is the word of the sūra's closing mould** (*najzi'l-**muḥsinīn***). **The attribute occurring in the mould of reward, that is, is here given to a part of the line — not to all of it.**
 
-**And this is the direct textual counterpart of a principle recorded in `USLUP.md`:**
+**And this is the direct textual counterpart of a principle recorded in `STYLE.md`:**
 
 > *"A judgement is not built wholesale upon an ethnic or religious group; it is the attributes the verse describes, and whoever bears that attribute is included in it."*
 
@@ -3109,7 +3109,7 @@ And the one exception is the hundred and sixteenth verse: *wa naṣarnā**hum***
 | **71** | **Most** of those of old went astray — **not all** |
 | **126** | God is **the Lord of your forefathers too** — **the forefathers are not condemned wholesale** |
 
-**This is the textual counterpart of `USLUP.md`'s principle "no wholesale judgement is built", and it runs in the same direction as the distinction of *muḥsin* and *ẓālim* in the hundred and thirteenth verse.**
+**This is the textual counterpart of `STYLE.md`'s principle "no wholesale judgement is built", and it runs in the same direction as the distinction of *muḥsin* and *ẓālim* in the hundred and thirteenth verse.**
 
 ### فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ — denial and outcome
 
@@ -4267,7 +4267,7 @@ And the middle sentence — *wa salāmun ʿala'l-mursalīn* — is a human utter
 
 ### The limits the sūra keeps
 
-**The following are limits recorded per the method (`USLUP.md`) and read off the text itself:**
+**The following are limits recorded per the method (`STYLE.md`) and read off the text itself:**
 
 | Verse | What it does |
 |---|---|
@@ -4277,7 +4277,7 @@ And the middle sentence — *wa salāmun ʿala'l-mursalīn* — is a human utter
 | **128** | *illā ʿibāda'llāhi'l-mukhlaṣīn* — **an exception from within the people who denied** |
 | **148** | *fa-āmanū* — **a people who believe at the end of the sequence** |
 
-**All five run in the same direction:** the judgement is tied not to a group but to an **attribute**. **This is the counterpart within the sūra of the principle recorded in `USLUP.md`, "no wholesale judgement is built".**
+**All five run in the same direction:** the judgement is tied not to a group but to an **attribute**. **This is the counterpart within the sūra of the principle recorded in `STYLE.md`, "no wholesale judgement is built".**
 
 ### Disagreements where no preference is adopted in this commentary
 

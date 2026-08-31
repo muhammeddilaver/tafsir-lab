@@ -90,7 +90,7 @@ The basmala was treated in earlier sections; the verses are numbered without it.
 
 ### حمٓ
 
-**The general note on the disconnected letters has been entered elsewhere in the corpus** (`002-bakara.md`, `068-kalem.md`, `050-kaf.md`, `046-ahkaf.md`); I do not repeat it here. **Its summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them claims certainty.** Per the method (`USLUP.md`), claims resting on letter-and-number calculation are not entered into.
+**The general note on the disconnected letters has been entered elsewhere in the corpus** (`002-bakara.md`, `068-kalem.md`, `050-kaf.md`, `046-ahkaf.md`); I do not repeat it here. **Its summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them claims certainty.** Per the method (`STYLE.md`), claims resting on letter-and-number calculation are not entered into.
 
 **What can be recorded is a verifiable fact of arrangement:** in almost every sūra that opens with *ḥā-mīm*, **the Book** is named immediately after the opening. Here it comes twice over: the second verse swears by the Book, and the third says **how the Book was made**.
 
@@ -133,7 +133,7 @@ I record this as my own reading, and its ground is the repetition of the verb wi
 
 The root **ع-ج-م** is the exact opposite of the root ع-ر-ب, and the concrete sense of the root shows it: **closedness, unintelligibility.** *ʿUjma* — a block in the tongue, a stammer. *ʿAjmāʾ* — an animal that has a voice but does not speak. **The contrast between the two roots is therefore not "Arab / non-Arab" but, at the level of the roots the lexicographers record, "clear / closed".**
 
-**This distinction matters here, and per the method (`USLUP.md`) I must state it plainly:** the verse is not proclaiming the superiority of a language or of a people. **The ground the verse itself gives stands at the end of the verse** — and that ground looks to the one addressed, not to the language.
+**This distinction matters here, and per the method (`STYLE.md`) I must state it plainly:** the verse is not proclaiming the superiority of a language or of a people. **The ground the verse itself gives stands at the end of the verse** — and that ground looks to the one addressed, not to the language.
 
 ### لَّعَلَّكُمْ تَعْقِلُونَ — the ground itself
 
@@ -453,7 +453,7 @@ The root **م-ض-ي**: to pass on, to go forward, to cut through. *Māḍī* (th
 
 **The work the word does in the verse is this:** the earth is named not as a floor or a place but as **a vessel of care.** A cradle holds what is in it, carries it, and rocks it.
 
-**And can a link to natural science be made here?** In some non-classical commentary one finds conclusions about the motion of the globe drawn from the word *mahd*. **Per the method (`USLUP.md`) I do not go down that road:** the meaning of the word in the lexicographers is plain, and the verse makes no claim about motion. **What the word carries is a picture of care, not a piece of physics.**
+**And can a link to natural science be made here?** In some non-classical commentary one finds conclusions about the motion of the globe drawn from the word *mahd*. **Per the method (`STYLE.md`) I do not go down that road:** the meaning of the word in the lexicographers is plain, and the verse makes no claim about motion. **What the word carries is a picture of care, not a piece of physics.**
 
 ### سُبُلًا — roads
 
@@ -539,7 +539,7 @@ The root **س-ب-ل** has been treated in the corpus (`076-insan.md`, `047-muham
 
 **The note at the end of the Yā-Sīn verse is worth recording: *wa mimmā lā yaʿlamūn* — "and of what they do not know".** In making this generalisation, that is, the Qurʾān itself says that the extent of it exceeds human knowledge.
 
-**I draw no direct indication from this verse to the paired structures of modern physics and biology (particle and antiparticle, chromosome pairs).** Per the method (`USLUP.md`), no hunting for scientific miracles is done. **What can be recorded is this:** the verse names the principle of pairing as a matter of observation and leaves its extent open.
+**I draw no direct indication from this verse to the paired structures of modern physics and biology (particle and antiparticle, chromosome pairs).** Per the method (`STYLE.md`), no hunting for scientific miracles is done. **What can be recorded is this:** the verse names the principle of pairing as a matter of observation and leaves its extent open.
 
 ### مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ — word order
 
@@ -804,7 +804,7 @@ The root **ض-ي-ز** occurred there: crooked, unjust division. **And in this s�
 
 "And when one of them is given good news of **what he has ascribed to al-Raḥmān**, his face turns black and **he is inwardly choked.** Is one who is raised amid ornament and **cannot bring his meaning to light in a dispute** (to be ascribed to Him)?"
 
-**In treating these two verses I must keep one thing clear from the outset, per the method (`USLUP.md`).**
+**In treating these two verses I must keep one thing clear from the outset, per the method (`STYLE.md`).**
 
 **The verse issues no ruling about women. The verse reports a society's attitude towards a daughter and shows the contradiction inside that attitude.** I shall show step by step below how this is done; for the force of the verse lies exactly in this manner of reporting.
 
@@ -893,7 +893,7 @@ The root **ب-ش-ر** has been treated in the corpus (`002-bakara.md`, `080-abes
 
 **The proof of this within the language is as follows:** the sentence is **a question of denial** opening with *a-wa*. In a question of denial, the content put into the question is not the speaker's own verdict — **it is taken from the addressee's own acceptance and handed back to him.** The verse is not saying "a daughter is such and such"; **it is saying "is one whom you see in such a way really so?"**
 
-**Writing this distinction out plainly is required by the method (`USLUP.md`), and it also follows from the text.** The one addressed by the verse is the mind that carries two verdicts at once: the mind that on the one hand counts a daughter low enough for its face to darken, and on the other sees no objection to ascribing the same thing to God. **What the verse shows is that these two cannot stand together.**
+**Writing this distinction out plainly is required by the method (`STYLE.md`), and it also follows from the text.** The one addressed by the verse is the mind that carries two verdicts at once: the mind that on the one hand counts a daughter low enough for its face to darken, and on the other sees no objection to ascribing the same thing to God. **What the verse shows is that these two cannot stand together.**
 
 ### فِى ٱلْحِلْيَة — root: ح-ل-ي
 
@@ -1271,7 +1271,7 @@ The root **ع-ق-ب** has been treated in the corpus (`090-beled.md`, `091-sems.
 
 **The same root: one conveys an ending, the other a continuation.** Three verses stand between them, and this prepares the passage to the next block of the sūra.
 
-**م-ك-ذ-ب** — *mukadhdhibīn*, an active participle of Form II: **the deniers.** The root **ك-ذ-ب** has been treated in the corpus. **What is to be recorded is that the verdict is attached to an act:** no name of a people and no lineage is named; **a behaviour** is named. **Per the method (`USLUP.md`) this distinction is kept everywhere: what the verse describes is an attribute.**
+**م-ك-ذ-ب** — *mukadhdhibīn*, an active participle of Form II: **the deniers.** The root **ك-ذ-ب** has been treated in the corpus. **What is to be recorded is that the verdict is attached to an act:** no name of a people and no lineage is named; **a behaviour** is named. **Per the method (`STYLE.md`) this distinction is kept everywhere: what the verse describes is an attribute.**
 
 ---
 
@@ -2001,7 +2001,7 @@ The root **ش-ر-ك**: to be a partner, to have a share in something. **The root
 
 **And the finding recorded in `046-ahkaf.md` at 46/26 attaches here:** there it was recounted that the people of ʿĀd were given hearing, sight and heart, but that these were of no use, and this was recorded: *"the verse is not speaking of an impossibility; it is speaking of a possibility left unused."*
 
-**I keep the same distinction here:** the Qurʾān uses these words not for physical impairment but for **an unused sense.** **Per the method (`USLUP.md`) I write this out plainly: the verse issues no ruling about people with impaired hearing or sight; it uses a figure, and the subject of the figure is the person whose senses work but who does not use them.**
+**I keep the same distinction here:** the Qurʾān uses these words not for physical impairment but for **an unused sense.** **Per the method (`STYLE.md`) I write this out plainly: the verse issues no ruling about people with impaired hearing or sight; it uses a figure, and the subject of the figure is the person whose senses work but who does not use them.**
 
 ### فَإِمَّا نَذْهَبَنَّ بِكَ … أَوْ نُرِيَنَّكَ — two possibilities
 
@@ -2490,7 +2490,7 @@ The root **س-ل-ف**: to go in front, to pass ahead. *Salaf* — those who went
 
 "And when the son of Mary was put forward as an example, there was your people **clamouring about him.** And they said: **'Are our gods better, or he?'** They put him to you only **for the sake of argument.** Indeed they are **a contentious people.**"
 
-**In treating this block I must set a limit from the outset, per the method (`USLUP.md`).**
+**In treating this block I must set a limit from the outset, per the method (`STYLE.md`).**
 
 **These verses issue no blanket ruling about a religious group, and neither shall I.** What the verses work on is **a stance taken at a particular moment of argument**: an example being put forward, without its content being discussed, in order to win the argument. **What the verdict is attached to is not the name of a community but an attribute: *qawmun khaṣimūn* — a contentious people.**
 
@@ -2793,7 +2793,7 @@ The root **ح-ز-ب**: a group, a company; and *ḥizb* — a party, a faction. 
 
 ***Al-aḥzāb* occurs elsewhere in the Qurʾān as well** (Hūd 11/17, Maryam 19/37, al-Muʾmin 40/5, 40/30) and **is mostly used of groups that have fallen into disagreement and split into parties.**
 
-**Per the method (`USLUP.md`) I enter a note here:** the verse issues no ruling about a religious tradition as a whole. **What is recounted is a fact: the parting of parties after a prophet's words.** And the verdict is attached not to a group but **to an act**: *li'lladhīna **ẓalamū*** — to those who did wrong.
+**Per the method (`STYLE.md`) I enter a note here:** the verse issues no ruling about a religious tradition as a whole. **What is recounted is a fact: the parting of parties after a prophet's words.** And the verdict is attached not to a group but **to an act**: *li'lladhīna **ẓalamū*** — to those who did wrong.
 
 **This is the line kept throughout the sūra, and it was recorded in `046-ahkaf.md` at 46/35 as well: the verdict is attached not to a name but to an attribute.**
 

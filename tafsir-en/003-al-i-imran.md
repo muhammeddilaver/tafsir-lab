@@ -106,7 +106,7 @@ That the sūra is Medinan is widely agreed among the sources. **Two blocks withi
 - **Verses 121-179** speak of a battle and of the defeat that followed it. In the classical sources this is identified as **Uḥud**, and the text itself also refers back to an earlier one (in verse 13, *fiʾatayni'ltaqatā*).
 - **Verses 33-63** speak of a debate with the People of the Book that runs in particular through the position of Jesus; **verse 61 (the mutual imprecation)** is the most intense point of that debate.
 
-**Per the method (`USLUP.md`) I draw a boundary here, and I will keep it throughout the sūra:**
+**Per the method (`STYLE.md`) I draw a boundary here, and I will keep it throughout the sūra:**
 
 **One.** In the discussions of Uḥud and of the mutual imprecation **I do not go into the detail of the reports or into personal names.** The verses themselves name no one anywhere — no commander, no tribe, no member of a delegation. **This silence of the text will be preserved as a choice.**
 
@@ -511,7 +511,7 @@ The verse describes this operation and catches it at two separate points:
 
 **The thirteenth verse names an encounter that took place in the past.** In the classical sources this is identified as **Badr**.
 
-**Per the method (`USLUP.md`) I record this: the verse gives neither a place name nor a personal name.** The only thing it gives is **the attribute of the two sides**: one *tuqātilu fī sabīli'llāh*, the other *kāfira*. **In this commentary I do not go into the detail of the reports.**
+**Per the method (`STYLE.md`) I record this: the verse gives neither a place name nor a personal name.** The only thing it gives is **the attribute of the two sides**: one *tuqātilu fī sabīli'llāh*, the other *kāfira*. **In this commentary I do not go into the detail of the reports.**
 
 ### يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ — a question of seeing
 
@@ -641,7 +641,7 @@ The root **س-و-م**: **to mark; and to turn loose (to pasture).** Both senses 
 
 ---
 
-**This verse and verse 85 are the two most-quoted and most misused verses of the sūra. Per the method (`USLUP.md`) I shall follow a procedure here:** first I shall give the root sense of the word, then recall how this word has been treated in the series, then record what the verse **does not say**.
+**This verse and verse 85 are the two most-quoted and most misused verses of the sūra. Per the method (`STYLE.md`) I shall follow a procedure here:** first I shall give the root sense of the word, then recall how this word has been treated in the series, then record what the verse **does not say**.
 
 ### إِسْلَٰم — root: س-ل-م
 
@@ -686,7 +686,7 @@ The root **س-و-م**: **to mark; and to turn loose (to pasture).** Both senses 
 
 **And the note *ʿinda'llāh* must not be passed over:** the sentence does not say "with people" or "in history". **It names the one who sets the measure.**
 
-**Now, per the method (`USLUP.md`), I record this explicitly — these are limits that come out of the *wording* of the verse, not a softening brought in from outside:**
+**Now, per the method (`STYLE.md`), I record this explicitly — these are limits that come out of the *wording* of the verse, not a softening brought in from outside:**
 
 **One. The verse sets a *measure of acceptance*; it does not give a *list of persons*.** No community, people or group is named in the sentence. What is named is **the religion itself.**
 
@@ -736,13 +736,13 @@ The root **س-و-م**: **to mark; and to turn loose (to pasture).** Both senses 
 
 **ٱلْبَلَٰغ** — **a table of the limit of responsibility was drawn up in `047-muhammed.md`, at 42/48 in `042-sura.md`, at 46/35 in `046-ahkaf.md` and at 28/56 in `028-kasas.md`.** I rely on that treatment. **In summary: *balāgh* is to convey — not to make accepted.**
 
-**ٱلْأُمِّيِّۦنَ** — from the root **أ-م-م**: those who are not people of a book. **The word was treated at 62/2 in `062-cuma.md`.** **Per the method (`USLUP.md`) I record this: the word here is not a disparagement but a term of *distinction*** — those who have not been given a book.
+**ٱلْأُمِّيِّۦنَ** — from the root **أ-م-م**: those who are not people of a book. **The word was treated at 62/2 in `062-cuma.md`.** **Per the method (`STYLE.md`) I record this: the word here is not a disparagement but a term of *distinction*** — those who have not been given a book.
 
 ### Verses 21-25
 
 **The twenty-first verse makes a severe statement:** *inna'lladhīna yakfurūna bi-āyāti'llāhi wa yaqtulūna'n-nabiyyīna bi-ghayri ḥaqqin wa yaqtulūna'lladhīna yaʾmurūna bi'l-qisṭi mina'n-nās* — "those who deny the signs of God, who **kill the prophets without right**, and who **kill those among the people who enjoin justice**…"
 
-**Per the method (`USLUP.md`) I record this:** the sentence is built with ***alladhīna*** — that is, it is tied to an **attribute**, not to a community. No group is named in the sentence. **Whoever does these three things, the verse speaks of him.**
+**Per the method (`STYLE.md`) I record this:** the sentence is built with ***alladhīna*** — that is, it is tied to an **attribute**, not to a community. No group is named in the sentence. **Whoever does these three things, the verse speaks of him.**
 
 **And the third verb is worth recording, and it is usually passed over:** *wa yaqtulūna'lladhīna **yaʾmurūna bi'l-qisṭi mina'n-nās*** — "those who kill **those among the people who enjoin justice**."
 
@@ -752,7 +752,7 @@ The root **س-و-م**: **to mark; and to turn loose (to pasture).** Both senses 
 
 **The twenty-third verse** describes how, when those given a portion of the Book are called to **the arbitration of their own book**, a group of them turns away: *thumma yatawallā farīqun minhum wa hum muʿriḍūn.*
 
-**Per the method (`USLUP.md`) I record this, and it is a rule of reading that will be kept throughout the sūra:** the verse says ***farīqun minhum*** — "**a group** of them". **There is no blanket ruling.** **This note is directly connected with verse 113 of the sūra (*laysū sawāʾ*), and it will be shown there in a table.**
+**Per the method (`STYLE.md`) I record this, and it is a rule of reading that will be kept throughout the sūra:** the verse says ***farīqun minhum*** — "**a group** of them". **There is no blanket ruling.** **This note is directly connected with verse 113 of the sūra (*laysū sawāʾ*), and it will be shown there in a table.**
 
 **The twenty-fourth verse gives the cause:** *dhālika bi-annahum qālū lan tamassana'n-nāru illā ayyāman maʿdūdāt* — "because they said, **the Fire will touch us only for a counted number of days.**"
 
@@ -800,7 +800,7 @@ The root **ن-ز-ع**: **to pull a thing out of its place, to wrench it loose.**
 
 ### بِيَدِكَ ٱلْخَيْرُ — and a note on transcendence
 
-**Per the method (`USLUP.md`), and following the note kept consistently throughout the series, the same holds here:** expressions such as *yad* (hand) cannot be understood as **ascribing an organ or a body** to God. **The same note was entered at 57/29 in `057-hadid.md` and in `036-yasin.md`:** two attitudes are transmitted in the classical commentaries — to accept the wording as it stands and leave its manner to God (*tafwīḍ*), or to interpret it in the sense of power and disposal (*taʾwīl*). **I transmit both and impose no preference.** The shared principle is `042-sura.md` 42/11.
+**Per the method (`STYLE.md`), and following the note kept consistently throughout the series, the same holds here:** expressions such as *yad* (hand) cannot be understood as **ascribing an organ or a body** to God. **The same note was entered at 57/29 in `057-hadid.md` and in `036-yasin.md`:** two attitudes are transmitted in the classical commentaries — to accept the wording as it stands and leave its manner to God (*tafwīḍ*), or to interpret it in the sense of power and disposal (*taʾwīl*). **I transmit both and impose no preference.** The shared principle is `042-sura.md` 42/11.
 
 **And there is something in the content of the sentence that must be recorded, and the classical commentaries have dwelt on it:** the sentence says *bi-yadika'l-**khayr*** — **only the good is named.** Although raising and abasing are counted together, it does not say "in Your hand are good and evil".
 
@@ -867,7 +867,7 @@ The root **و-ل-ج**. **It was analysed in detail at 57/6 in `057-hadid.md` and
 
 The root **و-ل-ي**: **to be near, to be adjoining.** *Walī* — the one who is near, who takes charge of another's affair. **The root was treated across eight occurrences in `042-sura.md` and in detail in `060-mumtehine.md`.**
 
-**Per the method (`USLUP.md`) I record this, and it comes out of the wording of the verse:**
+**Per the method (`STYLE.md`) I record this, and it comes out of the wording of the verse:**
 
 **One. The word is not "friend".** *Walāya* (the bond of mutual protection) means **entrusting one's affair to another, declaring one's side.** **This distinction was set out plainly at 60/8 in `060-mumtehine.md`:** *"God does not forbid you to **deal kindly and justly** with those who have not fought you over religion and have not driven you from your homes."* **I rely on that treatment.**
 
@@ -879,7 +879,7 @@ The root **و-ل-ي**: **to be near, to be adjoining.** *Walī* — the one who 
 
 **The exception must be recorded:** the verse sets an exception to its own ruling. *Tuqāt*, from the root **ت-ق-ي** — **guarding oneself, taking precaution.**
 
-**This exception has been discussed at length in the classical legal literature.** **Per the method (`USLUP.md`) I do not enter that discussion and I issue no legal ruling.** What is to be recorded is **that the verse itself sets an exception** — that is, the ruling is not absolute but qualified.
+**This exception has been discussed at length in the classical legal literature.** **Per the method (`STYLE.md`) I do not enter that discussion and I issue no legal ruling.** What is to be recorded is **that the verse itself sets an exception** — that is, the ruling is not absolute but qualified.
 
 **The twenty-ninth verse** says that the hidden and the open are the same (*in tukhfū mā fī ṣudūrikum aw tubdūhu yaʿlamhu'llāh*), and **the thirtieth** that everyone will find what he has done **brought present**: *yawma tajidu kullu nafsin mā ʿamilat min khayrin muḥḍarā.*
 
@@ -956,7 +956,7 @@ The root **و-ل-ي**: **to be near, to be adjoining.** *Walī* — the one who 
 
 ***Āla ʿImrān* — "the family of ʿImrān".** The construct occurs only here in the sūra.
 
-**A note per the method (`USLUP.md`):** the Qurʾān names *ʿImrān* in two other places — 3/35 (*imraʾatu ʿImrān*) and al-Taḥrīm 66/12 (*Maryama'bnata ʿImrān*). **The Qurʾān gives no other information about this person.** The genealogical material transmitted in the classical sources is not passed on in this commentary; **the only thing the text gives is a name.**
+**A note per the method (`STYLE.md`):** the Qurʾān names *ʿImrān* in two other places — 3/35 (*imraʾatu ʿImrān*) and al-Taḥrīm 66/12 (*Maryama'bnata ʿImrān*). **The Qurʾān gives no other information about this person.** The genealogical material transmitted in the classical sources is not passed on in this commentary; **the only thing the text gives is a name.**
 
 ### ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ
 
@@ -980,7 +980,7 @@ The root **ذ-ر-ر / ذ-ر-و** — the lexicographers differ over the origin o
 
 ---
 
-**These two verses will be worked through with care. The sentence *wa laysa'dh-dhakaru ka'l-unthā* in particular is one of the sentences on which the most mistaken rulings have been built. Per the method (`USLUP.md`) I shall first settle the question of *whose* sentence it is, then give the classical explanations in a table.**
+**These two verses will be worked through with care. The sentence *wa laysa'dh-dhakaru ka'l-unthā* in particular is one of the sentences on which the most mistaken rulings have been built. Per the method (`STYLE.md`) I shall first settle the question of *whose* sentence it is, then give the classical explanations in a table.**
 
 ### مُحَرَّرًا — root: ح-ر-ر
 
@@ -1041,7 +1041,7 @@ The root **و-ض-ع**: **to put a thing down, to set it down.** Its use for givi
 | What *al-dhakar* is | What was expected, **hoped for** | What was expected, **the lesser** |
 | To whom it gives precedence | **To neither** — a note of a state | **To the female** — because *ka'l-unthā* is taken as the measure |
 
-**And now, per the method (`USLUP.md`), I enter a note, because this sentence is often misused:**
+**And now, per the method (`STYLE.md`), I enter a note, because this sentence is often misused:**
 
 **One. Whichever reading is taken, the sentence is not a sentence of *general ruling*.** It is spoken inside a scene, at the moment of a birth, in the context of a particular vow. **Every element around the sentence is particular: a woman, a vow, a birth, a name.**
 
@@ -1061,7 +1061,7 @@ The root **و-ض-ع**: **to put a thing down, to set it down.** Its use for givi
 
 **And the name will occur six times in the second half of the sūra.** **In `019-meryem.md` a sūra bears this name**, and Mary's account was treated there in detail.
 
-**Per the method (`USLUP.md`) I record this: differing views are transmitted in the classical sources about the meaning of the name, and there is no certain knowledge.** I make no claim about its meaning in this commentary.
+**Per the method (`STYLE.md`) I record this: differing views are transmitted in the classical sources about the meaning of the name, and there is no certain knowledge.** I make no claim about its meaning in this commentary.
 
 **ٱلشَّيْطَٰنِ ٱلرَّجِيمِ** — *rajīm*: from the root **ر-ج-م**, **stoned, driven off.** **The root was treated at 37/7 in `037-saffat.md` and at 67/5 in `067-mulk.md` (*rujūman li'sh-shayāṭīn*).**
 
@@ -1172,7 +1172,7 @@ The root **ن-ب-ت**: **a plant's coming up out of the ground.** Form IV: *anba
 
 **All three are transmitted. I do not impose a preference.**
 
-**And per the method (`USLUP.md`) I enter a note:** from the second reading it cannot be concluded that **not marrying is a general excellence**; elsewhere the Qurʾān says plainly that prophets had wives and children (al-Raʿd 13/38 — **treated in `013-rad.md`**). **No legal or moral ruling is established on this matter in this commentary.**
+**And per the method (`STYLE.md`) I enter a note:** from the second reading it cannot be concluded that **not marrying is a general excellence**; elsewhere the Qurʾān says plainly that prophets had wives and children (al-Raʿd 13/38 — **treated in `013-rad.md`**). **No legal or moral ruling is established on this matter in this commentary.**
 
 ### كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 
@@ -1259,7 +1259,7 @@ The root **ر-م-ز**: **to signal with the lip, the eye or the hand — a commu
 
 **The forty-fourth verse names a scene but does not narrate it: *idh yulqūna aqlāmahum ayyuhum yakfulu Maryam* — "when they cast their pens to see which of them should have charge of Mary."**
 
-**The Qurʾān says nothing else about this scene:** how many they were, how the pen was cast, who won — none of it. **And in the classical commentaries various reports are passed on that fill this gap. Per the method (`USLUP.md`) those reports are not passed on in this commentary.**
+**The Qurʾān says nothing else about this scene:** how many they were, how the pen was cast, who won — none of it. **And in the classical commentaries various reports are passed on that fill this gap. Per the method (`STYLE.md`) those reports are not passed on in this commentary.**
 
 **The verse's own sentence already says why the scene is named: *dhālika min anbāʾi'l-ghaybi nūḥīhi ilayk* — "these are among the tidings of the unseen that We reveal to you."**
 
@@ -1320,7 +1320,7 @@ The root **ك-ل-م**: **to wound; and to utter speech.** The lexicographers est
 
 **All three are transmitted. I do not impose a preference.**
 
-**And per the method (`USLUP.md`) I record this plainly:** the construction is bounded by the verse's own sentence. **The verse does not debate what the *kalima* is; it gives it as a *subject of good news* and immediately afterwards names it with three names.** No theological debate is entered in this commentary.
+**And per the method (`STYLE.md`) I record this plainly:** the construction is bounded by the verse's own sentence. **The verse does not debate what the *kalima* is; it gives it as a *subject of good news* and immediately afterwards names it with three names.** No theological debate is entered in this commentary.
 
 **And a point of word order must be recorded, and the classical commentaries point to it:** *bi-kalimatin* is **feminine**, but the pronoun comes **masculine**: ***ismuhū*** — "**his** name" (not *ismuhā*).
 
@@ -1422,7 +1422,7 @@ The root **ك-ه-ل**: **one who has come to middle age, who has ripened.** **Th
 
 **The verse's caveat matters: *baʿḍa'lladhī* — "**some of it**".** Not all.
 
-**Per the method (`USLUP.md`) I record this:** this sentence is connected with a ruling named elsewhere in the Qurʾān (al-Nisāʾ 4/160, al-Anʿām 6/146). **No legal ruling is built on that connection in this commentary;** what is to be recorded is that the sentence speaks of a **partial** change.
+**Per the method (`STYLE.md`) I record this:** this sentence is connected with a ruling named elsewhere in the Qurʾān (al-Nisāʾ 4/160, al-Anʿām 6/146). **No legal ruling is built on that connection in this commentary;** what is to be recorded is that the sentence speaks of a **partial** change.
 
 **And the closing sentence of the block is worth recording: *hādhā ṣirāṭun mustaqīm.*** **The construction was treated in detail in `001-fatiha.md`.** I do not repeat it here. **And it will occur once more in the sūra, at verse 101:** *wa man yaʿtaṣim bi'llāhi fa-qad hudiya ilā ṣirāṭin mustaqīm.* **Two occurrences, one inside an account and one in an address to the community.**
 
@@ -1452,7 +1452,7 @@ The root **ح-س-س**: **to perceive by the senses.** Form IV: *aḥassa* — to
 
 The root **م-ك-ر**: **to lay a scheme in secret.** **The root was treated at 27/50-51 in `027-neml.md` and at 13/42 in `013-rad.md`.**
 
-**Per the method (`USLUP.md`) I enter a note, and it has been kept consistently in the series:** when the word is used of God it does not mean **deceiving or wronging**. **In Arabic this is called *mushākala* (answering with the same word):** the response is named with the wording of the first act.
+**Per the method (`STYLE.md`) I enter a note, and it has been kept consistently in the series:** when the word is used of God it does not mean **deceiving or wronging**. **In Arabic this is called *mushākala* (answering with the same word):** the response is named with the wording of the first act.
 
 **And the sentence itself shows this: *wa'llāhu khayru'l-mākirīn* — "the best of planners".** **The attribute "best" records within the sentence that the verb is not meant in a bad sense.**
 
@@ -1483,11 +1483,11 @@ The root **و-ف-ي**: **to be complete, to be without deficiency.** *Wafāʾ* �
 
 **All four readings are transmitted in the classical sources. I do not impose a preference.**
 
-**And per the method (`USLUP.md`) I enter a plain note:** a wide theological and narrative literature has formed around this verse. **That debate is not entered in this commentary.** What is to be recorded is **that the wording of the verse lists four acts**: *tawaffī*, *rafʿ*, *taṭhīr*, *jaʿl*. **And all four are ascribed to God; the subject of none of them is Jesus.**
+**And per the method (`STYLE.md`) I enter a plain note:** a wide theological and narrative literature has formed around this verse. **That debate is not entered in this commentary.** What is to be recorded is **that the wording of the verse lists four acts**: *tawaffī*, *rafʿ*, *taṭhīr*, *jaʿl*. **And all four are ascribed to God; the subject of none of them is Jesus.**
 
 ### فَوْقَ ٱلَّذِينَ كَفَرُوا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
 
-**Per the method (`USLUP.md`) I record this:** both sides in the sentence are named by an **attribute** — *alladhīna'ttabaʿūk* (those who followed you) and *alladhīna kafarū* (those who disbelieved). **No people, nation or religious institution is named.**
+**Per the method (`STYLE.md`) I record this:** both sides in the sentence are named by an **attribute** — *alladhīna'ttabaʿūk* (those who followed you) and *alladhīna kafarū* (those who disbelieved). **No people, nation or religious institution is named.**
 
 **And what the word *fawqa* (above) conveys is disputed in the classical commentaries:**
 
@@ -1590,7 +1590,7 @@ The root **م-ر-ي**: **to doubt; and to dispute.** Form VIII: *imtirāʾ* — 
 
 ---
 
-**Per the method (`USLUP.md`) I draw a boundary here, and I write it plainly:** a wide literature of reports and a dispute between the schools have formed around this verse. **Those reports and that dispute are not entered in this commentary; no personal names are given.** I keep within the **wording** of the verse.
+**Per the method (`STYLE.md`) I draw a boundary here, and I write it plainly:** a wide literature of reports and a dispute between the schools have formed around this verse. **Those reports and that dispute are not entered in this commentary; no personal names are given.** I keep within the **wording** of the verse.
 
 ### نَبْتَهِل — root: ب-ه-ل
 
@@ -1781,7 +1781,7 @@ The root **ع-ل-و**: **height.** The imperative form of the verb *taʿālā*: 
 
 **And the fourth step is the one most easily passed over.** The verse takes the possibility of refusal into account from the start and gives what is to be said in that case as well. **What is given is not a sentence of rupture but a sentence of record.**
 
-**Per the method (`USLUP.md`) I record this: no blanket ruling about any community can be drawn from this verse — neither favourable nor unfavourable.** The verse sets up a **call**; who answers the call and how is not the subject of the verse. **And verse 113 of the sūra will record plainly that the answer is not of one kind.**
+**Per the method (`STYLE.md`) I record this: no blanket ruling about any community can be drawn from this verse — neither favourable nor unfavourable.** The verse sets up a **call**; who answers the call and how is not the subject of the verse. **And verse 113 of the sūra will record plainly that the answer is not of one kind.**
 
 ---
 
@@ -1856,7 +1856,7 @@ The root **ع-ق-ل**: **to bind.** *ʿIqāl* — the cord that binds a camel's 
 
 **I record this as my own reading, and its ground is the difference between the two kinds of word:** the verse does not answer a claim of membership with another claim of membership. **The kind of answer is changed** — what was asked was "of which side?", and what is given is "of what quality?".
 
-**And per the method (`USLUP.md`) I record this plainly: no ruling about any community follows from this verse.** The verse removes two names from Abraham; **it says nothing about those who bear those names.** Verse 113 of the sūra will enter the note on this separately.
+**And per the method (`STYLE.md`) I record this plainly: no ruling about any community follows from this verse.** The verse removes two names from Abraham; **it says nothing about those who bear those names.** Verse 113 of the sūra will enter the note on this separately.
 
 ### حَنِيف — root: ح-ن-ف
 
@@ -1970,7 +1970,7 @@ And it must be recorded that both sentences end with the same note: *wa antum **
 
 **I record this as an observation about the word order, and its ground is the sequence:** the sentence begins with the trustworthy one. **That is, the text's own order blocks the building of a blanket unfavourable ruling at the very first word.**
 
-**And per the method (`USLUP.md`) I write plainly: no blanket ruling about any religious community can be built on this verse — because the verse itself does not build one.** The verse describes **two kinds of conduct** and assigns a part to each. **Whoever does that conduct, the verse speaks of him.**
+**And per the method (`STYLE.md`) I write plainly: no blanket ruling about any religious community can be built on this verse — because the verse itself does not build one.** The verse describes **two kinds of conduct** and assigns a part to each. **Whoever does that conduct, the verse speaks of him.**
 
 ### Supports within the series: 29/47 and 13/36
 
@@ -2035,7 +2035,7 @@ A rule is set up "for everyone"; but in practice a **circle** is drawn, and thos
 
 **The verse's answer lies in two places, and both are in the text:** the ascribing of the pretext to religion is counted as a separate offence (*wa yaqūlūna ʿala'llāhi'l-kadhib*), and the counter-measure is set up with a *man* that recognises no circle (76).
 
-**Per the method (`USLUP.md`) I record this: no conclusion about any religious or ethnic group is drawn from this section.** What is described is **an attitude**, and the verse itself, in its first word (*wa min*), blocked the assigning of that attitude to the whole of a group.
+**Per the method (`STYLE.md`) I record this: no conclusion about any religious or ethnic group is drawn from this section.** What is described is **an attitude**, and the verse itself, in its first word (*wa min*), blocked the assigning of that attitude to the whole of a group.
 
 ---
 
@@ -2233,7 +2233,7 @@ The root **أ-ص-ر**: **to bind, to hold fast; and a heavy load.** *Iṣr* — 
 
 ### What the verse says and what it does not say
 
-**Per the method (`USLUP.md`) I record this plainly — these are limits that come out of the wording of the verse, not a softening brought in from outside:**
+**Per the method (`STYLE.md`) I record this plainly — these are limits that come out of the wording of the verse, not a softening brought in from outside:**
 
 **One. The verse sets a *measure*; it does not give a *list of persons*.** No community, people or group is named in the sentence. The subject is *man* — "whoever". **And the predicate is *yabtaghi* — "seeks": a verb.**
 
@@ -2418,7 +2418,7 @@ When a person gives away something he wanted off his hands, he does two things a
 
 **And the note *in kuntum ṣādiqīn*: the offer of verification is left open to the other side.**
 
-**Per the method (`USLUP.md`) I draw a boundary:** what the particular prohibition the verse discusses was is transmitted in various forms in the classical sources. **I do not go into the detail of those reports in this commentary and I make no preference**, because the verse does not name the matter — it states only **its time**.
+**Per the method (`STYLE.md`) I draw a boundary:** what the particular prohibition the verse discusses was is transmitted in various forms in the classical sources. **I do not go into the detail of those reports in this commentary and I make no preference**, because the verse does not name the matter — it states only **its time**.
 
 ### مِلَّة — root: م-ل-ل
 
@@ -2438,7 +2438,7 @@ The root **م-ل-ل**. The lexicographers explain *milla* as **a way kept to, a 
 
 ---
 
-**Per the method (`USLUP.md`) I draw a boundary here and shall keep it throughout the section: the detail of the rulings of pilgrimage was treated at 2/196-203 in `002-bakara.md` and at 22/26-33 in `022-hac.md`. I rely on those treatments, do not repeat them, and *issue no legal ruling.* Only what these two verses add will be recorded here.**
+**Per the method (`STYLE.md`) I draw a boundary here and shall keep it throughout the section: the detail of the rulings of pilgrimage was treated at 2/196-203 in `002-bakara.md` and at 22/26-33 in `022-hac.md`. I rely on those treatments, do not repeat them, and *issue no legal ruling.* Only what these two verses add will be recorded here.**
 
 ### أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ — word order
 
@@ -2515,7 +2515,7 @@ The root **م-ل-ل**. The lexicographers explain *milla* as **a way kept to, a 
 
 **اِسْتَطَاعَ** — root **ط-و-ع** (Form X): **to be able.** **And the same root occurred at verse 83 as *ṭawʿan*.** **The same root, one conveying willing submission, the other being able.**
 
-**Per the method (`USLUP.md`) I record this: the extent of *istiṭāʿa* (safety of the road, financial condition, bodily health, travel with a close relative) has been discussed in detail in classical law, and there are differences among the schools. That discussion is not entered in this commentary and no view is preferred.** The only thing recorded is that the verse ties the obligation **to a condition.**
+**Per the method (`STYLE.md`) I record this: the extent of *istiṭāʿa* (safety of the road, financial condition, bodily health, travel with a close relative) has been discussed in detail in classical law, and there are differences among the schools. That discussion is not entered in this commentary and no view is preferred.** The only thing recorded is that the verse ties the obligation **to a condition.**
 
 **وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ** — **and the verse closes by saying that the one who lays down the obligation expects no benefit from it.** **The same idea was set up for the offering at 22/37 in `022-hac.md`** (*lan yanāla'llāha luḥūmuhā wa lā dimāʾuhā*). **The two sūras enter the same note for two different acts of worship.**
 
@@ -2804,7 +2804,7 @@ And the subject of the verb must be recorded: *fa-**allafa*** — the subject is
 
 ---
 
-**Per the method (`USLUP.md`) this verse will be treated in this commentary with great care. The reason is plain: it is one of the verses most used to set up a claim of superiority for a community. And the rule of this commentary was laid down at the head of the sūra — no blanket ruling is made about any group. What I shall show below is that this rule is not a sensitivity brought in from outside but the verse's own word order.**
+**Per the method (`STYLE.md`) this verse will be treated in this commentary with great care. The reason is plain: it is one of the verses most used to set up a claim of superiority for a community. And the rule of this commentary was laid down at the head of the sūra — no blanket ruling is made about any group. What I shall show below is that this rule is not a sensitivity brought in from outside but the verse's own word order.**
 
 ### The structure of the sentence: where in the sentence the attributes stand
 
@@ -2884,7 +2884,7 @@ And the subject of the verb must be recorded: *fa-**allafa*** — the subject is
 
 **But one datum of the text can be recorded, and I record it:** the predicate of the sentence is perfect, and all three of the attributes are imperfect. **In Arabic the imperfect conveys *continuance and renewal*.** That is, the attributes are set up not as a completed event but as **an ongoing work**. **This gives an indication in favour of the fourth reading; but I record it as an indication, not as a preference.**
 
-### Per the method (`USLUP.md`): what the verse does not say
+### Per the method (`STYLE.md`): what the verse does not say
 
 **I now record this plainly. These are limits that come out of the *wording* of the verse:**
 
@@ -2898,7 +2898,7 @@ And the subject of the verb must be recorded: *fa-**allafa*** — the subject is
 
 **Four. And the sūra will enter this note again and plainly three verses later: *laysū sawāʾan* (113).** **In this commentary verse 110 is read together with that note the sūra itself sets down.**
 
-**Five. Present-day politics and claims of superiority are not entered.** This is the rule of `USLUP.md`, and it is recalled here again, because this verse has been used most in that field.
+**Five. Present-day politics and claims of superiority are not entered.** This is the rule of `STYLE.md`, and it is recalled here again, because this verse has been used most in that field.
 
 ### What this says to the present
 
@@ -2942,7 +2942,7 @@ The verse looks like a sentence of **praise**; but every element in it is a **bu
 
 **And the difference is at the most important place: in giving the same ruling, Āl ʿImrān adds an exception.**
 
-**Per the method (`USLUP.md`) I record this plainly:** these two verses cannot be read as a blanket ruling about a community. **The reason is not brought in from outside; it is from the text itself, in three places:**
+**Per the method (`STYLE.md`) I record this plainly:** these two verses cannot be read as a blanket ruling about a community. **The reason is not brought in from outside; it is from the text itself, in three places:**
 
 **One.** The ground of the ruling is counted at the end of the verse **by verbs**: denial, killing prophets, disobedience, transgression. **That is, the ruling is tied not to a name but to a list of conduct.**
 
@@ -3027,7 +3027,7 @@ The verse looks like a sentence of **praise**; but every element in it is a **bu
 
 **I record this as my own reading, and it is not binding:** the placing of the note immediately after the heavy statement can be read as a method of the sūra. **The text meets the generalising of its own sentence within itself.**
 
-**And per the method (`USLUP.md`) I record this: in this commentary no blanket ruling about any religious or ethnic group has been drawn from any statement of the sūra. This is the note the sūra itself sets down.**
+**And per the method (`STYLE.md`) I record this: in this commentary no blanket ruling about any religious or ethnic group has been drawn from any statement of the sūra. This is the note the sūra itself sets down.**
 
 ### وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن يُكْفَرُوهُ
 
@@ -3080,7 +3080,7 @@ The root **ب-ط-ن**: **the inside, the belly, what is hidden.** *Baṭn* — b
 | **3** | That the hatred shows in their words | *Qad badati'l-baghḍāʾu min afwāhihim* |
 | **4** | That what is concealed is greater still | *Wa mā tukhfī ṣudūruhum akbar* |
 
-**Per the method (`USLUP.md`) I record this: all four grounds describe an *attitude*; none of them gives a group's name.** **The verse says *min dūnikum*, and the measure of that is the four attitudes counted below it.** **No ruling about any community is built on this verse in this commentary** — and the sūra itself has already entered this note at verse 113.
+**Per the method (`STYLE.md`) I record this: all four grounds describe an *attitude*; none of them gives a group's name.** **The verse says *min dūnikum*, and the measure of that is the four attitudes counted below it.** **No ruling about any community is built on this verse in this commentary** — and the sūra itself has already entered this note at verse 113.
 
 ### وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ — the close of the block
 
@@ -3108,7 +3108,7 @@ The root **ب-ط-ن**: **the inside, the belly, what is hidden.** *Baṭn* — b
 
 ---
 
-**This verse opens the fifth and longest block of the sūra. Per the method (`USLUP.md`) I draw a boundary and shall keep it throughout the block: in the discussion of Uḥud I do not go into the detail of the reports or into personal names. The verses themselves name no one anywhere — no commander, no tribe, no unit. This silence of the text is preserved in this commentary.**
+**This verse opens the fifth and longest block of the sūra. Per the method (`STYLE.md`) I draw a boundary and shall keep it throughout the block: in the discussion of Uḥud I do not go into the detail of the reports or into personal names. The verses themselves name no one anywhere — no commander, no tribe, no unit. This silence of the text is preserved in this commentary.**
 
 **The only thing to be recorded is this: in the classical sources this block is identified as Uḥud, and this identification is widespread. I transmit it in language that plainly marks the uncertainty; I do not ascribe it word for word to any particular report.**
 
@@ -3196,7 +3196,7 @@ The root **ف-ش-ل**: **to slacken, to come undone, to be unable to act for fea
 
 **And the same note is at 8/10 in `008-enfal.md` as well** (*wa mā jaʿalahu'llāhu illā bushrā wa li-taṭmaʾinna bihī qulūbukum, wa ma'n-naṣru illā min ʿindi'llāh*) **and it is almost word for word the same.** **I rely on that treatment and record this correspondence between the two verses as a fact verifiable from the text.**
 
-**Per the method (`USLUP.md`) I record this: no description whatever is entered in this section of how or in what form the angels were present.** The verse gives the adjectives *munzalīn* (sent down) and *musawwimīn* (marked out) and says nothing else. **This silence of the text is preserved.** **And there is disagreement over the sense of *musawwimīn*** — as with *al-khaylu'l-musawwama* in verse 14, the root **س-و-م** conveys both *to mark* and *to turn loose*; **I impose no preference.**
+**Per the method (`STYLE.md`) I record this: no description whatever is entered in this section of how or in what form the angels were present.** The verse gives the adjectives *munzalīn* (sent down) and *musawwimīn* (marked out) and says nothing else. **This silence of the text is preserved.** **And there is disagreement over the sense of *musawwimīn*** — as with *al-khaylu'l-musawwama* in verse 14, the root **س-و-م** conveys both *to mark* and *to turn loose*; **I impose no preference.**
 
 ---
 
@@ -3456,7 +3456,7 @@ The root **و-ه-ن**: **the coming undone of strength, the failing of capacity.
 
 **And in both verses the construction does not stand *alone*: in one *wa'llāhu maʿakum* is added, in the other *in kuntum muʾminīn*.**
 
-**Per the method (`USLUP.md`) I record this plainly and keep the limit set at 47/35 in `047-muhammed.md`:**
+**Per the method (`STYLE.md`) I record this plainly and keep the limit set at 47/35 in `047-muhammed.md`:**
 
 **One. The construction is qualified by a *conditional clause*: *in kuntum muʾminīn*.** **In Arabic the particle *in* conveys a condition.** **That is, the sentence does not convey an unconditional superiority.**
 
@@ -3655,7 +3655,7 @@ The root **ق-ل-ب**: **to turn, to turn upside down.** The root **ع-ق-ب**: 
 
 **The same note will come twice more in the sūra: *lā yaḍurrūna'llāha shayʾā* (176) and *lan yaḍurrū'llāha shayʾā* (177).** **Three occurrences, in a single sūra.** This is a repetition verifiable within the sūra.
 
-**Per the method (`USLUP.md`) I record this: I transmit no report about the event and the words said in connection with this verse as related in the sources, and I give no personal names.** The only thing that can be recorded is this: **the classical sources place this verse in the context of Uḥud, and this identification is widespread.** **The verse itself gives no event and no personal name, and this silence is preserved.**
+**Per the method (`STYLE.md`) I record this: I transmit no report about the event and the words said in connection with this verse as related in the sources, and I give no personal names.** The only thing that can be recorded is this: **the classical sources place this verse in the context of Uḥud, and this identification is widespread.** **The verse itself gives no event and no personal name, and this silence is preserved.**
 
 ### What this says to the present
 
@@ -4111,7 +4111,7 @@ The root **ش-و-ر** was analysed in detail at 42/38 in `042-sura.md`. **I rely
 
 **I record this as my own reading, and it is not binding:** whether a quality is really a quality becomes clear at the moment when things go badly. **And Āl ʿImrān chooses exactly that moment.**
 
-**Per the method (`USLUP.md`) I record this: no form of government and no political model is drawn from this verse.** **The same note was entered at 42/38 in `042-sura.md` and is kept here.** The verse commands consultation; it says nothing about the institutional form of consultation.
+**Per the method (`STYLE.md`) I record this: no form of government and no political model is drawn from this verse.** **The same note was entered at 42/38 in `042-sura.md` and is kept here.** The verse commands consultation; it says nothing about the institutional form of consultation.
 
 ### فَإِذَا عَزَمْتَ فَتَوَكَّلْ
 
@@ -4470,7 +4470,7 @@ The root **ط-و-ق**: **a ring, a hoop that goes round the neck.** *Ṭawq* —
 
 **And the same matter was treated at 2/245 in `002-bakara.md`** (*man dha'lladhī yuqriḍu'llāha qarḍan ḥasanā*) **and the difficulty raised by the phrase "a goodly loan" was taken up there.** **I rely on that treatment.**
 
-**Per the method (`USLUP.md`) I record this: I do not go into the reports about who spoke this saying, and I give no personal or group names.** **The verse gives its subject as *alladhīna qālū* — "those who said". The measure is not who says the word but the word itself.**
+**Per the method (`STYLE.md`) I record this: I do not go into the reports about who spoke this saying, and I give no personal or group names.** **The verse gives its subject as *alladhīna qālū* — "those who said". The measure is not who says the word but the word itself.**
 
 ---
 

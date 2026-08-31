@@ -560,7 +560,7 @@ The verse does not explain why the night is more suitable; it only states that i
 
 Can all three of these be drawn from what the verse says? No. **These are my own observations**, not the ground the verse gives. The verse gives no ground; it gives a measure.
 
-And I know that in modern sleep and attention research there is a literature on the cognitive effects of night wakefulness; but the findings of that literature are disputed and vary from person to person. **I do not attach the verse to it.** The rule in `USLUP.md` that "no hunting for scientific miracles is done" exists precisely to preserve this limit.
+And I know that in modern sleep and attention research there is a literature on the cognitive effects of night wakefulness; but the findings of that literature are disputed and vary from person to person. **I do not attach the verse to it.** The rule in `STYLE.md` that "no hunting for scientific miracles is done" exists precisely to preserve this limit.
 
 ---
 
@@ -950,7 +950,7 @@ So the meaning is not "leave me, and leave them too"; it is **"leave me alone wi
 
 **This pattern occurs in several places in the Qurʾān and in all of them it does the same work:** taking the reckoning from the addressee and handing it to the speaker. The eleventh verse of the next sūra will open with the same word: *dharnī wa man khalaqtu waḥīdā*.
 
-**The eleventh verse of both sūras begins with the same verb.** I record this overlap as an observation; I build no claim whatever on the verse numbers coinciding — the division of verses in the muṣḥaf is a separate matter, and to draw a ruling from numerical overlaps of this kind is exactly the sort of operation `USLUP.md` forbids.
+**The eleventh verse of both sūras begins with the same verb.** I record this overlap as an observation; I build no claim whatever on the verse numbers coinciding — the division of verses in the muṣḥaf is a separate matter, and to draw a ruling from numerical overlaps of this kind is exactly the sort of operation `STYLE.md` forbids.
 
 ### The direction of the command: the work is handed over
 
@@ -971,7 +971,7 @@ The difference of form matters:
 
 The verse uses the second. **That is, what is charged is not lying but counting the word that has come as a lie.**
 
-And since the active participle comes in the plural (*al-mukadhdhibīn*), this is an **attribute** — not the name of a group. As recorded in `USLUP.md`: it is the attribute the verse describes; whoever carries that attribute is included in it.
+And since the active participle comes in the plural (*al-mukadhdhibīn*), this is an **attribute** — not the name of a group. As recorded in `STYLE.md`: it is the attribute the verse describes; whoever carries that attribute is included in it.
 
 ### أُو۟لِى ٱلنَّعْمَة — there is a difference of emphasis here
 
@@ -1281,7 +1281,7 @@ But **the verse's not giving a name is meaningful** and it builds a structure:
 
 **There is no name on either side.** What the analogy is built on is not persons but **a situation**: a messenger came, he was opposed, and this was the outcome.
 
-This fits the principle recorded in `USLUP.md`: the text describes attribute and situation, not identity.
+This fits the principle recorded in `STYLE.md`: the text describes attribute and situation, not identity.
 
 ### فَعَصَىٰ — he disobeyed
 
@@ -1454,7 +1454,7 @@ Several explanations are given in the classical sources:
 | **The sense of relation** | *Munfaṭir* means "possessor of splitting" (*dhātu'nfiṭār*); adjectives of relation can come masculine | A usage the lexicographers record; examples such as *ḥāʾiḍ*, *ṭāliq* are given |
 | **Emphasis** | The masculine form is a deviation conveying the magnitude of the event | The weakest explanation; loading meaning onto grammatical deviations is risky |
 
-**I do not impose a preference.** The third explanation is the one most worked on among the lexicographers; but there is no settled conclusion, and I have to state that I find the fourth weak — because to draw meaning from every grammatical deviation is exactly the kind of forcing that `USLUP.md` warns against.
+**I do not impose a preference.** The third explanation is the one most worked on among the lexicographers; but there is no settled conclusion, and I have to state that I find the fourth weak — because to draw meaning from every grammatical deviation is exactly the kind of forcing that `STYLE.md` warns against.
 
 ### بِهِ — "by it"
 
@@ -2238,7 +2238,7 @@ I do not draw this from the verse as a principle of administration. The verse gi
 - The place of the *hajran jamīlā* of 73/10 among the uses of *jamīl* in the Qurʾān was given as an observation about distribution; **the list rests on my memory and carries no claim to a complete survey.**
 - It was stated that 73/10 is not a command to fight or to retaliate; the legal discussion about in what period this stance held and its relation to later verses **was not entered into and no ruling was issued.**
 - The difference of vowelling between *naʿma* and *niʿma* at 73/11, and that the reading in the verse is *naʿma* (ease), were recorded. **In treating the class side of the opposition, the balance of `089-fecr.md` was preserved:** plenty was not declared a crime, and it was stated again that to place particular persons inside the verse's description is the operation the text forbids.
-- That the eleventh verses of al-Muzzammil and al-Muddaththir begin with the same verb was given as an observation; **no conclusion whatever was drawn from the coincidence of the verse numbers**, and it was stated that numerical operations of this kind are forbidden by `USLUP.md`.
+- That the eleventh verses of al-Muzzammil and al-Muddaththir begin with the same verb was given as an observation; **no conclusion whatever was drawn from the coincidence of the verse numbers**, and it was stated that numerical operations of this kind are forbidden by `STYLE.md`.
 - The reading that the four elements of punishment at 73/12-13 are ordered "from the outside inward" is my inference.
 - The reading that the images of the mountains at 73/14 form a "series of lightening" is my own classification. The observation that sand is broken rock was not presented as a claim in geology.
 - The reading that the example of Pharaoh was chosen because he is "the opponent with the greatest means" was marked as my own reading.

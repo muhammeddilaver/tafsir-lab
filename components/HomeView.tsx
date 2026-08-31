@@ -1,8 +1,10 @@
 import Link from "next/link";
 import ContinueCard from "@/components/ContinueCard";
+import JsonLd from "@/components/JsonLd";
 import SuraFilter from "@/components/SuraFilter";
 import { stats, suraList } from "@/lib/content";
 import { LOCALE, ROUTES, T, type Lang } from "@/lib/i18n";
+import { webSiteLd } from "@/lib/jsonld";
 
 export default function HomeView({ lang }: { lang: Lang }) {
   const list = suraList(lang);
@@ -35,6 +37,7 @@ export default function HomeView({ lang }: { lang: Lang }) {
         lang={lang}
         items={list.map((x) => ({ no: x.no, name: x.name, ayahCount: x.ayahCount }))}
       />
+      <JsonLd data={webSiteLd(lang)} />
     </div>
   );
 }

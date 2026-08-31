@@ -649,7 +649,7 @@
 
 "**Evinde bulunduğu kadın, onu nefsinden murad almak için üsteledi; kapıları sımsıkı kapattı ve 'Haydi gelsene!' dedi. O ise: 'Allah'a sığınırım! O benim efendimdir, bana iyi baktı. Zulmedenler kurtuluşa ermez' dedi.**"
 
-**Bu bölümde USLUP gereği yalnız Kur'an'ın verdiği lafızla ilerliyorum.** Klasik tefsirlerde ve kıssa kitaplarında bu sahne çevresinde çok sayıda ayrıntı anlatılır; **bunların büyük kısmı İsrâiliyat kaynaklıdır ve Kur'an'da karşılığı yoktur.** Kadının adı, odanın hâli, sahnede geçen ek konuşmalar — **hiçbiri Kur'an'da yoktur ve bu tefsirde kullanılmayacaktır.**
+**Bu bölümde STYLE gereği yalnız Kur'an'ın verdiği lafızla ilerliyorum.** Klasik tefsirlerde ve kıssa kitaplarında bu sahne çevresinde çok sayıda ayrıntı anlatılır; **bunların büyük kısmı İsrâiliyat kaynaklıdır ve Kur'an'da karşılığı yoktur.** Kadının adı, odanın hâli, sahnede geçen ek konuşmalar — **hiçbiri Kur'an'da yoktur ve bu tefsirde kullanılmayacaktır.**
 
 ### رَٰوَدَتْهُ عَن نَّفْسِهِۦ — kelimenin inceliği
 
@@ -729,7 +729,7 @@
 
 "**Andolsun, kadın onu arzulamıştı; Rabbinin burhanını görmeseydi o da… İşte böyle: ondan kötülüğü ve çirkinliği uzaklaştıralım diye. Çünkü o, ihlâsa erdirilmiş kullarımızdandı.**"
 
-**Bu ayet, Kur'an'ın en çok tartışılan ayetlerinden biridir ve tartışma dilbilgisinden doğar.** USLUP gereği burada tercih dayatmıyorum; **klasik tefsirlerdeki okumaları dayanaklarıyla aktarıyorum ve peygamberlere yakışmayan isnatlardan uzak duruyorum.**
+**Bu ayet, Kur'an'ın en çok tartışılan ayetlerinden biridir ve tartışma dilbilgisinden doğar.** STYLE gereği burada tercih dayatmıyorum; **klasik tefsirlerdeki okumaları dayanaklarıyla aktarıyorum ve peygamberlere yakışmayan isnatlardan uzak duruyorum.**
 
 ### Sorunun kaynağı: cümle nerede kesiliyor?
 
@@ -824,7 +824,7 @@
 
 **Dizim şunu söylüyor:** hitap **çoğul müennes** (*keydekünne*) ve konuşan, **olayı yeni öğrenmiş bir ev sahibidir.** **Cümle, Allah'ın hükmü olarak değil — bir kişinin sözü olarak aktarılıyor.**
 
-**Bunu bir kayıt olarak veriyorum ve USLUP'un ilgili maddesine dayanıyorum:** Kur'an, bir grup hakkında toptan hüküm kurmaz; **tarif ettiği vasıflardır.** Nitekim aynı sûrede bir başka grup kadın *hâşâ lillâhi mâ alimnâ aleyhi min sû'* (51) diyerek doğruyu söyleyecektir.
+**Bunu bir kayıt olarak veriyorum ve STYLE'ın ilgili maddesine dayanıyorum:** Kur'an, bir grup hakkında toptan hüküm kurmaz; **tarif ettiği vasıflardır.** Nitekim aynı sûrede bir başka grup kadın *hâşâ lillâhi mâ alimnâ aleyhi min sû'* (51) diyerek doğruyu söyleyecektir.
 
 **Ve karşılaştırma için kaydedilmelidir:** aynı kök (*keyd*) 76. ayette **Allah'a** nispet edilir ve orada olumsuz bir anlam taşımaz. **Kelime, sûrede taraf değil yöntem adlandırıyor** — 5. ayette tablolamıştım.
 
@@ -1182,7 +1182,7 @@
 
 **İki okuma da klasik tefsirlerde nakledilir; tercih dayatmıyorum.**
 
-**Şu kaydedilmeye değer ve USLUP gereği açıkça söylenmelidir:** ikinci okuma, bir peygamber hakkında bir kusur ima ettiği için **klasik tefsirlerde de tartışmalıdır** ve birçok müfessir birinci okumayı esas alır. **Ben tercih dayatmıyorum; ama ikinci okumanın peygamberlere yakışmayan bir isnada dönüştürülmesinden kaçınmak gerektiğini kaydediyorum.**
+**Şu kaydedilmeye değer ve STYLE gereği açıkça söylenmelidir:** ikinci okuma, bir peygamber hakkında bir kusur ima ettiği için **klasik tefsirlerde de tartışmalıdır** ve birçok müfessir birinci okumayı esas alır. **Ben tercih dayatmıyorum; ama ikinci okumanın peygamberlere yakışmayan bir isnada dönüştürülmesinden kaçınmak gerektiğini kaydediyorum.**
 
 **Ve birinci okumayı destekleyen bir karine metindedir:** aynı ayette *rabbike* (senin efendin) zaten insan için kullanılmıştır. **Bunu bir karine olarak kaydediyorum, tercih olarak değil.**
 
@@ -1403,7 +1403,7 @@
 
 **Şu kaydedilmeye değer ve metinden doğrulanır:** ayetin lafzı **konuşanın adını vermiyor.** 51. ayette *kāleti'mraetü'l-azîz* açıkça yazılıydı; 52. ayette yeni bir *kāle/kālet* yok. **Bu, ihtilafın kaynağıdır.**
 
-**Ve USLUP gereği bir kayıt daha düşülmelidir:** her iki okuma da bir peygamber hakkında olumsuz bir hüküm gerektirmez. **Birinci okumada cümle bir tevazu beyanıdır; ikinci okumada bir ikrarın devamıdır. İkisi de metnin sınırları içindedir.**
+**Ve STYLE gereği bir kayıt daha düşülmelidir:** her iki okuma da bir peygamber hakkında olumsuz bir hüküm gerektirmez. **Birinci okumada cümle bir tevazu beyanıdır; ikinci okumada bir ikrarın devamıdır. İkisi de metnin sınırları içindedir.**
 
 ### إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ
 
@@ -2584,7 +2584,7 @@
 
 ### 12/106 — وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ
 
-**Bu ayet dikkatle işlenmesi gereken bir yerdir ve USLUP gereği bir kayıt düşerek başlıyorum: ayet, kişileri tekfir eden bir okumaya çevrilmemelidir.**
+**Bu ayet dikkatle işlenmesi gereken bir yerdir ve STYLE gereği bir kayıt düşerek başlıyorum: ayet, kişileri tekfir eden bir okumaya çevrilmemelidir.**
 
 **Cümlenin yapısı şudur:** olumsuz bir fiil (*mâ yü'minü*) + istisna (*illâ*) + hâl cümlesi (*ve hüm müşrikûn*). **Yani: "inanmazlar — ancak ortak koşar hâldeyken."**
 
@@ -2598,7 +2598,7 @@
 
 **Üç izah da klasik tefsirlerde yer alır ve birbirini dışlamaz. Tercih dayatmıyorum.**
 
-**Ve şu kaydedilmelidir, USLUP'un ilgili maddesine dayanıyorum:** ayet **bir gruba toptan hüküm kurmuyor** — bir **vasfı** tarif ediyor. **Kim o vasfı taşırsa ona dahildir; ve ayetin muhatabını belirli kişilere yapıştırmak metnin verdiği bir yetki değildir.**
+**Ve şu kaydedilmelidir, STYLE'ın ilgili maddesine dayanıyorum:** ayet **bir gruba toptan hüküm kurmuyor** — bir **vasfı** tarif ediyor. **Kim o vasfı taşırsa ona dahildir; ve ayetin muhatabını belirli kişilere yapıştırmak metnin verdiği bir yetki değildir.**
 
 **Ve `053-necm.md` 53/23 ile `058-mucadele.md` 58/2'de işlenen ilke buraya bağlanabilir, kendi okumam olarak veriyorum:** orada **adlandırmanın gerçeklik üretmediği** kaydedilmişti. **Burada da benzer bir yerden gidilebilir: bir inancın adının konmuş olması, o inancın saf olduğunu göstermez.** **Bunu bir okuma olarak veriyorum; ayet bu bağı kurmuyor.**
 
@@ -2693,7 +2693,7 @@
 | **1** | **Kavimler** — yalanlayanlar, elçilerin kendilerine yalan söylediğini sandılar |
 | **2** | **Elçilerin ümit bağladığı kimseler** — inanmış görünenler |
 
-**USLUP gereği açıkça kaydediyorum:** ikinci okuyuşun, **elçilerin Allah'ın vaadinden şüphe ettiği** biçiminde anlaşılması, klasik tefsirlerde de reddedilen bir anlayıştır. **Peygamberlere yakışmayan bu isnattan uzak duruyorum ve okumaları tarafsızca aktarmakla yetiniyorum. Tercih dayatmıyorum.**
+**STYLE gereği açıkça kaydediyorum:** ikinci okuyuşun, **elçilerin Allah'ın vaadinden şüphe ettiği** biçiminde anlaşılması, klasik tefsirlerde de reddedilen bir anlayıştır. **Peygamberlere yakışmayan bu isnattan uzak duruyorum ve okumaları tarafsızca aktarmakla yetiniyorum. Tercih dayatmıyorum.**
 
 **Ve şu kaydedilmelidir, metinden doğrulanır:** cümlenin sonu bir **kurtuluş** bildiriyor: *câehüm nasrunâ*. **Yani cümlenin bütünü, beklemenin uzamasını ve sonunda gelen karşılığı anlatıyor** — ve bu, sûrenin kıssasıyla birebir örtüşüyor: **rüya ile gerçekleşmesi arasında uzun yıllar vardır.**
 

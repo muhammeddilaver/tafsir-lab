@@ -200,7 +200,7 @@
 
 - ***Idhā fujāʾiyya*** (the *idhā* that conveys suddenness): "and behold". **The sentence leaps over every step between the drop and the disputant.**
 - ***Khaṣīm* is on the *faʿīl* pattern, and in Arabic this pattern conveys a settled, fixed quality.** **Man is thus named not as "someone who disputes" but as "a disputant".**
-- **The limit set by the method (`USLUP.md`) concerning *nuṭfa*:** the word is not equated one to one with the terms of modern embryology; **the evidence is that the beginning of man is not in his own hands.**
+- **The limit set by the method (`STYLE.md`) concerning *nuṭfa*:** the word is not equated one to one with the terms of modern embryology; **the evidence is that the beginning of man is not in his own hands.**
 
 **I do not repeat it here. What belongs here is the difference between the contexts of the two verses, and that difference is large:**
 
@@ -433,7 +433,7 @@
 
 **And the difference of person must be recorded second:** in Yā Sīn those who do not know are "they" — a group being described. **In al-Naḥl the one who does not know is the addressee himself: "you."** The sentence states the limit of the reader's own knowledge.
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **This sentence is one of the places often used for claims of scientific miracle:** filling the phrase "things you do not know" with the vehicles known today, with technology, or with some other phenomenon is a widespread interpretation.
 
@@ -658,7 +658,7 @@
 
 - **رَوَٰسِى — root ر-س-و: to drop anchor, to be held fast.** **The root's connection with a ship's anchoring was recorded at `050-kaf.md`, 50/7.**
 - **أَن تَمِيدَ بِكُمْ — *mayd*: to sway, to be tossed about.** **The lexicographers use the word especially of seasickness and of the rolling of a ship.**
-- **And the note required by the method (`USLUP.md`) entered in Luqmān holds here too, and I repeat it:** no conclusion about modern geology, about isostasy or about gravitation is drawn from this. **The function of the verse is to say that an order visible to the eye stands without any visible support.**
+- **And the note required by the method (`STYLE.md`) entered in Luqmān holds here too, and I repeat it:** no conclusion about modern geology, about isostasy or about gravitation is drawn from this. **The function of the verse is to say that an order visible to the eye stands without any visible support.**
 
 **The difference that belongs here must be recorded, and the two verses do not stand in the same context:**
 
@@ -1223,7 +1223,7 @@
 
 **This is a repetition verifiable within the sūra. And I record this as my own reading:** the command does not set up a standing dependence. **What is commanded to be asked about is placed, immediately afterwards, into the addressee's own hand.**
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **This verse has been used in very different places and to very different ends throughout history.** **In this commentary nothing is loaded onto the verse beyond what its wording and its context give.**
 
@@ -1482,7 +1482,7 @@
 
 **I record this as an observation about the word order:** the same particle is used in the sūra's fourth verse for the passage **from creation to disputation**, and in the fifty-fourth for the passage **from rescue to association.** **Both passages are given in the same way, with the steps between them leapt over.**
 
-**فَرِيقٌ مِّنكُم** — and the scope must be recorded. **The verse does not say "all of you": *farīqun minkum* — "a party among you".** **And the same care was recorded at `029-ankebut.md`, 29/47;** I rely on that treatment. **Per the method (`USLUP.md`) the same line is kept here: the ruling is tied not to a group but to a stance.**
+**فَرِيقٌ مِّنكُم** — and the scope must be recorded. **The verse does not say "all of you": *farīqun minkum* — "a party among you".** **And the same care was recorded at `029-ankebut.md`, 29/47;** I rely on that treatment. **Per the method (`STYLE.md`) the same line is kept here: the ruling is tied not to a group but to a stance.**
 
 ### لِمَا لَا يَعْلَمُونَ
 
@@ -1505,7 +1505,7 @@
 
 "**They assign daughters to God — glory be to Him — and to themselves what they crave.** · **When one of them is given news of a girl, his face turns black and he is choked with rage.** · **He hides himself from the people because of the evil of the news given him: is he to keep her in humiliation, or bury her in the dust? Beware — evil is the judgement they make!**"
 
-### A note required by the method (`USLUP.md`), to be entered at the outset
+### A note required by the method (`STYLE.md`), to be entered at the outset
 
 **In treating these three verses one thing must be kept clear from the start, and the same note was entered at `043-zuhruf.md`, 43/17-18:**
 
@@ -1724,7 +1724,7 @@
 
 "**In the livestock too there is a lesson for you: from what is in their bellies, from between the *farth* and the blood, We give you pure milk to drink, going down easily for those who drink it.**"
 
-### A note required by the method (`USLUP.md`), to be entered at the outset
+### A note required by the method (`STYLE.md`), to be entered at the outset
 
 **This verse is one of the places most often used for claims of scientific miracle. This commentary does not take that road.**
 
@@ -1936,7 +1936,7 @@
 
 ### فِيهِ شِفَآءٌ لِّلنَّاسِ
 
-**Care is needed here, and per the method (`USLUP.md`) the limit must be set openly.**
+**Care is needed here, and per the method (`STYLE.md`) the limit must be set openly.**
 
 **شِفَآء** — root **ش-ف-ي**: **to be healed; and to come to the edge, to the brink of a thing.** *Shafā* — an edge, a brink (in the Qurʾān, *shafā ḥufratin* — the brink of a pit). **The lexicographers join the two branches:** *shifāʾ* is to come to the **edge** of an illness and to pass beyond it.
 
@@ -2204,7 +2204,7 @@
 
 **And the clause *aynamā yuwajjihhu lā yaʾti bi-khayr* must be recorded:** *tawjīh* — **to direct, to send somewhere.** **The verse says that the man can be directed, but that the directing yields no result.**
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **This parable lays down no ruling about a disabled person.** **This must be written openly.**
 
@@ -2504,7 +2504,7 @@
 
 **This is a difference verifiable across the sūras, and I give it as my own reading:** al-Rūm diagnoses the shallowness of the looking, al-Naḥl the step that comes after the looking. **The two sūras catch the same fact at two different stages.**
 
-**وَأَكْثَرُهُمُ ٱلْكَٰفِرُونَ** — and the scope must be recorded. **The verse does not say "all of them": *aktharuhum* — most.** **Per the method (`USLUP.md`) the ruling is tied not to a group but to an attribute, and the verse's own word keeps this.**
+**وَأَكْثَرُهُمُ ٱلْكَٰفِرُونَ** — and the scope must be recorded. **The verse does not say "all of them": *aktharuhum* — most.** **Per the method (`STYLE.md`) the ruling is tied not to a group but to an attribute, and the verse's own word keeps this.**
 
 ---
 
@@ -2773,7 +2773,7 @@
 
 **I do not rest this reading on a transmitted report; my ground is the work the parable chooses and the plural of the word *ankāth*.**
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **A woman is named in the parable, and in the classical sources it is transmitted that this comparison points to a particular woman who lived in Mecca.** **This commentary attaches no personal name to that report**, because I have no verified source for it. **And, more important: what the verse builds is not the description of a person but the description of a *work*.**
 
@@ -3014,7 +3014,7 @@
 
 **أَعْجَمِىّ** — root **ع-ج-م**: **not to be clear in speech, to be unintelligible.** *Aʿjam* — one who cannot state his meaning plainly; **the word names not a people but a *condition of intelligibility*.**
 
-**I record this as an observation about the language, and per the method (`USLUP.md`) I state it separately:** the verse lays down no value-judgement about a language or a people. **The contrast does not lie on the axis *ʿarabī / aʿjamī* but on the axis *intelligible / unintelligible*** — indeed the verse adds the adjective *mubīn* (plain) to the word *ʿarabī*. **The stress falls not on the name of the tongue but on its clarity.**
+**I record this as an observation about the language, and per the method (`STYLE.md`) I state it separately:** the verse lays down no value-judgement about a language or a people. **The contrast does not lie on the axis *ʿarabī / aʿjamī* but on the axis *intelligible / unintelligible*** — indeed the verse adds the adjective *mubīn* (plain) to the word *ʿarabī*. **The stress falls not on the name of the tongue but on its clarity.**
 
 ---
 
@@ -3049,7 +3049,7 @@
 
 ### The bringing forward of the exception
 
-**In treating this verse a limit must be set at the outset, per the method (`USLUP.md`): no legal ruling is issued here.** In the classical sources this verse has been counted one of the chief grounds of the law of *ikrāh* (compulsion), and a broad juristic literature has formed around it. **This commentary does not enter that literature.**
+**In treating this verse a limit must be set at the outset, per the method (`STYLE.md`): no legal ruling is issued here.** In the classical sources this verse has been counted one of the chief grounds of the law of *ikrāh* (compulsion), and a broad juristic literature has formed around it. **This commentary does not enter that literature.**
 
 **What is treated is what the verse does in its wording. And in point of word order the most striking thing in the verse is where the exception is placed.**
 
@@ -3376,7 +3376,7 @@
 
 **The root و-ص-ف:** to describe a thing by qualifying it. **And the work of the word here:** the ruling rests not upon a piece of knowledge but upon **a description.**
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **This verse lays down a principle of method, and it bears directly on the limit this commentary sets itself.**
 
@@ -3411,7 +3411,7 @@
 
 **The difference is one word: in the thirty-third verse *Allāh* is named openly; in the hundred and eighteenth the first person plural is used.**
 
-### A note required by the method (`USLUP.md`)
+### A note required by the method (`STYLE.md`)
 
 **This verse lays down no wholesale ruling about a community, and this needs to be written openly.**
 
@@ -3888,7 +3888,7 @@
 | 119 | *Jahāla* — ignorance or thoughtlessness |
 | 120 | *Umma* used of one man — three explanations |
 
-### Limits set per the method (`USLUP.md`)
+### Limits set per the method (`STYLE.md`)
 
 | Verse | Subject | The limit set |
 |---|---|---|

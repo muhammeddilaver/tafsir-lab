@@ -6,8 +6,8 @@ import { ROUTES, T, type Lang } from "@/lib/i18n";
 
 type Item = { no: number; name: string; ayahCount: number };
 
-// Arama icin sadelestirme. Turkce'de "İ/ı" cifti, Ingilizce'de cevriyazi
-// isaretleri (ā ī ū ḥ ṣ ṭ ʿ ʾ) elenir; okur "Fatiha" yazip al-Fātiḥa'yi bulur.
+// Folding for search: the Turkish "İ/ı" pair and the English transliteration
+// marks (ā ī ū ḥ ṣ ṭ ʿ ʾ) are stripped, so typing "Fatiha" finds al-Fātiḥa.
 function norm(s: string, lang: Lang) {
   if (lang === "tr") {
     return s

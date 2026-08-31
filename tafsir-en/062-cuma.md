@@ -502,7 +502,7 @@ That the word preferred here should be **a particular book** is meaningful. The 
 
 But the continuation of the verse at once widens this determinacy: *"How evil is the likeness of the **people** who denied God's verses."* In the second sentence the Torah does not occur; a general attribute is laid down. That is, the comparison is set up for a particular community, but the ruling is given by way of an **attribute**.
 
-This means that the basic caveat of the method (`USLUP.md`) is found in the text itself: the Qurʾān here names a community but ties the ruling to a behaviour. Whoever performs that behaviour, the description fits him too — and the eleventh verse of the sūra will show exactly this.
+This means that the basic caveat of the method (`STYLE.md`) is found in the text itself: the Qurʾān here names a community but ties the ruling to a behaviour. Whoever performs that behaviour, the description fits him too — and the eleventh verse of the sūra will show exactly this.
 
 ### كَمَثَلِ الْحِمَارِ — the word order of the comparison
 
@@ -606,7 +606,7 @@ That the comparison should choose the donkey is well judged at this point: the d
 
 **Two. Carrying indifferent to content.** At the centre of the comparison lies not a lack of intelligence but **a lack of interest**. This is a warning valid for everyone who carries knowledge as a matter of profession: the person who teaches, transmits, spreads or defends a text is also a carrier. When the work of carrying becomes professionalised, breaking away from the content becomes easy — because the work of carrying forms criteria of its own, and the content falls outside those criteria.
 
-**Three. The limit of the comparison.** The verse speaks by way of the Torah; but if you stay within the sūra and come to the eleventh verse, you see the same description recorded about another community. This is a limit the sūra sets up within itself: the comparison cannot be stuck onto one community and left there. Whoever carries the book without carrying it, the description is his. Per the method (`USLUP.md`) I record this plainly here: this verse cannot be used to establish a wholesale ruling about a religious community. The verse itself has tied the ruling to the attribute *"those who deny God's verses"*, and six verses later the same sūra has seated its own first addressees before the same mirror.
+**Three. The limit of the comparison.** The verse speaks by way of the Torah; but if you stay within the sūra and come to the eleventh verse, you see the same description recorded about another community. This is a limit the sūra sets up within itself: the comparison cannot be stuck onto one community and left there. Whoever carries the book without carrying it, the description is his. Per the method (`STYLE.md`) I record this plainly here: this verse cannot be used to establish a wholesale ruling about a religious community. The verse itself has tied the ruling to the attribute *"those who deny God's verses"*, and six verses later the same sūra has seated its own first addressees before the same mirror.
 
 ---
 
@@ -1383,7 +1383,7 @@ And that the last verse should end with *al-rāziqīn* may be counted a return t
 
 **One: the evil of trade.** The tenth verse closes this off plainly. The sūra regulates not economic activity but its order of precedence.
 
-**Two: the wholesale condemnation of a particular religious community.** The fifth verse addresses the people of the Torah but ties the ruling to the attribute *"the people who deny God's verses"*. And the eleventh verse records that the same fault was seen in its own first addressees too. Per the method (`USLUP.md`) I write it plainly: these verses cannot be used to establish a wholesale ruling about an ethnic or a religious group. The structure of the sūra itself prevents this — because six verses after setting up the comparison it turns the mirror round.
+**Two: the wholesale condemnation of a particular religious community.** The fifth verse addresses the people of the Torah but ties the ruling to the attribute *"the people who deny God's verses"*. And the eleventh verse records that the same fault was seen in its own first addressees too. Per the method (`STYLE.md`) I write it plainly: these verses cannot be used to establish a wholesale ruling about an ethnic or a religious group. The structure of the sūra itself prevents this — because six verses after setting up the comparison it turns the mirror round.
 
 **Three: that wishing for death is desirable in general.** The test in the sixth verse measures the consistency of a particular claim; it is not a general recommendation.
 

@@ -92,7 +92,7 @@ Birkaç ölçü koymak gerekiyor:
 
 **Üç. Kur'an'ın isim vermemesi bir eksiklik değil, bir tercihtir.** Bunu Mücâdele sûresinin ilk ayetinde de gördük: orada da kadının adı verilmiyordu. Sûre bir kavmi değil, bir **durumu** anlatıyor: anlaşma yapmış, sonra karşı safta konumlanmış, savunmasına güvenmiş ve yanılmış bir topluluk. Ayetin muhatabı, o vasfı taşıyan herkestir.
 
-**Dört — ve en önemlisi:** USLUP gereği bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz. Bu sûre, tarihî bir anda belirli bir topluluğun belirli bir davranışını konu ediyor. Nitekim sûrenin kendisi de tabloyu tek yanlı bırakmıyor: aynı bölümde **münafıklar** — yani Müslüman görünenler — çok daha ağır bir dille tarif ediliyor (11-17). Sûrenin eleştirisi bir kimliğe değil, bir tavra yöneliktir.
+**Dört — ve en önemlisi:** STYLE gereği bir etnik ya da dinî grup hakkında toptan hüküm kurulmaz. Bu sûre, tarihî bir anda belirli bir topluluğun belirli bir davranışını konu ediyor. Nitekim sûrenin kendisi de tabloyu tek yanlı bırakmıyor: aynı bölümde **münafıklar** — yani Müslüman görünenler — çok daha ağır bir dille tarif ediliyor (11-17). Sûrenin eleştirisi bir kimliğe değil, bir tavra yöneliktir.
 
 Ayrıca Kur'an, bu tür bir çatışmadan çıkarılabilecek genel bir düşmanlık hükmünü kendisi kapatır:
 
@@ -801,7 +801,7 @@ Yaptığı şey bir **ölçü** koymaktır: bir malî düzenlemenin doğruluğu,
 
 Bu ölçünün modern iktisatta karşılıkları vardır — servet dağılımının ölçülmesi, dolaşım hızı, kaynakların erişilebilirliği gibi konular ayrı ayrı çalışılır. Ama bunları ayete geri okumak zorlama olur. Ayetin verdiği şey bir ölçüm aracı değil, bir yön.
 
-**Ve USLUP gereği bir kayıt:** bu ayetten çıkarılan somut iktisadî modeller — hangi sistem, hangi oran, hangi düzenleme — ayetin kendisi değildir. Ayet bir ilke koyuyor; ilkenin nasıl uygulanacağı içtihat alanıdır ve tarihte farklı biçimlerde uygulanmıştır. Güncel siyasî tartışmalara taraf olmuyorum.
+**Ve STYLE gereği bir kayıt:** bu ayetten çıkarılan somut iktisadî modeller — hangi sistem, hangi oran, hangi düzenleme — ayetin kendisi değildir. Ayet bir ilke koyuyor; ilkenin nasıl uygulanacağı içtihat alanıdır ve tarihte farklı biçimlerde uygulanmıştır. Güncel siyasî tartışmalara taraf olmuyorum.
 
 ### وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
 

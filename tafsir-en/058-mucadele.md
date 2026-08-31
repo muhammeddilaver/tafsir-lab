@@ -37,7 +37,7 @@ The same word in the fifth and the twentieth verses takes the second half of the
 
 There is an observation frequently recorded about this sūra: **it is the only sūra in the Qurʾān in which the name of majesty (the name *Allāh*) occurs in every single verse without exception.** I counted all twenty-two verses one by one; the observation is correct — in some verses it occurs once, in some three times.
 
-This must be recorded not as a game with numbers but as a stylistic choice; per the method (`USLUP.md`) I keep clear of claims resting on letter and number reckonings. But the choice itself is meaningful, and it overlaps with the subject of the sūra: from beginning to end the sūra is about **concealment** — a word spoken behind a closed door, the whisper of three people, a sentence passed through the mind, an oath sworn falsely. And in every verse the same name is repeated. The form of the text carries the claim of the text: there is nowhere hidden.
+This must be recorded not as a game with numbers but as a stylistic choice; per the method (`STYLE.md`) I keep clear of claims resting on letter and number reckonings. But the choice itself is meaningful, and it overlaps with the subject of the sūra: from beginning to end the sūra is about **concealment** — a word spoken behind a closed door, the whisper of three people, a sentence passed through the mind, an oath sworn falsely. And in every verse the same name is repeated. The form of the text carries the claim of the text: there is nowhere hidden.
 
 ## جدل — the root itself
 
@@ -349,7 +349,7 @@ Even rendering it into English forces a choice, because the pattern *ʿāda li-*
 | **Mālikī** | To resolve, to intend, to be with his wife | The expiation becomes due with the resolve |
 | **Ẓāhirī tendency** | To repeat the formula itself | The expiation is due only if the formula is repeated |
 
-**Here I adopt no preference** and I issue no legal ruling; per the method (`USLUP.md`) the views of the schools are conveyed, not decided between. But to show **why** the disagreement arose is the business of exegesis:
+**Here I adopt no preference** and I issue no legal ruling; per the method (`STYLE.md`) the views of the schools are conveyed, not decided between. But to show **why** the disagreement arose is the business of exegesis:
 
 The source of the disagreement is a single letter: **لِ (lām).** Had it said *ʿāda ilā*, it would have been "he returned to it" and the debate would largely have ended. Had it said *ʿāda ʿan*, it would have been "he turned back from it". The *lām* stands between the two, and in Arabic it can convey both direction towards and implication.
 
@@ -1229,13 +1229,13 @@ That verse draws, within the Qurʾān itself, the difference between *walāya* (
 
 ### قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم
 
-Here, per the method (`USLUP.md`), an open note must be entered.
+Here, per the method (`STYLE.md`), an open note must be entered.
 
 **The verse gives no group's name.** *"Qawman"* — indefinite: "a people". In the classical commentaries there are views on whom this expression points to, and these rest on the political picture of a particular period in Medina.
 
 But the expression itself is a sentence of **attribute**: "a people with whom God is angry". An attribute depends not on identity but on situation.
 
-The note of `USLUP.md` holds here exactly: no wholesale ruling is issued about an ethnic or religious group. What the verse describes is a community displaying a particular behaviour at a particular historical moment; and its real object is to speak not of that community but of **the hypocrites who make an alliance with it.** The subject of the sentence is *tawallaw* — those who take as allies.
+The note of `STYLE.md` holds here exactly: no wholesale ruling is issued about an ethnic or religious group. What the verse describes is a community displaying a particular behaviour at a particular historical moment; and its real object is to speak not of that community but of **the hypocrites who make an alliance with it.** The subject of the sentence is *tawallaw* — those who take as allies.
 
 Indeed the continuation of the verse shows this as well: the people criticised are not even of that community.
 
@@ -1564,7 +1564,7 @@ That is, some of the messengers were, by worldly measures, defeated. Then "preva
 
 These views do not exclude one another and are often mentioned together in the classical commentaries.
 
-**And this note must be entered:** this verse cannot be used by any group, movement or state to guarantee its own victory in advance. The verse writes the prevailing for God and His messengers; not for any structure that puts itself in their place. Per the method (`USLUP.md`) I do not enter into current political readings; but to say how this verse cannot be used is the business of exegesis.
+**And this note must be entered:** this verse cannot be used by any group, movement or state to guarantee its own victory in advance. The verse writes the prevailing for God and His messengers; not for any structure that puts itself in their place. Per the method (`STYLE.md`) I do not enter into current political readings; but to say how this verse cannot be used is the business of exegesis.
 
 Indeed the same sūra, one verse later, when it defines *ḥizb Allāh*, will give it as a **list of attributes** — not as the name of an institution, an organisation or a party.
 
@@ -1619,7 +1619,7 @@ This distinction is what makes the verse applicable. To ask a person not to love
 
 ### مَنْ حَآدَّ ٱللَّهَ — not persons, but a position
 
-Per the method (`USLUP.md`) an open note is needed here.
+Per the method (`STYLE.md`) an open note is needed here.
 
 The verse does not enumerate a people, a religion, a lineage. What it enumerates is an **act**: *ḥādda* — to draw a boundary, to position oneself on the opposite side. And this act was defined in the fifth verse.
 
@@ -1765,7 +1765,7 @@ That is, *ḥizb Allāh* is not a **name** but the **result** of these attribute
 
 And the root of the word *ḥizb* supports this too: as we saw above, a *ḥizb* is those gathered around a shared affair. Not an inherited or a declared belonging; a togetherness formed around a burden that is carried.
 
-Per the method (`USLUP.md`) I do not enter into current political disputes. But to say how this construct cannot be used lies within the bounds of exegesis: **whoever names himself with this construct has closed the verse's list in his own favour.** Whereas the list is open, and the ruling on its last item lies with no one.
+Per the method (`STYLE.md`) I do not enter into current political disputes. But to say how this construct cannot be used lies within the bounds of exegesis: **whoever names himself with this construct has closed the verse's list in his own favour.** Whereas the list is open, and the ruling on its last item lies with no one.
 
 ---
 
@@ -1843,7 +1843,7 @@ This is one of the most powerful structures the sūra builds, and it carries a p
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list openly the points in this sūra on which no certainty is claimed:
+Per the method (`STYLE.md`), I list openly the points in this sūra on which no certainty is claimed:
 
 - **The names in the occasion of revelation** (Khawla/Huwayla bint Thaʿlaba, Aws b. al-Ṣāmit) come from the reports, and there is variation among the transmissions. The Qurʾān gives no name.
 - **Why the word "back" was chosen in ẓihār** — none of the explanations given is certain.

@@ -1986,7 +1986,7 @@ Ve bu, `080-abese.md`'de kaydedilen tavrın bir benzeridir: orada eleştiri söy
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **Sûrenin Mekkî mi Medenî mi olduğu.** Üç görüş tablo halinde verildi; tercih yapılmadı. Görüşlerin dayanağının nakilden çok metin içi çıkarım olduğu belirtildi.
 - **Nüzul sebebi.** Sûrenin tamamı için sağlam ve yaygın kabul görmüş bir sebeb-i nüzûl rivayeti bilmediğim için yazılmadı. 14. ayet için nakledilen rivayet grubu üç kayıtla (rivayet edilir; ayrıntılar birbirini tutmuyor; *el-ibretü bi-umûmi'l-lafz*) aktarıldı ve **hiçbir isim verilmedi.**

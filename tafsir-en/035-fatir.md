@@ -36,7 +36,7 @@
 
 **I record this as my own reading, and its ground is the order of the sentences:** the verse gives a concrete description, then says that the description has no end. **That is: the number is given not as a piece of information but as a scale.**
 
-**A record about the angels, per the method (`USLUP.md`):** no description is produced beyond what the text states. **The same limit had been set in `072-cin.md` for beings that are not seen; I rely on that treatment.**
+**A record about the angels, per the method (`STYLE.md`):** no description is produced beyond what the text states. **The same limit had been set in `072-cin.md` for beings that are not seen; I rely on that treatment.**
 
 **And the reason the angels are mentioned in this verse must be recorded: *rusulā* — messengers.** That is, their attribute is given by way of a task.
 
@@ -385,7 +385,7 @@ The sentence is built as a consolation, and the consolation is given **not by re
 
 **And the lexicographers dwell on the grammatical parsing of the sentence:** *innamā yakhsha'llāha … al-ʿulamāʾu* — **the subject is *al-ʿulamāʾ*, the object *Allāha*.** That is, "the learned fear God." **Some grammarians have discussed the reverse as well; but this is the widespread reading, and the vowelling of the words shows it.**
 
-**A record per the method (`USLUP.md`):** the *ʿulamāʾ* here cannot be understood as a particular professional group. **The context of the verse is the observations of nature enumerated across two verses** — and the act of knowing occurs there. **I record this as an observation; I do not issue a ruling that narrows the scope of the word.**
+**A record per the method (`STYLE.md`):** the *ʿulamāʾ* here cannot be understood as a particular professional group. **The context of the verse is the observations of nature enumerated across two verses** — and the act of knowing occurs there. **I record this as an observation; I do not issue a ruling that narrows the scope of the word.**
 
 ---
 

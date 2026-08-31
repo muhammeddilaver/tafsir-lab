@@ -578,7 +578,7 @@ That the sūra is as sharp as this leaves it open to abuse in two directions. Bo
 
 **The second misreading: using the sūra to take the measure of others.** The manoeuvre the sūra performs in the fourth verse is exactly meant to prevent this. The text first puts the reader in a safe place and then takes him out of it. To pick up these verses and say "that man too falls under the description in al-Māʿūn" is to turn the sūra's own work upside down. The sūra is an instrument of diagnosis, and a diagnosis is made on oneself first.
 
-And one further point which must be noted per the method (`USLUP.md`): the sūra describes no group, no class, no section of society. It describes **attributes.** Whoever bears that attribute, the verse is speaking of him; whatever his identity, his affiliation, his outward appearance.
+And one further point which must be noted per the method (`STYLE.md`): the sūra describes no group, no class, no section of society. It describes **attributes.** Whoever bears that attribute, the verse is speaking of him; whatever his identity, his affiliation, his outward appearance.
 
 ### What this says to the present
 

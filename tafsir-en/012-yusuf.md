@@ -649,7 +649,7 @@ The root **م-ك-ن**: **to have a place, to become firm.** **The root was analy
 
 "**The woman in whose house he was pressed him against his will; she bolted the doors and said, 'Come, you!' He said: 'God forbid! He is my master; he treated me well. Wrongdoers do not prosper.'**"
 
-**In this section, per the method (`USLUP.md`), I proceed only with the wording the Qurʾān gives.** In the classical commentaries and in the story collections a great many details are told around this scene; **most of them come from the *Isrāʾīliyyāt* and have no counterpart in the Qurʾān.** The woman's name, the state of the room, additional speeches in the scene — **none of this is in the Qurʾān, and none of it will be used in this commentary.**
+**In this section, per the method (`STYLE.md`), I proceed only with the wording the Qurʾān gives.** In the classical commentaries and in the story collections a great many details are told around this scene; **most of them come from the *Isrāʾīliyyāt* and have no counterpart in the Qurʾān.** The woman's name, the state of the room, additional speeches in the scene — **none of this is in the Qurʾān, and none of it will be used in this commentary.**
 
 ### رَٰوَدَتْهُ عَن نَّفْسِهِۦ — the fineness of the word
 
@@ -729,7 +729,7 @@ The root **م-ك-ن**: **to have a place, to become firm.** **The root was analy
 
 "**And she certainly desired him; and he would have desired her had he not seen the proof of his Lord. Thus — that We might turn evil and indecency away from him. He was indeed one of Our chosen servants.**"
 
-**This verse is one of the most debated in the Qurʾān, and the debate arises from grammar.** Per the method (`USLUP.md`) I impose no preference here; **I transmit the readings found in the classical commentaries together with their grounds, and I keep clear of imputations unworthy of the prophets.**
+**This verse is one of the most debated in the Qurʾān, and the debate arises from grammar.** Per the method (`STYLE.md`) I impose no preference here; **I transmit the readings found in the classical commentaries together with their grounds, and I keep clear of imputations unworthy of the prophets.**
 
 ### The source of the difficulty: where does the sentence break?
 
@@ -824,7 +824,7 @@ The root **م-ك-ن**: **to have a place, to become firm.** **The root was analy
 
 **The word order says this:** the address is **feminine plural** (*kaydakunna*), and the speaker is **a master of a house who has just learned of the affair.** **The sentence is transmitted not as God's verdict but as one person's words.**
 
-**I give this as a note and rely on the relevant clause of `USLUP.md`:** the Qurʾān passes no wholesale verdict on a group; **what it describes are attributes.** Indeed in this same sūra another group of women will speak the truth, saying *ḥāsha li'llāhi mā ʿalimnā ʿalayhi min sūʾ* (51).
+**I give this as a note and rely on the relevant clause of `STYLE.md`:** the Qurʾān passes no wholesale verdict on a group; **what it describes are attributes.** Indeed in this same sūra another group of women will speak the truth, saying *ḥāsha li'llāhi mā ʿalimnā ʿalayhi min sūʾ* (51).
 
 **And it must be recorded for comparison:** the same root (*kayd*) is ascribed to **God** in verse 76 and carries no negative sense there. **In the sūra the word names not a party but a method** — I tabulated this at verse 5.
 
@@ -1182,7 +1182,7 @@ The root **ع-ص-ر**: **to press, to squeeze the juice out.** *ʿAṣr* — pre
 
 **Both readings are transmitted in the classical commentaries; I do not impose a preference.**
 
-**This is worth recording and, per the method (`USLUP.md`), must be said plainly:** because the second reading implies a fault in a prophet, **it is disputed in the classical commentaries too**, and many exegetes take the first reading as the basis. **I impose no preference; but I record that one must avoid turning the second reading into an imputation unworthy of the prophets.**
+**This is worth recording and, per the method (`STYLE.md`), must be said plainly:** because the second reading implies a fault in a prophet, **it is disputed in the classical commentaries too**, and many exegetes take the first reading as the basis. **I impose no preference; but I record that one must avoid turning the second reading into an imputation unworthy of the prophets.**
 
 **And an indication supporting the first reading is in the text:** in the same verse *rabbika* (your master) is already used of a human being. **I record this as an indication, not as a preference.**
 
@@ -1403,7 +1403,7 @@ The root **ح-ص-ص**: **a portion, a share; and to separate a thing out and bri
 
 **This is worth recording and is verifiable from the text:** the wording of the verse **does not name the speaker.** In verse 51 *qālati'mraʾatu'l-ʿazīz* was written plainly; in verse 52 there is no new *qāla/qālat*. **This is the source of the disagreement.**
 
-**And per the method (`USLUP.md`) a further note must be entered:** neither reading requires an unfavourable verdict on a prophet. **On the first reading the sentence is a declaration of humility; on the second it is the continuation of an admission. Both lie within the bounds of the text.**
+**And per the method (`STYLE.md`) a further note must be entered:** neither reading requires an unfavourable verdict on a prophet. **On the first reading the sentence is a declaration of humility; on the second it is the continuation of an admission. Both lie within the bounds of the text.**
 
 ### إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ
 
@@ -2584,7 +2584,7 @@ The root **ح-ر-ص**: **to want a thing intensely, to be set upon it.** **And t
 
 ### 12/106 — وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ
 
-**This is a place that must be treated with care, and per the method (`USLUP.md`) I begin by entering a note: the verse must not be turned into a reading that declares persons unbelievers.**
+**This is a place that must be treated with care, and per the method (`STYLE.md`) I begin by entering a note: the verse must not be turned into a reading that declares persons unbelievers.**
 
 **The structure of the sentence is this:** a negated verb (*mā yuʾminu*) + an exception (*illā*) + a circumstantial clause (*wa-hum mushrikūn*). **That is: "they do not believe — save while associating others with Him."**
 
@@ -2598,7 +2598,7 @@ The root **ح-ر-ص**: **to want a thing intensely, to be set upon it.** **And t
 
 **All three explanations are found in the classical commentaries and they do not exclude one another. I do not impose a preference.**
 
-**And this must be recorded, and I rely on the relevant clause of `USLUP.md`:** the verse **passes no wholesale verdict on a group** — it describes an **attribute.** **Whoever bears that attribute is included in it; and to fasten the verse's addressee onto particular persons is not an authority the text gives.**
+**And this must be recorded, and I rely on the relevant clause of `STYLE.md`:** the verse **passes no wholesale verdict on a group** — it describes an **attribute.** **Whoever bears that attribute is included in it; and to fasten the verse's addressee onto particular persons is not an authority the text gives.**
 
 **And the principle treated at `053-necm.md` 53/23 and `058-mucadele.md` 58/2 can be linked here; I give this as my own reading:** there it was recorded that **naming produces no reality.** **A similar path can be taken here: that a belief has been given a name does not show that the belief is pure.** **I give this as a reading; the verse does not make the connection.**
 
@@ -2693,7 +2693,7 @@ The root **ب-ص-ر**: **to see; and inner sight.** *Baṣar* — the eye; *ba�
 | **1** | **The peoples** — the deniers supposed that the messengers had lied to them |
 | **2** | **Those on whom the messengers had set their hopes** — those who had seemed to believe |
 
-**Per the method (`USLUP.md`) I record this plainly:** understanding the second reading to mean that **the messengers doubted God's promise** is a construal rejected in the classical commentaries as well. **I keep clear of this imputation unworthy of the prophets, and confine myself to transmitting the readings impartially. I do not impose a preference.**
+**Per the method (`STYLE.md`) I record this plainly:** understanding the second reading to mean that **the messengers doubted God's promise** is a construal rejected in the classical commentaries as well. **I keep clear of this imputation unworthy of the prophets, and confine myself to transmitting the readings impartially. I do not impose a preference.**
 
 **And this must be recorded, and it is verifiable from the text:** the end of the sentence reports a **deliverance**: *jāʾahum naṣrunā*. **That is, the sentence as a whole tells of a waiting drawn out and of the answer that came at the end** — and this corresponds exactly to the story of the sūra: **long years lie between the dream and its fulfilment.**
 

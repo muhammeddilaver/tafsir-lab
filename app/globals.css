@@ -6,10 +6,10 @@
   --rubric:#8E3428;
   --ar:#22262A;
   --shadow:0 1px 2px rgba(21,24,26,.05),0 8px 24px rgba(21,24,26,.06);
-  --serif:"Literata",Georgia,"Times New Roman",serif;
-  --display:"Petrona",Georgia,serif;
-  --sans:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
-  --arabic:"Amiri","Noto Naskh Arabic",serif;
+  --serif:var(--font-serif),Georgia,"Times New Roman",serif;
+  --display:var(--font-display),Georgia,serif;
+  --sans:var(--font-sans),system-ui,-apple-system,sans-serif;
+  --arabic:var(--font-arabic),"Noto Naskh Arabic",serif;
   --measure:68ch;
   --link-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1'/%3E%3Cpath d='M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1'/%3E%3C/svg%3E");
 }
@@ -315,3 +315,55 @@ tbody tr:last-child td{border-bottom:0}
 .doc li{margin:.4em 0}
 .doc .tw{margin:1.2em 0}
 .doc code{font-size:.85em}
+
+/* --- Bolum sayfasi (/sure/2/255) --- */
+.crumb{
+  display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+  font-family:var(--sans); font-size:13px; color:var(--ink-3); margin:0 0 14px;
+}
+.crumb a{color:var(--ink-2); text-decoration:none}
+.crumb a:hover{color:var(--lapis); text-decoration:underline}
+.crumb span{color:var(--ink-3)}
+
+.whole{font-family:var(--sans); font-size:14px; margin:22px 0 0}
+.whole a{color:var(--lapis); text-decoration:none}
+.whole a:hover{text-decoration:underline}
+
+/* Sure sayfasinin sonundaki bolum dizini: ustteki "Ayetlere git" sayfa ici
+   capalara gider, bu ise bolumlerin kendi sayfalarina — ve baslik tasir. */
+.sec-index{margin:44px 0 0; padding-top:22px; border-top:1px solid var(--rule)}
+.sec-index h2{
+  font-family:var(--sans); font-size:12px; font-weight:600; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--ink-3); margin:0 0 12px;
+}
+.sec-index ol{list-style:none; margin:0; padding:0; columns:2; column-gap:28px}
+.sec-index li{break-inside:avoid; margin:0 0 5px}
+.sec-index a{
+  font-family:var(--sans); font-size:13.5px; color:var(--ink-2);
+  text-decoration:none; line-height:1.5;
+}
+.sec-index a:hover{color:var(--lapis); text-decoration:underline}
+@media (max-width:620px){ .sec-index ol{columns:1} }
+
+/* Kunye satiri: dipteki uyarinin ozeti. LLM'ler uzun sayfayi parcalara
+   bolup aliyor; uyari yalnizca footer'da kalirsa ortadaki parcalar
+   uyarisiz dolasiyor. Gorunur ama bastirmayan bir olcude. */
+.chunk-note{
+  margin:8px 0 0; font-family:var(--sans); font-size:12.5px; line-height:1.5;
+  color:var(--ink-3); border-left:2px solid var(--rule); padding-left:10px;
+  max-width:56ch;
+}
+
+/* Bolumde cozumlenen kokler — kok dizinine giden baglantilar */
+.sec-roots{margin:34px 0 0; padding-top:18px; border-top:1px solid var(--rule-soft)}
+.sec-roots h2{
+  font-family:var(--sans); font-size:12px; font-weight:600; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--ink-3); margin:0 0 10px;
+}
+.sec-roots p{display:flex; flex-wrap:wrap; gap:7px; margin:0}
+.sec-roots a{
+  font-family:var(--sans); font-size:14px; color:var(--ink-2); text-decoration:none;
+  background:var(--paper-2); border:1px solid var(--rule-soft);
+  border-radius:5px; padding:3px 9px;
+}
+.sec-roots a:hover{color:var(--lapis); border-color:var(--lapis)}

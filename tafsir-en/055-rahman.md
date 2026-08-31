@@ -517,7 +517,7 @@ The sūra has thus **turned the principle of al-Dhāriyāt 51/49 into the form o
 
 **I record this as my own reading.** The wording of the verses and the dual forms of the sūra are in the text; the connection I draw between them is an interpretation, and I do not attribute it to any classical exegete.
 
-And one further note: this is **not a numerical calculation.** What `USLUP.md` forbids is claims resting on the reckoning of letters and numbers; here nothing is being reckoned. What is recorded is that one grammatical form dominates throughout the sūra — which can be verified by opening any muṣḥaf.
+And one further note: this is **not a numerical calculation.** What `STYLE.md` forbids is claims resting on the reckoning of letters and numbers; here nothing is being reckoned. What is recorded is that one grammatical form dominates throughout the sūra — which can be verified by opening any muṣḥaf.
 
 ---
 
@@ -1520,7 +1520,7 @@ To turn the verse into a report of a discovery makes its work within the sūra i
 
 - **The meaning of the words is given and not diminished:** two bodies of water have been let loose, they meet, between them is a barrier, and they do not overstep one another's bounds. This is the plain sense of the verse and is beyond dispute.
 - **A reader who notices that this description recalls a phenomenon in modern oceanography** may take that association, for his own part, as an occasion for reflection.
-- **But this cannot be presented as the verse's claim and cannot be turned into a proof of miracle.** The rule of `USLUP.md` that "no hunting for scientific miracles is done" exists precisely to preserve this distinction.
+- **But this cannot be presented as the verse's claim and cannot be turned into a proof of miracle.** The rule of `STYLE.md` that "no hunting for scientific miracles is done" exists precisely to preserve this distinction.
 
 ---
 

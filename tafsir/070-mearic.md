@@ -275,13 +275,13 @@ Bir kayıt gerekiyor ve klasik kaynaklarda yaygın olarak düşülür: bu ifade 
 
 ### Bir sınır: modern fizik iddiaları
 
-**USLUP gereği açıkça belirtiyorum: bu ayet üzerinden görelilik kuramına, zamanın göreliliğine ya da herhangi bir modern fizik iddiasına gitmiyorum.**
+**STYLE gereği açıkça belirtiyorum: bu ayet üzerinden görelilik kuramına, zamanın göreliliğine ya da herhangi bir modern fizik iddiasına gitmiyorum.**
 
 Bu tür bağlantılar popüler literatürde sıkça kurulur. Kurulmama sebebi şudur:
 
 **Bir.** Ayet bir fizik önermesi değil, bir **ölçü** bildiriyor. "Bir günün elli bin yıla denk olması" ifadesi, Arapçada ve başka birçok dilde, zaman deneyiminin ağırlığını anlatmak için kullanılan olağan bir kalıptır. Bu kalıbı fiziksel bir denklem gibi okumak, metni kendi dilinin dışına çıkarmaktır.
 
-**İki.** USLUP'ta kayıtlı olan ilke şudur: *"Ayete modern bir bilgi zorla giydirilmez."* Ve Târık bölümünde aynı gerekçeyle embriyoloji ve astronomi iddiaları reddedilmişti; Fecr bölümünde arkeoloji iddiaları için aynı kayıt düşülmüştü.
+**İki.** STYLE'da kayıtlı olan ilke şudur: *"Ayete modern bir bilgi zorla giydirilmez."* Ve Târık bölümünde aynı gerekçeyle embriyoloji ve astronomi iddiaları reddedilmişti; Fecr bölümünde arkeoloji iddiaları için aynı kayıt düşülmüştü.
 
 **Üç.** Böyle bir bağ kurulduğunda metnin doğruluğu, kurulan bağın kaderine bağlanır. Fecr bölümünde kaydedildiği gibi: *"bir metnin doğruluğunu bir kazı raporuna bağlamak, metni o raporun kaderine bağlamak demektir."* Aynı şey bir fizik kuramı için de geçerlidir.
 
@@ -1837,7 +1837,7 @@ Bunu bir kalıp gözlemi olarak kaydediyorum; iki kelimenin vezinleri doğrulana
 
 **إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ**
 
-**Bu ifade fıkhî bir konudur ve USLUP gereği burada fıkhî hüküm verilmez.** Klasik fıkıh literatüründe *"mâ meleket eymânühum"* ifadesinin kapsamı, tarihî uygulaması ve bugünkü karşılığı üzerine geniş bir tartışma vardır; bu tartışma bu bölümün konusu değildir ve ehlinin eserlerine havale edilir.
+**Bu ifade fıkhî bir konudur ve STYLE gereği burada fıkhî hüküm verilmez.** Klasik fıkıh literatüründe *"mâ meleket eymânühum"* ifadesinin kapsamı, tarihî uygulaması ve bugünkü karşılığı üzerine geniş bir tartışma vardır; bu tartışma bu bölümün konusu değildir ve ehlinin eserlerine havale edilir.
 
 **Kaydedilmesi gereken dil verileri şunlardır:**
 
@@ -2440,7 +2440,7 @@ Kur'an bu iki kelimeyi **üç farklı sayıda** kullanıyor:
 
 **Bu izah, çölde yaşayan ve ufku bir takvim gibi okuyan bir topluluk için sıradan bir gözlemdir.** Yön bulmak ve mevsim hesaplamak için güneşin doğuş noktasının yıl boyunca kaydığını bilmek gerekir; ve bu bilgi o toplumda vardı.
 
-**Bir kayıt: bunu bir fennî mucize iddiası olarak sunmuyorum.** USLUP'ta kayıtlı ilke gereği bu tür bağlar ancak gerçekten varsa ve zorlama olmadan kuruluyorsa kurulur. Burada anlatılan şey modern bir keşif değil; **çıplak gözle görülebilen, o dönemde de bilinen bir olgudur.** Kaydettiğim tek şey, Kur'an'ın tekil, ikil ve çoğul biçimleri ayrı ayrı kullanmış olmasıdır — ve bu, doğrulanabilir bir metin verisidir.
+**Bir kayıt: bunu bir fennî mucize iddiası olarak sunmuyorum.** STYLE'da kayıtlı ilke gereği bu tür bağlar ancak gerçekten varsa ve zorlama olmadan kuruluyorsa kurulur. Burada anlatılan şey modern bir keşif değil; **çıplak gözle görülebilen, o dönemde de bilinen bir olgudur.** Kaydettiğim tek şey, Kur'an'ın tekil, ikil ve çoğul biçimleri ayrı ayrı kullanmış olmasıdır — ve bu, doğrulanabilir bir metin verisidir.
 
 **Ve yeminin işlevi:** *"doğuların ve batılarının Rabbi"* unvanı, **düzenli tekrar** bildiriyor. Güneş her gün doğuyor, her gün batıyor, ve her gün noktası biraz değişiyor.
 
@@ -2970,14 +2970,14 @@ Kırk ikinci ayetin emri, bugün için bir sınır cümlesidir: sonucu üstlenme
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
 
 - **Birinci ayetteki *seele*nin *bâ* ile gelmesi** hakkında üç okuyuş verildi (soru / talep / hemzesiz *sâle*); tercih dayatılmadı. Hemzesiz okuyuş bir kıraat farkıdır ve **imam adı verilmedi.**
 - **Soranın kim olduğu** ihtilaflıdır. Enfâl 8/32 bir karine olarak aktarıldı, ama **o ayetin bu sûrenin nüzul sebebi olduğu iddia edilmedi.** Rivayetlerde geçen **kişi adları verilmedi**; gerekçe Mâûn ve Hümeze bölümlerindekiyle aynıdır.
 - **ٱلْمَعَارِج'in anlamı** (yükselme yolları / dereceler) hakkında iki okuyuş verildi; tercih dayatılmadı.
 - **ٱلرُّوح'un kim olduğu** ihtilaflıdır; görüşler sayıldı, **tercih bildirilmedi.**
 - **"Elli bin yıl" hakkında beş klasik izah tablo halinde verildi ve tercih dayatılmadı.** Mü'min için günün kısalacağına dair rivayetlerin kaynaklarda bulunduğu kaydedildi, ama **lafız ve kaynak verilmedi**, çünkü sıhhat hakkında hüküm verilemedi.
-- **"Elli bin yıl" üzerinden modern fizik, görelilik ya da zamanın göreliliğine dair hiçbir iddia kurulmadı** ve bunun gerekçesi üç maddede açıkça yazıldı. USLUP'un fennî mucize yasağı burada birebir uygulandı.
+- **"Elli bin yıl" üzerinden modern fizik, görelilik ya da zamanın göreliliğine dair hiçbir iddia kurulmadı** ve bunun gerekçesi üç maddede açıkça yazıldı. STYLE'ın fennî mucize yasağı burada birebir uygulandı.
 - **إِلَيْهِ ifadesinin mekân bildirmediği** kaydedildi; Fecr bölümündeki tefvîz/te'vîl ayrımı korundu ve tekrarlanmadı.
 - **"Güzel sabır"ın "şikâyetsiz sabır" diye açıklanması** klasik kaynaklarda yaygındır; **belirli bir kişiye nispet edilmedi.** Yûsuf 12/86 ile çizilen sınır **kendi okumamdır.**
 - **بَعِيد'in "zamanca uzak" mı "ihtimal dışı" mı olduğu** hakkında iki okuyuş verildi; ikisinin birlikte işlediği kanaati belirtildi ve **bağlayıcı olmadığı kaydedildi.**
@@ -2991,7 +2991,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **حَقٌّ مَّعْلُوم'un ne olduğu** (zekât / kişinin belirlediği pay) ihtilaflıdır; ikinci okuyuş sûrenin mantığı gerekçesiyle daha güçlü bulundu ve **bağlayıcı olmadığı, pratik farkın sınırlı olduğu kaydedildi.** Mâûn bölümündeki Mekkî/Medenî ihtiyatı korundu.
 - **ٱلْمَحْرُوم'un kim olduğu** hakkında iki görüş verildi; birbirini dışlamadıkları kaydedildi, **tercih dayatılmadı.**
 - **عَهْد'in tekil gelmesi** hakkında iki izah verildi, tercih bildirilmedi.
-- **مَا مَلَكَتْ أَيْمَٰنُهُمْ ifadesinin kapsamı ve bugünkü karşılığı fıkhî bir konudur; USLUP gereği hüküm verilmedi** ve tartışma ehlinin eserlerine havale edildi. Yalnızca dil verileri kaydedildi.
+- **مَا مَلَكَتْ أَيْمَٰنُهُمْ ifadesinin kapsamı ve bugünkü karşılığı fıkhî bir konudur; STYLE gereği hüküm verilmedi** ve tartışma ehlinin eserlerine havale edildi. Yalnızca dil verileri kaydedildi.
 - **عِزِين'in kökeni** hakkında iki görüş verildi; birinci kökenden çıkarılan anlam katmanı **kendi okumamdır** ve kesin etimoloji hükmü olarak sunulmadı.
 - **مِّمَّا يَعْلَمُونَ'nin anlamı** (yaratılış maddesi / yaratılmış olmanın yetmemesi) hakkında iki okuyuş verildi; birbirini dışlamadıkları kaydedildi, **tercih dayatılmadı.**
 - **ٱلْمَشَٰرِق وَٱلْمَغَٰرِب'in çoğul gelmesi** hakkındaki klasik izah aktarıldı ve bunun **fennî mucize iddiası olarak sunulmadığı** açıkça belirtildi: anlatılan şey modern bir keşif değil, çıplak gözle görülebilen ve o dönemde bilinen bir olgudur.

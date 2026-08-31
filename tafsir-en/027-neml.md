@@ -416,7 +416,7 @@ The root **ن-ط-ق**: **to bring forth speech with the voice, to speak.** ***Ma
 
 **This is a repetition that can be verified within the sūra.** And I record this as my own reading: **the sūra opens speech as a capacity and closes it as a deprivation.**
 
-**I draw a limit, and per the method (`USLUP.md`) I write it out plainly:** I derive no scientific claim about animal communication from the phrase *manṭiqu'ṭ-ṭayr*. **The verse reports a particular understanding given to Solomon; it does not say that it opens a general door to knowledge.** Indeed the verb is passive, and its agent is evident: *ʿullimnā* — "we were taught."
+**I draw a limit, and per the method (`STYLE.md`) I write it out plainly:** I derive no scientific claim about animal communication from the phrase *manṭiqu'ṭ-ṭayr*. **The verse reports a particular understanding given to Solomon; it does not say that it opens a general door to knowledge.** Indeed the verb is passive, and its agent is evident: *ʿullimnā* — "we were taught."
 
 **وَأُوتِينَا مِن كُلِّ شَىْءٍ** — "we have been given of everything."
 
@@ -463,7 +463,7 @@ The root **و-ز-ع** was worked out in `046-ahkaf.md` at 46/15: **to take hold 
 
 **And the root analysis of the word *jinn* was carried out in `072-cin.md`** (ج-ن-ن — to cover, to conceal). **I do not repeat it here.**
 
-**A limit, per the method (`USLUP.md`):** I build no claim, on the basis of this verse, about the nature of the jinn, their powers, or their relations with human beings today. **What the text reports is a capacity given to Solomon, and it is tied to him.**
+**A limit, per the method (`STYLE.md`):** I build no claim, on the basis of this verse, about the nature of the jinn, their powers, or their relations with human beings today. **What the text reports is a capacity given to Solomon, and it is tied to him.**
 
 ---
 
@@ -477,9 +477,9 @@ The root **و-ز-ع** was worked out in `046-ahkaf.md` at 46/15: **to take hold 
 
 ### First, a limit
 
-**Per the method (`USLUP.md`) I write this out plainly, and the limit is particularly needed at this verse:**
+**Per the method (`STYLE.md`) I write this out plainly, and the limit is particularly needed at this verse:**
 
-- **I do not load this verse with a scientific confirmation drawn from what is known today about the communication of ants.** Such a reading is the hunting for scientific miracles that `USLUP.md` forbids.
+- **I do not load this verse with a scientific confirmation drawn from what is known today about the communication of ants.** Such a reading is the hunting for scientific miracles that `STYLE.md` forbids.
 - **The text says nothing about how the ant spoke, what kind of sound it was, or by what means Solomon understood it.** I do not speculate about these gaps.
 - **I do not enter into the storytellers' details that circulate about this scene — the ant's name, the location of the valley, the length of the speech. The Qurʾān does not supply them.**
 
@@ -803,7 +803,7 @@ The root **ح-و-ط** was worked out in `002-bakara.md` at 2/255, and the findin
 
 ### A variant reading — and it changes the meaning
 
-**There is a variant reading on the first word of verse 25, and since it bears directly on the meaning it must be recorded, per the method (`USLUP.md`):**
+**There is a variant reading on the first word of verse 25, and since it bears directly on the meaning it must be recorded, per the method (`STYLE.md`):**
 
 | Reading | How it is written | Sense |
 |---|---|---|
@@ -820,7 +820,7 @@ The root **ح-و-ط** was worked out in `002-bakara.md` at 2/255, and the findin
 
 **There is agreement that this sūra contains a prostration of recitation. As to its exact place, differing views are transmitted in the classical works of law:** on one view it falls at the end of verse 25, on another at the end of verse 26 (*rabbu'l-ʿarshi'l-ʿaẓīm*).
 
-**I confine myself to transmitting the disagreement; I issue no legal ruling.** **Per the method (`USLUP.md`), the views of the schools of law are transmitted and no ruling is issued.**
+**I confine myself to transmitting the disagreement; I issue no legal ruling.** **Per the method (`STYLE.md`), the views of the schools of law are transmitted and no ruling is issued.**
 
 ### ٱلْخَبْء — root خ-ب-أ
 
@@ -861,7 +861,7 @@ The root **ح-و-ط** was worked out in `002-bakara.md` at 2/255, and the findin
 
 **The verse names the people's act: prostration to the sun.** **And the qualification matters: *min dūni'llāh* — "instead of God."**
 
-**Per the method (`USLUP.md`) I draw a limit:** this verse describes a people who worshipped the sun in history. **I issue no blanket verdict about an ethnic or geographical group;** what the verse describes is **a conduct**, and whoever does that conduct falls under it.
+**Per the method (`STYLE.md`) I draw a limit:** this verse describes a people who worshipped the sun in history. **I issue no blanket verdict about an ethnic or geographical group;** what the verse describes is **a conduct**, and whoever does that conduct falls under it.
 
 The root **س-ج-د** was treated in `053-necm.md` and in `084-insikak.md`: **to bow, to fall to the ground; the plainest bodily form of submission.** **I do not repeat it here.**
 
@@ -1126,7 +1126,7 @@ The root **س-ل-م**: **to be sound, to be without flaw; and to hand over.** **
 
 **I do not impose a preference.** **Both readings are transmitted, and on both the clause does the same work: it makes the finding admit of no exception.**
 
-### A limit, per the method (`USLUP.md`)
+### A limit, per the method (`STYLE.md`)
 
 **I do not enter into present-day politics on the basis of this verse, and I issue no verdict about any form of government.**
 
@@ -1490,7 +1490,7 @@ The root **ص-د-د**: **to turn away, to hold back, to block.** **The same verb
 
 ### A note on the narrative as a whole
 
-**Per the method (`USLUP.md`) I draw a limit, and it holds for the whole of this section:**
+**Per the method (`STYLE.md`) I draw a limit, and it holds for the whole of this section:**
 
 - **The reports about the queen's name, the history of her people, and her later relations with Solomon have not been entered into.** The Qurʾān does not supply them.
 - **No attempt has been made to explain how the extraordinary events in the narrative (the bringing of the throne) came about.** The text gives a span of time; it does not give a mechanism.
@@ -1610,7 +1610,7 @@ The root **ر-ه-ط**: **the close kin around a person, a small group.** **The l
 | 12 | *fī **tisʿi** āyāt* | **Nine signs** — given to Moses |
 | 48 | ***tisʿatu** rahṭin* | **Nine men** — spreading corruption among Thamūd |
 
-**The same number, in two different blocks of the sūra.** This is a repetition that can be verified from the text. **I build no link of meaning on it, and per the method (`USLUP.md`) I do not enter into numerical reckoning;** what I record is only the repetition itself.
+**The same number, in two different blocks of the sūra.** This is a repetition that can be verified from the text. **I build no link of meaning on it, and per the method (`STYLE.md`) I do not enter into numerical reckoning;** what I record is only the repetition itself.
 
 ### يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
 
@@ -1815,7 +1815,7 @@ The root **ج-ه-ل** was treated in `049-hucurat.md`, and the distinction recor
 
 **And the word *shahwatan* supports this: the root ش-ه-و — intense desire.** **The sentence locates the cause of the act in desire, not in ignorance.**
 
-**A qualification, per the method (`USLUP.md`):** this verse contains **an act that the verse itself describes**, and in this commentary **no legal ruling is issued and the views of the schools of law are not debated.** **I speak not about persons but about the act the verse names.**
+**A qualification, per the method (`STYLE.md`):** this verse contains **an act that the verse itself describes**, and in this commentary **no legal ruling is issued and the views of the schools of law are not debated.** **I speak not about persons but about the act the verse names.**
 
 ---
 
@@ -2014,7 +2014,7 @@ The root **ع-د-ل**: **to be equal, to make equal.** **The word carries both t
 
 **And the same fact occurred with the word *barzakh* in `055-rahman.md` at 55/19-20, and it was treated there.** **The two sūras name the same thing with two different words: *ḥājiz* and *barzakh*.** This is an overlap that can be verified from the text.
 
-**Per the method (`USLUP.md`) I draw a limit:** I build **no claim of a miracle out of the findings of modern ocean science** regarding the barrier between the two seas. **The language of the verse points to something that can be seen with the eye** — places where fresh water and salt water do not mix, the boundaries of currents — **and this is an observation that a listener living in the desert could verify as well.** **I record it as a point of view, not as a proof.**
+**Per the method (`STYLE.md`) I draw a limit:** I build **no claim of a miracle out of the findings of modern ocean science** regarding the barrier between the two seas. **The language of the verse points to something that can be seen with the eye** — places where fresh water and salt water do not mix, the boundaries of currents — **and this is an observation that a listener living in the desert could verify as well.** **I record it as a point of view, not as a proof.**
 
 ### بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
@@ -2248,7 +2248,7 @@ The root **ب-د-أ**: to begin. The root **ع-و-د**: to return, to repeat.
 
 **I record the sense of the word once more:** the root **غ-ي-ب** — **to pass out of sight, to remain covered.** *Ghayba* — a thing's leaving the field of vision. ***Ghayb* is therefore not "what cannot be known" but "what is closed to the senses"**, and what falls within that scope is settled by the verses' own qualifications.
 
-**I draw one further limit, and per the method (`USLUP.md`) I write it out plainly:** on the basis of this verse I **issue no verdict about any particular science or field of research.** **The verse reports to whom the unseen belongs; it does not regulate what a human being may investigate.**
+**I draw one further limit, and per the method (`STYLE.md`) I write it out plainly:** on the basis of this verse I **issue no verdict about any particular science or field of research.** **The verse reports to whom the unseen belongs; it does not regulate what a human being may investigate.**
 
 ### وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 
@@ -2476,7 +2476,7 @@ The root **ك-ن-ن**: **to cover, to keep hidden inside a vessel.** *Kinān* �
 
 **And the choice of addressee must be recorded: *ʿalā banī isrāʾīl*.**
 
-**I record this as an observation and issue no blanket verdict:** the verse names a community by way of **its own internal disagreements.** **Per the method (`USLUP.md`): no blanket verdict is issued about an ethnic or religious group;** what the verse describes is what a text does to another community's disputes.
+**I record this as an observation and issue no blanket verdict:** the verse names a community by way of **its own internal disagreements.** **Per the method (`STYLE.md`): no blanket verdict is issued about an ethnic or religious group;** what the verse describes is what a text does to another community's disputes.
 
 **And the sūra's own context must be recorded:** in its narratives al-Naml told of Moses, of David, of Solomon, of Lot. **This verse also reports whom those narratives address.**
 
@@ -2567,7 +2567,7 @@ The root **و-ك-ل**: **to refer a matter to another, to appoint an agent.** **
 
 ### A limit — how these verses are not to be read
 
-**Per the method (`USLUP.md`) I write it out plainly:**
+**Per the method (`STYLE.md`) I write it out plainly:**
 
 **These verses are not a sentence of judgement sorting people into "the dead, the deaf and the blind".** **The subject of the sentence is the Prophet, and what is said is *the limit of his power*** — indeed the verbs are his: *lā tusmiʿu*, *mā anta bi-hādī*.
 
@@ -2604,11 +2604,11 @@ The root **و-ك-ل**: **to refer a matter to another, to appoint an agent.** **
 
 ### First a qualification — and at this verse it is indispensable
 
-**A great many reports and interpretations circulate about this verse. Per the method (`USLUP.md`) I write this out plainly, and throughout this section I do not step outside this limit:**
+**A great many reports and interpretations circulate about this verse. Per the method (`STYLE.md`) I write this out plainly, and throughout this section I do not step outside this limit:**
 
 - **There is no certain knowledge about what this *dābba* is, where or when it will come forth, or how it will appear.**
 - **Some of the reports transmitted on this subject are disputed within the tradition of hadith criticism. I ascribe no saying I am not sure of to any source, and I do not pile up reports.**
-- **I do not enter into the interpretations loaded onto this verse in the modern period — technology, an epidemic, a particular invention or event. These are claims with no ground in the text, and they are readings of the kind `USLUP.md` forbids.**
+- **I do not enter into the interpretations loaded onto this verse in the modern period — technology, an epidemic, a particular invention or event. These are claims with no ground in the text, and they are readings of the kind `STYLE.md` forbids.**
 - **I fix no date, no place and no identity.**
 
 **The only thing I can do at this verse is to work out what the wording says. That I do.**
@@ -2854,13 +2854,13 @@ The root **ن-ف-خ**: **to blow.** **The root was treated in `078-nebe.md` at 7
 
 ### First, a limit
 
-**Per the method (`USLUP.md`) I write it out plainly:**
+**Per the method (`STYLE.md`) I write it out plainly:**
 
-**From this verse I draw no reference to the rotation of the earth, to plate tectonics, to the movement of the continents, or to any other geological or astronomical fact.** **That is a reading of the scientific-miracle kind that `USLUP.md` forbids.**
+**From this verse I draw no reference to the rotation of the earth, to plate tectonics, to the movement of the continents, or to any other geological or astronomical fact.** **That is a reading of the scientific-miracle kind that `STYLE.md` forbids.**
 
 **And this limit had already been drawn in the discussion of `081-tekvir.md` at 81/3, and this verse was set out in a table there. I preserve the note made there as it stands:**
 
-> **Al-Naml 27/88 is striking because it says that the mountain's seeming fixed is an illusion. But to read this verse as "the Qurʾān reports the movements of the earth's crust" is a forcing of the kind `USLUP.md` forbids: the context of the verse is the Day of Judgement, and the description belongs to that day. I record it as a possible reading, not as a claim.**
+> **Al-Naml 27/88 is striking because it says that the mountain's seeming fixed is an illusion. But to read this verse as "the Qurʾān reports the movements of the earth's crust" is a forcing of the kind `STYLE.md` forbids: the context of the verse is the Day of Judgement, and the description belongs to that day. I record it as a possible reading, not as a claim.**
 
 **I add nothing to this and do not extend it.**
 

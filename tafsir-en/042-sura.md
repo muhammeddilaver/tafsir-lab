@@ -1326,7 +1326,7 @@ The connotation the word *sharīʿa* carries today is "a body of rules". **The r
 
 **There is a point that must be recorded, and it is shared by both readings:** the sentence does not **silence** the other side, it **closes** the argument. These are different things. To silence is to prevent the other from speaking; to close is to accept that the speaking will lead to no conclusion.
 
-**And a note about the law is required:** in the classical sources this verse has been described as "the verse of mutual leaving-off" (*mutāraka*), and some authors have said that it was abrogated by rulings that came later. **Per the method (`USLUP.md`) no legal ruling is issued in this commentary; nor is any side taken on the claim of abrogation.** What I record is that the claim exists.
+**And a note about the law is required:** in the classical sources this verse has been described as "the verse of mutual leaving-off" (*mutāraka*), and some authors have said that it was abrogated by rulings that came later. **Per the method (`STYLE.md`) no legal ruling is issued in this commentary; nor is any side taken on the claim of abrogation.** What I record is that the claim exists.
 
 ### The overlap with `002-bakara.md` 2/139
 
@@ -1837,7 +1837,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 **This verse carries one of the most debated expressions in the Qurʾān. The disagreement is large, and it will be given without concealment and without partisanship.**
 
-**And first I enter a note of method, because the subject requires it:** three readings will be set out in a table below. **In this commentary none of them is preferred, no superiority is attributed to any of them, and no insinuation about any group is framed.** Throughout history this verse has been the subject of different readings by different circles; **per the method (`USLUP.md`), no inter-school polemic is entered into.** What is done here is an inventory of the readings transmitted in the classical exegetical sources and of their grounds.
+**And first I enter a note of method, because the subject requires it:** three readings will be set out in a table below. **In this commentary none of them is preferred, no superiority is attributed to any of them, and no insinuation about any group is framed.** Throughout history this verse has been the subject of different readings by different circles; **per the method (`STYLE.md`), no inter-school polemic is entered into.** What is done here is an inventory of the readings transmitted in the classical exegetical sources and of their grounds.
 
 ### مَوَدَّة — root و-د-د
 
@@ -2314,7 +2314,7 @@ This is said not as a rule of morals but as a **working.** And the word itself c
 | 1 | The pronoun refers to both; **there are living creatures in the heavens too** |
 | 2 | Though the pronoun says "the two", what is meant is the earth; in Arabic what belongs to one of two things may be ascribed **to both together** (*taghlīb*) |
 
-**Both readings are transmitted; I do not impose a preference.** **And no "scientific miracle" is drawn from this** — per the method (`USLUP.md`), modern knowledge is not forced onto a verse in this commentary. What is recorded is what the wording says and what the exegetes understood.
+**Both readings are transmitted; I do not impose a preference.** **And no "scientific miracle" is drawn from this** — per the method (`STYLE.md`), modern knowledge is not forced onto a verse in this commentary. What is recorded is what the wording says and what the exegetes understood.
 
 ### وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
@@ -2873,7 +2873,7 @@ The word *wa yaʿlama* comes in the **subjunctive**, and this is a point the gra
 
 **I record this as my own reading:** the three occurrences show the word working at three different scales — family, leadership, community. **And in none of them is an institution, a procedure or a method described.**
 
-**This last point matters and must be written plainly:** **the verse does not describe a form of government.** Neither how those to be consulted are determined, nor whether the outcome is binding, nor any procedure is stated. **These are things the verse does not say, and to present what is unsaid as said is not done in this commentary, per the method (`USLUP.md`).**
+**This last point matters and must be written plainly:** **the verse does not describe a form of government.** Neither how those to be consulted are determined, nor whether the outcome is binding, nor any procedure is stated. **These are things the verse does not say, and to present what is unsaid as said is not done in this commentary, per the method (`STYLE.md`).**
 
 **The sūra's being Meccan supports this too:** as recorded in the section on the occasion of revelation, the word comes as the attribute of a community that has as yet no state, no army and no treasury.
 
@@ -4021,7 +4021,7 @@ The sūra opened as a sūra about division: people divide, argue, take one anoth
 
 ### Disagreements in which no preference is adopted in this commentary
 
-**Per the method (`USLUP.md`) I record: in the places below two or more readings were transmitted and in none of them was a preference imposed.**
+**Per the method (`STYLE.md`) I record: in the places below two or more readings were transmitted and in none of them was a preference imposed.**
 
 | Verse | The disagreement |
 |---|---|

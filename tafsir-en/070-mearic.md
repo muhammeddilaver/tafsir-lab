@@ -275,13 +275,13 @@ One qualification is needed, and it is commonly set down in the classical source
 
 ### A limit: claims from modern physics
 
-**Per the method (`USLUP.md`) I state this plainly: I do not proceed from this verse to the theory of relativity, to the relativity of time, or to any claim of modern physics.**
+**Per the method (`STYLE.md`) I state this plainly: I do not proceed from this verse to the theory of relativity, to the relativity of time, or to any claim of modern physics.**
 
 Such connections are frequently drawn in the popular literature. The reason for not drawing them is this:
 
 **One.** The verse states not a proposition of physics but a **measure**. The expression "a day being equivalent to fifty thousand years" is an ordinary formula used in Arabic and in many other languages to convey the weight of an experience of time. To read that formula as a physical equation is to take the text outside its own language.
 
-**Two.** The principle set down in `USLUP.md` is this: *"No modern piece of knowledge is forced onto a verse."* And in the section on al-Ṭāriq, claims about embryology and astronomy were rejected on the same ground; in the section on al-Fajr the same qualification was set down for claims about archaeology.
+**Two.** The principle set down in `STYLE.md` is this: *"No modern piece of knowledge is forced onto a verse."* And in the section on al-Ṭāriq, claims about embryology and astronomy were rejected on the same ground; in the section on al-Fajr the same qualification was set down for claims about archaeology.
 
 **Three.** When such a link is made, the truth of the text becomes tied to the fate of the link. As recorded in the section on al-Fajr: *"to tie the truth of a text to an excavation report is to tie the text to the fate of that report."* The same holds for a theory of physics.
 
@@ -1837,7 +1837,7 @@ I record this as an observation about patterns; the metres of the two words are 
 
 **إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ**
 
-**This expression is a matter of jurisprudence, and per the method (`USLUP.md`) no legal ruling is issued here.** In the classical legal literature there is a broad discussion of the scope of the expression *"mā malakat aymānuhum"*, its historical application and its present-day equivalent; that discussion is not the subject of this section and is referred to the works of those qualified in it.
+**This expression is a matter of jurisprudence, and per the method (`STYLE.md`) no legal ruling is issued here.** In the classical legal literature there is a broad discussion of the scope of the expression *"mā malakat aymānuhum"*, its historical application and its present-day equivalent; that discussion is not the subject of this section and is referred to the works of those qualified in it.
 
 **The linguistic data that must be recorded are these:**
 
@@ -2440,7 +2440,7 @@ The Qurʾān uses these two words in **three different numbers**:
 
 **For a community living in the desert and reading the horizon like a calendar, this explanation is an ordinary observation.** To find one's way and to reckon the seasons one needs to know that the sun's point of rising shifts across the year; and that knowledge was present in that society.
 
-**One qualification: I do not offer this as a claim of scientific miracle.** By the principle set down in `USLUP.md`, such links are made only if they genuinely exist and can be made without strain. What is described here is not a modern discovery; it is **a fact visible to the naked eye and known at that time.** The only thing I record is that the Qurʾān used the singular, dual and plural forms separately — and this is a textual datum that can be verified.
+**One qualification: I do not offer this as a claim of scientific miracle.** By the principle set down in `STYLE.md`, such links are made only if they genuinely exist and can be made without strain. What is described here is not a modern discovery; it is **a fact visible to the naked eye and known at that time.** The only thing I record is that the Qurʾān used the singular, dual and plural forms separately — and this is a textual datum that can be verified.
 
 **And the function of the oath:** the title *"Lord of the risings and the settings"* conveys **regular recurrence**. The sun rises every day, sets every day, and its point shifts a little every day.
 
@@ -2970,14 +2970,14 @@ Together the two describe a single stance: **hold yourself in, do not force the 
 
 ### Where this section does not speak with certainty
 
-Per the method (`USLUP.md`), I list plainly the places where, throughout the text, certain language was deliberately not used.
+Per the method (`STYLE.md`), I list plainly the places where, throughout the text, certain language was deliberately not used.
 
 - Three readings were given for **the coming of *saʾala* with *bāʾ* in the first verse** (question / demand / *sāla* without hamza); no preference was imposed. The reading without hamza is a variant reading, and **no imām's name was given.**
 - **Who the asker was** is disputed. Al-Anfāl 8/32 was transmitted as an indication, but **it was not claimed that that verse is the occasion of revelation of this sūra.** The **personal names** occurring in the reports **were not given**; the ground is the same as in the sections on al-Māʿūn and al-Humaza.
 - Two readings were given for **the meaning of ٱلْمَعَارِج** (ways of ascent / degrees); no preference was imposed.
 - **Who ٱلرُّوح is** is disputed; the views were listed, **no preference was expressed.**
 - **Five classical explanations of "fifty thousand years" were given in a table and no preference was imposed.** It was recorded that reports to the effect that the day will be shortened for the believer are found in the sources, but **their wording and source were not given**, because no ruling could be issued about their soundness.
-- **No claim whatever was built on "fifty thousand years" concerning modern physics, relativity or the relativity of time**, and the ground for this was written out plainly in three points. `USLUP.md`'s prohibition of scientific-miracle claims was applied here exactly.
+- **No claim whatever was built on "fifty thousand years" concerning modern physics, relativity or the relativity of time**, and the ground for this was written out plainly in three points. `STYLE.md`'s prohibition of scientific-miracle claims was applied here exactly.
 - It was recorded that **the expression إِلَيْهِ does not convey place**; the *tafwīḍ*/*taʾwīl* distinction of the section on al-Fajr was preserved and not repeated.
 - **The explanation of "beautiful patience" as "patience without complaint"** is widespread in the classical sources; **it was not ascribed to a particular person.** The boundary drawn with Yūsuf 12/86 is **my own reading.**
 - Two readings were given for **whether بَعِيد means "far in time" or "out of the question"**; the judgement that the two work together was expressed, and it was recorded that **it is not binding.**
@@ -2991,7 +2991,7 @@ Per the method (`USLUP.md`), I list plainly the places where, throughout the tex
 - **What حَقٌّ مَّعْلُوم is** (alms / a share the person himself determines) is disputed; the second reading was found stronger on the ground of the sūra's logic, and it was recorded that **it is not binding and that the practical difference is limited.** The Meccan/Medinan caution of the section on al-Māʿūn was preserved.
 - Two views were given regarding **who the ٱلْمَحْرُوم is**; it was recorded that they do not exclude one another, and **no preference was imposed.**
 - Two explanations were given for **the singular form of عَهْد**, and no preference was expressed.
-- **The scope of the expression مَا مَلَكَتْ أَيْمَٰنُهُمْ and its present-day equivalent are a matter of jurisprudence; per the method (`USLUP.md`) no ruling was issued** and the discussion was referred to the works of those qualified in it. Only the linguistic data were recorded.
+- **The scope of the expression مَا مَلَكَتْ أَيْمَٰنُهُمْ and its present-day equivalent are a matter of jurisprudence; per the method (`STYLE.md`) no ruling was issued** and the discussion was referred to the works of those qualified in it. Only the linguistic data were recorded.
 - Two views were given about **the origin of عِزِين**; the layer of meaning drawn from the first origin is **my own reading** and was not presented as a settled etymological ruling.
 - Two readings were given for **the meaning of مِّمَّا يَعْلَمُونَ** (the substance of creation / the insufficiency of having been created); it was recorded that they do not exclude one another, and **no preference was imposed.**
 - The classical explanation of **the plural form of ٱلْمَشَٰرِق وَٱلْمَغَٰرِب** was transmitted, and it was stated plainly that **this was not offered as a claim of scientific miracle**: what is described is not a modern discovery but a fact visible to the naked eye and known at that time.

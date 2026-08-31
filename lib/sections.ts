@@ -1,19 +1,20 @@
-// Hangi ayet hangi bolumde isleniyor? — ucuz on gecis.
-// parse() tam ayristirma yapiyor ama inline() baglanti kurarken *baska*
-// surelerin bolumlerini de bilmek zorunda; tam ayristirma cagirmak dongu
-// olurdu. Burada yalnizca "## N/a-b" basliklari taranir.
+// Which section treats which verse? — a cheap pre-pass.
+// parse() does the full parse, but inline() has to know the sections of
+// *other* suras while building links; calling the full parse there would
+// loop. This scans only the "## N/a-b" headings.
 import fs from "node:fs";
 import path from "node:path";
-import { AYET } from "./ayet";
+import { VERSES } from "./verses";
 import { type Lang } from "./i18n";
 
-// Bkz. lib/content.ts: kaynak klasoru duz yazilir.
+// See lib/content.ts: the source directory is written out literally.
 const srcDir = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "tefsir-en") : path.join(process.cwd(), "tefsir");
+  lang === "en" ? path.join(process.cwd(), "tafsir-en") : path.join(process.cwd(), "tafsir");
 
-// parse() ile birebir ayni kural: baslik "N/a", "N/a-b" ya da "N/a · b"
-// bicimindeyse bolumdur. "## 2/134 ve 2/141 — ..." gibi serbest basliklar
-// bolum sayilmaz; oradaki ayet en yakin onceki bolume baglanir.
+// Exactly the same rule as parse(): a heading of the form "N/a", "N/a-b"
+// or "N/a · b" is a section. Free-form headings such as
+// "## 2/134 ve 2/141 — ..." are not; their verses attach to the nearest
+// preceding section.
 const HEAD = /^##\s+(\d{1,3})\/(\d{1,3})(?:\s*[·\-–]\s*(\d{1,3}))?\s*(?:—\s*.*)?$/gm;
 
 export type SectionIndex = Map<number, Map<number, number>>; // sure -> ayet -> bolum baslangici
@@ -39,9 +40,9 @@ export function sectionIndex(lang: Lang): SectionIndex {
       const to = h[3] ? parseInt(h[3], 10) : from;
       for (let a = from; a <= to; a++) if (!map.has(a)) map.set(a, from);
     }
-    // Basligi olmayan ayetler en yakin onceki bolume baglanir (sayfadaki
-    // capalarla ayni kural).
-    const total = AYET[no - 1];
+    // Verses without a heading of their own attach to the nearest preceding
+    // section (the same rule as the anchors on the page).
+    const total = VERSES[no - 1];
     let last = 0;
     for (let a = 1; a <= total; a++) {
       const hit = map.get(a);

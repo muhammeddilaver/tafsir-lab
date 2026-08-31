@@ -912,7 +912,7 @@ Bu boşluk, sûrenin en önemli sessiz beyanıdır ve iki şey söylüyor:
 
 **2. Ölçü, kimlik değil davranıştır.** 6. ayette bile hükmü taşıyan şey *keferû* fiiliydi (kimlik onu sınırlıyordu); 7. ayette ise fiilden başka hiçbir şey yok. Sûre, tarafları belirlerken tek bir ölçü kullanıyor ve o ölçü ad değil.
 
-Bu, USLUP'taki kuralın metnin kendisinden çıkan hali: **ayetin saydığı şey vasıftır, isim değildir.**
+Bu, STYLE'daki kuralın metnin kendisinden çıkan hali: **ayetin saydığı şey vasıftır, isim değildir.**
 
 ### ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ
 
@@ -1283,7 +1283,7 @@ Sûrenin sonu ile başı arasındaki bağ tam olarak budur: dışarıdan **beyyi
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum:
 
 - **1. ayetteki *münfekkîn*.** Kelimenin neyden ayrılmayı ifade ettiği tefsir tarihinin çözülmemiş meselelerinden biridir. Altı okuyuş tablo halinde verildi; hiçbiri kesin doğru olarak sunulmadı. Kendi tercihimi (2. ve 4. okuyuşların birleşimi) açıkça tercih olarak ve gerekçesiyle belirttim; bağlayıcı değildir.
 - **Sûrenin Mekkî mi Medenî mi olduğu.** Tartışmalıdır; çoğunluğun Medenî dediği söylenebilir ama icmâ yoktur. Tercih belirtilmedi.

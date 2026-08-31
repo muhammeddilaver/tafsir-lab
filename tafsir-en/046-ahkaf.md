@@ -25,7 +25,7 @@ The sūra is the last of the seven sūras that open with *ḥā-mīm*. The share
 
 ### حمٓ
 
-**The general note on the disconnected letters has already been entered elsewhere in this commentary** (`068-kalem.md` and `050-kaf.md`); I do not repeat it here. **The summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them makes a claim to certainty.** Per the method (`USLUP.md`), claims resting on letter-and-number reckoning are not entered into.
+**The general note on the disconnected letters has already been entered elsewhere in this commentary** (`068-kalem.md` and `050-kaf.md`); I do not repeat it here. **The summary is this: there is no certain knowledge about the meaning of these letters; many explanations are transmitted in the classical commentaries and none of them makes a claim to certainty.** Per the method (`STYLE.md`), claims resting on letter-and-number reckoning are not entered into.
 
 **What can be recorded is a fact of word order that can be verified:** in almost every sūra that opens with *ḥā-mīm*, the Book is named right after the opening. So here too: the second verse begins with *tanzīlu'l-kitāb*.
 
@@ -253,7 +253,7 @@ The root **ك-ر-ه**: dislike, hardship, heaviness. The root was treated in `00
 
 **It is transmitted that in the classical works of law this verse is read together with al-Baqara 2/233 (*ḥawlayni kāmilayn* — two full years of suckling), and that a conclusion about the minimum term of pregnancy is drawn from the difference between the two.**
 
-**This is an inference and must be marked as one:** the verse does not make this calculation itself. **I pass it on as a transmitted inference, not as the literal ruling of the verse.** Per the method (`USLUP.md`), I do not establish a legal conclusion.
+**This is an inference and must be marked as one:** the verse does not make this calculation itself. **I pass it on as a transmitted inference, not as the literal ruling of the verse.** Per the method (`STYLE.md`), I do not establish a legal conclusion.
 
 ### حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ
 

@@ -339,7 +339,7 @@ Bu bir üslup tercihi değil, Arapçanın yerleşik bir imkânıdır ve klasik d
 
 ### İhtilaf: ay yarılması ne anlatıyor?
 
-**Bu meselede kesin hüküm kurmuyorum.** USLUP gereği ihtilafı delilleriyle veriyorum ve tercih dayatmıyorum. İki ana görüş ve bir birleştirici görüş vardır.
+**Bu meselede kesin hüküm kurmuyorum.** STYLE gereği ihtilafı delilleriyle veriyorum ve tercih dayatmıyorum. İki ana görüş ve bir birleştirici görüş vardır.
 
 | | **(a) Geçmişte gerçekleşmiş bir hadise** | **(b) Kıyamet alâmetinin mâzî sîgasıyla anlatımı** |
 |---|---|---|
@@ -361,7 +361,7 @@ Bu bir üslup tercihi değil, Arapçanın yerleşik bir imkânıdır ve klasik d
 
 Bu ayet etrafında yaygın olarak dolaşan bir iddia türü var: ayın yüzeyindeki bir jeolojik oluşumun (çoğunlukla bir yarık ya da *rille* için) bu ayetin "bilimsel kanıtı" olduğu iddiası, ve buna eşlik eden çeşitli anlatılar.
 
-**Bu tefsir bu iddiaları kullanmıyor.** Gerekçesi USLUP'un açık maddesidir: *"Fennî mucize avcılığı yapılmaz. Ayete modern bir bilgi zorla giydirilmez."*
+**Bu tefsir bu iddiaları kullanmıyor.** Gerekçesi STYLE'ın açık maddesidir: *"Fennî mucize avcılığı yapılmaz. Ayete modern bir bilgi zorla giydirilmez."*
 
 Bunun ötesinde iki pratik sebep daha var:
 
@@ -645,7 +645,7 @@ Bu ifadede mushaf imlâsının iki hazfi bir arada bulunuyor:
 - **يَدْعُ** — aslı *yed'û* (يدعو). Sondaki **و** yazılmamıştır.
 - **ٱلدَّاعِ** — aslı *ed-dâî* (الداعي). Sondaki **ي** yazılmamıştır.
 
-Bu tür hazifler mushaf resminde birkaç yerde bulunur ve okuyuşta harf telaffuz edilmez. **Bunu bir dil verisi olarak kaydediyorum; buradan hiçbir anlam ya da sayı çıkarmıyorum.** USLUP'un harf-sayı hesabı yasağı burada da geçerlidir.
+Bu tür hazifler mushaf resminde birkaç yerde bulunur ve okuyuşta harf telaffuz edilmez. **Bunu bir dil verisi olarak kaydediyorum; buradan hiçbir anlam ya da sayı çıkarmıyorum.** STYLE'ın harf-sayı hesabı yasağı burada da geçerlidir.
 
 **ٱلدَّاعِ** — çağıran. **Kök: د-ع-و**, ve bu kök **`071-nuh.md`**'de sûrenin omurgası olarak ayrıntılı işlendi: kökün Arapçada iki işi birden yaptığı (çağırmak ve dua etmek) orada gösterildi.
 
@@ -1502,7 +1502,7 @@ Bu ayet ve Fussilet 41/16'daki benzeri (*fî eyyâmin **nahisât***), tarih boyu
 
 **Üç.** Ayetin kendisi zaten fâili söylüyor: *innâ erselnâ* — **"biz gönderdik."** Günün uğursuzluğu bir güç değil; olayın nitelenmesidir.
 
-Bu üç maddeyi USLUP'un *"fen, tarih, sosyal bilim bağlantısı zorlama olmayacak"* ve *"kesin konuşulmayan yerler açıkça belirtilecek"* kayıtlarıyla birlikte veriyorum. Üçü de Kur'an metnine dayanır; sonuçtaki tavır benimdir.
+Bu üç maddeyi STYLE'ın *"fen, tarih, sosyal bilim bağlantısı zorlama olmayacak"* ve *"kesin konuşulmayan yerler açıkça belirtilecek"* kayıtlarıyla birlikte veriyorum. Üçü de Kur'an metnine dayanır; sonuçtaki tavır benimdir.
 
 ### مُّسْتَمِرّ — sûredeki ikinci geçiş
 
@@ -2295,7 +2295,7 @@ Kur'an'da bu kalıp birkaç yerde geçer ve **`055-rahman.md`**'de ikisi karşı
 
 **`055-rahman.md`**'de ilk ikisi arasındaki fark kaydedilmişti: *"Mürselât fâili söylüyor, Rahmân fiili."* Kamer üçüncü bir yol tutuyor: **kişiyi fiiliyle tanımlıyor** — "şükreden kim varsa".
 
-Ve **مَنْ** ism-i mevsûlü burada belirsizdir: bir isim değil, bir vasıf. Bu, USLUP'ta kayıtlı olan ilkeyle uyumludur: *"ayetin tarif ettiği vasıflardır; kim o vasfı taşırsa ona dahildir."*
+Ve **مَنْ** ism-i mevsûlü burada belirsizdir: bir isim değil, bir vasıf. Bu, STYLE'da kayıtlı olan ilkeyle uyumludur: *"ayetin tarif ettiği vasıflardır; kim o vasfı taşırsa ona dahildir."*
 
 ### Neden "şükür"?
 
@@ -2960,7 +2960,7 @@ Ve buradan **cürm**: suç. Dilcilerin izahı: suç, kişiyi bağlı olduğu şe
 
 **Kelimenin sûredeki konumu kayda değer.** Sûre dört kavmi tek tek adlandırdı: Nûh kavmi, Âd, Semûd, Lût kavmi, Âl-i Fir'avn. Kırk yedinci ayette adlar bitiyor ve tek bir **vasıf** kalıyor: *el-mücrimûn.*
 
-**USLUP'ta kayıtlı olan ilke burada metnin kendi işleyişinde görünüyor:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* Sûrenin kendisi de aynı geçişi yapıyor: kavim adlarından vasfa.
+**STYLE'da kayıtlı olan ilke burada metnin kendi işleyişinde görünüyor:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."* Sûrenin kendisi de aynı geçişi yapıyor: kavim adlarından vasfa.
 
 Bunu bir gözlem olarak kaydediyorum.
 
@@ -3130,7 +3130,7 @@ Sınırlıdır — çünkü ölçülmüştür; sonsuz değildir. Yeterlidir — 
 
 İnsanın kendi hayatındaki karşılığı, kaynakların ve sürelerin sınırlı olduğu gerçeğidir: zaman ölçülüdür, güç ölçülüdür, imkân ölçülüdür. Ayet bunu bir eksiklik olarak değil, bir **düzen** olarak adlandırıyor.
 
-Bu, USLUP'un yasakladığı türden bir modern bilgi giydirmesi değildir; kelimenin sözlük anlamının doğrudan sonucudur. Ve kesin bir hüküm değil, bir okuma olarak kaydediyorum.
+Bu, STYLE'ın yasakladığı türden bir modern bilgi giydirmesi değildir; kelimenin sözlük anlamının doğrudan sonucudur. Ve kesin bir hüküm değil, bir okuma olarak kaydediyorum.
 
 ---
 
@@ -3264,7 +3264,7 @@ Kur'an'daki kullanımları kelimenin alanını gösteriyor:
 
 **İki — bağın türünü belirtmiyor.** *Şî'a* soy bağı değildir; **birlikte hareket etme** bağıdır. Yani muhataba söylenen şey "onlar sizin atalarınız" değil, **"onlar sizin gibi davrananlar"**dır.
 
-Ve bu, USLUP'ta kayıtlı ilkeyle uyumludur: bağ, kimlikle değil **vasıfla** kuruluyor.
+Ve bu, STYLE'da kayıtlı ilkeyle uyumludur: bağ, kimlikle değil **vasıfla** kuruluyor.
 
 **Kendi okumam olarak kaydediyorum.** Kökün anlamı dil verisidir; buradan çıkardığım "vasıf bağı" okuması benimdir.
 
@@ -3729,7 +3729,7 @@ Mushaf tertibinde Kamer'in iki yanında Necm (53) ve Rahmân (55) duruyor. **Bun
 
 ## Bugüne bakan yönü
 
-USLUP gereği bu bölümde söylenenler **benim okumamdır**; nakil olarak sunulmuyor ve bağlayıcı değildir.
+STYLE gereği bu bölümde söylenenler **benim okumamdır**; nakil olarak sunulmuyor ve bağlayıcı değildir.
 
 **Bir — soru cevaplanmıyor.**
 
@@ -3793,12 +3793,12 @@ Rahmân'ın nakaratının tam karşıtı budur ve iki sûre bu noktada birbirine
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
 
 - **54/1'deki ay yarılmasının ne anlattığı** — geçmişte gerçekleşmiş bir hadise mi, kıyamet alâmetinin mâzî sîgasıyla anlatımı mı — **ihtilaflıdır.** İki büyük okuma ve bir birleştirici okuma tablo halinde, delilleriyle ve zayıf taraflarıyla verildi. **Tercih yapılmadı ve kesin hüküm kurulmadı.**
 - **İkinci görüşün Hasan-ı Basrî'ye nispeti** klasik kaynaklarda yaygın olarak nakledilir; **nispetin sıhhati konusunda kesin konuşulmadı**, çünkü doğrulanmış bir sened verilemiyor.
 - **Buhârî ve Müslim'de ayın yarılması hakkında rivayetlerin bulunduğu** kaydedildi; **hiçbir rivayetin metni aktarılmadı, râvi zinciri verilmedi ve tek bir rivayet dayanak yapılmadı.**
-- **Ay yüzeyindeki jeolojik oluşumlarla kurulan "bilimsel kanıt" iddiaları reddedildi** ve gerekçesi açıkça yazıldı: USLUP'un fennî mucize avcılığı yasağı, iddianın kendi dayanaksızlığı, ve böyle bir bağın metnin aleyhine çalışması.
+- **Ay yüzeyindeki jeolojik oluşumlarla kurulan "bilimsel kanıt" iddiaları reddedildi** ve gerekçesi açıkça yazıldı: STYLE'ın fennî mucize avcılığı yasağı, iddianın kendi dayanaksızlığı, ve böyle bir bağın metnin aleyhine çalışması.
 - **مُّسْتَمِرّ'ın anlamı** (sürüp giden / geçip gidecek / güçlü) hakkında üç okuma verildi; **tercih dayatılmadı.** Üçünün de aynı sonuca vardığı yolundaki cümle **benim okumamdır.**
 - **م-ر-ر kökünde "geçip gitmek" ile "acı olmak" anlamlarının aynı kökten gelip gelmediği** hakkında **kesin hüküm verilmedi.**
 - **م-ر-ر ile م-ر-ي köklerinin ayrı olduğu açıkça kaydedildi**; iki kök arasındaki ses yakınlığından **anlam çıkarılmadı.**
@@ -3832,7 +3832,7 @@ USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça 
 - **Lût kavminin şehirlerinin adları, sayıları ve yerleri verilmedi;** Hâkka bölümündeki kayıt korundu.
 - **مَلِيك kelimesinin Kur'an'da yalnız burada geçtiği** yaygın kayda dayanılarak belirtildi; **mutlak bir sayım iddiasında bulunulmadı.** Aynı ihtiyat *münhemir* ve *edhâ* için de geçerlidir.
 - **Kök izahları:** ه-و-ي (düşmek / arzu), ع-ق-ر (kesmek / kısırlık), ح-ظ-ر (ağıl / yasak), ز-ب-ر (yazmak / demir kütlesi), س-ح-ب (sürüklemek / bulut), د-ه-ي (felaket / zekâ), س-ع-ر (çılgınlık / alev), ج-ن-ن (örtmek / delilik), ن-ه-ر (nehir / gündüz), ه-ش-م (kırmak / *Hâşim* adı), ج-ر-د (soymak / çekirge), ع-ط-و (vermek / uzanıp almak), ن-د-و ile د-ع-و farkı — **bunların hepsi dilcilerin kurduğu ilişkiler olarak nakledildi**, kesin etimoloji hükmü olarak sunulmadı.
-- **Mushaf imlâsındaki hazifler** (*yed'u*, *ed-dâî*, *tuğni*) bir dil verisi olarak kaydedildi; **buradan hiçbir anlam, sayı ya da harf hesabı çıkarılmadı.** USLUP'un ebced/harf hesabı yasağı korundu.
+- **Mushaf imlâsındaki hazifler** (*yed'u*, *ed-dâî*, *tuğni*) bir dil verisi olarak kaydedildi; **buradan hiçbir anlam, sayı ya da harf hesabı çıkarılmadı.** STYLE'ın ebced/harf hesabı yasağı korundu.
 - **Fasıla birliğinden mucize iddiası çıkarılmadı;** fasıla uyumunun Arap şiirinde ve secide yaygın bir teknik olduğu açıkça belirtildi.
 - **Kendi okumalarım.** Şunlar bana aittir, nakil değildir ve bağlayıcı değildir: nakaratların beş ayrı yerleşiminden çıkarılan işlev farkı; Rahmân ile Kamer nakaratlarının karşılaştırılması ve "biri parmakla gösteriyor, öteki odayı tarıyor" okuması; sûrede *rasûl* kelimesinin hiç geçmemesinden ve *irsâl* fiilinin nesnelerinden çıkarılan sonuç; fasılanın kelime biçimlerini seçtiği tablosu ve "Kamer'de nakaratı görmek için lafza bakmak gerekir" okuması; ikinci ayetteki *sihr* ile otuz dördüncü ayetteki *sehar* arasındaki örtüşmenin kaydı (kök ortaklığı dil verisidir, bilinçli tercih **iddia edilmedi**); "kelimeyi sahibine iade etme" tekniğinin üç örneğinin tek başlık altında toplanması; üçüncü ayetteki kural ile otuz sekizinci ayetteki örnek arasındaki bağ; dördüncü ve dokuzuncu ayetlerdeki ز-ج-ر kökünün ters dönüşü; *nükür* ile *cerâd* arasındaki "benzemezlik / benzetme" işbölümü; Kâria'nın *ferâş*ı ile Kamer'in *cerâd*ı karşılaştırması ve "hafiflik / çokluk" ayrımı; *nüşûr* ile *münteşir* arasındaki kök örtüşmesinin kaydı; *asir* ile *yessernâ* karşıtlığı; Nûh'un *mağlûb*u ile onların *müntasır*ı arasındaki karşıtlık; iki sudan buluşmanın "ikilikten tekliğe" okuması; A'râf 7/40 ile 54/11 arasındaki kapı karşıtlığı; geminin adının verilmeyip malzemesine indirilmesi; Hâkka'nın *hamelnâküm*'ü ile Kamer'in *hamelnâhü*'sü arasındaki fark; boğulmanın hiç anılmaması; *fehel min müddekir*in üç ayrı kaynağa bağlanması (olay / metin / muhatabın kendisi); nakaratın arkasında biriken malzemenin arttığı okuması; Âd kıssasının nakaratla çerçevelenmesi; Semûd'da sorunun cevaptan önce gelmesinin işlevi; Lût'ta kipin emre dönmesinin bir hazırlık olması; VII. bâbın sûredeki dağılımı; *munkair* ile *hâviye*nin birleştirilmesi; *en-nâs* kelimesinin asimetriyi büyütmesi; üç itirazın "tür / sayı / seçim" olarak tasnifi; *beşer* kelimesinin seçiminden çıkarılan okuma; yirmi beş ile yirmi altıncı ayet arasındaki harf-i tarif nüktesi; *kısmetün*'ün masdar-haber okunuşundan çıkarılan sonuç; Semûd'un suçunun "sıranın kaldırılması" olarak tanımlanması; *teâtâ*nın nesnesinin söylenmemesinden çıkarılan okuma; ع-ق-ر kökünün "devamı kesmek" anlamının sûrede işlevsel olması; üç benzetmenin muhatabın geçim biçiminden alınması; kayadan ev yapan kavmin kuru çalıya benzetilmesindeki karşıtlık; *âle Lûtın* ile *âle Fir'avne* karşıtlığı; *seher* ile *bükra* arasındaki bir saatlik mesafe; kurtuluşun "nimet" ve karşılığın "şükür" diye adlandırılmasından çıkarılan sonuç ve Rahmân ile kurulan karşıtlık; üç "kezâlik neczî" formülünün tablosu; *temârî*nin "tartışmaya açarak etkisiz kılmak" olarak okunması; suç-ceza eşleşmesi (göz / göz); Fir'avn kıssasının neden en kısa olduğuna dair beş maddelik dizim gözlemi ve "liste kalemi" okuması; *azîz* ile *muktedir*in işbölümü; kırk üç ile elli ikinci ayetler arasındaki soru-cevap halkası; kırk dört ve kırk beşinci ayetlerdeki tekil-çoğul geçişinden çıkarılan "birliğin dağılması" okuması; *mess* ile *sekar*ın karşılaşması; ق-د-ر kökünün Kadr sûresindeki üç dallı kullanımı ile Kamer'deki iki kelimeye dağılmış kullanımının karşılaştırılması; sûredeki ölçü teması tablosu; göz kelimesinin beş ayrı işte kullanılması; Nahl 16/77 ile 54/50 arasındaki edat farkı; kırk dokuz ile ellinci ayetlerin "ölçü nesnededir, emirde değil" okuması; *eşyâ'* kelimesinin vasıf bağı kurması; ز-ب-ر ile س-ط-ر arasındaki "kalıcılık / düzen" işbölümü; *mak'ad* kelimesinin Kur'an'daki geçişlerinden çıkarılan süre okuması; *mak'adi sıdkın* kalıbının "vaadin gerçekliğini nitelemesi"; ك-ذ-ب ile ص-د-ق sayımından çıkarılan sonuç; iç halkalar tablosunun "ne yapıyor" sütunu; argümanın on beş adıma indirgenmesi; tekrar sayılarından çıkarılan iki gözlem; komşu sûrelerin son ayetleri karşılaştırması; ve **"Bugüne bakan yönü" bölümünün tamamı.**
 - **Rahmân, Hâkka, Kâria, Şems, Nûh, Mürselât ve Kadr bölümleriyle kurulan bağlar mushaf tertibine ve lafız ortaklığına dair gözlemlerdir; nüzul sırasına dair iddia değildir.**

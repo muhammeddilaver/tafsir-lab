@@ -1,7 +1,7 @@
 # Translation guide — Turkish → English
 
-Binding for every translator working on `tefsir/*.md` → `tefsir-en/*.md`.
-Read this together with `USLUP.md`: the source obeys those rules, and the
+Binding for every translator working on `tafsir/*.md` → `tafsir-en/*.md`.
+Read this together with `STYLE.md`: the source obeys those rules, and the
 translation must not break them.
 
 The goal is **publishable English prose**, not a gloss. A reader who knows no
@@ -17,13 +17,13 @@ These carry the site's linking machinery. Alter one and thousands of links break
 
 | Element | Rule |
 |---|---|
-| File name | Identical. `tefsir/056-vakia.md` → `tefsir-en/056-vakia.md` |
+| File name | Identical. `tafsir/056-vakia.md` → `tafsir-en/056-vakia.md` |
 | Ayah headings | `## 56/25-26 — <Arabic>` — numbers **and** Arabic verbatim |
 | Arabic text | Never translated, transliterated away, or re-typed. Copy exactly, including diacritics |
 | Root letters | `أ-ل-ف`, `ك-ت-ب` — copy exactly |
 | Ayah references | `9/122`, `(51/54)`, `2/196-203` — digits and slash unchanged |
 | File cross-references | `` `019-meryem.md` `` stays exactly, including the `.md` |
-| `USLUP.md` reference | Keep as `` `USLUP.md` `` — the site turns it into a link |
+| `STYLE.md` reference | Keep as `` `STYLE.md` `` — the site turns it into a link |
 | Tables | Same number of columns and rows, same order |
 | `---` rules, heading levels | Same |
 | Emphasis markers | `**bold**` and `*italic*` land on the equivalent English words |
@@ -114,7 +114,7 @@ right-hand column verbatim — never a synonym, never a paraphrase.
 | Tekrarlamıyorum | I do not repeat it here |
 | Bu tefsirde tercihim | My preference in this commentary |
 | Hüküm kurulmuyor / kurulmadı | No ruling is issued |
-| USLUP gereği | Per the method (`USLUP.md`) |
+| STYLE gereği | Per the method (`STYLE.md`) |
 | KURAL gereği | Per the rule |
 | …nakledilir | …is transmitted / it is reported that… |
 | Klasik kaynaklarda yaygın olarak nakledilir | It is widely reported in the classical sources |
@@ -260,7 +260,7 @@ a third language.
 on the two words sharing a root, and the English pair does not, say so — "English
 covers the two ends of this root with two unconnected words" is correct and
 usable; claiming an English etymology that does not exist is a fabrication and
-breaks `USLUP.md` outright. When no honest English recasting exists, keep the
+breaks `STYLE.md` outright. When no honest English recasting exists, keep the
 Turkish example and gloss it: *"in Turkish, the borrowed word X has come to
 mean Y"*.
 
@@ -270,7 +270,7 @@ Note every recasting in your final report.
 
 ## 6. Mechanics
 
-Write with `cat >> tefsir-en/NNN-name.md <<'MDEOF' … MDEOF` in chunks, in order,
+Write with `cat >> tafsir-en/NNN-name.md <<'MDEOF' … MDEOF` in chunks, in order,
 appending. Never rewrite a file you have already appended to.
 
 **Scratch files must carry your sūra number.** Several translators run at the
@@ -286,16 +286,16 @@ continue. Do not summarise a block because it is long.
 When finished with a file:
 
 ```bash
-python3 kontrol.py --dir tefsir-en <sûre no>   # must print "tam"
-python3 kontrol.py --dir tefsir-en atif
-python3 kontrol.py --dir tefsir-en ayet
-python3 kontrol.py kalin <sûre no>             # source: nested bold
-python3 kontrol.py --dir tefsir-en kalin <sûre no>
+python3 check.py --dir tafsir-en <sûre no>   # must print "tam"
+python3 check.py --dir tafsir-en atif
+python3 check.py --dir tafsir-en ayet
+python3 check.py kalin <sûre no>             # source: nested bold
+python3 check.py --dir tafsir-en kalin <sûre no>
 ```
 
 ### Nested bold — use the checker, do not hand-roll one
 
-`kontrol.py kalin` is the authority on nested bold. Do **not** write your own
+`check.py kalin` is the authority on nested bold. Do **not** write your own
 scan: counting `**` gives false positives on `**word**suffix`, and an
 open/close state machine gives false positives on `*a **b***`, which is a
 settled idiom in this corpus and renders correctly. The checker replicates
@@ -308,5 +308,5 @@ information, not a failure. A real failure names a file and a missing target.
 
 Then report: which sūra, line count, and anything you flagged.
 
-Do not touch `FIHRIST.md`, `README.md`, the `app/` directory, or any Turkish
+Do not touch `INDEX.md`, `README.md`, the `app/` directory, or any Turkish
 file. Do not run `npm run build`.

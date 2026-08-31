@@ -702,7 +702,7 @@ Bunu en başta belirtmek gerekiyor, çünkü sûrenin en kolay suistimal edilen 
 
 Ayet ne "zengin" diyor ne bir miktar veriyor. Tarif ettiği şey bir **davranış zinciridir**: toplamak, saymak, kalıcılık ummak, küçümsemek. Bu zincirin her halkası her gelir düzeyinde kurulabilir. Az malı olan biri de onu sayıp durabilir, ondan kalıcılık bekleyebilir ve başkalarını küçümseyebilir; çok malı olan biri de bunların hiçbirini yapmayabilir.
 
-Sûre bir sınıf tespiti değildir. USLUP'un kaydettiği ilke burada birebir geçerlidir: ayet **vasıf** tarif eder; kim o vasfı taşıyorsa ona dahildir.
+Sûre bir sınıf tespiti değildir. STYLE'ın kaydettiği ilke burada birebir geçerlidir: ayet **vasıf** tarif eder; kim o vasfı taşıyorsa ona dahildir.
 
 **İkincisi: sayının kolaylaşması.**
 

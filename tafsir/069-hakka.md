@@ -399,7 +399,7 @@ Kur'an'ın helâk anlatımlarında **süre vermesi** enderdir. Genellikle olay a
 
 İlk iki izah birbirini tamamlar ve aritmetik olarak sağlamdır. Bunları aktarıyorum; bir tercih dayatmıyorum.
 
-**Sayı üzerinden hesap yapılmaz.** USLUP'ta kayıtlı olduğu üzere, bu tefsirde sayı ve harf hesabı türü iddialar kullanılmaz. Yedi ve sekiz rakamlarından bir anlam çıkarmıyorum. Kaydettiğim tek şey şudur: bu sûre, komşularına göre **sayı bakımından yoğun**dur — yedi gece, sekiz gün (7), sekiz (17), yetmiş arşın (32). Bunu bir üslup özelliği olarak not ediyorum, bir işaret olarak değil.
+**Sayı üzerinden hesap yapılmaz.** STYLE'da kayıtlı olduğu üzere, bu tefsirde sayı ve harf hesabı türü iddialar kullanılmaz. Yedi ve sekiz rakamlarından bir anlam çıkarmıyorum. Kaydettiğim tek şey şudur: bu sûre, komşularına göre **sayı bakımından yoğun**dur — yedi gece, sekiz gün (7), sekiz (17), yetmiş arşın (32). Bunu bir üslup özelliği olarak not ediyorum, bir işaret olarak değil.
 
 **Sürenin ne yaptığı.** Asıl mesele sayı değil, sürenin var olmasıdır.
 
@@ -1996,7 +1996,7 @@ Buradaki yetmiş bir sınır değildir; devamındaki ayet bunu gösterir. Yani s
 
 Klasik müfessirlerin bir kısmı buradaki yetmişi de böyle okur; bir kısmı ise gerçek bir ölçü sayar. **Tercih dayatmıyorum.**
 
-**USLUP gereği bir kayıt:** Bu sayıdan bir hesap çıkarmıyorum. Sayı ve harf hesabı türü iddialar bu tefsirde kullanılmaz.
+**STYLE gereği bir kayıt:** Bu sayıdan bir hesap çıkarmıyorum. Sayı ve harf hesabı türü iddialar bu tefsirde kullanılmaz.
 
 **Ama ölçünün verilmiş olması kayda değer** ve şunu düşündürüyor — kendi okumam olarak kaydediyorum:
 
@@ -2844,7 +2844,7 @@ Ayet *"sizler yalanlıyorsunuz"* demiyor — bu, muhatabın tamamını suçlamak
 
 Etkisi şudur: muhatap kalabalığı bölünüyor, ama **kimin hangi tarafta olduğu söylenmiyor.**
 
-Ve bu, bu tefsirde birkaç kez kaydedilen ilkeyle uyumludur. Kâria bölümünde: *"sûre kimin hangi tarafta olduğunu söylemiyor. Ölçütü veriyor, listeyi vermiyor."* Ve USLUP'ta kayıtlı olan: ayetlerin tarif ettiği şey **vasıflardır**.
+Ve bu, bu tefsirde birkaç kez kaydedilen ilkeyle uyumludur. Kâria bölümünde: *"sûre kimin hangi tarafta olduğunu söylemiyor. Ölçütü veriyor, listeyi vermiyor."* Ve STYLE'da kayıtlı olan: ayetlerin tarif ettiği şey **vasıflardır**.
 
 **Ve bir şey daha var.** Ayet *"biliyoruz"* diyor. Yani bilgi var ama **ilan edilmiyor.**
 
@@ -3225,13 +3225,13 @@ Ve bu, ayetleri başkalarını ölçmek için kullanmayı engelliyor. Mâûn bö
 
 ### Bu bölümde kesin konuşulmayan yerler
 
-USLUP gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
+STYLE gereği, metin boyunca bilerek kesin dil kullanılmayan yerleri açıkça listeliyorum.
 
 - **ٱلْحَآقَّة adının hangi anlamda olduğu** (gerçekleşmesi kesin / işlerin gerçek çıktığı gün / davayı kazanan) ihtilaflıdır; üç izah tablo halinde verildi ve **tercih yapılmadı.**
 - **ٱلطَّاغِيَة'nin ne olduğu** (kendi taşkınlıkları / haddi aşan ses-sarsıntı / taşkın kişi) ihtilaflıdır; görüşler verildi, birinciye yatkınlık gerekçesiyle belirtildi ve **bağlayıcı olmadığı kaydedildi.**
 - **صَرْصَر'ın anlamı** (uğultulu / dondurucu) konusunda iki izah verildi; birçok müfessirin ikisini birleştirdiği kaydedildi, tercih dayatılmadı.
 - **حُسُومًا'nın gramerdeki konumu** (çoğul sıfat / mef'ûl-i mutlak / hâl) hakkında üç çözüm verildi; ikisinin tek görüntüde birleştiği yorumu **bana aittir.**
-- **Yedi gece ve sekiz gün sayımı** hakkında üç izah verildi, tercih dayatılmadı. **Sayılardan hiçbir hesap çıkarılmadı**; USLUP'un sayı-harf hesabı yasağı korundu. Aynı şekilde **17. ayetteki "sekiz"** ve **32. ayetteki "yetmiş"** için de.
+- **Yedi gece ve sekiz gün sayımı** hakkında üç izah verildi, tercih dayatılmadı. **Sayılardan hiçbir hesap çıkarılmadı**; STYLE'ın sayı-harf hesabı yasağı korundu. Aynı şekilde **17. ayetteki "sekiz"** ve **32. ayetteki "yetmiş"** için de.
 - **17. ayetteki ثَمَٰنِيَة'nin sayılanı** Kur'an'da söylenmemiştir. Gramer verisi (ters cinsiyet uyumu, ma'dûdun müzekker olması) kaydedildi; **ma'dûdun ne olduğu kesinleştirilmedi** ve rivayet literatüründeki ayrıntılar **aktarılmadı.**
 - **وَمَن قَبْلَهُ'daki kıraat farkı** (*kablehû* / *kıbelehû*) nakledilmiştir; **hangi okuyuşun hangi imama ait olduğu kesin verilemediği için isim yazılmadı.** Aynı kayıt **18. ayetteki تَخْفَىٰ / يَخْفَىٰ** farkı için de geçerlidir.
 - **ٱلْمُؤْتَفِكَٰت'ın hangi şehirler olduğu** konusunda çoğunluğun görüşü (Lût kavminin şehirleri) aktarıldı; **şehir adları, sayıları ve yerleri verilmedi**, çünkü Kur'an vermiyor.

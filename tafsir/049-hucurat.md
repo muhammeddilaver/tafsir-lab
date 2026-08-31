@@ -786,7 +786,7 @@ Ayeti "haber almayın, konuşmayın, karışmayın" diye okumak metne aykırıd�
 
 **Beş. Ve bu tefsirin kendi kaydı.**
 
-Bu ayetin bugüne bakan yönünü yazarken, ayetin belirli bir taraf hakkında, belirli bir olay hakkında ya da güncel bir tartışma hakkında kullanılmasından kaçındım. Sebebi USLUP'un kuralıdır ve ayetin kendisiyle de uyumludur: **ayet iki tarafın da adını vermemiştir.** Onu bir tarafın eline silah olarak vermek, ayetin ilk yaptığı şeyi bozmak olur.
+Bu ayetin bugüne bakan yönünü yazarken, ayetin belirli bir taraf hakkında, belirli bir olay hakkında ya da güncel bir tartışma hakkında kullanılmasından kaçındım. Sebebi STYLE'ın kuralıdır ve ayetin kendisiyle de uyumludur: **ayet iki tarafın da adını vermemiştir.** Onu bir tarafın eline silah olarak vermek, ayetin ilk yaptığı şeyi bozmak olur.
 
 ---
 
@@ -1163,7 +1163,7 @@ Bunu bir izah olarak aktarıyorum; kesin bir hüküm olarak değil.
 
 ### Bugüne bakan yönü
 
-Ayetin bugüne bakan yönünü yazarken güncel hiçbir çatışmaya girmiyorum; bu, USLUP'un açık kuralıdır. Kaydedilebilecek olan, ayetin **yapısı**dır ve yapı geneldir:
+Ayetin bugüne bakan yönünü yazarken güncel hiçbir çatışmaya girmiyorum; bu, STYLE'ın açık kuralıdır. Kaydedilebilecek olan, ayetin **yapısı**dır ve yapı geneldir:
 
 **Bir. Üçüncü tarafa yüklenen sorumluluk.** Ayet, çatışan iki tarafa değil, dışarıdakilere sesleniyor. Bir anlaşmazlıkta kenarda durmak, ayetin dizisinde bir seçenek olarak yer almıyor.
 
@@ -1971,7 +1971,7 @@ Bu bağı kendi okumam olarak kaydediyorum; iki ayetin aynı sûrede ve iki ayet
 
 ### Bugüne bakan yönü
 
-Bu ayetin bugüne bakan yönünü yazarken bir kayıt gerekiyor ve baştan yazıyorum: **bu metinde hiçbir etnik, millî ya da dinî grup hakkında toptan hüküm kurulmaz ve güncel hiçbir siyasî tartışmada taraf tutulmaz.** Bu, USLUP'un açık kuralıdır ve ayetin kendi mantığıyla da örtüşür — çünkü ayet tam olarak, bir grubun bütünü hakkında hüküm kurmayı imkânsız kılan bir ölçü koyuyor.
+Bu ayetin bugüne bakan yönünü yazarken bir kayıt gerekiyor ve baştan yazıyorum: **bu metinde hiçbir etnik, millî ya da dinî grup hakkında toptan hüküm kurulmaz ve güncel hiçbir siyasî tartışmada taraf tutulmaz.** Bu, STYLE'ın açık kuralıdır ve ayetin kendi mantığıyla da örtüşür — çünkü ayet tam olarak, bir grubun bütünü hakkında hüküm kurmayı imkânsız kılan bir ölçü koyuyor.
 
 Kaydedilebilecek olan, ayetin **yapısı**dır:
 

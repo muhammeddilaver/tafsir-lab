@@ -1326,7 +1326,7 @@ Bir şeyi doğru bildiğine inanan kişinin en sık düştüğü yer, karşı ta
 
 **Kaydedilmesi gereken bir nokta var ve o iki okumada da ortaktır:** cümle karşı tarafı **susturmuyor**, tartışmayı **kapatıyor**. Bunlar farklı şeylerdir. Susturmak, karşı tarafın konuşmasını engellemektir; kapatmak, konuşmanın bir sonuca varmayacağını kabul etmektir.
 
-**Ve bir fıkhî kayıt gerekiyor:** klasik kaynaklarda bu ayet için "mütâreke ayeti" (karşılıklı bırakışma) nitelemesi yapılmış, bir kısım müellif bunun sonradan gelen hükümlerle neshedildiğini söylemiştir. **USLUP gereği bu tefsirde fıkhî hüküm verilmiyor; nesih iddiasına da taraf olunmuyor.** Kaydettiğim, iddianın varlığıdır.
+**Ve bir fıkhî kayıt gerekiyor:** klasik kaynaklarda bu ayet için "mütâreke ayeti" (karşılıklı bırakışma) nitelemesi yapılmış, bir kısım müellif bunun sonradan gelen hükümlerle neshedildiğini söylemiştir. **STYLE gereği bu tefsirde fıkhî hüküm verilmiyor; nesih iddiasına da taraf olunmuyor.** Kaydettiğim, iddianın varlığıdır.
 
 ### `002-bakara.md` 2/139 ile örtüşme
 
@@ -1837,7 +1837,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 **Bu ayet, Kur'an'daki en çok tartışılmış ifadelerden birini taşıyor. İhtilaf büyüktür ve gizlenmeden, tarafsızca verilecek.**
 
-**Ve önce bir usul kaydı düşüyorum, çünkü konu buna muhtaç:** aşağıda üç okuma tabloya konacak. **Bu tefsirde bunlardan biri tercih edilmiyor, hiçbirine üstünlük atfedilmiyor, ve hiçbir gruba yönelik ima kurulmuyor.** Ayet tarih boyunca farklı çevrelerin farklı okumalarına konu olmuştur; **USLUP gereği mezhepler arası tartışmaya girilmez.** Burada yapılan şey, klasik tefsir kaynaklarında nakledilen okumaların ve dayanaklarının dökümüdür.
+**Ve önce bir usul kaydı düşüyorum, çünkü konu buna muhtaç:** aşağıda üç okuma tabloya konacak. **Bu tefsirde bunlardan biri tercih edilmiyor, hiçbirine üstünlük atfedilmiyor, ve hiçbir gruba yönelik ima kurulmuyor.** Ayet tarih boyunca farklı çevrelerin farklı okumalarına konu olmuştur; **STYLE gereği mezhepler arası tartışmaya girilmez.** Burada yapılan şey, klasik tefsir kaynaklarında nakledilen okumaların ve dayanaklarının dökümüdür.
 
 ### مَوَدَّة — kök و-د-د
 
@@ -2314,7 +2314,7 @@ Bu, bir ahlak kuralı olarak değil, bir **işleyiş** olarak söyleniyor. Ve ke
 | 1 | Zamir ikisine birden döner; **göklerde de canlılar vardır** |
 | 2 | Zamir "ikisi" dese de kastedilen yerdir; Arapçada iki şeyden birine ait olan **ikisine birden** nispet edilebilir (*tağlîb*) |
 
-**İki okuma da nakledilir; tercih dayatmıyorum.** **Ve buradan bir "fennî mucize" çıkarılmıyor** — USLUP gereği bu tefsirde ayete modern bir bilgi zorla giydirilmez. Kaydedilen şey lafzın ne dediği ve müfessirlerin ne anladığıdır.
+**İki okuma da nakledilir; tercih dayatmıyorum.** **Ve buradan bir "fennî mucize" çıkarılmıyor** — STYLE gereği bu tefsirde ayete modern bir bilgi zorla giydirilmez. Kaydedilen şey lafzın ne dediği ve müfessirlerin ne anladığıdır.
 
 ### وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
@@ -2873,7 +2873,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Kendi okumam olarak kaydediyorum:** üç geçiş, kelimenin üç ayrı ölçekte çalıştığını gösteriyor — aile, önderlik, topluluk. **Ve hiçbirinde bir kurum, bir usul ya da bir yöntem tarif edilmiyor.**
 
-**Bu son nokta önemlidir ve açıkça yazılmalıdır:** **ayet bir yönetim biçimi tarif etmiyor.** Ne danışılacak kişilerin nasıl belirleneceği, ne sonucun bağlayıcı olup olmadığı, ne de bir usul söyleniyor. **Bunlar ayetin söylemediği şeylerdir ve söylenmemiş olanı söylenmiş göstermek, USLUP gereği bu tefsirde yapılmıyor.**
+**Bu son nokta önemlidir ve açıkça yazılmalıdır:** **ayet bir yönetim biçimi tarif etmiyor.** Ne danışılacak kişilerin nasıl belirleneceği, ne sonucun bağlayıcı olup olmadığı, ne de bir usul söyleniyor. **Bunlar ayetin söylemediği şeylerdir ve söylenmemiş olanı söylenmiş göstermek, STYLE gereği bu tefsirde yapılmıyor.**
 
 **Sûrenin Mekkî oluşu da bunu destekler:** nüzul bölümünde kaydedildiği gibi, kelime henüz bir devleti, ordusu, hazinesi olmayan bir topluluğun vasfı olarak geliyor.
 
@@ -3140,7 +3140,7 @@ Ayet, kişinin **kendi** hâlini muhasebe etmesi için bir kapı açıyor. Ama b
 
 **Ve bir dizim kaydı: fiilin nesnesi *en-nâs* — belirli, genel.** "Müminlere zulmedenler" denmemiş; **"insanlara zulmedenler"** denmiş.
 
-**Bunu kaydediyorum, çünkü USLUP'ta yazılı olan ilkeyle doğrudan uyumludur:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."*
+**Bunu kaydediyorum, çünkü STYLE'da yazılı olan ilkeyle doğrudan uyumludur:** *"Bir etnik veya dinî grup hakkında toptan hüküm kurulmaz; ayetin tarif ettiği vasıflardır, kim o vasfı taşırsa ona dahildir."*
 
 **Ayet burada tam olarak bunu yapıyor: hüküm bir gruba değil, bir fiile bağlanmış.** Ve mağdurun kimliği de belirtilmemiş — *en-nâs*, herkes.
 
@@ -3484,7 +3484,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 **Ve sûrenin kendisi bunu gösteriyor:** otuz altıncıdan otuz dokuzuncuya kadar süren liste, aynı insanın başka bir hâlini tarif ediyordu. **Aynı sûre içinde iki tarif bulunması, ikincisinin kayıtsız bir hüküm olmadığını gösterir.**
 
-**Bu, USLUP'ta yazılı ilkeyle uyumludur: ayetin tarif ettiği vasıflardır.**
+**Bu, STYLE'da yazılı ilkeyle uyumludur: ayetin tarif ettiği vasıflardır.**
 
 ---
 
@@ -4021,7 +4021,7 @@ Sûre bir ayrılık sûresi olarak açıldı: insanlar bölünüyor, tartışıy
 
 ### Bu tefsirde tercih yapılmayan ihtilaflar
 
-**USLUP gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
+**STYLE gereği kaydediyorum: aşağıdaki yerlerde iki ya da daha fazla okuma nakledildi ve hiçbirinde tercih dayatılmadı.**
 
 | Ayet | İhtilaf |
 |---|---|

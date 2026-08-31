@@ -217,7 +217,7 @@ The root **ه-ز-ز** — **occurring here for the first time in the series**: *
 
 "**That is Jesus son of Mary — the word of truth about which they are in doubt.** It is not for God to take a child; He is far above that… **Warn them of the day of regret, when the matter will be decided while they are in heedlessness.**"
 
-**A note per the method (`USLUP.md`):** these verses issue no blanket ruling about a community. **What is at issue is a *claim*, and the verse answers the claim itself.** In this commentary no general ruling is issued about any religious group; what the verse describes is an attitude.
+**A note per the method (`STYLE.md`):** these verses issue no blanket ruling about a community. **What is at issue is a *claim*, and the verse answers the claim itself.** In this commentary no general ruling is issued about any religious group; what the verse describes is an attitude.
 
 **فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ** — "**the parties fell into disagreement among themselves.**"
 

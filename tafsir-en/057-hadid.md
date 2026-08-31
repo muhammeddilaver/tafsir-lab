@@ -342,7 +342,7 @@ The word **يَوْم** in Arabic does not mean only "a day of twenty-four hours
 
 That is, *yawm* is a unit whose measure changes with the context. It is also plain that "day" cannot be used in its present-day sense when the sun has not yet been created.
 
-The position taken in this commentary is this: **how long the six "days" lasted has not been reported and is not known.** To close this indefiniteness and try to match it one-to-one with the periods of modern cosmology or geology is the forced scientific reading that `USLUP.md` forbids. The only thing that must be recorded is this: the verse tells of the creation as a **process** — not instantaneous but in stages.
+The position taken in this commentary is this: **how long the six "days" lasted has not been reported and is not known.** To close this indefiniteness and try to match it one-to-one with the periods of modern cosmology or geology is the forced scientific reading that `STYLE.md` forbids. The only thing that must be recorded is this: the verse tells of the creation as a **process** — not instantaneous but in stages.
 
 And this does not conflict with the expression *kun fa-yakūn* at al-Baqara 2/117. It was recorded there: *kun fa-yakūn* says whose the command is, while "six days" says how the process works. Two separate answers to two separate questions.
 
@@ -362,7 +362,7 @@ One of the most debated expressions in the Qurʾān. It occurs in seven places.
 | **Taʾwīl** | *Istiwāʾ* means "to take sovereignty in hand, to begin to govern the affair" | Al-Shūrā 42/11 (*"there is nothing like Him"*); the use of *istawā ʿalā* in Arabic in the sense of "he gained mastery" |
 | **Acceptance of the literal sense** | The wording is taken according to its outward sense, but without falling into likening | Adherence to the revealed text |
 
-I take no side in this disagreement. Per the method (`USLUP.md`) no partisanship is exercised in theological disputes, and this is one of the oldest theological divisions in exegesis.
+I take no side in this disagreement. Per the method (`STYLE.md`) no partisanship is exercised in theological disputes, and this is one of the oldest theological divisions in exegesis.
 
 What must be recorded is this:
 
@@ -1471,7 +1471,7 @@ Whom had the sūra addressed up to this point? Those who do not believe (8), tho
 
 And what is said is not good news but a **reproach.**
 
-This is one of the most direct warnings the Qurʾān directs at its own community. And exactly here the measure `USLUP.md` sets down begins to operate: what the text describes is an **attribute**, and here that attribute is sought not in a group outside but in **those inside.**
+This is one of the most direct warnings the Qurʾān directs at its own community. And exactly here the measure `STYLE.md` sets down begins to operate: what the text describes is an **attribute**, and here that attribute is sought not in a group outside but in **those inside.**
 
 It is reported that Ibn Masʿūd said that only a few years lay between their becoming Muslims and the coming down of this verse, and that he mentioned this as a reproach. I do not quote the wording of the report exactly, and since I cannot state with certainty in which hadith collection it stands I ascribe it to no source; but the idea the report carries is important for understanding the verse: **however short the period, the cooling can begin.**
 
@@ -1575,7 +1575,7 @@ The second part sets up a **comparison.** And the direction of the comparison is
 
 This is the heaviest side of the verse. For it implies: **the same process can happen to you too.** The difference between "them" and "you" is not a difference of kind; it is a **difference of time.** They began earlier; your term is still short.
 
-The measure `USLUP.md` sets down operates here exactly and must be stated plainly: **the verse passes no wholesale verdict on a community.** What it sets up is the description of a mechanism, and on whom that mechanism works is stated plainly — the one addressed is not the side being compared to, but the **persons** the comparison is made about.
+The measure `STYLE.md` sets down operates here exactly and must be stated plainly: **the verse passes no wholesale verdict on a community.** What it sets up is the description of a mechanism, and on whom that mechanism works is stated plainly — the one addressed is not the side being compared to, but the **persons** the comparison is made about.
 
 Indeed the verse enters this note within itself: **وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ** — "**many** of them are transgressors." It says *many*, not *all*. The same note will be repeated in verses 26 and 27 of the sūra; and in verse 27 it will say *"We gave those among them who believed their reward."*
 
@@ -2541,7 +2541,7 @@ And note: in this verse too the word **قدر** (measure) occurs — just as *m�
 
 **The third problem: a problem of method.**
 
-The principle recorded in `USLUP.md` operates here exactly: **a verse is not to be forcibly dressed in a modern piece of knowledge.**
+The principle recorded in `STYLE.md` operates here exactly: **a verse is not to be forcibly dressed in a modern piece of knowledge.**
 
 The methodological problem with this claim is: if the verb *anzalnā* shows that iron came from space, the same verb must show that the garment and the livestock came from space as well. The same verb, the same form, the same structure. For a word to be read physically in one place and figuratively in another there must be a ground from the context; here there is no such ground — on the contrary, the context of the verse does not support a physical reading.
 
@@ -2770,7 +2770,7 @@ But **both sides are there.** And this is the most important note of the verse: 
 
 The word **كثير** is critical here. It does not say "all", it says **"many".** The same note was there in verse 16 and will come once more in verse 27.
 
-**The sūra repeats this note three times** (16, 26, 27), and this repetition is the in-text counterpart of the principle set down in `USLUP.md`: **no wholesale verdict is passed on a religious group; what the verse describes are attributes.**
+**The sūra repeats this note three times** (16, 26, 27), and this repetition is the in-text counterpart of the principle set down in `STYLE.md`: **no wholesale verdict is passed on a religious group; what the verse describes are attributes.**
 
 The text does this itself — three times, with the same word.
 
@@ -2889,7 +2889,7 @@ That is, the sūra makes the same diagnosis twice: **the initial state is not ma
 
 ### A balanced reading: what the verse says and what it does not
 
-Care is needed in this matter, and the measure `USLUP.md` sets down is especially important here.
+Care is needed in this matter, and the measure `STYLE.md` sets down is especially important here.
 
 **What the verse says:**
 
@@ -3290,7 +3290,7 @@ At several points across the text a decisive tone was deliberately not used; the
 - Two explanations were given for the expression ***li-yaʿlama'llāh***; no preference was imposed.
 - On the ***iʿrāb*** of 57/27 two main readings, and two readings for the exception *illā*, were given in a table. The first reading was taken as the basis, and it was recorded that **this is a preference and is not binding.**
 - **Since what monasticism is (its scope) is not defined in the text, it was not defined here**; it was stated that different descriptions are found in the classical commentaries.
-- **In the discussion of monasticism no wholesale verdict was passed on a religious group.** The verse's own notes (*"many"*, *"We gave those among them who believed their reward"*) were emphasised, and it was shown that al-Māʾida 5/82 uses the same word in a favourable context. The distinction between attribute and name in `USLUP.md` was maintained.
+- **In the discussion of monasticism no wholesale verdict was passed on a religious group.** The verse's own notes (*"many"*, *"We gave those among them who believed their reward"*) were emphasised, and it was shown that al-Māʾida 5/82 uses the same word in a favourable context. The distinction between attribute and name in `STYLE.md` was maintained.
 - **Who is addressed in 57/28** (the People of the Book / the Muslims) is disputed; the two readings were given and no preference was imposed.
 - Concerning ***kiflayn***, the hadith about those who receive a reward twice was mentioned, but **since its wording and source cannot be given with certainty no detail was written and it was not made a ground of the commentary.**
 - On **whether the *lā* in 57/29 is redundant** three readings were given; the first was taken as the basis and it was recorded that **the preference is not binding.**

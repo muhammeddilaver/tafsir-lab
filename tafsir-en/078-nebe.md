@@ -536,7 +536,7 @@ I offer this as a reading; I do not claim it is what the verse intends. But both
 
 A literature has grown up in the modern period around this verse — and around the next: the earth's "rocking" like a cradle, plate movements, and connections of that kind.
 
-**This commentary does not go down that road** and the ground for that is recorded in `USLUP.md`. The reason is this: the verse is not giving a piece of geology; it is reminding its addressee of **something he already knows.** For the argument to work, the addressee must be able to verify it. What a seventh-century Meccan could verify is that the ground he lives on is liveable — not plate movements.
+**This commentary does not go down that road** and the ground for that is recorded in `STYLE.md`. The reason is this: the verse is not giving a piece of geology; it is reminding its addressee of **something he already knows.** For the argument to work, the addressee must be able to verify it. What a seventh-century Meccan could verify is that the ground he lives on is liveable — not plate movements.
 
 Dressing a verse in modern knowledge does not strengthen the argument; it **changes its addressee.**
 
@@ -584,7 +584,7 @@ The data this reading rests on are in the text: the three occurrences of the wor
 
 ### "The mountains are pegs" — how should it be read?
 
-This expression is one of the Qurʾānic expressions most strained in the modern period. **The rule recorded in `USLUP.md` will be applied here:** a verse is not forcibly dressed in modern knowledge.
+This expression is one of the Qurʾānic expressions most strained in the modern period. **The rule recorded in `STYLE.md` will be applied here:** a verse is not forcibly dressed in modern knowledge.
 
 **First let us see what the verse says.** The verse says nothing about the **shape** of mountains. It says nothing about their structure, their depth, their formation. The only thing it says is a **function**: mountains do for the earth what a peg does for a tent.
 
@@ -879,7 +879,7 @@ In Arabic a *sirāj* is an instrument that is **kindled**: it burns, it is consu
 
 That the sun burns and the moon does not is something known to the naked eye. One cannot look at the sun; one can look at the moon. The sun gives heat; the moon does not. A seventh-century Meccan knew this, and Arabic's having two separate words amounts to no more than that observation being recorded in the language.
 
-The fit here, that is, is **the apt use of words** — which does say something about the quality of a text. But to say "the Qurʾān announced that the sun burns by nuclear fusion" is to make the verse say what it does not say, and it is forbidden in `USLUP.md`.
+The fit here, that is, is **the apt use of words** — which does say something about the quality of a text. But to say "the Qurʾān announced that the sun burns by nuclear fusion" is to make the verse say what it does not say, and it is forbidden in `STYLE.md`.
 
 **وَهَّاج — Root: و-ه-ج.** The blazing of a flame, giving a hot light. **وَهَج** — the heat and light of a flame together.
 
@@ -1333,7 +1333,7 @@ I record this as my own reading: what the word conveys is Hell's **having been p
 
 In summary the finding there was: the concrete sense of the root is **water overflowing its bed**; transgression is a being's **crossing of its own limit**; and being a transgressor is not to possess something bad but to carry something good past its limit.
 
-**What is to be added here is this:** the verse does not say "for the unbelievers", it says **"for the transgressors"**. This is the counterpart in the text of the principle recorded in `USLUP.md`: **what the verses describe are attributes.**
+**What is to be added here is this:** the verse does not say "for the unbelievers", it says **"for the transgressors"**. This is the counterpart in the text of the principle recorded in `STYLE.md`: **what the verses describe are attributes.**
 
 And the next sūra will use this attribute twice more:
 
@@ -1409,7 +1409,7 @@ The views:
 
 The word here is **أَبَدًا** and it means "for ever".
 
-**In this commentary no side is taken in this dispute**, and the ground for that is recorded in `USLUP.md`: this is a matter of theology, and each of the parties rests on different verses of the Qurʾān. Moreover this is not a matter this sūra can settle — the sūra states a term; it does not establish a ruling.
+**In this commentary no side is taken in this dispute**, and the ground for that is recorded in `STYLE.md`: this is a matter of theology, and each of the parties rests on different verses of the Qurʾān. Moreover this is not a matter this sūra can settle — the sūra states a term; it does not establish a ruling.
 
 What can be recorded is this: **the verse states the length of the term; it does not state its end or its endlessness.** The conclusions loaded onto the word come from outside the word.
 
@@ -1800,7 +1800,7 @@ The two words are exact opposites and the opposition stands in the logic of the 
 | Relation to the limit | Crosses the limit | Guards the limit |
 | Direction of movement | Overflowing outward | Drawing inward |
 
-**The two groups are named not "believing/unbelieving" but "guarding their limit / crossing it".** This is an instance in the text of the principle recorded in `USLUP.md`: the verses describe attributes.
+**The two groups are named not "believing/unbelieving" but "guarding their limit / crossing it".** This is an instance in the text of the principle recorded in `STYLE.md`: the verses describe attributes.
 
 ### مَفَاز — triumph
 

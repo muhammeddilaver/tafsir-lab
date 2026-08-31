@@ -372,7 +372,7 @@ In al-Bayyina the category was transferred to a text. **Could the reverse be the
 | **The garment as showing its owner's state** | In Arabic the expression "his garment is clean" is used of the cleanness of a person's character; "the hem of his robe is dirty" for the reverse | This idiomatic use is recorded in Arabic, and English has the same kind of idiom ("his hands are clean", "his skirts are clear") | It is not certain that the idiom was what this verse meant in that period |
 | **Purification from shirk** | The garment is the beliefs and attachments a person carries upon himself | A link is set up with the next verse (*al-rujza fa'hjur*) | If the next verse is already saying this, this verse becomes a repetition |
 
-**All of these occur in the classical sources.** I impose no preference, and this is what the method (`USLUP.md`) requires — because the text does not make the distinction.
+**All of these occur in the classical sources.** I impose no preference, and this is what the method (`STYLE.md`) requires — because the text does not make the distinction.
 
 **What can be said from the text itself.** Three observations:
 
@@ -803,7 +803,7 @@ The great majority of the exegetical sources transmit verses 11-25 concerning **
 
 **Second — the text gives no name.** The sūra recounts this person over fifteen verses and **does not mention his name even once.** The same finding was made in `080-abese.md`: *"the sūra itself gives no name at all."* And the note added there holds here as well: the possibility that the names are answers supplied afterwards must not be lost sight of.
 
-**Third — and most important of all: the withholding of the name is part of how the verse works.** As recorded in the method (`USLUP.md`): what the verse describes are **attributes**; whoever carries that attribute is included in it. The text does not condemn a person; it describes a **sequence of behaviour**. And that the sequence is — as will be seen in verses 18-25 — too general to be confined to any one person is plain from the sūra's own language.
+**Third — and most important of all: the withholding of the name is part of how the verse works.** As recorded in the method (`STYLE.md`): what the verse describes are **attributes**; whoever carries that attribute is included in it. The text does not condemn a person; it describes a **sequence of behaviour**. And that the sequence is — as will be seen in verses 18-25 — too general to be confined to any one person is plain from the sūra's own language.
 
 I therefore do not reject the report, but I do not tie the exegesis to it.
 
@@ -1752,11 +1752,11 @@ And the root-analysis in `002-bakara.md` completes this weave: the same word nam
 
 **And the verse does not say what the nineteen are the number of.** What they are will be explained in the next verse: angels.
 
-### A limit — per the method (`USLUP.md`)
+### A limit — per the method (`STYLE.md`)
 
 **Claims resting on numerical and letter reckoning have been advanced about this number throughout history, and especially in the recent period.**
 
-**By the plain rule of the method (`USLUP.md`) I enter into none of these claims:** *"Number and letter reckoning, and claims of the abjad kind, are not used."*
+**By the plain rule of the method (`STYLE.md`) I enter into none of these claims:** *"Number and letter reckoning, and claims of the abjad kind, are not used."*
 
 The ground for this is particularly strong here, and it comes out of the verse itself. **For the next verse says by itself what this number is for** — and what it says does not present the number as a riddle to be solved.
 
@@ -1916,7 +1916,7 @@ A number was given; and immediately afterwards it is stated that knowledge in th
 
 **That is, the verse itself takes the number it has given out of being a source of information.** The number has been given, but it has not been given as a ground on which to build.
 
-This is the place where the limit set by the method (`USLUP.md`) is supported by the verse itself.
+This is the place where the limit set by the method (`STYLE.md`) is supported by the verse itself.
 
 ### وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
@@ -3058,7 +3058,7 @@ And the sentence is very plain: *"None knows the hosts of your Lord but He."*
 
 When a number is given, two reactions are possible: to take it as a record, or to turn it into material for reckoning. **The verse itself closes off the second.**
 
-And the rule of method recorded in `073-muzzemmil.md` finds here the text's own support: the ban of the method (`USLUP.md`) on number and letter reckoning is not a limit imposed from outside; it is a rule that coincides with the limit this verse itself sets.
+And the rule of method recorded in `073-muzzemmil.md` finds here the text's own support: the ban of the method (`STYLE.md`) on number and letter reckoning is not a limit imposed from outside; it is a rule that coincides with the limit this verse itself sets.
 
 ### Sixth: the four grounds coming from their own mouths
 
@@ -3137,7 +3137,7 @@ This says something about the text's own tone, and it is an observable structure
 - That the opening words of the two sūras have undergone the same phonetic event (assimilation) was recorded as an observation.
 - The conclusion drawn at 74/2 from the leaving of the verb *andhir* without an object ("the command remains without limit") is my own inference. The parallel with *iqraʾ* in `096-alak.md` was set up as an observation.
 - The weave set up between *kabbir* at 74/3 and *istakbara* at 74/23 stands in the text; **it was not claimed to be a deliberate design.** **No juristic ruling was issued** in the matter of the *takbīrat al-iḥrām*.
-- **The five views on 74/4 ("purify your garments") were given in a table and not one of them was preferred.** It was stated that this is what the method (`USLUP.md`) requires. The observation "the two do not exclude one another" was marked as my own reading. It was also recorded that most of the classical commentaries do not settle on a single sense here.
+- **The five views on 74/4 ("purify your garments") were given in a table and not one of them was preferred.** It was stated that this is what the method (`STYLE.md`) requires. The observation "the two do not exclude one another" was marked as my own reading. It was also recorded that most of the classical commentaries do not settle on a single sense here.
 - **The variant reading ٱلرُّجْز / ٱلرِّجْز at 74/5 was transmitted; no list was given as to which reading belongs to which imām.** The reading in the widespread printed muṣḥaf (the transmission of Ḥafṣ) was stated. The four views on what is to be forsaken were given in a table, and no preference was imposed. The kinship between *rijz* and *rijs* was presented as a **possibility**.
 - **Four readings were given in a table for *lā tamnun tastakthir* at 74/6, and no preference was imposed.** The reading that joins three of them ("the turning of a kindness into a debt owed is forbidden") was marked as my own reading. The link set up with *ghayru mamnūn* is an observation; no reference between the verses was claimed.
 - The comparison set up between the *li* at 74/7 and the *ʿalā* at al-Muzzammil 73/10 is my own reading; the existence of the difference of particle is beyond dispute.
@@ -3166,7 +3166,7 @@ This says something about the text's own tone, and it is an observable structure
 - The observation that the accusations of "sorcery" and "the word of a human being" contradict one another is my own reading.
 - Four explanations were given for the difference between the two verbs at 74/28; no preference was imposed, and it was stated that the fourth is not a view but an observation.
 - **The two senses of the word ٱلْبَشَر at 74/29 (human beings / skins) were given in a table and no preference was imposed.** The joining of the two as the two ends of a single root is my own reading; the linguistic datum on which it rests (that the centre of the **ب-ش-ر** root is the skin) was rested on `002-bakara.md` 2/25. **No claim of *tahakkum* (mockery) was made**, and it was separately stated that the technique in `083-mutaffifin.md` does not hold here.
-- **No numerical, letter-reckoning or abjad-type claim whatever was entered into regarding the number nineteen at 74/30.** It was stated that this is a rule of the method (`USLUP.md`), and that it is moreover supported by the text itself through the sentence of 74/31, *"None knows the hosts of your Lord but He."* The three views on what the number counts were given in a table, and no preference was imposed.
+- **No numerical, letter-reckoning or abjad-type claim whatever was entered into regarding the number nineteen at 74/30.** It was stated that this is a rule of the method (`STYLE.md`), and that it is moreover supported by the text itself through the sentence of 74/31, *"None knows the hosts of your Lord but He."* The three views on what the number counts were given in a table, and no preference was imposed.
 - At 74/31 the classical explanation of why the People of the Book will "know with certainty" was transmitted, but **it was stated openly that no definite determination could be made as to in what text and in what form such information is to be found**, and no claim was advanced on the matter.
 - **No side was taken on the sentence *yuḍillu / yahdī* at 74/31;** the stance and caveat of `002-bakara.md` 2/7 and `081-tekvir.md` 81/29 were kept exactly. The reading drawn from the particle *kadhālika* was marked as my own inference and **was not put forward as a doctrinal position.**
 - **It was stated that there is a variant reading in the *idh* / *idhā* difference at 74/33, and no conclusion was drawn from the difference of particle.** No list was given as to which reading belongs to which imām.

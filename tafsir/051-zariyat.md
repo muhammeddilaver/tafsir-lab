@@ -365,7 +365,7 @@ Bu ayet, modern dinî yazında bir "bilimsel mucize" iddiasına konu edilir: *hu
 
 **Üç.** Ayetin kendi işi başka. Bu bir yemindir ve yeminin cevabı bir sonraki ayettedir: *"siz çelişkili bir söz içindesiniz."* Yani gök burada bir bilgi kaynağı olarak değil, bir **karşıtlık** olarak anılıyor: yukarısı düzenli, aşağısı dağınık. Bu karşıtlık aşağıda ele alınacak ve ayetin asıl gücü oradadır.
 
-**Dört.** USLUP'un kuralı: fennî mucize avcılığı yapılmaz. Buradaki uygulama açıktır — kelimenin anlamı verilir ve eksiltilmez; bir okur "dokuma" imgesini kendi payına bir düşünme vesilesi sayabilir; ama bu, ayetin iddiası olarak sunulamaz.
+**Dört.** STYLE'ın kuralı: fennî mucize avcılığı yapılmaz. Buradaki uygulama açıktır — kelimenin anlamı verilir ve eksiltilmez; bir okur "dokuma" imgesini kendi payına bir düşünme vesilesi sayabilir; ama bu, ayetin iddiası olarak sunulamaz.
 
 ### Ayetin asıl işi: iki cümlenin karşıtlığı
 
@@ -2336,7 +2336,7 @@ Yani üç ayetin işi bilgi vermek değil, bir **çağrıya zemin hazırlamak.**
 
 Ve bu argüman, hem yedinci yüzyıldaki bir Mekkeli için hem bugünkü okur için aynı derecede işler. Ayeti bir kozmoloji tarifine çevirmek, argümanı görünmez kılar.
 
-**Toparlarsak:** kelimenin "genişlik" anlamı verilir ve eksiltilmez; *vüs'* kökünün "genişlemek" dalı gerçektir ve gizlenmez; ama ayetin **evrenin metrik genişlemesini haber verdiği** iddiası, dilbilgisel dayanaktan yoksundur (nesne yok), kavramsal olarak örtüşmez (*semâ* ≠ evren), usul bakımından terstir (bilgi önce alınıyor), ve ayeti zayıflatır. USLUP'un "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
+**Toparlarsak:** kelimenin "genişlik" anlamı verilir ve eksiltilmez; *vüs'* kökünün "genişlemek" dalı gerçektir ve gizlenmez; ama ayetin **evrenin metrik genişlemesini haber verdiği** iddiası, dilbilgisel dayanaktan yoksundur (nesne yok), kavramsal olarak örtüşmez (*semâ* ≠ evren), usul bakımından terstir (bilgi önce alınıyor), ve ayeti zayıflatır. STYLE'ın "fennî mucize avcılığı yapılmaz" kuralı tam olarak bu ayrımı korumak içindir.
 
 **Bir kayıt daha.** Bu reddediş, ayetin modern bilimle çeliştiği anlamına gelmez. Ayet böyle bir iddiada bulunmuyor; dolayısıyla çelişecek bir yer de yok. Târık bölümünde 86/7 için düşülen kaydın aynısı burada da geçerlidir.
 

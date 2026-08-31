@@ -380,7 +380,7 @@
 
 **Üç cümlenin üçü de ortaklıkla başlayıp kendi konumuyla bitiyor.** Bunu kendi okumam olarak kaydediyorum: **söz, karşı tarafı reddederek değil, ortak olanı sayarak kuruluyor** — ve ayrılık ancak sonda, iddia olarak değil **bir tanım** olarak söyleniyor.
 
-**USLUP gereği bir kayıt:** *illellezîne zalemû minhüm* istisnası, bir topluluk hakkında toptan hüküm kurmaz — **istisna edilen, *zulmeden* olarak vasfedilenlerdir.** *Minhüm* (onlardan) edatı da bunu gösterir: **grubun tamamı değil, bir kısmı.** **`049-hucurat.md` ve `043-zuhruf.md`'de aynı hassasiyet korunmuştu; burada da korunuyor.**
+**STYLE gereği bir kayıt:** *illellezîne zalemû minhüm* istisnası, bir topluluk hakkında toptan hüküm kurmaz — **istisna edilen, *zulmeden* olarak vasfedilenlerdir.** *Minhüm* (onlardan) edatı da bunu gösterir: **grubun tamamı değil, bir kısmı.** **`049-hucurat.md` ve `043-zuhruf.md`'de aynı hassasiyet korunmuştu; burada da korunuyor.**
 
 ---
 
@@ -392,7 +392,7 @@
 
 **Ve *min* edatı ikinci grupta açıkça geçiyor: *ve min hâülâi men yü'minü bih* — "bunlardan da inanan vardır."**
 
-**Bunu bir gözlem olarak kaydediyorum:** ayet, iki topluluğun hiçbiri hakkında toptan hüküm kurmuyor. **`029-ankebut.md` 29/46'daki *illellezîne zalemû minhüm* kaydı da aynı yerden geliyordu.** **Sûre, gruplar arasında değil, tavırlar arasında ayrım yapıyor** — ve bu, USLUP'un korunan çizgisidir.
+**Bunu bir gözlem olarak kaydediyorum:** ayet, iki topluluğun hiçbiri hakkında toptan hüküm kurmuyor. **`029-ankebut.md` 29/46'daki *illellezîne zalemû minhüm* kaydı da aynı yerden geliyordu.** **Sûre, gruplar arasında değil, tavırlar arasında ayrım yapıyor** — ve bu, STYLE'ın korunan çizgisidir.
 
 **يَجْحَدُ** — kök **ج-ح-د**: bile bile inkâr etmek. **Kök `046-ahkaf.md` 46/26'da işlendi** ve orada dilcilerin kaydettiği "toprağın verimsiz olması" (*ardun cehâd*) ilişkisi verilmişti. **Tekrarlamıyorum.**
 

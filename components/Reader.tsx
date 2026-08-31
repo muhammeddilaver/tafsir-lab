@@ -5,7 +5,7 @@ import { NS, T, type Lang } from "@/lib/i18n";
 
 type Props = { no: number; name: string; ayahCount: number; lang: Lang };
 
-// Okuma konumu dil basina ayri tutulur: ayni sure iki dilde ayri sayfadir.
+// Reading position is kept per language: the same sura is a separate page in each.
 const POS = (lang: Lang, no: number) => `${NS[lang]}pos:${no}`;
 const LAST = (lang: Lang) => `${NS[lang]}last`;
 
@@ -14,8 +14,8 @@ function save(key: string, val: unknown) {
     localStorage.setItem(key, JSON.stringify(val));
   } catch {}
 }
-// Sayfa icinde anlik atlama. scroll-behavior:smooth uzun sayfalarda
-// 100 bin pikseli animasyonla gecmeye calisiyor; acilis atlamasi anlik olmali.
+// Instant in-page jump. On long pages scroll-behavior:smooth tries to animate
+// across 100,000 pixels; the jump on load has to be instant.
 function jump(el: Element) {
   const y = el.getBoundingClientRect().top + window.scrollY - 80;
   window.scrollTo({ top: Math.max(0, y), behavior: "instant" as ScrollBehavior });
@@ -35,20 +35,21 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
   const [toast, setToast] = useState<{ msg: string; undo?: () => void } | null>(null);
   const cur = useRef<{ id: string; ayah: string } | null>(null);
   const timer = useRef<number | null>(null);
-  // "Ugramak" ile "okumak" ayrimi: sayfaya girer girmez konum yazilirsa,
-  // bir atifa bakip cikan kisi kaldigi yeri kaybediyor. Konum ancak
-  // gercekten okunmaya baslandiginda yaziliyor.
+  // Telling "dropping by" from "reading": if the position were written the
+  // moment the page opens, someone who glanced at a citation and left would
+  // lose their place. The position is only written once reading has actually
+  // begun.
   const engaged = useRef(false);
   const landed = useRef<string | null>(null);
 
-  // --- konumu izle ve sakla ---
+  // --- track and store the position ---
   useEffect(() => {
     const blocks = Array.from(document.querySelectorAll<HTMLElement>("[data-blk]"));
     if (!blocks.length) return;
 
-    // Her blogun hangi ayet bolumune ait oldugunu bir kez cikar:
-    // gozlemci yalnizca goruse giren blogu bildirdigi icin, bir onceki
-    // ayet basligini geriye dogru aramak yerine onceden esliyoruz.
+    // Work out once which verse section each block belongs to: the observer
+    // only reports the block coming into view, so rather than searching
+    // backwards for the preceding verse heading we map it up front.
     const ayahOf = new Map<string, string>();
     let carry = "";
     for (const b of blocks) {
@@ -56,7 +57,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
       ayahOf.set(b.dataset.blk!, carry);
     }
 
-    // 25 saniye kalmak da okuma sayilir (girise dalip okuyanlar icin)
+    // Staying 25 seconds also counts as reading (for those who start at the top)
     const dwell = window.setTimeout(() => {
       engaged.current = true;
       schedule();
@@ -70,7 +71,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
           const ayah = ayahOf.get(id) ?? "";
           cur.current = { id, ayah };
           if (landed.current === null) landed.current = ayah;
-          // Indigi bolumden baska bir bolume gectiyse okuyor demektir
+          // Moving from the section they landed on to another means reading
           else if (ayah && ayah !== landed.current) engaged.current = true;
         }
         schedule();
@@ -106,7 +107,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
     };
   }, [no, name, lang]);
 
-  // --- acilista: hash varsa oraya, yoksa kaldigi yere ---
+  // --- on load: go to the hash if there is one, otherwise to where they left off ---
   useEffect(() => {
     const hash = decodeURIComponent(location.hash.slice(1));
     if (hash) {
@@ -114,7 +115,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
       if (el) {
         const blk = el.closest<HTMLElement>(".blk") ?? el;
         jump(blk);
-        // Next yonlendirme sonrasi konumu geri alabiliyor: bir kare sonra tekrar.
+        // Next can restore the scroll position after navigation: retry a frame later.
         requestAnimationFrame(() => jump(blk));
         blk.classList.add("hit");
         window.setTimeout(() => blk.classList.remove("hit"), 2600);
@@ -134,7 +135,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
     window.setTimeout(() => setToast(null), 6000);
   }, [no, lang, t]);
 
-  // --- satir baglantisi: kopyala / paylas ---
+  // --- line link: copy / share ---
   useEffect(() => {
     async function onClick(ev: MouseEvent) {
       const a = (ev.target as HTMLElement)?.closest<HTMLAnchorElement>("a.anchor");
@@ -164,7 +165,7 @@ export default function Reader({ no, name, ayahCount, lang }: Props) {
     return () => document.removeEventListener("click", onClick);
   }, [name, t]);
 
-  // --- okuma ilerlemesi cubugu ---
+  // --- reading progress bar ---
   useEffect(() => {
     const bar = document.getElementById("progress");
     if (!bar) return;

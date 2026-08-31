@@ -1548,7 +1548,7 @@ Bu kelime Şems bölümünde anılmıştı: orada **طَحَا** (*tahâ* — Ş
 
 ### Bir uyarı: "yeryüzü yumurta biçimindedir" okuması
 
-**Bu kelime, modern dönemde en çok zorlanan Kur'an kelimelerinden biridir** ve USLUP'ta kayıtlı olan kural burada uygulanacak.
+**Bu kelime, modern dönemde en çok zorlanan Kur'an kelimelerinden biridir** ve STYLE'da kayıtlı olan kural burada uygulanacak.
 
 **Zorlamanın dayanağı şudur:** Arapçada **أُدْحِيَّة** (*udhıyye*) kelimesi vardır ve **deve kuşunun yumurtladığı yer**i adlandırır. Buradan yola çıkılarak *dahâhâ* fiilinin "yumurta biçimine getirdi" anlamına geldiği ve ayetin yerin küreselliğini haber verdiği ileri sürülür.
 
@@ -1927,7 +1927,7 @@ Bunu kendi okumam olarak kaydediyorum. Dört fiilin anlamları ise sözlük veri
 
 On yedinci ayette azgınlık bir kişinin hâliydi. Otuz yedinci ayette azgınlık bir **kategori** haline geliyor: *men* (kim) — belirsiz, herkese açık.
 
-**Ve bu, USLUP'ta kayıtlı olan ilkenin metindeki en açık örneklerinden biridir:** *"ayetin tarif ettiği şey vasıflardır; kim o vasfı taşırsa ona dahildir."*
+**Ve bu, STYLE'da kayıtlı olan ilkenin metindeki en açık örneklerinden biridir:** *"ayetin tarif ettiği şey vasıflardır; kim o vasfı taşırsa ona dahildir."*
 
 Sûre, Firavun'u anlatıp *"işte kötüler böyledir"* demiyor. Firavun'u anlatıp **ölçüyü** veriyor. Ve ölçü, adı geçmeyen herkes için geçerli.
 
@@ -2255,7 +2255,7 @@ Bunu bir gözlem olarak kaydediyorum; kelime ortaklığı ise doğrulanabilir bi
 
 **Bu, kaydedilmeye değer bir tutarlılıktır.** Kur'an, kendi peygamberinin bilmediği bir şeyi metnin içine yazıyor.
 
-Ve bunun bir sonucu var ve bugüne doğrudan bakıyor: **kıyametin tarihini hesaplama iddiaları, Kur'an'ın kendi metniyle çelişir.** Bu tefsirde USLUP gereği sayı ve harf hesabı türü iddialar kullanılmıyor; bu ayet, o kuralın metindeki dayanaklarından biridir.
+Ve bunun bir sonucu var ve bugüne doğrudan bakıyor: **kıyametin tarihini hesaplama iddiaları, Kur'an'ın kendi metniyle çelişir.** Bu tefsirde STYLE gereği sayı ve harf hesabı türü iddialar kullanılmıyor; bu ayet, o kuralın metindeki dayanaklarından biridir.
 
 ### إِلَىٰ رَبِّكَ مُنتَهَىٰهَا
 
@@ -2470,7 +2470,7 @@ Yukarıda ayrı ayrı kaydedilenleri bir arada görelim:
 
 **Ve otuz yedinci ayette örnek anılmıyor.** *"Firavun gibi olanlar"* denmiyor; *"kim azarsa"* deniyor. Örnek, kendisini aşan bir ölçüye dönüşüyor.
 
-**Bu, USLUP'ta kayıtlı olan ilkenin metindeki en açık örneklerinden biridir** ve pratik bir sonucu vardır: sûre bir kişiyi anlatıyor ama bir kişi hakkında hüküm kurmayı öğretmiyor. Ölçüyü veriyor.
+**Bu, STYLE'da kayıtlı olan ilkenin metindeki en açık örneklerinden biridir** ve pratik bir sonucu vardır: sûre bir kişiyi anlatıyor ama bir kişi hakkında hüküm kurmayı öğretmiyor. Ölçüyü veriyor.
 
 ### Fasıla — sûrenin üç sesi
 
@@ -2658,7 +2658,7 @@ Ve Fâtır 35/28 bunu doğruluyor: *"Kulları içinden Allah'a ancak âlimler ha
 
 **Bunun pratik sonucu şudur:** korku üretmeye çalışan bir dil, tarif ettiği şeyin yerine kendini koyar. Sûrenin yöntemi tersidir: **tanıtır, korkuyu tanımanın sonucuna bırakır.**
 
-Bu tefsirin USLUP'unda kayıtlı olan bir kural da bununla uyumludur: *"Süslü, vaaz edici, duygu sömüren dil yok."*
+Bu tefsirin STYLE'ında kayıtlı olan bir kural da bununla uyumludur: *"Süslü, vaaz edici, duygu sömüren dil yok."*
 
 ### Beşincisi: hatırlamak
 
@@ -2714,7 +2714,7 @@ Ve bu, *tuğyan*ın tam karşıtıdır: tuğyan sınırı aşmak, *nehiy* sını
 
 ### Sekizincisi: bilinmeyeni bilmeye çalışmak
 
-Kırk ikinci-kırk dördüncü ayetler, bu tefsirin USLUP'unda kayıtlı olan bir kuralın metindeki dayanağıdır.
+Kırk ikinci-kırk dördüncü ayetler, bu tefsirin STYLE'ında kayıtlı olan bir kuralın metindeki dayanağıdır.
 
 **Kur'an, kendi peygamberinin Saat'in vaktini bilmediğini metnin içine yazıyor.**
 
