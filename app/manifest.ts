@@ -4,7 +4,7 @@ import { SITE, T } from "@/lib/i18n";
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: SITE,
-    short_name: "Tefsir",
+    short_name: "Tafsir Lab",
     description: T.tr.metaDesc,
     lang: "tr",
     start_url: "/",

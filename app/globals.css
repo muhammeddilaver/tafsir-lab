@@ -54,7 +54,7 @@ a{color:var(--lapis)}
   font-size:13px; line-height:1.6; white-space:nowrap; color:var(--ink-2);
 }
 .top .lang:hover{border-color:var(--lapis); color:var(--lapis)}
-/* Dar ekranda "LLM Tefsir Project" iki satira dusuyordu */
+/* The site name wrapped to two lines on narrow screens */
 @media (max-width:420px){
   .top-in{gap:10px; padding:10px 14px}
   .top .home{font-size:16px; white-space:nowrap}
@@ -298,7 +298,8 @@ tbody tr:last-child td{border-bottom:0}
 .foot-nav{display:flex; flex-wrap:wrap; gap:8px 20px; font-family:var(--sans); font-size:13.5px}
 .foot-nav a{color:var(--ink-2); text-decoration:none}
 .foot-nav a:hover{color:var(--lapis)}
-.foot-gh::after{content:" ↗"; font-size:11px; color:var(--ink-3)}
+/* Dis baglanti isareti: ust cubuk ve altbilgi ayni gosterimi kullanir */
+.foot-gh::after,.top .gh::after{content:" ↗"; font-size:11px; color:var(--ink-3)}
 .foot-note{
   margin:14px 0 0; max-width:62ch;
   font-family:var(--sans); font-size:12.5px; line-height:1.6; color:var(--ink-3);

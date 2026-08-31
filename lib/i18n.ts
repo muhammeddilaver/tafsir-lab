@@ -29,7 +29,10 @@ export const ROUTES = {
   },
 } as const;
 
-export const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
+export const REPO = "https://github.com/muhammeddilaver/tafsir-lab";
+
+/** Baglantilarda gosterilen etiket: adres tek yerde dursun. */
+export const REPO_LABEL = REPO.replace(/^https:\/\//, "");
 
 /**
  * The explicit language choice. middleware.ts reads it on "/"; it is written
@@ -44,7 +47,7 @@ export const NS: Record<Lang, string> = { tr: "tefsir:", en: "tefsir:en:" };
 export const LOCALE: Record<Lang, string> = { tr: "tr-TR", en: "en-GB" };
 export const OG_LOCALE: Record<Lang, string> = { tr: "tr_TR", en: "en_GB" };
 
-export const SITE = "LLM Tefsir Project";
+export const SITE = "Tafsir Lab";
 
 type Dict = {
   navRoots: string;
@@ -59,7 +62,7 @@ type Dict = {
   metaTitle: string;
   metaTemplate: string;
   metaDesc: string;
-  /** The sura page's title tag. The template appends " — LLM Tefsir Project". */
+  /** The sura page's title tag. The template appends " — Tafsir Lab". */
   suraSeoTitle: (name: string) => string;
   /** The sura page's description; clamp() in lib/meta.ts trims it. */
   suraSeoDesc: (name: string, ayahs: number, lead: string) => string;
@@ -153,8 +156,8 @@ export const T: Record<Lang, Dict> = {
     footNote:
       "Metnin tamamı bir dil modeli (Claude, Anthropic) tarafından yazılmıştır. Dinî otoritesi yoktur; klasik kaynaklardan doğrulanmalıdır.",
 
-    metaTitle: "LLM Tefsir Project — ayet ayet Kur'an tefsiri",
-    metaTemplate: "%s — LLM Tefsir Project",
+    metaTitle: "Tafsir Lab — ayet ayet Kur'an tefsiri",
+    metaTemplate: "%s — Tafsir Lab",
     metaDesc:
       "Claude ile yazılmış, ayet ayet kök tahlili esaslı Türkçe Kur'an tefsiri. 114 sûrenin tamamı.",
     suraSeoTitle: (name) => `${name} Sûresi Tefsiri`,
@@ -243,8 +246,8 @@ export const T: Record<Lang, Dict> = {
     footNote:
       "The whole text was written by a language model (Claude, Anthropic). It carries no religious authority and must be checked against the classical sources.",
 
-    metaTitle: "LLM Tefsir Project — a verse-by-verse commentary on the Qurʾān",
-    metaTemplate: "%s — LLM Tefsir Project",
+    metaTitle: "Tafsir Lab — a verse-by-verse commentary on the Qurʾān",
+    metaTemplate: "%s — Tafsir Lab",
     metaDesc:
       "A verse-by-verse English commentary on the Qurʾān written with Claude, built on root analysis. All 114 sūras.",
     suraSeoTitle: (name) => `Sūrat ${name} Commentary`,

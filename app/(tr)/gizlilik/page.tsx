@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ROUTES } from "@/lib/i18n";
+import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
 import { alternates } from "@/lib/meta";
 
 export const metadata = {
@@ -10,8 +10,6 @@ export const metadata = {
     ...alternates({ tr: ROUTES.tr.privacy, en: ROUTES.en.privacy }),
   },
 };
-
-const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
 
 export default function GizlilikPage() {
   return (
@@ -126,7 +124,7 @@ export default function GizlilikPage() {
         <p>
           Sorularınız için depodaki <em>Issues</em> bölümünü kullanabilirsiniz:{" "}
           <a href={`${REPO}/issues`} target="_blank" rel="noopener noreferrer">
-            {REPO.replace("https://", "")}/issues
+            {REPO_LABEL}/issues
           </a>
           .
         </p>

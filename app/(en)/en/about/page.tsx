@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { stats } from "@/lib/content";
-import { REPO, ROUTES } from "@/lib/i18n";
+import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
 import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "About",
   description:
-    "What the LLM Tefsir Project is, who wrote the text, and the rules it was written under.",
+    "What Tafsir Lab is, who wrote the text, and the rules it was written under.",
   alternates: {
     canonical: ROUTES.en.about,
     ...alternates({ tr: ROUTES.tr.about, en: ROUTES.en.about }),
@@ -152,7 +152,7 @@ export default function AboutPage() {
         <p>
           The site&apos;s code and the whole of the commentary are in an open repository:{" "}
           <a href={REPO} target="_blank" rel="noopener noreferrer">
-            github.com/muhammeddilaver/llm-tefsir-project
+            {REPO_LABEL}
           </a>
           . If you find a mistake — a wrong root, a report that looks invented, a broken link
           — you can report it through the <em>Issues</em> section there.

@@ -1,17 +1,15 @@
 import Link from "next/link";
-import { ROUTES } from "@/lib/i18n";
+import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
 import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Kullanım koşulları",
-  description: "LLM Tefsir Project'i kullanırken geçerli koşullar.",
+  description: "Tafsir Lab'ı kullanırken geçerli koşullar.",
   alternates: {
     canonical: ROUTES.tr.terms,
     ...alternates({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }),
   },
 };
-
-const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
 
 export default function KosullarPage() {
   return (
@@ -77,7 +75,7 @@ export default function KosullarPage() {
         <p>
           Sitenin kaynak kodu ve metnin tamamı açık depodadır:{" "}
           <a href={REPO} target="_blank" rel="noopener noreferrer">
-            github.com/muhammeddilaver/llm-tefsir-project
+            {REPO_LABEL}
           </a>
           .
         </p>
@@ -105,7 +103,7 @@ export default function KosullarPage() {
           Soru, hata bildirimi ve talepler için depodaki <em>Issues</em> bölümünü
           kullanabilirsiniz:{" "}
           <a href={`${REPO}/issues`} target="_blank" rel="noopener noreferrer">
-            {REPO.replace("https://", "")}/issues
+            {REPO_LABEL}/issues
           </a>
           .
         </p>

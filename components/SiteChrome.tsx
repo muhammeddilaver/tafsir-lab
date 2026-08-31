@@ -12,8 +12,14 @@ export function SiteHeader({ lang }: { lang: Lang }) {
           {SITE}
         </Link>
         <span className="sp" />
-        <Link href={R.roots}>{t.navRoots}</Link>
+        {/* The root index was taken out of the top bar: the project presents
+            itself as a commentary, not as a dictionary of roots. The page
+            itself stays — in the footer, in the roots block on section pages,
+            and in the sitemap. */}
         <Link href={R.method}>{t.navMethod}</Link>
+        <a className="gh" href={REPO} target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
         <LangSwitch lang={lang} />
       </div>
       <div id="progress" />

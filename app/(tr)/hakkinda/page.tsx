@@ -1,18 +1,16 @@
 import Link from "next/link";
 import { stats } from "@/lib/content";
-import { ROUTES } from "@/lib/i18n";
+import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
 import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Hakkında",
-  description: "LLM Tefsir Project nedir, metni kim yazdı, hangi kurallara uyuldu.",
+  description: "Tafsir Lab nedir, metni kim yazdı, hangi kurallara uyuldu.",
   alternates: {
     canonical: ROUTES.tr.about,
     ...alternates({ tr: ROUTES.tr.about, en: ROUTES.en.about }),
   },
 };
-
-const REPO = "https://github.com/muhammeddilaver/llm-tefsir-project";
 
 export default function HakkindaPage() {
   const s = stats("tr");
@@ -139,7 +137,7 @@ export default function HakkindaPage() {
         <p>
           Sitenin kodu ve tefsir metninin tamamı açık depoda:{" "}
           <a href={REPO} target="_blank" rel="noopener noreferrer">
-            github.com/muhammeddilaver/llm-tefsir-project
+            {REPO_LABEL}
           </a>
           . Hata bulursanız — yanlış bir kök, uydurma görünen bir nakil, kırık bir bağlantı —
           depodaki <em>Issues</em> bölümünden bildirebilirsiniz.

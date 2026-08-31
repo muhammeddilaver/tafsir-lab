@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { REPO, ROUTES } from "@/lib/i18n";
+import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
 import { alternates } from "@/lib/meta";
 
 export const metadata = {
   title: "Terms of use",
-  description: "The terms that apply when you use the LLM Tefsir Project.",
+  description: "The terms that apply when you use Tafsir Lab.",
   alternates: {
     canonical: ROUTES.en.terms,
     ...alternates({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }),
@@ -77,7 +77,7 @@ export default function TermsPage() {
         <p>
           The site&apos;s source code and the whole of the text are in an open repository:{" "}
           <a href={REPO} target="_blank" rel="noopener noreferrer">
-            github.com/muhammeddilaver/llm-tefsir-project
+            {REPO_LABEL}
           </a>
           .
         </p>

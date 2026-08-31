@@ -6,3 +6,6 @@ out
 __pycache__
 *.pyc
 site/
+
+# yerel derlemede mutlak adresler (uretimde Vercel ortam degiskeni kullanilir)
+.env*.local

@@ -1,4 +1,4 @@
-# LLM Tefsir Project
+# Tafsir Lab
 
 A verse-by-verse Turkish commentary on the Qurʾān, written with Claude and
 built on root analysis. All 114 sūras, 6,236 verses. The whole text has also

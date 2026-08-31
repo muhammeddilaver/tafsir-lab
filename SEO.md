@@ -15,7 +15,7 @@ Already in place — the metadata layer built on `lib/meta.ts` was working:
 | Present | Where |
 |---|---|
 | `metadataBase` (from the environment) | `lib/meta.ts` |
-| Title template (`%s — LLM Tefsir Project`) | `rootMetadata()` |
+| Title template (`%s — Tafsir Lab`) | `rootMetadata()` |
 | Description, separate per language | `T[lang].metaDesc` |
 | `canonical` + `hreflang` (tr/en) | Home, sūra pages, five static pages |
 | OpenGraph basics | `rootMetadata()` |
@@ -111,8 +111,8 @@ untouched. Section pages are an additional surface; the old one stands.
 
    | Page | Before | After |
    |---|---|---|
-   | `/sure/2` | `Bakara — LLM Tefsir Project` | `Bakara Sûresi Tefsiri — LLM Tefsir Project` |
-   | `/en/sura/2` | `al-Baqara — LLM Tefsir Project` | `Sūrat al-Baqara Commentary — LLM Tefsir Project` |
+   | `/sure/2` | `Bakara — LLM Tefsir Project` | `Bakara Sûresi Tefsiri — Tafsir Lab` |
+   | `/en/sura/2` | `al-Baqara — LLM Tefsir Project` | `Sūrat al-Baqara Commentary — Tafsir Lab` |
 
    Descriptions are trimmed at a word boundary by `clamp()` (it used to be
    `slice(0, 180)`, which split words). Four pages had no description of their
@@ -383,18 +383,19 @@ the server. The README was updated to match.
 
 ## Domain
 
-The published address is not decided yet. Every absolute URL comes from one
-place:
+`tafsirlab.com`. Every absolute URL derives from one place:
 
 ```
 lib/meta.ts → NEXT_PUBLIC_SITE_URL ?? VERCEL_PROJECT_PRODUCTION_URL
 ```
 
-Once the domain is settled, only `NEXT_PUBLIC_SITE_URL` needs defining;
-canonical, hreflang, sitemap and OG addresses correct themselves. Publishing
-on a Vercel subdomain until then is fine — but it is cleaner **not** to
-register in Search Console before the move and to do it afterwards, since an
-address change delays re-crawling.
+`.env.local` sets it for local builds (git-ignored). Production must set
+`NEXT_PUBLIC_SITE_URL` in the Vercel dashboard — do not rely on
+`VERCEL_PROJECT_PRODUCTION_URL` alone once a custom domain is attached.
+
+Pick one canonical host and keep it: `https://tafsirlab.com`, with
+`www.tafsirlab.com` 301-redirected to it. Serving both would split the
+canonical and hreflang cluster that everything else is built on.
 
 ---
 
