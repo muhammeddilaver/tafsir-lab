@@ -77,7 +77,7 @@ export default function PrivacyPage() {
           analytics.
         </p>
         <p>
-          The data is processed by Google Ireland Limited under Google&apos;s{" "}
+          The data is processed by Google under Google&apos;s{" "}
           <a
             href="https://business.safety.google/privacy/"
             target="_blank"
@@ -85,7 +85,7 @@ export default function PrivacyPage() {
           >
             privacy terms
           </a>{" "}
-          and may be transferred to its servers outside your country. Where you have
+          and may be transferred to its servers in other countries. Where you have
           consented, your explicit consent is the legal basis for that transfer.
         </p>
 

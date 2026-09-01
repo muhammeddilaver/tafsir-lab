@@ -77,7 +77,7 @@ export default function GizlilikPage() {
           kopyaladığınız ya da nerede kaldığınız ölçümlemeye <strong>gönderilmez</strong>.
         </p>
         <p>
-          Veriler Google Ireland Limited tarafından, Google&apos;ın{" "}
+          Veriler Google tarafından, Google&apos;ın{" "}
           <a
             href="https://business.safety.google/privacy/"
             target="_blank"
@@ -85,8 +85,8 @@ export default function GizlilikPage() {
           >
             gizlilik şartları
           </a>{" "}
-          kapsamında işlenir ve yurt dışındaki sunucularına aktarılabilir. Onay verdiğiniz
-          durumda bu aktarımın hukuki dayanağı açık rızanızdır.
+          kapsamında işlenir ve başka ülkelerdeki sunucularına aktarılabilir. Onay
+          verdiğiniz durumda bu aktarımın hukuki dayanağı açık rızanızdır.
         </p>
 
         <h2>Onayınızı değiştirmek</h2>
