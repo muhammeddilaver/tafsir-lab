@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Analytics from "@/components/Analytics";
 import { fontVars } from "@/components/Fonts";
 import Peek from "@/components/Peek";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
@@ -17,6 +18,7 @@ export default function TrLayout({ children }: { children: React.ReactNode }) {
         {children}
         <SiteFooter lang="tr" />
         <Peek lang="tr" />
+        <Analytics lang="tr" />
       </body>
     </html>
   );

@@ -368,3 +368,44 @@ tbody tr:last-child td{border-bottom:0}
   border-radius:5px; padding:3px 9px;
 }
 .sec-roots a:hover{color:var(--lapis); border-color:var(--lapis)}
+
+/* ---------- olcumleme onayi ---------- */
+/* Alt kosede duran serit: okumayi ortadan kesmesin diye kipli pencere degil,
+   sayfanin uzerinde duran kucuk bir kart. Iki dugme de ayni agirlikta —
+   reddetmek kabul etmekten zor olursa onay ozgur iradeyle verilmis olmaz. */
+.consent{
+  position:fixed; z-index:60; left:20px; bottom:20px; width:min(420px,calc(100vw - 40px));
+  background:var(--paper); border:1px solid var(--rule); border-radius:12px;
+  box-shadow:var(--shadow); padding:16px 18px 14px;
+  font-family:var(--sans); animation:consent-in .22s ease-out;
+}
+@keyframes consent-in{from{opacity:0; transform:translateY(8px)}to{opacity:1; transform:none}}
+@media (prefers-reduced-motion:reduce){.consent{animation:none}}
+.consent p{margin:0; font-size:13.5px; line-height:1.6; color:var(--ink-2)}
+.consent a{color:var(--lapis); text-decoration:underline; text-underline-offset:2px}
+.consent-buttons{display:flex; gap:8px; justify-content:flex-end; margin-top:14px}
+.consent-buttons button{
+  font-family:var(--sans); font-size:13.5px; line-height:1.5; cursor:pointer;
+  padding:6px 14px; border-radius:999px;
+  border:1px solid var(--rule); background:transparent; color:var(--ink-2);
+}
+.consent-buttons button:hover{border-color:var(--lapis); color:var(--lapis)}
+.consent-buttons .consent-yes{background:var(--lapis); border-color:var(--lapis); color:#fff}
+.consent-buttons .consent-yes:hover{color:#fff; filter:brightness(1.1)}
+@media (max-width:620px){
+  .consent{left:10px; right:10px; width:auto; bottom:calc(10px + env(safe-area-inset-bottom))}
+}
+
+/* Gizlilik sayfasindaki geri alma anahtari: serit bir kez cevaplaninca
+   kayboluyor, fikir degistiren okuyucu buraya donuyor. */
+.consent-switch{
+  font-family:var(--sans); font-size:14px; color:var(--ink-2);
+  background:var(--paper-2); border:1px solid var(--rule-soft);
+  border-radius:8px; padding:12px 14px;
+}
+.consent-switch button{
+  font-family:var(--sans); font-size:13.5px; cursor:pointer; white-space:nowrap;
+  padding:4px 12px; border-radius:999px; margin-left:4px;
+  border:1px solid var(--rule); background:transparent; color:var(--ink-2);
+}
+.consent-switch button:hover{border-color:var(--lapis); color:var(--lapis)}

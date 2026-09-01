@@ -142,6 +142,20 @@ type Dict = {
   peekOpen: string;
   peekClose: string;
   peekBack: string;
+
+  /**
+   * The consent bar and the switch on the privacy page. One decision covers
+   * the site, so both languages phrase the same choice.
+   */
+  consentAria: string;
+  consentText: string;
+  consentAccept: string;
+  consentDecline: string;
+  consentMore: string;
+  consentStatusOn: string;
+  consentStatusOff: string;
+  consentTurnOn: string;
+  consentTurnOff: string;
 };
 
 export const T: Record<Lang, Dict> = {
@@ -233,6 +247,18 @@ export const T: Record<Lang, Dict> = {
     peekOpen: "Sûrede aç →",
     peekClose: "Kapat",
     peekBack: "Önceki atıfa dön",
+
+    consentAria: "Ölçümleme onayı",
+    consentText:
+      "Sitenin nasıl okunduğunu anlamak için Google Analytics kullanılıyor. Onay vermezseniz çerez yazılmaz; ölçüm çerezsiz ve kimliksiz kalır.",
+    consentAccept: "Kabul et",
+    consentDecline: "Çerezsiz devam et",
+    consentMore: "Ayrıntı",
+    consentStatusOn: "Şu an ölçümleme çerezlerine onay vermiş durumdasınız.",
+    consentStatusOff:
+      "Şu an ölçümleme çerezlerine onay vermiş değilsiniz; ölçüm çerezsiz yapılıyor.",
+    consentTurnOn: "Onay ver",
+    consentTurnOff: "Onayı geri al",
   },
 
   en: {
@@ -323,5 +349,17 @@ export const T: Record<Lang, Dict> = {
     peekOpen: "Open in the sūra →",
     peekClose: "Close",
     peekBack: "Back to the previous reference",
+
+    consentAria: "Analytics consent",
+    consentText:
+      "Google Analytics is used to see how the site is read. If you do not consent, no cookie is written; the measurement stays cookieless and anonymous.",
+    consentAccept: "Accept",
+    consentDecline: "Continue without cookies",
+    consentMore: "Detail",
+    consentStatusOn: "You have currently consented to analytics cookies.",
+    consentStatusOff:
+      "You have currently not consented to analytics cookies; the measurement is cookieless.",
+    consentTurnOn: "Give consent",
+    consentTurnOff: "Withdraw consent",
   },
 };

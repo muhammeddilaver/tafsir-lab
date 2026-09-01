@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Analytics from "@/components/Analytics";
 import { fontVars } from "@/components/Fonts";
 import Peek from "@/components/Peek";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
@@ -17,6 +18,7 @@ export default function EnLayout({ children }: { children: React.ReactNode }) {
         {children}
         <SiteFooter lang="en" />
         <Peek lang="en" />
+        <Analytics lang="en" />
       </body>
     </html>
   );

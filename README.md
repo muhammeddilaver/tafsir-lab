@@ -166,6 +166,18 @@ page you merely dropped by does not overwrite your place. Reopening the page
 returns you to it; the home page shows a "Where you left off" card. Nothing is
 sent to a server.
 
+### Analytics
+
+Google Analytics 4, behind Consent Mode v2, and only when
+`NEXT_PUBLIC_GA_ID` is set — with the variable unset no script is emitted and
+no consent bar appears. Every storage permission starts denied, so nothing is
+written to the browser until the reader accepts on the bar; declining leaves
+GA in its cookieless mode. The answer is kept in `tefsir:consent`, shared by
+both languages, and can be withdrawn from the switch on the privacy page. The
+advertising permissions are never granted. `components/GaPageviews.tsx` sends
+the page views, since the App Router does not reload the document between
+sûras.
+
 ### Search and AI crawlers
 
 `app/sitemap.ts` publishes 6,232 URLs with `tr` / `en` / `x-default`
