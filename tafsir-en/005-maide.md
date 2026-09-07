@@ -1938,6 +1938,8 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **وَكَيْفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوْرَىٰةُ فِيهَا حُكْمُ ٱللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنۢ بَعْدِ ذَٰلِكَ** (43) — **and the question shows the contradiction: to turn to someone else while their own Book is beside them, and then to turn away from the ruling that comes out as well.**
 
+**And the adverb must be recorded: *ʿindahum* — "beside them".** **The verse establishes that a text lies within reach of those addressed;** the party seeking a ruling already possesses the authority it would turn to. **The record of *fatra* treated in the nineteenth verse of this sūra can be read together with this:** the interval is not the absence of the text but the slackening of the warning. **And at `034-sebe.md` 34/44 the opposite situation is described** (*mā ātaynāhum min kutubin yadrusūnahā* — those who have no book they keep reading). **The audience of the two verses is not the same.**
+
 ---
 
 ## 5/44-47 — إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ … وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ

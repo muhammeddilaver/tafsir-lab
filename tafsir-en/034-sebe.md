@@ -1836,6 +1836,23 @@ The basmala was treated in earlier sections and is not taken up again here; the 
 
 **And that the verb comes in the imperfect is worth recording: *yadrusūnahā* — "which they keep reading".** **The point, that is, is not merely that no book was given — it is that there is no text being worked on.**
 
+### The referent of the pronouns
+
+**Both pronouns must be recorded: *ātaynā**hum*** and *ilayhim*.** **Their referent is the preceding verse** — those who, when the verses were recited, said "*ifkun muftarā*", "*siḥrun mubīn*". **The sentence, that is, is not a general ruling but a statement about a particular audience.**
+
+**And this can be verified within the sūra.** The thirty-fourth verse says *wa mā arsalnā fī qaryatin min nadhīrin illā qāla mutrafūhā* — **that a warner was sent to every town.** The two sentences can be set side by side:
+
+| Verse | Expression | What it looks to |
+|---|---|---|
+| **34** | *Wa mā arsalnā **fī qaryatin** min nadhīr* | **History** — sent town by town |
+| **44** | *Wa mā arsalnā **ilayhim** qablaka min nadhīr* | **This community** — none came to them directly |
+
+**The difference is not one of scope but of referent, and I record this as an observation about the word order:** one states that sending took place, the other the situation of this audience.
+
+**And the same measure occurs in a close pattern at `032-secde.md` 32/3** (*li-tundhira qawman mā atāhum min nadhīrin min qablik*) **and there two readings were tabulated: "no warner ever came" and "none came recently" — the interval, *fatra*.** **There it was also compared with `035-fatir.md` 35/24** (*wa in min ummatin illā khalā fīhā nadhīr* — the verb in the perfect: "came and passed"). **I rely on that treatment; I do not impose a preference.**
+
+**The field of this sentence is distinct from the verses about the People of the Book, and the distinction is visible in the words of the two texts themselves.** At `005-maide.md` 5/43, *wa **ʿindahumu**'t-Tawrātu fīhā ḥukmu'llāh* — it says **a Book is beside them**; here, *mā ātaynāhum min kutubin **yadrusūnahā*** — **that there is no book they keep reading.** **The one describes a community that does not turn to the text in its hand, the other a community with no text in hand.** I record this as my own reading, and its ground is the adverb and the verb each verse chooses: *ʿindahum* / *yadrusūnahā*.
+
 ### مِعْشَار — a tenth
 
 **The word comes from the root *ʿushr* (a tenth) and is on the *mifʿāl* pattern. The lexicographers explain it as "a tenth"; some record that the pattern conveys *multiplicity or intensity*.**
