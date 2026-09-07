@@ -1938,6 +1938,8 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **وَكَيْفَ يُحَكِّمُونَكَ وَعِندَهُمُ ٱلتَّوْرَىٰةُ فِيهَا حُكْمُ ٱللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنۢ بَعْدِ ذَٰلِكَ** (43) — **ve soru, çelişkiyi gösteriyor: kendi kitapları yanlarındayken başkasına başvurmak, sonra çıkan hükümden de yüz çevirmek.**
 
+**Ve zarf kaydedilmelidir: *indehüm* — "yanlarında".** **Ayet, muhatabın elinin altında bir metin bulunduğunu tespit ediyor;** hükmü isteyen taraf, başvuracağı mercîye zaten sahip. **Sûrenin on dokuzuncu ayetinde işlenen *fetret* kaydı da bununla birlikte okunabilir:** aralık, metnin yokluğu değil, uyarının gevşemesidir. **Ve `034-sebe.md` 34/44'te bunun karşıtı bir durum tarif edilir** (*mâ âteynâhüm min kütübin yedrusûnehâ* — okuyup durdukları bir kitap bulunmayanlar). **İki ayetin muhatabı ayrıdır.**
+
 ---
 
 ## 5/44-47 — إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ … وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ

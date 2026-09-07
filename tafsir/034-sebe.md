@@ -1836,6 +1836,23 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 **Ve fiilin muzâri gelmesi kaydedilmeye değer: *yedrusûnehâ* — "okuyup durdukları".** **Yani mesele kitabın verilmemiş olması değil sadece — üzerinde çalışılan bir metnin bulunmamasıdır.**
 
+### Zamirin mercii
+
+**İki zamir de kaydedilmelidir: *âteynâ**hüm*** ve *ileyhim*.** **Mercileri bir önceki ayettir** — âyetler okunduğunda "*ifkün müfterâ*", "*sihrun mübîn*" diyenler. **Yani cümle genel bir hüküm değil, belirli bir muhatap hakkındadır.**
+
+**Ve bu, sûre içinde doğrulanabilir.** Otuz dördüncü ayette *ve mâ erselnâ fî karyetin min nezîrin illâ kāle mütrafûhâ* deniyor — **her beldeye uyarıcı gönderilmiş olduğu.** İki cümle yan yana konabilir:
+
+| Ayet | İfade | Neye bakıyor |
+|---|---|---|
+| **34** | *Ve mâ erselnâ **fî karyetin** min nezîr* | **Tarih** — belde belde gönderilmiş |
+| **44** | *Ve mâ erselnâ **ileyhim** kableke min nezîr* | **Bu topluluk** — kendilerine doğrudan gelmemiş |
+
+**Fark kapsam değil mercîdir ve bunu bir dizim gözlemi olarak kaydediyorum:** biri gönderilmiş olmayı, öteki bu muhatabın durumunu bildiriyor.
+
+**Ve aynı ölçü `032-secde.md` 32/3'te yakın bir kalıpla geçer** (*li-tünzira kavmen mâ etâhüm min nezîrin min kablik*) **ve orada iki okuma tablolanmıştı: "hiç gelmemiş" ve "yakın zamanda gelmemiş" (fetret).** **Orada ayrıca `035-fatir.md` 35/24 ile karşılaştırılmıştı** (*ve in min ümmetin illâ halâ fîhâ nezîr* — mâzî fiil: "gelip geçti"). **Oraya dayanıyorum; tercih dayatmıyorum.**
+
+**Ehl-i kitap hakkındaki ayetlerle bu cümlenin alanı ayrıdır ve ayrım iki metnin kendi kelimelerinde görülür.** `005-maide.md` 5/43'te *ve **indehümü**'t-Tevrâtü fîhâ hükmullâh* — **yanlarında bir kitap bulunduğu** söyleniyor; burada *mâ âteynâhüm min kütübin **yedrusûnehâ*** — **okuyup durdukları bir kitap bulunmadığı.** **Biri elindeki metne başvurmayan bir topluluğu, öteki elinde metin bulunmayan bir topluluğu tarif ediyor.** Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin zarf ve fiil tercihidir: *indehüm* / *yedrusûnehâ*.
+
 ### مِعْشَار — onda bir
 
 **Kelime *uşr* (onda bir) kökünden gelir ve *mif'âl* kalıbındadır. Dilciler kelimeyi "onda bir" olarak açıklar; bazıları kalıbın *çokluk/mübalağa* bildirdiğini kaydeder.**
