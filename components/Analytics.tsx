@@ -20,7 +20,7 @@ export default function Analytics({ lang }: { lang: Lang }) {
       <script dangerouslySetInnerHTML={{ __html: consentBootstrap(GA_ID) }} />
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-        strategy="afterInteractive"
+        strategy="lazyOnload"
       />
       <GaPageviews />
       <ConsentBar lang={lang} />

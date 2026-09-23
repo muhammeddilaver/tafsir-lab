@@ -20,7 +20,7 @@ export default function SuraView({ lang, no }: { lang: Lang; no: number }) {
   const next = list.find((x) => x.no === no + 1);
 
   return (
-    <div className="wrap">
+    <div className="wrap" role="main">
       <main>
         <div className="sura-head">
           <h1>{sura.title}</h1>

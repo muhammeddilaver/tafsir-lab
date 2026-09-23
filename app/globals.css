@@ -1,6 +1,6 @@
 :root{
   --paper:#EFF1EF; --paper-2:#E6E9E6; --paper-3:#DDE1DE;
-  --ink:#15181A; --ink-2:#4E555A; --ink-3:#7C848A;
+  --ink:#15181A; --ink-2:#4E555A; --ink-3:#5E656B;
   --rule:#CDD3CF; --rule-soft:#DFE3E0;
   --lapis:#1F4E85; --lapis-soft:#E2EAF3;
   --rubric:#8E3428;
@@ -16,7 +16,7 @@
 @media (prefers-color-scheme:dark){
   :root{
     --paper:#111417; --paper-2:#171B1F; --paper-3:#1E242A;
-    --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#798187;
+    --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#868E94;
     --rule:#272E34; --rule-soft:#1F252A;
     --lapis:#84ABDD; --lapis-soft:#1A2632;
     --rubric:#D2887A; --ar:#E8ECEA;

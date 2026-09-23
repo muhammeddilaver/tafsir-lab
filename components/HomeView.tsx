@@ -12,7 +12,7 @@ export default function HomeView({ lang }: { lang: Lang }) {
   const t = T[lang];
 
   return (
-    <div className="wrap">
+    <div className="wrap" role="main">
       <section className="hero">
         <h1>{t.heroTitle}</h1>
         <p>{t.heroLead}</p>

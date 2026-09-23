@@ -36,7 +36,7 @@ export default function SectionView({
   const rootList = rootsBySection(lang).get(`${no}/${sec.from}`) ?? [];
 
   return (
-    <div className="wrap">
+    <div className="wrap" role="main">
       <main>
         <nav className="crumb">
           <Link href={R.home}>{t.navHome}</Link>

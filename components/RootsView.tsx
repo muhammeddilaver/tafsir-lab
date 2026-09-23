@@ -8,7 +8,7 @@ export default function RootsView({ lang }: { lang: Lang }) {
   const R = ROUTES[lang];
 
   return (
-    <div className="wrap">
+    <div className="wrap" role="main">
       <main>
         <div className="sura-head">
           <h1>{t.rootsTitle}</h1>

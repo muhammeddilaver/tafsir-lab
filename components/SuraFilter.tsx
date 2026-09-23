@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
 import { ROUTES, T, type Lang } from "@/lib/i18n";
 
@@ -26,6 +27,7 @@ function norm(s: string, lang: Lang) {
 
 export default function SuraFilter({ items, lang }: { items: Item[]; lang: Lang }) {
   const [q, setQ] = useState("");
+  const router = useRouter();
   const t = T[lang];
   const nq = norm(q, lang);
   const list = useMemo(
@@ -49,7 +51,16 @@ export default function SuraFilter({ items, lang }: { items: Item[]; lang: Lang 
       <ol className="sura-grid">
         {list.map((s) => (
           <li key={s.no}>
-            <Link href={`${ROUTES[lang].sura}/${s.no}`}>
+            {/* No viewport prefetch: on a phone the first rows of the grid
+                pulled in the full payload of suras 2-6 (~1 MB) while the home
+                page was still loading. The page is fetched on the first
+                touch or hover instead, a moment before the click. */}
+            <Link
+              href={`${ROUTES[lang].sura}/${s.no}`}
+              prefetch={false}
+              onPointerEnter={() => router.prefetch(`${ROUTES[lang].sura}/${s.no}`)}
+              onTouchStart={() => router.prefetch(`${ROUTES[lang].sura}/${s.no}`)}
+            >
               <span className="sn">{s.no}</span>
               <span className="snm">{s.name}</span>
               <span className="sc">{t.ayahCountShort(s.ayahCount)}</span>
