@@ -88,6 +88,8 @@ type Dict = {
   langLabel: string;
   /** aria-label for one switcher link; `name` is the target language. */
   langSwitchLabel: (name: string) => string;
+  /** Label for the light/dark toggle in the top bar. */
+  themeLabel: string;
   footNote: string;
 
   metaTitle: string;
@@ -198,6 +200,7 @@ export const T: Record<Lang, Dict> = {
     navPrivacy: "Gizlilik",
     langLabel: "Dil",
     langSwitchLabel: (name) => `${name} sürümüne geç`,
+    themeLabel: "Açık / koyu tema",
     footNote:
       "Metnin tamamı bir dil modeli (Claude, Anthropic) tarafından yazılmıştır. Dinî otoritesi yoktur; klasik kaynaklardan doğrulanmalıdır.",
 
@@ -300,6 +303,7 @@ export const T: Record<Lang, Dict> = {
     navPrivacy: "Privacy",
     langLabel: "Language",
     langSwitchLabel: (name) => `Switch to ${name}`,
+    themeLabel: "Light / dark theme",
     footNote:
       "The whole text was written by a language model (Claude, Anthropic). It carries no religious authority and must be checked against the classical sources.",
 
@@ -402,6 +406,7 @@ export const T: Record<Lang, Dict> = {
     navPrivacy: "Privasi",
     langLabel: "Bahasa",
     langSwitchLabel: (name) => `Beralih ke versi ${name}`,
+    themeLabel: "Tema terang / gelap",
     footNote:
       "Seluruh teks ini ditulis oleh sebuah model bahasa (Claude, Anthropic). Teks ini tidak memiliki otoritas keagamaan dan harus diperiksa terhadap sumber-sumber klasik.",
 

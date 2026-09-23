@@ -1,5 +1,6 @@
 import Link from "next/link";
 import LangSwitch, { type Have } from "./LangSwitch";
+import ThemeToggle from "./ThemeToggle";
 import { VERSES, suraNumbers } from "@/lib/content";
 import { LANGS, REPO, ROUTES, SITE, T, type Lang } from "@/lib/i18n";
 
@@ -38,6 +39,7 @@ export function SiteHeader({ lang }: { lang: Lang }) {
           GitHub
         </a>
         <LangSwitch lang={lang} have={have()} />
+        <ThemeToggle lang={lang} />
       </div>
       <div id="progress" />
     </header>

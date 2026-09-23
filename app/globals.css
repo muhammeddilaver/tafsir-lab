@@ -11,17 +11,33 @@
   --sans:var(--font-sans),system-ui,-apple-system,sans-serif;
   --arabic:var(--font-arabic),"Noto Naskh Arabic",serif;
   --measure:68ch;
+  --caret:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%234E555A' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E");
+  color-scheme:light;
   --link-icon:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1'/%3E%3Cpath d='M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1'/%3E%3C/svg%3E");
 }
+/* Koyu tema: sistem ayari varsayilan; ust cubuktaki dugmeyle yapilan secim
+   <html data-theme> olarak yazilir ve her iki yonde de sistemi ezer. */
 @media (prefers-color-scheme:dark){
-  :root{
+  :root:not([data-theme=light]){
     --paper:#111417; --paper-2:#171B1F; --paper-3:#1E242A;
     --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#868E94;
     --rule:#272E34; --rule-soft:#1F252A;
     --lapis:#84ABDD; --lapis-soft:#1A2632;
     --rubric:#D2887A; --ar:#E8ECEA;
     --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+    --caret:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%23A6AEB2' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E");
+    color-scheme:dark;
   }
+}
+:root[data-theme=dark]{
+  --paper:#111417; --paper-2:#171B1F; --paper-3:#1E242A;
+  --ink:#E3E7E5; --ink-2:#A6AEB2; --ink-3:#868E94;
+  --rule:#272E34; --rule-soft:#1F252A;
+  --lapis:#84ABDD; --lapis-soft:#1A2632;
+  --rubric:#D2887A; --ar:#E8ECEA;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.3);
+  --caret:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%23A6AEB2' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E");
+  color-scheme:dark;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth; scroll-padding-top:84px}
@@ -59,17 +75,28 @@ a{color:var(--lapis)}
   font-family:inherit; font-size:13px; line-height:1.6;
   border:1px solid var(--rule); border-radius:999px;
   padding:2px 26px 2px 10px; color:var(--ink-2); background-color:transparent;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%234E555A' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-image:var(--caret);
   background-repeat:no-repeat; background-position:right 9px center;
   cursor:pointer;
 }
 .lang-select:hover{border-color:var(--lapis); color:var(--lapis)}
 /* Acilan liste isletim sisteminin cizdigi yerdir: kagit rengini oraya da ver */
 .lang-select option{background:var(--paper); color:var(--ink)}
+/* Tema dugmesi: ay acik temada, gunes koyu temada gorunur. Ikon CSS'le
+   secilir; boylece sunucu HTML'i ile istemci ayni kalir. */
+.theme-toggle{
+  display:inline-flex; align-items:center; justify-content:center;
+  width:28px; height:28px; padding:0; border:1px solid var(--rule); border-radius:999px;
+  background:transparent; color:var(--ink-2); cursor:pointer;
+}
+.theme-toggle:hover{border-color:var(--lapis); color:var(--lapis)}
+.theme-toggle svg{width:15px; height:15px}
+.theme-toggle .sun{display:none}
+:root[data-theme=dark] .theme-toggle .sun{display:block}
+:root[data-theme=dark] .theme-toggle .moon{display:none}
 @media (prefers-color-scheme:dark){
-  .lang-select{
-    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6' viewBox='0 0 9 6'%3E%3Cpath d='M1 1l3.5 3.5L8 1' fill='none' stroke='%23A6AEB2' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E");
-  }
+  :root:not([data-theme=light]) .theme-toggle .sun{display:block}
+  :root:not([data-theme=light]) .theme-toggle .moon{display:none}
 }
 /* iOS, 16px'ten kucuk form denetimine odaklaninca sayfayi buyutuyor */
 @media (max-width:560px){ .lang-select{font-size:16px; padding-top:1px; padding-bottom:1px} }
