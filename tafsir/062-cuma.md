@@ -102,7 +102,7 @@ Dört isim de **cer** halinde (kesreli). Yani cümlenin haberi değiller; *lill�
 
 Fark şudur: haber olsalardı yeni bir bilgi verilirdi. Sıfat/bedel olduklarında ise bilgi verilmiyor, **tesbihin muhatabı tarif ediliyor.** Yani ayet "Allah meliktir" demiyor; "tesbih edilen zât, melik olandır" diyor. Dikkat isimlerin kendisinde değil, tesbihin kime yapıldığında.
 
-Bu, sûrenin sonunda karşılığını bulacak. Üçüncü ayette aynı iki isim bu sefer **merfû** olarak, yani haber olarak dönecek: *ve hüve'l-azîzü'l-hakîm*. Aynı iki kelime, iki gramer konumunda. Bir kez tesbihin adresi, bir kez cümlenin hükmü.
+Bu, birazdan karşılığını bulacak. Üçüncü ayette aynı iki isim bu sefer **merfû** olarak, yani haber olarak dönecek: *ve hüve'l-azîzü'l-hakîm*. Aynı iki kelime, iki gramer konumunda. Bir kez tesbihin adresi, bir kez cümlenin hükmü.
 
 **الْمَلِك (el-Melik).** Kök **م-ل-ك**: bir şeye sahip olmak ve onun üzerinde tasarruf gücüne sahip olmak. Kökün altında iki dal ayrışır: *mülk* (idare, hükümranlık) ve *milk* (mülkiyet). *Melik* birincisine, *mâlik* ikincisine daha yakındır — ama ikisi de aynı gövdedendir ve Arapça bu ikisini birbirinden koparmaz. Yönetmek ile sahip olmak aynı kökten çıkıyor.
 
@@ -114,7 +114,7 @@ Bir de kökün akrabalarına bakmak öğretici: *el-Ardu'l-Mukaddese* (Mâide 5/
 
 Ve Bakara sûresinde bu iki kök yan yana geçmişti: meleklerin sözü, *"Biz seni hamd ile tesbih ediyor ve seni takdis ediyoruz"* (Bakara 2/30). Yani *sebbeha* ile *kaddese* Kur'an'ın kendi içinde eşleştirilmiş iki fiildir; Cum'a sûresinin ilk ayeti, bu eşleşmeyi fiil + isim olarak yeniden kuruyor.
 
-**الْعَزِيز (el-Azîz).** Kök **ع-ز-ز**: sertlik, delinmezlik, yenilmezlik — ve buradan azlık, nadirlik. Arapçada *arzun azâz*, "sert, kazılmaz toprak" demektir. Bu isim sekizinci ayette ele alınacak *izzet* kavramının kaynağıdır ve Münâfikûn sûresinde (63/8) tartışmanın merkezine oturacaktır. İki komşu sûre aynı kökü paylaşıyor: birinde bir ilahî isim, ötekinde insanların kavgasını verdiği bir sıfat.
+**الْعَزِيز (el-Azîz).** Kök **ع-ز-ز**: sertlik, delinmezlik, yenilmezlik — ve buradan azlık, nadirlik. Arapçada *arzun azâz*, "sert, kazılmaz toprak" demektir. Bu isim, *izzet* kavramının kaynağıdır ve Münâfikûn sûresinde (63/8) tartışmanın merkezine oturacaktır. İki komşu sûre aynı kökü paylaşıyor: birinde bir ilahî isim, ötekinde insanların kavgasını verdiği bir sıfat.
 
 **الْحَكِيم (el-Hakîm).** Kök **ح-ك-م**: engellemek, dizginlemek. *Hakeme*, atın ağzına takılan gemdir — hayvanı savrulmaktan alıkoyan parça. Arapça, hikmete bu adı vermiştir: **hikmet, bir bilgi yığını değil, savrulmayı engelleyen şeydir.**
 
@@ -192,7 +192,7 @@ Kendi okumam olarak şunu ekliyorum: bu sıralama bir zaman sırası değil, bir
 
 Burada eklenmesi gereken şey, kelimenin **bu ayetteki** işlevidir.
 
-Cum'a sûresi beş ayet sonra "Tevrat yüklenenler"den söz edecek. Yani sûre içinde bir karşıtlık kuruluyor:
+Cum'a sûresi üç ayet sonra "Tevrat yüklenenler"den söz edecek. Yani sûre içinde bir karşıtlık kuruluyor:
 
 | | Ne verilmiş | Sonuç |
 |---|---|---|
@@ -839,7 +839,7 @@ Ve edilgen kalıp burada bir şey daha söylüyor: kaçış aktifti (*tefirrûne
 
 ### عَالِمِ الْغَيْبِ وَالشَّهَادَةِ — iki alan
 
-**غ-ي-ب** kökü: gözden kaybolmak, örtülü olmak. *Ğaybe* — battı, gizlendi. Aynı kökten *ğaybet* (yokluk) ve *ğıybet* (arkadan konuşma — kişinin yokluğunda) gelir.
+**غ-ي-ب** kökü: gözden kaybolmak, örtülü olmak. *Gâbe* — battı, gizlendi. Aynı kökten *ğaybet* (yokluk) ve *ğıybet* (arkadan konuşma — kişinin yokluğunda) gelir.
 
 **ش-ه-د** kökü: hazır bulunmak, tanık olmak. *Şâhid* — orada bulunan. *Şehâdet* — hazır bulunanın bildirimi. Aynı kökten *meşhed* (görülen yer) ve *şehîd* gelir.
 

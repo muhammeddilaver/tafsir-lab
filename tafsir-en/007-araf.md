@@ -2,7 +2,7 @@
 
 **Two hundred and six verses.** It is widely reported that it came down in the Meccan period; some of its verses (particularly 163-171) are also said to have come down in Medina — **I adopt no firm preference.** It is the second longest sūra in the Qurʾān: by number of verses it comes after al-Baqara and al-Shuʿarāʾ, but **in volume of words it is second only to al-Baqara.** The verses of al-Shuʿarāʾ were short (`026-suara.md`); those of al-Aʿrāf are long.
 
-It takes its name from a word that occurs **in verses 46, 47 and 48**:
+It takes its name from a word that occurs **in verses 46 and 48**:
 
 > **وَعَلَى ٱلْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ**
 >
@@ -63,7 +63,7 @@ It takes its name from a word that occurs **in verses 46, 47 and 48**:
 
 **And *malaʾ* does not occur in the story of Lot** (80-84) — there the addressee is directly *qawmuh*. **This is a countable datum.**
 
-The root **م-ل-أ**: **to fill.** *Malaʾ* means "those who fill an assembly", that is, **the body that holds the word and takes the decisions.** The idea of "filling" in the root was also treated in `067-mulk.md` and `038-sad.md` in the pattern *la-amlaʾanna jahannama*; **I rely on that treatment.**
+The root **م-ل-أ**: **to fill.** *Malaʾ* means "those who fill an assembly", that is, **the body that holds the word and takes the decisions.** The idea of "filling" in the root was also treated in `038-sad.md` in the pattern *la-amlaʾanna jahannama*; **I rely on that treatment.**
 
 **I record this as an observation:** in the sequence of prophets in al-Aʿrāf the opposing side is never "the people" but **the deciding body within the people.** And in verse 75 that body is set against *alladhīna'stuḍʿifū* (those made weak) — **the sūra presents the opposition along a line of class.**
 
@@ -647,7 +647,7 @@ The root **ق-ع-د**: to sit. **That this verb is the one chosen here must be r
 
 **Explanations of this gap are transmitted in the classical commentaries** — it is widely said that "above was not counted because it is the direction from which mercy comes". **This is a transmitted view; I make no firm preference and do not use it as a proof.** **All I record is this: the text counts four directions, not six.**
 
-**And two verses can be set side by side; this is a verifiable overlap:**
+**And three verses can be set side by side; this is a verifiable overlap:**
 
 | Place | Expression | Directions |
 |---|---|---|
@@ -787,7 +787,7 @@ The root **و-س-و-س**: **a very light, continuous sound, a sound at the level
 
 **A point of word order must be recorded: the word is not directly the name of an organ.** **That is, the Qurʾān names the place that is to be covered not by its name but by its quality.**
 
-**I record this as an observation:** the word is itself a covering. **And the word occurs five times in this sūra** — 20, 22, 26, 27 (twice). **Three of the five occurrences are in the *yā banī Ādam* section.** **That is, what is named in the story is bound immediately afterwards to the reader.**
+**I record this as an observation:** the word is itself a covering. **And the word occurs four times in this sūra** — 20, 22, 26, 27. **Two of the four occurrences are in the *yā banī Ādam* section.** **That is, what is named in the story is bound immediately afterwards to the reader.**
 
 ### مَّا وُۥرِىَ — the work of the passive verb
 
@@ -854,7 +854,7 @@ The root **ق-س-م**: to divide, to apportion; *qasam* is an oath. ***Qāsama* 
 
 The root **ن-ص-ح**: **to make a thing pure and unmixed** (honey is called *nāṣiḥ*, "unmixed") **and to sew up a tear** (*niṣāḥa* — sewing). **Both branches are recorded: counsel carries both the idea of sincerity and the idea of mending.**
 
-**And this must be recorded — it is a pattern that can be verified within the sūra:** **the same root occurs four times in the sequence of prophets in al-Aʿrāf, and in all four it is used of true prophets.**
+**And this must be recorded — it is a pattern that can be verified within the sūra:** **the same root occurs five times in the sequence of prophets in al-Aʿrāf, and in all five it is used of true prophets.**
 
 | Verse | Who | Expression |
 |---|---|---|
@@ -864,7 +864,7 @@ The root **ن-ص-ح**: **to make a thing pure and unmixed** (honey is called *n�
 | **7/79** | **Ṣāliḥ** | *Wa **naṣaḥtu** lakum wa lākin lā tuḥibbūna'**n-nāṣiḥīn*** |
 | **7/93** | **Shuʿayb** | *Wa **naṣaḥtu** lakum* |
 
-**Five occurrences: one in the mouth of Iblīs, four in the mouths of prophets.**
+**Six occurrences: one in the mouth of Iblīs, five in the mouths of prophets.**
 
 **I record this as my own reading, and its ground is the five verses themselves:** **the sūra puts the same claim into the mouth of the liar and of the truthful alike** — and **shows what separates them not in the words but in the outcome.** **Ṣāliḥ's sentence in the seventy-ninth verse is the ground of this reading:** *wa lākin lā tuḥibbūna'n-nāṣiḥīn* — "but you do not love those who wish you well." **That is, the truth of the words is not measured by their being accepted.**
 
@@ -1128,7 +1128,7 @@ The root **ل-ب-س** and the likeness of *libās* **were treated at 2/187 in `0
 
 **And the negative branch of the same root was recorded there too: *talbīs* at 2/42 — "to dress falsehood in the clothing of truth".** **The root states both covering and confusing.**
 
-**What belongs here is this: al-Aʿrāf uses the word *libās* in three different senses within three verses.**
+**What belongs here is this: al-Aʿrāf uses the word *libās* in three different senses within two verses.**
 
 | Verse | Expression | Which sense |
 |---|---|---|
@@ -1313,7 +1313,7 @@ The sense of the root: **an indecency that exceeds the bound.** The lexicographe
 
 **The root was treated at 24/19 in `024-nur.md` and at 33/30 in `033-ahzab.md`; I rely on those treatments.**
 
-**And in this sūra the root occurs three times:** 28 (*fāḥishatan*), 33 (*al-fawāḥisha*), 80 (*a-taʾtūna'l-fāḥisha* — Lot's question to his people).
+**And in this sūra the root occurs four times:** 28 (*fāḥishatan* and *al-faḥshāʾ*), 33 (*al-fawāḥisha*), 80 (*a-taʾtūna'l-fāḥisha* — Lot's question to his people).
 
 ### ٱلْقِسْط — the root ق-س-ط
 
@@ -1411,7 +1411,7 @@ The sense of the root: **an indecency that exceeds the bound.** The lexicographe
 
 **The sense of the root: to adorn, to make beautiful.** ***Zīna* is what makes a thing look fair.** **The root was treated at 18/7 in `018-kehf.md` (*innā jaʿalnā mā ʿala'l-arḍi zīnatan lahā*) and at 20/59 in `020-taha.md` (*yawmu'z-zīna*).** **I rely on those treatments.**
 
-**And in this sūra the root occurs three times:**
+**And in this sūra the root occurs twice:**
 
 | Verse | Expression | What |
 |---|---|---|
@@ -1441,9 +1441,9 @@ The sense of the root: **an indecency that exceeds the bound.** The lexicographe
 
 **In al-Aʿrāf only one extreme is forbidden.** **And the reason for this becomes visible in the next verse: verse 32 will deal separately with the other extreme (setting out to forbid).** **That is, the two extremes have been divided between two verses.** **I record this as my own reading, and its ground is the arrangement of the two verses.**
 
-The root **س-ر-ف**: **to exceed the bound, to lose the measure.** The lexicographers record that the word carries not only the sense "to spend much" but also **"not to use a thing in its place"**. **The root was treated at 20/127 in `020-taha.md` (*man asrafa wa lam yuʾmin*) and at 40/28 and 40/43 in `040-gafir.md`.** **I rely on those treatments.**
+The root **س-ر-ف**: **to exceed the bound, to lose the measure.** The lexicographers record that the word carries not only the sense "to spend much" but also **"not to use a thing in its place"**. **The root was treated at 20/127 in `020-taha.md` (*man asrafa wa lam yuʾmin*) and at 40/28 and 43 in `040-gafir.md`.** **I rely on those treatments.**
 
-**And in this sūra the root occurs twice more, and both are striking:**
+**And in this sūra the root occurs twice, and both are striking:**
 
 | Verse | Expression | About whom |
 |---|---|---|
@@ -2010,7 +2010,7 @@ The root **غ-ل-ل**: **a thing's seeping in between, entering secretly.** ***G
 
 **In Arabic the pattern *mā kāna* + *li-* + imperfect states negation in its strongest form: "it was not a thing that could be, there was no possibility of it."** **This pattern was treated in `026-suara.md` and in the sections of `010-yunus.md`.**
 
-**And it is akin to the pattern *mā yakūnu laka an tatakabbara* in the thirty-third verse — there too an impossibility was being stated.**
+**And it is akin to the pattern *mā yakūnu laka an tatakabbara* in the thirteenth verse — there too an impossibility was being stated.**
 
 **I record this as an observation:** the first sentence of the people of the Garden is a **praise**, the second a **withdrawal of themselves**. **And the third is the confirmation of the messengers' truthfulness** (*laqad jāʾat rusulu rabbinā bi'l-ḥaqq*). **Three sentences: thanks, humility, confirmation.**
 
@@ -2018,7 +2018,7 @@ The root **غ-ل-ل**: **a thing's seeping in between, entering secretly.** ***G
 
 The root **و-ر-ث**: to come into an inheritance. **The verb here is passive: "you have been made to inherit it."**
 
-**And the same root occurs twice more in this sūra:**
+**And the same root occurs three times more in this sūra:**
 
 | Verse | Expression | Who |
 |---|---|---|
@@ -2105,6 +2105,12 @@ The root **ع-و-ج** was treated at 39/28 in `039-zumer.md` (*ghayra dhī ʿiwa
 *Wa baynahumā ḥijāb, wa ʿala'l-aʿrāfi rijālun yaʿrifūna kullan bi-sīmāhum, wa nādaw aṣḥāba'l-jannati an salāmun ʿalaykum, lam yadkhulūhā wa hum yaṭmaʿūn · Wa idhā ṣurifat abṣāruhum tilqāʾa aṣḥābi'n-nāri qālū rabbanā lā tajʿalnā maʿa'l-qawmi'ẓ-ẓālimīn*
 
 "**Between the two there is a veil. And upon al-Aʿrāf are men who recognise each by his mark. They call out to the people of the Garden: 'Peace be upon you.' They have not entered it, but they hope to. · And when their eyes are turned towards the people of the Fire they say: 'Our Lord! Do not place us with the wrongdoing people.'**"
+
+## 7/48-49 — وَنَادَىٰٓ أَصْحَٰبُ ٱلْأَعْرَافِ رِجَالًا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ · أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ
+
+*Wa nādā aṣḥābu'l-aʿrāfi rijālan yaʿrifūnahum bi-sīmāhum qālū mā aghnā ʿankum jamʿukum wa mā kuntum tastakbirūn · A-hāʾulāʾi'lladhīna aqsamtum lā yanāluhumu'llāhu bi-raḥmah, udkhulu'l-jannata lā khawfun ʿalaykum wa lā antum taḥzanūn*
+
+"**And the people of al-Aʿrāf call out to men whom they know by their marks: 'Your amassing did not avail you, nor did your being haughty.' · 'Are these the ones you swore God would not reach with mercy? Enter the Garden; no fear shall be upon you, nor shall you grieve.'**"
 
 ### ٱلْأَعْرَاف — the word itself
 
@@ -2218,7 +2224,7 @@ The root **ص-ر-ف**: to turn a thing from one direction to another. **And the 
 
 ---
 
-## 7/50-51 — وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ · ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا
+## 7/50-51 — وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ · ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 
 *Wa nādā aṣḥābu'n-nāri aṣḥāba'l-jannati an afīḍū ʿalaynā mina'l-māʾi aw mimmā razaqakumu'llāh, qālū inna'llāha ḥarramahumā ʿala'l-kāfirīn · Alladhīna'ttakhadhū dīnahum lahwan wa laʿiban wa gharrathumu'l-ḥayātu'd-dunyā, fa'l-yawma nansāhum kamā nasū liqāʾa yawmihim hādhā wa mā kānū bi-āyātinā yajḥadūn*
 
@@ -2299,10 +2305,10 @@ The root **ف-ص-ل**: **to separate two things from one another; to set a divis
 |---|---|
 | **32** | *Kadhālika **nufaṣṣilu**'l-āyāti li-qawmin yaʿlamūn* |
 | **52** | *Bi-kitābin **faṣṣalnāhu** ʿalā ʿilm* |
-| **145** | *Wa katabnā lahū fi'l-alwāḥi min kulli shayʾin mawʿiẓatan wa **tafṣīlan** li-kulli shayʾ* |
+| **133** · **145** | *Āyātin **mufaṣṣalāt*** · *Wa katabnā lahū fi'l-alwāḥi min kulli shayʾin mawʿiẓatan wa **tafṣīlan** li-kulli shayʾ* |
 | **174** | *Wa kadhālika **nufaṣṣilu**'l-āyāti wa laʿallahum yarjiʿūn* |
 
-**Three of the four occurrences are for this Book, one for the tablets given to Moses.** **That is, the sūra ascribes the same verb to two Books.** **I record this as an observation.**
+**Three of the five occurrences are for this Book, one for the signs sent upon Pharaoh's people, one for the tablets given to Moses.** **That is, the sūra ascribes the same verb to two Books.** **I record this as an observation.**
 
 **عَلَىٰ عِلْمٍ** — "upon a knowledge". **The particle *ʿalā*: the ground on which the work of setting out in detail rests is stated.** **And this is the same word as *fa-la-naquṣṣanna ʿalayhim bi-ʿilmin* in the sixth and seventh verses. The sūra ties both the recounting and the setting out in detail to the same word.**
 
@@ -2388,7 +2394,7 @@ The root **أ-و-ل**: **the place to which a thing returns, the end it reaches.
 | `039-zumer.md` **39/5** | *Yukawwiru'l-layla ʿala'n-nahāri wa yukawwiru'n-nahāra ʿala'l-layl* | **ك-و-ر** | **To wind over** — as a turban is wound, each over the other |
 | **al-Aʿrāf 7/54** | *Yughshi'l-layla'n-nahāra **yaṭlubuhū ḥathīthā*** | **غ-ش-و** + **ط-ل-ب** | **To cover and to pursue** — one covers the other over, running after it |
 
-**The concrete senses of the three roots must be recorded separately:**
+**The concrete senses of the four roots must be recorded separately:**
 
 - **و-ل-ج** — to enter through a narrow place. *Wulūj* — entry. **Picture: passing one within the other.**
 - **ك-و-ر** — to wind a thing by folding. *Kawr* — the winding of a turban. **Picture: winding over.**
@@ -2397,7 +2403,7 @@ The root **أ-و-ل**: **the place to which a thing returns, the end it reaches.
 
 **حَثِيثًا** — the root **ح-ث-ث**: **to urge on, to go continuously and fast.** *Ḥaththa* — he drove without stopping, he urged on. ***Ḥathīth* means "without any halt and fast".** **The word in this pattern occurs only here in the Qurʾān; this is a countable datum.**
 
-**And the difference of the three pictures is worth recording. I give this as my own reading and it is not binding; its ground is the concrete senses of the three roots:**
+**And the difference of the three pictures is worth recording. I give this as my own reading and it is not binding; its ground is the concrete senses of the four roots:**
 
 | | Luqmān 31/29 | al-Zumar 39/5 | **al-Aʿrāf 7/54** |
 |---|---|---|---|
@@ -3020,7 +3026,7 @@ The root **م-ط-ر**: **rain.** **And the pattern of the verb must be recorded:
 
 ### What is placed after the call
 
-**In the four stories what came after the shared opening sentence was different** (it was given in the table of the pattern above). **With Shuʿayb that place is filled with three prohibitions, and all three concern measure:**
+**In the four stories what came after the shared opening sentence was different** (it was given in the table of the pattern above). **With Shuʿayb that place is filled with one command and two prohibitions, and all three concern measure:**
 
 | # | Command/prohibition | Field |
 |---|---|---|
@@ -3057,7 +3063,7 @@ The root **ع-و-ج**: **crookedness.** **And the lexicographers record a distin
 
 ### Two *malaʾ*s, two different threats
 
-**In the story of Shuʿayb *malaʾ* occurs twice, and this is the highest number for any one prophet in the sūra. It was counted in the section on the structure; here it is treated:**
+**In the story of Shuʿayb *malaʾ* occurs twice. It was counted in the section on the structure; here it is treated:**
 
 | Verse | How it is qualified | To whom it speaks | What it says |
 |---|---|---|---|
@@ -3274,7 +3280,7 @@ The root **و-ر-ث**: **to come into possession of what another has left behind
 
 The root **ط-ب-ع**: **to press a stamp upon a thing, to seal it.** The lexicographers tie the root to the picture of **the stamping of coin and of wax.** ***Ṭabīʿa* (nature) is from the same root: what has been stamped on, a settled condition.**
 
-**And the occurrences of the root in the sūra are countable: 100, 101 — and at 7/40 (in the context of *wa kadhālika najzi'l-mujrimīn*) other verbs of the same field will be used.**
+**And the occurrences of the root in the sūra are countable: 100, 101 — and at 7/40 (in the context of *wa kadhālika najzi'l-mujrimīn*) other verbs of the same field were used.**
 
 **And per the method (`STYLE.md`) a note is required, and I write it plainly:** **the question of the seal is a field of *kalām* debate** (the relation between the servant's act and divine decree). **This commentary takes no side in that debate.**
 
@@ -4018,9 +4024,9 @@ The root **خ-و-ر**: **the lowing of cattle.** **It was recorded at 20/88 in `
 
 **And the coming together of two words in al-Aʿrāf must be recorded: *ghaḍbāna* (angry) and *asifan* (grieved).** **Two states are named together.**
 
-**وَأَلْقَى ٱلْأَلْوَاحَ** — **and the verb must be recorded: *alqā*.** **This is a verb that has already occurred three times in the sūra** (7/107: *fa-**alqā** ʿaṣāh*; 7/115-116: *immā an **tulqiya*** / *alqū*; 7/117: *an **alqi** ʿaṣāk*). **The fourth occurrence is here, and its object is the tablets.**
+**وَأَلْقَى ٱلْأَلْوَاحَ** — **and the verb must be recorded: *alqā*.** **This is a verb that has already occurred four times in the sūra** (7/107: *fa-**alqā** ʿaṣāh*; 7/115-116: *immā an **tulqiya*** / *alqū*; 7/117: *an **alqi** ʿaṣāk*; 7/120: *wa **ulqiya**'s-saḥaratu sājidīn*). **The fifth occurrence is here, and its object is the tablets.**
 
-**I record this as my own reading and it is not binding; its ground is the four occurrences of the verb:** **the same verb had three times been used for the showing of a sign; at the fourth what was given is set down.** **And it will be taken up again in the hundred and fifty-fourth verse: *akhadha'l-alwāḥ*.** **This is an explanation, not a ruling.**
+**I record this as my own reading and it is not binding; its ground is the five occurrences of the verb:** **the same verb had three times been used for the showing of a sign and once for the magicians being set down in prostration; at the fifth what was given is set down.** **And it will be taken up again in the hundred and fifty-fourth verse: *akhadha'l-alwāḥ*.** **This is an explanation, not a ruling.**
 
 **لَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ** — the root **ش-م-ت**: **to rejoice at the ill that befalls another.** **The word occurs only here in the Qurʾān. This is a countable datum.**
 
@@ -4186,7 +4192,7 @@ The root **إ-ص-ر**: **the tie that holds a thing in place, a weight; and from
 
 The root **غ-ل-ل**: **the ring or chain put on the neck or the hand.** ***Aghlāl* — the plural of *ghull*.**
 
-The root **ي-ض-ع**: **to put down, to lower; and from this, to set a load down on the ground.**
+The root **و-ض-ع**: **to put down, to lower; and from this, to set a load down on the ground.**
 
 **And the choice of the verb is worth recording: *yaḍaʿu* — "he sets down, he puts off".** **Not to break or to snap; to set down on the ground.**
 
@@ -4417,7 +4423,7 @@ The root **أ-م-م**: **mother; and from this, origin, source, community (*umma
 
 **That is, the verse itself does not allow a blanket judgement to be built about a community.** **And this note lies on the same line as the note in the hundred and fifty-ninth verse (*wa min qawmi Mūsā ummatun yahdūna bi'l-ḥaqq*).**
 
-**Within the sūra this note of division occurs three times, and it is a countable datum:**
+**Within this block the note of division occurs three times, and it is a countable datum:**
 
 | Verse | Note of division |
 |---|---|
@@ -4460,7 +4466,7 @@ The root **أ-ذ-ن**: **ear; and from this, to hear, to give leave, to proclaim
 | **130-131** | **The people of Pharaoh** | *Sinīn wa naqṣ* → *jāʾathumu'l-ḥasana* |
 | **168** | **This community** | *Bi'l-ḥasanāti wa's-sayyiʾāt* |
 
-**In all three the same structure: good and ill together are counted as a test.** **And in all three the purpose of the test is stated with the same kind of verb:** *laʿallahum **yadhdhakkarūn*** (130), *laʿallahum **yarjiʿūn*** (168).
+**In all three the same structure: good and ill together are counted as a test.** **And in all three the purpose of the test is stated with the pattern *laʿallahum*:** *laʿallahum **yaḍḍarraʿūn*** (94), *laʿallahum **yadhdhakkarūn*** (130), *laʿallahum **yarjiʿūn*** (168).
 
 **I record this as an observation, and its ground is the words of the three verses.**
 
@@ -4480,7 +4486,7 @@ The root **أ-ذ-ن**: **ear; and from this, to hear, to give leave, to proclaim
 
 The root **ع-ر-ض**: **breadth; and from this, what comes past from one side.** ***ʿAraḍ* is what does not last, what is passing.** **And the lexicographers use the word as the opposite of *jawhar* (what abides).**
 
-The root **أ-د-ن-و**: **nearness; and from this, lowness, baseness.** ***Adnā* means both "nearest" and "lowest"; and the word *dunyā* is from the same root.**
+The root **د-ن-و**: **nearness; and from this, lowness, baseness.** ***Adnā* means both "nearest" and "lowest"; and the word *dunyā* is from the same root.**
 
 **That is, the phrase states transience twice over: *ʿaraḍ* (what passes by) and *adnā* (what is near, what stays low).**
 
@@ -5122,7 +5128,7 @@ The root **ن-ظ-ر** here means **"to grant respite"**, and it had occurred in 
 
 **And the last sentence in the hundred and ninety-eighth verse must be recorded: *wa tarāhum yanẓurūna ilayka wa hum lā yubṣirūn*.**
 
-**This is the coming together in one sentence of the two roots undone at the hundred and forty-third verse (ن-ظ-ر and ب-ص-ر):** **there is looking, there is no seeing.**
+**This is the coming together in one sentence of two roots undone separately in the sūra (ن-ظ-ر — the hundred and forty-third verse; ب-ص-ر — the hundred and seventy-ninth):** **there is looking, there is no seeing.**
 
 **I record this as an observation, and its ground is the difference between the two roots:** **the verse shows within a single sentence that looking and seeing are not the same thing.**
 
@@ -5284,9 +5290,9 @@ The root **ط-و-ف**: **to go round a thing, to circle it.** ***Ṭāʾif* mean
 
 **Five occurrences.** **And four are negative, the fifth positive.**
 
-**I record this as my own reading and it is not binding; its ground is the root shared by the five verses (ب-ص-ر):** **after describing the state of not seeing four times, the sūra says once how seeing comes.** **And the way given is *tadhakkur* (taking thought and remembering), not a proof.**
+**I record this as my own reading and it is not binding; its ground is the axis of seeing in the five verses (ب-ص-ر in four of them, ع-م-ي in one):** **after describing the state of not seeing four times, the sūra says once how seeing comes.** **And the way given is *tadhakkur* (taking thought and remembering), not a proof.**
 
-**And in the two hundred and third verse the word *baṣāʾir* comes — from the same root: *hādhā baṣāʾiru min rabbikum*.** **That is, the root occurs a sixth time at the closing of the sūra, and this time as the name of the Book.**
+**And in the two hundred and third verse the word *baṣāʾir* comes — from the same root: *hādhā baṣāʾiru min rabbikum*.** **That is, the root occurs a fifth time at the closing of the sūra, and this time as the name of the Book.**
 
 The root **ب-ص-ر**: **to see; and from this *baṣīra* — to see the inner face of a thing.** ***Baṣāʾir* is the plural of *baṣīra*.**
 
@@ -5342,7 +5348,7 @@ The root **ن-ص-ت**: **to fall silent, to stop one's voice and listen.** ***In
 
 ### The measure of voice in the index — three links
 
-**The places in the Qurʾān where the voice is tied to a measure were treated in the index, and I rely on two of them:**
+**The places in the Qurʾān where the voice is tied to a measure were treated in the index, and I rely on three of them:**
 
 | Place | Expression | What was recorded there |
 |---|---|---|
@@ -5443,7 +5449,7 @@ The root **ن-ص-ت**: **to fall silent, to stop one's voice and listen.** ***In
 | 14 | ***Nufaṣṣilu'l-āyāt / faṣṣalnāhu / tafṣīl / mufaṣṣalāt*** (**ف-ص-ل**) | 32, 52, 133, 145, 174 | **5** | Setting out in detail |
 | 15 | ***Ṣurifat / nuṣarrifu / sa-aṣrifu*** (**ص-ر-ف**) | 47, 58, 146 | **3** | Gazes, signs, the proud |
 | 16 | ***Ghāfilīn / ghāfilūn*** (**غ-ف-ل**) | 136, 172, 179, 205 | **4** | Statement → excuse → diagnosis → **prohibition** |
-| 17 | ***Yubṣirūn / mubṣirūn / baṣāʾir*** (**ب-ص-ر**) | 179, 195, 198, 201, 203 | **5** | The axis of seeing; four negative, one positive |
+| 17 | ***Yubṣirūn / mubṣirūn / baṣāʾir*** (**ب-ص-ر**) | 179, 195, 198, 201, 203 | **5** | The axis of seeing; three negative, two positive |
 | 18 | ***Nāṣiḥ / anṣaḥu / naṣaḥtu*** (**ن-ص-ح**) | 21, 62, 68, 79, 93 | **5** | One in the mouth of Iblīs, four in those of prophets |
 | 19 | ***Aqʿudanna / lā taqʿudū*** (**ق-ع-د**) + *ṣirāṭ* | 16, 86 | **2** | Iblīs's intent, a prohibition to Madyan |
 | 20 | ***Rijz*** | 134, 135, 162 | **3** | The people of Pharaoh and this community |
@@ -5460,7 +5466,7 @@ The root **ن-ص-ت**: **to fall silent, to stop one's voice and listen.** ***In
 | 31 | **Prostration and pride** (**س-ج-د** + **ك-ب-ر**) | 11-13, 206 | **2** | The opening and the closing of the sūra |
 | 32 | **The note of division** (*min*, *minhum*) | 159, 162, 168, 181 | **4** | That no blanket judgement is built |
 | 33 | **The two-directional test** (*ḥasana* + *sayyiʾa*) | 94-95, 130-131, 168 | **3** | Hardship and abundance together |
-| 34 | ***Alqā / alqū / tulqiya*** (**ل-ق-ي**) | 107, 115, 116, 117, 150 | **5** | Four of them a sign, one the tablets |
+| 34 | ***Alqā / alqū / tulqiya*** (**ل-ق-ي**) | 107, 115, 116, 117, 120, 150 | **6** | Four of them a sign, one the prostration, one the tablets |
 | 35 | **The measure "what can it do?"** | 148, 179, 195 | **3** | The calf, man, those called upon — **the same measure** |
 | 36 | ***Bayātan / ḍuḥan / baghtatan*** — suddenness | 4, 95, 97, 98 | **4** | The hour of sleep and of play |
 

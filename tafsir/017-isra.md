@@ -838,7 +838,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | Yer | Yasaklanan uçlar | Ölçünün adı |
 |---|---|---|
 | Furkān 25/67 | *İsrâf* ve *iktâr* | ***Kavâm*** — denge noktası |
-| **İsrâ 17/26-29** | *Tebzîr* (26) ve **el bağlama** (29) | *Beyne zâlik* (29) — **ikisi arasında** |
+| **İsrâ 17/26-29** | *Tebzîr* (26) ve **el bağlama** (29) | *Beyne zâlik* (110) — **ikisi arasında** |
 
 **İki sûre aynı ölçüyü kuruyor ama İsrâ onu iki ayrı ayete bölüyor ve ikincisini bir görüntüyle veriyor.** Bu, sûreler arası doğrulanabilir bir örtüşmedir.
 
@@ -1017,7 +1017,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu bir gözlem olarak kaydediyorum ve dayanağı kelimenin kendisidir:** ayet iki hüküm veriyor — biri fiilin **niteliği** (*fâhışe*), öteki fiilin **yönü** (*sebîl* — yol). **Yani fiil, bir nokta olarak değil, bir istikamet olarak da değerlendiriliyor.**
 
-**Ve *sebîl* kelimesi bu sûrede sık geçer** (9, 32, 42, 48, 72, 84, 110). **Sûrenin son ayetlerinden birinde aynı kelime bir emirle döner: *ve'bteği beyne zâlike sebîlâ* (110).** Bu, sûre içinde doğrulanabilir bir örgüdür.
+**Ve *sebîl* kelimesi bu sûrede sık geçer** (26, 32, 42, 48, 72, 84, 110). **Sûrenin son ayetlerinden birinde aynı kelime bir emirle döner: *ve'bteği beyne zâlike sebîlâ* (110).** Bu, sûre içinde doğrulanabilir bir örgüdür.
 
 ---
 
@@ -1473,7 +1473,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Aynı suçlama, sûrenin iki ucunda, iki ayrı elçiye.** Bu, sûre içinde doğrulanabilir bir tekrardır ve **101. ayette ayrıca ele alınacak.**
 
-**Bunu kendi okumam olarak kaydediyorum:** sûre, karşı tarafın kullandığı kelimeyi kaydedip, yüz ayet sonra aynı kelimenin çok daha eski bir örneğini gösteriyor. **Yani itiraz yeni değil.**
+**Bunu kendi okumam olarak kaydediyorum:** sûre, karşı tarafın kullandığı kelimeyi kaydedip, elli dört ayet sonra aynı kelimenin çok daha eski bir örneğini gösteriyor. **Yani itiraz yeni değil.**
 
 ### 17/48 — ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ
 
@@ -1606,7 +1606,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | 65 | *Ve kefâ bi-rabbike vekîlâ* | **Rab** — yeten vekil |
 | 68 | *Sümme lâ tecidû leküm vekîlâ* | **Yokluk** — bulunamayan vekil |
 
-**Kelime sûrede dört yerde ve dört ayrı işte.** Bu, sûre içinde doğrulanabilir bir örgüdür ve **bunu kendi okumam olarak kaydediyorum: sûre, dayanma yerini dört adımda daraltıyor** — edinme, elçinin olmaması, Rabbin yetmesi, başkasının bulunmaması.
+**Kelime sûrede beş yerde geçer; ilk dördü dört ayrı işte.** Bu, sûre içinde doğrulanabilir bir örgüdür ve **bunu kendi okumam olarak kaydediyorum: sûre, dayanma yerini dört adımda daraltıyor** — edinme, elçinin olmaması, Rabbin yetmesi, başkasının bulunmaması.
 
 ### فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍ
 
@@ -1833,7 +1833,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | 53 | *Li-ıbâdî* — çoğul | **Emrin muhatabı** |
 | 30, 96 | *Bi-ıbâdihî* | **Bilinen taraf** |
 
-**Kelime sûrede altı yerde geçiyor ve altısında da olumlu bir konumda.** Bu, sûre içinde doğrulanabilir bir örgüdür.
+**Kelime sûrede sekiz yerde geçiyor; tablodaki altısı olumlu bir konumda.** Bu, sûre içinde doğrulanabilir bir örgüdür.
 
 ---
 
@@ -2000,7 +2000,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ve kayıt kaydedilmelidir: *şey'en kalîlâ* — "az bir şey".** **Yani söz konusu olan tam bir yönelme değil, küçük bir eğilim.**
 
-### دِعْف ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ
+### ضِعْف ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ
 
 **Karşılık kaydedilmeye değer ve dizim gözlemi olarak veriyorum:** ayet, "az bir meyil" için **kat kat** azap söylüyor. Orantısızlık cümlenin kendisinde.
 
@@ -2160,16 +2160,16 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 ### وَلَا يَزِيدُ … إِلَّا خَسَارًا
 
-**Bu kalıp sûrede dördüncü kez geliyor:**
+**Bu kalıp sûrede üçüncü kez geliyor:**
 
 | Ayet | Ne artıyor | Kimde |
 |---|---|---|
 | 41 | *Nüfûr* — ürküp kaçma | Muhataplar |
-| 46 | *Nüfûr* | Muhataplar |
+| 46 | *Nüfûr* — aynı sonuç, kalıpsız | Muhataplar |
 | 60 | *Tuğyân kebîr* — büyük azgınlık | Muhataplar |
 | **82** | *Hasâr* — zarar | *Ez-zâlimîn* |
 
-**Aynı kalıp (*mâ/lâ yezîdü … illâ*) sûrede dört kez.** Bu, sûre içinde doğrulanabilir bir örgüdür.
+**Aynı kalıp (*mâ/lâ yezîdü … illâ*) sûrede üç kez.** Bu, sûre içinde doğrulanabilir bir örgüdür.
 
 **Ve seksen ikinci ayetteki fark kaydedilmelidir: burada özne *zâlimîn* — yani bir vasıf.** **STYLE gereği bu kayıt önemlidir: hüküm bir gruba değil, bir vasfa bağlanıyor.**
 
@@ -2689,7 +2689,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Ve İsrâ'nın kendine has eki kaydedilmelidir: *ve yezîdühüm huşûâ* — "bu, onların huşûunu artırır."**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi tekrarıdır:** *yezîdü* fiili sûrede dört kez olumsuz bir sonuçla kullanılmıştı (41, 46, 60, 82) — ürküp kaçma, azgınlık, zarar. **Yüz dokuzuncu ayet, aynı fiili ilk kez olumlu bir sonuçla kullanıyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi tekrarıdır:** *yezîdü* fiili sûrede üç kez olumsuz bir sonuçla kullanılmıştı (41, 60, 82) — ürküp kaçma, azgınlık, zarar. **Yüz dokuzuncu ayet, aynı fiili ilk kez olumlu bir sonuçla kullanıyor.**
 
 | Ayet | Ne artıyor | Kimde |
 |---|---|---|
@@ -2763,7 +2763,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı üç ayetin ortak kalıbıdır:** Kur'an, ölçüyü hiçbir yerde bir sayıyla vermiyor. **Her defasında iki ucu adlandırıp arasını arıyor** — ve İsrâ'da bu, bir arama fiiliyle söyleniyor: *ve'bteği* ("ara"). **Yani orta nokta hazır verilmiyor; aranacak bir şey olarak konuyor.**
 
-**Ve *sebîl* kelimesi burada geri dönüyor — sûrede sık geçen kelimelerden biriydi** (9, 32, 42, 48, 72, 84, 110). **Sûre, "kötü yol" (32), "yol bulamama" (48), "daha sapkın yol" (72) ifadelerinden sonra, son emirde bir yol *aranmasını* istiyor.**
+**Ve *sebîl* kelimesi burada geri dönüyor — sûrede sık geçen kelimelerden biriydi** (26, 32, 42, 48, 72, 84, 110). **Sûre, "kötü yol" (32), "yol bulamama" (48), "daha sapkın yol" (72) ifadelerinden sonra, son emirde bir yol *aranmasını* istiyor.**
 
 ### 17/111 — üç olumsuzlama
 
@@ -2824,7 +2824,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 
 | Kelime / kök | Nerede | Ne yapıyor |
 |---|---|---|
-| **عبد** | *bi-abdihî* (1) — *abden şekûrâ* (3) — *ıbâdî* (53, 65) — *bi-ıbâdihî* (30, 96) | Altı geçiş, hepsi olumlu konumda |
+| **عبد** | *bi-abdihî* (1) — *abden şekûrâ* (3) — *ıbâden lenâ* (5) — *bi-zünûbi ıbâdihî* (17) — *ıbâdî* (53, 65) — *bi-ıbâdihî* (30, 96) | Sekiz geçiş, altısı olumlu konumda |
 | **ك-ر-م** | *kavlen kerîmâ* (23) — *kerremte aleyye* (62) — *kerremnâ benî Âdem* (70) | Emir, itiraz, hüküm |
 | **س-ب-ح** | *sübhâne* (1, 43, 93, 108) — *tüsebbihu* (44) | Beş ayrı ağızda |
 | **ق-و-م / ق-ع-د** | *akvem* (9) — *tak'ude* (22, 29) — *el-müstakīm* (35) | Yön, çöküş, terazi |
@@ -2832,7 +2832,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı metnin kendi cümleleridir:
 | **ع-ن-ق** | *tâirahû fî unukıh* (13) — *mağlûleten ilâ unukik* (29) | Taşıyan ve engelleyen boyun |
 | **ف-ز-ز** | *istefziz* (64) — *yestefizzûneke* (76) — *yestefizzehüm* (103) | Şeytan, muhataplar, Firavun |
 | **مسحور** | 47 (Peygamber'e) — 101 (Mûsâ'ya) | Aynı suçlama, iki tarih |
-| **يزيد … إلا** | *nüfûr* (41, 46) — *tuğyân* (60) — *hasâr* (82) — ***huşû*** (109) | Dört olumsuz, bir olumlu |
+| **يزيد … إلا** | *nüfûr* (41) — *tuğyân* (60) — *hasâr* (82) — ***huşû*** (109) | Üç olumsuz, bir olumlu |
 | **17/49 = 17/98** | *E-izâ künnâ ızâmen ve rufâtâ…* | Aynı itiraz, elli ayet arayla |
 | **17/7 → 17/104** | *Fe-izâ câe va'dü'l-âhıra* | Sûrenin iki ucunda aynı cümle |
 | **17/22 = 17/39** | *Lâ tec'al meallâhi ilâhen âhara* | Emirler listesinin çerçevesi |

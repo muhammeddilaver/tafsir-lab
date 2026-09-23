@@ -1075,7 +1075,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Bu istisna atlanamaz.** Cümlenin dilbilgisel yapısı, hükmün **tamamına** değil, istisna dışında kalanlara ait olduğunu söylüyor. **Metin, kendi hükmünü kendisi sınırlıyor.**
 
-**خَآئِنَة — kök خ-و-ن:** emanete aykırı davranmak. Kelimenin **te'li (müennes) gelmesi** üzerine klasik tefsirlerde iki izah vardır:
+**خَآئِنَة — kök خ-و-ن:** emanete aykırı davranmak. Kelimenin **te'li (müennes) gelmesi** üzerine klasik tefsirlerde üç izah vardır:
 
 | İzah | *Hâine* nedir |
 |---|---|
@@ -1160,7 +1160,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 - Cümle **teb'îz edatıyla** başlıyor (*min*).
 - Sebep, kimliğe değil bir **fiile** bağlanıyor (*fe-nesû*).
-- Ve sûre, kırk sekiz ayet sonra, **aynı grubun içinden** en yakın duranlardan söz edecektir (5/82-85), üstelik orada da gerekçe **vasfa** bağlanacaktır.
+- Ve sûre, altmış sekiz ayet sonra, **aynı grubun içinden** en yakın duranlardan söz edecektir (5/82-85), üstelik orada da gerekçe **vasfa** bağlanacaktır.
 
 **Metni bir bütün olarak okumak, iki ayeti de yerinde tutmayı gerektirir.**
 
@@ -1187,7 +1187,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Kendi okumam olarak kaydediyorum, dayanağı iki fiilin yan yana konmasıdır:** açıklama işi seçmelidir. Her gizlenenin ortaya dökülmesi, bir tebliğin değil bir hesaplaşmanın işidir. Ayet, elçinin ne yaptığını anlatırken **neyi yapmadığını da** anlatıyor.
 
-**Ve bu, sûrenin 13. ayetindeki *fa'fu anhüm va'sfah* emrinin uygulanmış hâlidir.** İki ayet arasında dört ayet var ve ikinci ayet birinciyi tekrar ediyor.
+**Ve bu, sûrenin 13. ayetindeki *fa'fu anhüm va'sfah* emrinin uygulanmış hâlidir.** İki ayet arasında bir ayet var ve ikinci ayet birinciyi tekrar ediyor.
 
 ### نُورٌ وَكِتَٰبٌ مُّبِينٌ
 
@@ -2019,7 +2019,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 **Bunu kendi okumam olarak kaydediyorum:** cümle, farklılığın karşısına **çatışmayı** değil **yarışmayı** koyuyor. **Ve yarışın konusu belirtiliyor: *el-hayrât*.**
 
-**Aynı fiil, kırk bir ayet önce olumsuz anlamda geçmişti: *yüsâriûne fi'l-küfr* (5/41).** **İki koşu, iki yönde.**
+**Aynı fiil, yedi ayet önce olumsuz anlamda geçmişti: *yüsâriûne fi'l-küfr* (5/41).** **İki koşu, iki yönde.**
 
 ### أَفَحُكْمَ ٱلْجَٰهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ (50)
 
@@ -2341,7 +2341,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 | Verilen gerekçe | Ne tür bir şey |
 |---|---|
 | *Minhüm kıssîsîne ve ruhbânen* | **İçlerinde ilim ve ibadet ehli bulunması** |
-| *Ve ennehüm lâ yestekbirûn* | *İstikbâr* etmemeleri — bir **tutum*** |
+| *Ve ennehüm lâ yestekbirûn* | *İstikbâr* etmemeleri — bir **tutum** |
 
 **Yani yakınlığın sebebi bir isim ya da mensubiyet değil, sayılan vasıflardır.** **Ve ayet bunu *bi-enne* (çünkü) ile açıkça söylüyor.**
 
@@ -2546,7 +2546,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 **Ayetin hükmü ise açıktır ve tariflerden bağımsızdır: *mâ cealallâhu* — bunları Allah koymadı.** **Ve devamında: *ve lâkinne'llezîne keferû yefterûne alallâhi'l-kezib.***
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı bir önceki bölümdür:** sûre, üç ayet önce **helâli haram kılmayı** yasaklamıştı (5/87). **Burada, kendiliğinden konmuş yasakların örneği veriliyor.** **İki yer birbirini açıklıyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı bir önceki bölümdür:** sûre, on altı ayet önce **helâli haram kılmayı** yasaklamıştı (5/87). **Burada, kendiliğinden konmuş yasakların örneği veriliyor.** **İki yer birbirini açıklıyor.**
 
 ### 5/104 — قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ
 

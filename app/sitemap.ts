@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
-import { VERSES, sectionStarts } from "@/lib/content";
-import { ROUTES } from "@/lib/i18n";
-import { abs } from "@/lib/meta";
+import { VERSES, langsWithSura, sectionStarts } from "@/lib/content";
+import { LANGS, ROUTES, SOURCE_LANG, type Lang } from "@/lib/i18n";
+import { abs, everywhere } from "@/lib/meta";
 
 // lastModified is deliberately omitted. The mtime of the source .md files
 // means nothing in the deployed environment: Vercel re-fetches the repository
@@ -10,56 +10,56 @@ import { abs } from "@/lib/meta";
 // search engine stops trusting it, it ignores the date signal for the whole
 // sitemap.
 
-/** One sitemap entry, together with its counterparts in both languages. */
-function entry(paths: { tr: string; en: string }, lang: "tr" | "en", priority: number) {
-  return {
-    url: abs(paths[lang]),
-    priority,
-    alternates: {
-      languages: {
-        tr: abs(paths.tr),
-        en: abs(paths.en),
-        "x-default": abs(paths.tr),
-      },
-    },
-  };
+/**
+ * One page in every language that publishes it: the entries share a single
+ * alternates block, which is what makes the cluster reciprocal.
+ *
+ * The record is partial because a translation may still be in progress. A
+ * sura the Indonesian corpus has not reached yet has no /id page, so it is
+ * neither listed nor named as an alternate — the moment the file lands, the
+ * next build adds both.
+ */
+function group(paths: Partial<Record<Lang, string>>, priority: number): MetadataRoute.Sitemap {
+  const present = LANGS.filter((l) => paths[l]);
+  const languages: Record<string, string> = Object.fromEntries(
+    present.map((l) => [l, abs(paths[l]!)])
+  );
+  if (paths[SOURCE_LANG]) languages["x-default"] = abs(paths[SOURCE_LANG]!);
+  return present.map((l) => ({ url: abs(paths[l]!), priority, alternates: { languages } }));
 }
 
-/** The same page in both languages: two entries sharing one alternates block. */
-const pair = (paths: { tr: string; en: string }, priority: number) => [
-  entry(paths, "tr", priority),
-  entry(paths, "en", priority),
-];
+/** A page that exists in all languages — everything but the sura pages. */
+const everyLang = (path: (r: (typeof ROUTES)[Lang]) => string, priority: number) =>
+  group(everywhere(path), priority);
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const out: MetadataRoute.Sitemap = [];
 
   // Home page
-  out.push(...pair({ tr: ROUTES.tr.home, en: ROUTES.en.home }, 1));
+  out.push(...everyLang((r) => r.home, 1));
 
   // 114 suras plus each sura's sections. The section boundaries are the same
-  // in both languages, so one pass produces both.
+  // in every language, so one pass over the Turkish source produces them all.
   for (let no = 1; no <= VERSES.length; no++) {
-    out.push(...pair({ tr: `${ROUTES.tr.sura}/${no}`, en: `${ROUTES.en.sura}/${no}` }, 0.8));
-    for (const s of sectionStarts("tr", no)) {
-      out.push(
-        ...pair(
-          { tr: `${ROUTES.tr.sura}/${no}/${s.from}`, en: `${ROUTES.en.sura}/${no}/${s.from}` },
-          0.7
-        )
-      );
+    const langs = langsWithSura(no);
+    const at = (make: (r: (typeof ROUTES)[Lang]) => string) =>
+      Object.fromEntries(langs.map((l) => [l, make(ROUTES[l])])) as Partial<Record<Lang, string>>;
+
+    out.push(...group(at((r) => `${r.sura}/${no}`), 0.8));
+    for (const s of sectionStarts(SOURCE_LANG, no)) {
+      out.push(...group(at((r) => `${r.sura}/${no}/${s.from}`), 0.7));
     }
   }
 
   // Root index — a genuine reader need and the widest internal-link hub
-  out.push(...pair({ tr: ROUTES.tr.roots, en: ROUTES.en.roots }, 0.7));
+  out.push(...everyLang((r) => r.roots, 0.7));
 
   // Method: the rules the text is bound by; the basis of the authorship note
-  out.push(...pair({ tr: ROUTES.tr.method, en: ROUTES.en.method }, 0.6));
-  out.push(...pair({ tr: ROUTES.tr.about, en: ROUTES.en.about }, 0.5));
+  out.push(...everyLang((r) => r.method, 0.6));
+  out.push(...everyLang((r) => r.about, 0.5));
 
-  out.push(...pair({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }, 0.2));
-  out.push(...pair({ tr: ROUTES.tr.privacy, en: ROUTES.en.privacy }, 0.2));
+  out.push(...everyLang((r) => r.terms, 0.2));
+  out.push(...everyLang((r) => r.privacy, 0.2));
 
   return out;
 }

@@ -293,7 +293,7 @@ Ayet *"inneke le-zû hulukın azîm"* (sen büyük ahlâk sahibisin) demiyor. **
 
 **Fark şudur:** "sahibisin" mülkiyet bildirir — ahlâk kişinin elinde bir şeydir. "Üzerindesin" ise **konum** bildirir — kişi ahlâkın üzerinde durur.
 
-**Ve bu, Fâtiha bahsinde kaydedilen bir tespite bağlanıyor:** orada *"alâ hüden min rabbihim"* (Rablerinden bir hidayet **üzerinde**) ifadesi ile *"fî dalâlin"* (sapkınlık **içinde**) ifadesi karşılaştırılmıştı — biri üstünde durulan bir zemin, öteki içine düşülen bir yer.
+**Ve bu, `002-bakara.md`'de kaydedilen bir tespite bağlanıyor:** orada *"alâ hüden min rabbihim"* (Rablerinden bir hidayet **üzerinde**) ifadesi ile *"fî dalâlin"* (sapkınlık **içinde**) ifadesi karşılaştırılmıştı — biri üstünde durulan bir zemin, öteki içine düşülen bir yer.
 
 **Aynı harf burada da aynı işi görüyor:** ahlâk, üzerinde durulan bir zemin olarak kuruluyor. Zemin altındadır ve taşır.
 
@@ -631,7 +631,7 @@ Bir toplantıda gereksiz bir tartışmayı yumuşatmak faydalıdır. Bir aile or
 
 ### Sıfatların kalıbı
 
-**Dokuz sıfatın beşi mübalağa kalıbındadır ve bu, portrenin niteliğini belirliyor:**
+**Dokuz sıfatın dördü mübalağa kalıbındadır ve bu, portrenin niteliğini belirliyor:**
 
 | Sıfat | Kalıp | Ne bildirir |
 |---|---|---|
@@ -1106,7 +1106,7 @@ Bağlaç bunu söylüyor: **إِنَّا بَلَوْنَاهُمْ كَمَا �
 
 **مُصْبِحِين — sabaha girmiş olarak.** Kök *s-b-h*; Mülk 67/30 bahsinde *asbaha* işlendi.
 
-**Ve bu kelime kıssada üç kez geçiyor:** 17 (*musbihîn*), 21 (*musbihîn*), 22 (*iğdû* — sabahleyin gidin). Yani kıssa **sabah** kelimesi etrafında dönüyor.
+**Ve bu kelime kıssada üç kez geçiyor:** 17 (*musbihîn*), 20 (*fe-asbehat*), 21 (*musbihîn*). Yani kıssa **sabah** kelimesi etrafında dönüyor.
 
 **Bunun sebebi kıssanın kurgusudur, kendi okumam olarak:** felaket geceleyin oluyor, sabah keşfediliyor. Ve adamlar sabahı planlamışlardı. **Plan sabaha, felaket geceye ait.**
 
@@ -1686,9 +1686,9 @@ Kur'an bu çıkarımı başka yerlerde de kaydeder — inkârcıların "bize bir
 
 **Ve kelime otuz dokuzuncu ayette tekrar gelecek:** *inne leküm le-mâ **tahkümûn*** — "hükmettiğiniz şey sizindir". Sûre, aynı fiili iki kez kullanarak iddiayı adlandırıyor: bu insanlar **hüküm veriyorlar** — kendi lehlerine.
 
-### Dört "yoksa" — delil talebi
+### Dört soru — delil talebi
 
-**Ayetler 37-41 arasında dört kez أَمْ (yoksa) geliyor ve her biri bir delil kaynağını eliyor:**
+**Ayetler 37-41 arasında dört soru geliyor — üçü أَمْ (yoksa) ile — ve her biri bir delil kaynağını eliyor:**
 
 | Ayet | Soru | Hangi delil kaynağı |
 |---|---|---|
@@ -2567,7 +2567,7 @@ Ve bu biçimin çekiciliği açıktır — daha kolaydır, daha hızlı sonuç v
 
 **Sûrenin yaptığı şey, listeyi yine de okumak.** Ve listeyi okurken bir ad vermemek.
 
-**Hümeze bahsindeki uyarı burada tekrar edilmelidir:** bu portreyi okuyup tanıdıklarını içine yerleştirmek, portrenin tarif ettiği fiilin ta kendisidir. Dokuz sıfatın dördü zaten dille işlenen kusurlardır: yemin, ayıplama, laf taşıma.
+**Hümeze bahsindeki uyarı burada tekrar edilmelidir:** bu portreyi okuyup tanıdıklarını içine yerleştirmek, portrenin tarif ettiği fiilin ta kendisidir. Dokuz sıfatın üçü zaten dille işlenen kusurlardır: yemin, ayıplama, laf taşıma.
 
 **Portre önce kendine uygulanır.**
 

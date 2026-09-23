@@ -173,7 +173,7 @@ The root **أ-و-ل**: **to arrive at the origin of a thing, at the place it ret
 
 **كَوْكَب** — a bright star, a planet. **The word was treated at `082-infitar.md` 82/2 (*wa-idhā'l-kawākibu'ntatharat*)** and this verse was cited there as well. **I rely on that treatment.**
 
-**يَٰٓأَبَتِ** — "my dear father". **The تِ at the end is a *tāʾ* used in Arabic for the vocative, and it conveys affection** (the original being *yā abī*). **The Qurʾān uses this address in several places, and in every one of them it is a conversation between father and son:** Abraham to his father (Maryam 19/42-45), the young woman of Midian to her father (al-Qaṣaṣ 28/26), and in this sūra twice, Joseph to his father (4, 100).
+**يَٰٓأَبَتِ** — "my dear father". **The تِ at the end is a *tāʾ* used in Arabic for the vocative, and it conveys affection** (the original being *yā abī*). **The Qurʾān uses this address in several places, and in every one of them it is a conversation between a child and a father:** Abraham to his father (Maryam 19/42-45), the young woman of Midian to her father (al-Qaṣaṣ 28/26), and in this sūra twice, Joseph to his father (4, 100).
 
 ---
 
@@ -671,7 +671,7 @@ The root **م-ك-ن**: **to have a place, to become firm.** **The root was analy
 
 **And at `053-necm.md` 53/29-30 the *irāda* form of the same root was treated:** *irāda* carries the idea of **searching** in its root. **I rely on that treatment.**
 
-**The distribution of the verb through the sūra must be recorded — it occurs four times, and in two separate domains:**
+**The distribution of the verb through the sūra must be recorded — it occurs five times, and in two separate domains:**
 
 | Verse | Expression | Who | What is sought |
 |---|---|---|---|
@@ -740,7 +740,7 @@ The root **م-ك-ن**: **to have a place, to become firm.** **The root was analy
 | # | Reading | How the sentence is construed | Ground |
 |---|---|---|---|
 | **1** | **The reading by fronting and postponing (*taqdīm-taʾkhīr*)** | The *lawlā* clause is taken to have been **brought forward**: "had he not seen the proof of his Lord he too would have desired her" — that is, **he did see it, and therefore did not desire her.** In Arabic the apodosis of *lawlā* may come first | The fronting of the apodosis of *lawlā* is a known usage in Arabic; and the clause at the end of the verse, *li-naṣrifa ʿanhu's-sūʾa wa'l-faḥshāʾ* (**that We might turn it away from him**), supports this reading |
-| **2** | **The reading by elision of the apodosis** | The apodosis has not been stated, and it is to be supplied thus: "…had he not seen it, [he would have inclined to her]." **The act did not take place**; *lawlā* by its nature reports something that did not happen | This is the function of *lawlā*: because the condition held, the consequence did not occur. The sentence "had there been no fire it would have burned" reports that no burning occurred |
+| **2** | **The reading by elision of the apodosis** | The apodosis has not been stated, and it is to be supplied thus: "…had he not seen it, [he would have inclined to her]." **The act did not take place**; *lawlā* by its nature reports something that did not happen | This is the function of *lawlā*: because the condition held, the consequence did not occur. The sentence "had there been no water it would have burned" reports that no burning occurred |
 | **3** | **The reading that the two occurrences of *hamm* are in different senses** | The woman's *hamm* and Joseph's *hamm* **are not the same thing.** Just as *hamma bi-* means in Arabic "to turn towards someone, to intend to do something", it is also used in the sense of **"to turn to repelling him, to resisting"** | Although the word occurs twice in the same form in the same verse, the context differs: one of them has bolted the doors, the other has said *maʿādha'llāh* |
 | **4** | **The reading that *hamm* is "what passes within"** | *Hamm* is not a decision but **a thought that rises within.** It is a natural motion of human nature and entails no verdict so long as it does not turn into an act | The Qurʾān records this nature of the *nafs* elsewhere, and will record it in this sūra too: *inna'n-nafsa la-ammāratun bi's-sūʾ* (53) |
 
@@ -1283,7 +1283,7 @@ The root **ع-ص-ر**: **to press, to squeeze the juice out.** *ʿAṣr* — pre
 | **2. The application** | 47 | *Fa-mā ḥaṣadtum fa-dharūhu **fī sunbulih*** — **leave it in the ear** |
 | **3. The surplus** | 49 | **A year that is not in the interpretation** — a year of plenty and of pressing |
 
-**I record this as my own reading, and its ground is the text of verse 43:** the dream the king saw contains **fourteen elements** (seven + seven cows, seven + seven ears). **The year in the forty-ninth verse is not in the dream.**
+**I record this as my own reading, and its ground is the text of verse 43:** the dream the king saw contains **twenty-eight elements** (seven + seven cows, seven + seven ears). **The year in the forty-ninth verse is not in the dream.**
 
 **That is, the answer exceeds what was asked.** And a link with the sūra's key construction can be made: *taʾwīlu'l-aḥādīth* — **to know where events arrive.** **The dream ends in the seventh year; *taʾwīl* shows the fifteenth as well.**
 
@@ -2154,7 +2154,7 @@ The root **ص-د-ق**: **truthfulness.** That *ṣadaqa* comes from this root is
 
 **I record this as an observation about the structure:** the question is full of intensifiers, the answer is bare. **And a single addition is made to the answer: *wa-hādhā akhī*.**
 
-**I give this as my own reading, and its ground is the added clause:** as the identity is disclosed, the man beside him is named as well — **that is, the pair who were the subject of the complaint in the eighth verse are named together here** (*la-Yūsufu **wa-akhūhu***). **The same pair, forty years later, together in the same way.** This is an overlap verifiable within the sūra.
+**I give this as my own reading, and its ground is the added clause:** as the identity is disclosed, the man beside him is named as well — **that is, the pair who were the subject of the complaint in the eighth verse are named together here** (*la-Yūsufu **wa-akhūhu***). **The same pair, years later, together in the same way.** This is an overlap verifiable within the sūra.
 
 ### مَن يَتَّقِ وَيَصْبِرْ — two verbs
 
@@ -2303,7 +2303,7 @@ The root **ف-ن-د**: **the weakening of judgement, the dotage of the mind; and
 
 **The same root, about the same person, at the two ends of the sūra.** **And in the second use a word has been added: *al-qadīm* — "old".** **That is, the saying is built so as to take in the first saying too.**
 
-**This is a countable repetition within the sūra, and I record it as an observation: the brothers will say exactly the opposite one verse later** (97: *innā kunnā khāṭiʾīn*).
+**This is a countable repetition within the sūra, and I record it as an observation: the brothers will say exactly the opposite two verses later** (97: *innā kunnā khāṭiʾīn*).
 
 ### فَٱرْتَدَّ بَصِيرًا
 
@@ -2328,7 +2328,7 @@ The root **ر-د-د**, Form VIII: **to turn back.** **And the verb differs from 
 
 ### The admission repeated a second time
 
-**And the word *khāṭiʾīn* occurs a second time, three verses later** (91 and 97). **And the addressee changes:**
+**And the word *khāṭiʾīn* occurs a second time, six verses later** (91 and 97). **And the addressee changes:**
 
 | Verse | To whom it is said |
 |---|---|

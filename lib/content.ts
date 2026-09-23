@@ -10,17 +10,25 @@ import {
   type SuraMeta,
 } from "./md";
 import { sectionOf } from "./sections";
-import { type Lang } from "./i18n";
+import { LANGS, type Lang } from "./i18n";
 
 setSectionLookup(sectionOf);
 
 // The paths are written out literally: given path.join(cwd, variable),
 // Turbopack cannot resolve the source folder and traces the whole project
-// into the server bundle.
+// into the server bundle. A switch keeps every path a literal.
 const srcDir = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "tafsir-en") : path.join(process.cwd(), "tafsir");
+  lang === "en"
+    ? path.join(process.cwd(), "tafsir-en")
+    : lang === "id"
+      ? path.join(process.cwd(), "tafsir-id")
+      : path.join(process.cwd(), "tafsir");
 const methodFile = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "STYLE-en.md") : path.join(process.cwd(), "STYLE.md");
+  lang === "en"
+    ? path.join(process.cwd(), "STYLE-en.md")
+    : lang === "id"
+      ? path.join(process.cwd(), "STYLE-id.md")
+      : path.join(process.cwd(), "STYLE.md");
 
 // sura number -> verse count (the same list as check.py)
 export { VERSES } from "./verses";
@@ -51,8 +59,9 @@ function files(lang: Lang): FileRef[] {
 }
 
 // Title -> short name. Turkish puts the affix last ("Bakara Sûresi"),
-// English first ("Sūrat al-Baqara"); both are trimmed and what remains is the
-// name used in lists and navigation.
+// English and Indonesian first ("Sūrat al-Baqara", "Surah Al-Baqarah"); both
+// are trimmed and what remains is the name used in lists and navigation.
+// The one regex covers "Sūrat", "Sura" and "Surah" alike.
 function shortName(title: string, slug: string, lang: Lang) {
   const t = title.replace(/^\d+\.\s*/, "").trim();
   if (!t) return slug;
@@ -92,6 +101,25 @@ export function suraList(lang: Lang): (SuraMeta & { ayahCount: number; lead: str
       lead: stripMd(firstPara ?? "").slice(0, 150),
     };
   });
+}
+
+/**
+ * The sura numbers a language actually has a file for. Turkish and English
+ * are complete; a translation still in progress has only some of them. Page
+ * generation, the sitemap and the hreflang pairs all read this, so a partial
+ * corpus produces a consistent site rather than 404s and dead alternates.
+ */
+export function suraNumbers(lang: Lang): number[] {
+  return files(lang).map((f) => f.no);
+}
+
+export function hasSura(lang: Lang, no: number): boolean {
+  return files(lang).some((f) => f.no === no);
+}
+
+/** The languages in which a given sura is published. */
+export function langsWithSura(no: number): Lang[] {
+  return LANGS.filter((l) => hasSura(l, no));
 }
 
 const _cache = new Map<string, Sura>();
@@ -162,15 +190,21 @@ const AR = "؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿";
 const ROOT_AR = new RegExp(`\\*\\*?([${AR}]\\s*-\\s*[${AR}]\\s*-\\s*[${AR}](?:\\s*-\\s*[${AR}])?)\\*\\*?`, "g");
 
 // How a root is written in Latin script differs by language:
-//   Turkish  *k-t-b*, *ktb* — plain Latin plus Turkish letters
-//   English  *q-w-m*, *kh-t-m*, *ʿ-q-l* — digraphs (kh/sh/gh/th/dh) and
-//            diacritics (ḥ ṣ ṭ ẓ ḍ ʿ ʾ ā ī ū)
+//   Turkish     *k-t-b*, *ktb* — plain Latin plus Turkish letters
+//   English     *q-w-m*, *kh-t-m*, *ʿ-q-l* — digraphs (kh/sh/gh/th/dh) and
+//               diacritics (ḥ ṣ ṭ ẓ ḍ ʿ ʾ ā ī ū)
+//   Indonesian  *k-t-b*, *sy-k-r*, *ʻ-q-l* — the SKB digraphs (sy/kh/dz/ts/
+//               gh/ng) and the same dotted letters; ʻayn is written ʻ (U+02BB)
+//               and hamza ʼ (U+02BC), so both are in the class alongside the
+//               English ʿ ʾ, which readers paste in from elsewhere.
 const LAT: Record<Lang, string> = {
   tr: "a-zçğışöü",
   en: "a-zʿʾāīūḥṣṭẓḍṯḏšġḫḳẖ",
+  id: "a-zʿʾʻʼāīūḥṣṭẓḍṯḏšġḫḳẖ",
 };
 const rootLat = (lang: Lang) => {
   const c = LAT[lang];
+  // Turkish writes one letter per segment; the others need room for a digraph.
   const seg = lang === "tr" ? `[${c}]{1,2}` : `[${c}]{1,3}`;
   return new RegExp(`\\*\\*?(${seg}-${seg}-${seg}(?:-${seg})?)\\*\\*?`, "gi");
 };
@@ -360,8 +394,15 @@ export function method(lang: Lang) {
   return { title, blocks };
 }
 
+/**
+ * What this language actually publishes. The verse count is summed over the
+ * suras that are there rather than over the whole Qurʾān: a translation in
+ * progress would otherwise show "1 sura · 6,236 verses". For a complete
+ * corpus the two are the same number.
+ */
 export function stats(lang: Lang) {
-  return { suras: files(lang).length, ayahs: VERSES.reduce((a, b) => a + b, 0) };
+  const nos = suraNumbers(lang);
+  return { suras: nos.length, ayahs: nos.reduce((a, no) => a + VERSES[no - 1], 0) };
 }
 
 export { inline };

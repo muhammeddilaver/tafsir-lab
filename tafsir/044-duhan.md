@@ -770,7 +770,7 @@ Türevleri kökün yönünü gösteriyor:
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, reddi ani bir tepki olarak değil, **bir süre sonra alınmış bir tavır** olarak anlatıyor. Bu, on üçüncü ayetteki gerekçeyi güçlendiriyor — fırsat yalnız verilmedi, **kullanılacak zamanı da vardı.**
 
-**ت-و-ل kökü:** *tevellâ an* — bir şeyden yüz çevirmek, sırtını dönmek. Kökün asıl anlamı **yakınlık ve bitişiklik**tir (*velî*, *mevlâ*); *tevellâ* + *an* ise bu yakınlığın **tersine dönmesidir.** Kök `002-bakara.md` ve `092-leyl.md` gibi bölümlerde işlendi.
+**و-ل-ي kökü:** *tevellâ an* — bir şeyden yüz çevirmek, sırtını dönmek. Kökün asıl anlamı **yakınlık ve bitişiklik**tir (*velî*, *mevlâ*); *tevellâ* + *an* ise bu yakınlığın **tersine dönmesidir.** Kök `002-bakara.md` ve `092-leyl.md` gibi bölümlerde işlendi.
 
 **Ve dikkat çekici olan şudur:** aynı kök kırk birinci ayette *mevlâ* olarak geri gelecek — *"o gün hiçbir *mevlâ* bir *mevlâ*ya fayda vermez."* **Yüz çevirdikleri şeyle, o gün fayda vermeyecek şey aynı kökten.** Bunu bir lafız gözlemi olarak kaydediyorum.
 
@@ -980,7 +980,7 @@ Türevleri kökün yönünü gösteriyor:
 
 **Cümlenin ilk işi bir bağ kurmaktır: *kablehüm* — "onlardan önce".**
 
-**Yani kıssa bir anlatı olarak değil, bir *emsal* olarak giriyor.** On üçüncü ayette Mekke'ye *"size apaçık bir elçi geldi"* denmişti; on yedinci ayette Firavun kavmine *"onlara bir elçi geldi"* deniyor. **Aynı fiil, aynı yapı.**
+**Yani kıssa bir anlatı olarak değil, bir *emsal* olarak giriyor.** On üçüncü ayette Mekke'ye *"onlara apaçık bir elçi geldi"* denmişti; on yedinci ayette Firavun kavmine *"onlara bir elçi geldi"* deniyor. **Aynı fiil, aynı yapı.**
 
 | Ayet | Kim | İfade |
 |---|---|---|
@@ -1487,7 +1487,7 @@ Yirmi dördüncü ayette *"boğulacak bir ordudur"* deniyor; yirmi beşinci ayet
 
 **Ve *kem haberiyye*nin bir özelliği var: temyizi *min* ile gelir** — nitekim burada da öyle: *min cennâtin.*
 
-**Yani cümle bir sayı vermiyor, bir çokluk bildiriyor.** Ve sayının verilmemesi, listenin uzunluğuyla telafi ediliyor: dört kalem sayılıyor.
+**Yani cümle bir sayı vermiyor, bir çokluk bildiriyor.** Ve sayının verilmemesi, listenin uzunluğuyla telafi ediliyor: beş kalem sayılıyor.
 
 ### Listenin kendisi — bir uygarlığın üç kelimeyle çizilmesi
 
@@ -2384,7 +2384,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Kelimenin Kur'an'daki başka geçişleri kaydedilmeye değer, çünkü hep aynı komşuluktadır:**
 
-- *"Mal yığan, saldırgan, **günahkâr**"* — Kalem 68/12'de *muallâ mennâin li'l-hayri mu'tedin **esîm***.
+- *"Mal yığan, saldırgan, **günahkâr**"* — Kalem 68/12'de *mennâin li'l-hayri mu'tedin **esîm***.
 - *"Her saldırgan **günahkâr**"* — Mutaffifîn 83/12'de *külli mu'tedin **esîm***.
 
 **İki yerde de kelime *mu'tedî* (saldırgan, haddi aşan) ile birlikte geçiyor.**
@@ -2731,7 +2731,7 @@ Karşı taraf bir **imkânsızlık** iddiası öne sürmüştü (35: diriltilmey
 
 **Bunu kendi okumam olarak sunuyorum ve `056-vakia.md`'nin kapanış tablosuna dayanıyorum.**
 
-### `050-kaf.md` ile bir yöntem bağı
+### `054-kamer.md` ile bir yöntem bağı
 
 **Ve bir yöntem bağı daha kaydedilmeli.**
 

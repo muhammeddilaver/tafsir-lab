@@ -141,7 +141,7 @@ And from here an opposition is born — the sūra itself will set this oppositio
 
 **The sky listens to its Lord. Man does not prostrate himself when the Qurʾān is recited to him.**
 
-In the first part the sūra uses the verb *adhinat* (it gave ear); in the twenty-first verse it says *"when the Qurʾān is recited to them they do not prostrate themselves"*. The sky that gives ear and the man who does not stand at the two ends of the same sūra.
+In the second verse the sūra uses the verb *adhinat* (it gave ear); in the twenty-first verse it says *"when the Qurʾān is recited to them they do not prostrate themselves"*. The sky that gives ear and the man who does not stand at the two ends of the same sūra.
 
 ### وَحُقَّتْ — "and that was its due"
 
@@ -355,7 +355,7 @@ The central verse of the sūra and one of the densest sentences in the Qurʾān 
 
 The verse does not say "O you who disbelieve" or "O you who believe". **ٱلْإِنسَٰن** — man, as a genus.
 
-The *al-* here conveys **istighrāq**: it encompasses the whole of the genus. That is, the sentence calls not to a group but to the quality of being human. And this is set up **before** the distinction that will come after the eighteenth verse (the one given his book in his right hand / from behind him). First the common condition is laid down, then the parting.
+The *al-* here conveys **istighrāq**: it encompasses the whole of the genus. That is, the sentence calls not to a group but to the quality of being human. And this is set up **before** the distinction that will come from the seventh verse on (the one given his book in his right hand / from behind him). First the common condition is laid down, then the parting.
 
 The same ordering was present in Sūrat al-Qāriʿa as well: first *"people"* (everyone), then the scale and the two groups. This is the Qurʾān's customary movement — the diagnosis to everyone, the ruling one by one.
 
@@ -776,7 +776,7 @@ The verb is in the **perfect**: *kāna … baṣīran* — "he **was** seeing".
 
 This choice of tense is meaningful. The verse does not say "his Lord sees him", it says "**was seeing**". That is, the seeing was already going on during the very period in which the man was saying "I shall not return".
 
-While the man supposed himself unseen he was being seen. The record was being kept without his being aware of it. The "book given from behind" of the eleventh verse is meaningful for this reason: the book had already been written; the man had no knowledge of it.
+While the man supposed himself unseen he was being seen. The record was being kept without his being aware of it. The "book given from behind" of the tenth verse is meaningful for this reason: the book had already been written; the man had no knowledge of it.
 
 In Sūrat al-Balad the same idea was treated with another word: *"Does he suppose that no one has seen him? Have We not given him two eyes?"* (al-Balad 90/7-8). The observation recorded there — that it says not "We saw you" but "We gave you eyes" — comes here from the other side: in this sūra it is said directly, **"his Lord was seeing you"**.
 

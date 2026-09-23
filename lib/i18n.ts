@@ -1,11 +1,18 @@
-// A bilingual publication: Turkish at the root (/), English under /en.
-// Single source of truth: route names and interface strings live here; pages
-// and client components only carry the language.
+// A trilingual publication: Turkish at the root (/), English under /en,
+// Indonesian under /id. Single source of truth: route names and interface
+// strings live here; pages and client components only carry the language.
+//
+// Turkish is the source of record; the other two are translations of it.
+// Adding a language means: a branch in this file, a route group under app/,
+// a source folder (tafsir-<lang>/) and a method file (STYLE-<lang>.md).
 
-export type Lang = "tr" | "en";
-export const LANGS: Lang[] = ["tr", "en"];
+export type Lang = "tr" | "en" | "id";
+export const LANGS: Lang[] = ["tr", "en", "id"];
 
-/** Route roots per language. The English segments are named in English too. */
+/** The language the text was written in: hreflang x-default points here. */
+export const SOURCE_LANG: Lang = "tr";
+
+/** Route roots per language. Each language names its own segments. */
 export const ROUTES = {
   tr: {
     home: "/",
@@ -27,6 +34,16 @@ export const ROUTES = {
     terms: "/en/terms",
     privacy: "/en/privacy",
   },
+  id: {
+    home: "/id",
+    sura: "/id/surah",
+    part: "/id/bagian",
+    roots: "/id/akar",
+    method: "/id/metode",
+    about: "/id/tentang",
+    terms: "/id/ketentuan",
+    privacy: "/id/privasi",
+  },
 } as const;
 
 export const REPO = "https://github.com/muhammeddilaver/tafsir-lab";
@@ -42,10 +59,23 @@ export const REPO_LABEL = REPO.replace(/^https:\/\//, "");
 export const LANG_COOKIE = "tefsir-lang";
 
 /** localStorage prefix. The Turkish keys stay as they were in the old version. */
-export const NS: Record<Lang, string> = { tr: "tefsir:", en: "tefsir:en:" };
+export const NS: Record<Lang, string> = { tr: "tefsir:", en: "tefsir:en:", id: "tefsir:id:" };
 
-export const LOCALE: Record<Lang, string> = { tr: "tr-TR", en: "en-GB" };
-export const OG_LOCALE: Record<Lang, string> = { tr: "tr_TR", en: "en_GB" };
+export const LOCALE: Record<Lang, string> = { tr: "tr-TR", en: "en-GB", id: "id-ID" };
+export const OG_LOCALE: Record<Lang, string> = { tr: "tr_TR", en: "en_GB", id: "id_ID" };
+
+/**
+ * The name of each language in itself, for the switcher in the top bar. With
+ * three languages the switcher can no longer say "the other one": it lists
+ * every language but the current, so the label has to belong to the target,
+ * not to the page. The short form is what narrow screens show.
+ */
+export const LANG_NAME: Record<Lang, string> = {
+  tr: "Türkçe",
+  en: "English",
+  id: "Indonesia",
+};
+export const LANG_ABBR: Record<Lang, string> = { tr: "TR", en: "EN", id: "ID" };
 
 export const SITE = "Tafsir Lab";
 
@@ -55,8 +85,8 @@ type Dict = {
   navAbout: string;
   navTerms: string;
   navPrivacy: string;
-  langSwitch: string;
-  langSwitchLabel: string;
+  /** aria-label for one switcher link; `name` is the target language. */
+  langSwitchLabel: (name: string) => string;
   footNote: string;
 
   metaTitle: string;
@@ -145,7 +175,7 @@ type Dict = {
 
   /**
    * The consent bar and the switch on the privacy page. One decision covers
-   * the site, so both languages phrase the same choice.
+   * the site, so every language phrases the same choice.
    */
   consentAria: string;
   consentText: string;
@@ -165,8 +195,7 @@ export const T: Record<Lang, Dict> = {
     navAbout: "Hakkında",
     navTerms: "Kullanım koşulları",
     navPrivacy: "Gizlilik",
-    langSwitch: "English",
-    langSwitchLabel: "Switch to English",
+    langSwitchLabel: (name) => `${name} sürümüne geç`,
     footNote:
       "Metnin tamamı bir dil modeli (Claude, Anthropic) tarafından yazılmıştır. Dinî otoritesi yoktur; klasik kaynaklardan doğrulanmalıdır.",
 
@@ -267,8 +296,7 @@ export const T: Record<Lang, Dict> = {
     navAbout: "About",
     navTerms: "Terms of use",
     navPrivacy: "Privacy",
-    langSwitch: "Türkçe",
-    langSwitchLabel: "Türkçe sürüme geç",
+    langSwitchLabel: (name) => `Switch to ${name}`,
     footNote:
       "The whole text was written by a language model (Claude, Anthropic). It carries no religious authority and must be checked against the classical sources.",
 
@@ -361,5 +389,109 @@ export const T: Record<Lang, Dict> = {
       "You have currently not consented to analytics cookies; the measurement is cookieless.",
     consentTurnOn: "Give consent",
     consentTurnOff: "Withdraw consent",
+  },
+
+  id: {
+    navRoots: "Indeks akar kata",
+    navMethod: "Metode",
+    navAbout: "Tentang",
+    navTerms: "Ketentuan penggunaan",
+    navPrivacy: "Privasi",
+    langSwitchLabel: (name) => `Beralih ke versi ${name}`,
+    footNote:
+      "Seluruh teks ini ditulis oleh sebuah model bahasa (Claude, Anthropic). Teks ini tidak memiliki otoritas keagamaan dan harus diperiksa terhadap sumber-sumber klasik.",
+
+    metaTitle: "Tafsir Lab — tafsir Al-Qur'an ayat demi ayat",
+    metaTemplate: "%s — Tafsir Lab",
+    metaDesc:
+      "Tafsir Al-Qur'an berbahasa Indonesia yang ditulis bersama Claude, berdasar analisis akar kata. Seluruh 114 surah.",
+    suraSeoTitle: (name) => `Tafsir Surah ${name}`,
+    suraSeoDesc: (name, ayahs, lead) =>
+      `Surah ${name} (${ayahs} ayat) — tafsir ayat demi ayat berdasar analisis akar kata. ${lead}`,
+    ogNote: "Seluruh teks ini ditulis oleh Claude (Anthropic).",
+
+    navHome: "Beranda",
+    // Indonesian cites a verse the way it is read aloud: "ayat 255",
+    // "ayat 255-257". The sura number is carried by the coordinate line.
+    secRange: (_s, from, to) => (from === to ? `ayat ${from}` : `ayat ${from}-${to}`),
+    secHeading: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `${name} ${range}`,
+    secSeoTitle: (name, range, title) =>
+      title ? `${name} ${range} — ${title}` : `Tafsir ${name} ${range}`,
+    secSeoDesc: (name, range, lead) =>
+      `Surah ${name} ${range} — tafsir berdasar analisis akar kata. ${lead}`,
+    secMeta: (name, ayahs) => `Surah ${name} · ${ayahs} ayat`,
+    secWhole: (name) => `Seluruh Surah ${name}`,
+    secIndexTitle: (n) => `${n} bagian`,
+    secPrev: "Bagian sebelumnya",
+    secNext: "Bagian berikutnya",
+    coords: (sura, name, tail) => `Al-Qur'an · surah ke-${sura}: ${name} · ${tail}`,
+    secVerses: (from, to) => (from === to ? `ayat ${from}` : `ayat ${from}-${to}`),
+    chunkNote:
+      "Tafsir ini ditulis oleh Claude (Anthropic); tidak memiliki otoritas keagamaan dan perlu diperiksa terhadap sumber-sumber klasik.",
+    secRoots: "Akar kata yang dibahas dalam bagian ini",
+
+    heroTitle: "Tafsir Al-Qur'an ayat demi ayat",
+    heroLead:
+      "Seluruh Al-Qur'an: setiap surah, setiap ayat. Kata dibuka sampai ke akarnya; ketika para mufasir berbeda pendapat, perbedaan itu tidak disembunyikan melainkan disajikan dalam tabel.",
+    heroDisclaimerA:
+      "Seluruh teks ini ditulis oleh Claude (Anthropic). Teks ini tidak menggantikan literatur tafsir klasik, dan untuk hal yang penting harus diperiksa terhadap sumbernya. Untuk aturan yang diikutinya, lihat halaman ",
+    heroDisclaimerLink: "Metode",
+    heroDisclaimerB: ".",
+    heroTip:
+      "Sentuh tanda tautan di samping sebuah baris untuk membagikan baris itu. Tempat Anda berhenti membaca disimpan di peramban Anda.",
+    statSuras: "surah",
+    statAyahs: "ayat",
+
+    filterPlaceholder: "Cari surah — nama atau nomor",
+    filterLabel: "Cari surah",
+    noMatch: "Tidak ada yang cocok.",
+    ayahCountShort: (n) => `${n} ayat`,
+
+    suraMeta: (a, s) => `${a} ayat · ${s} bagian`,
+    jumpToAyahs: "Lompat ke ayat",
+    prevLabel: "Surah sebelumnya",
+    nextLabel: "Surah berikutnya",
+
+    rootsTitle: "Indeks akar kata",
+    rootsMeta: (n) =>
+      `${n} akar kata yang dibahas di sepanjang teks. Setiap tautan menuju bagian tempat akar itu dibahas.`,
+    rootsHits: (n) => `${n} tempat`,
+
+    methodTitle: "Metode dan gaya",
+    methodMeta: "Aturan yang mengikat seluruh teks.",
+
+    shareLine: "Bagikan baris ini",
+    continueKicker: "Tempat Anda berhenti",
+    continueGo: "lanjutkan membaca →",
+    today: "hari ini",
+    yesterday: "kemarin",
+    daysAgo: (n) => `${n} hari lalu`,
+
+    resumedAt: (label) => `Tempat Anda berhenti: ${label}`,
+    resumed: "Kembali ke tempat Anda berhenti",
+    backToTop: "kembali ke atas",
+    linkCopied: "Tautan disalin",
+
+    peekFallbackTitle: "Rujukan",
+    peekNotFound: "Tidak ditemukan",
+    peekLoading: "Memuat…",
+    peekFailed: "Bagian ini tidak dapat diambil.",
+    peekShare: "Bagikan",
+    peekOpen: "Buka di dalam surah →",
+    peekClose: "Tutup",
+    peekBack: "Kembali ke rujukan sebelumnya",
+
+    consentAria: "Persetujuan pengukuran",
+    consentText:
+      "Google Analytics digunakan untuk melihat bagaimana situs ini dibaca. Jika Anda tidak menyetujuinya, tidak ada kuki yang ditulis; pengukuran tetap berjalan tanpa kuki dan tanpa identitas.",
+    consentAccept: "Setuju",
+    consentDecline: "Lanjut tanpa kuki",
+    consentMore: "Rincian",
+    consentStatusOn: "Saat ini Anda telah menyetujui kuki pengukuran.",
+    consentStatusOff:
+      "Saat ini Anda belum menyetujui kuki pengukuran; pengukuran dilakukan tanpa kuki.",
+    consentTurnOn: "Beri persetujuan",
+    consentTurnOff: "Tarik persetujuan",
   },
 };

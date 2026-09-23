@@ -1365,7 +1365,7 @@ Bu, çok daha isabetli bir teşhistir. Kimse "Allah'tan korkmuyorum" demez. Ama 
 
 Aynı kökten *râhib* (kendini dünyadan çeken kişi) ve *rehbâniyye*. Ve *terhîb* (korkutma), *rağbet*in (istekle yönelme) karşıtı olarak Kur'an'da geçer.
 
-**فِى صُدُورِهِمْ** — "göğüslerinde". Yine iç mekân. Bu sûrede göğüs üç kez geçiyor: 9. ayette *hâcet* için, 10. ayette *ğıll* için, burada *rehbe* için. Sûre, dışarıdan görünmeyen katmanı ısrarla konu ediyor.
+**فِى صُدُورِهِمْ** — "göğüslerinde". Yine iç mekân. Bu sûrede göğüs iki kez geçiyor: 9. ayette *hâcet* için, burada *rehbe* için. Sûre, dışarıdan görünmeyen katmanı ısrarla konu ediyor.
 
 ### ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 
@@ -2378,7 +2378,7 @@ Bunlar doğrulanabilir metin verileridir; kasıt iddiası değildir.
 | **س-ب-ح** | 1, 23, 24 | Sûrenin çerçevesi |
 | **ح-ص-ن** | 2 (*husûn*), 14 (*muhassane*) | İki kez savunma yapısı, iki kez yetersiz |
 | **خ-ر-ج** | 2 (iki kez), 8, 11, 12 | Çıkarma / çıkma; sürgünün fiili |
-| **ص-د-ر** | 9 (*sudûr*), 10, 13 | Görünmeyen iç katman |
+| **ص-د-ر** | 9 (*sudûr*), 13 | Görünmeyen iç katman |
 | **ف-س-ق** | 5, 19 | Dışarıdakinin sıfatı → muhataba uyarı |
 | **ع-ق-ب** | 4 (*ikāb*), 7 (*ikāb*), 17 (*âkıbet*) | Ardından gelen |
 | **ب-ر-أ** | 16 (*berî'*), 24 (*el-Bâri'*) | İddia edilen ayrılık / gerçekleştirilen ayırma |

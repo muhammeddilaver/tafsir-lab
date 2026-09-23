@@ -17,7 +17,7 @@ The name **مُحَمَّد** occurs in **four places** in the Qurʾān:
 | 3 | **Muḥammad 47/2** | *"Those who believe in what has been sent down to Muḥammad…"* |
 | 4 | **al-Fatḥ 48/29** | *"Muḥammad is the Messenger of God."* |
 
-A fifth, in another form: **أَحْمَد** — at al-Ṣaff 61/6, in the annunciation of Jesus (ʿĪsā). That word was treated in detail in the section `061-saff.md` (the root ح-م-د, the dispute over whether *Aḥmad* is an elative or an active participle, and the question of whether the word is a proper name or an attribute). **I do not repeat it here.**
+A fifth, in another form: **أَحْمَد** — at al-Ṣaff 61/6, in the annunciation of Jesus (ʿĪsā). That word was treated in the section `061-saff.md` (the root ح-م-د is referred back to al-Fātiḥa; what is disputed there is whether the *afʿal* pattern of *Aḥmad* is to be read in the direction of the agent or of the patient). **I do not repeat it here.**
 
 Only this will be recorded here: **all four occurrences are in Medinan sūras**, and in all four there stands beside the name a **limit** or a **fixing of position**. Āl ʿImrān says "he is only a messenger"; al-Aḥzāb says "he is not your father"; al-Fatḥ says "he is the Messenger of God"; and here, at 47/2, what is believed in is **not the name itself but "what has been sent down to him"**: *āmanū **bimā nuzzila ʿalā** Muḥammad.*
 
@@ -89,7 +89,7 @@ There is no disagreement that the sūra is Medinan. The indications inside the t
 
 ## A note on method: how this sūra will not be read
 
-Per the method (`STYLE.md`), I am obliged to draw two limits before entering this sūra. They will affect the reading from beginning to end.
+Per the method (`STYLE.md`), I am obliged to draw three limits before entering this sūra. They will affect the reading from beginning to end.
 
 **One. This sūra is not a text of the law of war, and no legal ruling will be drawn from it in this commentary.** The fourth verse is one of the most debated texts in the chapter on captives in classical jurisprudence; **I will transmit that debate in the form of a table of disagreement** and will prefer no view. The work of this commentary is to show what the text says; it is not to say what is to be done.
 
@@ -142,7 +142,7 @@ The root has two directions, and both are found in the Qurʾān:
 
 | Use | Meaning | Example |
 |---|---|---|
-| **Intransitive** — *ṣadda ʿan* | He himself turned away | *"When they see you they **turn away** from you"* (at al-Zukhruf 43/57, *yaṣiddūn* from the same root) |
+| **Intransitive** — *ṣadda ʿan* | He himself turned away | *"Your people **turn away** from it"* (at al-Zukhruf 43/57, *yaṣiddūn* from the same root) |
 | **Transitive** — *ṣadda… ʿan* | He held someone else back | **The use here** |
 
 From the same root **صَدِيد** (*ṣadīd*) — pus; and it is not to be confused with **صَدَف**. Also **الصَّدَد** — the front of a thing, what stands opposite it; in Turkish the expression *bu sadedde*, meaning "in this connection", is a borrowing from this root.
@@ -461,7 +461,7 @@ In the third verse **مِن رَّبِّهِمْ** is again added behind the wor
 
 This much is clear: the verse characterises the two verses before it as **a likeness**. That is, verses 1-2 are not merely a ruling about two groups; they are set down as an **example**.
 
-And the root **م-ث-ل** will occur three times in the sūra: here (3), at 47/10 (*wa li'l-kāfirīna amthāluhā*), and **in the last word of the sūra** (47/38: *thumma lā yakūnū amthālakum*). The sūra is framed by a word for "likeness".
+And the root **م-ث-ل** will occur four times in the sūra: here (3), at 47/10 (*wa li'l-kāfirīna amthāluhā*), at 47/15 (*mathalu'l-jannati*), and **in the last word of the sūra** (47/38: *thumma lā yakūnū amthālakum*). The sūra is framed by a word for "likeness".
 
 ---
 
@@ -923,9 +923,9 @@ One detail: the verb is in the **perfect** (*ʿarrafa*), whereas the verbs aroun
 
 ### The first call of the sūra
 
-**For six verses the sūra spoke in the third person.** "Those who deny", "those who believe", "they". There is no one addressed; there is a situation recounted.
+**For six verses the sūra spoke of its subjects in the third person.** "Those who deny", "those who believe", "they". There is no vocative call; there is a situation recounted.
 
-**And in the seventh verse direct address comes for the first time:** *yā ayyuha'lladhīna āmanū.*
+**And in the seventh verse the vocative call comes for the first time:** *yā ayyuha'lladhīna āmanū.*
 
 This will happen twice in the sūra: **7** and **33**. Both come with a command, and both are points where the sūra changes direction.
 
@@ -1223,7 +1223,7 @@ And this is a picture the Qurʾān uses elsewhere. al-Naḥl 16/26: *"…God tor
 
 **The difference is not great; I content myself with recording it.**
 
-**And this is the second occurrence of the root م-ث-ل in the sūra** (3, **10**, 38). In the third verse God was giving people "their likenesses"; here for the deniers there are "the likes of it"; and the last word of the sūra will again be from this root.
+**And this is the second occurrence of the root م-ث-ل in the sūra** (3, **10**, 15, 38). In the third verse God was giving people "their likenesses"; here for the deniers there are "the likes of it"; and the last word of the sūra will again be from this root.
 
 ### What this says to the present
 
@@ -1873,7 +1873,7 @@ The four rivers are also things to be drunk; that is, they too go inside. The ve
 | **1** | **Description, condition, characterisation** | The description is a direct characterisation |
 | **2** | **Representation, comparison** | The description is a comparison |
 
-**I make no preference.** I record this much: **the root م-ث-ل occurs three times in this sūra** (3, 10, 38), and its occurrence in the third verse was explicitly in the sense of "giving a likeness": *kadhālika yaḍribu'llāhu li'n-nāsi amthālahum.*
+**I make no preference.** I record this much: **the root م-ث-ل occurs four times in this sūra** (3, 10, 15, 38), and its occurrence in the third verse was explicitly in the sense of "giving a likeness": *kadhālika yaḍribu'llāhu li'n-nāsi amthālahum.*
 
 **This appears to support the second view; but a root is not obliged to be used in the same sense throughout a sūra, and I make no preference.**
 
@@ -2588,7 +2588,7 @@ And its concrete source is interesting: **حَكَمَة** — the **bit** put i
 
 **In the root of the word there is an idea of *commonality*:** *maʿrūf* is what everyone knows and recognises. Its opposite is **مُنكَر** (*munkar*) — **"unrecognised, found strange"**; built on the same logic.
 
-**And this root occurred in the fifth verse as well: عَرَّفَهَا لَهُمْ.** The second occurrence within the sūra.
+**And this root occurred in the sixth verse as well: عَرَّفَهَا لَهُمْ.** The second occurrence within the sūra.
 
 **قَوْلٌ مَّعْرُوفٌ** — "a known/reasonable word". That is, a word without exaggeration, apt, one the other side too will recognise.
 
@@ -4431,14 +4431,14 @@ The clause could have been:
 
 **The verse takes the last clause of the preceding verse and turns it around, and recounts what would happen.**
 
-**And the word order strings three verbs into a chain:**
+**And the word order strings four verbs into a chain:**
 
 1. **يَسْـَٔلْكُمُوهَا** — were He to ask,
 2. **فَيُحْفِكُمْ** — and were He to press hard,
 3. **تَبْخَلُوا۟** — you would be miserly,
 4. **وَيُخْرِجْ أَضْغَٰنَكُمْ** — and it would bring out your rancours.
 
-**All three verbs are jussive** (parts of a conditional sentence). And the chain runs from cause to effect.
+**All four verbs are jussive** (parts of a conditional sentence). And the chain runs from cause to effect.
 
 ### أَحْفَىٰ — the root ح-ف-و
 
@@ -4707,9 +4707,9 @@ From the same root **بَدَل** (a substitute), **تَبْدِيل** (exchangi
 
 **And I record this:** the sentence does not say **what** the coming people will be; it says only what they will **not** be. The description is given by way of negation — just like the qualifying of the four rivers in verse 15.
 
-### The third and last occurrence of the root م-ث-ل — and the frame of the sūra
+### The fourth and last occurrence of the root م-ث-ل — and the frame of the sūra
 
-**أَمْثَٰلَكُمْ is the last word of the sūra. And it is the third occurrence of the root م-ث-ل.**
+**أَمْثَٰلَكُمْ is the last word of the sūra. And it is the fourth occurrence of the root م-ث-ل. The three occurrences that carry a pronominal suffix can be set side by side:**
 
 | Verse | Expression | About whom |
 |---|---|---|
@@ -4814,7 +4814,7 @@ The table I set up at the beginning of this commentary was followed through the 
 
 - **47/4 — the variant reading** (*qutilū* / *qātalū*) was transmitted and no preference was made; the interpretation that the two readings complete one another is mine.
 
-- **47/5 — *ʿarrafahā lahum*.** Three readings (making known / sweet scent / the marking of a boundary) were given in a table and no preference was made; the attempt to unite the three under the heading "the lifting of strangeness" is **my own reading.**
+- **47/6 — *ʿarrafahā lahum*.** Three readings (making known / sweet scent / the marking of a boundary) were given in a table and no preference was made; the attempt to unite the three under the heading "the lifting of strangeness" is **my own reading.**
 
 - **47/12 — the comparison with animals.** That the comparison attaches to the verb and not to the agent is grammatical data; the "measurement" interpretation drawn from it is **my own inference.** And that the verse issues its ruling upon an attribute and not an identity was recorded separately, per the method (`STYLE.md`).
 

@@ -571,7 +571,7 @@
 
 **وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ** — **sorumluluk sınırı.** **`028-kasas.md` 28/56'da bu sınırın yedi sûrelik tablosu kurulmuştu;** **En'âm bir halka daha ekliyor: *hafîz* (bekçi).**
 
-**وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ** (105) — ***tasrîf* (çevirip çevirip anlatmak) `046-ahkaf.md` 46/27 ve `045-casiye.md` 45/5'te işlendi.** **Ve *derraste* (ders aldın/okudun) kıraat farkları nakledilir; imam adı vermeden kaydediyorum.**
+**وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَٰتِ وَلِيَقُولُوا۟ دَرَسْتَ** (105) — ***tasrîf* (çevirip çevirip anlatmak) `046-ahkaf.md` 46/27 ve `045-casiye.md` 45/5'te işlendi.** **Ve *deraste* (ders aldın/okudun) kıraat farkları nakledilir; imam adı vermeden kaydediyorum.**
 
 **وَلَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكُوا۟ وَمَا جَعَلْنَٰكَ عَلَيْهِمْ حَفِيظًا** (107) — **ve aynı kelime (*hafîz*) üç ayet arayla ikinci kez geçiyor.** **Bu, sûre içinde doğrulanabilir bir tekrardır.**
 
@@ -799,7 +799,7 @@
 
 **Cümlenin kuruluşu kaydedilmelidir ve bunu kendi okumam olarak veriyorum:** ayet "şunlar haramdır" demiyor — ***lâ ecidü fîmâ ûhıye ileyye muharramen* — "vahyedilende bulamıyorum" diyor.**
 
-Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması** olarak veriliyor. **Ve bu, sûrenin omurgasıyla birebir örtüşüyor:** 150. ayette *hâtû şühedâeküm* denecek — **yasağın dayanağı sorulacak.**
+Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması** olarak veriliyor. **Ve bu, sûrenin omurgasıyla birebir örtüşüyor:** 150. ayette *hâlümme şühedâeküm* denecek — **yasağın dayanağı sorulacak.**
 
 **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ** kaydı bu sûrenin 119. ayetinde de geçmişti. **Ve `002-bakara.md` 2/173'te işlendi.**
 
@@ -821,7 +821,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 
 **`036-yasin.md` 36/47'de aynı mantık işlendi** (*lev yeşâullâhu at'ameh*) ve orada kaydedilmişti: **öncül doğru, sonuç yanlış — kader inancının kendisi değil, sorumluluktan kaçmak için kullanılması eleştiriliyor.** **Oraya dayanıyorum.**
 
-**Ve cevap kaydedilmeye değer:** ayet tartışmaya girmiyor — *fe-lillâhi'l-huccetü'l-bâliğa* diyor. **Ve ondan sonra ikinci soruya geçiyor: *hâtû şühedâeküm*.**
+**Ve cevap kaydedilmeye değer:** ayet tartışmaya girmiyor — *fe-lillâhi'l-huccetü'l-bâliğa* diyor. **Ve ondan sonra ikinci soruya geçiyor: *hâlümme şühedâeküm*.**
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, kader tartışmasını sürdürmek yerine **somut bir talebe** dönüyor: **yasağı kimin koyduğuna dair şahit.** **Ve bu, sûrenin bütün son bloğunun düğümüdür** — nitekim bir sonraki ayet asıl listeyi verecek.
 
@@ -973,7 +973,7 @@ Yani hüküm, bir liste ilanı olarak değil, **elde bulunan metnin taranması**
 | **كتب على نفسه الرحمة** | 12, 54 | İki kez, aynı ifade |
 | **ف-ل-ق** | *fâliku'l-habb* (95) — *fâliku'l-isbâh* (96) | İki ölçek, tek fiil |
 | **ز-ع-م / ح-ج-ر** | 136, 138 | Uydurulan yasakların adlandırılması |
-| **Delil talebi** | *nebbiûnî bi-ilm* (143) — *hâtû şühedâeküm* (150) | Sûrenin düğümü |
+| **Delil talebi** | *nebbiûnî bi-ilm* (143) — *hâlümme şühedâeküm* (150) | Sûrenin düğümü |
 | **و-ز-ر** | 164 | Yedi sûrelik ilkenin son halkası |
 | **ش-ي-ع** | *şiyean* (159) | Kasas 28/4 ile karşıt kullanım |
 | **ب-ل-و** | *li-yeblüveküm* (165) | Kehf 18/7 ile ortak cümle |

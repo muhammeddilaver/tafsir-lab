@@ -2,8 +2,14 @@
 
 A verse-by-verse Turkish commentary on the Qurʾān, written with Claude and
 built on root analysis. All 114 sūras, 6,236 verses. The whole text has also
-been translated into English; the site is published in both languages
-(`/` Turkish, `/en` English).
+been translated into English and into Indonesian; the site is published in
+three languages (`/` Turkish, `/en` English, `/id` Indonesian).
+
+Everything that reads the corpus — page generation, the sitemap, the hreflang
+pairs — follows the files that are actually on disk, so a language whose
+translation is only partly done produces a smaller but consistent site rather
+than dead links. All three are complete, so all three carry the same 3,117
+pages.
 
 ---
 
@@ -51,12 +57,21 @@ you whether an explanation is sound.
 |---|---|
 | `tafsir/NNN-name.md` | 114 files — the single source, one file per sūra |
 | `tafsir-en/NNN-name.md` | The English version of the same 114 files; file names, verse numbers and Arabic text are identical |
-| `STYLE.md` · `STYLE-en.md` | The binding method and style rules |
-| `TRANSLATION.md` | The Turkish → English translation guide |
+| `tafsir-id/NNN-name.md` | The Indonesian version — same file names, same verse numbers, same Arabic |
+| `STYLE.md` · `STYLE-en.md` · `STYLE-id.md` | The binding method and style rules |
+| `TRANSLATION.md` · `TRANSLATION-id.md` | The Turkish → English and Turkish → Indonesian translation guides |
 | `INDEX.md` | The index and the links drawn between sūras |
 
 Verse numbering does not count the basmala (in al-Fātiḥa, 1 = *al-ḥamdu
 lillāh*). Section headings take the form `## <sūra>/<verse> — <Arabic text>`.
+
+The three corpora are **aligned line for line**: line *n* of `tafsir/002-bakara.md`,
+`tafsir-en/002-bakara.md` and `tafsir-id/002-bakara.md` are the same line of the same
+text in three languages, and the Arabic runs, the verse references and the
+`NNN-name.md` citations occur in the same order and the same number of times in all
+three. An edit that changes one language's line count has to change the other two the
+same way, or the section links drift apart. `check.py` does not test this;
+`align.py` does.
 
 ---
 
@@ -64,48 +79,51 @@ lillāh*). Section headings take the form `## <sūra>/<verse> — <Arabic text>`
 
 Next.js (App Router). The Markdown is read at build time and every page is
 generated statically. The only thing that runs on the server is
-`middleware.ts`: on `/` alone, it decides whether to open in Turkish or
-English based on the visitor's language. No other URL touches the server.
+`middleware.ts`: on `/` alone, it decides which of the three languages to open
+in, based on the visitor's language. No other URL touches the server.
 
 ```bash
 npm install
 npm run dev      # http://localhost:3000
-npm run build    # 12,462 pages (both languages), ~50 s
+npm run build    # 18,695 pages across the three languages
 npm start
 ```
 
-### Two languages
+### Three languages
 
-Turkish is published at the root, English under `/en`. They are two separate
-root layouts (`app/(tr)` and `app/(en)`); everything shared comes through
-`lib/i18n.ts`.
+Turkish is published at the root, English under `/en`, Indonesian under `/id`.
+They are three separate root layouts (`app/(tr)`, `app/(en)`, `app/(id)`);
+everything shared comes through `lib/i18n.ts`, which is the one place a
+language is added.
 
-| Turkish | English |
-|---|---|
-| `/` | `/en` |
-| `/sure/9` | `/en/sura/9` |
-| `/sure/9/113` | `/en/sura/9/113` (one section on its own page) |
-| `/kok` · `/usul` | `/en/roots` · `/en/method` |
-| `/hakkinda` · `/kosullar` · `/gizlilik` | `/en/about` · `/en/terms` · `/en/privacy` |
-| `/parca/9/113` | `/en/section/9/113` (the fragment the citation modal fetches) |
+| Turkish | English | Indonesian |
+|---|---|---|
+| `/` | `/en` | `/id` |
+| `/sure/9` | `/en/sura/9` | `/id/surah/9` |
+| `/sure/9/113` | `/en/sura/9/113` | `/id/surah/9/113` (one section on its own page) |
+| `/kok` · `/usul` | `/en/roots` · `/en/method` | `/id/akar` · `/id/metode` |
+| `/hakkinda` · `/kosullar` · `/gizlilik` | `/en/about` · `/en/terms` · `/en/privacy` | `/id/tentang` · `/id/ketentuan` · `/id/privasi` |
+| `/parca/9/113` | `/en/section/9/113` | `/id/bagian/9/113` (the fragment the citation modal fetches) |
 
-Verse anchors (`#9/114`) are the same in both languages: the language link in
-the top bar opens the verse you are reading in the other language. Paragraph
+Verse anchors (`#9/114`) are the same in every language: the language links in
+the top bar open the verse you are reading in another language. Paragraph
 anchors are derived from the content, so they are language-specific. Reading
 position is kept separately too — `tefsir:pos:*` for Turkish,
-`tefsir:en:pos:*` for English.
+`tefsir:en:pos:*` for English, `tefsir:id:pos:*` for Indonesian.
 
 The sūra name is taken from the file's title: Turkish trims the trailing
-*Sûresi* (`Bakara Sûresi` → **Bakara**), English the leading *Sūrat*
-(`Sūrat al-Baqara` → **al-Baqara**).
+*Sûresi* (`Bakara Sûresi` → **Bakara**), English and Indonesian the leading
+*Sūrat* / *Surah* (`Sūrat al-Baqara` → **al-Baqara**, `Surah Al-Baqarah` →
+**Al-Baqarah**).
 
 ### Entry language
 
 `/` opens in the visitor's language. The order is: explicit choice (cookie) →
-browser language (`Accept-Language`) → default (Turkish). Only `/` redirects;
-every other URL is served as asked for, so arriving at `/sure/2` from a search
-result never throws you elsewhere. The cookie is written only when the
-language link in the top bar is clicked.
+browser language (`Accept-Language`, with the legacy `in` tag treated as
+Indonesian) → default (Turkish). Only `/` redirects; every other URL is served
+as asked for, so arriving at `/sure/2` from a search result never throws you
+elsewhere. The cookie is written only when a language link in the top bar is
+clicked.
 
 ### Link scheme
 
@@ -180,8 +198,11 @@ sûras.
 
 ### Search and AI crawlers
 
-`app/sitemap.ts` publishes 6,232 URLs with `tr` / `en` / `x-default`
-alternates; `app/robots.ts` keeps the JSON fragment routes out of the crawl
+`app/sitemap.ts` publishes every page in every language that has it, with
+`tr` / `en` / `id` / `x-default` alternates — 3,117 URLs per language — and a
+sūra that a language has not translated is simply absent from it, rather than
+entering the sitemap as a 404; `app/robots.ts` keeps the JSON fragment routes
+out of the crawl
 and lists the AI crawlers explicitly (all of them allowed, on purpose).
 `/llms.txt` carries a summary and the disclaimer. The full account, including
 the trade-offs and known limits, is in `SEO.md`.
@@ -195,8 +216,13 @@ python3 check.py          # verse coverage — any verse left untreated
 python3 check.py refs     # do the file citations resolve
 python3 check.py verses   # are the verse references in range
 python3 check.py bold     # nested bold emphasis that breaks rendering
+python3 check.py italic   # an italic pair opened inside a word
 
-python3 check.py --dir tafsir-en   # the same checks against the translation
+python3 check.py --dir tafsir-en   # the same checks against a translation
+python3 check.py --dir tafsir-id
+
+python3 align.py                   # are the three languages still line for line
+python3 align.py 002-bakara.md     # one file
 ```
 
 These check the **structure** of the text: that every verse is treated, that

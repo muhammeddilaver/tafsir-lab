@@ -192,7 +192,7 @@ Buradaki işlevi şudur: ilk üç ayet **tanımlıyor** — bunlar koşan, kıv�
 
 Ve şimdi asıl mesele: **Kur'an bu fiili tarımda kullanır.**
 
-- *"Yeri sürüp altını üstüne getiren, boyunduruk kabul etmemiş bir inek…"* (Bakara 2/71). Buradaki *tüsîru'l-ard* — toprağı sürmek, çift sürmek.
+- *"Yeri sürüp altını üstüne getirmeyen, boyunduruk kabul etmemiş bir inek…"* (Bakara 2/71). Buradaki *tüsîru'l-ard* — toprağı sürmek, çift sürmek.
 - *"Onlar yeryüzünde daha güçlüydüler, toprağı sürüp altını üstüne getirmişler ve orayı imar etmişlerdi."* (Rûm 30/9). Aynı fiil, aynı anlam: *esârû'l-arda ve amerûhâ.*
 
 Yani *esera*, Kur'an'ın kendi kullanımında **çift sürme fiilidir.**

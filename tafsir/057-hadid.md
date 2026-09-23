@@ -28,7 +28,7 @@ Sûrenin iskeleti şöyle çıkarılabilir:
 
 Dikkat edilirse sûre iki kez "**اعلموا**" (bilin ki) diye başlayan bir cümle kuruyor: 17. ve 20. ayetlerde. İkisi de aynı işi yapıyor — bir bilgiyi doğrudan okurun önüne koyup ondan sonuç çıkarmasını istiyor. Ve ikisi arasında yalnızca iki ayet var.
 
-Bir örgü daha: sûre **ışık** kelimesini beş kez kullanıyor (9, 12, 13 iki kez, 19, 28). Işık, sûrenin en çok tekrarlanan somut imgesidir; ve son ayetlerden birinde (28) müminlere vaadedilen şey yine bir ışıktır — *"yürüyeceğiniz bir ışık."* Sûre 9. ayette karanlıktan aydınlığa çıkarmakla açtığı imgeyi 28. ayette yürünen bir ışıkla kapatıyor.
+Bir örgü daha: sûre **ışık** kelimesini beş kez kullanıyor (9, 12, 13, 19, 28). Işık, sûrenin en çok tekrarlanan somut imgesidir; ve son ayetlerden birinde (28) müminlere vaadedilen şey yine bir ışıktır — *"yürüyeceğiniz bir ışık."* Sûre 9. ayette karanlıktan aydınlığa çıkarmakla açtığı imgeyi 28. ayette yürünen bir ışıkla kapatıyor.
 
 ## Medenî oluşu ve tarihî yer
 
@@ -223,7 +223,7 @@ Klasik kelâmda bu, "*evveliyyet*, zaman öncelikliği değil **varlık** öncel
 
 Bu ayrım, Fâtiha ve İhlâs bölümlerinde konan tenzîh ölçüsünün doğrudan devamıdır ve burada tekrarlanmasına gerek yok. Yalnızca şunu kaydediyorum: **dört ismin dördü de aynı riski taşır.** Dördü de insanın kendi dünyasından alınmış kelimelerdir — önce, sonra, dışta, içte. Bunlar konum bildiren kelimelerdir ve konum, sınırlı varlıkların özelliğidir.
 
-Ayetin bu riski nasıl karşıladığı, ismlerin **çift halinde** verilmesindedir. Buna aşağıda döneceğim.
+Ayetin bu riski nasıl karşıladığı, isimlerin **çift halinde** verilmesindedir. Buna aşağıda döneceğim.
 
 ### ٱلْـَٔاخِر — el-âhir
 
@@ -338,7 +338,7 @@ Sûrenin en uzun ayetlerinden biri ve dört ayrı cümleden oluşuyor. Üçünc�
 
 Bu ifade Kur'an'da birkaç yerde tekrar eder ve üzerinde durmak gerekiyor, çünkü zorlama yoruma çok müsait bir zemin.
 
-**يَوْم** kelimesi Arapçada yalnızca "yirmi dört saatlik gün" demek değildir. Kökün asıl anlamı **bir zaman dilimi, bir devre**dir. Kur'an bunu kendisi gösterir: *"Rabbinin katında bir gün, sizin saydıklarınızdan bin yıl gibidir"* (Hac 22/47); ve aynı sûrede daha ilerideki bir ayette meleklerin ve rûhun yükselişi için elli bin yıllık bir gün anılır (Meâric 70/4).
+**يَوْم** kelimesi Arapçada yalnızca "yirmi dört saatlik gün" demek değildir. Kökün asıl anlamı **bir zaman dilimi, bir devre**dir. Kur'an bunu kendisi gösterir: *"Rabbinin katında bir gün, sizin saydıklarınızdan bin yıl gibidir"* (Hac 22/47); ve bir başka sûredeki bir ayette meleklerin ve rûhun yükselişi için elli bin yıllık bir gün anılır (Meâric 70/4).
 
 Yani *yevm*, ölçüsü bağlama göre değişen bir birimdir. Güneş henüz yaratılmamışken "gün"ün bugünkü anlamıyla kullanılamayacağı da açıktır.
 
@@ -490,7 +490,7 @@ Kökün taşıdığı görüntü şudur: **geniş bir açıklıktan geçmek değ
 
 Ayetteki fiil **إفعال (if'âl)** babındadır: *velece* (girdi) → *evlece* (soktu). Yani geçişli hale gelmiş. Gece kendiliğinden girmiyor; **sokuluyor.**
 
-Bu kökün Kur'an'daki en bilinen kullanımı, aynı sûrenin bir önceki ayetinde (57/4) geçen *"yere gireni bilir"* ifadesidir. Aynı kök, iki ayet arayla, bir kez bilgi bağlamında bir kez fiil bağlamında.
+Bu kökün Kur'an'daki en bilinen kullanımı, aynı sûrenin dördüncü ayetinde (57/4) geçen *"yere gireni bilir"* ifadesidir. Aynı kök, iki ayet arayla, bir kez bilgi bağlamında bir kez fiil bağlamında.
 
 ### Ne anlatılıyor?
 
@@ -538,7 +538,7 @@ Bu, dördüncü ayetin kapanışıyla aynı hareket: kozmik ölçekten kişisel 
 
 Ve sûrenin devamı düşünüldüğünde bu son derece yerindedir. Sûre infak isteyecek; infak, görünür bir fiildir. Ama sûre aynı zamanda **münafıklardan** söz edecek — yani görünürde aynı fiili yapan, içi başka olanlardan. On üçüncü ayetteki sahne tam olarak bunun üzerine kuruludur.
 
-Altıncı ayetin kapanışı, o sahneyi altı ayet önceden hazırlıyor: **dışarıdan bakıldığında ayırt edilemeyen şey, buradan bakıldığında ayırt edilir.**
+Altıncı ayetin kapanışı, o sahneyi yedi ayet önceden hazırlıyor: **dışarıdan bakıldığında ayırt edilemeyen şey, buradan bakıldığında ayırt edilir.**
 
 Ayrıca üçüncü ayetle bir halka daha kuruluyor. Orada Allah *el-bâtın* diye anılmıştı — en içte olan. Burada bildiği şey **göğüslerin içi**dir. İsim ile fiil, üç ayet arayla eşleşiyor.
 
@@ -1597,7 +1597,7 @@ Bu ayet, sûrenin bugüne en doğrudan bakan yeridir ve birkaç noktada somutla�
 
 **Bir: uyarının yönü.**
 
-Dinî metinler çoğunlukla dışarıya doğru okunur — kimin yanlış yaptığını, kimin sapıtdığını göstermek için. Bu ayet bunu imkânsız kılıyor, çünkü muhatabını açıkça adlandırıyor: *ellezîne âmenû.*
+Dinî metinler çoğunlukla dışarıya doğru okunur — kimin yanlış yaptığını, kimin sapıttığını göstermek için. Bu ayet bunu imkânsız kılıyor, çünkü muhatabını açıkça adlandırıyor: *ellezîne âmenû.*
 
 Bu, Hümeze bölümünde kaydedilen tuzağın aynısıdır ve burada daha da keskindir: **bu ayeti başkaları hakkında okumak, ayetin tarif ettiği hâlin kendisidir.** Çünkü ayetin tarif ettiği şey, metnin artık kişiye dokunmaz hale gelmesidir. Metni başkasına yönelten kişi, tam olarak bunu yapmaktadır.
 
@@ -2597,7 +2597,7 @@ Ve **sıra dikkat çekicidir: önce güç, sonra fayda.** Demirin yıkıcı yüz
 
 Bunun sebebi, ayetin bağlamı olabilir: cümle *"insanlar adaleti ayakta tutsunlar"* amacından sonra geliyor. Yani demirin buradaki asıl işlevi, adaletin korunmasıdır — ve o iş, *be's* tarafını gerektirir.
 
-**Kur'an'da demir başka yerlerde de geçer ve hep bu iki yüzle:**
+**Kur'an'da demir başka yerlerde de anılır:**
 
 - *"Ona demiri yumuşattık"* (Sebe' 34/10) — Dâvûd için. Ve devamında zırh yapımı anlatılır: *"Geniş zırhlar yap ve dokumasını ölçülü tut"* (Sebe' 34/11). Dikkat: orada da bir **ölçü** emri var.
 - *"Ona sizi savaşınızın şiddetinden koruyacak zırh yapma sanatını öğrettik"* (Enbiyâ 21/80) — yine Dâvûd.
@@ -2643,7 +2643,7 @@ Bu sıra tersine çevrilebilirdi. Ama çevrilmemiş, ve sıranın kendisi bir hi
 
 Bu, sûrenin ilk ayetindeki isim çiftini hatırlatıyor: **el-azîzü'l-hakîm** — güç ve hikmet. Orada kaydedilmişti: güç tek başına anıldığında keyfîlik ihtimali doğar; hikmet tek başına anıldığında etkisizlik ihtimali doğar.
 
-**Yirmi beş ayet sonra aynı denge, somut bir madde üzerinden tekrar kuruluyor.** Ve ayet, aynı isim çiftinin bir başka biçimiyle kapanacak: *kaviyyün azîz.*
+**Yirmi dört ayet sonra aynı denge, somut bir madde üzerinden tekrar kuruluyor.** Ve ayet, aynı isim çiftinin bir başka biçimiyle kapanacak: *kaviyyün azîz.*
 
 ### وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ
 
@@ -3285,7 +3285,7 @@ Metin boyunca birkaç noktada bilerek kesin dil kullanılmadı; okuyucunun bunla
 - ***Muhtâl*** ile *fahûr* arasındaki fark (hâl / kâl) kaynaklarda bulunan bir eğilim olarak verildi; kesin birlik bulunmadığı belirtildi.
 - ***Mîzân*** kelimesinin ne olduğu konusunda dört görüş tablo halinde verildi; bir tercih dayatılmadı.
 - **Demirin uzaydan/yıldızlardan geldiği iddiası beş ayrı gerekçeyle reddedildi.** Reddedilen şeyin astrofizik bilgisi değil, **o bilginin ayetten çıkarıldığı iddiası** olduğu açıkça belirtildi. *İnzâl* fiilinin soyut ve yeryüzü kaynaklı şeyler için kullanıldığına dair örnekler **Zümer 39/6** (hayvanların indirilmesi), **A'râf 7/26** (elbisenin indirilmesi) ve **Fetih 48/4** (sekînenin indirilmesi) ayetlerinden verildi; ve Hicr 15/21 belirleyici ayet olarak gösterildi.
-- **Demirin Kur'an'daki üç geçişinin de savunma bağlamında olduğu** bir gözlem olarak kaydedildi, ama örneklem küçük olduğu için kural olarak sunulmadı.
+- **Demirin anılan üç örneğinin de savunma bağlamında olduğu** bir gözlem olarak kaydedildi, ama örneklem küçük olduğu için kural olarak sunulmadı.
 - ***Enzelnâ* fiilinin tekrarının üç şeyi aynı kategoriye koyduğu ve bunun "elindeki güç de senin değil" anlamına geldiği okuması, kendi okumamdır**; klasik bir müfessire nispet edilmedi.
 - ***Li-ya'lema'llâh*** ifadesi için iki izah verildi; tercih dayatılmadı.
 - **57/27'nin i'râbı** konusunda iki ana okuma ve *illâ* istisnası için iki okuma tablo halinde verildi. Birinci okuma esas alındı, **bunun bir tercih olduğu ve bağlayıcı olmadığı** kaydedildi.

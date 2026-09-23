@@ -308,7 +308,7 @@ Türevleri bunu açıkça gösterir:
 
 Buradan çıkan tanım kritiktir: **küfür, bilmemek değildir; bildiğinin üstünü örtmektir.** Cehalet ile küfür ayrı şeylerdir. Kur'an'ın kâfir dediği kişi, önüne konan delili görmemiş kişi değil, gördüğünü örtmeyi seçmiş kişidir. Nitekim Kur'an, Firavun'a karşı Mûsâ'nın ağzından bunu açıkça söyler: *"Andolsun, bunları indirenin göklerin ve yerin Rabbi olduğunu bilmişsindir"* (İsrâ 17/102).
 
-Bir de kelimenin zıddına bakın: Kur'an'da *küfr*'ün karşısına çoğu zaman *îmân* değil **şükür** konur (*"şâkiren ev kefûrâ"*, İnsân 76/3). Şükür verileni görüp itiraf etmek, küfür ise verileni örtmektir. Yani küfür, temelde bir **nankörlük** kavramıdır.
+Bir de kelimenin zıddına bakın: Kur'an'da *küfr*'ün karşısına çoğu zaman *îmân* değil **şükür** konur (*"immâ şâkiren ve immâ kefûrâ"*, İnsân 76/3). Şükür verileni görüp itiraf etmek, küfür ise verileni örtmektir. Yani küfür, temelde bir **nankörlük** kavramıdır.
 
 Bu ayrım, kelimeyi bir hakaret sözü olmaktan çıkarıp bir durum tarifi haline getirir. Bu tefsirde de öyle kullanılacaktır.
 
@@ -1383,7 +1383,7 @@ Ve *fârid* ile *bikr* kelimelerinin ikisi de zamanla ilgilidir: biri sürenin s
 
 **تُثِيرُ** — kök **ث-و-ر**: kaldırmak, altını üstüne getirmek, tozu havalandırmak. Toprağı sürmek, toprağın altını üste getirmektir.
 
-**مُسَلَّمَة** — kök **س-ل-م**. Sûrenin 131. ayetinde *eslim / eslemtü* fiilleriyle bu kökün "sağlam, kusursuz, eksiksiz olmak" anlamını görmüştük. *Müselleme* — kusuru olmayan, ayıptan uzak.
+**مُسَلَّمَة** — kök **س-ل-م**. Sûrenin 131. ayetinde *eslim / eslemtü* fiilleriyle bu kökün "sağlam, kusursuz, eksiksiz olmak" anlamını göreceğiz. *Müselleme* — kusuru olmayan, ayıptan uzak.
 
 **لَا شِيَةَ فِيهَا** — "onda alaca yok." Kök **و-ش-ي**: bir şeye başka renkten iz katmak, alacalandırmak. Dilciler aynı kökten gelen *vişâye* (gammazlama) ile ilişkiyi şöyle kurar: gammaz da sözün üstüne kendi rengini katandır. **Bu ilişkilendirmeyi dilcilerin kurduğu şekliyle aktarıyorum**, kesin bir etimoloji hükmü olarak değil.
 
@@ -1484,7 +1484,7 @@ Ve gerekçe sayılıyor — taşın üç hali:
 
 **يَتَفَجَّرُ** — kök *f-c-r*: yarılıp fışkırmak. Bu kök, bu tefsirde daha önce birkaç yerde geçti ve hepsinde aynı fikir vardı: kabuğun yarılıp içindekinin çıkması. Kur'an'ın verimlilik için seçtiği kelimeler ısrarla **yarılma** kökünden geliyor — *felak* (sabahın yarılması), *felâh* (toprağı yaran çiftçi), *fecr*, *şakk*, *fatr*. Kalbin katılaşması ise tam bunun tersidir: yarılmayan, açılmayan, içinden bir şey çıkmayan.
 
-Sûrenin beşinci ayetinde kurtuluşa erenlere **müflihûn** — "yarıp çıkanlar" — denmişti. Yetmiş ayet sonra karşıt tablo tamamlanıyor: yarılmayan kalp.
+Sûrenin beşinci ayetinde kurtuluşa erenlere **müflihûn** — "yarıp çıkanlar" — denmişti. Altmış dokuz ayet sonra karşıt tablo tamamlanıyor: yarılmayan kalp.
 
 ---
 
@@ -1781,13 +1781,13 @@ Ama hemen ardından gelen **مِنۢ بَعْدِهِۦ** o mesafeyi daraltıyor
 
 Kök **ب-ي-ن**: iki şeyin arasını ayırmak, ayırt etmek. *Beyyine*, kendisiyle doğru ile yanlışın **ayrıldığı** delildir; *beyân* ve *tebyîn* aynı kökten.
 
-Kelimenin çoğul gelmesi önemli: tek bir delil değil, **deliller.** Sûre bunları 49-60. ayetlerde tek tek saymıştı — denizin yarılması, gölge, menn ve selvâ, on iki pınar, taştan su. Ayet bu listenin tamamını tek kelimeyle geri çağırıyor.
+Kelimenin çoğul gelmesi önemli: tek bir delil değil, **deliller.** Sûre bunları 49-60. ayetlerde tek tek saymıştı — denizin yarılması, gölge, menn ve selvâ, on iki pınar. Ayet bu listenin tamamını tek kelimeyle geri çağırıyor.
 
 ### وَأَنتُمْ ظَٰلِمُونَ
 
-Cümlenin sonundaki bu kayıt, sûrenin en sık tekrarlanan kaydının bir başka biçimidir: *ve entüm ta'lemûn* — "hem de bilerek" (2/22, 2/42, 2/75, 2/188).
+Cümlenin sonundaki bu kayıt, sûrenin en sık tekrarlanan kaydının bir başka biçimidir: *ve entüm ta'lemûn* — "hem de bilerek" (2/22, 2/42, 2/188).
 
-Burada bilgi yerine **zulüm** kelimesi konuyor. İkisi bu sûrede birbirine bağlıdır: bilinerek yapılan şey, artık hata değil haksızlıktır. Ve *z-l-m* kökünün "bir şeyi yerinden başka yere koymak" anlamı elli dördüncü ayette geçmişti — buzağının Allah'ın yerine konması, kelimenin tam karşılığıdır.
+Burada bilgi yerine **zulüm** kelimesi konuyor. İkisi bu sûrede birbirine bağlıdır: bilinerek yapılan şey, artık hata değil haksızlıktır. Ve *z-l-m* kökünün "bir şeyi yerinden başka yere koymak" anlamı elli yedinci ayette geçmişti — buzağının Allah'ın yerine konması, kelimenin tam karşılığıdır.
 
 Ve isim cümlesi kullanılıyor: *ve entüm zâlimûn* — "zulmettiniz" değil, "zalimlerdiniz." Arapçada bu yapı, fiili bir defalık bir olay olarak değil, **o andaki hâlin niteliği** olarak bildirir.
 
@@ -1853,7 +1853,7 @@ Bu iki ayet, bir önceki bölümü (melek düşmanlığı) kapatıp bir sonraki 
 
 ### وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَٰسِقُونَ
 
-**ف-س-ق** kökünün somut anlamı bu tefsirde birkaç yerde işlendi — sûrenin 26. ayetinde ve Hadîd, Hucurât bahislerinde: **hurmanın kabuğundan çıkması**, yani kendi kabından dışarı taşmak. Tekrarlamıyorum.
+**ف-س-ق** kökünün somut anlamı bu tefsirde birkaç yerde işlendi — Hadîd ve Hucurât bahislerinde: **hurmanın kabuğundan çıkması**, yani kendi kabından dışarı taşmak. Tekrarlamıyorum.
 
 Kelimenin buradaki yeri dikkat çekicidir. Cümle, ayetleri inkâr edenler için "bilmeyenler" ya da "anlamayanlar" demiyor; **kabuğundan çıkanlar** diyor. Yani reddin sebebi bilgi eksikliği değil, **bulunduğu sınırın dışına taşma**dır.
 
@@ -2338,9 +2338,9 @@ Beşincisi ötekilerin hepsinin cevabıdır. Ve dikkat: ayet bunu bir gruba tahs
 
 ### 122-123: sûrenin içindeki halka
 
-Bu iki ayet, sûrenin 47-48. ayetlerinin **birebir tekrarıdır.**
+Bu iki ayet, sûrenin 47-48. ayetlerinin **neredeyse birebir tekrarıdır.**
 
-Bu, tesadüf olarak açıklanamayacak bir düzendir. İsrâiloğulları bölümü 47. ayette bu iki ayetle **açılmış**, yetmiş beş ayet boyunca sürmüş ve şimdi 122-123 ile aynı iki ayetle **kapanıyor.** Arapçada ve genel olarak edebiyatta buna **halka yapısı** denir: bir bölüm, başladığı cümleyle bitirilir.
+Bu, tesadüf olarak açıklanamayacak bir düzendir. İsrâiloğulları bölümü 47. ayette bu iki ayetle **açılmış**, yetmiş üç ayet boyunca sürmüş ve şimdi 122-123 ile aynı iki ayetle **kapanıyor.** Arapçada ve genel olarak edebiyatta buna **halka yapısı** denir: bir bölüm, başladığı cümleyle bitirilir.
 
 Halkanın içine ne konduğuna bakılırsa, tekrarın işlevi anlaşılır:
 
@@ -2348,7 +2348,7 @@ Halkanın içine ne konduğuna bakılırsa, tekrarın işlevi anlaşılır:
 - **İçeride (49-121):** üstünlüğün verildiği topluluğun sicili — buzağı, cumartesi, sığır, tahrif, gizleme, ahdi atma.
 - **Kapanışta (122-123):** aynı iki cümle.
 
-Yani ilk okunduğunda bir hatırlatma olan cümle, aradaki yetmiş beş ayet okunduktan sonra **başka bir ağırlıkla** geri geliyor. Kelimeler aynı; okuyan aynı değil.
+Yani ilk okunduğunda bir hatırlatma olan cümle, aradaki yetmiş üç ayet okunduktan sonra **başka bir ağırlıkla** geri geliyor. Kelimeler aynı; okuyan aynı değil.
 
 **Bunu bir yapı gözlemi olarak kaydediyorum.** Sûre bu tekniği bir kez daha kullanır: 134 ve 141. ayetlerde *"onlar bir ümmetti, gelip geçti"* cümlesi de birebir iki kez tekrarlanır ve her ikisinde de bir soy listesinin ardından gelir.
 
@@ -2580,7 +2580,7 @@ Ve cevap tam bu noktayı hedef alıyor: **وَهُوَ رَبُّنَا وَرَ
 
 **وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ** — "bizim amellerimiz bize, sizinkiler size." Cümle, tartışmayı aidiyetten **fiile** çeviriyor: paylaşılamayan şey Rab değil, herkesin kendi işidir.
 
-Bu, sûrenin 134 ve 141. ayetlerinde tekrarlanan *"onların kazandığı onlara, sizin kazandığınız size"* cümlesinin aynı kalıbıdır. Aynı ölçü, üç ayrı yerde: bir kez atalar için, bir kez muhataplar için.
+Bu, sûrenin 134 ve 141. ayetlerinde tekrarlanan *"onların kazandığı onlara, sizin kazandığınız size"* cümlesinin aynı kalıbıdır. Aynı ölçü, iki ayrı yerde: bir kez atalar için, bir kez muhataplar için.
 
 **وَنَحْنُ لَهُۥ مُخْلِصُونَ** — kök **خ-ل-ص**: bir şeyin **saf, katkısız** olması; başka bir şeyin karışmamış hali. Sütün yağının ayrılmasına da bu fiil kullanılır. *İhlâs*, bir işi yaparken içine başka niyet karıştırmamaktır.
 
@@ -3152,7 +3152,7 @@ Görüntü tamdır: bir uçurumun kenarında ellerinde tuttukları bütün halat
 
 ### لَوْ أَنَّ لَنَا كَرَّةً
 
-**كَرَّة** — kök **ك-ر-ر**. Bu kök Mülk (67/4) ve Nâziât (79/13) bahislerinde işlendi; tekrarlamıyorum. Özeti: kökün asıl yeri savaş meydanıdır — *kerr ve ferr* (saldır ve çekil) usulünde, geri çekildikten sonra **tekrar hücuma dönmek**. Buradan "defa, kez" anlamı doğmuştur.
+**كَرَّة** — kök **ك-ر-ر**. Bu kök Mülk (67/4) ve Nâziât (79/12) bahislerinde işlendi; tekrarlamıyorum. Özeti: kökün asıl yeri savaş meydanıdır — *kerr ve ferr* (saldır ve çekil) usulünde, geri çekildikten sonra **tekrar hücuma dönmek**. Buradan "defa, kez" anlamı doğmuştur.
 
 Yani istenen şey basitçe "geri dönmek" değil; kelimenin kendi mantığında **bir hamleyi tekrar etme fırsatı**dır. Bir kez daha denemek.
 
@@ -3359,7 +3359,7 @@ Yani gizleme burada tek başına değil; bir **kazanç** ile birlikte anılıyor
 
 ### وَلَا يُكَلِّمُهُمُ ٱللَّهُ… وَلَا يُزَكِّيهِمْ
 
-İki olumsuzluk sayılıyor ve ikisi de bu sûrede daha önce **olumlu** hâlleriyle geçmişti:
+İki olumsuzluk sayılıyor ve ikisi de bu sûrede **olumlu** hâlleriyle geçiyor:
 
 | Ayet | Olumlu hâli |
 |---|---|
@@ -3732,7 +3732,7 @@ Ayet, bütün ruhsatları saydıktan sonra bir **tercih** belirtiyor: oruç tutm
 
 **Ve bu, ruhsatın nasıl okunması gerektiğini gösteriyor.** Kolaylık veriliyor, ama kolaylığın asıl olduğu söylenmiyor. İki cümle bir arada duruyor: yapamazsan yolu var; yapabiliyorsan yapman daha iyi.
 
-**إِن كُنتُمْ تَعْلَمُونَ** — "bilirseniz." Şart cümlesi, hükmün gerekçesini bilgiye bağlıyor. Bu kalıp sûrede tanıdıktır; ama burada tersine dönmüş: sûre boyunca *"hem de bilerek"* (2/22, 42, 75, 188) tekrarlanmış ve bilgi bir **suçlama** kaydı olarak kullanılmıştı. Burada aynı kelime bir **davet** olarak geliyor.
+**إِن كُنتُمْ تَعْلَمُونَ** — "bilirseniz." Şart cümlesi, hükmün gerekçesini bilgiye bağlıyor. Bu kalıp sûrede tanıdıktır; ama burada tersine dönmüş: sûre boyunca *"hem de bilerek"* (2/22, 42, 188) tekrarlanmış ve bilgi bir **suçlama** kaydı olarak kullanılmıştı. Burada aynı kelime bir **davet** olarak geliyor.
 
 Ve bir sonraki ayet (185), bu tercihi kolaylık ilkesiyle dengeleyecektir: *"Allah sizin için kolaylık ister, zorluk istemez."* İki ayet birlikte okunmalıdır — biri hedefi, öteki hedefin nasıl konduğunu söylüyor.
 
@@ -4504,7 +4504,7 @@ Bu kalıp Arapçada **karşılıklılık** bildirir: *kātele*, "birbiriyle vuru
 
 Bu ayrım, sûrenin 190. ayetinde işlendi ve orada kaydedilenler burada da geçerlidir: *"Sizinle **savaşanlarla** savaşın, ama **haddi aşmayın**"* — fiil karşılıklılık kalıbındadır, muhatabı belirlidir, ve iznin hemen yanına sınırı konmuştur.
 
-**Bu ayet, o sınırlar kaldırılarak okunamaz.** 244. ayetteki emir kısa ve kayıtsız görünür; ama aynı sûrenin elli ayet öncesinde aynı kök için konan kayıtlar yürürlüktedir: savaşanlara karşı, haddi aşmadan, karşı taraf bıraktığında bırakarak (2/192-193).
+**Bu ayet, o sınırlar kaldırılarak okunamaz.** 244. ayetteki emir kısa ve kayıtsız görünür; ama aynı sûrenin elli dört ayet öncesinde aynı kök için konan kayıtlar yürürlüktedir: savaşanlara karşı, haddi aşmadan, karşı taraf bıraktığında bırakarak (2/192-193).
 
 Kur'an'ın hüküm okuma usulünde bu bilinen bir ilkedir: **mutlak, mukayyede hamledilir** — bir yerde kayıtsız verilen hüküm, başka yerde konan kayıtla birlikte anlaşılır. Sûrenin kendisi bu iki ayeti aynı metnin içine koymuştur.
 

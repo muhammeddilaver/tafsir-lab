@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **I** | 1-8 | Kitap, uyarı ve dünyanın süsü | *Ve innâ le-câilûne mâ aleyhâ saîden cürüzâ* (8) |
 | **II** | 9-26 | **Mağara ehli** | *Ve lâ testefti fîhim minhüm ehadâ* (22) · *Kuli'llâhu a'lemü bimâ lebisû* (26) |
-| **III** | 27-49 | İki bahçe sahibi ve dünya hayatının temsili | *Ve lem necid lehüm mev'ıden* (48-49) |
+| **III** | 27-49 | İki bahçe sahibi ve dünya hayatının temsili | *Bel zeamtüm ellen nec'ale leküm mev'ıdâ* (48) |
 | **IV** | 50-59 | İblîs, tartışma ve helâk kanunu | *Ve cealnâ li-mehlikihim mev'ıdâ* (59) |
 | **V** | 60-82 | **Mûsâ ve ilim verilen kul** | *Zâlike te'vîlü mâ lem testı' aleyhi sabrâ* (82) |
 | **VI** | 83-110 | **Zülkarneyn** ve kapanış | *Fe-lâ yeşrik bi-ıbâdeti rabbihî ehadâ* (110) |
@@ -24,7 +24,7 @@
 | Mûsâ ve o kul | **Olayların arkasındaki gerekçe** (68, 78, 82) |
 | Zülkarneyn | **Setin ne zaman yıkılacağı** (98) |
 
-**Dördünde de bilgi eksikliği bir kusur olarak değil, insanın konumu olarak veriliyor.** Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi cümleleridir: *kul rabbî a'lemü bi-iddetihim* (22), *ve lâ tekūlenne li-şey'in innî fâilün zâlike ğaden illâ en yeşâallâh* (23-24), *ve mâ lem tuhıt bihî hubrâ* (68).
+**Dördünde de bilgi eksikliği bir kusur olarak değil, insanın konumu olarak veriliyor.** Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi cümleleridir: *kul rabbî a'lemü bi-iddetihim* (22), *ve lâ tekūlenne li-şey'in innî fâilün zâlike ğaden illâ en yeşâallâh* (23-24), *alâ mâ lem tuhıt bihî hubrâ* (68).
 
 ---
 
@@ -258,7 +258,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **Ve bu, sûrenin yirmi üçüncü ayetiyle birebir bağlanıyor:** *ve lâ tekūlenne li-şey'in innî fâilün zâlike ğaden **illâ en yeşâallâh**.*
 
-| Ayet | İfade | Kime |
+| Ayet | İfade | Ne tür |
 |---|---|---|
 | 23-24 | *İllâ en yeşâallâh* | **Emir** — genel kural |
 | 39 | *Mâ şâallâh* | **Sitem** — söylenmemiş olan |
@@ -622,7 +622,7 @@ Arapçada bu kalıp (*fe'l-yü'min … fe'l-yekfür*) emir değil, **serbest bı
 
 **Cümle kaydedilmeye değer: tartının kurulmaması.**
 
-**`021-enbiya.md` 21/47'de (*ve nedau'l-mevâzîne'l-kıst*) tartının konması işlenmiş olabilir; `057-hadid.md`'de *mîzân* çözümlendi.**
+**`021-enbiya.md` 21/47'de (*ve nedau'l-mevâzîne'l-kıst*) tartının konması işlendi; `057-hadid.md`'de *mîzân* çözümlendi.**
 
 **Bunu kendi okumam olarak kaydediyorum:** ayet bir ceza bildirmiyor — **işlemin yapılmadığını** bildiriyor. **Ve bu, yüz dördüncü ayetteki teşhisin doğal sonucudur:** çabaları boşa gitmiş olanların tartılacak bir şeyi kalmıyor.
 

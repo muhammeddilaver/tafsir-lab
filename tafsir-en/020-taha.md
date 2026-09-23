@@ -18,7 +18,7 @@ The body of the sūra is **the story of Moses (Mūsā)**: from verse 9 to verse 
 
 ### The spine of the sūra: ش-ق-و
 
-**The sūra opens with one root and closes with the same root, and this is a datum that can be counted from the text. The root occurs three times in the sūra and in no other place in it:**
+**The sūra opens with one root and closes with the same root, and this is a datum that can be counted from the text. The root occurs three times in the sūra:**
 
 | Verse | Expression | To whom |
 |---|---|---|
@@ -279,13 +279,13 @@ The root **خ-ش-ي**: **to hold back because one knows the greatness of a thing
 | The first call | ***Yā Mūsā*** — the name | *Būrika man fi'n-nār* — blessing | *Innī ana'llāhu rabbu'l-ʿālamīn* — identity |
 | Then | *Innī ana rabbuka **fakhlaʿ naʿlayk*** | Identity a verse later (27/9) | — |
 
-**Four differences are worth recording, and all four are countable data.**
+**Three differences are worth recording, and all three are countable data.**
 
 **One — only in Ṭāhā is there a command spoken to the family: *imkuthū* (stay, remain).** The root **م-ك-ث**: **to halt in a place and wait, to tarry.** **That is, Ṭāhā opens the scene with Moses being left alone.**
 
 **Two — only in Ṭāhā is the second thing sought *hudā*.** In al-Naml and al-Qaṣaṣ what is expected from the fire is **news** and **a brand**; in Ṭāhā **a brand** and **a guide.**
 
-**I record this as my own reading, and its ground is the distribution of words in the sūra:** the root ه-د-ي occurs in eight verses of this sūra (10, 50, 79, 82, 122, 123, 128, 135) and **comes out of Moses's own mouth in the first sentence of the story, before anything has yet happened.** **That is, the sūra places what is sought at the head of the story, and closes with the same word in its last verse:** *wa mani'htadā* (135).
+**I record this as my own reading, and its ground is the distribution of words in the sūra:** the root ه-د-ي occurs in nine verses of this sūra (10, 47, 50, 79, 82, 122, 123, 128, 135) and **comes out of Moses's own mouth in the first sentence of the story, before anything has yet happened.** **That is, the sūra places what is sought at the head of the story, and closes with the same word in its last verse:** *wa mani'htadā* (135).
 
 **Three — the expression *ʿala'n-nāri hudā* is worth recording.** A fire seen at night in the desert is the sign **that someone is there**; a man who has lost his way goes to that fire and asks the road. **That is, the sentence describes an everyday custom of the desert.**
 
@@ -857,7 +857,7 @@ The root **ل-ي-ن**: **softness, pliancy; the opposite of hardness.** **The ro
 
 ### The other links of the same line
 
-**This command is the hardest instance of a line treated in the series. The same line was treated at `041-fussilet.md` on 41/34 and at `029-ankebut.md` on 29/46, and a third link was recorded at `028-kasas.md` on 28/54.** **I rely on those treatments and complete the table with a fourth link:**
+**This command is the hardest instance of a line treated in the series. The same line was treated at `041-fussilet.md` on 41/34 and at `029-ankebut.md` on 29/46, and a third link was recorded at `028-kasas.md` on 28/54.** **I rely on those treatments and complete the table with one more link:**
 
 | Place | Expression | Domain | Addressee |
 |---|---|---|---|
@@ -1215,7 +1215,7 @@ The root **خ-ي-ل**: **imagination, a thing's appearing to the eye otherwise t
 
 **Four — the order of the names in the declaration of faith differs: in Ṭāhā *rabbi Hārūna wa Mūsā*, in al-Shuʿarāʾ *rabbi Mūsā wa Hārūn*.**
 
-**I record this as a datum of the text and issue no ruling.** In the classical commentaries the difference in order is explained by the harmony of the verse-endings (Ṭāhā's endings close on an *-ā* sound), and other explanations of Aaron's being placed first are transmitted. **The explanation from the verse-endings is an observation that can be verified from the text:** all the verse-endings of the sūra close with *alif maqṣūra*, and *Mūsā* fits that pattern while *Hārūn* does not. **I give this as an observation about the language, not as a claim of a definite cause.**
+**I record this as a datum of the text and issue no ruling.** In the classical commentaries the difference in order is explained by the harmony of the verse-endings (Ṭāhā's endings close on an *-ā* sound), and other explanations of Aaron's being placed first are transmitted. **The explanation from the verse-endings is an observation that can be verified from the text:** almost all the verse-endings of the sūra close with *alif maqṣūra*, and *Mūsā* fits that pattern while *Hārūn* does not. **I give this as an observation about the language, not as a claim of a definite cause.**
 
 ### إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
@@ -1509,7 +1509,7 @@ The root **ف-ط-ر**: **to split a thing open, to bring it forth for the first 
 
 **I record this as my own reading, and its ground is the difference in conjunction:** the first three items are things that can happen in a **moment**; the fourth, separated off by *thumma*, is given as something **spread over time.** **That is, the list distinguishes a decision from the keeping of that decision.**
 
-**And the root ه-د-ي stands here as one of its eight occurrences in the sūra** — in the tenth verse it was the thing Moses sought, in the fiftieth the core of the answer, in the seventy-ninth the thing negated, **and here a condition.**
+**And the root ه-د-ي stands here as one of its nine occurrences in the sūra** — in the tenth verse it was the thing Moses sought, in the fiftieth the core of the answer, in the seventy-ninth the thing negated, **and here a condition.**
 
 ---
 
@@ -2327,7 +2327,7 @@ The root **ح-د-ث**: **to be new, to come about afterwards.** Form IV, *iḥd�
 
 | Explanation | What it says |
 |---|---|
-| 1 | **Harmony of the verse-endings** — all the sūra's verse-endings close with *alif maqṣūra*; the dual form does not fit |
+| 1 | **Harmony of the verse-endings** — almost all the sūra's verse-endings close with *alif maqṣūra*; the dual form does not fit |
 | 2 | **Responsibility for provision** — the one addressed is the one who will carry the burden of livelihood enumerated in the following verses |
 | 3 | **Naming the whole by a part** — one is named and both are meant |
 
@@ -2800,7 +2800,7 @@ The root **ر-ب-ص**: **to wait, to watch for the outcome of a thing.** **Form 
 
 **And the sūra's last word must be recorded: *wa mani'htadā*.**
 
-**The root ه-د-ي — one of the hardest-working roots in the sūra, occurring in eight verses** (10, 50, 79, 82, 122, 123, 128, 135).
+**The root ه-د-ي — one of the hardest-working roots in the sūra, occurring in nine verses** (10, 47, 50, 79, 82, 122, 123, 128, 135).
 
 **And the sūra closes with the root with which it opened in the tenth verse, in the thing Moses sought in the desert:**
 
@@ -2819,7 +2819,7 @@ The root **ر-ب-ص**: **to wait, to watch for the outcome of a thing.** **Form 
 |---|---|---|
 | **ش-ق-و** | *li-tashqā* (2) — *fa-tashqā* (117) — *wa lā yashqā* (123) | **The frame of the sūra:** negation, diagnosis, condition |
 | **ذ-ك-ر** | 3, 14, 34, 42, 44, 99, 113, 124 | The name of the Book, the ground of the prayer, the thing abandoned |
-| **ه-د-ي** | 10, 50, 79, 82, 122, 123, 128, 135 | Sought, given, negated, found |
+| **ه-د-ي** | 10, 47, 50, 79, 82, 122, 123, 128, 135 | Sought, given, negated, found |
 | **ن-س-ي** | *lā yansā* (52) — *fa-nasiya* (88) — *fa-nasiya* (115) — *fa-nasītahā … tunsā* (126) | **A negation, then three findings** |
 | **أبقى** | *ashaddu … wa abqā* (71) — *khayrun wa abqā* (73) — *ashaddu wa abqā* (127) — *khayrun wa abqā* (131) | Pharaoh's measure, taken out of his hand |
 | **ع-ج-ل** | *mā aʿjalaka* (83) — *ʿajiltu* (84) — *lā taʿjal* (114) | **Two well-intentioned hastes, one prohibition** |

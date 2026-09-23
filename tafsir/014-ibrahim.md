@@ -889,7 +889,7 @@
 
 ### مَا لَهَا مِن قَرَارٍ
 
-**ق-ر-ر** kökü: **bir yerde durmak, yerleşmek, sabit kalmak.** Aynı kökten *karâr* (durulan yer), *müstekarr* (yerleşilen yer), ve *kurre* (gözün bir yerde durup kayması — `025-furkan.md` 25/74'te *kurrate a'yün* için kaydedildi).
+**ق-ر-ر** kökü: **bir yerde durmak, yerleşmek, sabit kalmak.** Aynı kökten *karâr* (durulan yer), *müstekarr* (yerleşilen yer), ve *kurre* (gözün bir yerde durup kalması — `025-furkan.md` 25/74'te *kurrate a'yün* için kaydedildi).
 
 **Kelime sûrede iki kez geçiyor: burada ve yirmi dokuzuncu ayette** (*cehenneme yaslevnehâ ve bi'se'l-**karâr***).
 
@@ -1064,7 +1064,7 @@
 
 "**Allah, gökleri ve yeri yaratan, gökten su indirip onunla size rızık olarak ürünler çıkarandır. Denizde emriyle akıp gitsin diye gemileri sizin hizmetinize verdi; nehirleri de sizin hizmetinize verdi. · Düzenli olarak akıp giden güneşi ve ayı da sizin hizmetinize verdi; geceyi ve gündüzü de. · Ve O'ndan istediğiniz her şeyden size verdi. Allah'ın nimetini sayacak olsanız sayamazsınız.** Gerçekten insan **çok zalim, çok nankördür.**"
 
-### Beş kez *sahhara*
+### Dört kez *sahhara*
 
 **Fiil üç ayette dört kez tekrarlanıyor:** gemiler, nehirler, güneş ve ay, gece ve gündüz.
 

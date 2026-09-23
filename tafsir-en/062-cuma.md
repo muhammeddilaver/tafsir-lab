@@ -102,7 +102,7 @@ All four names are in the **genitive** (with a kasra). That is, they are not the
 
 The difference is this: had they been the predicate, a new piece of information would have been given. Being attribute or substitute, no information is given; **the one to whom the tasbīḥ is directed is being described.** That is, the verse does not say "God is Malik"; it says "the one to whom tasbīḥ is offered is the one who is Malik". The attention lies not on the names themselves but on to whom the *tasbīḥ* is offered.
 
-This will find its counterpart at the end of the sūra. In the third verse the same two names will return, this time in the **nominative**, that is as the predicate: *wa huwa'l-ʿAzīzu'l-Ḥakīm*. The same two words, in two grammatical positions. Once the address of the *tasbīḥ*, once the ruling of the sentence.
+This will find its counterpart shortly. In the third verse the same two names will return, this time in the **nominative**, that is as the predicate: *wa huwa'l-ʿAzīzu'l-Ḥakīm*. The same two words, in two grammatical positions. Once the address of the *tasbīḥ*, once the ruling of the sentence.
 
 **الْمَلِك (al-Malik).** The root **م-ل-ك**: to own something and to have the power of disposal over it. Two branches part beneath the root: *mulk* (rule, sovereignty) and *milk* (ownership). *Malik* is closer to the first, *mālik* to the second — but both are from the same stem, and Arabic does not tear the two apart. To govern and to own issue from the same root.
 
@@ -114,7 +114,7 @@ It is instructive too to look at the relatives of the root: *al-Arḍu'l-Muqadda
 
 And in Sūrat al-Baqara these two roots had come side by side: the words of the angels, *"We declare You free of all imperfection with Your praise, and we hallow You"* (al-Baqara 2/30). That is, *sabbaḥa* and *qaddasa* are two verbs that the Qurʾān has itself paired; the first verse of Sūrat al-Jumuʿa builds that pairing again, as verb + name.
 
-**الْعَزِيز (al-ʿAzīz).** The root **ع-ز-ز**: hardness, impenetrability, invincibility — and from there scarcity, rarity. In Arabic *arḍun ʿazāz* means "hard ground that cannot be dug". This name is the source of the notion of *ʿizza* that will be treated at the eighth verse, and it will sit at the centre of the argument in Sūrat al-Munāfiqūn (63/8). Two neighbouring sūras share the same root: in one a divine name, in the other an attribute over which men quarrel.
+**الْعَزِيز (al-ʿAzīz).** The root **ع-ز-ز**: hardness, impenetrability, invincibility — and from there scarcity, rarity. In Arabic *arḍun ʿazāz* means "hard ground that cannot be dug". This name is the source of the notion of *ʿizza*, and it will sit at the centre of the argument in Sūrat al-Munāfiqūn (63/8). Two neighbouring sūras share the same root: in one a divine name, in the other an attribute over which men quarrel.
 
 **الْحَكِيم (al-Ḥakīm).** The root **ح-ك-م**: to prevent, to bridle. *Ḥakama* is the bit put in a horse's mouth — the piece that keeps the animal from bolting. Arabic has given wisdom this name: **wisdom is not a heap of knowledge but the thing that prevents bolting.**
 
@@ -192,7 +192,7 @@ The word **أُمِّيّ** was treated at al-Baqara 2/78; I do not repeat the f
 
 What needs to be added here is the function of the word **in this verse**.
 
-Five verses later Sūrat al-Jumuʿa will speak of "those who were laden with the Torah". That is, a contrast is being built within the sūra:
+Three verses later Sūrat al-Jumuʿa will speak of "those who were laden with the Torah". That is, a contrast is being built within the sūra:
 
 | | What was given | Result |
 |---|---|---|

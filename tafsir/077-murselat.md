@@ -42,7 +42,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 | 48 | **Teşhis** | Rükû emrine cevap vermeyenler | **49** |
 | 50 | **Kapanış** | "Bundan sonra hangi söze inanacaklar?" | — |
 
-Tabloda görülen bir şey var ve sûrenin okunuşunu belirliyor: **son üç bölüm tek ayetlik.** 41-44 dört ayet, 46 bir ayet, 48 bir ayet. Sûre daralarak bitiyor.
+Tabloda görülen bir şey var ve sûrenin okunuşunu belirliyor: **son üç bölüm tek ayetlik.** 46 bir ayet, 48 bir ayet, 50 bir ayet. Sûre daralarak bitiyor.
 
 ---
 
@@ -170,7 +170,7 @@ Bu iki koldan iki ayrı okuma doğuyor ve **ikisi de klasik kaynaklarda savunulm
 
 **Bir.** İkinci okumanın Kur'an içinde doğrudan bir dayanağı var: A'râf 7/199'da *"ve'mur bi'l-**urf**"* — "marufu emret". Yani *urf* kelimesi Kur'an'ın kendi kullanımında "iyilik" anlamında geçiyor. Bu, birinci okumada bulunmayan bir avantajdır.
 
-**İki.** Birinci okumanın ise **dizim** avantajı var: kelime, ism-i fâille aynı kökten olmadığı için mef'ûl-i mutlak olamıyor; ve dizinin öbür ucundaki *zikrâ* de mef'ûl-i mutlak değil. İki uç kelime aynı sebeple istisna oluşturuyorsa, ikisinin de benzer bir iş yapması beklenir. *Zikrâ* içerik bildiriyor (*ne* bırakılıyor); o zaman *urfâ*'nın da içerik ya da amaç bildirmesi — yani ikinci okuma — daha tutarlı görünür.
+**İki.** İkinci okumanın bir de **dizim** avantajı var: kelime, ism-i fâille aynı kökten olmadığı için mef'ûl-i mutlak olamıyor; ve dizinin öbür ucundaki *zikrâ* de mef'ûl-i mutlak değil. İki uç kelime aynı sebeple istisna oluşturuyorsa, ikisinin de benzer bir iş yapması beklenir. *Zikrâ* içerik bildiriyor (*ne* bırakılıyor); o zaman *urfâ*'nın da içerik ya da amaç bildirmesi — yani ikinci okuma — daha tutarlı görünür.
 
 Bu ikinci gözlem **benim çıkarımımdır**, bir nakil değildir; ve kesin bir delil sayılmaz, çünkü hâl de dizim bakımından mümkündür.
 
@@ -656,7 +656,7 @@ Yarılan bir şey ikiye ayrılır; aralanan bir şey ise ortasında bir boşluk 
 
 Ve bu, Kur'an'ın başka bir kıyamet ayetiyle uyumludur: *"Gök açıldı ve kapı kapı oldu"* (Nebe' 78/19) — *fe-kânet ebvâbâ*. Orada göğün açılması bir **geçit** olarak tarif ediliyor. Aynı fikir.
 
-Dördüncü bir kök daha vardır ve karıştırılmamalı: **ف-ت-ح** (Kamer 54/11'de *fe-fetahnâ ebvâbe's-semâ*). O da açmaktır, ama kapı açmaktır; yarma bildirmez.
+Beşinci bir kök daha vardır ve karıştırılmamalı: **ف-ت-ح** (Kamer 54/11'de *fe-fetahnâ ebvâbe's-semâ*). O da açmaktır, ama kapı açmaktır; yarma bildirmez.
 
 **Bir sınır:** dört kök arasında kurduğum bu işbölümü **benim okumamdır**; köklerin sözlük anlamları nakildir, aralarındaki iş bölümü değildir. İnşikâk bölümünde de aynı kayıt düşülmüştü.
 
@@ -821,7 +821,7 @@ Birinci ve üçüncü okuma daha yaygındır. Anlamda büyük fark doğmuyor.
 
 Fiil yine **edilgen ve tef'îl babında**: *üccilet* — ertelendiler, bir vadeye bağlandılar. Bir önceki ayetteki *ukkıtet* ile aynı kalıpta, aynı çatıda, aynı fasılada. İki ayet birbirinin devamı gibi okunuyor.
 
-Ve iki kelime aynı fikri iki ayrı kökle söylüyor: **vakte bağlanmak** (*t-v-k-t*) ve **vadeye bağlanmak** (*e-c-l*). Tekrar değil; pekiştirme.
+Ve iki kelime aynı fikri iki ayrı kökle söylüyor: **vakte bağlanmak** (*v-k-t*) ve **vadeye bağlanmak** (*e-c-l*). Tekrar değil; pekiştirme.
 
 ### يَوْمُ ٱلْفَصْلِ — ayırma günü
 
@@ -1049,7 +1049,7 @@ Ve buradan Mürselât'a özgü işlev çıkıyor. Kâfirûn'da tekrar bir **kapa
 
 **Bir — bölümleri işaretliyor.**
 
-Sûre on iki ayrı konuyu ele alıyor: kıyamet sahnesi, tarihteki helâkler, insanın yaratılışı, yeryüzü, cehenneme sevk, sessizlik, toplanma, muttakîler, inkârcılara hitap, rükû. Bu kadar farklı konu, kısa bir sûrede birbirine karışabilirdi.
+Sûre on ayrı konuyu ele alıyor: kıyamet sahnesi, tarihteki helâkler, insanın yaratılışı, yeryüzü, cehenneme sevk, sessizlik, toplanma, muttakîler, inkârcılara hitap, rükû. Bu kadar farklı konu, kısa bir sûrede birbirine karışabilirdi.
 
 Karışmıyor, çünkü her birinin sonunda aynı cümle geliyor. Nakarat, konuları birbirinden ayıran bir **çizgi** işlevi görüyor.
 
@@ -1393,7 +1393,7 @@ Bunu bir gözlem olarak kaydediyorum.
 
 Ve orada kaydedilen bağ: *"takdir ile kıymet arasındaki ilişki dilin kendisinde kurulu. Bir şeyin kadrini bilmek, ona doğru ölçüyü vermektir. Ölçmek ve değer vermek Arapçada aynı kökten geliyor — çünkü değer, doğru ölçmenin sonucudur. **Yanlış ölçen, kıymet de veremez.**"*
 
-**Bu sûrede kök, üç ayette dört kez geçiyor:**
+**Bu sûrede kök, iki ayette üç kez geçiyor:**
 
 | Ayet | Kelime | Kalıp | Hangi anlam kolu |
 |---|---|---|---|
@@ -1683,7 +1683,7 @@ Dördüncü nakarat. Üç delil bölümünün sonuncusunun ardından.
 Yukarıdaki tabloda kaydedilen ayrım burada görünür hale geliyor:
 
 - **15-28 arası:** üç delil (tarih, beden, yer). Hepsi *elem* ile açılıyor, hepsi bu dünyadan.
-- **29-40 arası:** dört sahne. Hepsi o günden.
+- **29-40 arası:** üç sahne. Hepsi o günden.
 
 Nakarat, iki yarıyı birbirine bağlayan menteşe konumunda.
 
@@ -1712,7 +1712,7 @@ Sûre burada anlatımdan **hitaba** geçiyor. Yirmi sekiz ayet boyunca üçünc�
 
 Bu, ayetin en sert tarafını üretiyor. Emir, bir sevk emri gibi duruyor — ama kelimenin kökü, gidenlerin **kendi seçtikleri yöne bırakıldığını** ima ediyor.
 
-Ve ayetin nesnesi bunu doğruluyor: *"**yalanladığınız** şeye doğru." Gidilen yer, muhatabın kendi konum aldığı şeydir.
+Ve ayetin nesnesi bunu doğruluyor: *"**yalanladığınız** şeye doğru."* Gidilen yer, muhatabın kendi konum aldığı şeydir.
 
 Bunu kendi okumam olarak kaydediyorum; kökün anlamı ise tartışmalı değildir.
 
@@ -1931,7 +1931,7 @@ Ve ayet, benzetmenin üstüne bir benzetme daha koyuyor. Bu, Kur'an'da sık gör
 
 **كَأَنَّ** — teşbih edatı: "sanki". *Ke*'den daha güçlüdür; *ke* benzetme yapar, *ke-enne* neredeyse özdeşlik kurar.
 
-**Zamirin müzekker olması.** *Ke-**ennehû*** — müzekker tekil. Ama benzetilen şey *şerer* (çoğul). Nahivciler bunu, zamirin *şerer*in tekili olan **شَرَر** cinsine ya da her bir kıvılcıma dönmesiyle açıklarlar. Yani "her biri sanki…".
+**Zamirin müzekker olması.** *Ke-**ennehû*** — müzekker tekil. Ama benzetilen şey *şerer* (çoğul). Nahivciler bunu, zamirin cins ismi olan **شَرَر**'e ya da her bir kıvılcıma dönmesiyle açıklarlar. Yani "her biri sanki…".
 
 ### جِمَٰلَتٌ صُفْرٌ — kelimenin iki okuması
 
@@ -2065,6 +2065,8 @@ Bir tercih dayatmıyorum; ama ayetin iç yapısı (35 ile 36 arasındaki *ve* ba
 
 > **Bu kökün merkezinde bir organ var: أُذُن (üzün) — kulak.** Kökün bütün türevleri o organdan çıkıyor:
 >
+> | Türev | Anlam |
+> |---|---|
 > | **أُذُن** | Kulak |
 > | **أَذِنَ لِـ** | Kulak verdi, dinledi |
 > | **أَذِنَ لَهُ فِى** | İzin verdi |
@@ -2239,7 +2241,7 @@ Kur'an'da azamet çoğulu ile tekil arasında geçiş olağandır. Ama buradaki 
 
 **Kur'an'da aynı kalıp:**
 
-> *"Haydi hepiniz bana tuzak kurun, sonra da bana göz açtırmayın."* (Hûd 11/55) — *fe-**kîdûnî** cemîan sümme lâ tunzırûn.* Nûh'un kavmine söylediği söz.
+> *"Haydi hepiniz bana tuzak kurun, sonra da bana göz açtırmayın."* (Hûd 11/55) — *fe-**kîdûnî** cemîan sümme lâ tunzırûn.* Hûd'un kavmine söylediği söz.
 >
 > *"Ortaklarınızı çağırın, sonra bana tuzak kurun, göz açtırmayın."* (A'râf 7/195) — *sümme **kîdûni** felâ tunzırûn.*
 
@@ -2419,7 +2421,7 @@ Bunu kendi okumam olarak kaydediyorum.
 
 Ve burada klasik tefsirin uzun tartıştığı bir mesele var.
 
-**بِ** harfi Arapçada birden fazla iş görür. Burada ikisi tartışılmıştır:
+**بِ** harfi Arapçada birden fazla iş görür. Burada üçü tartışılmıştır:
 
 | Türü | Anlamı | Sonucu |
 |---|---|---|
@@ -2664,7 +2666,7 @@ Bu tefsirde bu kök **Bakara 2/43**'te işlenmişti. Oradaki tespit:
 
 Ve aralarında bir ilişki var — kendi okumam olarak kaydediyorum: Bakara'da emir **topluluğa katılma** emriydi (*mea'r-râkiîn*). Mürselât'ta reddedilen şey de bir katılmadır. Yani reddedilen yalnızca bir bedensel hareket değil, bir **saf tutma**dır.
 
-Bu, sûrenin bütün argümanıyla uyumludur. Sûrenin adı *yevmü'l-fasl*dır — ayrılma günü. Ve ayrılmanın kriteri, o gün konulmuyor; dünyada, "eğilin" denildiğinde ne yapıldığında konuyor.
+Bu, sûrenin bütün argümanıyla uyumludur. O günün adı *yevmü'l-fasl*dır — ayrılma günü. Ve ayrılmanın kriteri, o gün konulmuyor; dünyada, "eğilin" denildiğinde ne yapıldığında konuyor.
 
 ### Fiilin kipi: لَا يَرْكَعُونَ
 
@@ -2781,7 +2783,7 @@ Elli ayet boyunca:
 - Bir hüküm konuldu: vaad edilen gerçekleşecek.
 - Kıyametin dört kırılması anlatıldı.
 - Üç delil sunuldu: tarih, beden, yer.
-- Dört sahne kuruldu: sevk, sessizlik, toplanma, meydan okuma.
+- Üç sahne kuruldu: sevk, sessizlik, toplanma ve meydan okuma.
 - Bir karşı tablo çizildi.
 - Bir teşhis konuldu: eğilmiyorlar.
 - Ve hüküm on kez tekrarlandı.
@@ -2940,7 +2942,7 @@ Bu tefsirde birkaç bölümde uygulanan bir ölçü: metnin **söylemediklerini*
 
 **Dört — bir çıkış yolu gösterilmiyor.** Ne tövbe çağrısı, ne "eğer inanırsanız" şartı. Sûre bir davet değil, bir **bildirim**dir. Bu boşluk Âdiyât, Tekâsür ve Hümeze bölümlerinde de kaydedilmişti.
 
-**Beş — cennet tablosu kısa.** Kırk dört ayetlik uyarının karşısında dört ayetlik bir tablo. Ve o tablonun sonuna bile nakarat konuyor.
+**Beş — cennet tablosu kısa.** Kırk altı ayetlik uyarının karşısında dört ayetlik bir tablo. Ve o tablonun sonuna bile nakarat konuyor.
 
 Bu beş boşluğun ortak sonucu: **sûre bir ikna metni değil, bir hüküm metnidir.** İkna aracı olarak yalnızca üç delil sunuyor ve sonunda soruyor: başka neye inanacaksınız?
 

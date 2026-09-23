@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "Kullanım koşulları",
   description: "Tafsir Lab'ı kullanırken geçerli koşullar.",
   alternates: {
     canonical: ROUTES.tr.terms,
-    ...alternates({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }),
+    ...alternates(everywhere((r) => r.terms)),
   },
 };
 

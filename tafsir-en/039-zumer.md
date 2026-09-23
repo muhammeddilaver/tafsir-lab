@@ -12,7 +12,7 @@
 | **IV** | 36-52 | The question "is He not enough?", the forbidding of despair | *Wa lākinna akthara'n-nāsi lā yaʿlamūn* (52) |
 | **V** | 53-75 | The call of mercy and two processions | *Wa qīla'l-ḥamdu li'llāhi rabbi'l-ʿālamīn* (75) |
 
-**The backbone of the sūra is *ikhlāṣ* — the making of religion unmixed.** The word occurs **three times** near the beginning of the sūra (2, 3, 11), and the rest of the sūra turns around this single concept.
+**The backbone of the sūra is *ikhlāṣ* — the making of religion unmixed.** The word occurs **four times** near the beginning of the sūra (2, 3, 11, 14), and the rest of the sūra turns around this single concept.
 
 **And the sūra is built out of pairs:** two human types (8-9), two layers (16), two parables (29), two groups (71 and 73), two blasts (68). **The name of the sūra too conveys not a multitude but a *division*.**
 
@@ -682,7 +682,7 @@ The root **ز-م-ر** — **it is analysed here for the first time in this corpu
 
 **وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ**
 
-**The sūra closes with the second verse of al-Fātiḥa:** *al-ḥamdu li'llāhi rabbi'l-ʿālamīn.*
+**The sūra closes with the first verse of al-Fātiḥa:** *al-ḥamdu li'llāhi rabbi'l-ʿālamīn.*
 
 **And the verb is passive: *wa qīla* — "it was said".** Who said it is not stated.
 

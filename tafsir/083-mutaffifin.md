@@ -567,7 +567,7 @@ Fiil **muzari**dir: sürekliliği bildiriyor. Yani ayağa kalkıp sonra oturmak 
 
 Üçü de metinde çalışıyor ve birbirini dışlamıyor.
 
-**رَبِّ ٱلْعَٰلَمِين** tamlaması Fâtiha'nın ikinci ayetidir ve orada ele alındı. Burada seçilmesinin sebebi üzerinde durmaya değer.
+**رَبِّ ٱلْعَٰلَمِين** tamlaması Fâtiha'nın birinci ayetidir ve orada ele alındı. Burada seçilmesinin sebebi üzerinde durmaya değer.
 
 Ayet "Allah için" ya da "hükmedenlerin en iyisi için" demiyor. **"Âlemlerin Rabbi için"** diyor.
 
@@ -1833,7 +1833,7 @@ Ve bu, sûrenin bütünüyle uyumludur. Sûre baştan beri **sonuçlarla** ilgil
 
 ### مِسْك — misk
 
-O dönemde bilinen en değerli koku. Misk keçisinden elde edilir ve ağırlığınca değerlidir.
+O dönemde bilinen en değerli koku. Misk geyiğinden elde edilir ve ağırlığınca değerlidir.
 
 Kelime **Kur'an'da yalnızca burada geçer.**
 

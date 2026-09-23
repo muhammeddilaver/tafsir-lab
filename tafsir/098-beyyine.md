@@ -167,7 +167,7 @@ Bu ayetin ilk iki kelimesi — *leysû sevâen*, "hepsi bir değildir" — genel
 
 İki lafzî ayrıntı, bu ayeti Beyyine sûresine sıkı sıkıya bağlıyor:
 
-- **أُمَّةٌ قَآئِمَةٌ** — *ümmetün kāime*: "ayakta duran/dosdoğru bir topluluk". Bu, Beyyine 98/3 ve 98/5'teki **kayyime** ile aynı köktür (*k-v-m*). Yani Kur'an, ehl-i kitap içindeki iyi kesmi tarif ederken, bu sûrenin anahtar kökünü kullanıyor.
+- **أُمَّةٌ قَآئِمَةٌ** — *ümmetün kāime*: "ayakta duran/dosdoğru bir topluluk". Bu, Beyyine 98/3 ve 98/5'teki **kayyime** ile aynı köktür (*k-v-m*). Yani Kur'an, ehl-i kitap içindeki iyi kesimi tarif ederken, bu sûrenin anahtar kökünü kullanıyor.
 - **يَتْلُونَ** — *yetlûne*: "okuyorlar". Bu, Beyyine 98/2'deki **yetlû** ile aynı fiildir. Elçinin yaptığı işi, ehl-i kitabın *kāim* kesimi de yapıyor.
 
 Ayrıca Âl-i İmrân 3/199, ehl-i kitaptan Allah'a, size indirilene ve kendilerine indirilene inanan kimselerin bulunduğunu ve onların ecirlerinin Rableri katında olduğunu söyler.
@@ -386,11 +386,11 @@ Ve bu, ayetin buradaki anlamına ışık tutuyor: sayfaların içindeki *kütüb
 
 Sûrenin ikinci anahtar kelimesi ve dokusunu kuran kök burada başlıyor.
 
-**Kök ق و م (k-v-m).** Bu kökün geniş tahlili başka bölümlerde yapıldı: Fâtiha 1/6'da *müstakîm* (dosdoğru yol) ve Bakara 2/3'te *ikāme* (namazı ayakta tutmak). Oradaki temel bilgiyi burada tekrar etmiyorum; şunu hatırlatmakla yetiniyorum: kökün merkezi **ayakta durmak ve dik olmak**tır — hem eğrisiz olmak, hem çökmemek.
+**Kök ق و م (k-v-m).** Bu kökün geniş tahlili başka bölümlerde yapıldı: Fâtiha 1/5'te *müstakîm* (dosdoğru yol) ve Bakara 2/3'te *ikāme* (namazı ayakta tutmak). Oradaki temel bilgiyi burada tekrar etmiyorum; şunu hatırlatmakla yetiniyorum: kökün merkezi **ayakta durmak ve dik olmak**tır — hem eğrisiz olmak, hem çökmemek.
 
 Burada yeni olan, kelimenin **kalıbı**dır.
 
-**قَيِّم kalıbı.** *Kayyim*, *fey'il* kalıbındadır (aslı *kaywim*). Bu kalıp Arapçada **yoğunluk ve süreklilik** bildirir. *Seyyid*, *hayyin* değil sürekli efendi olandır; *kayyûm* ise aynı kökün daha da yoğun kalıbıdır (Bakara 2/255'te Allah'ın ismi olarak: *el-Hayyü'l-Kayyûm*).
+**قَيِّم kalıbı.** *Kayyim*, *fey'il* kalıbındadır (aslı *kaywim*). Bu kalıp Arapçada **yoğunluk ve süreklilik** bildirir. *Seyyid* ve *hayyin* bu kalıptandır; *seyyid*, geçici değil sürekli efendi olandır; *kayyûm* ise aynı kökün daha da yoğun kalıbıdır (Bakara 2/255'te Allah'ın ismi olarak: *el-Hayyü'l-Kayyûm*).
 
 *Kayyim* kelimesinin Arapçada üç ayrı yöne açılan anlamı vardır ve üçü de ayete uyar:
 
@@ -728,7 +728,7 @@ Klasik izahlar:
 | **Hazfedilmiş mevsûf: el-kütüb** | 3. ayetteki *kütübün kayyime*'ye gönderme: "o dosdoğru kitapların dini." | Sûre içi bağ kurar; en zarif okuyuş. |
 | ***el-kayyime* burada masdardır** | *Kıyâm* / *istikāmet* anlamında: "dik duruşun dini". | Kavramsal okuyuş. |
 
-Üçüncü izah bana en dikkat çekici geleni: 3. ayette *kütübün kayyime* denmişti; 5. ayet aynı kelimeyi tekrarlayıp cümleyi ona bağlıyor olabilir. Bu durumda ayet şunu söylüyor: **"İşte o dosdoğru kitapların dini budur."** Yani 5. ayette sayılan dört madde, 3. ayette bahsedilen kitapların muhtevasıdır. Sûre kendi içinde bir halka kapatıyor.
+Üçüncü izah bana en dikkat çekici geleni: 3. ayette *kütübün kayyime* denmişti; 5. ayet aynı kelimeyi tekrarlayıp cümleyi ona bağlıyor olabilir. Bu durumda ayet şunu söylüyor: **"İşte o dosdoğru kitapların dini budur."** Yani 5. ayette sayılan beş madde, 3. ayette bahsedilen kitapların muhtevasıdır. Sûre kendi içinde bir halka kapatıyor.
 
 Bunu bir tercih değil, bir imkân olarak sunuyorum. Klasik kaynaklarda dört izah da savunulmuştur ve anlam farkı büyük değildir.
 
@@ -763,7 +763,7 @@ Rûm sûresi ise Beyyine'nin söylemediği iki şeyi ekliyor:
 
 **2. Bölünmenin psikolojisi.** *"Külli hizbin bimâ ledeyhim ferihûn"* — "her hizip kendi elindekiyle sevinir." Bu cümle, Beyyine 98/4'ün açıklamasıdır. Bölünme neden sürer? Çünkü **her parça kendi parçasından memnundur.** Bölünmenin acısı bölünenlerde hissedilmez; aksine, her taraf kendi elindekini yeterli ve doğru sayar. *Ferah* (sevinme) kelimesinin seçilmesi acımasızdır: ayrılık bir üzüntü kaynağı değil, bir gurur kaynağı haline gelmiştir.
 
-Bu iki ayeti Beyyine 98/4-5 ile birlikte okumak, sûrenin teşhisini tamamlıyor: bilgi geldi → bağy yüzünden bölünüldü → her hizip kendi payıyla sevindi → oysa emredilen dört maddeydi.
+Bu iki ayeti Beyyine 98/4-5 ile birlikte okumak, sûrenin teşhisini tamamlıyor: bilgi geldi → bağy yüzünden bölünüldü → her hizip kendi payıyla sevindi → oysa emredilen beş maddeydi.
 
 ---
 
@@ -1249,7 +1249,7 @@ Ve bir uyarı içerir: kendini bir davanın temsilcisi sayan herkes, farkında o
 
 **Üç. Emrin sadeliği, tartışmanın karmaşıklığı.**
 
-Beşinci ayetin söylediği şey rahatsız edicidir: emredilen dört maddeydi. Bölünme, emrin kendisinde değil, etrafında çıktı.
+Beşinci ayetin söylediği şey rahatsız edicidir: emredilen beş maddeydi. Bölünme, emrin kendisinde değil, etrafında çıktı.
 
 Bugünkü karşılığı görünürdür. Dinî tartışmaların büyük kısmı, üzerinde ittifak edilen çekirdeğin değil, çekirdeğin etrafında birikmiş yorumların, aidiyetlerin ve rekabetlerin konusudur. Kimse "namaz kılınmalı mı" diye tartışmıyor; tartışma başka yerlerde.
 

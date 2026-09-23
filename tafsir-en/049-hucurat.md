@@ -271,7 +271,7 @@ The second is the subtler. For a person can speak "as if to one another" without
 
 **جَهَرَ — root ج-ه-ر.** Its root sense is **to come out into the open, to become visible or audible**. From the same root:
 - *jahr* — to bring the voice out openly (whence "*jahrī* recitation" in the prayer).
-- *jahran* — openly, in public. *"Show me openly"* — *arina'llāha **jahratan*** (al-Nisāʾ 4/153).
+- *jahran* — openly, in public. *"Show us openly"* — *arina'llāha **jahratan*** (al-Nisāʾ 4/153).
 - *ajhar* — one dazzled in daylight; the "openness/brightness" side of the root.
 
 **At the centre of the root stands the opposite of concealment.** *Jahr* is the opposite of *sirr*. The second prohibition, then, aims less at loudness of voice than at **speaking openly and without restraint**.
@@ -578,7 +578,7 @@ I record this as my own reading; but the sequence of the verse-endings stands in
 
 ### The whole of the first block (1-5)
 
-Five verses treated a single matter in four stages:
+Five verses treated a single matter in five stages:
 
 | Verse | Stage | What is regulated |
 |---|---|---|
@@ -881,7 +881,7 @@ The order runs from inside outward: first the refusal of belief, then going out 
 
 **And there is a balance in the word order:** on the other side stands a single positive term — *al-īmān*. One thing made beloved, three made repellent. One of the classical explanations is this: faith is one, the ways of departing from it are many.
 
-**It must be recorded that this is the third occurrence of the root ف-س-ق in the sūra.** In the sixth verse the word was the epithet of the one who brings the report (*fāsiqun*); here it is one of the things made repellent (*al-fusūq*); and in the eleventh verse it will come back as a name: *biʾsa'l-ismu'l-fusūqu baʿda'l-īmān*. I shall gather the three occurrences in the section on the sūra as a whole.
+**It must be recorded that this is the second occurrence of the root ف-س-ق in the sūra.** In the sixth verse the word was the epithet of the one who brings the report (*fāsiqun*); here it is one of the things made repellent (*al-fusūq*); and in the eleventh verse it will come back as a name: *biʾsa'l-ismu'l-fusūqu baʿda'l-īmān*. I shall gather the three occurrences in the section on the sūra as a whole.
 
 ### أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ
 
@@ -2052,7 +2052,7 @@ And between them stands 9/98, which also describes a part of the bedouin. The Qu
 
 ### قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا — the claim
 
-For fourteen verses the sūra has proceeded by direct address. Here it turns to a **sentence of narrative**: "They said."
+For thirteen verses the sūra has proceeded by direct address. Here it turns to a **sentence of narrative**: "They said."
 
 And what they said is: *āmannā* — "we have believed."
 

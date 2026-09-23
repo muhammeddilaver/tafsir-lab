@@ -1286,7 +1286,7 @@ Kelime Kur'an'da **yalnızca burada** geçer ve anlamı üzerinde ihtilaf vardı
 
 | Görüş | İzah | Zayıf tarafı |
 |---|---|---|
-| **Özel ad** | Cennetteki bir pınarın adıdır; türetilmez | Ayet zaten *tüsemmâ* (adlandırılır) diyor, bu görüşü destekler |
+| **Özel ad** | Cennetteki bir pınarın adıdır; türetilmez | *Tüsemmâ* (adlandırılır) bir vasıfla adlandırmayı da karşılar; ad olduğunu gösteren başka bir karine yok |
 | **Vasıf** | "Kolay akan, boğazdan rahat geçen" demektir; *selis* (kolay, akıcı) ve *selsel* (tatlı, hafif su) ile aynı ailedendir | Kelimenin dört harften fazla olması, alışılmış Arapça kalıplara tam oturmuyor |
 | **Birleşik** | *Sel* + *sebîl* gibi bir birleşmeden geldiği söylenmiştir | Bu tür açıklamalar dilciler tarafından temkinle karşılanır |
 
@@ -1587,11 +1587,11 @@ Cümle Arapçanın en yoğun pekiştirme yığınlarından birini kuruyor:
 
 ### Siyak: neden burada?
 
-Ayetin yeri ilk bakışta tuhaftır. Yirmi iki ayet cennet ve ebrâr anlatıldı; şimdi birden vahyin kaynağından söz ediliyor.
+Ayetin yeri ilk bakışta tuhaftır. On sekiz ayet cennet ve ebrâr anlatıldı; şimdi birden vahyin kaynağından söz ediliyor.
 
-Bağ, sonraki üç ayette görünüyor. Yirmi dördüncü ayet bir **emir** verecek: sabret, uyma. Yirmi beşinci ve altıncı ayetler iki emir daha verecek: an, secde et.
+Bağ, sonraki üç ayette görünüyor. Yirmi dördüncü ayet iki **emir** verecek: sabret, uyma. Yirmi beşinci ve altıncı ayetler üç emir daha verecek: an, secde et, tesbih et.
 
-**Emirden önce kaynağın kurulması, sûrenin mantığıdır.** Bir emrin bağlayıcılığı, onu verenin kim olduğuna bağlıdır. Yirmi üçüncü ayet, dört emrin dayandığı yeri koyuyor.
+**Emirden önce kaynağın kurulması, sûrenin mantığıdır.** Bir emrin bağlayıcılığı, onu verenin kim olduğuna bağlıdır. Yirmi üçüncü ayet, beş emrin dayandığı yeri koyuyor.
 
 Ve bir bağ daha var: ebrâr, **adaklarını ödeyen** insanlardı (7) — kendilerini bağlayan şeyi yerine getirenler. Muhataba şimdi bir bağ veriliyor.
 
@@ -1993,9 +1993,9 @@ Bunu kendi okumam olarak kaydediyorum; iki ayetteki kök ortaklığı ise metind
 
 **Ve şu okuma da kaydedilmeye değer, kelâmî bir tercih olarak değil:** ayet, insanın dilemesinin bir yere dayandığını söyledikten sonra, dayandığı yerin **bilen ve yerinde iş yapan** olduğunu ekliyor. Yani sınırın kendisi, sınırı koyanın niteliğiyle birlikte veriliyor. Bu bir teselli cümlesi olarak da okunabilir — ama bu benim okumamdır, ayetin lafzı bunu söylemiyor.
 
-### شاء fiilinin dört geçişi
+### شاء fiilinin beş geçişi
 
-Sûrenin son dört ayetinde bu kök dört kez geliyor ve dizilişi bir simetri kuruyor:
+Sûrenin son dört ayetinde bu kök beş kez geliyor ve dizilişi bir simetri kuruyor:
 
 | Ayet | Kelime | Dileyen |
 |---|---|---|
@@ -2128,7 +2128,7 @@ Otuz bir ayetlik bir metinde bu yoğunlukta bir tekrar ekonomisi, sûrenin rastg
 
 ### Ses dokusu
 
-**Otuz bir ayetin otuz biri de aynı yapıyla bitiyor:** uzun ünlü + akıcı bir ünsüz (*r* / *l*) + *â*. Bu, bu tefsirde işlenen sûreler arasında en tekdüze fasıla düzenlerinden biridir.
+**Otuz bir ayetin yirmi dokuzu aynı yapıyla bitiyor:** uzun ünlü + akıcı bir ünsüz (*r* / *l*) + *â*. Bu, bu tefsirde işlenen sûreler arasında en tekdüze fasıla düzenlerinden biridir.
 
 Ve düzenin içinde bir hareket var:
 

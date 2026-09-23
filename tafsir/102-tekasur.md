@@ -390,7 +390,7 @@ Buradan sûrenin merkezî ironisi çıkıyor: **kesinlik gelecek, ama artık iş
 
 *"İçinizden oraya uğramayacak hiç kimse yoktur; bu, Rabbinin üzerine aldığı kesinleşmiş bir hükümdür."* (Meryem 19/71)
 
-Bu ayet *lete-ravünne'l-cahîm* ile aynı kapsayıcılığı taşır: hitap istisnasızdır. Müfessirler oradaki *vürûd* (uğrama) kelimesinin ne anlama geldiğinde ayrılırlar — üzerinden geçmek mi, görmek mi, girmek mi. İhtilaf çözülmemiştir ve burada bir tercih belirtmiyorum. Ama iki ayetin ortak noktası tartışmasızdır: cehennemin görülmesi, inanan-inanmayan ayrımından önce gelen bir sahnedir.
+Bu ayet *le-teravünne'l-cahîm* ile aynı kapsayıcılığı taşır: hitap istisnasızdır. Müfessirler oradaki *vürûd* (uğrama) kelimesinin ne anlama geldiğinde ayrılırlar — üzerinden geçmek mi, görmek mi, girmek mi. İhtilaf çözülmemiştir ve burada bir tercih belirtmiyorum. Ama iki ayetin ortak noktası tartışmasızdır: cehennemin görülmesi, inanan-inanmayan ayrımından önce gelen bir sahnedir.
 
 ---
 
@@ -651,7 +651,7 @@ Metin boyunca birkaç noktada bilerek kesin dil kullanılmadı; okuyucunun bunla
 - 3. ve 4. ayetlerdeki tekrarın (ve *sümme*'nin) hangi anlamda olduğu ihtilaflıdır; iki okuyuş da verildi, biri kesin doğru olarak sunulmadı.
 - 6. ayetteki meçhul kıraat (*le-türavünne*) nakledilmiştir, ancak hangi imama ait olduğunu kesin veremediğim için isim yazılmadı.
 - Yakînin üç derecesinin sistemli bir öğreti haline getirilmesinin **sonraki dönemlere ait** olduğu ayrıca belirtildi; Kur'an bu üçlüyü tanımlı bir sistem olarak sunmaz.
-- Ateş/duman/yanma örneği, bu literatürde yaygın olarak tekrarlanan bir örnektir; bir kişiye nispet edilmedi.
+- Ateş/alev/yanma örneği, bu literatürde yaygın olarak tekrarlanan bir örnektir; bir kişiye nispet edilmedi.
 - 8. ayetteki "nimet"in kapsamı hakkındaki görüşler tablo halinde verildi, ancak görüşlerin sahiplerine isim nispet edilmedi.
 - Peygamber'in hurma ve soğuk su ile ilgili sözü hadis kaynaklarında nakledilir; hangi mecmuada olduğunu kesin veremediğim için kaynak adı yazılmadı. Sağlık ve boş vakitle ilgili hadis için Buhârî kaydedildi.
 - Sosyal bilim bölümündeki kavramlardan Veblen'in "gösterişçi tüketim"i yerleşik bir kavramdır; "Easterlin paradoksu" ve hedonik uyumun kapsamı ise literatürde tartışmalıdır ve bu açıkça belirtildi. Bu kavramların hiçbiri ayetin önceden haber verdiği bir bilgi olarak sunulmadı.

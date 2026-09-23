@@ -424,7 +424,7 @@ Bu bağı bir gözlem olarak kaydediyorum; kelime seçiminin bilinçli olduğunu
 
 **أَمْرِهِمْ — "kendi işlerinin".** Ve bu iyelik, ayetin adalet mantığını kuruyor: tadılan şey dışarıdan gelen bir felaket değil, **kendi işlerinin** sonucudur. Vebal, işin kendisinden çıkmıştır.
 
-Bu tamlama sûre içinde bir yankı bulacak: Talâk sûresinde neredeyse aynı cümle geçer — *fe-zâkat vebâle emrihâ* (Talâk 65/9). İki komşu sûrenin aynı ifadeyi kullanması dikkat çekicidir; ilgili yerde not düşeceğim.
+Bu tamlama komşu sûrede bir yankı bulacak: Talâk sûresinde neredeyse aynı cümle geçer — *fe-zâkat vebâle emrihâ* (Talâk 65/9). İki komşu sûrenin aynı ifadeyi kullanması dikkat çekicidir; ilgili yerde not düşeceğim.
 
 ### وَلَهُمْ عَذَابٌ أَلِيمٌ — iki zaman
 
@@ -436,7 +436,6 @@ Cümle iki farklı zamanı yan yana koyuyor ve bu, ayetin en ince yeri:
 Yani ayet, dünyadaki sonucu hesabın **tamamı** saymıyor. Tarih içinde görülen çöküş bir kapanış değil; bir işaret.
 
 Bu, Kur'an'ın tarih okumasının belirleyici özelliğidir ve bir kaydı gerektirir: **buradan, her çöken toplumun cezalandırıldığı ya da ayakta kalan her toplumun onaylandığı sonucu çıkmaz.** Sûrenin kendisi bunu on beşinci ayette engelleyecek — orada bolluğun bir *fitne* olduğu söylenecek. Ayakta kalmak bir belge değildir.
-
 
 ---
 
@@ -641,7 +640,7 @@ Ve `078-nebe.md`'nin tanımını hatırlayın: *nebe'*, duyulduğunda bir şeyin
 
 Ve *alâ'llâh* kaydı önemli: kolaylık **fiilin kendisinde** değil, **fâile göre**dir. Bir işin zorluğu mutlak bir nitelik değildir; kimin yaptığına bağlıdır. Ayet ölçüyü fiilden faile kaydırıyor.
 
-Bu kelime Talâk sûresinde de dönecek (*yesîran* değil ama *yüsrâ*, 65/4 ve 65/7); iki komşu sûre arasındaki kelime ortaklıklarını sûre sonunda toplayacağım.
+Bu kelime Talâk sûresinde de dönecek (*yesîran* değil ama *yüsrâ*, 65/4 ve 65/7); iki komşu sûre arasındaki bu kelime ortaklığı kaydedilmeye değer.
 
 ---
 
@@ -705,7 +704,6 @@ Yani üç fasıla üç farklı bilme biçimi veriyor:
 
 Ve bu üçlü, sûrenin son ayetinde tek bir tamlamada toplanacak: *âlimü'l-ğaybi ve'ş-şehâde.*
 
-
 ---
 
 ## 64/9 — يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ذَٰلِكَ يَوْمُ التَّغَابُنِ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
@@ -714,7 +712,7 @@ Ve bu üçlü, sûrenin son ayetinde tek bir tamlamada toplanacak: *âlimü'l-ğ
 
 "O gün sizi toplanma günü için toplayacak. İşte o, karşılıklı aldanma günüdür. Kim Allah'a iman eder ve salih amel işlerse, Allah onun kötülüklerini örter ve onu, içinde ebedî kalmak üzere, altından ırmaklar akan cennetlere sokar. İşte büyük kurtuluş budur."
 
-Sûrenin kalbi. Ve sûrenin adını taşıyan cümle burada, ayetin ikinci kelimesinde.
+Sûrenin kalbi. Ve sûrenin adını taşıyan cümle burada, ayetin ikinci cümlesinde.
 
 ### يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ — toplamanın iki katı
 
@@ -842,7 +840,7 @@ Ve tam bu yüzden ayet burada bitmiyor.
 
 > *ve men yü'min bi'llâhi ve ya'mel sâlihan…*
 
-**Şart yapısı.** *Men* (kim) şart edatıdır; iki fiil şart, üç fiil cevap. Ve şart iki maddeden oluşuyor: **iman** ve **salih amel**. Sûrenin sekizinci ayeti imanı emretmişti; burada yanına ikinci şart ekleniyor.
+**Şart yapısı.** *Men* (kim) şart edatıdır; iki fiil şart, iki fiil cevap. Ve şart iki maddeden oluşuyor: **iman** ve **salih amel**. Sûrenin sekizinci ayeti imanı emretmişti; burada yanına ikinci şart ekleniyor.
 
 Bu ikili, Kur'an'da en sık tekrarlanan formüllerden biridir ve `107-maun.md`'de işlenen tespitin genel çerçevesini kurar: inanç ile davranış ayrı iki başlık olarak değil, **tek bir listenin iki maddesi** olarak veriliyor.
 
@@ -973,7 +971,6 @@ Sûre aynı kelimeyi yedi ayet sonra geri getiriyor ve bu sefer önüne bir yerg
 Bunun anlamı şu: **dönüşün adresi ile varışın niteliği ayrı şeylerdir.** Herkes aynı yere dönüyor; ama herkes aynı şeyle karşılaşmıyor.
 
 Bu, sûrenin baştan beri kurduğu tabloyla uyumlu. İkinci ayette insanlar tek bir yaratmadan çıkıp iki gruba ayrılmıştı; burada tek bir dönüşten çıkıp iki sonuca ayrılıyorlar. Yapı aynı: **ortak başlangıç, ayrışan sonuç.**
-
 
 ---
 
@@ -1154,7 +1151,6 @@ Ve bu, sûrenin akışında tam yerine oturuyor. Bir önceki ayet elçinin sorum
 **Dizim: takdim.** *Ve ala'llâhi fe'l-yetevekkel* — câr-mecrûr (*ala'llâh*) fiilin önüne alınmış. Arapçada bu **hasr** bildirir: "yalnız Allah'a". Türkçede vurguyla söyleyeceğimiz şeyi Arapça kelime sırasıyla söylüyor.
 
 **Emir kipi: فَلْيَتَوَكَّلْ** — *lâm-ı emr* ile üçüncü şahsa emir. "Tevekkül etsinler." Doğrudan "tevekkül edin" denmiyor; üçüncü şahıs üzerinden bir kural konuyor. Bu, cümleyi bir hitaptan bir **ilkeye** çeviriyor: mü'min olanın yapacağı iş budur.
-
 
 ---
 
@@ -1337,7 +1333,6 @@ Bu, Kur'an'da yaygın bir kalıptır ve daha güçlü bir şey yapar: karşılı
 Bu, `074-muddessir.md`'de kaydedilen bir tespitle örtüşüyor: orada *ehlü't-takvâ ve ehlü'l-mağfira* tamlaması için şu söylenmişti — *"takvâ, kulun yaptığı iştir; Allah ona lâyıktır."* Aynı asimetri burada da var.
 
 **Ve besmeleye dönüş.** Sûrenin girişinde not düşmüştüm: bu ayet *rahîm* ile bitiyor — besmelenin ikinci ismiyle. Yani sûrenin en sert uyarısını taşıyan cümle, sûrenin açılışındaki isimle mühürleniyor. Uyarı ile rahmet aynı çerçevenin içinde kalıyor.
-
 
 ---
 
@@ -1623,7 +1618,6 @@ Bunu bir gözlem olarak kaydediyorum; klasik bir tefsirden nakletmiyorum.
 
 **Dizim: فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ.** Üç pekiştirme üst üste: işaret zamiri (*ülâike*), fasıl zamiri (*hüm*), ve belirlilik takısı (*el-müflihûn*). Arapçada bu üçlü **hasr** kurar: "kurtuluşa erenler, ancak ve ancak onlardır."
 
-
 ---
 
 ## 64/17 — إِن تُقْرِضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ وَاللَّهُ شَكُورٌ حَلِيمٌ
@@ -1819,7 +1813,6 @@ Yani *azîz*, "güçlü" kelimesinin tam karşılığı değildir. İçinde **k�
 Ve bu ikili, birinci ayetteki *lehü'l-mülkü ve lehü'l-hamd* çiftinin sûre sonundaki karşılığıdır: orada da güç (mülk) ile değer (hamd) yan yana konmuştu. Sûre aynı dengeyi açılışında ve kapanışında iki kez kuruyor.
 
 **Ve son bir ayrıntı: sûre bir emirle bitmiyor.** On yedinci ayet bir şart cümlesiydi; on sekizinci ayet yalnızca isim. Yani sûrenin son sözü bir talep değil, bir **tanıtım**. Yapılması istenen her şey söylendi; geriye kimin karşısında yapıldığı kaldı.
-
 
 ---
 

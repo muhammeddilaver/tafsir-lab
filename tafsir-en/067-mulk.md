@@ -100,7 +100,7 @@ The word order of the sentence calls for attention. The normal order would be *"
 
 **In Arabic the element brought forward conveys restriction.** This rule was treated in the discussion of the basmala: when *"in the name of God"* is brought forward, the sense "in His name only" arises. The same rule works here: the dominion is in His hand **only**. Not in another hand, and not partly in another hand either.
 
-**And the matter of the "hand".** Expressions ascribed to God in the Qurʾān such as *yad* (hand), *wajh* (face), *ʿayn* (eye) are the most debated subject in the history of *kalām*. The method held to in this commentary is the following, and it will be applied once more later in the sūra (68/42, *sāq*):
+**And the matter of the "hand".** Expressions ascribed to God in the Qurʾān such as *yad* (hand), *wajh* (face), *ʿayn* (eye) are the most debated subject in the history of *kalām*. The method held to in this commentary is the following, and it will be applied once more at `068-kalem.md` (68/42, *sāq*):
 
 | Position | What it does | Its ground |
 |---|---|---|
@@ -395,7 +395,7 @@ This is a fine point that comes out of the language itself and it may be a coinc
 
 ### هَلْ تَرَىٰ — "do you see?"
 
-The verse uses two different negations and the difference between them is important:
+The verse uses two different patterns and the difference between them is important:
 
 - **مَّا تَرَىٰ** — "you will not see" (a declarative sentence, negative).
 - **هَلْ تَرَىٰ** — "do you see?" (an interrogative sentence).
@@ -1026,9 +1026,9 @@ The expression **مَنْ خَلَقَ** can be read in two ways:
 Its occurrences in the Qurʾān confirm this duality:
 
 - *"Eyes do not grasp Him, but He grasps the eyes. **He is the Subtle, the Aware**"* (al-Anʿām 6/103) — **exactly the same pair of names as al-Mulk 67/14**, and there too the context is the limit of seeing and grasping.
-- *"Truly my Lord is **subtle** in what He wills"* (Yūsuf 12/100) — the words of Joseph at the end of a plan completed after forty years. Here *luṭf* plainly means "a design working unnoticed".
+- *"Truly my Lord is **subtle** in what He wills"* (Yūsuf 12/100) — the words of Joseph at the end of a plan completed years later. Here *luṭf* plainly means "a design working unnoticed".
 
-**The link with al-Anʿām 6/103 is especially important for Sūrat al-Mulk.** There it is said that eyes cannot grasp Him; here, four verses earlier, the eyes had come back exhausted. **The same pair of names stands, in both places, right beside the limit of seeing.** I record this as an observation.
+**The link with al-Anʿām 6/103 is especially important for Sūrat al-Mulk.** There it is said that eyes cannot grasp Him; here, ten verses earlier, the eyes had come back exhausted. **The same pair of names stands, in both places, right beside the limit of seeing.** I record this as an observation.
 
 ### ٱلْخَبِير — the one who knows by trying
 

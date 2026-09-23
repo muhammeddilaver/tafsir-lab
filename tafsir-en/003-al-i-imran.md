@@ -212,7 +212,7 @@ The root **ص-و-ر**: **to give a thing its form, to draw a shape.** *Ṣūra* 
 
 **The caveat here is worth recording: *kayfa yashāʾ* — "as He wills".** **That is, the verse takes as its subject not the *source* of the form but the *disposal* of it.**
 
-**And its position matters — I give this as my own reading:** at the thirty-fifth verse the sūra will enter an account that opens with a woman vowing **what is in her womb**, and that woman will give birth to **other than what she expected**. **The sixth verse thus lays down the ruling of that account forty verses in advance:** the form in the womb is not in the hands of the one who wants it.
+**And its position matters — I give this as my own reading:** at the thirty-fifth verse the sūra will enter an account that opens with a woman vowing **what is in her womb**, and that woman will give birth to **other than what she expected**. **The sixth verse thus lays down the ruling of that account twenty-nine verses in advance:** the form in the womb is not in the hands of the one who wants it.
 
 **I record explicitly that this is not being read as a "scientific sign".** The verse is not describing embryology; it is saying **in whose hands the disposal lies.**
 
@@ -782,10 +782,10 @@ The root **س-و-م**: **to mark; and to turn loose (to pasture).** Both senses 
 
 | Order | Word | Its work |
 |---|---|---|
-| 1 | *Mālika'l-**mulk*** | **The vocative** — the attribute of the one called |
-| 2 | *Tuʾti'l-**mulka*** | The thing **given** |
-| 3 | *Tanziʿu'l-**mulka*** | The thing **taken** |
-| 4 | (*mimman tashāʾ*) | **From whom** the taken thing is taken |
+| 1 | *Mālika* | **The vocative** — the attribute of the one called |
+| 2 | *al-**mulk*** | **The thing owned** — sovereignty itself |
+| 3 | *Tuʾti'l-**mulka*** | The thing **given** |
+| 4 | *Tanziʿu'l-**mulka*** | The thing **taken** |
 
 **And the pairs of verbs must be recorded:**
 
@@ -1004,7 +1004,7 @@ The concrete sense of the root: **ح-ر-ر — heat; and to be free, to be relea
 
 The root **و-ض-ع**: **to put a thing down, to set it down.** Its use for giving birth comes from here — in Arabic *waḍaʿati'l-marʾa* means "the woman gave birth"; **the picture of the root is the setting down of a carried load.**
 
-**And the verb occurs four times in two verses:**
+**And the verb occurs three times in the same verse:**
 
 | Order | Sentence | Who says it |
 |---|---|---|
@@ -1059,7 +1059,7 @@ The root **و-ض-ع**: **to put a thing down, to set it down.** Its use for givi
 
 **The verb of naming is worth recording:** *sammaytuhā* — "**I** named her". The pronoun is emphatic (*innī*).
 
-**And the name will occur six times in the second half of the sūra.** **In `019-meryem.md` a sūra bears this name**, and Mary's account was treated there in detail.
+**And the name will occur five more times in the first quarter of the sūra.** **In `019-meryem.md` a sūra bears this name**, and Mary's account was treated there in detail.
 
 **Per the method (`STYLE.md`) I record this: differing views are transmitted in the classical sources about the meaning of the name, and there is no certain knowledge.** I make no claim about its meaning in this commentary.
 
@@ -2102,7 +2102,7 @@ And the choice of subject must be recorded: *li-**bashar*** — "for a **human b
 
 **I record this as an observation about the word order:** the sentence sets the prohibition on the widest set. **Even after the three highest things that can be given to a person have been counted, that person is named "human being".**
 
-**And the threefold count must be recorded: *al-kitāb*, *al-ḥukm*, *al-nubuwwa*.** **The same three occurred at verse 48 of the sūra for Jesus, and at 45/16 in `045-casiye.md` for the Children of Israel.** **I rely on `045-casiye.md` 45/16-20.**
+**And the threefold count must be recorded: *al-kitāb*, *al-ḥukm*, *al-nubuwwa*.** **The same three occurred at 45/16 in `045-casiye.md` for the Children of Israel.** **I rely on `045-casiye.md` 45/16-20.**
 
 ### كُونُوا۟ رَبَّٰنِيِّۦنَ — the alternative set in its place
 
@@ -2225,7 +2225,7 @@ The root **أ-ص-ر**: **to bind, to hold fast; and a heavy load.** *Iṣr* — 
 
 **The same root in three verses, on three different scales.** This is a fact verifiable from the text.
 
-**And the eighty-fourth verse, immediately before the eighty-fifth, gives the list of those believed in — and the list contains eight separate names and a summing "the prophets".** **That is, immediately before the word "islām", the extent of that word is shown by a list of names.**
+**And the eighty-fourth verse, immediately before the eighty-fifth, gives the list of those believed in — and the list contains seven separate names and a summing "the prophets".** **That is, immediately before the word "islām", the extent of that word is shown by a list of names.**
 
 ***Lā nufarriqu bayna aḥadin minhum*** — "**we make no distinction between any of them**". **And this sentence stands at 3/84, one verse before 85.**
 
@@ -3532,7 +3532,7 @@ The root **م-ح-ق**: **to destroy by diminishing, to efface.** **And the same 
 
 ### حَسِبْتُمْ — the line of the root in the sūra
 
-The root **ح-س-ب** occurs six times in the sūra, and four of the occurrences were recorded in the table in the introduction (169, 178, 180, 188). **Two further occurrences must be added here: 78 (*li-taḥsabūhu*) and 142 (*am ḥasibtum*).**
+The root **ح-س-ب** occurs six times in the sūra in the sense of "to suppose", and four of the occurrences were recorded in the table in the introduction (169, 178, 180, 188). **Two further occurrences must be added here: 78 (*li-taḥsabūhu*) and 142 (*am ḥasibtum*).**
 
 | Verse | Wording | Who supposes |
 |---|---|---|
@@ -4361,7 +4361,7 @@ The root **ر-ز-ق**: **what is brought regularly to someone.** **And the verb 
 
 **وَكِيل** — root **و-ك-ل**: **to commit an affair to another.** *Wakīl* — the one who takes an affair upon himself. **And from the same root *tawakkul* occurred at verses 159 and 160.**
 
-**And the construction occurs once more in the Qurʾān and, within this sūra itself, only here. And the pattern *niʿma* conveys praise.**
+**And the construction occurs in the Qurʾān only here; it is a single occurrence. And the pattern *niʿma* conveys praise.**
 
 **I record this as an observation about the word order:** the sentence is in two parts — one of **sufficiency** (*ḥasbuna'llāh*), the other of **taking charge** (*niʿma'l-wakīl*). **That is, what is said is not only "He is enough for us" but also "He takes the affair upon Himself".**
 
@@ -5118,8 +5118,8 @@ The root **ف-ل-ح**. **The lexicographers give the concrete sense of the root 
 
 | Verse | The disagreement |
 |---|---|
+| **7** | The question of the pause in *wa mā yaʿlamu taʾwīlahu illa'llāh* |
 | **61** | The reference of the pronoun in *fīhi* |
-| **73** | The attachment of the clause *an yuʾtā aḥadun* |
 | **79** | The derivation of the word *rabbānī* |
 | **81** | The reading and syntax of *lamā / limā* |
 | **83** | The extent of *ṭawʿan wa karhan* |

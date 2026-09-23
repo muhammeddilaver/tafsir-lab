@@ -1075,7 +1075,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **This exception cannot be passed over.** The grammatical structure of the sentence says that the ruling belongs not to **the whole** but to those left outside the exception. **The text limits its own ruling itself.**
 
-**خَآئِنَة — root خ-و-ن:** to act contrary to a trust. On the word's coming in the **feminine** there are two explanations in the classical commentaries:
+**خَآئِنَة — root خ-و-ن:** to act contrary to a trust. On the word's coming in the **feminine** there are three explanations in the classical commentaries:
 
 | Explanation | What *khāʾina* is |
 |---|---|
@@ -1160,7 +1160,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 - The sentence begins with **a partitive particle** (*min*).
 - The cause is tied not to identity but to **an act** (*fa-nasū*).
-- And forty-eight verses later the sūra will speak of those who stand nearest **from within that same group** (5/82-85), and there too the ground will be tied to **an attribute**.
+- And sixty-eight verses later the sūra will speak of those who stand nearest **from within that same group** (5/82-85), and there too the ground will be tied to **an attribute**.
 
 **Reading the text as a whole requires keeping both verses in their places.**
 
@@ -1187,7 +1187,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **I record this as my own reading; its ground is the placing of the two verbs side by side:** the work of making plain must choose. To pour out everything that has been hidden is the work of a settling of accounts, not of a delivery of a message. In recounting what the messenger does, the verse also recounts **what he does not do**.
 
-**And this is the applied form of the command *fa'fu ʿanhum wa'ṣfaḥ* in verse 13 of the sūra.** Four verses stand between them, and the second repeats the first.
+**And this is the applied form of the command *fa'fu ʿanhum wa'ṣfaḥ* in verse 13 of the sūra.** One verse stands between them, and the second repeats the first.
 
 ### نُورٌ وَكِتَٰبٌ مُّبِينٌ
 
@@ -2019,7 +2019,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 **I record this as my own reading:** the sentence sets against difference not **conflict** but **racing**. **And the subject of the race is specified: *al-khayrāt*.**
 
-**The same verb occurred forty-one verses earlier in a negative sense: *yusāriʿūna fi'l-kufr* (5/41).** **Two races, in two directions.**
+**The same verb occurred seven verses earlier in a negative sense: *yusāriʿūna fi'l-kufr* (5/41).** **Two races, in two directions.**
 
 ### أَفَحُكْمَ ٱلْجَٰهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ (50)
 
@@ -2341,7 +2341,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 | The ground given | What kind of thing it is |
 |---|---|
 | *Minhum qissīsīna wa ruhbānan* | **That there are people of learning and of worship among them** |
-| *Wa annahum lā yastakbirūn* | Their not showing *istikbār* — a **disposition*** |
+| *Wa annahum lā yastakbirūn* | Their not showing *istikbār* — a **disposition** |
 
 **That is, the cause of the nearness is not a name or an affiliation but the attributes enumerated.** **And the verse says so openly with *bi-anna* (because).**
 
@@ -2546,7 +2546,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **The verse's ruling, however, is plain and independent of the descriptions: *mā jaʿala'llāhu* — God did not lay these down.** **And it continues: *wa lākinna'lladhīna kafarū yaftarūna ʿala'llāhi'l-kadhib.***
 
-**I record this as my own reading, and its ground is the preceding section:** three verses earlier the sūra had forbidden **making the lawful forbidden** (5/87). **Here an instance of prohibitions laid down of one's own accord is given.** **The two places explain one another.**
+**I record this as my own reading, and its ground is the preceding section:** sixteen verses earlier the sūra had forbidden **making the lawful forbidden** (5/87). **Here an instance of prohibitions laid down of one's own accord is given.** **The two places explain one another.**
 
 ### 5/104 — قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ
 

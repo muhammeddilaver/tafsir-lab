@@ -1813,7 +1813,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 |---|---|---|
 | al-Zumar 39/58 | *Law anna lī karratan* — **the wish to return** | *Balā qad jāʾatka āyātī* — **the signs had come** |
 | Ghāfir 40/85 | *Lammā raʾaw baʾsanā* — **on seeing the punishment** | *Sunnata'llāh* — **the standing rule** |
-| **Yūnus 10/91** | *Ḥattā idhā adrakahu'l-gharaq* — **while drowning** | *Wa qad **ʿaṣayta qablu*** — **the disobedience of the past** |
+| **Yūnus 10/90** | *Ḥattā idhā adrakahu'l-gharaq* — **while drowning** | *Wa qad **ʿaṣayta qablu*** — **the disobedience of the past** |
 
 **And what Yūnus adds must be recorded: the ground is rested not on a rule but on the addressee's own past. *Qablu* — "before". The verdict is given in a personalised form.**
 
@@ -2066,7 +2066,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 ### The plainest expression of the limit of responsibility
 
-**This limit was treated many times in the index, and at `028-kasas.md` 28/56 a table across six sūras was set up. I carry the table here and add Yūnus, because this verse is one of the plainest expressions of that line:**
+**This limit was treated many times in the index, and at `028-kasas.md` 28/56 a table across six sūras was set up. I carry the table here and add al-Raʿd and Yūnus, because this verse is one of the plainest expressions of that line:**
 
 | Place | Expression | What it limits |
 |---|---|---|
@@ -2235,7 +2235,7 @@ And the subject of the verb must be recorded: *tabl**ū** kullu nafsin* — the 
 
 ### قَدْ جَآءَكُمُ ٱلْحَقُّ — and the link with the fifty-seventh verse
 
-**There are two sentences in the sūra that open with the address *yā ayyuha'n-nās*, and both are built with the same verb:**
+**There are two sentences in the sūra that open with the address *yā ayyuha'n-nās* and are built with the same verb:**
 
 | Verse | Sentence | What comes |
 |---|---|---|

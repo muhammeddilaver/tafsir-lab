@@ -1,6 +1,23 @@
 import Link from "next/link";
-import LangSwitch from "./LangSwitch";
-import { REPO, ROUTES, SITE, T, type Lang } from "@/lib/i18n";
+import LangSwitch, { type Have } from "./LangSwitch";
+import { VERSES, suraNumbers } from "@/lib/content";
+import { LANGS, REPO, ROUTES, SITE, T, type Lang } from "@/lib/i18n";
+
+/**
+ * Which suras each unfinished translation actually has. A language whose
+ * corpus is complete is left out, so once every language is finished this
+ * record is empty and nothing extra is serialised into the page. The
+ * switcher uses it to send the reader to the home page rather than to a sura
+ * that does not exist in the language they are switching to.
+ */
+function have(): Have {
+  const out: Have = {};
+  for (const l of LANGS) {
+    const nos = suraNumbers(l);
+    if (nos.length < VERSES.length) out[l] = nos;
+  }
+  return out;
+}
 
 export function SiteHeader({ lang }: { lang: Lang }) {
   const R = ROUTES[lang];
@@ -20,7 +37,7 @@ export function SiteHeader({ lang }: { lang: Lang }) {
         <a className="gh" href={REPO} target="_blank" rel="noopener noreferrer">
           GitHub
         </a>
-        <LangSwitch lang={lang} />
+        <LangSwitch lang={lang} have={have()} />
       </div>
       <div id="progress" />
     </header>

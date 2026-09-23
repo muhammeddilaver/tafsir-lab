@@ -1,14 +1,14 @@
 import Link from "next/link";
 import ConsentSwitch from "@/components/ConsentSwitch";
 import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "Gizlilik politikası",
   description: "Bu sitede hangi veriler işleniyor, hangileri işlenmiyor.",
   alternates: {
     canonical: ROUTES.tr.privacy,
-    ...alternates({ tr: ROUTES.tr.privacy, en: ROUTES.en.privacy }),
+    ...alternates(everywhere((r) => r.privacy)),
   },
 };
 
@@ -18,7 +18,7 @@ export default function GizlilikPage() {
       <main className="doc">
         <div className="sura-head">
           <h1>Gizlilik politikası</h1>
-          <p className="meta">Son güncelleme: 1 Eylül 2026</p>
+          <p className="meta">Son güncelleme: 23 Eylül 2026</p>
         </div>
 
         <p>
@@ -125,11 +125,11 @@ export default function GizlilikPage() {
               </tr>
               <tr>
                 <td>
-                  <code>tefsir:en:…</code>
+                  <code>tefsir:en:…</code> · <code>tefsir:id:…</code>
                 </td>
                 <td>
-                  Aynı iki kaydın İngilizce sürüm karşılığı; iki dilin okuma konumu ayrı
-                  tutulur
+                  Aynı iki kaydın İngilizce ve Endonezce sürüm karşılığı; her dilin okuma
+                  konumu ayrı tutulur
                 </td>
               </tr>
               <tr>
@@ -137,7 +137,7 @@ export default function GizlilikPage() {
                   <code>tefsir:consent</code>
                 </td>
                 <td>
-                  Ölçümleme çerezlerine verdiğiniz cevap. Tek bir karar iki dil için de
+                  Ölçümleme çerezlerine verdiğiniz cevap. Tek bir karar üç dil için de
                   geçerlidir; dil değiştirdiğinizde soru yeniden sorulmaz
                 </td>
               </tr>
@@ -162,11 +162,13 @@ export default function GizlilikPage() {
 
         <h2>Dış kaynaklar</h2>
         <p>
-          Sayfa yazı tipleri Google Fonts üzerinden yüklenir (
-          <code>fonts.googleapis.com</code> ve <code>fonts.gstatic.com</code>), ölçümleme
-          betiği ise <code>googletagmanager.com</code> adresinden. Bu istekler sırasında IP
-          adresiniz ve tarayıcı bilginiz Google&apos;a ulaşır. Bunun dışında sayfalara
-          üçüncü taraf betiği, reklam, piksel ya da izleyici gömülmemiştir.
+          Sayfa yazı tipleri <strong>bu sitenin kendi sunucusundan</strong> gelir: Google
+          Fonts&apos;tan alınan dosyalar derleme sırasında siteye gömülür, sayfa açılırken
+          Google&apos;a yazı tipi isteği gitmez. Tarayıcınızın dışarıya yaptığı tek istek,
+          ölçümleme betiğinin <code>googletagmanager.com</code> adresinden yüklenmesidir; o
+          istek sırasında IP adresiniz ve tarayıcı bilginiz Google&apos;a ulaşır. Bunun
+          dışında sayfalara üçüncü taraf betiği, reklam, piksel ya da izleyici
+          gömülmemiştir.
         </p>
 
         <h2>Paylaşma işlevi</h2>

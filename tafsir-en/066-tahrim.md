@@ -331,7 +331,7 @@ That the word comes from this root shows that an oath was thought of as a **bodi
 
 And when this is joined with *taḥilla* the picture is complete: **the hand is clasped, the knot is tied; then the knot is untied.** The whole sentence is recounted by the movement of two hands.
 
-**A note:** that the word *yamīn* occurs in the Qurʾān both in the sense "right hand / right side" and in the sense "oath" shows that this doubleness of the root is alive in the text. In the eighth verse of this sūra *bi-aymānihim* will occur as well — there in the sense "their right sides". The same root, four verses apart, with two different senses. I record this not as a claim of wordplay but as an indication of the root's liveliness.
+**A note:** that the word *yamīn* occurs in the Qurʾān both in the sense "right hand / right side" and in the sense "oath" shows that this doubleness of the root is alive in the text. In the eighth verse of this sūra *bi-aymānihim* will occur as well — there in the sense "their right sides". The same root, six verses apart, with two different senses. I record this not as a claim of wordplay but as an indication of the root's liveliness.
 
 ### What I say and do not say about the loosing of an oath
 
@@ -1326,7 +1326,7 @@ The same verb, the same form (*tafʿīl*), two different subjects — and entire
 
 I record this as an observation. It is an example of a fact that has met us many times regarding the Qurʾān's economy of words: the same root changes value according to its position.
 
-**عَسَىٰ** — treated at the fourth and fifth verses: it states hope, not certainty.
+**عَسَىٰ** — treated at the fifth verse: it states hope, not certainty.
 
 And here there is a striking point. The verse **commands** repentance (*tūbū* — imperative), but it does not **make the outcome certain** (*ʿasā* — it may be that). That is, the obligation is certain, the recompense hopeful.
 
@@ -1514,7 +1514,7 @@ Its use here for hell produces a contrast: fire as a place of refuge. And this c
 
 **وَبِئْسَ الْمَصِيرُ** — "what an evil destination!" **مَصِير**, root **ص ي ر**: to turn into a state, to arrive at an outcome. *Maṣīr* — the place arrived at, the state turned into.
 
-This formula is repeated in the neighbouring sūras too; Sūrat al-Taghābun will use the same expression (64/10). One of the verbal kinships between the two sūras.
+This formula is repeated in the neighbouring sūras too; Sūrat al-Taghābun has used the same expression (64/10). One of the verbal kinships between the two sūras.
 
 ### What this says to the present
 
@@ -1994,7 +1994,7 @@ The two do not cancel one another. On the contrary, without one the other is spo
 - Without responsibility, the limit turns into indifference.
 - Without the limit, responsibility turns into a pressure that counts another's life as one's own reckoning.
 
-The sūra sets the two side by side six verses apart and builds no reconciling sentence between them. It appears that the reader is expected to carry both at once.
+The sūra sets the two side by side four verses apart and builds no reconciling sentence between them. It appears that the reader is expected to carry both at once.
 
 ---
 

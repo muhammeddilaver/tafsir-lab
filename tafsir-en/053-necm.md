@@ -92,7 +92,7 @@ From beginning to end the sūra compares two sources of knowledge, and its words
 
 And the thirtieth verse ties this comparison together in a single word: **مَبْلَغُهُم مِّنَ ٱلْعِلْمِ** — *"that is the extent of their reach in knowledge."* The matter is thus not one of telling a lie; it is one of **range.** The sūra characterises the other party not by mendacity but by **the limit of its reach.**
 
-Then at verse 36 **a third source** enters: *"Or has he not been told of what is in the scrolls of Moses (Mūsā)?"* The sūra thus sets out three things: **the revelation coming now** (1-18), **the supposition coming from the fathers** (19-30), **the revelation that came before** (36-55). And in the last verse it will gather all of these into one sentence: *"This is a warner of the warners of old"* (56).
+Then at verse 36 **a third source** enters: *"Or has he not been told of what is in the scrolls of Moses (Mūsā)?"* The sūra thus sets out three things: **the revelation coming now** (1-18), **the supposition coming from the fathers** (19-30), **the revelation that came before** (36-55). And in verse 56 it will gather all of these into one sentence: *"This is a warner of the warners of old"* (56).
 
 ### Third observation: two different words of the same sound
 
@@ -368,7 +368,7 @@ This is a verifiable datum within the sūra and is not a reading.
 
 **إِنْ … إِلَّا** — Arabic's most widespread pattern of restriction (*ḥaṣr*, *qaṣr*). *In* is here a particle of negation (in place of *mā*), *illā* one of exception. The two together: **"it is nothing else, it is only this."**
 
-This pattern is used in the Qurʾān to narrow the definition of something, and it occurs **twice** in this sūra:
+This pattern is used in the Qurʾān to narrow the definition of something, and it occurs in this sūra in **two opposite rulings**:
 
 | Verse | Sentence | What is restricted |
 |---|---|---|
@@ -675,7 +675,7 @@ The expression **عَبْدِهِ** ("His servant") in the tenth verse is the kn
 
 Behind this disagreement stands a larger theological debate: **did the Prophet see his Lord with his eye?**
 
-**The Qurʾān's own data touching the matter are these, and both are used in this debate:**
+**The Qurʾān's own data touching the matter are these, and all three are used in this debate:**
 
 > *"Eyes do not grasp Him; He grasps the eyes."* (al-Anʿām 6/103)
 
@@ -931,7 +931,7 @@ The sidr was, in that region, **one of the few trees that gives shade in the des
 
 The concrete sense of the root: **a thing's ending, coming to its close, reaching its final bound.**
 
-And from here two separate directions come out:
+And from here three separate directions come out:
 - **نِهَايَة (nihāya)** — the end, the finish.
 - **نَهَىٰ (nahā)** — he forbade. The link: a prohibition is the setting of a thing's **bound**; it fixes how far one may go.
 - **نُهْيَة / نُهَىٰ (nuhā)** — the intellect. The Qurʾān uses this word: *"In this are signs for those possessed of intellect (*uli'l-nuhā*)"* (Ṭāhā 20/54). The lexicographers' explanation: the intellect is what **restrains** a person from what will harm him. The name of the intellect thus comes from a root of forbidding.
@@ -1276,7 +1276,7 @@ It is transmitted in the sources that al-ʿUzzā was near Mecca, in the valley o
 
 > **Verse 24:** *am li'l-insāni mā **تَمَنَّىٰ***? — "Or shall man have whatever he **wishes for**?"
 
-**تَمَنَّىٰ** is from **the same root** as *Manāt*. Five verses after naming an idol called "the apportioner of destiny", that is, the sūra says that man's **wishing** gives him nothing.
+**تَمَنَّىٰ** is from **the same root** as *Manāt*. Four verses after naming an idol called "the apportioner of destiny", that is, the sūra says that man's **wishing** gives him nothing.
 
 **I record this as my own reading, and its ground is the sharing of the root.** The sharing of the root is a countable datum; that a deliberate relation is established between the two verses is my inference and is not certain — for the verb *tamannā* is widespread in the Qurʾān and does not carry an idol's association everywhere it occurs.
 
@@ -3573,7 +3573,7 @@ The first half of the sūra is an argument about speaking: who speaks, from wher
 
 The last verse of the sūra commands two verbs, and both concern **the body**: to bend and to serve.
 
-**The text opens, that is, with a claim about speech and closes with a behaviour.** And in between, over forty-six verses, the ground of the claim has been established.
+**The text opens, that is, with a claim about speech and closes with a behaviour.** And in between, over fifty-seven verses, the ground of the claim has been established.
 
 **I record this as an observation.**
 

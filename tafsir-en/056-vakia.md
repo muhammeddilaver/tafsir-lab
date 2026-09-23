@@ -42,9 +42,9 @@ Here is the sūra's most striking formal feature. **The same groups are named by
 
 | | **The opening (7-11)** | **The tables (27, 41)** | **The close (88-92)** |
 |---|---|---|---|
-| First group | *aṣḥābu'l-**maymana*** | *aṣḥābu'l-**yamīn*** | separately for *al-**muqarrabīn*** |
-| Second group | *aṣḥābu'l-**mashʾama*** | *aṣḥābu'sh-**shimāl*** | — |
-| Third group | *al-**sābiqūn*** / *al-**muqarrabūn*** | (no table heading) | — |
+| First group | *aṣḥābu'l-**maymana*** | *aṣḥābu'l-**yamīn*** | *aṣḥābu'l-**yamīn*** (90) |
+| Second group | *aṣḥābu'l-**mashʾama*** | *aṣḥābu'sh-**shimāl*** | *al-**mukadhdhibīna'l-ḍāllīn*** (92) |
+| Third group | *al-**sābiqūn*** / *al-**muqarrabūn*** | (no table heading) | *al-**muqarrabīn*** (88) |
 
 In the closing section (88-92) the order and the names are these:
 
@@ -330,7 +330,7 @@ And its coming in two verses **one after the other** sets up a rhythm: *rajjā�
 | Word | Root | Where | What it conveys |
 |---|---|---|---|
 | **زُلْزِلَت** | ز-ل-ز-ل | Al-Zalzala 99/1 | A quaking (a reduplicated root) |
-| **رَجَفَت** | ر-ج-ف | Al-Muzzammil 73/14 | Trembling, shuddering |
+| **تَرْجُفُ** | ر-ج-ف | Al-Muzzammil 73/14 | Trembling, shuddering |
 | **رُجَّت** | **ر-ج-ج** | **Al-Wāqiʿa 56/4** | **Agitation** |
 | **دُكَّت** | د-ك-ك | Al-Ḥāqqa 69/14 | Being beaten flat |
 
@@ -2263,9 +2263,9 @@ The expected expression would be *mina'sh-shajari'l-zaqqūm* (from the zaqqūm t
 | Proof | Verses | Subject | Opening pattern |
 |---|---|---|---|
 | 1 | 58-59 | **Seed** — the forming of man himself | *A-fa-raʾaytum mā tumnūn* |
-| 2 | 63-67 | **The crop** — what he eats | *A-fa-raʾaytum mā taḥruthūn* |
-| 3 | 68-70 | **Water** — what he drinks | *A-fa-raʾaytumu'l-māʾa'lladhī tashrabūn* |
-| 4 | 71-73 | **Fire** — what he kindles | *A-fa-raʾaytumu'n-nāra'llatī tūrūn* |
+| 2 | 63-64 | **The crop** — what he eats | *A-fa-raʾaytum mā taḥruthūn* |
+| 3 | 68-69 | **Water** — what he drinks | *A-fa-raʾaytumu'l-māʾa'lladhī tashrabūn* |
+| 4 | 71-72 | **Fire** — what he kindles | *A-fa-raʾaytumu'n-nāra'llatī tūrūn* |
 
 **The opening of all four is the same: *a-fa-raʾaytum* — "have you seen, what do you say?"** And in all four the same question is asked: **is it you who do this?**
 
@@ -2550,7 +2550,7 @@ The expected expression would be *mina'sh-shajari'l-zaqqūm* (from the zaqqūm t
 
 **And the distance the question draws back is worth recording:** man strikes the fire; the branch gives the fire, the tree gives the branch, **and who makes the tree grow was settled in the preceding proof** (63-64: *naḥnu'l-zāriʿūn*). **The proofs are tied to one another.**
 
-***Anshaʾtum* / *al-munshiʾūn* — root ن-ش-أ.** The root's third and fourth occurrences in the sūra (after 35, 61, 62). **The same root four times through the sūra: the building of spouses in the Garden, the rebuilding of man, the first building, and the building of the tree.** This is a verifiable repetition.
+***Anshaʾtum* / *al-munshiʾūn* — root ن-ش-أ.** The root's fourth occurrence in the sūra (after 35, 61, 62). **The same root four times through the sūra: the building of spouses in the Garden, the rebuilding of man, the first building, and the building of the tree.** This is a verifiable repetition.
 
 ### The four trees in the sūra
 
@@ -2894,7 +2894,7 @@ The pronoun is feminine: *tarjiʿūna**hā*** — that is, **the thing** whose n
 
 ### The sūra returns to where it began
 
-**In the seventh verse people were divided into three: *wa kuntum azwājan thalātha*. Now, ninety verses later, the sūra frames the same three again** — but this time **at the moment of one person's death.**
+**In the seventh verse people were divided into three: *wa kuntum azwājan thalātha*. Now, eighty-one verses later, the sūra frames the same three again** — but this time **at the moment of one person's death.**
 
 | | The opening (7-11) | The tables (12-56) | **The close (88-94)** |
 |---|---|---|---|

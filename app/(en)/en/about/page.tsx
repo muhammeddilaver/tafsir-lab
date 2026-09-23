@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { stats } from "@/lib/content";
 import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "About",
@@ -9,7 +9,7 @@ export const metadata = {
     "What Tafsir Lab is, who wrote the text, and the rules it was written under.",
   alternates: {
     canonical: ROUTES.en.about,
-    ...alternates({ tr: ROUTES.tr.about, en: ROUTES.en.about }),
+    ...alternates(everywhere((r) => r.about)),
   },
 };
 

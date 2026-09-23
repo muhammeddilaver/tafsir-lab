@@ -49,7 +49,7 @@ The derivatives confirm this frame:
 - **ضَحْوَة (*ḍaḥwa*)** — the earlier part of the same time.
 - **أَضْحَى (*aḍḥā*)** — to enter upon the forenoon. In Arabic this verb came in time to be used also as a defective verb in the sense "to become, to come into that state" — the same development as *aṣbaḥa* (to enter upon the morning → to become).
 - **ٱلْأَضْحَى / أُضْحِيَّة** — the Feast of Sacrifice and the sacrificial animal. The naming comes from the time: the sacrifice is slaughtered in the forenoon.
-- **ضَاحِيَة (*ḍāḥiya*)** — the outward-facing, sun-catching edge of a settlement. The modern use of the word for a suburb comes from here.
+- **ضَاحِيَة (*ḍāḥiya*)** — the outward-facing, sun-catching edge of a settlement. The modern use of the word in Arabic for a suburb comes from here.
 - **ضَحِيَ (*ḍaḥiya*)** — to be exposed to the sun, to be left without shade. It occurs in the Qurʾān: *"There you will not thirst, nor be scorched by the sun"* (Ṭāhā 20/119).
 
 The last item matters, because it shows the root's dimension of "being out in the open, being left uncovered". *Ḍuḥā* is not only a slot of hours; it is the state in which everything is seen and no shadow is left to hide in.
@@ -645,7 +645,7 @@ The word describes not only the use of force but **a difference of force**. *Qah
 
 This root occurs in the Qurʾān among the names of God:
 
-- **ٱلْقَهَّار (*al-Qahhār*)** — Yūsuf 12/39, al-Raʿd 13/16, Ṣād 38/65, al-Zumar 39/4, Ghāfir 40/16.
+- **ٱلْقَهَّار (*al-Qahhār*)** — Yūsuf 12/39, al-Raʿd 13/16, Ibrāhīm 14/48, Ṣād 38/65, al-Zumar 39/4, Ghāfir 40/16.
 - **ٱلْقَاهِر (*al-Qāhir*)** — *"And He is the Subduer over His servants"* (al-Anʿām 6/18, 61).
 
 **And the point that comes out of this is one of the sharpest places in the sūra:** God, who is al-Qahhār, forbids His servant to crush.

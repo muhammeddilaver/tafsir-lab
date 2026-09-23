@@ -1029,7 +1029,7 @@ Bu üçünü birleştiren çıkarım benimdir; ayetler bu zinciri kendileri kurm
 - **أَمْهَلَ (emhele)** — *if'âl* babı: aynı anlam.
 - **عَلَى مَهْلٍ** — yavaşça, acele etmeden.
 
-**İki bab da aynı ayette değil ama Kur'an'da yan yana kullanılır:** *"Kâfirlere mühlet ver; onlara biraz süre tanı"* (Târık 86/17) — *fe-mehhili'l-kâfirîne emhilhüm rüveydâ*.
+**İki bab Kur'an'da aynı ayette yan yana kullanılır:** *"Kâfirlere mühlet ver; onlara biraz süre tanı"* (Târık 86/17) — *fe-mehhili'l-kâfirîne emhilhüm rüveydâ*.
 
 Bu ayet Târık sûresinin son ayetidir ve `086-tarik.md`'de işlendi. **İki ayet arasındaki örtüşme neredeyse birebirdir:** aynı kök, aynı bab, aynı emir, aynı "az" kaydı.
 
@@ -2092,7 +2092,7 @@ Sûre içinde dönen kökler:
 | **ذ-ك-ر** | 73/8 (*üzkür*), 73/19 (*tezkira*) | Anma emri → metnin kendi adı |
 | **ي-س-ر** | 73/20 (*teyessera*, iki kez) | Ölçünün adı |
 | **ق-د-ر** | 73/20 (*yukaddiru*), 73/20 (*tukaddimû* — ayrı kök) | Ölçen |
-| **ر-س-ل** | 73/15 (üç kez), 73/16 | Elçilik |
+| **ر-س-ل** | 73/15 (dört kez), 73/16 | Elçilik |
 
 ### Fasıla ve ses — kapanış notu
 

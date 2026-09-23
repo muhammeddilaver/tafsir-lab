@@ -734,7 +734,7 @@
 
 **Kaydedilmelidir: dokuzuncu ayette *sebîl* kelimesi doğrultu anlamında geçmişti** (*ve ala'llâhi kasdü's-sebîl*). **Burada aynı kök fizikî anlamda geri geliyor: *sübülâ* — yollar.**
 
-**Ve kapanış her ikisinde de aynı köke bağlanıyor:** dokuzuncu ayette *le-hedâküm*, on beşinci ayette *lealleküm tehtedûn*, on altıncı ayette *hüm yehtedûn.* **ه-د-ي kökü üç ayette dört kez geçiyor.**
+**Ve kapanış her ikisinde de aynı köke bağlanıyor:** dokuzuncu ayette *le-hedâküm*, on beşinci ayette *lealleküm tehtedûn*, on altıncı ayette *hüm yehtedûn.* **ه-د-ي kökü üç ayette üç kez geçiyor.**
 
 **Bu, sûre içinde doğrulanabilir bir tekrardır ve kendi okumam olarak şunu kaydediyorum:** sûre, yön bulmayı iki düzlemde birden anlatıyor — **yeryüzündeki yolu bulmak ve doğru yolu bulmak.** İki düzlem aynı kökle adlandırılıyor ve aralarına ayrı bir sınır konmuyor.
 
@@ -799,7 +799,7 @@
 
 **Dilciler bunu cins ismi olarak açıklar: sayı bildirmiyor, tür bildiriyor.** **Ve bir gözlem olarak veriyorum:** tekil kelimenin sayılamayacağının söylenmesi, cümlenin gerilimini artırıyor — **tek bir şey bile sayılamıyor.**
 
-**Ve sûre bu kelimeyi ısrarla kullanacak:** *ni'metallâh* terkibi sûrede beş kez geçiyor (18, 53, 71, 72, 83) ve bir kez de *ni'metehû* (81) biçiminde. **Bu, sûre içinde sayılabilir bir olgudur ve sonda tablolanacak.**
+**Ve sûre bu kelimeyi ısrarla kullanacak:** *ni'metallâh* terkibi sûrede beş kez geçiyor (18, 71, 72, 83, 114) ve bir kez de *ni'metehû* (81) biçiminde. **Bu, sûre içinde sayılabilir bir olgudur ve sonda tablolanacak.**
 
 ### إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ — kapanışın seçimi
 
@@ -1309,7 +1309,7 @@
 
 ### لِتُبَيِّنَ لِلنَّاسِ
 
-**ب-ي-ن kökü sûrede üç ayrı yerde, üç ayrı işte geçiyor ve bu, sûrenin yapı işaretlerinden biridir:**
+**ب-ي-ن kökü sûrede beş ayrı yerde, ayrı ayrı işlerde geçiyor ve bu, sûrenin yapı işaretlerinden biridir; dördü şunlardır:**
 
 | Ayet | İfade | Kim açıklıyor | Neyi |
 |---|---|---|---|
@@ -1972,13 +1972,13 @@
 
 **İki okuma da nakledilir; tercih dayatmıyorum.**
 
-**Ve `049-hucurat.md` ile bir bağ kurulabilir ve bunu bir gözlem olarak veriyorum:** kırk sekizinci ayette *dâhırûn* (boyun bükmüş) geçmişti — gölgeler ve secde edenler için. **Burada *zülül* geçiyor — arı için.** **İki kelime de aynı fikri taşıyor ve sûre bunları birbirinden yirmi ayet arayla koyuyor.**
+**Ve `049-hucurat.md` ile bir bağ kurulabilir ve bunu bir gözlem olarak veriyorum:** kırk sekizinci ayette *dâhırûn* (boyun bükmüş) geçmişti — gölgeler ve secde edenler için. **Burada *zülül* geçiyor — arı için.** **İki kelime de aynı fikri taşıyor ve sûre bunları birbirinden yirmi bir ayet arayla koyuyor.**
 
-### شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ — dördüncü halka
+### شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ — beşinci halka
 
 **Terkip *muhtelifün elvânühû*, sûrede ikinci kez geçiyor** (on üçüncü ayette *ve mâ zeree leküm fi'l-ardı muhtelifen elvânüh* geçmişti). **Ve `035-fatir.md` 35/27-28'de üç kez tekrarlanmıştı.**
 
-**Dördüncü halka olarak tabloyu tamamlıyorum:**
+**Beşinci halka olarak tabloyu tamamlıyorum:**
 
 | # | Yer | İfade | Neyin renkleri |
 |---|---|---|---|
@@ -2061,7 +2061,7 @@
 | **70** | *Lâ ya'leme **ba'de ilmin** şey'â* | **Bilgiden bilgisizliğe** — ömrün sonunda |
 | **78** | *Lâ ta'lemûne şey'â* | **Bilgisizlikten başlangıç** — ömrün başında |
 
-**Bu, sûre içinde doğrulanabilir bir örtüşmedir ve iki ayet arasında sekiz ayet var.** **Kendi okumam olarak kaydediyorum:** sûre, insan ömrünü iki uçtan da aynı kelimeyle (*şey'â* — hiçbir şey) sınırlıyor. **Başlangıçta hiçbir şey bilinmiyor; sonda bilinen geri alınıyor.** **Ve arada verilen şey, yetmiş sekizinci ayette sayılacak: kulak, gözler, kalpler.**
+**Bu, sûre içinde doğrulanabilir bir örtüşmedir ve iki ayet arasında yedi ayet var.** **Kendi okumam olarak kaydediyorum:** sûre, insan ömrünü iki uçtan da aynı kelimeyle (*şey'â* — hiçbir şey) sınırlıyor. **Başlangıçta hiçbir şey bilinmiyor; sonda bilinen geri alınıyor.** **Ve arada verilen şey, yetmiş sekizinci ayette sayılacak: kulak, gözler, kalpler.**
 
 **`030-rum.md` 30/54'te ömrün üç aşaması (zayıflık → güç → zayıflık ve saç ağarması) işlenmiş ve `040-gafir.md` 40/67'deki altı basamakla karşılaştırılmıştı.** **Oraya dayanıyorum ve buradaki farkı kaydediyorum:** Rûm ve Gāfir aşamaları **bedenle** ölçüyor; **Nahl bilgiyle.**
 
@@ -2222,7 +2222,7 @@
 
 | | **Zümer 39/29** | **Nahl 16/75** | **Nahl 16/76** |
 |---|---|---|---|
-| İki taraf | *Racülen fîhi şürakâü mütefâkisûn* / *ve racülen selemen li-racül* | *Abden memlûkâ* / *men razaknâh* | *Ebkem* / *men ye'müru bi'l-adl* |
+| İki taraf | *Racülen fîhi şürakâü müteşâkisûn* / *ve racülen selemen li-racül* | *Abden memlûkâ* / *men razaknâh* | *Ebkem* / *men ye'müru bi'l-adl* |
 | Ayrım ekseni | **Kaç sahip var** — çokluk / teklik | **Tasarruf gücü** — yok / var | **Söz ve fayda** — yok / var |
 | Ortak soru | *Hel yesteviyâni **meselâ*** | *Hel **yestevûn*** | *Hel **yestevî*** |
 | Neyi anlatıyor | **Şirkin pratik sonucu** — yön karışıklığı | **Verilenin kullanılması** | **Verilenin başkasına dönmesi** |
@@ -2470,9 +2470,9 @@
 
 "**Allah, yarattıklarından size gölgeler yaptı; dağlarda sizin için barınaklar var etti; sizi sıcaktan koruyan gömlekler ve savaşta koruyan zırhlar verdi. İşte O, nimetini size böyle tamamlıyor** — belki teslim olursunuz."
 
-### Dört *ceale*, tek kapanış
+### Beş *ceale*, tek kapanış
 
-**Ayet dört kez *ceale leküm* diyor** (üçü bu ayette, biri seksenincide) **ve sonunda bütün sayımı tek cümleyle kapatıyor.**
+**Ayet beş kez *ceale leküm* diyor** (üçü bu ayette, ikisi seksenincide) **ve sonunda bütün sayımı tek cümleyle kapatıyor.**
 
 | Sıra | Verilen | Neye karşı |
 |---|---|---|
@@ -2526,7 +2526,7 @@
 
 **`030-rum.md` 30/46'da aynı ayrım kaydedilmişti:** *ve min âyâtihî* dizisinin ayrılan halkası bir **karşılık** fiiliyle bitiyordu (*teşkürûn*). **Nahl'de sayım bir *teslim* fiiliyle bitiyor.**
 
-**Kendi okumam olarak kaydediyorum, dayanağım fiillerin dizisidir:** sûre saymaya **düşünme** ile başlıyor, **teslim** ile bitiriyor. **Ve arada yedi ayrı fiil sayılıyor.** **Yani sayım, bir bilgi işleminden bir tavır değişikliğine doğru ilerliyor.**
+**Kendi okumam olarak kaydediyorum, dayanağım fiillerin dizisidir:** sûre saymaya **düşünme** ile başlıyor, **teslim** ile bitiriyor. **Ve arada beş ayrı fiil sayılıyor.** **Yani sayım, bir bilgi işleminden bir tavır değişikliğine doğru ilerliyor.**
 
 ---
 
@@ -2653,7 +2653,7 @@
 
 ### تِبْيَٰنًا لِّكُلِّ شَىْءٍ
 
-**Terkip, sûrenin ب-ي-ن dizisinin üçüncü ve son halkasıdır** (39, 44, 89). **Yukarıda tablolandı.**
+**Terkip, sûrenin ب-ي-ن dizisinin dördüncü halkasıdır** (39, 44, 64, 89). **Yukarıda tablolandı.**
 
 **Ve kelimenin kalıbı kaydedilmelidir: *tibyân* — *tif'âl* vezninde masdar.** **Dilciler bu veznin mübalağa bildirdiğini kaydeder:** *tibyân*, **açıklamanın en tam hâli.**
 
@@ -3354,7 +3354,7 @@
 
 **Dilciler *en'um*u *ni'met*in çoğulu sayar** — ve *ni'am* çoğuluyla arasındaki farkı bazıları **azlık çoğulu / çokluk çoğulu** ayrımıyla açıklar. **Bu ayrımı dilcilerin kaydettiği bir eğilim olarak aktarıyorum; tercih dayatmıyorum.**
 
-**Ve önemli olan şudur: sûre boyunca *ni'met* tekil kullanılmıştı** (18, 53, 71, 72, 83) **ve seksen birinci ayette *ni'metehû* olarak geçmişti.** **Yüz on ikinci ayette ilk ve tek kez çoğul geliyor.**
+**Ve önemli olan şudur: sûre boyunca *ni'met* tekil kullanılmıştı** (18, 71, 72, 83, 114) **ve seksen birinci ayette *ni'metehû* olarak geçmişti.** **Çoğul yalnız iki yerde geliyor: yüz on ikinci ve yüz yirmi birinci ayette.**
 
 **Bunu bir gözlem olarak veriyorum ve sayılabilir bir olgudur:** sûre, nimeti tek bir bütün olarak anarken hiç çoğul kullanmıyor. **Çoğulu ancak inkâr edilen nimetler için, tek bir yerde kullanıyor.**
 
@@ -3591,7 +3591,7 @@
 
 ### İhtilaf kökü bir kez daha
 
-**خ-ل-ف kökü bu tek ayette üç kez geçiyor: *ihtelefû*, *yahtelifûn*, ve *fîmâ kânû fîhi*'nin bağlandığı ihtilaf.**
+**خ-ل-ف kökü bu tek ayette iki kez geçiyor: *ihtelefû* ve *yahtelifûn*.**
 
 **Ve kök sûrede daha önce geçmişti: otuz dokuzuncu ayette (*yahtelifûne fîh*), doksan ikinci ayette (*mâ küntüm fîhi tahtelifûn*), altmış dördüncü ayette (*ellezi'htelefû fîh*).** **Sûre içinde doğrulanabilir bir tekrardır.**
 
@@ -3821,7 +3821,7 @@
 
 | Kelime / kök | Nerede | Ne yapıyor |
 |---|---|---|
-| **نعمة** | 18, 53, 71, 72, 83 — *ni'metehû* (81) — ***en'um*** (112, 121) | **Sûrenin omurgası**; çoğulu yalnız iki yerde |
+| **نعمة** | 18, 71, 72, 83, 114 — *ni'metehû* (81) — ***en'um*** (112, 121) | **Sûrenin omurgası**; çoğulu yalnız iki yerde |
 | **أ-م-ر** | 1, 2, 12, 33, 50, 77, 90 | **Kozmik, tarihî ve ahlâkî üç düzlemi bağlıyor** |
 | **ب-ي-ن** | 39, 44, 64, 89, 92 | **Açıklama işi üç özneye ve iki zamana dağıtılmış** |
 | **ج-د-ل / خ-ص-م** | *hasîmun mübîn* (4) — *tücâdilü an nefsihâ* (111) — *câdilhüm* (125) | **Tespit → çaresizlik → usul** |

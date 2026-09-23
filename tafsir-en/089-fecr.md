@@ -884,7 +884,7 @@ Sūrat al-Ghāshiya, addressing the Prophet, says this:
 
 **مُصَيْطِر (*musayṭir*)** is, by its root, one who stands over a thing and watches it, records it, holds the matter in hand; the word carries both "overseer" and "one who compels".
 
-And al-Fajr, two sūras later, says this:
+And al-Fajr, one sūra later, says this:
 
 > *"Surely your Lord is in the place of watching."* (al-Fajr 89/14)
 

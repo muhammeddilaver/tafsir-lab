@@ -982,7 +982,7 @@ The root **د-ر-ج**: **a step, a rank; to advance step by step.** **The word w
 
 The root **ع-ج-ب**: **to astonish, to strike with wonder.** *Aʿjaba* — it pleased him, it won his admiration. **What the form states here is a *self-satisfaction*.**
 
-**And the same verb will occur three more times in the sūra — and in all three as something forbidden:**
+**And the same verb will occur two more times in the sūra — and in both as something forbidden:**
 
 | Verse | Expression | About whom |
 |---|---|---|
@@ -1751,9 +1751,9 @@ The root **ر-د-د**: **to turn back.** *Taraddud* (Form V) — **to go to a po
 
 **I convey the disagreement and impose no preference.** **And the pattern must be recorded: *faʿʿāl* — the intensive form, "one who listens much."**
 
-### The three occurrences of the word فِتْنَة
+### The four occurrences of the word فِتْنَة
 
-**The word occurs four times within four verses (47, 48, 49) and must be recorded:**
+**The word occurs four times within three verses (47, 48, 49) and must be recorded:**
 
 | Place | How *fitna* occurs |
 |---|---|
@@ -2471,7 +2471,7 @@ The word is the plural of *khālifa*: **those who stay behind.**
 
 ### The separating out of the excuse
 
-**Since the eighty-eighth verse the sūra had been relating those who stayed behind.** **The ninety-first verse separates out a section from within that same group** — and the measure of separation is given by **three concrete conditions**:
+**Since the eighty-first verse the sūra had been relating those who stayed behind.** **The ninety-first verse separates out a section from within that same group** — and the measure of separation is given by **three concrete conditions**:
 
 | Measure | Who |
 |---|---|
@@ -2778,7 +2778,7 @@ The root **خ-ل-ط**: **to mix.** **I record this as an observation:** the vers
 
 The root **و-ل-ي**: **to be near, to be adjacent.** *Walī*, *awlā*, *mawlā* are from the same root. ***Yalūnakum* — "those adjacent to you", that is, those nearest in respect of distance.**
 
-**I record this as my own reading, and its ground is the word itself:** the verse states an **order** — beginning from what is near. **And this is consistent with the line the sūra has kept from the start:** from the ninth verse onward the one addressed is **a determinate party that made a treaty and broke it**; the fourth verse of the sūra openly excepted those who did not break their treaty, and the sixth the one who seeks refuge.
+**I record this as my own reading, and its ground is the word itself:** the verse states an **order** — beginning from what is near. **And this is consistent with the line the sūra has kept from the start:** from the first verse onward the one addressed is **a determinate party that made a treaty and broke it**; the fourth verse of the sūra openly excepted those who did not break their treaty, and the sixth the one who seeks refuge.
 
 **غِلْظَة** — root **غ-ل-ظ**: **hardness, firmness, thickness.** **The root occurs in `009-tevbe.md` at 9/73 (*wa'ghluẓ ʿalayhim*) and in `003-al-i-imran.md` at 3/159 (*ghalīẓa'l-qalb*).**
 
@@ -2790,7 +2790,7 @@ The root **و-ل-ي**: **to be near, to be adjacent.** *Walī*, *awlā*, *mawlā
 
 **No present-day political or military conclusion is drawn from this verse.** The frame of the verse is **a state of mutual war** which the sūra itself relates; and the limits of that state were enumerated one by one in the first sixteen verses of the sūra (the excepting of the one who keeps his treaty, the protecting of the one who seeks refuge and his being brought to a place of safety, the answering in kind when peace is inclined to — treated in `008-enfal.md` at 8/61).
 
-**And the last sentence of the verse leaves a measure: *inna'llāha maʿa'l-muttaqīn*.** **The being-with, that is, is tied not to the fighting itself but to guarding oneself** — and *taqwā* is the word that has been repeated since the second verse of the sūra.
+**And the last sentence of the verse leaves a measure: *inna'llāha maʿa'l-muttaqīn*.** **The being-with, that is, is tied not to the fighting itself but to guarding oneself** — and *taqwā* is the word that has been repeated since the fourth verse of the sūra.
 
 ---
 

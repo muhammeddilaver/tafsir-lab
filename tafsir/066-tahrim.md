@@ -331,7 +331,7 @@ Kelimenin bu kökten gelmesi, yeminin **bedensel bir işlem** olarak düşünül
 
 Ve bu, *tehille* ile birleştiğinde tablo tamamlanıyor: **el tutuşur, düğüm atılır; sonra düğüm çözülür.** Bütün cümle iki elin hareketiyle anlatılmış durumda.
 
-**Not:** *Yemîn* kelimesinin Kur'an'da hem "sağ el/sağ taraf" hem "yemin" anlamında geçmesi, kökün bu ikiliğinin metinde canlı olduğunu gösterir. Bu sûrenin sekizinci ayetinde de *bi-eymânihim* geçecek — orada "sağ tarafları" anlamında. Aynı kök, dört ayet arayla iki farklı anlamla. Bunu bir kelime oyunu iddiası olarak değil, kökün canlılığının bir göstergesi olarak kaydediyorum.
+**Not:** *Yemîn* kelimesinin Kur'an'da hem "sağ el/sağ taraf" hem "yemin" anlamında geçmesi, kökün bu ikiliğinin metinde canlı olduğunu gösterir. Bu sûrenin sekizinci ayetinde de *bi-eymânihim* geçecek — orada "sağ tarafları" anlamında. Aynı kök, altı ayet arayla iki farklı anlamla. Bunu bir kelime oyunu iddiası olarak değil, kökün canlılığının bir göstergesi olarak kaydediyorum.
 
 ### Yeminin çözülmesi hakkında ne söylüyorum, ne söylemiyorum
 
@@ -706,7 +706,7 @@ Ve bu, sekizinci ayetle karşılaştırıldığında anlamlı hale geliyor. Orad
 
 ### تَابَ — tövbe
 
-**Kök ت و ب (t-v-b).** Bu kök `002-bakara.md` 2/37'de ele alındı ve oradaki tespitler tekrarlanmıyor. Bir cümleyle hatırlatıyorum: kökün anlamı **dönmek**tir, ve aynı kök hem kul hem Allah için kullanılır — kul *tâbe ilallâh* (Allah'a doğru döner), Allah *tâbe aleyh* (kulun üzerine yöneli). Orada kaydedilen asıl nokta şuydu: Allah'ın yönelişi kulun dönüşünden **önce** gelir; kul, kendisine zaten dönülmüş olduğu için dönebiliyor.
+**Kök ت و ب (t-v-b).** Bu kök `002-bakara.md` 2/37'de ele alındı ve oradaki tespitler tekrarlanmıyor. Bir cümleyle hatırlatıyorum: kökün anlamı **dönmek**tir, ve aynı kök hem kul hem Allah için kullanılır — kul *tâbe ilallâh* (Allah'a doğru döner), Allah *tâbe aleyh* (kulun üzerine yönelir). Orada kaydedilen asıl nokta şuydu: Allah'ın yönelişi kulun dönüşünden **önce** gelir; kul, kendisine zaten dönülmüş olduğu için dönebiliyor.
 
 **Burada yeni olan: harf-i cer.** Ayette *tetûbâ **ilallâh*** — "Allah'**a doğru**". Yani kulun yönü anlatılıyor, Allah'ın yönelişi değil. Sekizinci ayette de aynı harf gelecek: *tûbû ilallâh*.
 
@@ -1326,7 +1326,7 @@ Aynı fiil, aynı bab (*tef'îl*), iki farklı özne — ve tamamen zıt değerl
 
 Bunu bir gözlem olarak kaydediyorum. Kur'an'ın kelime ekonomisi hakkında birçok kez karşımıza çıkan bir olgunun örneği: aynı kök, konumuna göre değer değiştiriyor.
 
-**عَسَىٰ** — dördüncü ve beşinci ayetlerde işlendi: ümit bildirir, kesinlik değil.
+**عَسَىٰ** — beşinci ayette işlendi: ümit bildirir, kesinlik değil.
 
 Ve burada, dikkat çekici bir nokta var. Ayet tövbeyi **emrediyor** (*tûbû* — emir kipi), ama sonucu **kesinleştirmiyor** (*asâ* — umulur ki). Yani yükümlülük kesin, karşılık ümitli.
 
@@ -1514,7 +1514,7 @@ Burada cehennem için kullanılması, bir tezat üretiyor: sığınılacak yer o
 
 **وَبِئْسَ الْمَصِيرُ** — "ne kötü bir dönüş yeri!" **مَصِير**, kök **ص ي ر**: bir hale dönüşmek, bir sonuca varmak. *Masîr* — varılan yer, dönüşülen hal.
 
-Bu kalıp, komşu sûrelerde de tekrarlanır; Teğâbün sûresi de aynı ifadeyi kullanacak (64/10). İki sûre arasındaki lafzî akrabalıklardan biri.
+Bu kalıp, komşu sûrelerde de tekrarlanır; Teğâbün sûresi de aynı ifadeyi kullanmıştı (64/10). İki sûre arasındaki lafzî akrabalıklardan biri.
 
 ### Bugüne bakan yönü
 
@@ -1994,7 +1994,7 @@ Sûre, iki şeyi aynı anda kuruyor. Bir yanda **sorumluluk**: ev halkına karş
 - Sorumluluk olmadan sınır, umursamazlığa dönüşür.
 - Sınır olmadan sorumluluk, başkasının hayatını kendi hesabı sayan bir baskıya dönüşür.
 
-Sûre ikisini altı ayet arayla yan yana koyuyor ve arada bir uzlaştırma cümlesi kurmuyor. Okuyucudan ikisini birden taşıması bekleniyor gibi görünüyor.
+Sûre ikisini dört ayet arayla yan yana koyuyor ve arada bir uzlaştırma cümlesi kurmuyor. Okuyucudan ikisini birden taşıması bekleniyor gibi görünüyor.
 
 ---
 

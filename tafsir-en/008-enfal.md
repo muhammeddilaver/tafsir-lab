@@ -186,7 +186,7 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 | al-Baqara 2/285 | *Samiʿnā wa **aṭaʿnā*** | **Acceptance** |
 | **al-Anfāl 8/21** | *Samiʿnā* + *wa hum lā yasmaʿūn* | **Empty acceptance** |
 
-**This is a triad that can be verified across three sūras.** I record this as my own reading: **the state al-Anfāl describes does not stand somewhere between the two — it is less open than the first, but in terms of outcome it is close to it.**
+**This is a triad that can be verified across three verses.** I record this as my own reading: **the state al-Anfāl describes does not stand somewhere between the two — it is less open than the first, but in terms of outcome it is close to it.**
 
 **And in `041-fussilet.md` 41/4-5 (*fa-hum lā yasmaʿūn*) it was recorded that not hearing is the *consequence* of turning away;** I rely on that treatment.
 
@@ -228,25 +228,13 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 
 ---
 
-## 8/26 — وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ
-
-"**Remember when you were few, seen as weak in the land, fearing that people would snatch you away. Then He gave you shelter and strengthened you with His help.**"
-
-**يَتَخَطَّفَكُم** — **the root خ-ط-ف was treated in `029-ankebut.md` 29/67 and in `028-kasas.md` 28/57**, where two verses were tabulated (those around them are snatched away / they fear being snatched away). **This is the third link** — and **in al-Anfāl the same fear is mentioned in the *past tense*: as a state now past.**
-
-**مُّسْتَضْعَفُون** — **Form X: those who are seen as weak and made weak.** **The root was treated in detail in `028-kasas.md` 28/4-5**, where it was recorded: **weakness is not something that happens of itself, it is something *done*.** **I rely on that treatment.**
-
-**And the function of the verse is worth recording:** in the middle of the dispute over the spoils, the sūra makes **a reminder of the past**. **I give this as my own reading: at the point where what has been gained is being disputed, the time when that thing was not there at all is recalled.**
-
----
-
 ## 8/25-28 — وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً … يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓا۟ أَمَٰنَٰتِكُمْ وَأَنتُمْ تَعْلَمُونَ · وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ
 
 "**Guard yourselves against a trial that will not strike only those among you who do wrong**… **Do not betray God and the Messenger, and do not knowingly betray the trusts placed in you. And know that your possessions and your children are a trial.**"
 
 ### The two occurrences of the word فِتْنَة
 
-**The word occurs twice, four verses apart, and it states two different things:**
+**The word occurs twice, three verses apart, and it states two different things:**
 
 | Verse | What *fitna* is |
 |---|---|
@@ -255,7 +243,7 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 
 **The root ف-ت-ن was analysed in detail in `029-ankebut.md` 29/2-10** (the testing of gold in fire) **and in `018-kehf.md` 18/7 it was treated that what is on the earth is an instrument of testing.** **I rely on that treatment.**
 
-**And if the same expression (*innamā amwālukum wa awlādukum fitna*) occurs in `064-tegabun.md`, that place may be consulted as well.**
+**And the same expression (*innamā amwālukum wa awlādukum fitna*) occurs in `064-tegabun.md` as well; that place may be consulted too.**
 
 **I record this as my own reading:** the sūra had opened with a dispute about **spoils**. **The twenty-eighth verse names what is being disputed: what is in hand is not gain but trial.**
 
@@ -266,6 +254,18 @@ The sense of the root: **a surplus added to what is basic.** *Nāfila* — an ac
 **And the construction of the sentence must be recorded:** *lā takhūnu'llāha wa'r-rasūla **wa takhūnū amānātikum***. **Two betrayals in the same sentence, the second attached as though it were the consequence of the first.**
 
 **I record this as an observation:** the verse does not separate what is done against what is above from what is done against the trust held **among themselves**. **And the record *wa antum taʿlamūn* is added — that it is done knowingly.**
+
+---
+
+## 8/26 — وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ
+
+"**Remember when you were few, seen as weak in the land, fearing that people would snatch you away. Then He gave you shelter and strengthened you with His help.**"
+
+**يَتَخَطَّفَكُم** — **the root خ-ط-ف was treated in `029-ankebut.md` 29/67 and in `028-kasas.md` 28/57**, where two verses were tabulated (those around them are snatched away / they fear being snatched away). **This is the third link** — and **in al-Anfāl the same fear is mentioned in the *past tense*: as a state now past.**
+
+**مُّسْتَضْعَفُون** — **Form X: those who are seen as weak and made weak.** **The root was treated in detail in `028-kasas.md` 28/4-5**, where it was recorded: **weakness is not something that happens of itself, it is something *done*.** **I rely on that treatment.**
+
+**And the function of the verse is worth recording:** in the middle of the dispute over the spoils, the sūra makes **a reminder of the past**. **I give this as my own reading: at the point where what has been gained is being disputed, the time when that thing was not there at all is recalled.**
 
 ---
 
@@ -362,7 +362,7 @@ The lexicographers explain this idiom as **strength, ascendancy, affairs going w
 
 "**When Satan made their deeds seem fair to them and said: 'today no one among the people can overcome you, and I am beside you.' Then, when the two armies came face to face, he turned back upon his two heels and said: 'I am quit of you; I see what you do not see.'**"
 
-**زَيَّنَ** — **in many places in the index the verb had occurred in the passive** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *zuyyina*). **Here, however, the verb is active and its subject is named openly.**
+**زَيَّنَ** — **in many places in the index the verb had occurred in the passive** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *zuyyina*).
 
 **Here the verb is active and its subject is named openly: *zayyana lahumu'sh-shayṭān*.** **I record this difference: the same verb comes in one place without its agent stated, and in another with it stated.**
 

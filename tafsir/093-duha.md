@@ -49,7 +49,7 @@ Türevler bu çerçeveyi doğruluyor:
 - **ضَحْوَة (dahve)** — aynı vaktin daha erken kısmı.
 - **أَضْحَى (adhâ)** — kuşluk vaktine girmek. Arapçada bu fiil zamanla "olmak, o hale gelmek" anlamında nakıs fiil olarak da kullanılır — *asbaha* (sabahlamak → olmak) ile aynı gelişim.
 - **ٱلْأَضْحَى / أُضْحِيَّة** — Kurban Bayramı ve kurbanlık. Adlandırma vakittendir: kurban kuşluk vaktinde kesilir.
-- **ضَاحِيَة (dâhiye)** — bir yerleşimin dışa açık, güneş alan kenarı. Türkçedeki "banliyö" karşılığı olan modern kullanım da buradan gelir.
+- **ضَاحِيَة (dâhiye)** — bir yerleşimin dışa açık, güneş alan kenarı. Modern Arapçada "banliyö, kent kenarı" anlamındaki kullanım da buradan gelir.
 - **ضَحِيَ (dahiye)** — güneşe maruz kalmak, gölgesiz kalmak. Kur'an'da geçer: *"Orada susamazsın ve güneşte yanmazsın"* (Tâhâ 20/119).
 
 Son madde önemli, çünkü kökün "açıkta olma, örtüsüz kalma" boyutunu gösteriyor. *Duhâ*, sadece bir saat dilimi değil; her şeyin göründüğü, saklanacak gölgenin kalmadığı hâl.
@@ -645,7 +645,7 @@ Kelime yalnızca güç kullanmayı değil, **güç farkını** anlatır. Kahır,
 
 Bu kök Kur'an'da Allah'ın isimleri arasında geçer:
 
-- **ٱلْقَهَّار (el-Kahhâr)** — Yûsuf 12/39, Ra'd 13/16, Sâd 38/65, Zümer 39/4, Ğâfir 40/16.
+- **ٱلْقَهَّار (el-Kahhâr)** — Yûsuf 12/39, Ra'd 13/16, İbrâhîm 14/48, Sâd 38/65, Zümer 39/4, Ğâfir 40/16.
 - **ٱلْقَاهِر (el-Kâhir)** — *"O, kullarının üstünde mutlak hâkimdir"* (En'âm 6/18, 61).
 
 **Ve buradan çıkan nükte sûrenin en keskin yerlerinden biridir:** Kahhâr olan Allah, kuluna kahretmeyi yasaklıyor.

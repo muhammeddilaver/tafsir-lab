@@ -2468,7 +2468,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Bu terkip yirmi beşinci ayette Nûh için kullanılmıştı — birebir aynı iki kelimeyle:** *bihî cinne.* **Ve orada tablolandı.**
 
-**Buraya ait olan şudur:** dördüncü soru, sûrenin kendi anlattığı kıssadan alınmıştır. **Yani soru sorulurken kullanılan cümle, otuz beş ayet önce Nûh'un kavminin ağzından verilmişti.**
+**Buraya ait olan şudur:** dördüncü soru, sûrenin kendi anlattığı kıssadan alınmıştır. **Yani soru sorulurken kullanılan cümle, kırk beş ayet önce Nûh'un kavminin ağzından verilmişti.**
 
 ### بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 
@@ -3663,7 +3663,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Aynı sûre, aynı istek, iki ayrı zaman.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
-**Ve `035-fatir.md` 35/37'deki talep tam olarak bu ikincisiyle aynı kelimeyi kullanır:** *rabbenâ **ahricnâ** na'mel sâlihan.* **Doksan dokuzuncu ayette dört ayetlik tablo kurulmuştu;** bu ayet o tabloya beşinci satır olarak eklenir.
+**Ve `035-fatir.md` 35/37'deki talep tam olarak bu ikincisiyle aynı kelimeyi kullanır:** *rabbenâ **ahricnâ** na'mel sâlihan.* **Doksan dokuzuncu ayette üç ayetlik bir tablo kurulmuştu;** bu ayet o tabloya dördüncü sütun olarak eklenir.
 
 **Ve farkı kaydedilmelidir:** Fâtır'daki talep *na'mel sâlihan* (amel edelim) diyerek bir **gerekçe** sunuyordu. **Buradaki talep gerekçe sunmuyor** — onun yerine bir **taahhüt** veriyor: *fe-in udnâ fe-innâ zâlimûn.*
 

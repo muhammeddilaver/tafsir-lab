@@ -170,7 +170,7 @@ Bu kökün *îlâf* köküyle gizli bir akrabalığı var: ikisi de **tekrarla o
 
 ### رَبَّ هَٰذَا الْبَيْتِ — "bu Evin Rabbi"
 
-Sûrenin kalbi bu tamlamadadır ve içinde iki ayrı incelik vardır.
+Sûrenin kalbi bu tamlamadadır ve içinde üç ayrı incelik vardır.
 
 **Birincisi: Ev değil, Evin Rabbi.** Kureyş, Kâbe'ye zaten saygı gösteriyordu; kendilerini onun hizmetkârı sayıyor, ondan gelen itibarla yaşıyorlardı. Sûre onların bağlılığını reddetmiyor, **hedefini düzeltiyor**: yapıya değil, yapının Sahibine.
 

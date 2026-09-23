@@ -770,7 +770,7 @@ Two readings are transmitted for *rasūlun mubīn*, and both rest on the two bra
 
 **I record this as an observation:** the verse describes the rejection not as a sudden reaction but as **a stance taken after a while**. This strengthens the ground given in the thirteenth verse — the opportunity was not merely given, **there was also time to use it.**
 
-**The root ت-و-ل:** *tawallā ʿan* — to turn away from a thing, to turn one's back. The original sense of the root is **nearness and adjacency** (*walī*, *mawlā*); *tawallā* + *ʿan* is **the reversal of that nearness**. The root was treated in sections such as `002-bakara.md` and `092-leyl.md`.
+**The root و-ل-ي:** *tawallā ʿan* — to turn away from a thing, to turn one's back. The original sense of the root is **nearness and adjacency** (*walī*, *mawlā*); *tawallā* + *ʿan* is **the reversal of that nearness**. The root was treated in sections such as `002-bakara.md` and `092-leyl.md`.
 
 **And what is striking is this:** the same root will come back in the forty-first verse as *mawlā* — *"on that day no *mawlā* will avail a *mawlā* anything."* **What they turned away from and what will not avail on that day are from the same root.** I record this as an observation about the wording.
 
@@ -980,7 +980,7 @@ It may be seen thus:
 
 **The first work of the sentence is to establish a link: *qablahum* — "before them".**
 
-**The story, that is, enters not as a narrative but as a *parallel*.** In the thirteenth verse Mecca was told *"a manifest messenger came to you"*; in the seventeenth the people of Pharaoh are told *"a messenger came to them"*. **The same verb, the same structure.**
+**The story, that is, enters not as a narrative but as a *parallel*.** In the thirteenth verse Mecca was told *"a manifest messenger came to them"*; in the seventeenth the people of Pharaoh are told *"a messenger came to them"*. **The same verb, the same structure.**
 
 | Verse | Who | Expression |
 |---|---|---|
@@ -1487,7 +1487,7 @@ In the twenty-fourth verse *"they are an army to be drowned"* is said; the twent
 
 **And *kam khabariyya* has a feature: its specifier comes with *min*** — as indeed here: *min jannātin.*
 
-**The sentence, that is, gives no number; it reports a multitude.** And the withholding of the number is made up for by the length of the list: four items are enumerated.
+**The sentence, that is, gives no number; it reports a multitude.** And the withholding of the number is made up for by the length of the list: five items are enumerated.
 
 ### The list itself — a civilisation drawn in three words
 
@@ -2384,7 +2384,7 @@ The other party had advanced a claim of **impossibility** (35: we shall not be r
 
 **The word's other occurrences in the Qurʾān are worth recording, because it is always in the same company:**
 
-- *"A hoarder of wealth, an aggressor, **a sinner**"* — at al-Qalam 68/12, *muʿallā mannāʿin li'l-khayri muʿtadin **athīm***.
+- *"A hoarder of wealth, an aggressor, **a sinner**"* — at al-Qalam 68/12, *mannāʿin li'l-khayri muʿtadin **athīm***.
 - *"Every aggressor, **sinner**"* — at al-Muṭaffifīn 83/12, *kulli muʿtadin **athīm***.
 
 **In both places the word occurs together with *muʿtadī* (an aggressor, one who exceeds the bound).**
@@ -2731,7 +2731,7 @@ The other party had advanced a claim of **impossibility** (35: we shall not be r
 
 **I present this as my own reading and rely on the closing table of `056-vakia.md`.**
 
-### A link of method with `050-kaf.md`
+### A link of method with `054-kamer.md`
 
 **And one further link of method must be recorded.**
 

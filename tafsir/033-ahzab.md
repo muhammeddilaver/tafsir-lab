@@ -65,7 +65,7 @@ Zeyd bölümü (37) hakkında metnin söyledikleri:
 
 ### Kur'an'ın söylemedikleri
 
-**Yer adı olarak sûrede yalnızca *Yesrib* geçer (13)** — o da müminlerin değil, dönmeye çağıranların ağzından. "Hendek" kelimesi (*handak*, *hendek*) **Kur'an'da geçmez.** "Medine" adı bu sûrede iki kez geçer (60'ta *el-medîne*), ama kuşatma anlatısında değil.
+**Yer adı olarak sûrede yalnızca *Yesrib* geçer (13)** — o da müminlerin değil, dönmeye çağıranların ağzından. "Hendek" kelimesi (*handak*, *hendek*) **Kur'an'da geçmez.** "Medine" adı bu sûrede bir kez geçer (60'ta *el-medîne*), ama kuşatma anlatısında değil.
 
 Şunların hiçbiri metinde yoktur: kuşatmanın kaç gün sürdüğü; kazılan siperin varlığı, biçimi, kimin önerdiği; kuşatanların hangi kabileler olduğu; sayıları; komutanların adları; 26. ayette anılan grubun adı; kuşatmanın hangi yılda olduğu; kaç kişinin öldüğü; 23. ayetteki "sözünü yerine getirenler"in kimler olduğu.
 
@@ -185,7 +185,7 @@ Nitekim emrin hemen ardından ne geldiğine bakmak yeter: *"kâfirlere ve münaf
 
 **Ve bu, yasağın niçin bu fiille kurulduğunu açıklıyor.** Ayet "onların dediğini yapma" demiyor; "onlara **gönüllü uyma**" diyor. Yani yasaklanan şey zorla yaptırılan bir şey değil; kişinin kendi rızasıyla girdiği bir hizalanma.
 
-**Ve *lâ tutı'* emri sûrede iki kez geçer:** burada (1) ve kırk sekizinci ayette. İkisi arasında yirmi yedi ayetlik kuşatma bölümü ve on dokuz ayetlik ev bölümü vardır. **Yani sûre, aynı emri iki ucundan tekrarlayarak aradaki bütün bölümleri çerçeveliyor.** Kırk sekizinci ayette emre bir ek yapılacak: *ve da' ezâhüm* — "eziyetlerine aldırma."
+**Ve *lâ tutı'* emri sûrede iki kez geçer:** burada (1) ve kırk sekizinci ayette. İkisi arasında on dokuz ayetlik kuşatma bölümü ve yedi ayetlik ev bölümü vardır. **Yani sûre, aynı emri iki ucundan tekrarlayarak aradaki bütün bölümleri çerçeveliyor.** Kırk sekizinci ayette emre bir ek yapılacak: *ve da' ezâhüm* — "eziyetlerine aldırma."
 
 ### Kâfirler ve münafıklar yan yana
 
@@ -889,7 +889,7 @@ Bunu kendi okumam olarak kaydediyorum: **Kur'an, sıkıntı anındaki iç bocala
 
 ### Kısa ayet, blok başlığı
 
-Sekiz kelimelik bir ayet, ama önceki ayetin bütün tasvirini **tek bir adla** kapatıyor: bu bir *ibtilâ*ydı.
+Altı kelimelik bir ayet, ama önceki ayetin bütün tasvirini **tek bir adla** kapatıyor: bu bir *ibtilâ*ydı.
 
 ### هُنَالِكَ — "işte orada"
 
@@ -1046,7 +1046,7 @@ Kaynaklarda, kuşatma öncesinde ve sırasında bir zafer ya da genişleme vaadi
 | **Ne dedi** | *mâ vaadena'llâhu… illâ ğurûrâ* | *hâzâ mâ vaadena'llâhu ve rasûlüh* |
 | **Sonuç** | — | *ve mâ zâdehüm illâ îmânen ve teslîmâ* |
 
-**Bu, sûrenin kurduğu en net karşıtlıktır ve bütün kuşatma bölümünün omurgasıdır.** İki ayet arasındaki on ayet, bu iki cümlenin arasını dolduruyor.
+**Bu, sûrenin kurduğu en net karşıtlıktır ve bütün kuşatma bölümünün omurgasıdır.** İki ayet arasındaki dokuz ayet, bu iki cümlenin arasını dolduruyor.
 
 **Ve kaydedilmesi gereken şey şudur: ayrım, bilgide değil.** İki taraf da aynı şeyi biliyor, aynı manzarayı görüyor, aynı tehlikeyi yaşıyor. Ayrım, **aynı veriden çıkarılan sonuçta.**
 
@@ -1576,7 +1576,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı *bâdûne* (uzakta) ile *yes'e
 
 Yine bir *lev* (gerçekleşmemiş şart) cümlesi ve yine bir *illâ kalîlâ*.
 
-**Bu ifade sûrenin bu bölümünde üçüncü kez geçiyor:**
+**Bu ifade sûrenin bu bölümünde dördüncü kez geçiyor:**
 
 | Ayet | Terkip | Ne az |
 |---|---|---|
@@ -1783,7 +1783,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı ر-أ-ي ve ب-ص-ر köklerin
 
 Orada kaydedilen: iman artar mı sorusu kelam tarihinin en eski tartışmalarından biridir; iki görüş ve dayanakları tablo hâlinde verilmiş, taraf tutulmamış, ve meselenin bir **tanım farkından** doğduğu kaydedilmiştir.
 
-**Orada bu ayet hakkında ayrıca şu tespit yapılmıştı ve buraya taşıyorum:** *"Artışı tetikleyen şeylerin bir kısmı iyi haber, bir kısmı kötü haberdir. Ahzâb 33/22'de artışa sebep olan şey doğrudan bir tehdittir."*
+**Orada bu ayet hakkında ayrıca şu tespit yapılmıştı ve buraya taşıyorum:** *"Artışı tetikleyen şeylerin bir kısmı iyi haber, bir kısmı kötü haberdir. Ahzâb 33/22 ve Âl-i İmrân 3/173'te artışa sebep olan şey doğrudan bir tehdittir. Bunu bir gözlem olarak kaydediyorum: Kur'an'ın tarif ettiği artış, şartların iyileşmesine bağlı değil."*
 
 **Cümlenin özneleri üzerinde bir dil notu:** *mâ zâdehüm* — fiilin faili söylenmemiş; en açık okuyuşa göre fail, bir önceki cümlede görülen şeydir (*el-ahzâb* ya da genel olarak manzara). Yani **artışı üreten şey, tehdidin kendisi.**
 
@@ -2298,15 +2298,15 @@ Bu iki nükteyi kendi okumam olarak kaydediyorum.
 
 **جَمِيل — kök ج-م-ل.** Güzel. Ve kökün dikkat çekici bir yanı var: *cemel* — deve; *cümle* — toplam. Dilciler *cemâl*i "bir şeyin bütününün uyumu" olarak açıklar.
 
-**Terkip Kur'an'da üç kez geçer ve üçünde de zor bir durumu nitelendirir:**
+**Terkip Kur'an'da yedi yerde geçer ve hepsinde zor bir durumu nitelendirir:**
 
 | Yer | Terkip | Ne |
 |---|---|---|
 | **Hicr 15/85** | *fa'sfahi's-safha'l-cemîl* | Güzellikle bağışlama |
-| **Meâric 70/5** | *fa'sbir sabran cemîlâ* | Güzel sabır — `070-mearic.md`'de işlendi |
-| **Ahzâb 33/28, 49** | *serâhan cemîlâ* | Güzellikle salıverme |
+| **Yûsuf 12/18, 83; Meâric 70/5** | *sabrun / sabran cemîl* | Güzel sabır — `070-mearic.md`'de işlendi |
+| **Ahzâb 33/28, 49; Müzzemmil 73/10** | *serâhan / hecran cemîlâ* | Güzellikle salıverme, güzel ayrılış |
 
-**Ve üçünde de *cemîl* sıfatı, bir şeyin *nasıl* yapılacağını belirtiyor** — ne yapılacağını değil.
+**Ve hepsinde *cemîl* sıfatı, bir şeyin *nasıl* yapılacağını belirtiyor** — ne yapılacağını değil.
 
 **Bu, kaydedilmeye değer bir ölçüdür ve kendi okumam olarak veriyorum:** ayrılık, ayetin öngördüğü bir ihtimaldir ve yasaklanmamıştır. **Düzenlenen şey, ayrılığın kendisi değil, biçimi.** Bir ilişkinin bitmesi ile kötü bitmesi ayrı şeylerdir; ayet ikincisini kaldırıyor.
 
@@ -2366,7 +2366,7 @@ Yirmi sekizinci ayette hitap Peygamber'e idi (*kul li-ezvâcike*). **Otuzuncu ay
 
 **Bu bir metin verisidir ve kaydediyorum.** *Ezvâc* kelimesi eşlik/çiftlik bağını, *nisâ* ise kadın olmayı öne çıkarır. **Ve *en-nebiyy* (görev adı) tamlamada kullanılıyor** — yani hitap, kişisel bir bağa değil, bir göreve nispetle kuruluyor.
 
-**Terkip bu blokta üç kez geçecek: 30, 32, ve 59'da *ezvâcike* olarak dönecek.**
+**Terkip bu blokta iki kez geçecek: 30 ve 32; 59'da *ezvâcike* olarak dönecek.**
 
 ### بِفَٰحِشَةٍ مُّبَيِّنَةٍ — nitelik kaydı
 
@@ -2384,7 +2384,7 @@ Yirmi sekizinci ayette hitap Peygamber'e idi (*kul li-ezvâcike*). **Otuzuncu ay
 
 *Kunût*, dilcilerin kaydettiği tanımla: **sürekli ve sessiz bir itaat hâli; bir işte devamlı durmak.** Kelime hem itaat, hem huşû, hem uzun süre ayakta durmak anlamlarına gelir.
 
-**Kur'an kelimeyi dikkat çekici yerlerde kullanır:** *"Göklerde ve yerde olanların hepsi O'na *kānit*tir"* (Bakara 2/116); *"Meryem, Rabbine *kānite* oldu"* (Tahrîm 66/12).
+**Kur'an kelimeyi dikkat çekici yerlerde kullanır:** *"Göklerde ve yerde olanların hepsi O'na *kānit*tir"* (Bakara 2/116); *"Meryem, *kānit* olanlardandı"* (Tahrîm 66/12).
 
 **Ve kelimenin bu ayette *taat* (ط-و-ع) yerine seçilmesi kayda değer.** Sûrenin birinci ayetinde *lâ tutı'* (itaat etme) kullanılmıştı. Burada *kunût* var.
 
@@ -2439,7 +2439,7 @@ Bu iki ayetin söylediği en açık şey budur. Bir kişinin bulunduğu yer gör
 
 **Ve bu, ayetin en önemli dizim olgusudur:** ayrım, konumdan değil, **davranıştan** geliyor. Konum verilmiş, ama farkı üreten şey takvâ.
 
-**`112-ihlas.md`'de *ehad* kelimesi işlenirken tam bu ayet örnek olarak verilmişti:** *"Olumlu cümlede geçtiği yerlerde ise neredeyse daima bir tamlama içindedir: 'siz kadınlardan herhangi biri gibi değilsiniz' (Ahzâb 33/32)."* Oraya dayanıyorum.
+**`112-ihlas.md`'de *ehad* kelimesi işlenirken tam bu ayet örnek olarak verilmişti:** *"Olumlu cümlede geçtiği yerlerde ise neredeyse daima bir tamlama içindedir: 'ikisinden biri dedi ki' (Yûsuf 12/36), 'siz kadınlardan herhangi biri gibi değilsiniz' (Ahzâb 33/32)."* Oraya dayanıyorum.
 
 **أَحَد — "herhangi biri".** Kelime bir belirsizlik taşıyor: cümle "falanca kadınlar gibi değilsiniz" demiyor; **"herhangi biri gibi"** diyor. Yani karşılaştırma bir kişiyle değil, bir **kategoriyle** yapılıyor.
 
@@ -2713,9 +2713,9 @@ Bunu kendi okumam olarak kaydediyorum ve hiçbir tarafın lehine ya da aleyhine 
 
 **28-34 bloğu burada bitiyor ve kapanış bir emirle yapılıyor: *ve'zkürne*.**
 
-**ذ-ك-ر kökü** bu sûrede önemli bir yer tutar: 21 (*zekera'llâhe kesîrâ*), 34 (burada), 35 (*ez-zâkirîne'llâhe kesîran ve'z-zâkirât*), 41 (*üzkürû'llâhe zikran kesîrâ*).
+**ذ-ك-ر kökü** bu sûrede önemli bir yer tutar: 9 (*üzkürû ni'meta'llâh*), 21 (*zekera'llâhe kesîrâ*), 34 (burada), 35 (*ez-zâkirîne'llâhe kesîran ve'z-zâkirât*), 41 (*üzkürû'llâhe zikran kesîrâ*).
 
-**Ve dördü de aynı blok grubunda toplanıyor.** Sûre, örneklik şartından (21) genel emre (41) kadar zikri tekrarlıyor.
+**Ve beşi de aynı blok grubunda toplanıyor.** Sûre, örneklik şartından (21) genel emre (41) kadar zikri tekrarlıyor.
 
 ### مَا يُتْلَىٰ فِى بُيُوتِكُنَّ — "evlerinizde okunan"
 
@@ -3172,7 +3172,7 @@ Bunu kendi okumam olarak kaydediyorum.
 
 **`048-fetih.md`'de bu kavram ayrıntılı işlendi (48/23) ve orada bu sûrenin 62. ayeti de tabloya alınmıştı. Oraya dayanıyorum.**
 
-**Orada kaydedilen ve burada tekrarlanması gereken kayıt:** *"Sünnetullah kavramının çağdaş olaylara uygulanmasına girilmedi; kavramın geçmişi anlamak için bir ölçü olduğu, bugünü yargılamak için bir yetki olmadığı kaydedildi."*
+**Orada kaydedilen ve burada tekrarlanması gereken kayıt:** *"Sünnetullah kavramının çağdaş olaylara uygulanmasına girilmedi; kavramın geçmişi anlamak için bir ölçü olduğu, bugünü yargılamak için bir yetki olmadığı kendi değerlendirmem olarak kaydedildi. Güncel siyasete girilmedi."*
 
 **Bu sûrede *sünnetullah* iki kez geçiyor:**
 
@@ -3223,7 +3223,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı iki geçişin de aynı konumda
 
 ### وَكَفَىٰ بِٱللَّهِ حَسِيبًا — fasıla
 
-**كَفَىٰ بِـ kalıbı** bu sûrede üçüncü kez (3, 25, 39).
+**كَفَىٰ بِـ kalıbı** bu sûrede ikinci kez (3, 39).
 
 **حَسِيب — kök ح-س-ب.** Saymak, hesap etmek. **Yirminci ayette *yahsebûne* olarak geçmişti** — orada bir yanlış hesap, burada hesabı gören.
 
@@ -3406,7 +3406,7 @@ Bunu kendi okumam olarak kaydediyorum.
 
 **Kökün "yüzmek"ten "tenzih etmek"e nasıl geçtiği üzerinde dilciler durur:** *tesbîh*, bir şeyi kendisine yakışmayandan **uzaklaştırmak**tır — yüzen kişinin sudan geçip uzaklaşması gibi.
 
-**بُكْرَة وَأَصِيل** — sabah ve akşam. **`048-fetih.md`'de bu çift kaydedilmişti** ve orada bu ayet örnek gösterilmişti: *"Kur'an aynı çifti birkaç yerde kullanır: 'O'nu sabah akşam tesbih edin' (Ahzâb 33/42)."* Oraya dayanıyorum.
+**بُكْرَة وَأَصِيل** — sabah ve akşam. **`048-fetih.md`'de bu çift kaydedilmişti** ve orada bu ayet örnek gösterilmişti: *"Kur'an aynı çifti birkaç yerde kullanır: 'O'nu sabah akşam tesbih edin' (Ahzâb 33/42); 'Sabah akşam Rablerine dua edenleri kovma' (En'âm 6/52)."* Oraya dayanıyorum.
 
 **أَصِيل — kök أ-ص-ل.** *Asl* — kök, temel. *Asîl* — günün sonu, ikindiden akşama kadarki vakit. **Kelimenin "kök" anlamıyla "gün sonu" anlamı arasındaki bağı dilciler kesin biçimde kurmaz; kaydediyorum ama üzerine anlam kurmuyorum.**
 
@@ -3514,7 +3514,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı kökün sûredeki dört geçi�
 
 **Kök: س-ر-ج.** Kandil, ışık veren şey.
 
-**`071-nuh.md`'de bu kelime işlendi** ve orada kaydedilen tespit buraya taşınmaya değer: *"Kur'an *sirâc* kelimesini Peygamber için de kullanır — 'aydınlatan bir kandil' (*sirâcen münîrâ*, Ahzâb 33/46). Orada elbette yanan bir cisim kastedilmiyor. Kelime, fizikî bir mekanizmayı değil kaynak olma işlevini anlatıyor."*
+**`071-nuh.md`'de bu kelime işlendi** ve orada kaydedilen tespit buraya taşınmaya değer: *"Kur'an *sirâc* kelimesini Peygamber için de kullanır — 'aydınlatan bir kandil' (*sirâcen münîrâ*, Ahzâb 33/46). Orada elbette yanan bir cisim kastedilmiyor. Kelime, fizikî bir mekanizmayı değil kaynak olma işlevini anlatıyor. Aynı kelimenin güneş için kullanılması da öncelikle bunu anlatır: ışık ondan gelir."*
 
 **Kur'an kelimeyi güneş için de kullanır** (Nûh 71/16; Furkān 25/61; Nebe 78/13 — orada *sirâcen vehhâcâ*).
 
@@ -3569,7 +3569,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı fiilin seçimidir.
 | **28** | Peygamber'in eşlerine sunulan seçenek | *üserrihkünne serâhan cemîlâ* |
 | **49** | Bütün müminlere emir | *serrihûhünne serâhan cemîlâ* |
 
-**Aynı terkip, biri teklif biri emir.** Ve ikisi arasında yirmi bir ayet var.
+**Aynı terkip, biri teklif biri emir.** Ve ikisi arasında yirmi ayet var.
 
 **Bu, sûrenin bir yöntemidir ve kaydediyorum:** özel bir durumda uygulanan ölçü, sonra genel bir emir olarak tekrarlanıyor. **Sûre, Peygamber'in evinde kurulan ölçüyü herkese açıyor.**
 
@@ -3730,7 +3730,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı kalıbın iki ayette de aynı 
 
 ### وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ
 
-**Ve yine *kalp*.** Sûrede kelimenin geçtiği yerler: 4, 10, 12, 26, 32, 51, 53.
+**Ve yine *kalp*.** Sûrede kelimenin geçtiği yerler: 4, 10, 12, 26, 32, 51, 53, 60.
 
 **Ve buradaki geçiş kayda değer:** zamir **eril çoğul** (*kulûbiküm*) — yani hitap yalnız kadınlara değil, herkese.
 
@@ -4064,7 +4064,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı listenin nesep esaslı olması
 | Özne | Salâtın karşılığı | Dayanağı |
 |---|---|---|
 | **Allah** | Rahmet, övgü, yüceltme; melekler nezdinde anma | Kelimenin fâilinin durumu; Ahzâb 33/43'te müminler için aynı fiilin kullanılıp gerekçesinin *li-yuhriceküm mine'z-zulümâti ile'n-nûr* olarak verilmesi |
-| **Melekler** | Dua, istiğfar, bağışlanma dileme | Kur'an'da meleklerin müminler için istiğfar ettiğinin bildirilmesi (Mü'min 40/7; Şûrâ 42/5) |
+| **Melekler** | Dua, istiğfar, bağışlanma dileme | Kur'an'da meleklerin müminler için istiğfar ettiğinin bildirilmesi (Gāfir 40/7; Şûrâ 42/5) |
 | **İnsanlar** | Dua, salât ve selâm getirme | Ayetin emri: *sallû aleyhi ve sellimû* |
 
 **Bu ayrım, klasik tefsirde yaygın olarak kaydedilir.** Ve dilde bir karşılığı vardır: **aynı fiil, failin durumuna göre farklı bir içerik alır.**
@@ -4093,7 +4093,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı iki cümlenin sırasıdır.
 
 **Ve yirmi ikinci ayetle bağ kaydedilmeye değer:** orada da *teslîm* kelimesi aynı mef'ûl-i mutlak kalıbında değildi ama aynı kökten geliyordu ve müminlerin kuşatma karşısındaki tepkisini adlandırıyordu (*mâ zâdehüm illâ îmânen ve teslîmâ*).
 
-**İki ayet arasında otuz dört ayet var ve ikisi de aynı kökü kullanıyor.** Kaydediyorum.
+**İki ayet arasında otuz üç ayet var ve ikisi de aynı kökü kullanıyor.** Kaydediyorum.
 
 ### İki ayetin karşılaştırılması
 
@@ -4242,7 +4242,7 @@ Bunu bir metin verisi olarak kaydediyorum.
 
 **Yakın olmak. Ve if'âl babında (*ednâ*) "yaklaştırmak, sarkıtmak, üzerine salmak".**
 
-**Ve bu kök sûrede üçüncü kez geçiyor:** *ednâ* (51), *ednâ* (59'un ikinci yarısında), ve burada *yüdnîne*. **Ayrıca *dünyâ* kelimesi de aynı kökten (28).**
+**Ve bu kök sûrede dördüncü kez geçiyor:** *ednâ* (51), *ednâ* (59'un ikinci yarısında), ve burada *yüdnîne*. **Ayrıca *dünyâ* kelimesi de aynı kökten (28).**
 
 **Ve ayetin içinde kök iki kez geçiyor:** *yüdnîne* (fiil) ve *ednâ* (ism-i tafdîl). **Aynı kökten iki kelime, biri emri biri gerekçeyi taşıyor.**
 
@@ -4446,7 +4446,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı iki kökün somut anlamların�
 
 **Kelimeler:**
 
-**ثُقِفُوٓا۟ — kök ث-ق-ف.** Ve kökün anlamı ilginçtir: *sekıfe* — bir şeyi bulup yakalamak; ve ayrıca **eğri bir şeyi doğrultmak** (mızrağın doğrultulması: *tesk*î*f*). *Sakīf* — zeki, kavrayışlı.
+**ثُقِفُوٓا۟ — kök ث-ق-ف.** Ve kökün anlamı ilginçtir: *sekıfe* — bir şeyi bulup yakalamak; ve ayrıca **eğri bir şeyi doğrultmak** (mızrağın doğrultulması: *teskîf*). *Sakīf* — zeki, kavrayışlı.
 
 **Kur'an kökü birkaç yerde kullanır:** *"Onları nerede yakalarsanız…"* (Bakara 2/191).
 
@@ -4491,7 +4491,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı iki kökün somut anlamların�
 
 **`090-beled.md`'de kaydedilen tespit burada birebir işliyor:**
 
-> *"Kur'an'da tutarlı bir ayrım: **مَا أَدْرَاكَ** (sana ne bildirdi — geçmiş zaman) kalıbı, arkasından **açıklama gelen** yerlerde kullanılır. **مَا يُدْرِيكَ** (sana ne bildirir — geniş zaman) kalıbı ise arkasından **açıklama gelmeyen**, bilginin insana kapalı bırakıldığı yerlerde kullanılır (örneğin kıyamet vakti hakkında: Ahzâb 33/63)."*
+> *"Kur'an'da tutarlı bir ayrım: **مَا أَدْرَاكَ** (sana ne bildirdi — geçmiş zaman) kalıbı, arkasından **açıklama gelen** yerlerde kullanılır. **مَا يُدْرِيكَ** (sana ne bildirir — geniş zaman) kalıbı ise arkasından **açıklama gelmeyen**, bilginin insana kapalı bırakıldığı yerlerde kullanılır (örneğin kıyamet vakti hakkında: Ahzâb 33/63, 'Sana ne bildirir? Belki de kıyamet yakındır')."*
 
 **Bu ayet, o kuralın örneklerinden biridir ve kural burada doğrulanıyor:** kalıp *mâ yüdrîke*dir ve arkasından bir açıklama gelmiyor — bir ihtimal geliyor: *lealle's-sâate tekûnü karîbâ.*
 
@@ -4618,7 +4618,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı ifadenin iki geçişinin de bi
 
 **Ve ayet bu mazereti kabul etmiyor. Sebebini de cümlenin kendi fiili söylüyor:** *eta'nâ* — **biz itaat ettik.**
 
-**`037-saffat.md`'de benzer bir sahne için kaydedilen tespit burada da geçerlidir:** *"Bu, bir savunma değil bir eşitlemedir. Karşı taraf 'siz beni saptırdınız' diyordu; cevap 'evet, ama biz de sapmıştık' oluyor. Yani suç kabul ediliyor ama fark ortadan kaldırılmıyor."*
+**`037-saffat.md`'de benzer bir sahne için kaydedilen tespit burada da geçerlidir:** *"Bu, bir savunma değil bir eşitlemedir. Karşı taraf 'siz beni saptırdınız' diyordu; cevap 'evet, ama biz de sapmıştık' oluyor. Yani suç kabul ediliyor ama fark ortadan kaldırılıyor."*
 
 **Ahzâb'da bir adım daha var:** burada karşı tarafın cevabı verilmiyor. **Cümle tek taraflı kalıyor ve kendi içinde çürüyor.**
 
@@ -4987,7 +4987,7 @@ Bunu kendi okumam olarak kaydediyorum; dayanağı kökün "incelme" anlamı ve K
 
 **Sûre, ağızda kalan bir sözle açılıp sırtta taşınan bir yükle kapanıyor.**
 
-**Ve arasındaki yetmiş ayet, bu iki uç arasındaki mesafeyi anlatıyor:** verilen söz (7, 15), tutulan söz (23), bozulan söz (26), söylenen mazeret (13), söylenen iftira (58), sağlam söz (70).
+**Ve arasındaki altmış yedi ayet, bu iki uç arasındaki mesafeyi anlatıyor:** verilen söz (7, 15), tutulan söz (23), bozulan söz (26), söylenen mazeret (13), söylenen iftira (58), sağlam söz (70).
 
 Bunu kendi okumam olarak kaydediyorum; dayanağı iki ayetin sûrenin iki ucunda durması ve ikisinin de bir "taşıma" meselesi kurmasıdır.
 
@@ -5149,7 +5149,7 @@ Anlatılanlar: bir rüzgâr, gözlerin hâli, yüreklerin hâli, zanlar, söylen
 | **د-ع-و** | 4 (*ed'ıyâ*), 5 (*üd'ûhüm*), 46 (*dâıyen ilallâh*) | Çağrının yönü iki kez düzeltiliyor |
 | **ظ-ه-ر** | 4 (*tuzâhirûne* — zıhâr), 26 (*zâherûhüm* — destek) | Aynı kök, iki bambaşka anlam; ikisini birleştiren *sırt* |
 | **و-ل-ي** | 5 (*mevâlî*), 6 (*evlâ*), 15 (*yüvellûne'l-edbâr*), 17 (*veliyy*) | Yakınlık ve sırt çevirme — kökün iki yönü |
-| **ق-ل-ب** | 4, 10, 12, 26, 32, 51, 53, 66 | Kalple açılıp yüzün çevrilmesiyle kapanıyor |
+| **ق-ل-ب** | 4, 10, 12, 26, 32, 51, 53, 60, 66 | Kalple açılıp yüzün çevrilmesiyle kapanıyor |
 | **س-ل-م** | 22 (*teslîm*), 35 (*müslimîn*), 44 (*selâm*), 56 (*sellimû*) | Hâlden vasfa, vasıftan karşılığa |
 | **ص-د-ق** | 8, 22, 23, 24, 35 | Sorulan sadâkat, karşılık gören sadâkat |
 | **أ-ذ-ي** | 48, 53 (iki kez), 57, 58, 59, 69 | Yedi geçiş: eziyetin bütün yönleri |

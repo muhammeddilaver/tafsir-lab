@@ -225,12 +225,12 @@ Cümle beş kıssada birer kez giriş kalıbının içinde geçiyor; **üç kıs
 
 **Ve *mübîn* ism-i fâildir**, yani "açıklanmış" değil **"açıklayan"**. Bu ayrım burada anlamlıdır: kitap yalnız anlaşılır değil, **anlaşılır kılandır.**
 
-**Sûre içi bağ:** aynı kelime sûrede dört kez daha geçer:
+**Sûre içi bağ:** aynı kelime sûrede beş kez daha geçer:
 
 | Ayet | Terkip | Neyi niteliyor |
 |---|---|---|
 | **2** | *el-kitâbi'l-mübîn* | **Kitap** |
-| **32** | *sü'bânün mübîn* | Asânın dönüştüğü şey |
+| **30, 32** | *şey'in mübîn*, *sü'bânün mübîn* | Mûsâ'nın getireceği delil, asânın dönüştüğü şey |
 | **97** | *dalâlin mübîn* | Sapkınlık |
 | **115** | *nezîrun mübîn* | Nûh'un kendisi |
 | **195** | *lisânin arabiyyin mübîn* | **Dil** |
@@ -708,7 +708,7 @@ Oradaki tarif: **زَوْج**, "çift" değil **"çiftin bir teki"**dir. Yani e�
 | **İkisinin mesajı tektir** | İki elçi, tek bir elçilik taşıyor |
 | **Arapçada *rasûl* hem tekil hem çoğul olabilir** | Dilciler *fa'ûl* vezninin bu özelliğini kaydeder (*aduvv* gibi) |
 
-**Kur'an'ın kendi kullanımı ilk izahı destekliyor:** *fe-inne aleyke la'netî* değil ama Tâhâ 20/47'de aynı olay için *innâ **rasûlâ** rabbike* (ikil) denir. **Yani aynı sahne iki sûrede iki ayrı kalıpla veriliyor: Şuarâ'da tekil, Tâhâ'da ikil.** Bu, metinden doğrulanabilir bir farktır ve izah gerektirir; nakledilen izahları yukarıda verdim, tercih dayatmıyorum.
+**Kur'an'ın kendi kullanımı burada ikinci bir kalıp gösteriyor:** *fe-inne aleyke la'netî* değil ama Tâhâ 20/47'de aynı olay için *innâ **rasûlâ** rabbike* (ikil) denir. **Yani aynı sahne iki sûrede iki ayrı kalıpla veriliyor: Şuarâ'da tekil, Tâhâ'da ikil.** Bu, metinden doğrulanabilir bir farktır ve izah gerektirir; nakledilen izahları yukarıda verdim, tercih dayatmıyorum.
 
 ### أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ — talebin tek cümlelik olması
 
@@ -1150,8 +1150,8 @@ Fir'avn *"seni hapsederim"* (*le-escünenneke*) demiyor. **"Seni zindana atılan
 
 | Kök | Anlam | Cümlenin anlamı |
 |---|---|---|
-| **ر-ج-و / ر-ج-أ** (*ercâ*) | Ertelemek, geciktirmek | **"Onu beklet"** — hüküm verme, oyala |
-| **ر-ج-و** (*ircâ*, tehir) | Alıkoymak | **"Onu tut"** |
+| **ر-ج-أ** (*ercâ*) | Ertelemek, geciktirmek | **"Onu beklet"** — hüküm verme, oyala |
+| **ر-ج-و** (*ircâ*, alıkoyma) | Alıkoymak | **"Onu tut"** |
 
 **İki okuma da "hemen bir şey yapma" yönünde birleşiyor.** Kelimede kıraat farkları da nakledilmiştir (*ercih*, *ercihi*, *erci'hü*); **bunlar telaffuz farklarıdır ve anlamı değiştirmez, bu yüzden ayrıntısına girmiyorum.**
 
@@ -1259,9 +1259,9 @@ Fir'avn *"seni hapsederim"* (*le-escünenneke*) demiyor. **"Seni zindana atılan
 
 "Mûsâ onlara dedi ki: '**Atacağınızı atın!**' · **İpleri ve değneklerini attılar ve dediler ki: 'Fir'avn'ın izzeti hakkı için üstün gelen elbette biziz!'** · Sonra Mûsâ asâsını attı; **bir de baktılar, uydurduklarını yutuyor!** · Bunun üzerine **sihirbazlar secdeye kapandılar.** · Dediler ki: '**Âlemlerin Rabbine iman ettik — Mûsâ ile Hârûn'un Rabbine.**' · [Fir'avn] dedi ki: '**Ben size izin vermeden ona inandınız ha!… Ellerinizi ve ayaklarınızı çaprazlama keseceğim, hepinizi asacağım!**'"
 
-### ل-ق-ي / ل-ق-ف — yedi ayette dokuz atış
+### ل-ق-ي / ل-ق-ف — yedi ayette altı atış
 
-**Bu bölümün en açık dizim verisi, tek bir kökün tekrarıdır. ل-ق-ي kökü (atmak) yedi ayette altı kez, akrabası ل-ق-ف bir kez geçiyor:**
+**Bu bölümün en açık dizim verisi, tek bir kökün tekrarıdır. ل-ق-ي kökü (atmak) yedi ayette beş kez, akrabası ل-ق-ف bir kez geçiyor:**
 
 | Ayet | Kelime | Kim atıyor | Kip |
 |---|---|---|---|
@@ -2515,7 +2515,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve `028-kasas.md` 28/56'da tablolanan sınır listesi, bu ayetle de akrabadır.** Oradaki kayda dayanıyorum.
 
-**مُّبِين** — sûrede beş kez geçen kelime; tahlili 26/1-2'de yapıldı ve tablolandı. **Burada *nezîr*i nitelemesi kaydedilmelidir: uyarı, gizli ya da kapalı değil — *açıklayan* bir uyarı.**
+**مُّبِين** — sûrede altı kez geçen kelime; tahlili 26/1-2'de yapıldı ve tablolandı. **Burada *nezîr*i nitelemesi kaydedilmelidir: uyarı, gizli ya da kapalı değil — *açıklayan* bir uyarı.**
 
 ---
 
@@ -2992,7 +2992,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Ve burada, beş kıssada tekrarlanan *ve etîûn* ("bana uyun") emrinin karşısına bir yasak konuyor: *ve lâ tutîû emre'l-müsrifîn*.**
 
-**Aynı kök (ط-و-ع), iki ayet arayla, biri emir biri yasak.**
+**Aynı kök (ط-و-ع), bitişik iki ayette, biri emir biri yasak.**
 
 | Ayet | İfade | Kime |
 |---|---|---|
@@ -3430,7 +3430,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **Bu, metinden doğrulanabilir bir örtüşmedir.** Ve fark anlamlıdır: **Âd'a nimet, Eyke'ye varlık hatırlatılıyor.**
 
-**Ve yetmiş altıncı ayetle bağ kurulabilir:** İbrâhim de atalar deliline karşılık *ve âbâükümü'l-**akdemûn*** demişti. **Sûre üç yerde "öncekiler"e uzanıyor: 76 (*el-akdemûn*), 137 (*el-evvelîn*), 184 (*el-evvelîn*), 196 (*zübüri'l-evvelîn*).** Bu, metinden doğrulanabilir bir tekrardır.
+**Ve yetmiş altıncı ayetle bağ kurulabilir:** İbrâhim de atalar deliline karşılık *ve âbâükümü'l-**akdemûn*** demişti. **Sûre dört yerde "öncekiler"e uzanıyor: 76 (*el-akdemûn*), 137 (*el-evvelîn*), 184 (*el-evvelîn*), 196 (*zübüri'l-evvelîn*).** Bu, metinden doğrulanabilir bir tekrardır.
 
 ---
 
@@ -3636,9 +3636,9 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 | **İkisi de açıklığa bakar; tekit vardır** | Kökün anlamı |
 | ***Mübîn*, dili değil Kur'an'ı niteler** | Uzak bir okuma |
 
-**Ve kelimenin sûredeki beş geçişi 26/1-2 bölümünde tablolandı.** Sûre *el-kitâbi'l-mübîn* ile açılıyor ve burada *lisânin arabiyyin mübîn* ile dile bağlanıyor. **Bu, metinden doğrulanabilir bir örtüşmedir.**
+**Ve kelimenin sûredeki altı geçişi 26/1-2 bölümünde tablolandı.** Sûre *el-kitâbi'l-mübîn* ile açılıyor ve burada *lisânin arabiyyin mübîn* ile dile bağlanıyor. **Bu, metinden doğrulanabilir bir örtüşmedir.**
 
-**Ve *lisân* kelimesi kaydedilmelidir: sûrede iki kez geçiyor.**
+**Ve *lisân* kelimesi kaydedilmelidir: sûrede üç kez geçiyor.**
 
 | Ayet | İfade | Kim / ne |
 |---|---|---|
@@ -3814,7 +3814,7 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 ### أَفَرَءَيْتَ إِن مَّتَّعْنَٰهُمْ سِنِين — üç ayetlik bir soru
 
-**Yüz doksan beşinci ayetten sonra sûre bir düşünme sorusu kuruyor ve soru üç ayete yayılıyor (205-207).**
+**İki yüz dördüncü ayetten sonra sûre bir düşünme sorusu kuruyor ve soru üç ayete yayılıyor (205-207).**
 
 | Ayet | Öğe |
 |---|---|
@@ -3826,11 +3826,11 @@ Dizinin en somut tarafı, hastalık cümlesinin bıraktığı boşluktur. **Ayet
 
 **م-ت-ع** kökü: **bir şeyden yararlanmak, geçici olarak faydalanmak.** *Metâ'* — geçici fayda, azık. **Kelimenin çekirdeğinde geçicilik vardır** ve dizinin birçok bölümünde bu kaydedildi.
 
-**Ve fiil üç kez geçiyor: *metta'nâhüm* (205), *yümetteûn* (207).** Aynı kök, biri etken biri edilgen.
+**Ve fiil iki kez geçiyor: *metta'nâhüm* (205), *yümetteûn* (207).** Aynı kök, biri etken biri edilgen.
 
 **Ve `037-saffat.md` 37/148'de aynı kök bir kıssayı kapatıyordu:** *fe-metta'nâhüm ilâ hîn* — "bir süreye kadar onları yararlandırdık". **Aynı kalıp, iki sûrede.**
 
-**م-ا أَغْنَىٰ عَنْهُم** — **غ-ن-ي** kökü: **ihtiyaçsız olmak, yetmek.** *Mâ ağnâ anhü* — "ondan bir şeyi savmadı, ona yetmedi".
+**مَآ أَغْنَىٰ عَنْهُم** — **غ-ن-ي** kökü: **ihtiyaçsız olmak, yetmek.** *Mâ ağnâ anhü* — "ondan bir şeyi savmadı, ona yetmedi".
 
 **Ve cümlenin kipi mâzîdir: *mâ ağnâ*.** Şart cümlesinin cevabı olarak mâzî gelmesi, dördüncü ayette kaydedilen tekniğin aynısıdır: **gerçekleşmesi kesin olanı olmuş gibi anlatmak.**
 

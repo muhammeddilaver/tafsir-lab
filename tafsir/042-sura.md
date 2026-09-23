@@ -1381,9 +1381,9 @@ Bir tartışmanın hangi noktada bırakılacağını bilmek, tartışmayı sürd
 
 "Allah hakkında, O'nun çağrısı kabul edildikten sonra tartışanlar var ya — onların delili Rableri katında geçersizdir; üzerlerine bir gazap vardır ve onlar için çetin bir azap vardır."
 
-### مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ — üçüncü "sonra"
+### مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ — ikinci "sonra"
 
-**Sûre üç ayet içinde üçüncü kez *min ba'di mâ* kalıbını kuruyor. Bu, doğrulanabilir bir tekrardır:**
+**Sûre üç ayet içinde ikinci kez *min ba'di mâ* kalıbını kuruyor. Bu, doğrulanabilir bir tekrardır:**
 
 | Ayet | Ne geldikten sonra | Ne oldu |
 |---|---|---|
@@ -1819,7 +1819,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 ### لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ
 
-**Sûrede *yeşâ* fiili şimdiye kadar hep Allah için kullanıldı** (8, 12, 13, 19, 21). **Burada ilk kez insan için kullanılıyor: *mâ yeşâûn* — "diledikleri".**
+**Sûrede *yeşâ* fiili şimdiye kadar hep Allah için kullanıldı** (8, 12, 13, 19). **Burada ilk kez insan için kullanılıyor: *mâ yeşâûn* — "diledikleri".**
 
 **Bu, metinden doğrulanabilir bir olgudur ve kaydediyorum.** Ve *inde rabbihim* kaydı eklenmiş: dilek serbest, ama bulunduğu yer belli.
 
@@ -1858,7 +1858,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 | Anlam | Kur'an'daki örnek kullanım |
 |---|---|
 | **Akrabalık** | *Zi'l-kurbâ* — "yakınlık sahibi", yani akraba (Bakara 2/83, 2/177; Nisâ 4/36 vd.) |
-| **Yaklaşma / yakınlık hâli** | *Kurbeten inda'llâh* (Tevbe 9/99) — Allah katında yakınlık vesilesi |
+| **Yaklaşma / yakınlık hâli** | *Kurubâtin inda'llâh* (Tevbe 9/99) — Allah katında yakınlık vesilesi |
 
 **Ve ayetteki *fî* harfi de belirleyici:** *el-meveddete **fi'l**-kurbâ*. **Bu harf üç türlü anlaşılabilir:**
 
@@ -1972,7 +1972,7 @@ Ayetin kurduğu ayrım "dünya kötü, âhiret iyi" değildir; **iki ekin de eki
 
 **افْتَرَىٰ — kök ف-ر-ي: bir şeyi kesip biçmek, deri yarmak.** *Ferâ* fiili "deriyi yardı, kesti" demektir; ve ondan **uydurma** anlamı türemiştir. **Dilcilerin kaydettiği geçiş şudur: uydurmak, sözü kesip biçerek olmadık bir şey yapmaktır.**
 
-**Aynı kökten *firyâ* (Meryem 19/27) — "görülmemiş, kesilip biçilmiş bir iş".**
+**Aynı kökten *feriyyâ* (Meryem 19/27) — "görülmemiş, kesilip biçilmiş bir iş".**
 
 ### فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ — zor bir cümle
 
@@ -2219,7 +2219,7 @@ Bu, bir ahlak kuralı olarak değil, bir **işleyiş** olarak söyleniyor. Ve ke
 
 **Arapçada yağmur için birçok kelime vardır ve her biri farklı bir yönü öne çıkarır. *Ğays* kelimesinin özelliği kaydedilmelidir.**
 
-**كوك غ-ي-ث: yardıma koşmak, imdada yetişmek.** *İğâse* — yardım etmek; *müğîs* — imdada yetişen. **Nitekim *istiğāse* (yardım isteme) aynı köktendir.**
+**Kök غ-ي-ث: yardıma koşmak, imdada yetişmek.** *İğâse* — yardım etmek; *müğîs* — imdada yetişen. **Nitekim *istiğāse* (yardım isteme) aynı köktendir.**
 
 **Yani *ğays*, "yağan su" değil, imdada yetişen sutur.** Kelimenin kendisi, yağmuru bir yardım olarak adlandırıyor.
 
@@ -3293,7 +3293,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 
 "Onları, aşağılanmadan büzülmüş hâlde, gizli bir bakışla bakarken ateşe arz edilirken görürsün. İman edenler der ki: asıl hüsrana uğrayanlar, kıyamet günü kendilerini ve ailelerini kaybedenlerdir. İyi bilin ki zalimler kalıcı bir azap içindedir."
 
-### يُنظُرُونَ مِن طَرْفٍ خَفِىٍّ — sûrenin en ince tasviri
+### يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ — sûrenin en ince tasviri
 
 **Bu ifade, Kur'an'ın en dikkatli gözlem cümlelerinden biridir ve üzerinde durulmalıdır.**
 
@@ -3891,7 +3891,7 @@ Haksızlığa uğrayan kişiye verilen öğütler genellikle iki uçtan birine d
 | **15** | *el-masîr* | **İsim** — varış yeri |
 | **53** | *tesîru* | **Fiil** — dönüyor |
 
-**İkincisi: *el-emr* kelimesi.** Sûrede üç kez geçiyor:
+**İkincisi: *el-emr* kelimesi.** Sûrede dört kez geçiyor; üçü insanın işi anlamındadır:
 
 | Ayet | Terkip | Kimin işi |
 |---|---|---|

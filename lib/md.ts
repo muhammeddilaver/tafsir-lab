@@ -17,12 +17,15 @@ import { ROUTES, type Lang } from "./i18n";
 // The function that says which section treats a target verse is injected from
 // outside; the modal uses it to fetch the fragment. Without it the links still
 // work, they just navigate normally instead of opening the modal.
+/** What the `STYLE.md` citation is called on the page, per language. */
+const STYLE_LABEL: Record<Lang, string> = { tr: "STYLE", en: "Method", id: "Metode" };
+
 let sectionLookup: ((lang: Lang, sura: number, ayah: number) => number | null) | null = null;
 export function setSectionLookup(fn: (lang: Lang, sura: number, ayah: number) => number | null) {
   sectionLookup = fn;
 }
 // data-p carries only "sura/section"; the modal knows from its own language
-// which one to fetch, so the anchor text stays identical in both languages.
+// which one to fetch, so the anchor text stays identical in every language.
 const peek = (lang: Lang, sura: number, ayah: number) => {
   const start = sectionLookup?.(lang, sura, ayah) ?? null;
   return start === null ? "" : ` data-p="${sura}/${start}"`;
@@ -115,8 +118,10 @@ export function inline(s: string, names: Map<number, string>, opts: InlineOpts =
     return hold(`<a class="xref" href="${R.sura}/${no}" title="${file}">${label}</a>`);
   });
 
+  // The source cites its own method file as `STYLE.md`; each language shows
+  // the name its method page carries.
   out = out.replace(/`STYLE\.md`/g, () =>
-    hold(`<a class="xref" href="${R.method}">${lang === "tr" ? "STYLE" : "Method"}</a>`)
+    hold(`<a class="xref" href="${R.method}">${STYLE_LABEL[lang]}</a>`)
   );
 
   if (bareRefs) {

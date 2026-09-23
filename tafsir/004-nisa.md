@@ -61,8 +61,8 @@ Sûre, konuların birbirine geçtiği uzun bir metindir; blok sınırları kesin
 | **I** | **1** | İnsanlığın tek kökten yaratılışı; takvâ ve akrabalık | *Yâ eyyühe'n-nâsü'ttekū rabbeküm* | *nefsin vâhide*, *besse*, *el-erhâm*, *rakīb* |
 | **II** | **2-10** | Yetim malı; nikâh; mehir; malın emanetçiliği | *Ve âtü'l-yetâmâ emvâlehüm* | *lâ tetebeddelû*, *ta'dilû*, *nıhle*, *süfehâ*, *rüşd* |
 | **III** | **11-14** | Miras payları ve Allah'ın sınırları | *Yûsîkümüllâhu fî evlâdiküm* | *hazz*, *vasıyye*, *deyn*, *kelâle*, *hudûdullâh* |
-| **IV** | **15-22** | Fuhuş, tevbe; kadınların miras sayılamayacağı; muâşeret | *Velletî ye'tîne'l-fâhışe* | *tevbe*, *kerhen*, *âşirûhünne bi'l-ma'rûf*, *efdâ* |
-| **V** | **23-28** | Nikâh yasakları; ölçünün gerekçesi; hafifletme | *Hurrimet aleyküm ümmehâtüküm* | *muhsanât*, *ücûr*, *yürîdüllâhu li-yübeyyine*, *duife* |
+| **IV** | **15-22** | Fuhuş, tevbe; kadınların miras sayılamayacağı; muâşeret | *Vellâtî ye'tîne'l-fâhışe* | *tevbe*, *kerhen*, *âşirûhünne bi'l-ma'rûf*, *efdâ* |
+| **V** | **23-28** | Nikâh yasakları; ölçünün gerekçesi; hafifletme | *Hurrimet aleyküm ümmehâtüküm* | *muhsanât*, *ücûr*, *yürîdüllâhu li-yübeyyine*, *daîf* |
 | **VI** | **29-35** | Mal, can, temenni; erkek ve kadının kazancı; aile içi çatışma | *Lâ te'külû emvâleküm beyneküm bi'l-bâtıl* | *terâdın*, *nasîb*, *iktisâb*, *kavvâmûn*, *nüşûz*, *hakem*, *ıslâh* |
 | **VII** | **36-42** | On kalemlik hak listesi; cimrilik, gösteriş; şahitlik günü | *Va'büdüllâhe ve lâ tüşrikû bihî şey'â* | *ihsân*, *el-câr*, *es-sâhib bi'l-cenb*, *buhl*, *riâe'n-nâs* |
 | **VIII** | **43-57** | Namaz ve temizlik; kitap ehlinden bir kesim; emanet ve itaat | *Lâ takrabu's-salâte ve entüm sükârâ* | *teyemmüm*, *yüharrifûne'l-kelim*, *nasîben mine'l-kitâb* |
@@ -1149,7 +1149,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı iki fiilin kipleridir.
 
 | Kelime | Nerede | Bağlamı |
 |---|---|---|
-| **نَصِيب** (*nasîb*) | 7 (iki kez), 32 (iki kez), 33, 118 | **Hakkın var olduğunun ilanı** |
+| **نَصِيب** (*nasîb*) | 7 (iki kez), 32 (iki kez), 33, 44, 51, 53, 85, 118, 141 | **Hakkın var olduğunun ilanı** |
 | **حَظّ** (*hazz*) | 11, 176 | **Payın miktarının belirlenmesi** |
 
 **Bu bir dizim gözlemidir ve kelimelerin yerleri sayılabilir.** *Nasîb* ilkeyi, *hazz* hesabı adlandırıyor.
@@ -1171,7 +1171,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı iki fiilin kipleridir.
 
 **Ve tabloda görünmeyen, ama ayetin lafzından okunabilen üç şey kaydedilmelidir:**
 
-**Bir.** Ayet **kadın mirasçıyı üç ayrı yerde** anıyor: kız çocuk (iki kere), anne (iki kere). **Yani hükümlerin çoğu kadın mirasçının payını belirlemek için konmuştur.** Bu sayılabilir bir olgudur.
+**Bir.** Ayet **kadın mirasçıyı dört ayrı yerde** anıyor: kız çocuk (iki kere), anne (iki kere). **Yani hükümlerin çoğu kadın mirasçının payını belirlemek için konmuştur.** Bu sayılabilir bir olgudur.
 
 **İki.** Ayet **babanın payını yalnız bir durumda** açıkça veriyor (altıda bir, çocuk varsa); ötekilerde belirtmiyor. **Annenin payı ise iki ayrı durumda açıkça belirtiliyor.**
 
@@ -1405,7 +1405,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kelimenin kökü ile bloğ
 
 ## 4/15-16 — واللاتي يأتين الفاحشة من نسائكم فاستشهدوا عليهن أربعة منكم فإن شهدوا فأمسكوهن في البيوت حتى يتوفاهن الموت أو يجعل الله لهن سبيلا · واللذان يأتيانها منكم فآذوهما فإن تابا وأصلحا فأعرضوا عنهما
 
-*Velletî ye'tîne'l-fâhışete min nisâiküm feste'şhidû aleyhinne erbeaten minküm, fe-in şehidû fe-emsikûhünne fi'l-büyûti hattâ yeteveffâhünne'l-mevtü ev yec'alallâhu lehünne sebîlâ · Velleẕâni ye'tiyânihâ minküm fe-âzûhümâ, fe-in tâbâ ve aslehâ fe-a'ridû anhümâ, innallâhe kâne tevvâben rahîmâ*
+*Vellâtî ye'tîne'l-fâhışete min nisâiküm feste'şhidû aleyhinne erbeaten minküm, fe-in şehidû fe-emsikûhünne fi'l-büyûti hattâ yeteveffâhünne'l-mevtü ev yec'alallâhu lehünne sebîlâ · Velleẕâni ye'tiyânihâ minküm fe-âzûhümâ, fe-in tâbâ ve aslehâ fe-a'ridû anhümâ, innallâhe kâne tevvâben rahîmâ*
 
 "Kadınlarınızdan fuhuş işleyenlere karşı içinizden dört şahit getirin. Şahitlik ederlerse, ölüm onları alıp götürünceye ya da Allah onlara bir yol açıncaya kadar onları evlerde tutun. İçinizden onu işleyen iki kişiye eziyet edin. Tevbe edip durumlarını düzeltirlerse onları bırakın. Allah tevbeleri çok kabul edendir, merhametlidir."
 
@@ -1467,13 +1467,13 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kelimenin kökü ile bloğ
 
 | Ayet | Kelime | Nerede |
 |---|---|---|
-| **16** | *aslehâ* | Fuhuş bahsinin kapanışı |
+| **16, 146** | *aslehâ*, *aslahû* | Fuhuş bahsinin kapanışı; tevbenin şartı |
 | **35** | *ıslâhan*, *yüveffikıllâhu beynehümâ* | Aile içi anlaşmazlığın kapanışı |
 | **114** | *ıslâhın beyne'n-nâs* | Gizli konuşmaların hayırlı olanı |
 | **128** | *en yuslihâ beynehümâ sulhâ*, *ve's-sulhu hayr* | Karı koca arasında |
 | **129** | *ve in tuslihû ve tettekū* | Adalet bahsinin kapanışı |
 
-**Beş yerin dördü, bir anlaşmazlığın bittiği yerdir.**
+**Altı yerin dördü, bir anlaşmazlığın bittiği yerdir.**
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, hükümlerini yaptırımla değil, **ıslahla** kapatma eğilimindedir. Bu, otuz beşinci ayet bahsinde ayrıca gösterilecektir.
 
@@ -1856,7 +1856,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ### إِلَّا مَا قَدْ سَلَفَ — ikinci kez
 
-**Yirmi ikinci ayette de geçmişti. İki ayet arayla tekrar ediyor.**
+**Yirmi ikinci ayette de geçmişti. Hemen sonraki ayette tekrar ediyor.**
 
 **Ve fasıla değişiyor:** yirmi ikinci ayet *sâe sebîlâ* (kötü bir yol) ile bitmişti; yirmi üçüncü ayet ***ğafûran rahîmâ*** ile bitiyor.
 
@@ -1892,7 +1892,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ### إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ — bir kayıt
 
-**Bu ifade sûrede birkaç kez geçer (3, 24, 25, 36, 92) ve klasik dönemde var olan bir toplumsal kurumla ilgilidir.**
+**Bu ifade sûrede birkaç kez geçer (3, 24, 25, 36) ve klasik dönemde var olan bir toplumsal kurumla ilgilidir.**
 
 **`033-ahzab.md` 33/50 bahsinde bu konuda bir kayıt düşülmüştü ve buraya aynen taşıyorum:**
 
@@ -2023,7 +2023,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 | 3 | *Ellezîne yettebiûne'ş-şehevât* | *En temîlû meylen azîmâ* — **sapmanızı** |
 | 4 | Allah | *En yuhaffife anküm* — **hafifletmek** |
 
-**Ve yapının kendisi bir bilgi taşıyor, kendi okumam olarak kaydediyorum:** hükümlerin ardından, hükümleri koyan iradenin ne istediği söyleniyor. **Yani ayet, yirmi üç kalemlik yasak listesinin arkasındaki niyeti açıklıyor.**
+**Ve yapının kendisi bir bilgi taşıyor, kendi okumam olarak kaydediyorum:** hükümlerin ardından, hükümleri koyan iradenin ne istediği söyleniyor. **Yani ayet, on üç kalemlik yasak listesinin arkasındaki niyeti açıklıyor.**
 
 ### سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ — kelime
 
@@ -2327,7 +2327,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ## 4/34-35 — الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم … واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن فإن أطعنكم فلا تبغوا عليهن سبيلا · وإن خفتم شقاق بينهما فابعثوا حكما من أهله وحكما من أهلها إن يريدا إصلاحا يوفق الله بينهما
 
-*Er-ricâlü kavvâmûne ale'n-nisâi bimâ faddalallâhu ba'dahüm alâ ba'd ve bimâ enfekū min emvâlihim, fe's-sâlihâtü kānitâtün hâfizâtün li'l-ğaybi bimâ hafizallâh, velletî tehâfûne nüşûzehünne fe-ızûhünne ve'hcurûhünne fi'l-medâci'ı ve'drıbûhünne, fe-in eta'neküm fe-lâ tebğū aleyhinne sebîlâ, innallâhe kâne aliyyen kebîrâ · Ve in hıftüm şikāka beynihimâ fe'b'asû hakemen min ehlihî ve hakemen min ehlihâ, in yürîdâ ıslâhan yuveffikıllâhu beynehümâ, innallâhe kâne alîmen habîrâ*
+*Er-ricâlü kavvâmûne ale'n-nisâi bimâ faddalallâhu ba'dahüm alâ ba'd ve bimâ enfekū min emvâlihim, fe's-sâlihâtü kānitâtün hâfizâtün li'l-ğaybi bimâ hafizallâh, vellâtî tehâfûne nüşûzehünne fe-ızûhünne ve'hcurûhünne fi'l-medâci'ı ve'drıbûhünne, fe-in eta'neküm fe-lâ tebğū aleyhinne sebîlâ, innallâhe kâne aliyyen kebîrâ · Ve in hıftüm şikāka beynihimâ fe'b'asû hakemen min ehlihî ve hakemen min ehlihâ, in yürîdâ ıslâhan yuveffikıllâhu beynehümâ, innallâhe kâne alîmen habîrâ*
 
 "Erkekler, Allah'ın kimini kiminden üstün kılması ve mallarından harcamaları sebebiyle kadınlar üzerinde *kavvâm*dırlar. İyi kadınlar itaatkârdır; Allah'ın koruduğu şeyi, kimsenin görmediği yerde de korurlar. *Nüşûz*larından endişe ettiğiniz kadınlara öğüt verin, yataklarında yalnız bırakın ve *darb* edin. Size itaat ederlerse artık aleyhlerine bir yol aramayın. Allah yücedir, büyüktür. — Aralarının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem ve kadının ailesinden bir hakem gönderin. Bu ikisi düzeltmek isterlerse, Allah aralarını bulur. Allah bilendir, haberdardır."
 
@@ -2349,7 +2349,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Kök ق-و-م: ayağa kalkmak, dikilmek, bir işi ayakta tutmak.**
 
-**Kök bu sûrede daha önce iki kez geçti:** beşinci ayette *elletî cealallâhu leküm **kıyâmâ*** ("Allah'ın sizin için ayakta durma vesilesi kıldığı mallar") ve orada "sûrenin kök örgüsü" başlığı altında işlendi. **Oraya dayanıyorum.**
+**Kök bu sûrede daha önce bir kez geçti:** beşinci ayette *elletî cealallâhu leküm **kıyâmâ*** ("Allah'ın sizin için ayakta durma vesilesi kıldığı mallar") ve orada "sûrenin kök örgüsü" başlığı altında işlendi. **Oraya dayanıyorum.**
 
 **Ve kalıp kaydedilmelidir: *kavvâm*, فَعَّال kalıbındadır.** Bu kalıp Arapçada iki şey bildirir:
 
@@ -2454,7 +2454,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 | Ayet | Cümle | *Nüşûz* kimin | Ne emrediliyor |
 |---|---|---|---|
-| **4/34** | *Velletî tehâfûne **nüşûzehünne*** | **Kadının** | *Fe-ızûhünne … ve'hcurûhünne … ve'drıbûhünne*; ardından **4/35'te hakem** |
+| **4/34** | *Vellâtî tehâfûne **nüşûzehünne*** | **Kadının** | *Fe-ızûhünne … ve'hcurûhünne … ve'drıbûhünne*; ardından **4/35'te hakem** |
 | **4/128** | *Ve ini'mraetün hâfet min ba'lihâ **nüşûzen** ev i'râdâ* | **Erkeğin** | *Fe-lâ cünâha aleyhimâ en yuslihâ beynehümâ sulhâ* — **ve *ve's-sulhu hayr*** |
 
 **Bu, metinden doğrulanabilir bir simetridir ve sayılabilir bir olgudur:** aynı kök, aynı sûrede, iki tarafa da uygulanıyor.
@@ -2491,7 +2491,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 | Kayıt | Lafız | Ne yapıyor |
 |---|---|---|
-| **Bir** | *Velletî **tehâfûne** nüşûzehünne* | Konu, gerçekleşmiş bir fiil değil, **endişe** edilen bir durum |
+| **Bir** | *Vellâtî **tehâfûne** nüşûzehünne* | Konu, gerçekleşmiş bir fiil değil, **endişe** edilen bir durum |
 | **İki** | *Ve'hcurûhünne **fi'l-medâci'ı*** | İkinci basamak bir **yere** bağlanarak sınırlanıyor |
 | **Üç** | *Fe-in **eta'neküm** fe-lâ tebğū aleyhinne **sebîlâ*** | Basamakların **durma noktası** açıkça yazılıyor |
 
@@ -2912,7 +2912,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Üç kalemde de değişen şey küçüktür; ve ayet bunu *ekvem* (daha doğru, daha dik) kelimesiyle niteliyor.**
 
-***Ekvem* — ق-و-م kökünden ism-i tafdîl.** **Kök bu sûrede beşinci ayette (*kıyâmâ*), otuz dördüncü ayette (*kavvâmûn*) ve burada geçiyor; yüz otuz beşinci ayette (*kavvâmîne bi'l-kıst*) bir kez daha dönecek.** **Kökün sûredeki dört geçişi, geriye bakış bölümünde tablolanacak.**
+***Ekvem* — ق-و-م kökünden ism-i tafdîl.** **Kök bu sûrede beşinci ayette (*kıyâmâ*), otuz dördüncü ayette (*kavvâmûn*) ve burada geçiyor; yüz otuz beşinci ayette (*kavvâmîne bi'l-kıst*) bir kez daha dönecek.** **Kökün sûredeki altı geçişi, geriye bakış bölümünde tablolanacak.**
 
 **وَلَىًّۢا بِأَلْسِنَتِهِمْ** — *ley*: kök ل-و-ي, **bükmek, eğmek.** **Ve kelime, tahrif resmini dile taşıyor: kelimeler yerinden oynatıldığı gibi, dil de bükülüyor.**
 
@@ -2934,11 +2934,11 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ### إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ — ve sûrede iki kez
 
-**Bu cümle sûrede iki kez geçiyor: kırk sekizinci ve yüz on altıncı ayetlerde. İki geçiş neredeyse aynıdır ve tek fark bir kelimededir.**
+**Bu cümle sûrede iki kez geçiyor: kırk sekizinci ve yüz on altıncı ayetlerde. İki geçiş neredeyse aynıdır ve tek fark ayetin kapanışındadır.**
 
 | Ayet | Cümle | Fark |
 |---|---|---|
-| **48** | *Ve yağfiru mâ dûne zâlike **li-men yeşâ'*** | — |
+| **48** | *Ve yağfiru mâ dûne zâlike **li-men yeşâ'*** | Ayetin devamı *ve men yüşrik billâhi fe-kadi'fterâ ismen azîmâ* ile uzuyor |
 | **116** | *Ve yağfiru mâ dûne zâlike **li-men yeşâ'*** | Ayetin devamı *ve men yüşrik billâhi fe-kad dalle dalâlen baîdâ* ile uzuyor |
 
 **İki ayetin aynı cümleyi tekrar etmesi, sayılabilir bir olgudur.** Ve tekrarın yerleri kaydedilmelidir: biri kitap ehline hitabın içinde, öteki şeytanın vaadi bahsinin içinde. **Aynı cümle, iki ayrı muhatap için.**
@@ -3691,7 +3691,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki kelimenin farkıdır:** ayet, iyilikte **pay**, kötülükte **yük** kelimesini seçiyor. **Aynı yapıya iki ayrı isim veriliyor.**
 
-**Ve *nasîb* kelimesi bu sûrede altıncı kez geçiyor** (7'de iki kez, 32'de iki kez, 33, 85). **Kelimenin sûredeki dağılımı geriye bakış bölümünde tablolanacak.**
+**Ve *nasîb* kelimesi bu sûrede dokuzuncu kez geçiyor** (7'de iki kez, 32'de iki kez, 33, 44, 51, 53, 85). **Kelimenin sûredeki dağılımı geriye bakış bölümünde tablolanacak.**
 
 ### وَإِذَا حُيِّيتُم بِتَحِيَّةٍ — selâmın hesabı
 
@@ -4233,16 +4233,16 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 | 2 | *Ma'rûf* | **Bilinen iyilik** |
 | 3 | ***Islâhın beyne'n-nâs*** | **İnsanların arası** |
 
-**Ve üçüncü kalem kaydedilmelidir: ص-ل-ح kökü bu sûrede dördüncü kez, bir *çözüm* olarak geçiyor.**
+**Ve üçüncü kalem kaydedilmelidir: ص-ل-ح kökü bu sûrede üçüncü kez, bir *çözüm* olarak geçiyor.**
 
 | Ayet | Lafız | Kimin arası |
 |---|---|---|
 | **16** | *Fe-in tâbâ ve **aslahâ*** | İki kişi |
 | **35** | *İn yürîdâ **ıslâhan** yuveffikıllâhu beynehümâ* | Eşler |
 | **114** | ***Islâhın beyne'n-nâs*** | **İnsanlar — genel** |
-| **128** | *En **yuslihâ** beynehümâ sulhan ve's-**sulhu** hayr* | Eşler |
+| **128, 129** | *En **yuslihâ** beynehümâ sulhan ve's-**sulhu** hayr*, *ve in **tuslihû** ve tettekū* | Eşler |
 
-**Dört ayette aynı kök ve dördünde de bir arayı düzeltme.** Bu, sûre içinde doğrulanabilir bir örgüdür ve geriye bakış bölümünde tekrar tablolanacak.
+**Beş ayette aynı kök ve beşinde de bir arayı düzeltme.** Bu, sûre içinde doğrulanabilir bir örgüdür ve geriye bakış bölümünde tekrar tablolanacak.
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, aile içindeki anlaşmazlıktan (35) genel insan ilişkilerine (114) kadar aynı kelimeyi kullanıyor. **Ölçek değişiyor, fiil değişmiyor.**
 
@@ -4803,7 +4803,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 | *İn kâne leküm **fethun** minallâh* | *Elem nekün meaküm* — sizinle beraber değil miydik |
 | *Ve in kâne li'l-kâfirîne **nasîb*** | *Elem nestahviz aleyküm ve nemna'küm mine'l-mü'minîn* |
 
-**Ve *nasîb* kelimesi burada sûrede yedinci kez geçiyor.** Kelimenin sûredeki dağılımı geriye bakış bölümünde tablolanacak.
+**Ve *nasîb* kelimesi burada sûrede on birinci kez geçiyor.** Kelimenin sûredeki dağılımı geriye bakış bölümünde tablolanacak.
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** ayet bir tutumu, **iki zıt sonuç karşısındaki iki ayrı sözle** tarif ediyor. **Tarif, kişiye değil, sözün değişmesine bağlanıyor.**
 
@@ -5359,10 +5359,10 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 | Kelime / terkip | Geçtiği ayetler | Ne yapıyor |
 |---|---|---|
-| **نَصِيب** (*nasîb*) | 7 (iki kez), 32 (iki kez), 33, 85, 141 | Pay; sûrenin en sık dönen hak kelimesi |
+| **نَصِيب** (*nasîb*) | 7 (iki kez), 32 (iki kez), 33, 44, 51, 53, 85, 118, 141 | Pay; sûrenin en sık dönen hak kelimesi |
 | **نَصِيبًا مَّفْرُوضًا** | 7, 118 | Aynı terkip: biri **hak**, biri **gasp iddiası** |
 | **بُهْتَان** | 20, 112, 156 | Donduran iftira; 20 ve 112'de terkip birebir aynı |
-| **ص-ل-ح** (*ıslâh / sulh*) | 16, 35, 114, 128, 146 | Beş yerde de bir **arayı düzeltme** |
+| **ص-ل-ح** (*ıslâh / sulh*) | 16, 35, 114, 128, 129, 146 | Altı yerde de bir **arayı düzeltme** |
 | **ق-و-م** | 5, 34, 46, 103, 127, 135 | *Kıyâm*, *kavvâm*, *ekvem*, *kıyâmen*, *tekūmû*, *kavvâmîn* |
 | **ض-ع-ف** | 9, 28, 75, 98, 127 | Hâl, tabiat ve zulüm olarak zayıflık |
 | **و-س-ع** | 97, 100, 130 | Yerin, hicretin ve ayrılığın genişliği |

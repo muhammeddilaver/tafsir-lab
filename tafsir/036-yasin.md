@@ -230,7 +230,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Yani tekil bir sıfat değil, bir topluluğa dahil olma bildiriliyor.** *Min* burada *teb'îziyye*dir: bir bütünün parçası.
 
-**Kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi kıssasıdır:** on üç ayet sonra bir şehre **üç elçi** gelecek ve onlar da *innâ ileyküm mürselûn* (14) diyecek — **aynı kelimeyle.** Sûre, Peygamber'in konumunu bir istisna olarak değil, **süregelen bir işin devamı** olarak kuruyor. Kıssanın sûredeki yeri bu cümleyle hazırlanıyor.
+**Kendi okumam olarak kaydediyorum ve dayanağı sûrenin kendi kıssasıdır:** on bir ayet sonra bir şehre **üç elçi** gelecek ve onlar da *innâ ileyküm mürselûn* (14) diyecek — **aynı kelimeyle.** Sûre, Peygamber'in konumunu bir istisna olarak değil, **süregelen bir işin devamı** olarak kuruyor. Kıssanın sûredeki yeri bu cümleyle hazırlanıyor.
 
 **ر-س-ل kökü sûrede yedi yerde geçer** (3, 13, 14, 16, 20, 30, 52) ve kapanış bölümünde ayrıca tablolanacak.
 
@@ -661,7 +661,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Kelime seçimi kaydedilmeye değer:** ayet "bir üçüncü **gönderdik**" demiyor; **"bir üçüncüyle takviye ettik"** diyor. **Yani üçüncü elçi yeni bir başlangıç değil, ilk ikisinin arkasına konan destek.**
 
-**Ve bu, ayetin ilk kelimesiyle örtüşüyor:** beşinci ayette indiren ***el-Azîz*** diye anılmıştı — **aynı kök.** Sûrede ع-ز-ز iki kez: 5 ve 14. **Biri indirenin sıfatı, öteki elçilerin desteklenmesi.** Doğrulanabilir bir bağdır; bir nükte kurduğu iddiasında değilim, kaydediyorum.
+**Ve bu, ayetin ilk kelimesiyle örtüşüyor:** beşinci ayette indiren ***el-Azîz*** diye anılmıştı — **aynı kök.** Sûrede ع-ز-ز üç kez: 5, 14 ve 38. **İkisi indirenin sıfatı, biri elçilerin desteklenmesi.** Doğrulanabilir bir bağdır; bir nükte kurduğu iddiasında değilim, kaydediyorum.
 
 ### Dizim: sayının verilme sırası
 
@@ -739,7 +739,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 ### تَطَيَّرْنَا — kök ط-ي-ر ve bir âdetin adı
 
-**Kökün somut anlamı uçmaktır.** *Tâir* — kuş; *tayr* — kuşlar. **Kök `067-mulk.md` ve `056-vakia.md`'de geçti** (kuşların uçuşu, *lağa't-tayru* kullanımı); **kökün temel tahlilini tekrarlamıyorum.**
+**Kökün somut anlamı uçmaktır.** *Tâir* — kuş; *tayr* — kuşlar. **Kök `067-mulk.md` ve `056-vakia.md`'de geçti** (kuşların uçuşu, *tayr* cins ismi); **kökün temel tahlilini tekrarlamıyorum.**
 
 **Buraya ait olan, kelimenin V. bâbdaki hâlidir: *tetayyara* — uğursuzluğa yormak.** Ve bunun arkasında **belgeli bir Arap âdeti** vardır.
 
@@ -1068,7 +1068,7 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 
 **Bunu bir gözlem olarak kaydediyorum:** adam kendisi için bir vasıf saymıyor. İki fiil de **Allah'a** ait: *ğafera lî* (beni bağışladı), *cealenî* (beni kıldı). **Cümlede adamın öznesi olduğu tek fiil yok.**
 
-**Ve on birinci ayetle bağı doğrulanabilir:** orada *fe-beşşirhü bi-**mağfiratin** ve ecrin **kerîm*** denmişti — **bağışlanma ve *kerîm* bir karşılık.** Burada aynı iki şey gerçekleşmiş olarak anılıyor: *ğafera lî* ve *mine'l-**mükram**în*. **Aynı iki kök, on beş ayet arayla, biri vaad biri gerçekleşme olarak.** Bu, sûre içinde sayılabilir bir tekrardır.
+**Ve on birinci ayetle bağı doğrulanabilir:** orada *fe-beşşirhü bi-**mağfiratin** ve ecrin **kerîm*** denmişti — **bağışlanma ve *kerîm* bir karşılık.** Burada aynı iki şey gerçekleşmiş olarak anılıyor: *ğafera lî* ve *mine'l-**mükram**în*. **Aynı iki kök, on altı ayet arayla, biri vaad biri gerçekleşme olarak.** Bu, sûre içinde sayılabilir bir tekrardır.
 
 ---
 
@@ -1085,11 +1085,11 @@ Mekkî olduğunda görüş birliğine yakın bir durum vardır. Bazı ayetler i�
 | **Nereden geliyor** | *Min aksa'l-medîne* — **şehrin en uzağından** | *Min âli Fir'avn* — **iktidarın içinden** |
 | **Konumu** | **Kenarda** | **Merkezde** |
 | **İmanının durumu** | **Açık** — *innî âmentü* diye ilan ediyor | **Gizli**, konuşma ilerledikçe açılıyor |
-| **Hitabı** | *Yâ kavmi* — **bir kez** | *Yâ kavmi* — **Ğāfir bahsinde beş geçiş sayıldı** |
+| **Hitabı** | *Yâ kavmi* — **bir kez** | *Yâ kavmi* — **Ğāfir bahsinde üç geçiş sayıldı** |
 | **Argümanın türü** | **Sınanabilir ölçü**: karşılık istemiyorlar | **İkilem**: yalancıysa zararı kendine, doğruysa size dokunur |
 | **Argümanın şahsı** | **Birinci tekil**: "ben niye kulluk etmeyeyim" | **Birinci çoğul**: "bize kim yardım eder" |
 | **Karşı tarafa tavrı** | **Suçlamıyor** — kendini örnek yapıyor | **Suçlamıyor** — mülklerini teslim ediyor (*leküm mülkü'l-yevm*) |
-| **Konuşmasının uzunluğu** | **Altı ayet** (20-25) | **On altı ayette dağılmış** (28-35, 38-44) |
+| **Konuşmasının uzunluğu** | **Altı ayet** (20-25) | **On beş ayette dağılmış** (28-35, 38-44) |
 | **Son cümlesi** | *Yâ leyte kavmî ya'lemûn* — **"keşke kavmim bilseydi"** | *Ve üfevvidu emrî ilallâh* — **"işimi Allah'a havale ediyorum"** |
 | **Sonucu** | *Kīle'dhuli'l-cennete* — **âhirette karşılık** | *Fe-vekāhullâhu seyyiâti mâ mekerû* — **dünyada korunma** |
 
@@ -2522,7 +2522,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 **Kelimenin seçimi kaydedilmeye değer:** ayet "çok kişi" demiyor, **"büyük bir yığın"** diyor. **Kendi okumam:** kelime, sapmanın tek tek değil **kütle hâlinde** olduğunu bildiriyor — ve bu, sûrenin bir sonraki bloğunda geri dönecek: yetmiş beşinci ayette edinilen ilâhlar için *cünd* (ordu) denecek. **İki kelime de kalabalık bildiriyor.**
 
-**أَفَلَمْ تَكُونُوا۟ تَعْقِلُون** — sûredeki iki akıl sorusundan birincisi (öteki 68'de). **Yapı bölümünde dört soru tablolandı.**
+**أَفَلَمْ تَكُونُوا۟ تَعْقِلُون** — sûredeki iki akıl sorusundan birincisi (öteki 68'de). **36/34-35 bahsinde dört soru tablolandı.**
 
 **Dizim:** *e-felem **tekûnû** ta'kilûn* — "akletmiyor **muydunuz**", geçmiş zamanda ve süreklilik kipinde (*kâne* + muzâri). **Yani soru bir ana değil, bir ömre bakıyor.**
 
@@ -2543,7 +2543,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 | **61** | *Hâzâ* | **Yol** — kulluk emri |
 | **63** | *Hâzihî* | **Cehennem** — vaad edilen |
 
-**İki işaret üç ayet arayla.** **Kendi okumam:** ikisi de **gösterme** cümlesidir ve ikisi de daha önce sözü edilmiş bir şeyi işaret ediyor. **Sahnede artık tarif yok; gösterme var.** Sûrenin bu bölümü boyunca aynı tavır sürüyor: *el-yevme* beş kez, işaret zamiri iki kez.
+**İki işaret iki ayet arayla.** **Kendi okumam:** ikisi de **gösterme** cümlesidir ve ikisi de daha önce sözü edilmiş bir şeyi işaret ediyor. **Sahnede artık tarif yok; gösterme var.** Sûrenin bu bölümü boyunca aynı tavır sürüyor: *el-yevme* beş kez, işaret zamiri iki kez.
 
 ### كُنتُمْ تُوعَدُون — "vaad edilen"
 
@@ -2792,7 +2792,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 ### أَفَلَا يَعْقِلُون
 
-**Sûredeki iki akıl sorusundan ikincisi (öteki 62'de) ve dört retorik sorudan biri.** **Yapı bölümünde tablolandı.**
+**Sûredeki iki akıl sorusundan ikincisi (öteki 62'de) ve dört retorik sorudan biri.** **36/34-35 bahsinde tablolandı.**
 
 **ع-ق-ل** — kökün somut anlamı **bağlamak**tır: *ıkāl*, devenin dizini bağlayan ip; *akale'l-baîre* — deveyi bağladı. Buradan *akl*: **kişiyi düşünmeden davranmaktan alıkoyan bağ.**
 
@@ -2989,7 +2989,7 @@ Aynı yapı, "zaten düzen böyle", "yardım etsem ne değişir", "hak eden zate
 
 ### أَفَلَا يَشْكُرُون — sûredeki ikinci geçiş
 
-**Bu soru sûrede ikinci ve son kez geliyor** (birincisi 35'te). **Yapı bölümünde ve 36/35 bahsinde tablolandı.**
+**Bu soru sûrede ikinci ve son kez geliyor** (birincisi 35'te). **36/34-35 bahsinde tablolandı.**
 
 **Ve iki geçişin ortak yanı doğrulanabilir:** ikisi de **yenilen ve içilen şeylerin** ardından geliyor — biri bitkiler, öteki hayvanlar. **Sûre, şükrü iki kez ve yalnız bu iki yerde soruyor.**
 

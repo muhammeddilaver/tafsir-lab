@@ -581,7 +581,7 @@ Kelimenin gramer konumu, sûrenin diğer *fâile* kelimeleri gibi ihtilaflıdır
 Yedinci ayet: *fe-**terâ**'l-kavme fîhâ sar'â* — "o kavmi orada serilmiş **görürsün**."
 Sekizinci ayet: *fe-hel **terâ** lehum min bâkıye* — "onlardan geriye kalan bir şey **görüyor musun**?"
 
-**Aynı fiil, iki ayette arka arkaya.** Birincisinde muhatap bir şey görüyor: serilmiş bedenler. İkincisinde bir şey aramıyor ve bulamıyor.
+**Aynı fiil, iki ayette arka arkaya.** Birincisinde muhatap bir şey görüyor: serilmiş bedenler. İkincisinde bir şey arıyor ve bulamıyor.
 
 Ve iki görme arasındaki mesafe zamandır. Yedinci ayet olayın hemen sonrasıdır; sekizinci ayet **bugündür.** Birincisinde ceset var, ikincisinde hiçbir şey yok.
 
@@ -1091,7 +1091,7 @@ Burada o işlev kalkıyor. **Üzerinde durulan şey kaldırılıyor.**
 
 Bunu kendi okumam olarak kaydediyorum. Dayanağı fiilin anlamı ve iki fiilin sırasıdır.
 
-**Ve ح-م-ل kökünün üçüncü geçişi burada.** On birinci ayette Allah insanları taşımıştı; burada yer ve dağlar taşınıyor. Aynı fiil, biri kurtarmak için, öteki dövmek için.
+**Ve ح-م-ل kökünün ikinci geçişi burada.** On birinci ayette Allah insanları taşımıştı; burada yer ve dağlar taşınıyor. Aynı fiil, biri kurtarmak için, öteki dövmek için.
 
 ### فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ — "o gün, olacak olan olur"
 
@@ -1380,7 +1380,7 @@ Hâkka aynı ayrımı iki organ üzerinden kuruyor: **kulak seçebilir, göz se�
 ## 69/19-20 — فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ · إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ
 
 *Fe-emmâ men ûtiye kitâbehû bi-yemînihî fe-yekūlü hâümu'krâû kitâbiyeh · İnnî zanentü ennî mülâkın hisâbiyeh*
-"Kitabı sağından verilen kimse der ki: 'Alın, okuyun kitabımı! Ben hesabımla karşılaşacağımı zaten biliyordum.'"
+"Kitabı sağından verilen kimse der ki: 'Alın, okuyun kitabımı! Ben hesabımla karşılaşacağımı zaten zannetmiştim.'"
 
 ### Fasıla kırılıyor
 
@@ -1390,11 +1390,11 @@ Birinci ayetten on sekizinciye kadar fasıla *-iye*ydi. On dokuzuncu ayette ses 
 
 Ve yeni ses, sonuna eklenen bir harfle kuruluyor: **هَاء ٱلسَّكْت** (sükt hâsı). Kâria bölümünde bu harf işlendi ve orada şu kaydedilmişti: harfin bir anlamı yoktur, **sesin korunması için** oradadır; ve Kur'an'daki en yoğun kullanımı Hâkka sûresindedir.
 
-Şimdi o yoğunluğu görelim. Sûrede sükt hâsı **beş** yerde geçiyor ve hepsi bu iki sahnenin içinde:
+Şimdi o yoğunluğu görelim. Sûrede sükt hâsı **altı** yerde geçiyor ve hepsi bu iki sahnenin içinde:
 
 | Ayet | Kelime | Kim söylüyor |
 |---|---|---|
-| 19 | *كِتَٰبِيَهْ* | Sağdakiler |
+| 19-20 | *كِتَٰبِيَهْ* · *حِسَابِيَهْ* | Sağdaki |
 | 25 | *كِتَٰبِيَهْ* | Soldaki |
 | 26 | *حِسَابِيَهْ* | Soldaki |
 | 28 | *مَالِيَهْ* | Soldaki |
@@ -2000,7 +2000,7 @@ Klasik müfessirlerin bir kısmı buradaki yetmişi de böyle okur; bir kısmı 
 
 **Ama ölçünün verilmiş olması kayda değer** ve şunu düşündürüyor — kendi okumam olarak kaydediyorum:
 
-Adam iki ayet önce iki şeyden söz etmişti: **malından** ve **saltanatından.** İkisinin de ölçüsü verilmemişti. Ne kadar malı vardı, ne kadar geniş bir saltanatı vardı — sûre söylemiyor.
+Adam üç ayet önce iki şeyden söz etmişti: **malından** ve **saltanatından.** İkisinin de ölçüsü verilmemişti. Ne kadar malı vardı, ne kadar geniş bir saltanatı vardı — sûre söylemiyor.
 
 Ölçüsü verilen tek şey **zincir.**
 
@@ -2096,7 +2096,7 @@ Bunu kendi okumam olarak kaydediyorum. Dayanağı iki sûrenin farklı sahnelerd
 
 Yani suçlanan şey bir an değil, bir **süre.** Ve süre bitmiştir; *kâne* mâzîdir.
 
-Bu, on dokuzuncu ayetteki sağdaki adamın cümlesiyle karşıtlık kuruyor: o da mâzî kullanmıştı (*zanentü* — "zannettim"). İki adam da geçmiş zaman kullanıyor; biri kapanmış bir kanaati, öteki kapanmış bir inkârı anlatıyor.
+Bu, yirminci ayetteki sağdaki adamın cümlesiyle karşıtlık kuruyor: o da mâzî kullanmıştı (*zanentü* — "zannettim"). İki adam da geçmiş zaman kullanıyor; biri kapanmış bir kanaati, öteki kapanmış bir inkârı anlatıyor.
 
 ### بِٱللَّهِ ٱلْعَظِيمِ — "yüce Allah"
 
@@ -2554,7 +2554,7 @@ Bu okumayı bir deneme olarak kaydediyorum; klasik bir müfessire nispet etmiyor
 
 ### تَذَكَّرُونَ ve sûrenin ikinci "tezkira"sı
 
-**ذ-ك-ر kökü bu sûrede üç kez geçiyor** ve üçü de sûrenin üç bölümünde birer tanedir:
+**ذ-ك-ر kökü bu sûrede üç kez geçiyor** ve biri tarih bölümünde, ikisi vahiy bölümündedir:
 
 | Ayet | Kelime | Bölüm | Ne bildiriyor |
 |---|---|---|---|

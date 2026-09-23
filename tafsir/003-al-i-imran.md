@@ -212,7 +212,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Buradaki kayıt kaydedilmeye değer: *keyfe yeşâ'* — "nasıl dilerse".** **Yani ayet biçimin *kaynağını* değil, biçim üzerindeki *tasarrufu* konu ediyor.**
 
-**Ve yeri önemlidir — bunu kendi okumam olarak veriyorum:** sûre, otuz beşinci ayette bir kadının **karnındakini** adamasıyla açılan bir kıssaya girecek ve o kadın **beklediğinden başkasını** doğuracak. **Altıncı ayet, o kıssanın hükmünü kırk ayet önceden koymuş oluyor:** rahimdeki biçim, isteyenin elinde değil.
+**Ve yeri önemlidir — bunu kendi okumam olarak veriyorum:** sûre, otuz beşinci ayette bir kadının **karnındakini** adamasıyla açılan bir kıssaya girecek ve o kadın **beklediğinden başkasını** doğuracak. **Altıncı ayet, o kıssanın hükmünü yirmi dokuz ayet önceden koymuş oluyor:** rahimdeki biçim, isteyenin elinde değil.
 
 **Bunun bir "bilimsel işaret" olarak okunmadığını açıkça kaydediyorum.** Ayet embriyoloji anlatmıyor; **tasarrufun kimde olduğunu** söylüyor.
 
@@ -782,10 +782,10 @@ Ayet bu işlemi tarif ediyor ve iki ayrı yerden yakalıyor:
 
 | Sıra | Kelime | İşi |
 |---|---|---|
-| 1 | *Mâlike'l-**mülk*** | **Nidâ** — çağrılanın sıfatı |
-| 2 | *Tü'ti'l-**mülke*** | **Verilen** şey |
-| 3 | *Tenziu'l-**mülke*** | **Alınan** şey |
-| 4 | (*mimmen teşâ'*) | Alınanın **kimden** alındığı |
+| 1 | *Mâlike* | **Nidâ** — çağrılanın sıfatı |
+| 2 | *el-**mülk*** | **Sahip olunan** — mülkün kendisi |
+| 3 | *Tü'ti'l-**mülke*** | **Verilen** şey |
+| 4 | *Tenziu'l-**mülke*** | **Alınan** şey |
 
 **Ve fiil çiftleri kaydedilmelidir:**
 
@@ -1004,7 +1004,7 @@ Kökün somut anlamı: **ح-ر-ر — sıcaklık; ve hür olmak, bağdan kurtulm
 
 **و-ض-ع** kökü: **bir şeyi bırakmak, koymak.** Doğurmak için kullanılışı buradan gelir — Arapçada *vada'ati'l-mer'e* "kadın doğurdu" demektir; **kökün resmi, taşınan bir yükün bırakılmasıdır.**
 
-**Ve fiil iki ayette dört kez geçiyor:**
+**Ve fiil aynı ayette üç kez geçiyor:**
 
 | Sıra | Cümle | Kim söylüyor |
 |---|---|---|
@@ -1059,7 +1059,7 @@ Kökün somut anlamı: **ح-ر-ر — sıcaklık; ve hür olmak, bağdan kurtulm
 
 **Ad verme fiili kaydedilmeye değer:** *semmeytühâ* — "ona **ben** ad verdim". Zamir vurgulu (*innî*).
 
-**Ve ad, sûrenin ikinci yarısında altı kez geçecek.** **`019-meryem.md`'de bir sûre bu adı taşıyor** ve orada Meryem'in kıssası ayrıntılı işlendi.
+**Ve ad, sûrenin ilk çeyreğinde beş kez daha geçecek.** **`019-meryem.md`'de bir sûre bu adı taşıyor** ve orada Meryem'in kıssası ayrıntılı işlendi.
 
 **STYLE gereği kaydediyorum: adın anlamı üzerinde klasik kaynaklarda farklı görüşler nakledilir ve kesin bir bilgi yoktur.** Bu tefsirde bir anlam iddiası kurmuyorum.
 
@@ -2102,7 +2102,7 @@ Ve öznenin seçimi kaydedilmelidir: *li-**beşer*** — "bir **insan** için". 
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle, yasağı en geniş kümeye koyuyor. **Bir insana verilebilecek en yüksek üç şey sayıldıktan sonra bile, o kişi "beşer" olarak adlandırılıyor.**
 
-**Ve üçlü sayım kaydedilmelidir: *el-kitâb*, *el-hukm*, *en-nübüvve*.** **Aynı üçlü sûrede 48. ayette Îsâ için, ve `045-casiye.md` 45/16'da İsrâiloğulları için geçmişti.** **`045-casiye.md` 45/16-20'ye dayanıyorum.**
+**Ve üçlü sayım kaydedilmelidir: *el-kitâb*, *el-hukm*, *en-nübüvve*.** **Aynı üçlü `045-casiye.md` 45/16'da İsrâiloğulları için geçmişti.** **`045-casiye.md` 45/16-20'ye dayanıyorum.**
 
 ### كُونُوا۟ رَبَّٰنِيِّۦنَ — konan alternatif
 
@@ -2225,7 +2225,7 @@ Ve öznenin seçimi kaydedilmelidir: *li-**beşer*** — "bir **insan** için". 
 
 **Üç ayette aynı kök, üç ayrı ölçekte.** Bu, metinden doğrulanabilir bir olgudur.
 
-**Ve seksen dördüncü ayet, seksen beşinci ayetten hemen önce, iman edilenlerin listesini veriyor — ve liste, sekiz ayrı ad ve bir "peygamberler" toplamı içeriyor.** **Yani "İslâm" kelimesinin hemen öncesinde, o kelimenin kapsamı bir isim listesiyle gösteriliyor.**
+**Ve seksen dördüncü ayet, seksen beşinci ayetten hemen önce, iman edilenlerin listesini veriyor — ve liste, yedi ayrı ad ve bir "peygamberler" toplamı içeriyor.** **Yani "İslâm" kelimesinin hemen öncesinde, o kelimenin kapsamı bir isim listesiyle gösteriliyor.**
 
 ***Lâ nüferriku beyne ehadin minhüm*** — "**onlardan hiçbiri arasında ayırım yapmayız**". **Ve bu cümle 3/84'te, 85'ten bir ayet önce duruyor.**
 
@@ -3532,7 +3532,7 @@ Arapçada *eyyâm* kelimesi yalnız takvim günlerini değil, **bir topluluğun 
 
 ### حَسِبْتُمْ — kökün sûredeki hattı
 
-**ح-س-ب** kökü sûrede altı kez geçiyor ve girişteki tabloda dört geçişi kaydedilmişti (169, 178, 180, 188). **Buraya iki geçiş daha eklenmelidir: 78 (*li-tahsebûhü*) ve 142 (*em hasibtüm*).**
+**ح-س-ب** kökü sûrede "sanmak" anlamında altı kez geçiyor ve girişteki tabloda dört geçişi kaydedilmişti (169, 178, 180, 188). **Buraya iki geçiş daha eklenmelidir: 78 (*li-tahsebûhü*) ve 142 (*em hasibtüm*).**
 
 | Ayet | Lafız | Kim sanıyor |
 |---|---|---|
@@ -4361,7 +4361,7 @@ Ve bunun bağlamı unutulmamalıdır: 152. ayette *tenâza'tüm fi'l-emr* denmi�
 
 **وَكِيل** — kök **و-ك-ل**: **bir işi başkasına havale etmek.** *Vekîl* — işi üstlenen. **Ve aynı kökten *tevekkül*, 159 ve 160. ayetlerde geçmişti.**
 
-**Ve terkip Kur'an'da bir kez daha, `008-enfal.md` bahsinde değil ama bu sûrenin kendisinde tek geçişlidir. Ve *ni'me* kalıbı bir övgü bildirir.**
+**Ve terkip Kur'an'da yalnız burada geçer; tek geçişlidir. Ve *ni'me* kalıbı bir övgü bildirir.**
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** cümle iki parçadır — biri **yeterlilik** (*hasbünallâh*), öteki **üstlenme** (*ni'me'l-vekîl*). **Yani söylenen şey yalnız "O bize yeter" değil; "işi O üstlenir" de.**
 
@@ -5118,8 +5118,8 @@ Ve *fî sebîlî* kaydı: birinci şahıs izafeti — "**benim** yolumda". **Aye
 
 | Ayet | İhtilaf |
 |---|---|
+| **7** | *Ve mâ ya'lemü te'vîlehû illallâh* cümlesinde vakf meselesi |
 | **61** | *Fîhi* zamirinin mercii |
-| **73** | *En yü'tâ ehadün* cümlesinin bağlantısı |
 | **79** | *Rabbânî* kelimesinin türetilişi |
 | **81** | *Lemâ / limâ* okuyuşu ve i'râbı |
 | **83** | *Tav'an ve kerhen*in kapsamı |

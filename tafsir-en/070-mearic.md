@@ -1072,7 +1072,7 @@ So one conveys the movement, the other the decision.
 
 ### وَجَمَعَ فَأَوْعَىٰ — "he gathered and put it in a vessel"
 
-**The two densest words in the sūra, and they have been mentioned earlier in this commentary.**
+**Another two-word sentence, and it has been mentioned earlier in this commentary.**
 
 In the section on **al-Humaza 104/2** this verse was already used, and there the following was recorded:
 
@@ -2538,7 +2538,7 @@ In the section on al-Māʿūn al-Muddaththir 74/42-46 was transmitted: the four-
 
 And note a detail in the sentence in al-Muddaththir — *"**with** those who plunged"*. That is, the act is not done alone; it is a **collective** business.
 
-And so it is in al-Maʿārij: *"yakhūḍū"* is plural, and two verses earlier it had said *ʿizīn* (scattered groups). **People gathered in clumps, plunging together.**
+And so it is in al-Maʿārij: *"yakhūḍū"* is plural, and five verses earlier it had said *ʿizīn* (scattered groups). **People gathered in clumps, plunging together.**
 
 I record this as my own reading. The wordings of the two verses and the transmission in the section on al-Māʿūn are data that can be verified.
 
@@ -2674,7 +2674,7 @@ And: *"[Forbidden to you is] what has been slaughtered on **standing stones**."*
 
 **The first reading makes a stronger link with the content of the sūra**, and the ground is this:
 
-Forty-five verses earlier the sūra had described the deniers as **gathered around** the Prophet: *"craning their necks towards you, from the right and from the left, in clumps."*
+Seven verses earlier the sūra had described the deniers as **gathered around** the Prophet: *"craning their necks towards you, from the right and from the left, in clumps."*
 
 And now the same people come out of their graves as though racing to a **standing stone.**
 
@@ -2810,7 +2810,7 @@ I record this as my own reading. The opening and closing sentences of the sūra 
 
 ### The roots that weave the sūra
 
-The table below shows the roots that occur in **more than one place** in the sūra. The shared roots are data that can be verified; the interpretation that they constitute an order is my own.
+The table below shows the roots that occur in **more than one place** in the sūra, together with two roots that occur once and make a link with other sūras. The shared roots are data that can be verified; the interpretation that they constitute an order is my own.
 
 | Root | Occurrences | What it does |
 |---|---|---|
@@ -2841,7 +2841,7 @@ The steps of the sūra show this:
 
 **Third step (19-21): the real matter is named.** The problem is not the delay of the punishment; it is **the constitution of man.** A being who is *halūʿ* cannot wait in any case — because a constitution that wails and withholds cannot bear a deferred requital.
 
-**Fourth step (22-35): the way out.** And the way out is not an argument but an **order**: nine items, with prayer at both ends.
+**Fourth step (22-35): the way out.** And the way out is not an argument but an **order**: eight items, with prayer at both ends.
 
 **Fifth step (36-44): the return to the question.** Those who asked are described — and the description is made with a bodily movement: craning the neck, running, standing scattered. Then the same movement is repeated in the scene of the resurrection.
 
@@ -2918,7 +2918,7 @@ And what the two reactions have in common is this: both are a sudden response to
 
 The life of today has multiplied this contact: every day more news, more comparison, more small losses and gains touching us. For a constitution that is *halūʿ*, this means a constant oscillation — a collapse or a closing at every touch.
 
-What the sūra offers is not a piece of advice but an **order**: a list of nine items with prayer at its two ends. That is, **rhythm** is proposed as the antidote to reaction.
+What the sūra offers is not a piece of advice but an **order**: a list of eight items with prayer at its two ends. That is, **rhythm** is proposed as the antidote to reaction.
 
 **Three. Wrong inference and wrong reaction.**
 
@@ -2956,7 +2956,7 @@ Verses thirty-six through thirty-eight set up a picture together: people come, l
 
 That is, **interest is taken for participation.**
 
-This may be the point at which the sūra looks most directly at the present. To stand near something, to watch it, to talk about it, to gather around it — none of these is joining it. And the sūra has drawn the difference between the two with a list of thirty-five verses: the list counts what the one who joins does.
+This may be the point at which the sūra looks most directly at the present. To stand near something, to watch it, to talk about it, to gather around it — none of these is joining it. And the sūra has drawn the difference between the two with a list of thirteen verses: the list counts what the one who joins does.
 
 **Eight. "Leave them."**
 

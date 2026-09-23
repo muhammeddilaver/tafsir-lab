@@ -534,7 +534,7 @@ The "measure of knowledge" recorded in the section on al-Jinn holds here too and
 
 **The last row is the most important.** In Ghāfir the ruling is given; here **the ruling is not even asked for — an opinion is requested.** The addressee will give his own answer.
 
-***Ashadd* — root ش-د-د: to bind, to tighten, to make firm.** The root was mentioned in the section on the seventh verse (in connection with the discussion of al-Jinn). **The sense here is not "great" but "firm"** — the comparison, that is, is built on **structure**, not on bulk.
+***Ashadd* — root ش-د-د: to bind, to tighten, to make firm.** The root occurs in this sūra only here. **The sense here is not "great" but "firm"** — the comparison, that is, is built on **structure**, not on bulk.
 
 ***Man khalaqnā* — "the one whom We created".** **And note: not *mā* but *man*.** In Arabic *man* is used of rational beings. **This is a point the grammarians record**, and it gives rise to this explanation: what is meant may be not only the heavens and the earth but **all rational creatures, the angels included.**
 
@@ -1114,7 +1114,7 @@ The sense the lexicographers give: **sticking, clinging together, adhering to th
 
 **A point of word order:** *li-shāʿirin* — the preposition *lām* announces **cause**: "**because of** a poet". What is named, that is, is not what they would gain in return for leaving their gods but **the person** who leads them to leave them. **The expression reduces the matter to an individual.**
 
-And *ālihati**nā*** — "**our** gods". In the fourth verse it had been said *inna ilāha**kum** la-wāḥid* — "**your** God is one". **The same word, the same pronominal suffix, the opposite ruling.** The sūra sets its own key word in their mouths. This is a textual datum.
+And *ālihati**nā*** — "**our** gods". In the fourth verse it had been said *inna ilāha**kum** la-wāḥid* — "**your** God is one". **The same word, a different pronominal suffix, the opposite ruling.** The sūra sets its own key word in their mouths. This is a textual datum.
 
 ### بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ — the answer
 
@@ -3905,7 +3905,7 @@ The sentence is therefore not "we form ranks" but **"the ones who form ranks are
 
 **Through five verses the side asked "do you know?" is warned "you will know".**
 
-**And the root ع-ل-م will occur once more in the sūra, in a different pattern:** *fa-sawfa **yubṣirūn*** (175, 179) — there not knowing but **seeing**. **When the two moulds stand side by side, the two verbs of the sūra's last block emerge: to know and to see.**
+**And the mould *fa-sawfa* will return once more in the sūra, with a different verb:** *fa-sawfa **yubṣirūn*** (175, 179) — there not knowing but **seeing**. **When the two moulds stand side by side, the two verbs of the sūra's last block emerge: to know and to see.**
 
 ---
 

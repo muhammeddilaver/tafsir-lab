@@ -22,7 +22,7 @@
 
 **The first:** the sky is preserved (17), the reminder is preserved (9), Lot's guests are protected (65), and the people of al-Ḥijr **supposed themselves protected** (82 — *buyūtan āminīn*). **The sūra compares real protection with false protection.**
 
-**The second is a repetition of vocabulary that can be verified — the attribute *maʿlūm* occurs three times in the sūra, and all four set a *boundary*:**
+**The second is a repetition of vocabulary that can be verified — the attribute *maʿlūm* occurs four times in the sūra, and all four set a *boundary*:**
 
 | Verse | Expression | Boundary of what |
 |---|---|---|
@@ -576,7 +576,7 @@ The **و-ر-ث** root: **to come into possession of what is left after someone.*
 
 ### إِنَّهُۥ حَكِيمٌ عَلِيمٌ
 
-**The block closes with two names, and the second is from the same root as the verb of the block:** *ʿalimnā* (24) → *ʿAlīm* (25). **The verb belongs to the servant, the name to God.**
+**The block closes with two names, and the second is from the same root as the verb of the block:** *ʿalimnā* (24) → *ʿAlīm* (25). **Both the verb and the name belong to God.**
 
 ---
 

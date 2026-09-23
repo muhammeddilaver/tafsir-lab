@@ -43,7 +43,7 @@ And the sūra works this question not through an abstract principle but through 
 | **X** | 74-80 | Hell, the call to Mālik, secret speech | *wa rusulunā ladayhim yaktubūn* (80) |
 | **XI** | 81-89 | The conditional sentence, glorification, the close — *faṣfaḥ ʿanhum* | *fa-sawfa yaʿlamūn* (89) |
 
-**The boundaries of the blocks are drawn by the sūra's own repetitions.** The most visible is this: **the verb refused in the fifth verse is commanded in the eighty-ninth.** The same root, the same word, the opposite ruling — and eighty-four verses in between. I shall set this ring out in a table again at the end of the sūra.
+**The boundaries of the blocks are drawn by the sūra's own repetitions.** The most visible is this: **the verb refused in the fifth verse is commanded in the eighty-ninth.** The same root, the same word, the opposite ruling — and eighty-three verses in between. I shall set this ring out in a table again at the end of the sūra.
 
 ### Rings within the sūra
 
@@ -129,7 +129,7 @@ I record this as my own reading, and its ground is the repetition of the verb wi
 
 **I record this as my own reading, and its ground is the root meanings of the two words:** the verse says the same thing twice in two successive descriptions. The Book is clear; and it was given in the language that makes clear.
 
-**The Qurʾān makes this description elsewhere too, and always ties it to the same ground:** Yūsuf 12/2 (*innā anzalnāhu qurʾānan ʿarabiyyan laʿallakum taʿqilūn* — the identical sentence), Ṭāhā 20/113, al-Zumar 39/28, Fuṣṣilat 41/3, al-Shūrā 42/7, al-Aḥqāf 46/12, al-Raʿd 13/37. **In al-Naḥl 16/103 the word occurs as an answer to an objection:** *lisānu'lladhī yulḥidūna ilayhi aʿjamiyyun wa hādhā lisānun ʿarabiyyun mubīn* — here *aʿjamī* is set as the opposite of *ʿarabī*.
+**The Qurʾān makes this description elsewhere too, and always ties it to the same ground:** Yūsuf 12/2 (*innā anzalnāhu qurʾānan ʿarabiyyan laʿallakum taʿqilūn* — the same sentence but for the verb), Ṭāhā 20/113, al-Zumar 39/28, Fuṣṣilat 41/3, al-Shūrā 42/7, al-Aḥqāf 46/12, al-Raʿd 13/37. **In al-Naḥl 16/103 the word occurs as an answer to an objection:** *lisānu'lladhī yulḥidūna ilayhi aʿjamiyyun wa hādhā lisānun ʿarabiyyun mubīn* — here *aʿjamī* is set as the opposite of *ʿarabī*.
 
 The root **ع-ج-م** is the exact opposite of the root ع-ر-ب, and the concrete sense of the root shows it: **closedness, unintelligibility.** *ʿUjma* — a block in the tongue, a stammer. *ʿAjmāʾ* — an animal that has a voice but does not speak. **The contrast between the two roots is therefore not "Arab / non-Arab" but, at the level of the roots the lexicographers record, "clear / closed".**
 
@@ -1508,7 +1508,7 @@ The root **ع-ظ-م**: **bone.** *ʿAẓm* — bone. And from there **greatness*
 - This verse was cited directly in `083-mutaffifin.md` and `104-humeze.md`.
 - In `054-kamer.md` it was given under the heading "the objection about selection", together with Ṣād 38/8: *a-unzila ʿalayhi'dh-dhikru min bayninā* — "has the reminder been sent down on him, out of all of us?"
 
-**And in `046-ahkaf.md` at 46/11 the same logic was recorded in another sentence** — bringing it over here for comparison is called for, and the comparison is fruitful:
+**And in `046-ahkaf.md` at 46/11 the same logic was recorded in another sentence** — I bring it over here for comparison, and the comparison is fruitful:
 
 | | **al-Aḥqāf 46/11** | **al-Zukhruf 43/31** |
 |---|---|---|
@@ -2258,7 +2258,7 @@ The root **ض-ح-ك**: to laugh. **The lexicographers record one further branch 
 
 **I record this as my own reading, and its ground is the two uses of the word in the Qurʾān:** the word Pharaoh uses as an insult is the word the Qurʾān uses **of everyone.** **The difference lies not in whom the word is stuck on, but in who counts himself outside it.**
 
-### وَلَا يَكَادُ يُبِينُ — and the fourth *mubīn* of the sūra
+### وَلَا يَكَادُ يُبِينُ — and the sixth *mubīn* of the sūra
 
 **The verb *kāda* conveys approaching: "almost".** Its negative (*lā yakādu*) gives, in Arabic, **a strong negation**: "he almost cannot do it" — that is, **he does it only with great difficulty**, or not at all.
 
@@ -2284,7 +2284,7 @@ The root **ض-ح-ك**: to laugh. **The lexicographers record one further branch 
 
 **And the sūra uses this measure itself — but elsewhere: of the Book (2), of the messenger (29).** **The issue, that is, is not the existence of the measure but to whom it is applied.**
 
-**One further note:** the difficulty in Moses's speech is mentioned elsewhere in the Qurʾān — it occurs in his own prayer in Ṭāhā 20/27: *wa'ḥlul ʿuqdatan min lisānī · yafqahū qawlī* ("and loosen the knot in my tongue, that they may understand my speech"). **What Pharaoh says, then, is not an entirely baseless slander; the detail of it is recorded elsewhere in the Qurʾān.**
+**One further note:** the difficulty in Moses's speech is mentioned elsewhere in the Qurʾān — it occurs in his own prayer in Ṭāhā 20/27-28: *wa'ḥlul ʿuqdatan min lisānī · yafqahū qawlī* ("and loosen the knot in my tongue, that they may understand my speech"). **What Pharaoh says, then, is not an entirely baseless slander; the detail of it is recorded elsewhere in the Qurʾān.**
 
 **This needs recording, because it makes the verse's work still clearer:** Pharaoh is not lying. **He is using a correct observation on a wrong measure.**
 
@@ -2526,7 +2526,7 @@ The root **س-ل-ف**: to go in front, to pass ahead. *Salaf* — those who went
 
 **In the discussion of `047-muhammed.md` at 47/1 the two branches of the root ص-د-د were treated, and this verse was cited there:**
 
-> *"**Intransitive** — *ṣadda ʿan*: he himself turned away. 'When they see you they **turn away** from you' (in al-Zukhruf 43/57, *yaṣiddūn* from the same root)."*
+> *"**Intransitive** — *ṣadda ʿan*: he himself turned away. 'Your people **turn away** from it' (in al-Zukhruf 43/57, *yaṣiddūn* from the same root)."*
 
 **I rely on that treatment and add here the root's other branch.**
 
@@ -2619,7 +2619,7 @@ The root **ن-ع-م** occurred in the twelfth verse as *anʿām* (livestock) and
 
 ### وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
 
-**And the verb *jaʿala* comes for the seventh time in the sūra. The word *mathal* for the third.**
+**And the verb *jaʿala* comes for the seventh time in the sūra. The word *mathal* for the fifth.**
 
 **In what sense is *mathal* here?** Two readings are transmitted:
 
@@ -3127,7 +3127,7 @@ The root **خ-ل-د**: to remain long in a state, to go on and on. **The lexicog
 
 **And the word must be read together with the seventy-seventh verse:** there the same people will **speak** — *wa nādaw yā Mālik*.
 
-**I record this as an observation:** the seventy-fifth verse describes silence, the seventy-seventh a call. **The two verses between them prepare the transition.**
+**I record this as an observation:** the seventy-fifth verse describes silence, the seventy-seventh a call. **The verse between them prepares the transition.**
 
 ### وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
@@ -3290,7 +3290,7 @@ The root **ك-ر-ه** was treated in `002-bakara.md` at 2/216 and 2/256, and als
 
 ### أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُمْ
 
-**With a third *am* comes a third question.** This particle is used often in the sūra: 16, 21, 52, 58, 79, 80.
+**With a sixth *am* comes a sixth question.** This particle is used often in the sūra: 16, 21, 52, 58, 79, 80.
 
 The root **ح-س-ب** occurred in the thirty-seventh verse (*yaḥsabūna annahum muhtadūn*). **The same verb, in the same pattern.**
 

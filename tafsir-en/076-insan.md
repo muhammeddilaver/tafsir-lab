@@ -1286,7 +1286,7 @@ The word occurs **only here** in the Qurʾān and there is disagreement about it
 
 | View | Explanation | Weak point |
 |---|---|---|
-| **A proper name** | It is the name of a spring in the garden; it is not derived | The verse already says *tusammā* (it is named), which supports this view |
+| **A proper name** | It is the name of a spring in the garden; it is not derived | *Tusammā* (it is named) covers naming by a description as well; there is no other indication that it is a proper name |
 | **A description** | It means "flowing easily, passing smoothly down the throat"; it is of the same family as *salis* (easy, flowing) and *salsal* (sweet, light water) | The word's having more than four letters does not sit exactly with the accustomed Arabic patterns |
 | **A compound** | It has been said to come from a compounding such as *sal* + *sabīl* | Explanations of this kind are met with caution by the lexicographers |
 
@@ -1587,11 +1587,11 @@ The threefold emphasis shows that the sentence is answering an objection. The ob
 
 ### Context: why here?
 
-The place of the verse is strange at first sight. For twenty-two verses the garden and the *abrār* have been recounted; now suddenly the source of the revelation is spoken of.
+The place of the verse is strange at first sight. For eighteen verses the garden and the *abrār* have been recounted; now suddenly the source of the revelation is spoken of.
 
-The link appears in the next three verses. The twenty-fourth verse will give a **command**: be patient, do not obey. The twenty-fifth and twenty-sixth will give two more commands: remember, prostrate.
+The link appears in the next three verses. The twenty-fourth verse will give two **commands**: be patient, do not obey. The twenty-fifth and twenty-sixth will give three more commands: remember, prostrate, glorify.
 
-**The establishing of the source before the command is the logic of the sūra.** The bindingness of a command depends on who gives it. The twenty-third verse puts in place the ground on which the four commands rest.
+**The establishing of the source before the command is the logic of the sūra.** The bindingness of a command depends on who gives it. The twenty-third verse puts in place the ground on which the five commands rest.
 
 And there is one more link: the *abrār* were people who **paid their vows** (7) — those who carry out what binds them. Now a bond is given to the addressee.
 
@@ -1993,9 +1993,9 @@ I record this as my own reading; the shared root in the two verses is in the tex
 
 **And this reading too is worth recording, not as a theological preference:** having said that man's willing rests on something, the verse adds that what it rests on is **one who knows and who does things in their place.** That is, the limit itself is given together with the quality of the one who set the limit. This can also be read as a sentence of consolation — but that is my reading; the wording of the verse does not say it.
 
-### The four occurrences of the verb شاء
+### The five occurrences of the verb شاء
 
-In the last four verses of the sūra this root comes four times, and the arrangement sets up a symmetry:
+In the last four verses of the sūra this root comes five times, and the arrangement sets up a symmetry:
 
 | Verse | Word | Who wills |
 |---|---|---|
@@ -2128,7 +2128,7 @@ In a text of thirty-one verses, an economy of repetition of this density shows t
 
 ### The sound texture
 
-**All thirty-one of the thirty-one verses end with the same structure:** a long vowel + a liquid consonant (*r* / *l*) + *ā*. This is one of the most uniform patterns of verse-ending among the sūras treated in this commentary.
+**Twenty-nine of the thirty-one verses end with the same structure:** a long vowel + a liquid consonant (*r* / *l*) + *ā*. This is one of the most uniform patterns of verse-ending among the sūras treated in this commentary.
 
 And within the pattern there is a movement:
 

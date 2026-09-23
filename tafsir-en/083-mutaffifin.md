@@ -567,7 +567,7 @@ There are several views on the particle **لِ**:
 
 All three work in the text and do not exclude one another.
 
-The construct **رَبِّ ٱلْعَٰلَمِين** is the second verse of al-Fātiḥa and was taken up there. Why it should be chosen here is worth dwelling on.
+The construct **رَبِّ ٱلْعَٰلَمِين** is the first verse of al-Fātiḥa and was taken up there. Why it should be chosen here is worth dwelling on.
 
 The verse does not say "for God" or "for the best of judges". It says **"for the Lord of all the worlds"**.
 

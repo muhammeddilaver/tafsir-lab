@@ -230,7 +230,7 @@ On its being Meccan there is something close to agreement. Individual reports of
 
 **That is, what is announced is not a singular attribute but inclusion in a body.** *Min* here is partitive: part of a whole.
 
-**I record this as my own reading, and its ground is the sūra's own story:** thirteen verses later **three messengers** will come to a town, and they too will say *innā ilaykum mursalūn* (14) — **with the same word.** The sūra frames the Prophet's position not as an exception but as **the continuation of an ongoing work**. The place of the story in the sūra is prepared by this sentence.
+**I record this as my own reading, and its ground is the sūra's own story:** eleven verses later **three messengers** will come to a town, and they too will say *innā ilaykum mursalūn* (14) — **with the same word.** The sūra frames the Prophet's position not as an exception but as **the continuation of an ongoing work**. The place of the story in the sūra is prepared by this sentence.
 
 **The root ر-س-ل occurs in seven places in the sūra** (3, 13, 14, 16, 20, 30, 52) and will be tabulated separately in the closing section.
 
@@ -661,7 +661,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 **The choice of word is worth recording:** the verse does not say "We **sent** a third"; it says **"We reinforced them with a third".** **The third messenger, that is, is not a new beginning but a support set behind the first two.**
 
-**And this matches the first word of the verse:** in the fifth verse the one who sends down had been named ***al-ʿAzīz*** — **the same root.** In the sūra ع-ز-ز occurs twice: at 5 and at 14. **One is an attribute of the one who sends down, the other the reinforcing of the messengers.** It is a verifiable connection; I do not claim that it establishes a point, I record it.
+**And this matches the first word of the verse:** in the fifth verse the one who sends down had been named ***al-ʿAzīz*** — **the same root.** In the sūra ع-ز-ز occurs three times: at 5, at 14 and at 38. **Two are an attribute of the one who sends down, the other the reinforcing of the messengers.** It is a verifiable connection; I do not claim that it establishes a point, I record it.
 
 ### Word order: the order in which the number is given
 
@@ -739,7 +739,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 ### تَطَيَّرْنَا — root ط-ي-ر and the name of a custom
 
-**The concrete sense of the root is to fly.** *Ṭāʾir* — a bird; *ṭayr* — birds. **The root has occurred in `067-mulk.md` and `056-vakia.md`** (the flight of birds, the use *lāgha'ṭ-ṭayru*); **I do not repeat the basic analysis of the root.**
+**The concrete sense of the root is to fly.** *Ṭāʾir* — a bird; *ṭayr* — birds. **The root has occurred in `067-mulk.md` and `056-vakia.md`** (the flight of birds, *ṭayr* as a collective noun); **I do not repeat the basic analysis of the root.**
 
 **What belongs here is the word in Form V: *taṭayyara* — to take as an ill omen.** And behind this lies **a documented Arab custom**.
 
@@ -1068,7 +1068,7 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 
 **I record this as an observation:** the man counts no attribute for himself. Both verbs belong to **God**: *ghafara lī* (He forgave me), *jaʿalanī* (He made me). **There is not one verb in the sentence of which the man is the subject.**
 
-**And its link with the eleventh verse can be verified:** there it had been said *fa-bashshirhu bi-**maghfiratin** wa ajrin **karīm*** — **forgiveness and a *karīm* reward.** Here the same two things are named as having come about: *ghafara lī* and *mina'l-**mukram**īn*. **The same two roots, fifteen verses apart, once as promise and once as fulfilment.** This is a countable repetition within the sūra.
+**And its link with the eleventh verse can be verified:** there it had been said *fa-bashshirhu bi-**maghfiratin** wa ajrin **karīm*** — **forgiveness and a *karīm* reward.** Here the same two things are named as having come about: *ghafara lī* and *mina'l-**mukram**īn*. **The same two roots, sixteen verses apart, once as promise and once as fulfilment.** This is a countable repetition within the sūra.
 
 ---
 
@@ -1085,11 +1085,11 @@ In Arabic the *fāʾ* announces **consequence and sequence**. The sentence is bu
 | **Where he comes from** | *Min aqṣa'l-madīna* — **from the farthest part of the city** | *Min āli Firʿawn* — **from inside the ruling house** |
 | **His position** | **At the edge** | **At the centre** |
 | **The state of his faith** | **Open** — he declares it, *innī āmantu* | **Concealed**, opening out as the speech goes on |
-| **His form of address** | *Yā qawmi* — **once** | *Yā qawmi* — **five occurrences counted in the discussion of Ghāfir** |
+| **His form of address** | *Yā qawmi* — **once** | *Yā qawmi* — **three occurrences counted in the discussion of Ghāfir** |
 | **The kind of argument** | **A testable measure**: they ask no reward | **A dilemma**: if he is a liar the harm is his own, if he is truthful it will touch you |
 | **The person of the argument** | **First singular**: "why should I not serve" | **First plural**: "who will help us" |
 | **His attitude to the other side** | **He does not accuse** — he makes himself the example | **He does not accuse** — he grants them their kingdom (*lakum mulku'l-yawm*) |
-| **The length of his speech** | **Six verses** (20-25) | **Spread over sixteen verses** (28-35, 38-44) |
+| **The length of his speech** | **Six verses** (20-25) | **Spread over fifteen verses** (28-35, 38-44) |
 | **His last sentence** | *Yā layta qawmī yaʿlamūn* — **"if only my people knew"** | *Wa ufawwiḍu amrī ila'llāh* — **"I commit my affair to God"** |
 | **His outcome** | *Qīla'dkhuli'l-janna* — **recompense in the hereafter** | *Fa-waqāhu'llāhu sayyiʾāti mā makarū* — **protection in this world** |
 
@@ -2522,7 +2522,7 @@ The same structure is seen in sentences like "that is just how the system works"
 
 **The choice of word is worth recording:** the verse does not say "many people", it says **"a great heap"**. **My own reading:** the word announces that the straying was not one by one but **in a mass** — and this will return in the next block of the sūra: in the seventy-fifth verse *jund* (army) will be said of the gods that are taken up. **Both words announce a crowd.**
 
-**أَفَلَمْ تَكُونُوا۟ تَعْقِلُون** — the first of the sūra's two questions about reason (the other at 68). **Four questions were tabulated in the section on structure.**
+**أَفَلَمْ تَكُونُوا۟ تَعْقِلُون** — the first of the sūra's two questions about reason (the other at 68). **Four questions were tabulated in the discussion of 36/34-35.**
 
 **Word order:** *a-fa-lam **takūnū** taʿqilūn* — "were you not reasoning", in the past and in the durative form (*kāna* + imperfect). **The question, that is, looks not at a moment but at a lifetime.**
 
@@ -2543,7 +2543,7 @@ The same structure is seen in sentences like "that is just how the system works"
 | **61** | *Hādhā* | **The path** — the command to serve |
 | **63** | *Hādhihī* | **Hell** — what was promised |
 
-**Two demonstratives three verses apart.** **My own reading:** both are sentences of **pointing**, and both point to something already spoken of. **In the scene there is no longer any describing; there is pointing.** The same attitude runs through this whole section of the sūra: *al-yawma* five times, the demonstrative twice.
+**Two demonstratives two verses apart.** **My own reading:** both are sentences of **pointing**, and both point to something already spoken of. **In the scene there is no longer any describing; there is pointing.** The same attitude runs through this whole section of the sūra: *al-yawma* five times, the demonstrative twice.
 
 ### كُنتُمْ تُوعَدُون — "what was promised"
 
@@ -2792,7 +2792,7 @@ The information a person gives about himself and the information his conduct giv
 
 ### أَفَلَا يَعْقِلُون
 
-**The second of the sūra's two questions about reason (the other at 62), and one of the four rhetorical questions.** **It was tabulated in the section on structure.**
+**The second of the sūra's two questions about reason (the other at 62), and one of the four rhetorical questions.** **It was tabulated in the discussion of 36/34-35.**
 
 **ع-ق-ل** — the concrete sense of the root is **to bind**: *ʿiqāl*, the rope that binds a camel's knee; *ʿaqala'l-baʿīra* — he tethered the camel. From here *ʿaql*: **the bond that holds a person back from acting without thought.**
 
@@ -2989,7 +2989,7 @@ The information a person gives about himself and the information his conduct giv
 
 ### أَفَلَا يَشْكُرُون — the second occurrence in the sūra
 
-**This question comes for the second and last time in the sūra** (the first at 35). **It was tabulated in the section on structure and in the discussion of 36/35.**
+**This question comes for the second and last time in the sūra** (the first at 35). **It was tabulated in the discussion of 36/34-35.**
 
 **And what the two occurrences share can be verified:** both come after **things eaten and drunk** — one plants, the other animals. **The sūra asks about thanksgiving twice, and only in these two places.**
 

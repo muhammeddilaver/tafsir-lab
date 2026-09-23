@@ -591,7 +591,7 @@ Kelimenin *husr*'dan (Asr sûresi) farkı ince ama gerçek. **Husr** bir muhaseb
 
 Bu fark ayete bir şey katıyor: nefsini gömen kişi hiçbir şey ummayan biri değildir. Bir şey ummuştur — belki rahat, belki güvenlik, belki görünmemenin huzuru. Kelime, o umudun boşa çıktığını söylüyor.
 
-Kur'an'daki diğer kullanımlar bu tadı doğruluyor: *"Her inatçı zorba hüsrana uğradı"* (İbrâhîm 14/15); *"İftira eden kaybetmiştir"* (Tâhâ 20/61)
+Kur'an'daki diğer kullanımlar bu tadı doğruluyor: *"Her inatçı zorba hüsrana uğradı"* (İbrâhîm 14/15); *"İftira eden kaybetmiştir"* (Tâhâ 20/61).
 
 ### دَسَّى — gömmek
 
@@ -864,7 +864,7 @@ Yani deve bir işarettir; işaret olmasını sağlayan şey kendi özellikleri d
 
 ### سُقْيَا — su içme sırası
 
-**Kök: س-ق-ي.** *Sakâ* — su verdi, suladı. Aynı kökten **sikâye** (su dağıtma görevi — Tevbe 9/19'da geçer), **şerâb/meşrûb**, ve **sukyâ** — içirilen su, su içme payı.
+**Kök: س-ق-ي.** *Sakâ* — su verdi, suladı. Aynı kökten **sikâye** (su dağıtma görevi — Tevbe 9/19'da geçer) ve **sukyâ** — içirilen su, su içme payı.
 
 **Ve asıl mesele burada.** Ayet sadece "deveye dokunmayın" demiyor; **"onun su payına dokunmayın"** diyor. Yani yasak iki katmanlı: hayvanın kendisi ve hayvanın hakkı.
 

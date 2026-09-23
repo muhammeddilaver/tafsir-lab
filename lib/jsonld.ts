@@ -1,4 +1,4 @@
-import { LOCALE, REPO, SITE, T, type Lang } from "./i18n";
+import { LOCALE, REPO, ROUTES, SITE, T, type Lang } from "./i18n";
 import { abs } from "./meta";
 
 /**
@@ -21,7 +21,11 @@ const creator = () => ({
   publisher: { "@type": "Organization", name: "Anthropic", url: "https://www.anthropic.com" },
 });
 
-const QURAN: Record<Lang, string> = { tr: "Kur'an-ı Kerîm", en: "The Qurʾān" };
+const QURAN: Record<Lang, string> = {
+  tr: "Kur'an-ı Kerîm",
+  en: "The Qurʾān",
+  id: "Al-Qur'an",
+};
 
 const about = (lang: Lang) => ({ "@type": "Book", name: QURAN[lang] });
 
@@ -31,9 +35,9 @@ export function webSiteLd(lang: Lang) {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": `${abs(lang === "tr" ? "/" : "/en")}#website`,
+    "@id": `${abs(ROUTES[lang].home)}#website`,
     name: SITE,
-    url: abs(lang === "tr" ? "/" : "/en"),
+    url: abs(ROUTES[lang].home),
     description: t.metaDesc,
     inLanguage: LOCALE[lang],
     about: about(lang),

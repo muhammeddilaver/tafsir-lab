@@ -9,7 +9,11 @@ import { type Lang } from "./i18n";
 
 // See lib/content.ts: the source directory is written out literally.
 const srcDir = (lang: Lang) =>
-  lang === "en" ? path.join(process.cwd(), "tafsir-en") : path.join(process.cwd(), "tafsir");
+  lang === "en"
+    ? path.join(process.cwd(), "tafsir-en")
+    : lang === "id"
+      ? path.join(process.cwd(), "tafsir-id")
+      : path.join(process.cwd(), "tafsir");
 
 // Exactly the same rule as parse(): a heading of the form "N/a", "N/a-b"
 // or "N/a · b" is a section. Free-form headings such as

@@ -72,7 +72,7 @@ Bunun iki sonucu var ve ikisi de metnin okunuşunu belirliyor.
 |---|---|---|---|
 | 8 | *yevmün **asir*** | *yevmün **asîr*** (Müddessir 74/9) | Sıfat-ı müşebbehe / mübalağa |
 | 16, 18, 21, 30, 37, 39 | ***nüzür*** (yâ düşmüş) | *nüzürî* — aslı budur | İzâfe yâ'sının hazfi |
-| 45 | ***ed-dübür*** (tekil) | *edbârehüm* (çoğul, Enfâl 8/15-16) | Cins ismi tekil |
+| 45 | ***ed-dübür*** (tekil) | *el-edbâr* (çoğul, Enfâl 8/15) | Cins ismi tekil |
 | 54 | ***nehar*** (tekil) | *enhâr* (çoğul, her yerde) | Aşağıda ayrıca ele alınıyor |
 
 **İzâfe yâ'sının düşmesi** üzerinde durmak gerekiyor, çünkü sûrenin en çok tekrarlanan kelimesini ilgilendiriyor. *Azâbî ve nüzür* ifadesindeki *nüzür*, aslında *nüzürî*dir — "benim uyarılarım". Sondaki *yâ*, fasıla uyumu için düşürülmüştür ve geriye kesre kalmıştır: **نُذُرِ**. Aynı hazif, aynı sebeple, Mülk sûresinde iki kez görülür: *keyfe kâne **nekîr*** (67/18) ve *keyfe kâne **nezîr*** (67/17) — ikisi de aslında *nekîrî* ve *nezîrî*dir. Bu, Mülk bölümünde işlendi.
@@ -112,7 +112,7 @@ Tablodan çıkan üç şey var.
 
 **İki — mükâfat bölümü iki ayet.** Elli beş ayetin elli üçü uyarı, ceza, kıssa ve hesaptır; ikisi bahçedir. Rahmân'da otuz iki ayet bahçeydi. **İki nakarat sûresi, ağırlığı tam ters uçlara koymuş.**
 
-**Üç — kıssaların uzunlukları eşit değil ve sıralama düşen bir eğri değil:** Nûh 6 ayet, Âd 3 ayet, Semûd 7 ayet, Lût 6 ayet, Fir'avn 2 ayet. Yani en uzun kıssa ortadadır (Semûd), en kısası sondadır (Fir'avn). Liste, düzgün bir azalma göstermiyor; **sonda ani bir kesme** var.
+**Üç — kıssaların uzunlukları eşit değil ve sıralama düşen bir eğri değil:** Nûh 6 ayet, Âd 3 ayet, Semûd 8 ayet, Lût 6 ayet, Fir'avn 2 ayet. Yani en uzun kıssa ortadadır (Semûd), en kısası sondadır (Fir'avn). Liste, düzgün bir azalma göstermiyor; **sonda ani bir kesme** var.
 
 ---
 
@@ -255,7 +255,7 @@ Bu tefsirde Nûh ve Rahmân bölümlerinde uygulanan yöntemi burada da uyguluyo
 - **Nâkanın nasıl geldiği yok.** Şems bölümünde kaydedildiği gibi Kur'an bunu hiçbir yerde söylemez.
 - **Lût kavminin şehri adlandırılmıyor.** Hâkka bölümünde aynı kayıt düşüldü.
 - **Fir'avn'ın kıssası yok.** Adı bile geçmez; *âle Fir'avn* geçer. Mûsâ, asa, deniz, boğulma — hiçbiri.
-- **Fıkhî hüküm yok.** Sûrede tek bir emir vardır ve o da Peygamber'e yöneliktir: *"onlardan yüz çevir"* (6), *"gözetle ve sabret"* (27, Sâlih'e söylenmiş olarak).
+- **Fıkhî hüküm yok.** Sûredeki emirler ya Peygamber'e ya da kıssa içindeki kişilere yöneliktir: *"onlardan yüz çevir"* (6), *"gözetle ve sabret"* (27, Sâlih'e söylenmiş olarak).
 - **Cennet tasviri yok.** İki ayet, dört kelimelik bir tarif: *cennâtin ve nehar* + *fî mak'adi sıdkın inde melîkin muktedir.*
 
 Bütün bunlar Kur'an'ın başka yerlerinde vardır. Yani eksiklik değil, **seçim**tir. Bu sûre kıssaların içeriğini değil, **listelenebilirliğini** kullanıyor. Anlatılan şey olaylar değil; olayların **art arda geldiği** gerçeğidir.
@@ -678,7 +678,7 @@ Ve ayetin söylediği şey tam olarak budur: **çağrılan şey, bilinen hiçbir
 
 Altıncı ayet "hiçbir şeye benzemez" diyor; yedinci ayet hemen bir benzetme yapıyor. Çelişki değil, **işbölümü**: benzemeyen şey **olayın kendisidir**; benzetilen şey **insanların görüntüsüdür.** Kıyametin niteliği tarif edilemez; ama o gün insanların ne halde olacağı tarif edilebilir.
 
-**Kur'an'ın Kur'an'la tefsiri.** Aynı kök, aynı anlamda, Kehf sûresinde Hızır kıssasında geçer: *"Doğrusu çok **münker** bir şey yaptın"* (Kehf 18/74) ve *"Doğrusu **nükr** bir iş yaptın"* (Kehf 18/71). Orada da anlam "alışılmadık, akıl alması güç" yönündedir.
+**Kur'an'ın Kur'an'la tefsiri.** Aynı kök, aynı anlamda, Kehf sûresinde Hızır kıssasında geçer: *"Doğrusu **nükr** bir iş yaptın"* (Kehf 18/74). Orada da anlam "alışılmadık, akıl alması güç" yönündedir.
 
 ---
 
@@ -1049,7 +1049,7 @@ Cümlenin nesnesi **yerdir**, kaynaklar değil: *feccerne'l-**arda*** — "yeri 
 
 *Uyûnen* **temyîz**dir (belirtme mansûbu). Yani cümle *"yerde kaynaklar açtık"* demiyor; **"yeri kaynaklar halinde yardık"** diyor.
 
-Fark önemlidir ve görsel olarak da fark ederi:
+Fark önemlidir ve görsel olarak da fark edilir:
 
 | Kuruluş | Verdiği görüntü |
 |---|---|
@@ -1369,7 +1369,7 @@ Cümle üç pekiştirme öğesiyle açılıyor:
 
 Yani cümle Türkçeye "andolsun ki, kesinlikle" diye çevrilir ve bu abartı değil; üç ayrı gramer öğesinin karşılığıdır.
 
-**Ve bu üçlü, sûrede *velekad* ile başlayan bütün cümlelerde vardır.** Sûrede *velekad* ile açılan sekiz ayet var: 4, 15, 17, 22, 32, 36, 37, 38, 40, 41, 51. Yani sûrenin en pekiştirilmiş cümleleri, kıssaların bağlantı noktalarıdır.
+**Ve bu üçlü, sûrede *velekad* ile başlayan bütün cümlelerde vardır.** Sûrede *velekad* ile açılan on bir ayet var: 4, 15, 17, 22, 32, 36, 37, 38, 40, 41, 51. Yani sûrenin en pekiştirilmiş cümleleri, kıssaların bağlantı noktalarıdır.
 
 ### يَسَّرْنَا — kolaylaştırdık
 
@@ -1563,7 +1563,7 @@ Yani ayetin verdiği görüntü, devrilmiş ağaç değil; **yerinden çıkarıl
 
 Bu birleştirmeyi kendi okumam olarak kaydediyorum.
 
-**Ve VII. bâb burada da mutâvaat bildiriyor** — bu sûrede dördüncü kez: *inşakka* (1), *münhemir* (11), *munkair* (20), ve aşağıda *muhtazır* değil ama benzer bir yapı. Sûre, **bir dış etkiye uğrayan** şeyleri hep bu bâbla adlandırıyor. Ay yarıldı, su boşandı, ağaç söküldü — üçü de kendiliğinden değil.
+**Ve VII. bâb burada da mutâvaat bildiriyor** — bu sûrede üçüncü kez: *inşakka* (1), *münhemir* (11), *munkair* (20), ve aşağıda *muhtazır* değil ama benzer bir yapı. Sûre, **bir dış etkiye uğrayan** şeyleri hep bu bâbla adlandırıyor. Ay yarıldı, su boşandı, ağaç söküldü — üçü de kendiliğinden değil.
 
 Bunu bir kalıp gözlemi olarak kaydediyorum ve doğrulanabilir.
 
@@ -1614,7 +1614,7 @@ Yirmi ikinci ayet, nakaratın **ikinci** tam geçişidir. On yedinci ayetin alt�
 
 ## III. Semûd — 54/23-32
 
-Sûrenin en uzun kıssası: dokuz ayet. Ve tek diyaloglu kıssası — kavmin sözü aktarılıyor (24-25), cevap veriliyor (26), elçiye talimat veriliyor (27-28).
+Sûrenin en uzun kıssası: sekiz ayet. Ve tek diyaloglu kıssası — kavmin sözü aktarılıyor (24-25), cevap veriliyor (26), elçiye talimat veriliyor (27-28).
 
 **`091-sems.md`**'de Semûd kıssası hakkında Kur'an'ın söyledikleri ve söylemedikleri ayrıntılı dökümlendi; ayrıca kavmin tarihî çerçevesi (Asur kayıtları, el-Hicr, Nabatî yapılarla karıştırılmaması) orada verildi. **Bunları tekrarlamıyorum.** Şems bölümünde bu sûrenin iki ayeti (54/28 ve 54/29) zaten anılmıştı.
 
@@ -2027,7 +2027,7 @@ Bu son cümle benim okumamdır; kökün iki anlamı dil verisidir.
 
 Kökün türevleri, anlamın nereye açıldığını gösteriyor:
 
-- **عَاقِر** — çocuk doğurmayan kadın ya da erkek. Kur'an'da: *"Karım kısırdır"* (Meryem 19/5, 19/8), *"Ben kısır bir kocakarıyım"* (Zâriyât 51/29). **Dilcilerin izahı: nesli kesilmiş olan.**
+- **عَاقِر** — çocuk doğurmayan kadın ya da erkek. Kur'an'da: *"Karım kısırdır"* (Meryem 19/5, 19/8; Âl-i İmrân 3/40). **Dilcilerin izahı: nesli kesilmiş olan.**
 - **عُقْر الدار** — evin ortası, aslı, ana gövdesi.
 - **عَقِير** — ayağından vurulmuş hayvan.
 
@@ -2675,7 +2675,7 @@ Ve bu, kırk dokuzuncu ayette söylenecek olanın ta kendisidir: *innâ külle �
 
 Kırk üçüncü ayet, sûrenin ikinci yarısını açıyor. Kırk iki ayet boyunca üçüncü şahıs hakkında konuşan metin, burada **ikinci şahsa** dönüyor ve bir daha dönmüyor.
 
-Zamir sayımı bunu gösteriyor: 43'ten 53'e kadar **-küm** eki beş kez geçiyor (*küffâruküm*, *ülâikum*, *leküm*, ve 51'de *eşyâaküm*). Kırk üçüncü ayetten önce sûrede muhatap zamiri yalnız iki yerde var (6'da Peygamber'e emir, 37 ve 39'da *zûkû*).
+Zamir sayımı bunu gösteriyor: 43'ten 53'e kadar **-küm** eki dört kez geçiyor (*küffâruküm*, *ülâikum*, *leküm*, ve 51'de *eşyâaküm*). Kırk üçüncü ayetten önce sûrede muhatap zamiri yalnız iki yerde var (6'da Peygamber'e emir, 37 ve 39'da *zûkû*).
 
 ### أَكُفَّارُكُمْ — "sizin kâfirleriniz"
 
@@ -3537,7 +3537,7 @@ Kur'an bu kökten üç ayrı biçim kullanır:
 | Biçim | Kalıp | Anlamı |
 |---|---|---|
 | **مَلِك** | *fa'il* | **Hükümdar** — Haşr 59/23, Nâs 114/2, Tâhâ 20/114 |
-| **مَالِك** | ism-i fâil | **Sahip, malik** — Fâtiha 1/4 (kıraat farkıyla), Âl-i İmrân 3/26 |
+| **مَالِك** | ism-i fâil | **Sahip, malik** — Fâtiha 1/3 (kıraat farkıyla), Âl-i İmrân 3/26 |
 | **مَلِيك** | ***fa'îl*** — **mübalağa** | **Kamer 54/55** |
 
 **فَعِيل** kalıbı Arapçada **mübalağa ve sıfat-ı müşebbehe** bildirir: sıfatın sahibinde yerleşik ve yoğun olması. *Alîm* (çok bilen), *Kadîr*, *Semî'*, *Rahîm*.

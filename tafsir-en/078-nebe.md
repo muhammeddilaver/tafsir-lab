@@ -309,7 +309,7 @@ I record this as a reading I draw from the places the two words occupy within th
 
 ### كَلَّا — the particle of cutting
 
-This particle occurs in nearly thirty places in the Qurʾān and **all of them are in the second half of the codex** — that is, predominantly in short Meccan sūras. In this commentary we have met it before in the sections on al-Takāthur, al-Humaza, al-ʿAlaq and al-Balad.
+This particle occurs in nearly thirty places in the Qurʾān and **all of them are in the second half of the codex** — that is, predominantly in short Meccan sūras. In this commentary we have met it before in the sections on al-Takāthur, al-Humaza, al-ʿAlaq and ʿAbasa.
 
 The lexicographers divide over the particle's function:
 
@@ -780,7 +780,7 @@ The choosing of this word for the night relates the night's **enclosing** of a p
 
 *"It is He who made the night a covering for you, and sleep a rest, and the day a rising and dispersing."* (al-Furqān 25/47)
 
-This verse counts nearly the same triad as al-Nabaʾ 78/9-11: night, sleep, day. The words differ (*libās* for *libās*, *subāt* for *subāt*, *nushūr* for *maʿāsh*), but the order is the same.
+This verse counts nearly the same triad as al-Nabaʾ 78/9-11: night, sleep, day. The first two words are the same (*libās*, *subāt*), only the third differs (*nushūr* for *maʿāsh*), while the order is the same.
 
 And the last word in al-Furqān is striking: **نُشُور** — dispersing and spreading out. The same word is used in the Qurʾān for the **resurrection** as well: *"and to Him is the raising (nushūr)"* (al-Mulk 67/15).
 
@@ -2641,7 +2641,7 @@ And note: nowhere is the question of the first verse answered. The sūra's addre
 
 The sound scheme of the sūra is one of the most single-noted in the Qurʾān.
 
-**From the fifth verse to the end, every verse ends on the same sound: a lengthened *-ā*, and for the great majority *-ābā*.**
+**From the sixth verse to the end, every verse ends on the same sound: a lengthened *-ā*, and for the great majority *-ābā*.**
 
 Read the verse-endings in order:
 

@@ -1,13 +1,13 @@
 import Link from "next/link";
 import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "Terms of use",
   description: "The terms that apply when you use Tafsir Lab.",
   alternates: {
     canonical: ROUTES.en.terms,
-    ...alternates({ tr: ROUTES.tr.terms, en: ROUTES.en.terms }),
+    ...alternates(everywhere((r) => r.terms)),
   },
 };
 

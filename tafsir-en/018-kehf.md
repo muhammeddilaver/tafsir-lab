@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **I** | 1-8 | The Book, the warning, and the adornment of the world | *Wa innā la-jāʿilūna mā ʿalayhā ṣaʿīdan juruzā* (8) |
 | **II** | 9-26 | **The People of the Cave** | *Wa lā tastafti fīhim minhum aḥadā* (22) · *Quli'llāhu aʿlamu bimā labithū* (26) |
-| **III** | 27-49 | The owner of the two gardens and the parable of the life of this world | *Wa lam najid lahum mawʿidan* (48-49) |
+| **III** | 27-49 | The owner of the two gardens and the parable of the life of this world | *Bal zaʿamtum allan najʿala lakum mawʿidā* (48) |
 | **IV** | 50-59 | Iblīs, dispute, and the law of destruction | *Wa jaʿalnā li-mahlikihim mawʿidā* (59) |
 | **V** | 60-82 | **Moses (Mūsā) and the servant given knowledge** | *Dhālika taʾwīlu mā lam tasṭiʿ ʿalayhi ṣabrā* (82) |
 | **VI** | 83-110 | **Dhū'l-Qarnayn** and the closing | *Fa-lā yushrik bi-ʿibādati rabbihi aḥadā* (110) |
@@ -24,7 +24,7 @@
 | Moses and that servant | **The ground behind the events** (68, 78, 82) |
 | Dhū'l-Qarnayn | **When the barrier will be brought down** (98) |
 
-**In all four, the lack of knowledge is given not as a defect but as the human position.** I record this as my own reading, and its support is the sūra's own sentences: *qul rabbī aʿlamu bi-ʿiddatihim* (22), *wa lā taqūlanna li-shayʾin innī fāʿilun dhālika ghadan illā an yashāʾa'llāh* (23-24), *mā lam tuḥiṭ bihī khubrā* (68).
+**In all four, the lack of knowledge is given not as a defect but as the human position.** I record this as my own reading, and its support is the sūra's own sentences: *qul rabbī aʿlamu bi-ʿiddatihim* (22), *wa lā taqūlanna li-shayʾin innī fāʿilun dhālika ghadan illā an yashāʾa'llāh* (23-24), *ʿalā mā lam tuḥiṭ bihī khubrā* (68).
 
 ---
 
@@ -258,7 +258,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 **And this is tied word for word to the twenty-third verse of the sūra:** *wa lā taqūlanna li-shayʾin innī fāʿilun dhālika ghadan **illā an yashāʾa'llāh**.*
 
-| Verse | Expression | To whom |
+| Verse | Expression | What kind |
 |---|---|---|
 | 23-24 | *Illā an yashāʾa'llāh* | **Command** — a general rule |
 | 39 | *Mā shāʾa'llāh* | **Reproach** — what was not said |
@@ -622,7 +622,7 @@ In Arabic this pattern (*fa'l-yuʾmin … fa'l-yakfur*) is understood not as a c
 
 **The sentence is worth recording: the balance's not being set up.**
 
-**In `021-enbiya.md` at 21/47 (*wa naḍaʿu'l-mawāzīna'l-qisṭ*) the setting down of the balance may have been treated; in `057-hadid.md` *mīzān* was analysed.**
+**In `021-enbiya.md` at 21/47 (*wa naḍaʿu'l-mawāzīna'l-qisṭ*) the setting down of the balance was treated; in `057-hadid.md` *mīzān* was analysed.**
 
 **I record this as my own reading:** the verse does not report a punishment — it reports **that the operation is not performed**. **And this is the natural consequence of the diagnosis in the hundred and fourth verse:** those whose effort has gone astray have nothing left to be weighed.
 

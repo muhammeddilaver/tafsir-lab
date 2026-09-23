@@ -231,7 +231,7 @@ Buradan **beyân** doğar: bir şeyi başka şeylerden ayırmak, sınırlarını
 
 ### Kelime tekrarının sesi
 
-Ayet dört kelimeden oluşuyor ve ikisi aynı kökten: *fetahnâ… fethan*. Kısa, sıkı, tek nefeslik bir cümle. Sûrenin geri kalanı uzun ayetlerden kuruludur; açılış bilinçli biçimde kısa tutulmuş.
+Ayet beş kelimeden oluşuyor ve ikisi aynı kökten: *fetahnâ… fethan*. Kısa, sıkı, tek nefeslik bir cümle. Sûrenin geri kalanı uzun ayetlerden kuruludur; açılış bilinçli biçimde kısa tutulmuş.
 
 Fâsıla (-*în*/-*â* ile biten kapanış sesi) sûre boyunca büyük ölçüde korunacak: *mübînâ, müstakîmâ, azîzâ, hakîmâ, azîmâ…* Bu, Medenî uzun sûrelerde her zaman görülmeyen bir tutarlılıktır.
 
@@ -633,7 +633,7 @@ Bu kökün asıl anlamı `002-bakara.md`'de (2/6) çözümlendi: **örtmek, üst
 
 **سَيِّئَة** — kök **س-و-أ**: kötü olmak, çirkin olmak, hoşa gitmeyen olmak. *Sû'*, *esâe*, *seyyie*. Kelimenin merkezinde ahlakî bir yargıdan çok bir **hoşnutsuzluk** vardır: görüldüğünde yüzü ekşiten şey.
 
-Aynı kök bir sonraki ayette **iki kez** geçecek: *zanne's-sev'* ve *dâiratü's-sev'*. Yani sûre bu kökü üç kez, üç ayrı yerde kullanıyor — bir kez örtülen şey olarak, iki kez de karşı tarafın hâli olarak.
+Aynı kök bir sonraki ayette **üç kez** geçecek: *zanne's-sev'*, *dâiratü's-sev'* ve *sâet*. Yani sûre bu kökü dört kez kullanıyor — bir kez örtülen şey olarak, üç kez de karşı tarafın akıbetiyle ilgili olarak.
 
 ### وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
 
@@ -679,7 +679,7 @@ Yani **kötü zan burada teolojik bir kanaat değil, bir sonuç tahminidir:** "b
 
 > *"…Allah hakkında haksız yere **câhiliye zannı** besliyorlardı."* (Âl-i İmrân 3/154)
 
-İki ayet arasındaki bağ dikkat çekicidir: orada zan "câhiliye"ye nispet edilir, burada "kötü"ye. Ve bu sûrenin 26. ayetinde **hamiyye** yine "câhiliye"ye nispet edilecek. Aynı kelime, aynı sûre grubunda üç ayrı şeyi niteliyor: zan, hamiyye, hüküm (Mâide 5/50), süslenme (Ahzâb 33/33).
+İki ayet arasındaki bağ dikkat çekicidir: orada zan "câhiliye"ye nispet edilir, burada "kötü"ye. Ve bu sûrenin 26. ayetinde **hamiyye** yine "câhiliye"ye nispet edilecek. Aynı kelime, aynı sûre grubunda dört ayrı şeyi niteliyor: zan, hamiyye, hüküm (Mâide 5/50), süslenme (Ahzâb 33/33).
 
 ### عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ — "kötülük çemberi onların üzerine"
 

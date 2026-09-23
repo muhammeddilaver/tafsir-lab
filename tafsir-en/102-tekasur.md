@@ -651,7 +651,7 @@ At several points through the text a definite language was deliberately not used
 - In what sense the repetition in verses 3 and 4 (and the *thumma*) is to be taken is disputed; both readings were given, and neither was presented as certainly correct.
 - The passive variant reading in verse 6 (*la-turawunna*) is transmitted, but since I cannot say with certainty which imām it belongs to, no name was written.
 - That the making of the three degrees of certainty into a systematic teaching **belongs to later periods** was stated separately; the Qurʾān does not present this trio as a defined system.
-- The example of fire, smoke and burning is an example widely repeated in this literature; it was not ascribed to any one person.
+- The example of fire, flame and burning is an example widely repeated in this literature; it was not ascribed to any one person.
 - The views about the scope of "bounty" in verse 8 were given in a table, but the views were not ascribed by name to their holders.
 - The Prophet's words about the dates and the cool water are transmitted in the hadith collections; since I cannot say with certainty in which collection they stand, no name of a source was written. For the hadith about health and free time, al-Bukhārī was recorded.
 - Of the concepts in the social-science section, Veblen's "conspicuous consumption" is an established concept; the "Easterlin paradox" and the extent of hedonic adaptation are disputed in the literature, and this was stated openly. None of these concepts was presented as knowledge foretold in advance by the verse.

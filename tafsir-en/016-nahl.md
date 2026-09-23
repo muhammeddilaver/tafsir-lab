@@ -734,7 +734,7 @@
 
 **It must be recorded: in the ninth verse the word *sabīl* occurred in the sense of a bearing** (*wa ʿala'llāhi qaṣdu'l-sabīl*). **Here the same root comes back in the physical sense: *subulā* — roads.**
 
-**And in both places the closing is tied to the same root:** *la-hadākum* in the ninth verse, *laʿallakum tahtadūn* in the fifteenth, *hum yahtadūn* in the sixteenth. **The root ه-د-ي occurs four times in three verses.**
+**And in both places the closing is tied to the same root:** *la-hadākum* in the ninth verse, *laʿallakum tahtadūn* in the fifteenth, *hum yahtadūn* in the sixteenth. **The root ه-د-ي occurs three times in three verses.**
 
 **This is a repetition verifiable within the sūra, and I record this as my own reading:** the sūra tells of finding one's way on two planes at once — **finding the road across the earth, and finding the straight way.** The two planes are named with the same root, and no boundary is set between them.
 
@@ -799,7 +799,7 @@
 
 **The lexicographers explain it as a generic noun: it conveys not number but kind.** **And I give this as an observation:** to say of a singular word that it cannot be counted raises the tension of the sentence — **not even a single thing can be counted.**
 
-**And the sūra will use this word insistently:** the construction *niʿmata'llāh* occurs five times in the sūra (18, 53, 71, 72, 83), and once more in the form *niʿmatahū* (81). **This is a countable fact within the sūra and will be tabulated at the end.**
+**And the sūra will use this word insistently:** the construction *niʿmata'llāh* occurs five times in the sūra (18, 71, 72, 83, 114), and once more in the form *niʿmatahū* (81). **This is a countable fact within the sūra and will be tabulated at the end.**
 
 ### إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ — the choice of closing
 
@@ -1309,7 +1309,7 @@
 
 ### لِتُبَيِّنَ لِلنَّاسِ
 
-**The root ب-ي-ن occurs at three different places in the sūra and in three different tasks, and this is one of the sūra's structural signs:**
+**The root ب-ي-ن occurs at five different places in the sūra, in different tasks, and this is one of the sūra's structural signs; four of them are these:**
 
 | Verse | Expression | Who makes clear | What |
 |---|---|---|---|
@@ -1972,13 +1972,13 @@
 
 **Both readings are transmitted; I do not impose a preference.**
 
-**And a connection can be made with `049-hucurat.md`, and I give it as an observation:** *dākhirūn* (bowed low) occurred in the forty-eighth verse — of the shadows and of those who prostrate. **Here *dhulul* occurs — of the bee.** **Both words carry the same idea, and the sūra sets them twenty verses apart.**
+**And a connection can be made with `049-hucurat.md`, and I give it as an observation:** *dākhirūn* (bowed low) occurred in the forty-eighth verse — of the shadows and of those who prostrate. **Here *dhulul* occurs — of the bee.** **Both words carry the same idea, and the sūra sets them twenty-one verses apart.**
 
-### شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ — the fourth link
+### شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ — the fifth link
 
 **The construction *mukhtalifun alwānuhū* occurs for the second time in the sūra** (in the thirteenth verse *wa mā dharaʾa lakum fi'l-arḍi mukhtalifan alwānuh* occurred). **And at `035-fatir.md`, 35/27-28, it had been repeated three times.**
 
-**I complete the table as the fourth link:**
+**I complete the table as the fifth link:**
 
 | # | Place | Expression | Whose colours |
 |---|---|---|---|
@@ -2061,7 +2061,7 @@
 | **70** | *Lā yaʿlama **baʿda ʿilmin** shayʾā* | **From knowledge to unknowing** — at the end of life |
 | **78** | *Lā taʿlamūna shayʾā* | **From unknowing, the beginning** — at the start of life |
 
-**This is an overlap verifiable within the sūra, and eight verses stand between the two.** **I record this as my own reading:** the sūra bounds a human life at both ends with the same word (*shayʾā* — nothing at all). **At the beginning nothing is known; at the end what was known is taken back.** **And what is given in between will be enumerated in the seventy-eighth verse: hearing, eyes, hearts.**
+**This is an overlap verifiable within the sūra, and seven verses stand between the two.** **I record this as my own reading:** the sūra bounds a human life at both ends with the same word (*shayʾā* — nothing at all). **At the beginning nothing is known; at the end what was known is taken back.** **And what is given in between will be enumerated in the seventy-eighth verse: hearing, eyes, hearts.**
 
 **At `030-rum.md`, 30/54, the three stages of life (weakness → strength → weakness and grey hair) were treated and compared with the six steps at `040-gafir.md`, 40/67.** **I rely on that treatment and record the difference here:** al-Rūm and Ghāfir measure the stages **by the body**; **al-Naḥl by knowledge.**
 
@@ -2222,7 +2222,7 @@
 
 | | **al-Zumar 39/29** | **al-Naḥl 16/75** | **al-Naḥl 16/76** |
 |---|---|---|---|
-| The two sides | *Rajulan fīhi shurakāʾu mutafākisūn* / *wa rajulan salaman li-rajul* | *ʿAbdan mamlūkā* / *man razaqnāh* | *Abkam* / *man yaʾmuru bi'l-ʿadl* |
+| The two sides | *Rajulan fīhi shurakāʾu mutashākisūn* / *wa rajulan salaman li-rajul* | *ʿAbdan mamlūkā* / *man razaqnāh* | *Abkam* / *man yaʾmuru bi'l-ʿadl* |
 | The axis of distinction | **How many owners** — many / one | **Power of disposal** — absent / present | **Speech and use** — absent / present |
 | The shared question | *Hal yastawiyāni **mathalā*** | *Hal **yastawūn*** | *Hal **yastawī*** |
 | What it tells | **The practical consequence of associating partners** — confusion of direction | **The use made of what is given** | **What is given turning towards another** |
@@ -2470,9 +2470,9 @@
 
 "**God made shade for you out of what He created; He made you shelters in the mountains; and He gave you garments that guard you from the heat, and coats that guard you in your own violence. Thus He completes His favour upon you** — that you might submit."
 
-### Four *jaʿala*s, one closing
+### Five *jaʿala*s, one closing
 
-**The verse says *jaʿala lakum* four times** (three in this verse, one in the eightieth) **and at the end closes the whole enumeration with a single sentence.**
+**The verse says *jaʿala lakum* five times** (three in this verse, two in the eightieth) **and at the end closes the whole enumeration with a single sentence.**
 
 | Order | What is given | Against what |
 |---|---|---|
@@ -2526,7 +2526,7 @@
 
 **The same distinction was recorded at `030-rum.md`, 30/46:** the link that stood apart in the *wa min āyātihī* series ended with a verb of **response** (*tashkurūn*). **In al-Naḥl the enumeration ends with a verb of *submission*.**
 
-**I record this as my own reading, my ground being the series of verbs:** the sūra begins its counting with **thinking** and ends it with **submission.** **And seven distinct verbs are enumerated in between.** **The enumeration thus moves from an operation of knowledge towards a change of stance.**
+**I record this as my own reading, my ground being the series of verbs:** the sūra begins its counting with **thinking** and ends it with **submission.** **And five distinct verbs are enumerated in between.** **The enumeration thus moves from an operation of knowledge towards a change of stance.**
 
 ---
 
@@ -2653,7 +2653,7 @@
 
 ### تِبْيَٰنًا لِّكُلِّ شَىْءٍ
 
-**The construction is the third and last link of the sūra's ب-ي-ن series** (39, 44, 89). **It was tabulated above.**
+**The construction is the fourth link of the sūra's ب-ي-ن series** (39, 44, 64, 89). **It was tabulated above.**
 
 **And the form of the word must be recorded: *tibyān* — a verbal noun on the *tifʿāl* pattern.** **The lexicographers record that this pattern conveys intensification:** *tibyān* is **the fullest form of making clear.**
 
@@ -3354,7 +3354,7 @@
 
 **The lexicographers count *anʿum* as a plural of *niʿma***, and some explain the difference between it and the plural *niʿam* by the distinction between **the plural of paucity and the plural of multitude.** **I transmit this distinction as a tendency the lexicographers record; I do not impose a preference.**
 
-**And what matters is this: throughout the sūra *niʿma* was used in the singular** (18, 53, 71, 72, 83) **and occurred as *niʿmatahū* in the eighty-first verse.** **In the hundred and twelfth the plural comes for the first and only time.**
+**And what matters is this: throughout the sūra *niʿma* was used in the singular** (18, 71, 72, 83, 114) **and occurred as *niʿmatahū* in the eighty-first verse.** **The plural comes in two places only: in the hundred and twelfth and the hundred and twenty-first.**
 
 **I give this as an observation, and it is a countable fact:** in naming favour as a single whole the sūra never uses a plural. **It uses the plural only of favours that are denied, and only in one place.**
 
@@ -3591,7 +3591,7 @@
 
 ### The root of disagreement once more
 
-**The root خ-ل-ف occurs three times in this one verse: *ikhtalafū*, *yakhtalifūn*, and the disagreement to which *fīmā kānū fīhi* attaches.**
+**The root خ-ل-ف occurs twice in this one verse: *ikhtalafū* and *yakhtalifūn*.**
 
 **And the root had occurred earlier in the sūra: in the thirty-ninth verse (*yakhtalifūna fīh*), in the ninety-second (*mā kuntum fīhi takhtalifūn*), in the sixty-fourth (*alladhi'khtalafū fīh*).** **This is a repetition verifiable within the sūra.**
 
@@ -3821,7 +3821,7 @@
 
 | Word / root | Where | What it does |
 |---|---|---|
-| **نعمة** | 18, 53, 71, 72, 83 — *niʿmatahū* (81) — ***anʿum*** (112, 121) | **The sūra's backbone**; its plural in two places only |
+| **نعمة** | 18, 71, 72, 83, 114 — *niʿmatahū* (81) — ***anʿum*** (112, 121) | **The sūra's backbone**; its plural in two places only |
 | **أ-م-ر** | 1, 2, 12, 33, 50, 77, 90 | **It binds three planes: the cosmic, the historical and the moral** |
 | **ب-ي-ن** | 39, 44, 64, 89, 92 | **The work of making clear is distributed among three subjects and two times** |
 | **ج-د-ل / خ-ص-م** | *khaṣīmun mubīn* (4) — *tujādilu ʿan nafsihā* (111) — *jādilhum* (125) | **Identification → helplessness → method** |

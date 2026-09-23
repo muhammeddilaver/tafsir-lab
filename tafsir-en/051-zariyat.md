@@ -607,7 +607,7 @@ The question says "which day?"; the answer says "that day", but defines the day 
 In the thirteenth verse, the verb: *yuftanūn* — they are tested / they are melted in the fire.
 In the fourteenth verse, the noun: *fitnatakum* — your *fitna* / your testing.
 
-**The same root, two verses apart, in two different patterns.** And in the second use the word is **annexed** to those addressed: "your *fitna*".
+**The same root, in two consecutive verses, in two different patterns.** And in the second use the word is **annexed** to those addressed: "your *fitna*".
 
 This annexation is the harshest place in the verse. For the construction "your *fitna*" can be read in two ways, and both find support in the text:
 
@@ -2150,7 +2150,7 @@ The people of Noah are among the peoples most often recounted in the Qurʾān �
 
 **Here, one verse.** Indeed the event itself is not recounted at all: no flood, no ark, no span of time. Only a judgement: *kānū qawman fāsiqīn.*
 
-**And the order is meaningful:** the five narratives shorten fast — from fourteen verses to one.
+**And the order is meaningful:** the five narratives come down from fourteen verses to one.
 
 | Narrative | Number of verses |
 |---|---|
@@ -2731,7 +2731,7 @@ And what was recorded at al-Baqara 2/21: the command comes not as *"serve God"* 
 
 **These two findings directly determine how the fifty-sixth verse is read** and are the ground of the discussion below.
 
-### لِيَعْبُدُونِ — the dropping of the *nūn*
+### لِيَعْبُدُونِ — the dropping of the *yāʾ*
 
 A small grammatical detail: the verb should have been *li-yaʿbudū**nī*** — with the first-person *yāʾ* at the end (Me). In the verse the *yāʾ* has dropped and only the *kasra* remains: *li-yaʿbudūn(i).*
 
@@ -2971,7 +2971,7 @@ Who? Two explanations in the classical sources:
 | **The peoples of the past** | Those enumerated just before in the sūra: the people of Lot, Pharaoh, ʿĀd, Thamūd, the people of Noah |
 | **Their own contemporaries** | Those who keep to the same road |
 
-**The first is the stronger**, because the sūra had given thirty-four of its verses to those peoples, and the word *aṣḥāb* is easily read here in the sense of "those who do the same thing".
+**The first is the stronger**, because the sūra had given twenty-three of its verses to those peoples, and the word *aṣḥāb* is easily read here in the sense of "those who do the same thing".
 
 And this reading completes the finding of the fifty-third verse: *"did they enjoin this on one another?"* Those who say the same word receive the same share.
 
@@ -3003,7 +3003,7 @@ I record this as my own reading; the construct itself stands in the text.
 | **22** | *Wa fi'l-samāʾi rizqukum **wa mā tūʿadūn*** | The word stands beside provision |
 | **60** | *Yawmihimu'lladhī **yūʿadūn*** | The day of the word will come |
 
-**The sūra opens by declaring the truth of a promise and closes by recalling the day of that promise.** The fifty-five verses in between are the itemising of why that promise is true.
+**The sūra opens by declaring the truth of a promise and closes by recalling the day of that promise.** The fifty-four verses in between are the itemising of why that promise is true.
 
 ---
 
@@ -3016,7 +3016,7 @@ The verse-endings of the sixty verses form distinct groups, and the groups chang
 | Verses | Examples of the verse-ending | Sound |
 |---|---|---|
 | 1-4 | *dharwā, wiqrā, yusrā, amrā* | Short, accusative with *tanwīn*, **-rā** |
-| 5-14 | *ṣādiq, wāqiʿ, mukhtalif, ufik, al-kharrāṣūn, sāhūn, al-dīn, yuftanūn, tastaʿjilūn* | Mixed; a long vowel + **n** predominates |
+| 5-14 | *ṣādiq, wāqiʿ, al-ḥubuk, mukhtalif, ufik, al-kharrāṣūn, sāhūn, al-dīn, yuftanūn, tastaʿjilūn* | Mixed; a long vowel + **n** predominates |
 | 15-23 | *ʿuyūn, muḥsinīn, yahjaʿūn, yastaghfirūn, al-maḥrūm, al-mūqinīn, tubṣirūn, tūʿadūn, tanṭiqūn* | A long vowel + **n**, almost without a break |
 | 24-46 | *al-mukramīn, munkarūn, samīn, taʾkulūn, ʿalīm, ʿaqīm, al-ʿalīm, al-mursalūn, mujrimīn, ṭīn, al-musrifīn, al-muʾminīn, al-muslimīn, al-alīm, mubīn, majnūn, mulīm, al-ʿaqīm, al-ramīm, ḥīn, yanẓurūn, muntaṣirīn, fāsiqīn* | The same sound continues |
 | 47-60 | *mūsiʿūn, al-māhidūn, tadhakkarūn, mubīn, majnūn, ṭāghūn, malūm, al-muʾminīn, li-yaʿbudūn, yuṭʿimūn, al-matīn, yastaʿjilūn, yūʿadūn* | The same sound |

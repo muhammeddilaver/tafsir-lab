@@ -1797,7 +1797,7 @@ Several roots occur in more than one place in the sūra, and their circulation e
 
 **ح-د-د (boundary)** — *ḥudūd Allāh* (4), *yuḥāddūna* (5, 20, 22). The boundary God draws and the boundary man draws against it. The backbone of the sūra.
 
-**ن-ج-و (to draw aside)** — 7, 8 (twice), 9 (three times), 10, 12, 13. The word occurs nine times; the densest root of the sūra.
+**ن-ج-و (to draw aside)** — 7, 8 (twice), 9 (three times), 10, 12 (twice), 13. The word occurs ten times; the densest root of the sūra.
 
 **ح-ل-ف (oath)** — 14, 18; and *aymān* (16). The oath's turning into a shield, and the attempt to use that shield on the day of resurrection too.
 

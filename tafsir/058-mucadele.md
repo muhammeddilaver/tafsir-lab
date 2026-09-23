@@ -1797,7 +1797,7 @@ Birkaç kök sûrede birden çok yerde geçiyor ve dolaşımları bir örüntü 
 
 **ح-د-د (sınır)** — *hudûdullâh* (4), *yuhâddûne* (5, 20, 22). Allah'ın çizdiği sınır ile insanın karşı çizdiği sınır. Sûrenin omurgası.
 
-**ن-ج-و (bir kenara çekilmek)** — 7, 8 (iki kez), 9 (üç kez), 10, 12, 13. Kelime dokuz kez geçiyor; sûrenin en yoğun kökü.
+**ن-ج-و (bir kenara çekilmek)** — 7, 8 (iki kez), 9 (üç kez), 10, 12 (iki kez), 13. Kelime on kez geçiyor; sûrenin en yoğun kökü.
 
 **ح-ل-ف (yemin)** — 14, 18; ve *eymân* (16). Yeminin bir kalkana dönüşmesi ve bu kalkanın diriliş gününde de kullanılmaya çalışılması.
 

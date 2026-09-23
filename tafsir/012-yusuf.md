@@ -173,7 +173,7 @@
 
 **كَوْكَب** — parlak yıldız, gezegen. **Kelime `082-infitar.md` 82/2'de (*ve ize'l-kevâkibü'nteserat*) işlendi** ve orada bu ayet de anılmıştı. **Oraya dayanıyorum.**
 
-**يَٰٓأَبَتِ** — "babacığım". **Sondaki تِ, Arapçada nidâ için kullanılan bir *tâ*dır ve şefkat bildirir** (aslı *yâ ebî*). **Kur'an bu hitabı birkaç yerde kullanır ve hepsinde bir baba-oğul konuşmasıdır:** İbrâhîm babasına (Meryem 19/42-45), Medyen'deki kız babasına (Kasas 28/26), ve bu sûrede iki kez Yûsuf babasına (4, 100).
+**يَٰٓأَبَتِ** — "babacığım". **Sondaki تِ, Arapçada nidâ için kullanılan bir *tâ*dır ve şefkat bildirir** (aslı *yâ ebî*). **Kur'an bu hitabı birkaç yerde kullanır ve hepsinde bir evlât-baba konuşmasıdır:** İbrâhîm babasına (Meryem 19/42-45), Medyen'deki kız babasına (Kasas 28/26), ve bu sûrede iki kez Yûsuf babasına (4, 100).
 
 ---
 
@@ -671,7 +671,7 @@
 
 **Ve `053-necm.md` 53/29-30'da aynı kökün *irâde* biçimi işlenmişti:** *irâde*, kökünde **arama** fikri taşır. **Oraya dayanıyorum.**
 
-**Fiilin sûredeki dağılımı kaydedilmelidir — dört kez geçiyor ve iki ayrı alanda:**
+**Fiilin sûredeki dağılımı kaydedilmelidir — beş kez geçiyor ve iki ayrı alanda:**
 
 | Ayet | İfade | Kim | Ne isteniyor |
 |---|---|---|---|
@@ -740,7 +740,7 @@
 | # | Okuma | Cümle nasıl kuruluyor | Dayanağı |
 |---|---|---|---|
 | **1** | **Takdîm-te'hîr okuması** | *Levlâ* cümlesi **öne alınmış** sayılır: "Rabbinin burhanını görmeseydi o da arzulayacaktı" — yani **görmüştür, dolayısıyla arzulamamıştır.** Arapçada *levlâ*nın cevabı önce gelebilir | Arapçada *levlâ*nın cevabının takdim edilmesi bilinen bir kullanımdır; ve ayetin sonundaki *li-nasrife anhü's-sûe ve'l-fahşâ'* (**ondan uzaklaştıralım diye**) bu okumayı destekler |
-| **2** | **Cevabın hazfi okuması** | Cevap söylenmemiştir ve takdiri şudur: "…görmeseydi, [ona meyledecekti]." **Fiil gerçekleşmemiştir**; *levlâ* zaten olmayan bir şeyi bildirir | *Levlâ*nın işlevi budur: şart gerçekleştiği için cevap gerçekleşmemiştir. "Ateş olmasaydı yanardı" cümlesi, yanmanın olmadığını bildirir |
+| **2** | **Cevabın hazfi okuması** | Cevap söylenmemiştir ve takdiri şudur: "…görmeseydi, [ona meyledecekti]." **Fiil gerçekleşmemiştir**; *levlâ* zaten olmayan bir şeyi bildirir | *Levlâ*nın işlevi budur: şart gerçekleştiği için cevap gerçekleşmemiştir. "Su olmasaydı yanardı" cümlesi, yanmanın olmadığını bildirir |
 | **3** | **İki *hemm*in ayrı anlamda olduğu okuması** | Kadının *hemm*i ile Yûsuf'un *hemm*i **aynı şey değildir.** *Hemme bi-* Arapçada "birine yönelmek, bir şey yapmaya niyetlenmek" anlamına geldiği gibi, **"onu def etmeye, karşı koymaya yönelmek"** anlamında da kullanılır | Kelime, aynı ayette iki kez aynı biçimde geçse de bağlam farklıdır: biri kapıları kapatmış, öteki *maâzallâh* demiştir |
 | **4** | ***Hemm*in "içten geçen" olduğu okuması** | *Hemm*, karar değil **içe doğan düşüncedir.** İnsan tabiatının doğal hareketidir ve fiile dönüşmedikçe hüküm doğurmaz | Kur'an, *nefs*in bu tabiatını başka yerde kaydeder ve bu sûrede de kaydedecek: *inne'n-nefse le-emmâratün bi's-sûi* (53) |
 
@@ -1283,7 +1283,7 @@
 | **2. Uygulama** | 47 | *Fe-mâ hasadtüm fe-zerûhü **fî sünbülih*** — **başağında bırakın** |
 | **3. Fazlalık** | 49 | **Yorumda olmayan bir yıl** — bolluk ve sıkma yılı |
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı 43. ayetin metnidir:** meliğin gördüğü rüyada **on dört unsur** vardır (yedi + yedi inek, yedi + yedi başak). **Kırk dokuzuncu ayetteki yıl rüyada yoktur.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı 43. ayetin metnidir:** meliğin gördüğü rüyada **yirmi sekiz unsur** vardır (yedi + yedi inek, yedi + yedi başak). **Kırk dokuzuncu ayetteki yıl rüyada yoktur.**
 
 **Yani cevap, sorulanı aşıyor.** Ve bunun sûrenin anahtar terkibiyle bağı kurulabilir: *te'vîlü'l-ehâdîs* — **olayların nereye vardığını bilmek.** **Rüya yedinci yılda bitiyor; *te'vîl* on beşinci yılı da gösteriyor.**
 
@@ -2154,7 +2154,7 @@
 
 **Bunu bir dizim gözlemi olarak kaydediyorum:** soru pekiştirmelerle dolu, cevap çıplak. **Ve cevaba tek bir ekleme yapılıyor: *ve hâzâ ehî*.**
 
-**Bunu kendi okumam olarak veriyorum ve dayanağı eklenen cümledir:** kimlik açıklanırken, yanındaki kişi de anılıyor — **yani sekizinci ayetteki şikâyetin konusu olan ikili, burada birlikte anılıyor** (*le-Yûsufü **ve ehûhü***). **Aynı ikili, kırk yıl sonra aynı biçimde bir arada.** Bu, sûre içinde doğrulanabilir bir örtüşmedir.
+**Bunu kendi okumam olarak veriyorum ve dayanağı eklenen cümledir:** kimlik açıklanırken, yanındaki kişi de anılıyor — **yani sekizinci ayetteki şikâyetin konusu olan ikili, burada birlikte anılıyor** (*le-Yûsufü **ve ehûhü***). **Aynı ikili, yıllar sonra aynı biçimde bir arada.** Bu, sûre içinde doğrulanabilir bir örtüşmedir.
 
 ### مَن يَتَّقِ وَيَصْبِرْ — iki fiil
 
@@ -2303,7 +2303,7 @@
 
 **Aynı kök, aynı kişi hakkında, sûrenin iki ucunda.** **Ve ikinci kullanımda bir kelime eklenmiş: *el-kadîm* — "eski".** **Yani söz, ilk sözü de kapsayacak biçimde kuruluyor.**
 
-**Bu, sûre içinde sayılabilir bir tekrardır ve bir gözlem olarak kaydediyorum: kardeşler, bir ayet sonra tam tersini söyleyecekler** (97: *innâ künnâ hâtıîn*).
+**Bu, sûre içinde sayılabilir bir tekrardır ve bir gözlem olarak kaydediyorum: kardeşler, iki ayet sonra tam tersini söyleyecekler** (97: *innâ künnâ hâtıîn*).
 
 ### فَٱرْتَدَّ بَصِيرًا
 
@@ -2328,7 +2328,7 @@
 
 ### İkrarın ikinci kez tekrarlanması
 
-**Ve *hâtıîn* kelimesi, üç ayet arayla ikinci kez geçiyor** (91 ve 97). **Ve muhatap değişiyor:**
+**Ve *hâtıîn* kelimesi, altı ayet arayla ikinci kez geçiyor** (91 ve 97). **Ve muhatap değişiyor:**
 
 | Ayet | Kime söyleniyor |
 |---|---|

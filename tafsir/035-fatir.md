@@ -281,7 +281,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı üçüncü ektir:** *zâ kurbâ* (yakın akraba) kaydı, dünyada yükün paylaşıldığı en doğal yeri anıyor. **Ayet, orada bile paylaşılmadığını söyleyerek ilkeyi en dayanıklı noktasından kuruyor.**
 
-**مُثْقَلَة** — kök **ث-ق-ل**: ağırlık. **İsm-i mef'ûl: "ağırlaştırılmış, yükletilmiş".** Yani kişi yükü kendisi seçmemiş gibi değil — **yüklenmiş** olarak anılıyor.
+**مُثْقَلَة** — kök **ث-ق-ل**: ağırlık. **İsm-i mef'ûl: "ağırlaştırılmış, yükletilmiş".** Yani kişi yükü kendisi seçmiş gibi değil — **yüklenmiş** olarak anılıyor.
 
 **إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ** — "sen ancak, **görmedikleri hâlde** Rablerinden korkanları uyarabilirsin."
 
@@ -484,7 +484,7 @@ Cümle bir teselli olarak kuruluyor ve teselli, **yalanlanmanın kaldırılması
 
 Ve talep kaydedilmeye değer: *na'mel sâlihan **ğayra'llezî künnâ na'mel*** — **"yaptığımızdan başka."** Yani kendi amellerinin yanlışlığı kabul ediliyor.
 
-**Cevap iki cümledir ve ikisi de soru biçiminde:**
+**Cevap iki cümledir: biri soru, öteki haber biçiminde:**
 
 | Cevap | Ne diyor |
 |---|---|

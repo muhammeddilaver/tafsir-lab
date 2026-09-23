@@ -22,7 +22,7 @@
 
 **Birincisi:** gök korunmuştur (17), zikir korunmuştur (9), Lût'un konukları korunur (65), ve Hicr halkı **kendini korunmuş sanmıştır** (82 — *büyûten âminîn*). **Sûre, gerçek korumayı sahte korumayla karşılaştırıyor.**
 
-**İkincisi doğrulanabilir bir kelime tekrarıdır — *ma'lûm* sıfatı sûrede üç kez geçer ve dördü de bir *sınır* koyar:**
+**İkincisi doğrulanabilir bir kelime tekrarıdır — *ma'lûm* sıfatı sûrede dört kez geçer ve dördü de bir *sınır* koyar:**
 
 | Ayet | İfade | Neyin sınırı |
 |---|---|---|
@@ -576,7 +576,7 @@
 
 ### إِنَّهُۥ حَكِيمٌ عَلِيمٌ
 
-**Blok iki isimle kapanıyor ve ikincisi bloğun fiiliyle aynı köktendir:** *alimnâ* (24) → *Alîm* (25). **Fiil kula, isim Allah'a ait.**
+**Blok iki isimle kapanıyor ve ikincisi bloğun fiiliyle aynı köktendir:** *alimnâ* (24) → *Alîm* (25). **Fiil de isim de Allah'a ait.**
 
 ---
 

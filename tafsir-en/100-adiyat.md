@@ -192,7 +192,7 @@ Its function here is this: the first three verses **define** — these are thing
 
 And now the real point: **the Qurʾān uses this verb of farming.**
 
-- *"A cow not broken to the yoke, that ploughs the earth and turns it over…"* (al-Baqara 2/71). The *tuthīru'l-arḍ* here — to plough the soil, to till.
+- *"A cow not broken to the yoke, that does not plough the earth or turn it over…"* (al-Baqara 2/71). The *tuthīru'l-arḍ* here — to plough the soil, to till.
 - *"They were stronger than these in the earth; they ploughed the soil and turned it over and built it up."* (al-Rūm 30/9). The same verb, the same sense: *athārū'l-arḍa wa ʿamarūhā.*
 
 That is, in the Qurʾān's own usage *athāra* is **the verb of ploughing.**

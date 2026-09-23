@@ -752,9 +752,9 @@ Bu, sûrenin sonuna doğru kurulacak bir bağın ilk halkasıdır; 19. ayette bu
 
 | Okuyuş | Anlam | Gerekçesi |
 |---|---|---|
-| **فَعَدَلَكَ** (şeddesiz) — "seni denk yaptı" | Uzuvlarını birbirine denk, simetrik, oranlı yaptı | Kökün asıl anlamı; *sevvâ* ile aynı çizgide devam eder |
-| **فَعَدَلَكَ** (şeddesiz) — "seni çevirdi" | *Adele an* — bir şeyden çevirmek; "seni dilediği surete çevirdi" | Bir sonraki ayete doğrudan bağlanır: *fî eyyi sûratin mâ şâe rakkebek* |
-| **فَعَدَّلَكَ** (şeddeli) — "seni iyice denkleştirdi" | Tef'îl babı, teksîr: dengeyi tam ve yoğun biçimde kurdu | Kalıp, işin özenle ve tekrarlanarak yapıldığını bildirir |
+| **Birinci okuyuş: فَعَدَلَكَ** (şeddesiz) — "seni denk yaptı" | Uzuvlarını birbirine denk, simetrik, oranlı yaptı | Kökün asıl anlamı; *sevvâ* ile aynı çizgide devam eder |
+| **Birinci okuyuş: فَعَدَلَكَ** (şeddesiz) — "seni çevirdi" | *Adele an* — bir şeyden çevirmek; "seni dilediği surete çevirdi" | Bir sonraki ayete doğrudan bağlanır: *fî eyyi sûratin mâ şâe rakkebek* |
+| **İkinci okuyuş: فَعَدَّلَكَ** (şeddeli) — "seni iyice denkleştirdi" | Tef'îl babı, teksîr: dengeyi tam ve yoğun biçimde kurdu | Kalıp, işin özenle ve tekrarlanarak yapıldığını bildirir |
 
 Her iki okuyuş da kıraat imamları arasında nakledilmiştir. **Hangi okuyuşun hangi imama ait olduğunu kesin veremediğim için isim vermiyorum.**
 
@@ -1025,7 +1025,7 @@ Ayrıca *aleyküm*, haberin önüne alınmıştır: cümlenin sırası *inne ale
 
 **Kök: ح-ف-ظ.** Ve bu kökün iki anlam dalı vardır; ikisi de Türkçede kullanılır:
 
-1. **Korumak, muhafaza etmek.** *Hıfz* — koruma. *Muhâfaza*, *muhafız*, *himâye* çizgisi.
+1. **Korumak, muhafaza etmek.** *Hıfz* — koruma. *Muhâfaza*, *muhafız* çizgisi.
 2. **Ezberlemek, aklında tutmak.** *Hâfız* — Kur'an'ı ezberleyen. *Hıfzetmek* — belleğe almak.
 
 İkisi tek bir fikirde birleşir: **bir şeyin kaybolmasına izin vermemek.** Malı korumak da, sözü ezberlemek de kaybolmayı önlemektir.

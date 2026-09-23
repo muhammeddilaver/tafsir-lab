@@ -2468,7 +2468,7 @@ The root **ع-ر-ف**: **to recognise.** The lexicographers record a distinction
 
 **This construction was used for Noah in the twenty-fifth verse — in exactly the same two words:** *bihī jinna.* **And it was tabulated there.**
 
-**What belongs here is this:** the fourth question is taken from the narrative the sūra itself has told. **The sentence used in putting the question, that is, was given thirty-five verses earlier in the mouth of Noah's people.**
+**What belongs here is this:** the fourth question is taken from the narrative the sūra itself has told. **The sentence used in putting the question, that is, was given forty-five verses earlier in the mouth of Noah's people.**
 
 ### بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 
@@ -3663,7 +3663,7 @@ The root **ش-ق-و**: **hardship, distress, unhappiness.** The word is the oppo
 
 **The same sūra, the same request, two different times.** This is a repetition that can be verified within the sūra.
 
-**And the request at `035-fatir.md` 35/37 uses exactly the same word as this second one:** *rabbanā **akhrijnā** naʿmal ṣāliḥan.* **A four-row table was built at the ninety-ninth verse;** this verse is added to that table as a fifth row.
+**And the request at `035-fatir.md` 35/37 uses exactly the same word as this second one:** *rabbanā **akhrijnā** naʿmal ṣāliḥan.* **A three-verse table was built at the ninety-ninth verse;** this verse is added to that table as a fourth column.
 
 **And its difference must be recorded:** the request in Fāṭir offered a **ground**, saying *naʿmal ṣāliḥan* (that we may do righteous deeds). **The request here offers no ground** — in its place it gives an **undertaking**: *fa-in ʿudnā fa-innā ẓālimūn.*
 

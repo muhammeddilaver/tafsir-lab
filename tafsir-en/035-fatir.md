@@ -1,4 +1,4 @@
-# 35. Sūrat Fāṭir
+# 35. Sūrat Fāṭir (al-Malāʾika)
 
 **Forty-five verses.** It is widely reported that it was revealed in the Meccan period. It takes its name from the construct **فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ** in the first verse; because the angels are spoken of in that same verse, it is also called **al-Malāʾika**.
 
@@ -281,7 +281,7 @@ The sentence is built as a consolation, and the consolation is given **not by re
 
 **I record this as my own reading, and its ground is the third addition:** the record *dhā qurbā* (a near kinsman) names the most natural place in this world for a burden to be shared. **By saying that even there it is not shared, the verse builds the principle at its most durable point.**
 
-**مُثْقَلَة** — root **ث-ق-ل**: weight. **A passive participle: "made heavy, laden".** That is, the person is mentioned not as though he had not chosen the burden himself — he is mentioned as **laden**.
+**مُثْقَلَة** — root **ث-ق-ل**: weight. **A passive participle: "made heavy, laden".** That is, the person is mentioned not as though he had chosen the burden himself — he is mentioned as **laden**.
 
 **إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ** — "you can warn only those who fear their Lord **though they do not see Him**."
 
@@ -484,7 +484,7 @@ The sentence is built as a consolation, and the consolation is given **not by re
 
 And the request is worth recording: *naʿmal ṣāliḥan **ghayra'lladhī kunnā naʿmal*** — **"other than what we used to do."** That is, the wrongness of their own deeds is admitted.
 
-**The answer is two sentences, and both are in the form of a question:**
+**The answer is two sentences: one in the form of a question, the other a statement:**
 
 | Answer | What it says |
 |---|---|

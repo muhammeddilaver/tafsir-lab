@@ -1029,7 +1029,7 @@ The inference joining these three is mine; the verses do not build this chain th
 - **أَمْهَلَ (*amhala*)** — Form IV: the same meaning.
 - **عَلَى مَهْلٍ** — slowly, without haste.
 
-**The two forms are not in the same verse here, but they are used side by side in the Qurʾān:** *"Give the disbelievers respite; grant them a little time"* (al-Ṭāriq 86/17) — *fa-mahhili'l-kāfirīna amhilhum ruwaydā*.
+**The two forms are used side by side in the same verse in the Qurʾān:** *"Give the disbelievers respite; grant them a little time"* (al-Ṭāriq 86/17) — *fa-mahhili'l-kāfirīna amhilhum ruwaydā*.
 
 That verse is the last verse of Sūrat al-Ṭāriq and was treated in `086-tarik.md`. **The overlap between the two verses is almost exact:** the same root, the same form, the same command, the same note of "a little".
 
@@ -2092,7 +2092,7 @@ The roots that return within the sūra:
 | **ذ-ك-ر** | 73/8 (*udhkur*), 73/19 (*tadhkira*) | The command to mention → the text's own name |
 | **ي-س-ر** | 73/20 (*tayassara*, twice) | The name of the measure |
 | **ق-د-ر** | 73/20 (*yuqaddiru*), 73/20 (*tuqaddimū* — a different root) | The one who measures |
-| **ر-س-ل** | 73/15 (three times), 73/16 | Messengership |
+| **ر-س-ل** | 73/15 (four times), 73/16 | Messengership |
 
 ### Verse-ending and sound — a closing note
 
@@ -2228,7 +2228,7 @@ I do not draw this from the verse as a principle of administration. The verse gi
 - The four views on in what respect the "heavy word" of 73/5 is heavy were given in a table; none was counted definitely correct. Of the two observations drawn from the text, the second was marked as my own inference.
 - None of the four explanations given for *nāshiʾata'l-layl* at 73/6 was preferred. The link made between the root's sense of "being born" and rising from sleep was recorded as my own reading.
 - **The variant reading وَطْئًا / وِطَاءً at 73/6 was transmitted; no list was given of which reading belongs to which imām.** The reading of the widely printed muṣḥaf (the transmission of Ḥafṣ) was stated.
-- The contrast drawn between 73/6 and 73/7 by way of *waṭʾ* and *sabḥ* (ground that is trodden / a medium that cannot be trodden) is my reading; the concrete senses of the two roots rest on the lexicons.
+- The contrast drawn at 73/6-7 by way of *waṭʾ* and *sabḥ* (ground that is trodden / a medium that cannot be trodden) is my reading; the concrete senses of the two roots rest on the lexicons.
 - The three observations listed on why the night is more suitable (the scarcity of external stimulus, invisibility, time with a price) were marked openly as my own observations; they were not presented as the ground the verse gives. They were not attached to sleep and attention research, and this limit was stated separately.
 - No preference was imposed at 73/8 on whether the word *ism* is redundant or functional.
 - That *tabattul* does not mean monasticism was stated with three grounds; two of these rest on the text itself (the *ilayhi* note at 73/8 and the list of excuses at 73/20), one on a separate verse (al-Ḥadīd 57/27).

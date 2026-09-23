@@ -18,7 +18,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Sûrenin omurgası: ش-ق-و
 
-**Sûre bir kökle açılıp aynı kökle kapanıyor ve bu, metinden sayılabilir bir veridir. Kök sûrede üç kez geçer, başka hiçbir yerinde geçmez:**
+**Sûre bir kökle açılıp aynı kökle kapanıyor ve bu, metinden sayılabilir bir veridir. Kök sûrede üç kez geçer:**
 
 | Ayet | İfade | Kime |
 |---|---|---|
@@ -279,13 +279,13 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 | İlk sesleniş | ***Yâ Mûsâ*** — ad | *Bûrike men fi'n-nâr* — bereket | *İnnî ene'llâhu rabbü'l-âlemîn* — kimlik |
 | Sonra | *İnnî ene rabbüke **fahla' na'leyk*** | Kimlik bir ayet sonra (27/9) | — |
 
-**Dört fark kaydedilmeye değer ve dördü de sayılabilir verilerdir.**
+**Üç fark kaydedilmeye değer ve üçü de sayılabilir verilerdir.**
 
 **Bir — yalnız Tâhâ'da aileye söylenmiş bir emir var: *imküsû* (durun, kalın).** **م-ك-ث** kökü: **bir yerde durup beklemek, oyalanmak.** **Yani Tâhâ, sahneyi Mûsâ'nın yalnız kalmasıyla açıyor.**
 
 **İki — yalnız Tâhâ'da aranan ikinci şey *hüdâ*dır.** Neml ve Kasas'ta ateşten beklenen şey **haber** ile **kor**du; Tâhâ'da **kor** ile **yol gösteren.**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kelime dağılımıdır:** ه-د-ي kökü bu sûrede sekiz ayette geçer (10, 50, 79, 82, 122, 123, 128, 135) ve **kıssanın ilk cümlesinde, henüz hiçbir şey olmadan, Mûsâ'nın kendi ağzından çıkıyor.** **Yani sûre, aranan şeyi kıssanın başına koyuyor ve son ayetinde aynı kelimeyle kapanıyor:** *ve meni'htedâ* (135).
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı sûrenin kelime dağılımıdır:** ه-د-ي kökü bu sûrede dokuz ayette geçer (10, 47, 50, 79, 82, 122, 123, 128, 135) ve **kıssanın ilk cümlesinde, henüz hiçbir şey olmadan, Mûsâ'nın kendi ağzından çıkıyor.** **Yani sûre, aranan şeyi kıssanın başına koyuyor ve son ayetinde aynı kelimeyle kapanıyor:** *ve meni'htedâ* (135).
 
 **Üç — *ale'n-nâri hüdâ* terkibi kaydedilmeye değer.** Çölde gece görülen ateş, orada **birinin bulunduğunun** işaretidir; yolunu şaşıran biri o ateşe gider ve yol sorar. **Yani cümle, gündelik bir çöl âdetini anlatıyor.**
 
@@ -760,7 +760,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ
 
-***Karra aynen* deyimi `025-furkan.md` 25/74'te işlendi** — kökün resmi: **gözün bir yerde durup kayması, yerinde karar kılması.** **Oraya dayanıyorum.**
+***Karra aynen* deyimi `025-furkan.md` 25/74'te işlendi** — kökün resmi: **gözün bir yerde durup kalması, yerinde karar kılması.** **Oraya dayanıyorum.**
 
 **Ve ikili kaydedilmeye değer: *takarra aynühâ* ve *lâ tahzen*.** **`028-kasas.md` 28/7'de anneye verilen iki yasak *ve lâ tehâfî ve lâ tahzenî* idi** ve orada kaydedilmişti: **havf geleceğe, hüzn geçmişe bakar.** **Burada yalnız *hüzn* anılıyor** — çünkü korkulacak şey geçmiştir, kalan yalnız geçmişin acısıdır. **Bu, iki sûre arasında doğrulanabilir bir tutarlılıktır.**
 
@@ -857,7 +857,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 ### Aynı hattın öteki halkaları
 
-**Bu emir, dizinde işlenen bir çizginin en zor örneğidir. `041-fussilet.md` 41/34 ve `029-ankebut.md` 29/46'da aynı hat işlendi ve `028-kasas.md` 28/54'te üçüncü halka kaydedildi.** **Oraya dayanıyorum ve tabloyu dördüncü halkayla tamamlıyorum:**
+**Bu emir, dizinde işlenen bir çizginin en zor örneğidir. `041-fussilet.md` 41/34 ve `029-ankebut.md` 29/46'da aynı hat işlendi ve `028-kasas.md` 28/54'te üçüncü halka kaydedildi.** **Oraya dayanıyorum ve tabloyu bir halkayla daha tamamlıyorum:**
 
 | Yer | İfade | Alan | Muhatap |
 |---|---|---|---|
@@ -1215,7 +1215,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Dört — iman ifadesindeki ad sırası farklıdır: Tâhâ'da *rabbi Hârûne ve Mûsâ*, Şuarâ'da *rabbi Mûsâ ve Hârûn*.**
 
-**Bunu bir metin verisi olarak kaydediyorum ve bir hüküm kurmuyorum.** Klasik tefsirlerde bu sıra farkı için fasıla uyumu (Tâhâ'nın sonu *-â* sesiyle biter) ve Hârûn'un öne alınmasının başka izahları nakledilir. **Fasıla izahı metinden doğrulanabilir bir gözlemdir:** sûrenin bütün ayet sonları *elif-i maksûre* ile biter ve *Mûsâ* o kalıba uyar, *Hârûn* uymaz. **Bunu bir dil gözlemi olarak veriyorum, kesin bir sebep iddiası olarak değil.**
+**Bunu bir metin verisi olarak kaydediyorum ve bir hüküm kurmuyorum.** Klasik tefsirlerde bu sıra farkı için fasıla uyumu (Tâhâ'nın sonu *-â* sesiyle biter) ve Hârûn'un öne alınmasının başka izahları nakledilir. **Fasıla izahı metinden doğrulanabilir bir gözlemdir:** sûrenin ayet sonlarının hemen hepsi *elif-i maksûre* ile biter ve *Mûsâ* o kalıba uyar, *Hârûn* uymaz. **Bunu bir dil gözlemi olarak veriyorum, kesin bir sebep iddiası olarak değil.**
 
 ### إِنَّكَ أَنتَ ٱلْأَعْلَىٰ
 
@@ -1509,7 +1509,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bağlaç farkıdır:** ilk üç madde bir **an**da olabilecek şeylerdir; dördüncüsü, *sümme* ile ayrılarak **zamana yayılan** bir şey olarak veriliyor. **Yani liste, bir karar ile o kararın sürdürülmesini ayırıyor.**
 
-**Ve ه-د-ي kökü burada sûrenin sekiz geçişinden biri olarak yer alıyor** — onuncu ayette Mûsâ'nın aradığı şeydi, ellinci ayette cevabın çekirdeği, yetmiş dokuzuncu ayette nefyedilen şey, **burada bir şart.**
+**Ve ه-د-ي kökü burada sûrenin dokuz geçişinden biri olarak yer alıyor** — onuncu ayette Mûsâ'nın aradığı şeydi, ellinci ayette cevabın çekirdeği, yetmiş dokuzuncu ayette nefyedilen şey, **burada bir şart.**
 
 ---
 
@@ -2327,7 +2327,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 | İzah | Ne der |
 |---|---|
-| 1 | **Fasıla uyumu** — sûrenin bütün ayet sonları *elif-i maksûre* ile biter; ikil kalıp uymaz |
+| 1 | **Fasıla uyumu** — sûrenin ayet sonlarının hemen hepsi *elif-i maksûre* ile biter; ikil kalıp uymaz |
 | 2 | **Geçim sorumluluğu** — hitabın muhatabı, sonraki ayetlerde sayılan geçim yükünü taşıyacak olan |
 | 3 | **Bütünün bir parçayla anılması** — biri anılıp ikisi kastediliyor |
 
@@ -2800,7 +2800,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 
 **Ve sûrenin son kelimesi kaydedilmelidir: *ve meni'htedâ*.**
 
-**ه-د-ي kökü — sûrenin en çalışkan köklerinden biri, sekiz ayette geçiyor** (10, 50, 79, 82, 122, 123, 128, 135).
+**ه-د-ي kökü — sûrenin en çalışkan köklerinden biri, dokuz ayette geçiyor** (10, 47, 50, 79, 82, 122, 123, 128, 135).
 
 **Ve sûre, onuncu ayette Mûsâ'nın çölde aradığı şeyle açılan bu kökle kapanıyor:**
 
@@ -2819,7 +2819,7 @@ Sûrenin gövdesini **Mûsâ kıssası** oluşturur: 9. ayetten 98. ayete kadar,
 |---|---|---|
 | **ش-ق-و** | *li-teşkā* (2) — *fe-teşkā* (117) — *ve lâ yeşkā* (123) | **Sûrenin çerçevesi:** nefy, teşhis, şart |
 | **ذ-ك-ر** | 3, 14, 34, 42, 44, 99, 113, 124 | Kitabın adı, namazın gerekçesi, terk edilen şey |
-| **ه-د-ي** | 10, 50, 79, 82, 122, 123, 128, 135 | Aranan, verilen, nefyedilen, bulunan |
+| **ه-د-ي** | 10, 47, 50, 79, 82, 122, 123, 128, 135 | Aranan, verilen, nefyedilen, bulunan |
 | **ن-س-ي** | *lâ yensâ* (52) — *fe-nesiye* (88) — *fe-nesiye* (115) — *fe-nesîtehâ … tünsâ* (126) | **Nefy, sonra üç tespit** |
 | **أبقى** | *eşeddü … ve ebkā* (71) — *hayrun ve ebkā* (73) — *eşeddü ve ebkā* (127) — *hayrun ve ebkā* (131) | Fir'avn'ın ölçüsü, elinden alınıyor |
 | **ع-ج-ل** | *mâ a'celeke* (83) — *aciltü* (84) — *lâ ta'cel* (114) | **İki iyi niyetli acele, bir yasak** |

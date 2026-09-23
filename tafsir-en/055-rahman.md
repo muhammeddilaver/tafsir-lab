@@ -2,7 +2,7 @@
 
 Seventy-eight verses. It takes its name from the first verse — and the first verse consists of a single word: **ٱلرَّحْمَٰنُ.**
 
-This is one of the two sūras in the Qurʾān whose form is the most visible. The other is al-Mursalāt, where it was shown that a single sentence repeated ten times divides the text into nine sections. Here the same technique is worked at **three times the density**:
+This is one of the two sūras in the Qurʾān whose form is the most visible. The other is al-Mursalāt, where it was shown that a single sentence repeated ten times divides the text into ten sections. Here the same technique is worked at **three times the density**:
 
 > **فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ**
 
@@ -76,7 +76,7 @@ Intermediate views are transmitted as well, holding part of the sūra to be Mecc
 
 Two things are immediately visible from the table, and both determine how the sūra is read:
 
-**One.** **Sixteen** of the refrains — more than half — fall in the garden sections. In al-Mursalāt only one of the nine sections was a section of good news; here sixteen of the thirty-one sections are good news. **The two sūras use the same technique and put the weight on opposite sides.**
+**One.** **Sixteen** of the refrains — more than half — fall in the garden sections. In al-Mursalāt only one of the ten sections was a section of good news; here sixteen of the thirty-one sections are good news. **The two sūras use the same technique and put the weight on opposite sides.**
 
 **Two.** The two garden sections receive **exactly equal** numbers of refrains: eight and eight. This symmetry does not look like accident, and I take it up in a separate section below.
 
@@ -141,7 +141,7 @@ In al-Raḥmān it is not so.
 | First section | 7 verses | **12 verses** |
 | Last section | 1 verse | 1 verse |
 | The curve between | A step-by-step descent (7 → 3 → 4 → 3 → 5 → 2 → 2 → 4 → 1 → 1) | **A single drop, then constant** |
-| Number of two-verse sections | 3 | 4 |
+| Number of two-verse sections | 2 | 4 |
 | Number of one-verse sections | 2 | **26** |
 
 The numbers run thus: the first section of al-Raḥmān is twelve verses. Of the remaining thirty sections, four are two verses and **twenty-six are a single verse.** After the first refrain the sūra climbs to the highest tempo available to it and **stays there to the end.**
@@ -324,7 +324,7 @@ This reading meets the sections on punishment without trouble — fire is a mark
 
 Now I come to the real point, and I record this as **my own reading**.
 
-The refrain **does not change at all** according to where it stands. After the garden and after Hell alike, the same thirty letters. The sūra makes not the slightest adjustment in the refrain to mark one section as "good" and another as "bad".
+The refrain **does not change at all** according to where it stands. After the garden and after Hell alike, the same twenty letters. The sūra makes not the slightest adjustment in the refrain to mark one section as "good" and another as "bad".
 
 **This is a choice, and the choice itself carries a judgement:** the text **refuses to divide what it recounts into favour and non-favour.**
 
@@ -681,11 +681,11 @@ In al-Raḥmān the name of what is given to man is **bayān** — and the root 
 | The other party | **The angels** could not know | — |
 | Result | Man's standing is established by knowledge | Man's attribute is established by clear speech |
 
-**That the verb is the same is no accident.** The same table was drawn in the section on al-ʿAlaq, and it was shown there that the verb *ʿallama* does the same work in three places (al-Baqara 2/31, al-ʿAlaq 96/5, al-Raḥmān 55/2-4).
+**That the verb is the same is no accident.** The same table was drawn in the section on al-ʿAlaq, and it was shown there that the verb *ʿallama* does the same work in two places (al-Baqara 2/31-32, al-ʿAlaq 96/5).
 
 **And the conclusion that follows is central for this sūra:**
 
-In al-Baqara man's privilege lay in naming, and in that section this note was entered: *"knowledge is a privilege, and like every privilege it is open to being misunderstood."*
+In al-Baqara man's privilege lay in naming, and in the section on al-ʿAlaq this note was entered: *"knowledge is a privilege, and like every privilege it is open to being misunderstood."*
 
 al-Raḥmān carries this a step further. In the fourth verse **bayān** is given to man — the faculty of distinguishing and of being able to state what he has distinguished. And nine verses later, the man who uses that faculty is asked: **تُكَذِّبَانِ** — do you deny?
 
@@ -734,7 +734,7 @@ On the structure of the word **حُسْبَان** the lexicographers say two thi
 
 **In meaning the two come out at the same place:** the sun and the moon are bound to a reckoning; they do not move at random.
 
-**And the word has a second use that must be recorded:** the same word occurs once more in the Qurʾān, and there it names a disaster sent down from the sky:
+**And the word has a second use that must be recorded:** the same word occurs in two further places in the Qurʾān — at al-Anʿām 6/96 again for the reckoning of the sun and the moon, and at al-Kahf 18/40, where it names a disaster sent down from the sky:
 
 > *"…He may send upon it a **ḥusbān** from the sky, so that it becomes slippery ground."* (al-Kahf 18/40)
 
@@ -1743,7 +1743,7 @@ At al-Baqara 2/115 *wajh* was used of God, and as recorded there the word carrie
 
 ### ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَام — possessor of majesty and honour
 
-**This construction occurs twice in the sūra: here (27) and in the last verse (78).** Seventy-one verses lie between them, and the two set up the frame of the sūra. I shall take up this frame separately at the last verse below.
+**This construction occurs twice in the sūra: here (27) and in the last verse (78).** Fifty verses lie between them, and the two set up the frame of the sūra. I shall take up this frame separately at the last verse below.
 
 **ٱلْجَلَال — root ج-ل-ل.** Greatness, loftiness, magnitude. *Jalīl* (lofty), *ajall* (loftier), *jalāla* are from the same root. The concrete core of the root is **greatness and weight**; and in Arabic this greatness gives rise to **distance** and **awe.**
 
@@ -2202,7 +2202,7 @@ And there is another verse running in the same direction as this one:
 | **Two different times of the day** | That day has long stages; at one stage there is questioning, at another there is not |
 | **They are not asked because they are recognised** | The next verse says this: *"The guilty are known by their marks."* One who is recognised is not asked his identity |
 
-**The third explanation is the strongest in point of word order** and comes out of the text itself: the thirty-ninth verse says "he is not questioned", the forty-first says "they are known by their marks". Even though the two are separated by two consecutive refrains, they are parts of the same scene.
+**The third explanation is the strongest in point of word order** and comes out of the text itself: the thirty-ninth verse says "he is not questioned", the forty-first says "they are known by their marks". Even though the two are separated by a single refrain, they are parts of the same scene.
 
 **The inclination in this commentary is towards the third explanation, and it is not binding.** The first explanation is widespread in the classical sources too and is not struck out.
 
@@ -3121,7 +3121,7 @@ I record this as an observation about the weave of words; I noted above that the
 
 ### ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَام — and the frame of the sūra
 
-**The construction occurs twice in the sūra: at 27 and at 78.** And seventy-one verses lie between them.
+**The construction occurs twice in the sūra: at 27 and at 78.** And fifty verses lie between them.
 
 **But the two occurrences are not exactly the same, and the difference is grammatical:**
 
@@ -3184,7 +3184,7 @@ The structure of the sūra was given in a table above under the heading "The pos
 | **III** | 46-77 | **16** | **Two pairs of gardens** |
 | — | 78 | — | Closing |
 
-**Two — more than half of the refrains are on the side of reward.** Sixteen of the thirty-one refrains are in the garden sections. In al-Mursalāt only one of the nine sections was a section of good news.
+**Two — more than half of the refrains are on the side of reward.** Sixteen of the thirty-one refrains are in the garden sections. In al-Mursalāt only one of the ten sections was a section of good news.
 
 **Three — the sūra establishes its rhythm once and never changes it.** After the first twelve verses the sections are of one or two verses and remain so to the end.
 
@@ -3415,7 +3415,7 @@ al-Raḥmān ends with two pairs of gardens; al-Wāqiʿa begins with three class
 
 - **That the words إستبرق at 55/54 and ياقوت at 55/58 are counted of foreign origin** was recorded, and **no certainty was claimed.**
 
-- **The attaching of the word عبقري at 55/72 to the place-name *ʿAbqar*** was transmitted as an explanation the lexicographers record; **it was not presented as a settled etymology.** The same note was entered for the branches of the root **حور**.
+- **The attaching of the word عبقري at 55/76 to the place-name *ʿAbqar*** was transmitted as an explanation the lexicographers record; **it was not presented as a settled etymology.** The same note was entered for the branches of the root **حور**.
 
 - **The finding that the verb تبارك at 55/78 always occurs in this pattern in the Qurʾān and is always used of God** was presented as an **observation** drawn from the text of the Qurʾān.
 

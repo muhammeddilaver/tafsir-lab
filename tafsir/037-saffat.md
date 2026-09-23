@@ -534,7 +534,7 @@ Cin bölümünde kaydedilen "bilgi ölçüsü" burada da geçerlidir ve tekrarla
 
 **Son satır en önemlisidir.** Ğāfir'de hüküm veriliyor; burada **hüküm sorulmuyor bile — görüş isteniyor.** Muhatap kendi cevabını verecek.
 
-***Eşedd* — kök ش-د-د: bağlamak, sıkmak, sağlamlaştırmak.** Kök yedinci ayet bölümünde (Cin bahsine bağlı olarak) anıldı. **Buradaki anlam "büyük" değil, "sağlam"dır** — yani karşılaştırma hacim değil **yapı** üzerinden kuruluyor.
+***Eşedd* — kök ش-د-د: bağlamak, sıkmak, sağlamlaştırmak.** Kök sûrede yalnız burada geçiyor. **Buradaki anlam "büyük" değil, "sağlam"dır** — yani karşılaştırma hacim değil **yapı** üzerinden kuruluyor.
 
 ***Men halaknâ* — "yarattığımız kimse".** **Ve dikkat: *mâ* değil *men*.** Arapçada *men* akıllı varlıklar için kullanılır. **Bu, nahivcilerin kaydettiği bir nüktedir** ve şu izahı doğurur: kastedilen yalnız gökler ve yer değil, **melekler de dâhil bütün akıllı yaratılmışlar** olabilir.
 
@@ -1114,7 +1114,7 @@ Dilcilerin verdiği anlam: **yapışan, birbirine tutunan, ele bulaşan.** *Lezi
 
 **Dizim nüktesi:** *li-şâirin* — harf-i cer *lâm*, **sebep** bildiriyor: "bir şair **yüzünden**". Yani ilahları bırakmanın karşılığında elde edecekleri şey değil, bırakmalarına yol açan **kişi** anılıyor. **İfade, meseleyi bir şahsa indirgiyor.**
 
-Ve *âliheti**nâ*** — "**bizim** ilahlarımız". Dördüncü ayette *inne ilâhe**küm** le-vâhid* denmişti — "**sizin** ilahınız birdir". **Aynı kelime, aynı zamir eki, zıt hüküm.** Sûre kendi anahtar kelimesini onların ağzına koyuyor. Bu bir metin verisidir.
+Ve *âliheti**nâ*** — "**bizim** ilahlarımız". Dördüncü ayette *inne ilâhe**küm** le-vâhid* denmişti — "**sizin** ilahınız birdir". **Aynı kelime, farklı zamir eki, zıt hüküm.** Sûre kendi anahtar kelimesini onların ağzına koyuyor. Bu bir metin verisidir.
 
 ### بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ — cevap
 
@@ -1278,7 +1278,7 @@ Ve *âliheti**nâ*** — "**bizim** ilahlarımız". Dördüncü ayette *inne il�
 
 ### بَيْضَآءَ لَذَّةٍ — beyaz ve lezzet
 
-***Beydâ* — kök ب-ي-ض: beyazlık.** Ve sıfat *ke's*e değil, dilcilerin çoğunluğuna göre *ke's*e ya da *ma'în*e ait olabilir. **İ'râb ihtilafı anlamı belirgin biçimde değiştirmiyor.**
+***Beydâ* — kök ب-ي-ض: beyazlık.** Ve sıfat, dilcilerin çoğunluğuna göre *ke's*e ya da *ma'în*e ait olabilir. **İ'râb ihtilafı anlamı belirgin biçimde değiştirmiyor.**
 
 ***Lezze* — kök ل-ذ-ذ: tat almak, hoşa gitmek.** **Ve dizim nüktesi kayda değer: kelime sıfat değil, masdardır.**
 
@@ -3905,7 +3905,7 @@ Yani cümle "biz saf tutarız" değil, **"saf tutanlar biziz"**dir. *Hasr* (yaln
 
 **Beş ayet boyunca "biliyor musunuz?" diye sorulan taraf, "bileceksiniz" diye uyarılıyor.**
 
-**Ve kök ع-ل-م sûrede bir kez daha, farklı bir kalıpta geçecek:** *fe-sevfe **yübsırûn*** (175, 179) — orada bilme değil **görme**. **İki kalıp yan yana durunca sûrenin son bloğunun iki fiili çıkıyor: bilmek ve görmek.**
+**Ve *fe-sevfe* kalıbı sûrede bir kez daha, farklı bir fiille dönecek:** *fe-sevfe **yübsırûn*** (175, 179) — orada bilme değil **görme**. **İki kalıp yan yana durunca sûrenin son bloğunun iki fiili çıkıyor: bilmek ve görmek.**
 
 ---
 

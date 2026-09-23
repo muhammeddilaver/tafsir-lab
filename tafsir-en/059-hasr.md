@@ -1365,7 +1365,7 @@ This is a far more accurate diagnosis. Nobody says "I do not fear God". But when
 
 From the same root *rāhib* (the man who withdraws himself from the world) and *rahbāniyya*. And *tarhīb* (frightening) occurs in the Qurʾān as the opposite of *raghba* (turning towards something with desire).
 
-**فِى صُدُورِهِمْ** — "in their breasts". Again the inner place. In this sūra the breast occurs three times: in verse 9 for *ḥāja*, in verse 10 for *ghill*, here for *rahba*. The sūra insistently takes as its subject the layer that is not visible from outside.
+**فِى صُدُورِهِمْ** — "in their breasts". Again the inner place. In this sūra the breast occurs twice: in verse 9 for *ḥāja*, here for *rahba*. The sūra insistently takes as its subject the layer that is not visible from outside.
 
 ### ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 
@@ -2378,7 +2378,7 @@ These are data of the text that can be verified; they are not a claim about inte
 | **س-ب-ح** | 1, 23, 24 | The frame of the sūra |
 | **ح-ص-ن** | 2 (*ḥuṣūn*), 14 (*muḥaṣṣana*) | Twice a defensive structure, twice insufficient |
 | **خ-ر-ج** | 2 (twice), 8, 11, 12 | Driving out / going out; the verb of the exile |
-| **ص-د-ر** | 9 (*ṣudūr*), 10, 13 | The unseen inner layer |
+| **ص-د-ر** | 9 (*ṣudūr*), 13 | The unseen inner layer |
 | **ف-س-ق** | 5, 19 | The attribute of the one outside → a warning to the one addressed |
 | **ع-ق-ب** | 4 (*ʿiqāb*), 7 (*ʿiqāb*), 17 (*ʿāqiba*) | That which comes after |
 | **ب-ر-أ** | 16 (*barīʾ*), 24 (*al-Bāriʾ*) | A separation claimed / a separating effected |

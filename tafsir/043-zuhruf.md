@@ -43,7 +43,7 @@ Ve sûre bu meseleyi soyut bir ilkeyle değil, **birbirini tamamlayan sahnelerle
 | **X** | 74-80 | Cehennem, Mâlik'e sesleniş, gizli konuşma | *ve rusülünâ ledeyhim yektübûn* (80) |
 | **XI** | 81-89 | Şart cümlesi, tesbih, kapanış — *fasfah anhüm* | *fe-sevfe ya'lemûn* (89) |
 
-**Blok sınırları, sûrenin kendi tekrarlarıyla çiziliyor.** En görünür olanı şudur: **beşinci ayette reddedilen fiil, seksen dokuzuncu ayette emrediliyor.** Aynı kök, aynı kelime, zıt hüküm — ve arada seksen dört ayet var. Bu halkayı sûrenin sonunda ayrıca tablolaştıracağım.
+**Blok sınırları, sûrenin kendi tekrarlarıyla çiziliyor.** En görünür olanı şudur: **beşinci ayette reddedilen fiil, seksen dokuzuncu ayette emrediliyor.** Aynı kök, aynı kelime, zıt hüküm — ve arada seksen üç ayet var. Bu halkayı sûrenin sonunda ayrıca tablolaştıracağım.
 
 ### Sûre içi halkalar
 
@@ -129,7 +129,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Bunu kendi okumam olarak kaydediyorum, dayanağı iki kelimenin kök anlamlarıdır:** ayet ardışık iki nitelemede aynı şeyi iki kez söylüyor. Kitap açıktır; ve açık eden dille verilmiştir.
 
-**Kur'an bu nitelemeyi başka yerlerde de yapar ve hep aynı gerekçeye bağlar:** Yûsuf 12/2 (*innâ enzelnâhü kur'ânen arabiyyen lealleküm ta'kılûn* — birebir aynı cümle), Tâhâ 20/113, Zümer 39/28, Fussilet 41/3, Şûrâ 42/7, Ahkāf 46/12, Ra'd 13/37. **Nahl 16/103'te ise kelime bir itiraza cevap olarak geçer:** *lisânü'llezî yülhidûne ileyhi a'cemiyyün ve hâzâ lisânün arabiyyün mübîn* — burada *arabî*nin karşıtı olarak *a'cemî* konur.
+**Kur'an bu nitelemeyi başka yerlerde de yapar ve hep aynı gerekçeye bağlar:** Yûsuf 12/2 (*innâ enzelnâhü kur'ânen arabiyyen lealleküm ta'kılûn* — fiil dışında aynı cümle), Tâhâ 20/113, Zümer 39/28, Fussilet 41/3, Şûrâ 42/7, Ahkāf 46/12, Ra'd 13/37. **Nahl 16/103'te ise kelime bir itiraza cevap olarak geçer:** *lisânü'llezî yülhidûne ileyhi a'cemiyyün ve hâzâ lisânün arabiyyün mübîn* — burada *arabî*nin karşıtı olarak *a'cemî* konur.
 
 **ع-ج-م** kökü, ع-ر-ب kökünün tam karşıtıdır ve kökün somut anlamı bunu gösterir: **kapalılık, anlaşılmazlık.** *Ucme* — dilde tutukluk, kekemelik. *Acmâ'* — sesi olan ama konuşmayan hayvan. **Yani iki kök arasındaki karşıtlık "Arap / Arap olmayan" değil, dilcilerin kaydettiği kökler düzeyinde "açık / kapalı"dır.**
 
@@ -1508,7 +1508,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 - `083-mutaffifin.md` ve `104-humeze.md`'de bu ayet doğrudan anıldı.
 - `054-kamer.md`'de "seçim itirazı" başlığı altında Sâd 38/8 ile birlikte verildi: *e-ünzile aleyhi'z-zikru min beyninâ* — "zikir, aramızdan ona mı indirildi?"
 
-**Ve `046-ahkaf.md` 46/11'de aynı mantık başka bir cümleyle kaydedilmişti** — bunu buraya taşıyıp karşılaştırmam isteniyor ve karşılaştırma verimlidir:
+**Ve `046-ahkaf.md` 46/11'de aynı mantık başka bir cümleyle kaydedilmişti** — onu buraya taşıyıp karşılaştırıyorum ve karşılaştırma verimlidir:
 
 | | **Ahkāf 46/11** | **Zuhruf 43/31** |
 |---|---|---|
@@ -2258,7 +2258,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimenin Kur'an'daki iki kullanımıdır:** Fir'avn'ın hakaret olarak kullandığı kelime, Kur'an'ın **herkes için** kullandığı kelimedir. **Aradaki fark, kelimenin kime yapıştırıldığında değil, kimin kendini onun dışında saydığında.**
 
-### وَلَا يَكَادُ يُبِينُ — ve sûrenin dördüncü *mübîn*i
+### وَلَا يَكَادُ يُبِينُ — ve sûrenin altıncı *mübîn*i
 
 ***Kâde* fiili yaklaşma bildirir: "neredeyse".** Olumsuzu (*lâ yekâdü*) ise Arapçada **kuvvetli olumsuzluk** verir: "neredeyse yapamıyor" — yani **çok zor yapıyor** ya da hiç yapamıyor.
 
@@ -2284,7 +2284,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve sûre bu ölçüyü kendisi de kullanıyor — ama başka bir yerde: kitap için (2), elçi için (29).** **Yani mesele ölçünün varlığı değil, kime uygulandığı.**
 
-**Bir kayıt daha:** Mûsâ'nın konuşmasındaki güçlük Kur'an'da başka yerde de anılır — Tâhâ 20/27'de kendi duasında geçer: *vahlül ukdeten min lisânî · yefkahû kavlî* ("dilimdeki düğümü çöz ki sözümü anlasınlar"). **Yani Fir'avn'ın dediği şey büsbütün asılsız bir iftira değildir; ayrıntısı Kur'an'da başka yerde kaydedilmiştir.**
+**Bir kayıt daha:** Mûsâ'nın konuşmasındaki güçlük Kur'an'da başka yerde de anılır — Tâhâ 20/27-28'de kendi duasında geçer: *vahlül ukdeten min lisânî · yefkahû kavlî* ("dilimdeki düğümü çöz ki sözümü anlasınlar"). **Yani Fir'avn'ın dediği şey büsbütün asılsız bir iftira değildir; ayrıntısı Kur'an'da başka yerde kaydedilmiştir.**
 
 **Bunu kaydetmek gerekiyor, çünkü ayetin işi daha da netleşiyor:** Fir'avn yalan söylemiyor. **Doğru bir gözlemi, yanlış bir ölçüde kullanıyor.**
 
@@ -2526,7 +2526,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **`047-muhammed.md` 47/1 bahsinde ص-د-د kökünün iki dalı işlenmişti ve orada bu ayet anılmıştı:**
 
-> *"**Geçişsiz** — *sadde an*: Kendisi yüz çevirdi. 'Seni görünce senden **yüz çevirirler**' (Zuhruf 43/57'de aynı kökten *yasıddûn*)."*
+> *"**Geçişsiz** — *sadde an*: Kendisi yüz çevirdi. 'Kavmin **ondan yüz çevirir**' (Zuhruf 43/57'de aynı kökten *yasıddûn*)."*
 
 **Oraya dayanıyorum ve buraya kökün diğer dalını ekliyorum.**
 
@@ -2619,7 +2619,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
 
-**Ve *ceale* fiili sûrede yedinci kez geliyor. *Mesel* kelimesi de üçüncü kez.**
+**Ve *ceale* fiili sûrede yedinci kez geliyor. *Mesel* kelimesi de beşinci kez.**
 
 ***Mesel* burada ne anlamda?** İki okuma nakledilir:
 
@@ -3127,7 +3127,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 **Ve kelime, yetmiş yedinci ayetle birlikte okunmalıdır:** orada aynı kişiler **konuşacak** — *ve nâdev yâ Mâlik*.
 
-**Bunu bir gözlem olarak kaydediyorum:** yetmiş beşinci ayet suskunluğu, yetmiş yedinci ayet bir sesleniş anlatıyor. **Aradaki iki ayet, bu geçişi hazırlıyor.**
+**Bunu bir gözlem olarak kaydediyorum:** yetmiş beşinci ayet suskunluğu, yetmiş yedinci ayet bir sesleniş anlatıyor. **Aradaki ayet, bu geçişi hazırlıyor.**
 
 ### وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوا۟ هُمُ ٱلظَّٰلِمِينَ
 
@@ -3290,7 +3290,7 @@ Bunu kendi okumam olarak kaydediyorum ve dayanağı fiilin sûre içindeki tekra
 
 ### أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُمْ
 
-**Üçüncü *em* ile üçüncü soru geliyor.** Sûrede bu edat sık kullanılıyor: 16, 21, 52, 58, 79, 80.
+**Altıncı *em* ile altıncı soru geliyor.** Sûrede bu edat sık kullanılıyor: 16, 21, 52, 58, 79, 80.
 
 **ح-س-ب** kökü otuz yedinci ayette geçmişti (*yahsebûne ennehüm mühtedûn*). **Aynı fiil, aynı kalıpta.**
 

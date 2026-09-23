@@ -27,9 +27,9 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 - **I. blok ile VI. blok aynı fiille bağlanıyor:** *iktarabe* (1) — *va'ktarabe* (97).
 - **II. blok *lâibîn* ile açılıyor** (16) ve aynı kelime **IV. blokta İbrâhim'e sorulan soruda** bir kez daha geçiyor: *em ente mine'l-lâibîn* (55).
-- **II. blokta üç kez, VI. blokun son ayetinde bir kez *vasf* kökü geçiyor:** *mimmâ tasifûn* (18) — *ammâ yasifûn* (22) — *alâ mâ tasifûn* (112).
+- **II. blokta iki kez, VI. blokun son ayetinde bir kez *vasf* kökü geçiyor:** *mimmâ tasifûn* (18) — *ammâ yasifûn* (22) — *alâ mâ tasifûn* (112).
 
-**Ve sûrenin en yoğun kelimesi ذ-ك-ر kökü:** 2, 7, 10, 24, 36, 42, 48, 50, 105 — dokuz ayette. Kur'an bu sûrede kendini beş ayrı yerde *zikr* diye adlandırıyor. **Sayılabilir bir olgudur; sonda tablolanacak.**
+**Ve sûrenin en yoğun kelimesi ذ-ك-ر kökü:** 2, 7, 10, 24, 36, 42, 48, 50, 84, 105 — on ayette. Kur'an bu sûrede kendini beş ayrı yerde *zikr* diye adlandırıyor. **Sayılabilir bir olgudur; sonda tablolanacak.**
 
 ---
 
@@ -188,7 +188,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | 2 | *İftarâhu* — **uydurdu** | Bilinçli üretim |
 | 3 | *Hüve şâir* — **o bir şair** | Kaynağı bilinen bir sanat |
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı üç *bel*in sırasıdır:** üç iddia birbirini **tutmuyor.** Rüya görene "uydurdu" denmez; uyduran "şair" sayılmaz. **Metin, itirazları düzeltmeden art arda diziyor** — ve bu diziliş, itirazların birbirini eledi­ğini gösteriyor.
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı üç *bel*in sırasıdır:** üç iddia birbirini **tutmuyor.** Rüya görene "uydurdu" denmez; uyduran "şair" sayılmaz. **Metin, itirazları düzeltmeden art arda diziyor** — ve bu diziliş, itirazların birbirini elediğini gösteriyor.
 
 **Aynı teknik `025-furkan.md` 25/4-8'de tablolanmıştı:** orada da dört itiraz sıralanmış ve "hiçbiri metnin ne söylediğine bakmıyor" diye kaydedilmişti. **Oraya dayanıyorum.** **Enbiyâ'nın eklediği şey, itirazların birbiriyle çelişmesidir.**
 
@@ -381,7 +381,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Klasik tefsirlerde bu cümlenin tehzîl/istihzâ (alay, azarlama) yollu olduğu yaygın olarak söylenir:** dönmeleri gerçekten istenmiyor; imkânsızlık, emir kipiyle gösteriliyor. **Bunu nakledilen bir izah olarak aktarıyorum.**
 
-**Ve dizim bakımından şunu ekliyorum — kendi okumam olarak:** *lealleküm tüs'elûn* fiili **س-أ-ل** kökündendir ve bu kök yirmi üçüncü ayette sûrenin en yoğun cümlesini kuracak: *lâ yüs'elü ammâ yef'alü ve hüm yüs'elûn.* **Aynı fiil, aynı mechûl kalıp. Onuncu ayet grubunda alay yollu söylenen şey, yirmi üçüncü ayette bir hüküm olarak konuyor.** Bu, sûre içinde doğrulanabilir bir lafız ortaklığıdır.
+**Ve dizim bakımından şunu ekliyorum — kendi okumam olarak:** *lealleküm tüs'elûn* fiili **س-أ-ل** kökündendir ve bu kök yirmi üçüncü ayette sûrenin en yoğun cümlesini kuracak: *lâ yüs'elü ammâ yef'alü ve hüm yüs'elûn.* **Aynı fiil, aynı mechûl kalıp. Dokuzuncu ayet grubunda alay yollu söylenen şey, yirmi üçüncü ayette bir hüküm olarak konuyor.** Bu, sûre içinde doğrulanabilir bir lafız ortaklığıdır.
 
 ### يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ — sûrede üç kez
 
@@ -599,7 +599,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Ayet ikinci öncülü vermiyor.** *Le-fesedetâ* dedikten sonra doğrudan tesbihe geçiyor.
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin eksikliğidir:** ikinci öncül **muhatabın gözüne bırakılmıştır.** Göğün ve yerin bozulmadığını söyleyen ayet değil, **bakan kişidir.** Delil, tam da bu yüzden bir tartışma cümlesi değil, bir **bakma çağrısı**dır — ve sûre bunu üç ayet sonra açıkça yapacak: *evelem yera'llezîne keferû* (30).
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin eksikliğidir:** ikinci öncül **muhatabın gözüne bırakılmıştır.** Göğün ve yerin bozulmadığını söyleyen ayet değil, **bakan kişidir.** Delil, tam da bu yüzden bir tartışma cümlesi değil, bir **bakma çağrısı**dır — ve sûre bunu sekiz ayet sonra açıkça yapacak: *evelem yera'llezîne keferû* (30).
 
 **Ve bir ikinci gözlem:** ayet **niçin** bozulacağını da söylemiyor. Sebep zinciri kurulmuyor. **Cümlenin verdiği tek şey, çokluk ile düzenin bir arada duramayacağıdır.**
 
@@ -1109,7 +1109,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 | Görüş | *Min acel* ne demek | Dayanağı |
 |---|---|---|
-| 1 | **Mübalağa/mecaz:** insan sanki aceleden yaratılmış gibidir; acele onun mayasındadır | Arapçada "filan kerem­den yaratılmıştır" türü kullanımlar yaygındır |
+| 1 | **Mübalağa/mecaz:** insan sanki aceleden yaratılmış gibidir; acele onun mayasındadır | Arapçada "filan keremden yaratılmıştır" türü kullanımlar yaygındır |
 | 2 | *Acel* burada **çamur/tîn** anlamındadır | Bazı dilcilerin naklettiği bir lugat kullanımı |
 | 3 | Takdim-tehir vardır: "acele insandan yaratıldı" | Nahivcilerin bir kısmının izahı |
 
@@ -2463,7 +2463,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 
 **Yani üç sûre aynı olguyu üç ayrı yolla veriyor: ikisi ifadeyle, biri yapıyla.** **Bunu bir okuma olarak sunuyorum; üç ayetin lafzı doğrulanabilir, yapı yorumu benimdir.**
 
-**كُلٌّ إِلَيْنَا رَٰجِعُونَ** — ***küll* tenvinli, ardından âkıl çoğulu haber.** **Ve fiil, sûrenin otuz beşinci ayetinde geçmişti:** *ve ileynâ **turceûn***. **Aynı kök (ر-ج-ع), biri fiil biri isim.** **Ve altmış dördüncü ayette de aynı kök geçmişti (*fe-raceû ilâ enfüsihim*).** **Kök sûrede üç yerde: 35, 64, 93.** **Sayılabilir bir olgudur.**
+**كُلٌّ إِلَيْنَا رَٰجِعُونَ** — ***küll* tenvinli, ardından âkıl çoğulu haber.** **Ve fiil, sûrenin otuz beşinci ayetinde geçmişti:** *ve ileynâ **turceûn***. **Aynı kök (ر-ج-ع), biri fiil biri isim.** **Ve altmış dördüncü ayette de aynı kök geçmişti (*fe-raceû ilâ enfüsihim*).** **Kök sûrede beş yerde: 35, 58, 64, 93, 95.** **Sayılabilir bir olgudur.**
 
 ---
 
@@ -3084,7 +3084,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | **تَصِفُونَ / يَصِفُونَ** | **18**, **22**, **112** | Baş, orta, son |
 | **لَٰعِبِين** | **16** (yaratma) — **55** (İbrâhim'e soru) | Reddedilen kelime, bir ithama dönüşüyor |
 | **مُّعْرِضُونَ** | **1**, **24**, **32**, **42** | Dört kez, hep bir delilin ardından |
-| **ذ-ك-ر** | **2, 7, 10, 24, 36, 42, 48, 50, 105** | **Dokuz ayet** — sûrenin en yoğun kökü |
+| **ذ-ك-ر** | **2, 7, 10, 24, 36, 42, 48, 50, 84, 105** | **On ayet** — sûrenin en yoğun kökü |
 | **ٱلرَّحْمَٰن** | **26**, **36**, **42**, **112** | İtiraz edilen isim, son ayette sığınılan isim |
 | **فَٰعِلِين** | **17**, **68**, **79**, **104** | İkisi metnin, biri kavmin, biri Allah'ın fiili |
 | **س-ب-ح** | **20** (katındakiler), **33** (gök cisimleri), **79** (dağlar) | Üç ayrı özne, aynı kök |
@@ -3100,7 +3100,7 @@ Ve dizi bittiğinde sûre tek bir cümleyle hükmünü koyuyor: *inne hâzihî �
 | **ع-ق-ل (أَفَلَا تَعْقِلُونَ)** | **10** (metin), **67** (İbrâhim) | Aynı soru, iki ağız |
 | **س-أ-ل** | **13** (*lealleküm tüs'elûn*), **23** (*lâ yüs'elü … yüs'elûn*) | Alay yollu söylenen, hükme dönüşüyor |
 | **ح-س-س** | **12** (*ehassû be'senâ*), **102** (*lâ yesmeûne hasîsehâ*) | Sezmek ve sezmemek |
-| **ر-ج-ع** | **35**, **58**, **64**, **93** | Dönüş fiili, dört ayrı hedefle |
+| **ر-ج-ع** | **35**, **58**, **64**, **93**, **95** | Dönüş fiili, beş ayrı hedefle |
 | **فَٱعْبُدُونِ** | **25** (dizinin öncesi), **92** (dizinin sonrası) | Dizi bu iki cümlenin arasında |
 | **فِتْنَة** | **35** (şer ve hayır), **111** (gecikme) | Sınamanın kapsamı genişliyor |
 | **ح-س-ب** | **1** (*hisâbühüm*), **47** (*hâsibîn*) | Yaklaşan şeyin sahibi adlandırılıyor |

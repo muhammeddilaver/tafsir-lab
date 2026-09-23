@@ -1381,9 +1381,9 @@ Knowing at what point to leave an argument is harder than carrying it on. Most a
 
 "As for those who argue about God after His call has been answered — their proof slips away with their Lord; upon them is anger, and for them a severe punishment."
 
-### مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ — the third "after"
+### مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ — the second "after"
 
-**Within three verses the sūra frames the pattern *min baʿdi mā* for the third time. This is a verifiable repetition:**
+**Within three verses the sūra frames the pattern *min baʿdi mā* for the second time. This is a verifiable repetition:**
 
 | Verse | After what came | What happened |
 |---|---|---|
@@ -1819,7 +1819,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ### لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ
 
-**Up to this point in the sūra the verb *yashāʾ* has always been used of God** (8, 12, 13, 19, 21). **Here for the first time it is used of a human being: *mā yashāʾūn* — "what they wish".**
+**Up to this point in the sūra the verb *yashāʾ* has always been used of God** (8, 12, 13, 19). **Here for the first time it is used of a human being: *mā yashāʾūn* — "what they wish".**
 
 **This is a fact that can be verified from the text, and I record it.** And the qualification *ʿinda rabbihim* has been added: the wish is free, but where it stands is stated.
 
@@ -1858,7 +1858,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 | Sense | Example of its use in the Qurʾān |
 |---|---|
 | **Kinship** | *Dhi'l-qurbā* — "the possessor of nearness", that is, a relative (al-Baqara 2/83, 2/177; al-Nisāʾ 4/36 and elsewhere) |
-| **Drawing near / a state of nearness** | *Qurbatan ʿinda'llāh* (al-Tawba 9/99) — a means of nearness with God |
+| **Drawing near / a state of nearness** | *Qurubātin ʿinda'llāh* (al-Tawba 9/99) — a means of nearness with God |
 
 **And the particle *fī* in the verse is decisive as well:** *al-mawaddata **fi'l**-qurbā*. **This particle can be understood in three ways:**
 
@@ -2219,7 +2219,7 @@ This is said not as a rule of morals but as a **working.** And the word itself c
 
 **There are many words for rain in Arabic, and each brings a different aspect forward. The particularity of the word *ghayth* must be recorded.**
 
-**كوك غ-ي-ث: to rush to help, to come to the rescue.** *Ighātha* — to help; *mughīth* — one who comes to the rescue. **Indeed *istighātha* (calling for help) is from the same root.**
+**The root غ-ي-ث: to rush to help, to come to the rescue.** *Ighātha* — to help; *mughīth* — one who comes to the rescue. **Indeed *istighātha* (calling for help) is from the same root.**
 
 **A *ghayth*, then, is not "falling water" but water that comes to the rescue.** The word itself names the rain as a help.
 
@@ -3293,7 +3293,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 "You will see them brought before it, shrunken with humiliation, looking with a furtive glance. And those who believed will say: the losers are those who have lost themselves and their families on the day of resurrection. Know well that the wrongdoers are in a lasting punishment."
 
-### يُنظُرُونَ مِن طَرْفٍ خَفِىٍّ — the finest description in the sūra
+### يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ — the finest description in the sūra
 
 **This expression is one of the most careful sentences of observation in the Qurʾān and must be dwelt on.**
 
@@ -3891,7 +3891,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 | **15** | *al-maṣīr* | **A noun** — the place of arrival |
 | **53** | *taṣīru* | **A verb** — it returns |
 
-**Second: the word *al-amr*.** It occurs three times in the sūra:
+**Second: the word *al-amr*.** It occurs four times in the sūra; three of them in the sense of a human affair:
 
 | Verse | Construction | Whose affair |
 |---|---|---|

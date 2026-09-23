@@ -1,4 +1,4 @@
-# 111. Sūrat al-Masad
+# 111. Sūrat al-Masad (Tabbat)
 
 Five verses. One of the shortest and most disquieting sūras in the Qurʾān.
 
@@ -551,7 +551,7 @@ The identities people construct for themselves today — profile, title, brand, 
 - **Abū Lahab's given name** (ʿAbd al-ʿUzzā), **his wife's name** (Umm Jamīl / Arwā bint Ḥarb), the **details of kinship** and the **time of his death** come from the biographical sources; the Qurʾān gives none of them. This distinction was stated everywhere in the text.
 - The report of the occasion of revelation (the hill of al-Ṣafā) is found in al-Bukhārī and Muslim; it was recorded that there are differences of detail.
 - Details such as Abū Lahab's taking the opposing side in the boycott and his following the Prophet at the fairs to give him the lie are reports from the biographical sources; their degrees of soundness vary, and they were given with the qualification "it is transmitted".
-- The expression **"the only contemporary named in the Qurʾān"** was corrected: Muḥammad, Aḥmad and Zayd are also named. The correct statement is that Abū Lahab is **the only opponent named by name**, and that the devoting of an entire sūra to a single person has no other example.
+- Abū Lahab is **the only opponent named by name** in the Qurʾān; Muḥammad, Aḥmad and Zayd are named too, but they are not opponents. Nor has the devoting of an entire sūra to a single person any other example.
 - The information that the kunya came from the redness of his face is a report; it is not certain.
 - The four views regarding the expression *Ḥammālata'l-ḥaṭab* / "carrying wood" were given in a table; no preference is adopted.
 - The report about Umm Jamīl's necklace was transmitted, but it was stated that the meaning of the verse does not depend on this report.

@@ -12,7 +12,7 @@
 | **IV** | 36-52 | Yeter mi sorusu, umutsuzluğun yasaklanması | *Ve lâkinne eksera'n-nâsi lâ ya'lemûn* (52) |
 | **V** | 53-75 | Rahmet çağrısı ve iki alay | *Ve kīle'l-hamdü lillâhi rabbi'l-âlemîn* (75) |
 
-**Sûrenin omurgası *ihlâs*tır — yani dinin katıksız kılınması.** Kelime sûrenin başında **üç kez** geçiyor (2, 3, 11) ve sûrenin geri kalanı bu tek kavramın etrafında dönüyor.
+**Sûrenin omurgası *ihlâs*tır — yani dinin katıksız kılınması.** Kelime sûrenin başında **dört kez** geçiyor (2, 3, 11, 14) ve sûrenin geri kalanı bu tek kavramın etrafında dönüyor.
 
 **Ve sûre ikilerle kurulmuştur:** iki insan tipi (8-9), iki tabaka (16), iki temsil (29), iki grup (71 ve 73), iki üfürüş (68). **Sûrenin adı da bir çokluk değil, *bölünme* bildiriyor.**
 
@@ -682,7 +682,7 @@
 
 **وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ**
 
-**Sûre, Fâtiha'nın ikinci ayetiyle kapanıyor:** *el-hamdü lillâhi rabbi'l-âlemîn.*
+**Sûre, Fâtiha'nın birinci ayetiyle kapanıyor:** *el-hamdü lillâhi rabbi'l-âlemîn.*
 
 **Ve fiil meçhul: *ve kīle* — "denildi".** Kimin söylediği belirtilmiyor.
 

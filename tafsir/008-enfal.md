@@ -186,7 +186,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 | Bakara 2/285 | *Semi'nâ ve **eta'nâ*** | **Kabul** |
 | **Enfâl 8/21** | *Semi'nâ* + *ve hüm lâ yesmeûn* | **Boş kabul** |
 
-**Bu, üç sûrede doğrulanabilir bir üçlüdür.** Bunu kendi okumam olarak kaydediyorum: **Enfâl'in tarif ettiği hâl, ikisinin arasında bir yerde durmuyor — birincisinden daha az açık, ama sonuç bakımından ona yakın.**
+**Bu, üç ayette doğrulanabilir bir üçlüdür.** Bunu kendi okumam olarak kaydediyorum: **Enfâl'in tarif ettiği hâl, ikisinin arasında bir yerde durmuyor — birincisinden daha az açık, ama sonuç bakımından ona yakın.**
 
 **Ve `041-fussilet.md` 41/4-5'te (*fe-hüm lâ yesmeûn*) işitmemenin yüz çevirmenin *sonucu* olduğu kaydedilmişti;** oraya dayanıyorum.
 
@@ -228,25 +228,13 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 ---
 
-## 8/26 — وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ
-
-"**Hatırlayın: siz yeryüzünde azdınız, güçsüz görülüyordunuz; insanların sizi kapıp götürmesinden korkuyordunuz. Derken O size barınak verdi ve yardımıyla destekledi.**"
-
-**يَتَخَطَّفَكُم** — **خ-ط-ف kökü `029-ankebut.md` 29/67 ve `028-kasas.md` 28/57'de işlendi** ve orada iki ayet tablolanmıştı (çevredekiler kapılıyor / kapılmaktan korkuyorlar). **Üçüncü halka burasıdır** — ve **Enfâl'de aynı korku *geçmiş zamanda* anılıyor: artık geçmiş bir hâl olarak.**
-
-**مُّسْتَضْعَفُون** — **X. bâb: zayıf görülüp zayıf düşürülenler.** **Kök `028-kasas.md` 28/4-5'te ayrıntılı işlendi** ve orada kaydedilmişti: **zayıflık kendiliğinden değil, *yapılan* bir şey.** **Oraya dayanıyorum.**
-
-**Ve ayetin işlevi kaydedilmeye değer:** sûre, ganimet tartışmasının ortasında **bir geçmiş hatırlatması** yapıyor. **Bunu kendi okumam olarak veriyorum: elde edilen şeyin tartışıldığı yerde, o şeyin hiç bulunmadığı zaman hatırlatılıyor.**
-
----
-
 ## 8/25-28 — وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً … يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓا۟ أَمَٰنَٰتِكُمْ وَأَنتُمْ تَعْلَمُونَ · وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ
 
 "**İçinizden yalnız zulmedenlere isabet etmekle kalmayacak bir fitneden sakının**… **Allah'a ve Resulüne hainlik etmeyin; bile bile kendi emanetlerinize de hainlik etmeyin. Bilin ki mallarınız ve çocuklarınız bir sınamadır.**"
 
 ### فِتْنَة kelimesinin iki geçişi
 
-**Kelime dört ayet arayla iki kez geçiyor ve iki ayrı şeyi bildiriyor:**
+**Kelime üç ayet arayla iki kez geçiyor ve iki ayrı şeyi bildiriyor:**
 
 | Ayet | *Fitne* ne |
 |---|---|
@@ -255,7 +243,7 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 
 **ف-ت-ن kökü `029-ankebut.md` 29/2-10'da ayrıntılı çözümlendi** (altını ateşte sınamak) **ve `018-kehf.md` 18/7'de yeryüzündekilerin sınama aracı olduğu işlendi.** **Oraya dayanıyorum.**
 
-**Ve `064-tegabun.md`'de aynı ifade (*innemâ emvâlüküm ve evlâdüküm fitne*) geçtiyse oraya da bakılabilir.**
+**Ve aynı ifade (*innemâ emvâlüküm ve evlâdüküm fitne*) `064-tegabun.md`'de de geçiyor; oraya da bakılabilir.**
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre bir **ganimet** tartışmasıyla açılmıştı. **Yirmi sekizinci ayet, tartışılan şeyin adını koyuyor: elde bulunan mal, kazanç değil sınama.**
 
@@ -266,6 +254,18 @@ Kökün anlamı: **asıl olana eklenen fazlalık.** *Nâfile* — farz olmayan, 
 **Ve cümlenin kuruluşu kaydedilmelidir:** *lâ tehûnullâhe ve'r-rasûle **ve tehûnû emânâtiküm***. **İki hainlik aynı cümlede, ikincisi birincinin sonucu gibi bağlanmış.**
 
 **Bunu bir gözlem olarak kaydediyorum:** ayet, yukarıya karşı yapılan ile **kendi aralarındaki** emanete karşı yapılanı ayırmıyor. **Ve *ve entüm ta'lemûn* kaydı ekleniyor — bilerek yapılması.**
+
+---
+
+## 8/26 — وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ
+
+"**Hatırlayın: siz yeryüzünde azdınız, güçsüz görülüyordunuz; insanların sizi kapıp götürmesinden korkuyordunuz. Derken O size barınak verdi ve yardımıyla destekledi.**"
+
+**يَتَخَطَّفَكُم** — **خ-ط-ف kökü `029-ankebut.md` 29/67 ve `028-kasas.md` 28/57'de işlendi** ve orada iki ayet tablolanmıştı (çevredekiler kapılıyor / kapılmaktan korkuyorlar). **Üçüncü halka burasıdır** — ve **Enfâl'de aynı korku *geçmiş zamanda* anılıyor: artık geçmiş bir hâl olarak.**
+
+**مُّسْتَضْعَفُون** — **X. bâb: zayıf görülüp zayıf düşürülenler.** **Kök `028-kasas.md` 28/4-5'te ayrıntılı işlendi** ve orada kaydedilmişti: **zayıflık kendiliğinden değil, *yapılan* bir şey.** **Oraya dayanıyorum.**
+
+**Ve ayetin işlevi kaydedilmeye değer:** sûre, ganimet tartışmasının ortasında **bir geçmiş hatırlatması** yapıyor. **Bunu kendi okumam olarak veriyorum: elde edilen şeyin tartışıldığı yerde, o şeyin hiç bulunmadığı zaman hatırlatılıyor.**
 
 ---
 
@@ -362,7 +362,7 @@ Dilciler bu deyimi **güç, üstünlük, işlerin yolunda gitmesi** olarak açı
 
 "**Hani şeytan onlara amellerini süslü göstermiş ve 'bugün insanlardan size galip gelecek yoktur; ben de sizin yanınızdayım' demişti. İki ordu karşı karşıya gelince, iki topuğu üzerine geri döndü ve 'ben sizden uzağım; ben sizin görmediğinizi görüyorum' dedi.**"
 
-**زَيَّنَ** — **fiil, dizinde birçok yerde meçhul geçmişti** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *züyyine*). **Burada ise fiil etken ve öznesi açıkça anılıyor.**
+**زَيَّنَ** — **fiil, dizinde birçok yerde meçhul geçmişti** (`035-fatir.md` 35/8, `040-gafir.md` 40/37: *züyyine*).
 
 **Burada fiil etken ve öznesi açıkça anılıyor: *zeyyene lehümü'ş-şeytân*.** **Bu farkı kaydediyorum: aynı fiil, bir yerde faili söylenmeden, bir yerde söylenerek geliyor.**
 

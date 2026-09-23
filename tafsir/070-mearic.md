@@ -1072,7 +1072,7 @@ Yani biri hareketi, öteki kararı bildiriyor.
 
 ### وَجَمَعَ فَأَوْعَىٰ — "topladı ve kabına koydu"
 
-**Sûrenin en yoğun iki kelimesi, ve bu tefsirde daha önce anıldı.**
+**Yine iki kelimelik bir cümle, ve bu tefsirde daha önce anıldı.**
 
 **Hümeze 104/2** bölümünde bu ayet zaten kullanılmıştı ve orada şu kaydedilmişti:
 
@@ -2538,7 +2538,7 @@ Mâûn bölümünde Müddessir 74/42-46 aktarılmıştı: cehennemdekilerin dör
 
 Ve dikkat: Müddessir'deki cümlede bir ayrıntı var — *"dalanlarla **birlikte**"*. Yani fiil tek başına yapılmıyor; **toplu** bir iştir.
 
-Ve Meâric'te de öyle: *"yehûdû"* çoğuldur, ve iki ayet önce *izîn* (dağınık gruplar) denmişti. **Öbekler halinde toplanmış insanlar, birlikte dalıyorlar.**
+Ve Meâric'te de öyle: *"yehûdû"* çoğuldur, ve beş ayet önce *izîn* (dağınık gruplar) denmişti. **Öbekler halinde toplanmış insanlar, birlikte dalıyorlar.**
 
 Bunu kendi okumam olarak kaydediyorum. İki ayetin lafızları ve Mâûn bölümündeki nakil doğrulanabilir verilerdir.
 
@@ -2674,7 +2674,7 @@ Ve: *"**Dikili taşlar** üzerine boğazlanan [hayvanlar size haram kılındı].
 
 **Birinci okuyuş, sûrenin muhtevasıyla daha güçlü bir bağ kuruyor** ve gerekçesi şudur:
 
-Sûre, inkâr edenleri kırk beş ayet önce Peygamber'in **etrafında toplanmış** olarak tarif etmişti: *"sana doğru boyunlarını uzatarak, sağdan soldan öbek öbek."*
+Sûre, inkâr edenleri yedi ayet önce Peygamber'in **etrafında toplanmış** olarak tarif etmişti: *"sana doğru boyunlarını uzatarak, sağdan soldan öbek öbek."*
 
 Ve şimdi aynı insanlar, bir **dikili taşa** koşarcasına kabirlerden çıkıyorlar.
 
@@ -2810,7 +2810,7 @@ Bunu kendi okumam olarak kaydediyorum. Sûrenin açılış ve kapanış cümlele
 
 ### Sûreyi dokuyan kökler
 
-Aşağıdaki tablo, sûrede **birden fazla yerde geçen** kökleri gösteriyor. Kök ortaklıkları doğrulanabilir verilerdir; bir düzen oluşturdukları yorumu bana aittir.
+Aşağıdaki tablo, sûrede **birden fazla yerde geçen** kökleri ve tek geçişli olup başka sûrelerle bağ kuran iki kökü gösteriyor. Kök ortaklıkları doğrulanabilir verilerdir; bir düzen oluşturdukları yorumu bana aittir.
 
 | Kök | Geçişler | Ne yapıyor |
 |---|---|---|
@@ -2841,7 +2841,7 @@ Sûrenin adımları bunu gösteriyor:
 
 **Üçüncü adım (19-21): asıl mesele adlandırılıyor.** Sorun azabın gecikmesi değil; **insanın yapısı.** *Helû'* olan bir varlık zaten bekleyemez — çünkü sızlanan ve esirgeyen bir yapı, ertelenmiş bir karşılığa dayanamaz.
 
-**Dördüncü adım (22-35): çıkış yolu.** Ve çıkış yolu bir argüman değil, bir **düzen**: dokuz madde, iki ucunda namaz.
+**Dördüncü adım (22-35): çıkış yolu.** Ve çıkış yolu bir argüman değil, bir **düzen**: sekiz madde, iki ucunda namaz.
 
 **Beşinci adım (36-44): soruya dönüş.** Soruyu soranlar tarif ediliyor — ve tarif, bedensel bir hareketle yapılıyor: boyun uzatma, koşma, dağınık duruş. Sonra aynı hareket kıyamet sahnesinde tekrarlanıyor.
 
@@ -2918,7 +2918,7 @@ Ve iki tepkinin ortak yanı şudur: ikisi de **temasa** verilen ani bir karşıl
 
 Bugünün hayatı bu teması çoğaltmış durumda: her gün daha çok haber, daha çok karşılaştırma, daha çok küçük kayıp ve kazanç dokunuyor. *Helû'* olan bir yapı için bu, sürekli bir salınım demektir — her dokunuşta bir çöküş ya da bir kapanma.
 
-Sûrenin sunduğu şey bir öğüt değil, bir **düzen**dir: dokuz maddelik liste ve iki ucundaki namaz. Yani tepkinin panzehiri olarak **ritim** öneriliyor.
+Sûrenin sunduğu şey bir öğüt değil, bir **düzen**dir: sekiz maddelik liste ve iki ucundaki namaz. Yani tepkinin panzehiri olarak **ritim** öneriliyor.
 
 **Üç. Yanlış çıkarım ve yanlış tepki.**
 
@@ -2956,7 +2956,7 @@ Otuz altı ile otuz sekizinci ayetler bir tabloyu birlikte kuruyor: insanlar gel
 
 Yani **ilgi, katılım sanılıyor.**
 
-Bu, sûrenin bugüne en doğrudan bakan yeri olabilir. Bir şeye yakın durmak, onu izlemek, hakkında konuşmak, etrafında toplanmak — bunların hiçbiri katılmak değildir. Ve sûre, ikisi arasındaki farkı otuz beş ayetlik bir listeyle çizmiş durumda: liste, katılanın ne yaptığını sayıyor.
+Bu, sûrenin bugüne en doğrudan bakan yeri olabilir. Bir şeye yakın durmak, onu izlemek, hakkında konuşmak, etrafında toplanmak — bunların hiçbiri katılmak değildir. Ve sûre, ikisi arasındaki farkı on üç ayetlik bir listeyle çizmiş durumda: liste, katılanın ne yaptığını sayıyor.
 
 **Sekiz. "Bırak onları."**
 

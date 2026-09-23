@@ -308,7 +308,7 @@ Its derivatives show this plainly:
 
 The definition that follows from this is critical: **unbelief is not not-knowing; it is covering over what one knows.** Ignorance and unbelief are different things. The person the Qurʾān calls *kāfir* is not one who has failed to see the proof set before him but one who has chosen to cover what he saw. Indeed the Qurʾān says this outright through the mouth of Moses (Mūsā) against Pharaoh: *"You have certainly come to know that no one has sent these down but the Lord of the heavens and the earth"* (al-Isrāʾ 17/102).
 
-And look at the word's opposite: in the Qurʾān what is set opposite *kufr* is most often not *īmān* but **thanks** (*"shākiran aw kafūrā"*, al-Insān 76/3). Thanks is to see and acknowledge what has been given; unbelief is to cover it over. Unbelief, then, is at bottom a notion of **ingratitude**.
+And look at the word's opposite: in the Qurʾān what is set opposite *kufr* is most often not *īmān* but **thanks** (*"immā shākiran wa immā kafūrā"*, al-Insān 76/3). Thanks is to see and acknowledge what has been given; unbelief is to cover it over. Unbelief, then, is at bottom a notion of **ingratitude**.
 
 This distinction takes the word out of being a term of abuse and makes it a description of a condition. It will be used that way in this commentary.
 
@@ -1383,7 +1383,7 @@ And the words *fāriḍ* and *bikr* both have to do with time: one the end of a 
 
 **تُثِيرُ** — root **ث-و-ر**: to raise, to turn the underside up, to stir dust into the air. To plough the soil is to bring the underside of the soil to the top.
 
-**مُسَلَّمَة** — root **س-ل-م**. At verse 131 of the sūra we saw the sense of this root, "to be sound, flawless, without defect", in the verbs *aslim / aslamtu*. *Musallama* — one having no fault, free of blemish.
+**مُسَلَّمَة** — root **س-ل-م**. At verse 131 of the sūra we will see the sense of this root, "to be sound, flawless, without defect", in the verbs *aslim / aslamtu*. *Musallama* — one having no fault, free of blemish.
 
 **لَا شِيَةَ فِيهَا** — "there is no spot on her." Root **و-ش-ي**: to add a mark of another colour to something, to make it dappled. The lexicographers connect it with *wishāya* (informing against someone) from the same root in this way: the informer too is one who adds his own colour to what is said. **I transmit this connection as the lexicographers make it**, not as a settled etymological ruling.
 
@@ -1484,7 +1484,7 @@ All three show a response. Even the most barren stone at least **falls** — tha
 
 **يَتَفَجَّرُ** — root *f-j-r*: to split open and gush. This root has occurred at several earlier points in this commentary, and in all of them the same idea was present: the splitting of a husk and the coming out of what is inside. The words the Qurʾān chooses for fruitfulness come insistently from the root of **splitting** — *falaq* (the splitting of the dawn), *falāḥ* (the farmer who splits the soil), *fajr*, *shaqq*, *faṭr*. The hardening of the heart is exactly the reverse: what does not split, does not open, and lets nothing out.
 
-At the fifth verse of the sūra those who attain were called **mufliḥūn** — "those who split through and come out". Seventy verses later the opposite tableau is complete: the heart that does not split.
+At the fifth verse of the sūra those who attain were called **mufliḥūn** — "those who split through and come out". Sixty-nine verses later the opposite tableau is complete: the heart that does not split.
 
 ---
 
@@ -1781,13 +1781,13 @@ Set the two notes side by side and what emerges is this: not enough time has pas
 
 Root **ب-ي-ن**: to separate two things, to distinguish. A *bayyina* is the proof by which truth and falsehood are **separated**; *bayān* and *tabyīn* are from the same root.
 
-That the word comes in the plural matters: not a single proof but **proofs.** The sūra had enumerated them one by one in verses 49-60 — the parting of the sea, the shade, manna and quails, the twelve springs, water from the rock. The verse recalls this whole list with one word.
+That the word comes in the plural matters: not a single proof but **proofs.** The sūra had enumerated them one by one in verses 49-60 — the parting of the sea, the shade, manna and quails, the twelve springs. The verse recalls this whole list with one word.
 
 ### وَأَنتُمْ ظَٰلِمُونَ
 
-This clause at the end of the sentence is another form of the sūra's most frequently repeated clause: *wa antum taʿlamūn* — "and that while you know" (2/22, 2/42, 2/75, 2/188).
+This clause at the end of the sentence is another form of the sūra's most frequently repeated clause: *wa antum taʿlamūn* — "and that while you know" (2/22, 2/42, 2/188).
 
-Here the word **wrongdoing** is put in the place of knowledge. In this sūra the two are bound to one another: what is done knowingly is no longer an error but an injustice. And the sense of the root *ẓ-l-m*, "to put a thing somewhere other than its place", occurred at the fifty-fourth verse — the setting of the calf in God's place is the word's exact counterpart.
+Here the word **wrongdoing** is put in the place of knowledge. In this sūra the two are bound to one another: what is done knowingly is no longer an error but an injustice. And the sense of the root *ẓ-l-m*, "to put a thing somewhere other than its place", occurred at the fifty-seventh verse — the setting of the calf in God's place is the word's exact counterpart.
 
 And a nominal sentence is used: *wa antum ẓālimūn* — not "you did wrong" but "you were wrongdoers". In Arabic this structure states the act not as a one-off event but as **the character of the condition at that moment**.
 
@@ -1853,7 +1853,7 @@ These two verses look as though they were placed in between, closing the previou
 
 ### وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَٰسِقُونَ
 
-The concrete sense of the root **ف-س-ق** has been treated at several points in this commentary — at verse 26 of the sūra and in the discussions of al-Ḥadīd and al-Ḥujurāt: **a date's coming out of its skin**, that is, overflowing its own vessel. I do not repeat it.
+The concrete sense of the root **ف-س-ق** has been treated at several points in this commentary — in the discussions of al-Ḥadīd and al-Ḥujurāt: **a date's coming out of its skin**, that is, overflowing its own vessel. I do not repeat it.
 
 The word's place here is striking. The sentence does not call those who reject the signs "those who do not know" or "those who do not understand"; it calls them **those who have come out of their skin**. The cause of the rejection, that is, is not a lack of knowledge but **an overstepping of the boundary one stands in**.
 
@@ -2338,9 +2338,9 @@ The fifth is the answer to all the rest. And note: the verse does not reserve th
 
 ### 122-123: the circle within the sūra
 
-These two verses are the **exact repetition** of verses 47-48 of the sūra.
+These two verses are an **almost exact repetition** of verses 47-48 of the sūra.
 
-This is an arrangement that cannot be explained as coincidence. The section on the Children of Israel had **opened** at verse 47 with these two verses, had run for seventy-five verses, and now **closes** with the same two verses at 122-123. In Arabic, and in literature generally, this is called **ring structure**: a section is ended with the sentence it began with.
+This is an arrangement that cannot be explained as coincidence. The section on the Children of Israel had **opened** at verse 47 with these two verses, had run for seventy-three verses, and now **closes** with the same two verses at 122-123. In Arabic, and in literature generally, this is called **ring structure**: a section is ended with the sentence it began with.
 
 If one looks at what has been placed inside the ring, the function of the repetition becomes clear:
 
@@ -2348,7 +2348,7 @@ If one looks at what has been placed inside the ring, the function of the repeti
 - **Inside (49-121):** the record of the community to whom the preferment was given — the calf, the sabbath, the cow, distortion, concealment, the throwing away of the covenant.
 - **At the closing (122-123):** the same two sentences.
 
-A sentence that on first reading was a reminder comes back, after the seventy-five verses in between, **with a different weight**. The words are the same; the reader is not.
+A sentence that on first reading was a reminder comes back, after the seventy-three verses in between, **with a different weight**. The words are the same; the reader is not.
 
 **I record this as an observation about the structure.** The sūra uses this technique once more: at verses 134 and 141 the sentence *"that was a community that has passed away"* is likewise repeated word for word twice, and in both cases it comes after a list of ancestors.
 
@@ -2580,7 +2580,7 @@ And the answer takes aim at exactly that point: **وَهُوَ رَبُّنَا 
 
 **وَلَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ** — "our deeds are ours, yours are yours." The sentence turns the dispute from belonging to **deed**: what cannot be shared is not the Lord but each person's own work.
 
-This is the same pattern as the sentence *"what they earned is theirs, what you earn is yours"* repeated at verses 134 and 141 of the sūra. The same measure, in three separate places: once for forebears, once for those addressed.
+This is the same pattern as the sentence *"what they earned is theirs, what you earn is yours"* repeated at verses 134 and 141 of the sūra. The same measure, in two separate places: once for forebears, once for those addressed.
 
 **وَنَحْنُ لَهُۥ مُخْلِصُونَ** — root **خ-ل-ص**: a thing's being **pure, unmixed**; its state with nothing else blended in. The verb is used for the separating out of butter from milk. *Ikhlāṣ* is to mix no other intention into a work while doing it.
 
@@ -3152,7 +3152,7 @@ The picture is complete: at the edge of a cliff, all the cables they were holdin
 
 ### لَوْ أَنَّ لَنَا كَرَّةً
 
-**كَرَّة** — root **ك-ر-ر**. This root was treated in the discussions of al-Mulk (67/4) and al-Nāziʿāt (79/13); I do not repeat it. Its summary: the root's proper place is the battlefield — in the tactic of *karr wa farr* (charge and withdraw), **to turn to the attack again** after withdrawing. From this the sense "a time, an occasion" arose.
+**كَرَّة** — root **ك-ر-ر**. This root was treated in the discussions of al-Mulk (67/4) and al-Nāziʿāt (79/12); I do not repeat it. Its summary: the root's proper place is the battlefield — in the tactic of *karr wa farr* (charge and withdraw), **to turn to the attack again** after withdrawing. From this the sense "a time, an occasion" arose.
 
 What is wanted, then, is not simply "to go back"; in the word's own logic it is **the chance to repeat a charge**. To try once more.
 
@@ -3359,7 +3359,7 @@ Concealment here, that is, does not stand alone; it is named together with a **g
 
 ### وَلَا يُكَلِّمُهُمُ ٱللَّهُ… وَلَا يُزَكِّيهِمْ
 
-Two negations are listed, and both had occurred earlier in this sūra in their **positive** form:
+Two negations are listed, and both occur in this sūra in their **positive** form:
 
 | Verse | Its positive form |
 |---|---|
@@ -3732,7 +3732,7 @@ After enumerating all the licences, the verse states a **preference**: to fast i
 
 **And this shows how the licence is to be read.** An ease is given, but it is not said that the ease is the norm. Two sentences stand together: if you cannot, there is a road; if you can, it is better that you do.
 
-**إِن كُنتُمْ تَعْلَمُونَ** — "if you but knew." The conditional clause ties the ground of the ruling to knowledge. This pattern is familiar in the sūra; but here it is turned round: throughout the sūra *"and that while you know"* (2/22, 42, 75, 188) had been repeated and knowledge had been used as a clause of **accusation**. Here the same word comes as an **invitation**.
+**إِن كُنتُمْ تَعْلَمُونَ** — "if you but knew." The conditional clause ties the ground of the ruling to knowledge. This pattern is familiar in the sūra; but here it is turned round: throughout the sūra *"and that while you know"* (2/22, 42, 188) had been repeated and knowledge had been used as a clause of **accusation**. Here the same word comes as an **invitation**.
 
 And the next verse (185) will balance this preference with the principle of ease: *"God wants ease for you, He does not want hardship for you."* The two verses must be read together — one states the aim, the other how the aim is set.
 
@@ -4504,7 +4504,7 @@ This pattern in Arabic conveys **reciprocity**: *qātala* means "he fought with 
 
 This distinction was treated at verse 190 of the sūra, and what was recorded there holds here too: *"Fight those who **fight** you, but **do not transgress**"* — the verb is in the reciprocal pattern, its addressee is specified, and the limit is set immediately beside the permission.
 
-**This verse cannot be read with those limits removed.** The command at verse 244 looks short and unqualified; but the clauses laid down for the same root fifty verses earlier in the same sūra are in force: against those who fight, without transgressing, ceasing when the other side ceases (2/192-193).
+**This verse cannot be read with those limits removed.** The command at verse 244 looks short and unqualified; but the clauses laid down for the same root fifty-four verses earlier in the same sūra are in force: against those who fight, without transgressing, ceasing when the other side ceases (2/192-193).
 
 In the method of reading rulings in the Qurʾān this is a known principle: **the unqualified is carried to the qualified** — a ruling given without a clause in one place is understood together with the clause laid down in another. The sūra itself has put these two verses inside the same text.
 

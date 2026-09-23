@@ -386,11 +386,11 @@ And this throws light on the verse's sense here: the *kutub* inside the pages ar
 
 The sūra's second key word, and the root that builds its weave, begins here.
 
-**Root ق و م (q-w-m).** The full analysis of this root was made in other sections: *mustaqīm* (the straight path) at al-Fātiḥa 1/6, and *iqāma* (holding the prayer upright) at al-Baqara 2/3. I do not repeat the basic account given there; I confine myself to this reminder: the centre of the root is **standing, and being upright** — both being without crookedness and not collapsing.
+**Root ق و م (q-w-m).** The full analysis of this root was made in other sections: *mustaqīm* (the straight path) at al-Fātiḥa 1/5, and *iqāma* (holding the prayer upright) at al-Baqara 2/3. I do not repeat the basic account given there; I confine myself to this reminder: the centre of the root is **standing, and being upright** — both being without crookedness and not collapsing.
 
 What is new here is the word's **pattern**.
 
-**The قَيِّم pattern.** *Qayyim* is on the *fayʿil* pattern (originally *qaywim*). In Arabic this pattern conveys **intensity and continuance**. A *sayyid* is not one lightly so (*hayyin*) but one who is a master continuously; and *qayyūm* is a still more intense pattern of the same root (as a name of God at al-Baqara 2/255: *al-Ḥayyu'l-Qayyūm*).
+**The قَيِّم pattern.** *Qayyim* is on the *fayʿil* pattern (originally *qaywim*). In Arabic this pattern conveys **intensity and continuance**. *Sayyid* and *hayyin* are on this pattern; a *sayyid* is not a master momentarily but one who is a master continuously; and *qayyūm* is a still more intense pattern of the same root (as a name of God at al-Baqara 2/255: *al-Ḥayyu'l-Qayyūm*).
 
 The word *qayyim* in Arabic has a sense that opens in three separate directions, and all three fit the verse:
 
@@ -612,7 +612,7 @@ This claim is framed elsewhere in the Qurʾān too: *"He has laid down for you a
 
 ### The five items
 
-The verse reduces the religion to four acts. Note the order:
+The verse reduces the religion to five acts. Note the order:
 
 | # | Item | What kind of thing | Its direction |
 |---|---|---|---|
@@ -728,7 +728,7 @@ The classical explanations:
 | **The elided qualified noun: *al-kutub*** | A reference to *kutubun qayyima* in verse 3: "the religion of those upright books." | It makes a link within the sūra; the most elegant reading. |
 | ***Al-qayyima* is here a verbal noun** | In the sense of *qiyām* / *istiqāma*: "the religion of the upright stance". | A conceptual reading. |
 
-The third explanation is the one I find most striking: in verse 3 it was said *kutubun qayyima*; verse 5 may be repeating the same word and tying the sentence back to it. In that case the verse is saying: **"This is the religion of those upright books."** The four items enumerated in verse 5, that is, are the content of the books spoken of in verse 3. The sūra closes a ring within itself.
+The third explanation is the one I find most striking: in verse 3 it was said *kutubun qayyima*; verse 5 may be repeating the same word and tying the sentence back to it. In that case the verse is saying: **"This is the religion of those upright books."** The five items enumerated in verse 5, that is, are the content of the books spoken of in verse 3. The sūra closes a ring within itself.
 
 I offer this not as a preference but as a possibility. All four explanations have been defended in the classical sources, and the difference in sense is not great.
 
@@ -763,7 +763,7 @@ And Sūrat al-Rūm adds two things al-Bayyina does not say:
 
 **2. The psychology of division.** *"Kullu ḥizbin bimā ladayhim fariḥūn"* — "each party rejoices in what it holds." This sentence is the explanation of al-Bayyina 98/4. Why does division persist? Because **each piece is content with its own piece.** The pain of the division is not felt by those who are divided; on the contrary, each side counts what it holds sufficient and correct. The choice of the word *faraḥ* (rejoicing) is merciless: the division has become not a source of grief but a source of pride.
 
-Reading these two verses together with al-Bayyina 98/4-5 completes the sūra's diagnosis: knowledge came → division followed out of baghy → each party rejoiced in its own share → yet what was commanded was four items.
+Reading these two verses together with al-Bayyina 98/4-5 completes the sūra's diagnosis: knowledge came → division followed out of baghy → each party rejoiced in its own share → yet what was commanded was five items.
 
 ---
 
@@ -1249,7 +1249,7 @@ And it contains a warning: everyone who counts himself the representative of a c
 
 **Three. The plainness of the command, the complexity of the argument.**
 
-Verse 5. What this verse says is disquieting: what was commanded was four items. The division arose not in the command itself but around it.
+Verse 5. What this verse says is disquieting: what was commanded was five items. The division arose not in the command itself but around it.
 
 Its counterpart today is plain to see. The greater part of religious argument is not about the core that is agreed upon but about the interpretations, the allegiances and the rivalries that have gathered around the core. Nobody argues about whether the prayer should be performed; the argument is elsewhere.
 

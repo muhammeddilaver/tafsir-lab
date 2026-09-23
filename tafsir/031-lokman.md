@@ -349,7 +349,7 @@
 | *Mâ fi'l-ardı min şecere* | **Bütün ağaçlar** — kalem olarak |
 | *El-bahru … seb'atü ebhur* | **Deniz + yedi deniz** — mürekkep olarak |
 
-**Ve *sebân* (yedi) sayısı üzerinde dilciler durur:** Arapçada bu sayı çoğu zaman **belirli bir adet değil, çokluk** bildirir. **Bu izahı nakledildiği şekliyle aktarıyorum.**
+**Ve *seb'a* (yedi) sayısı üzerinde dilciler durur:** Arapçada bu sayı çoğu zaman **belirli bir adet değil, çokluk** bildirir. **Bu izahı nakledildiği şekliyle aktarıyorum.**
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin yapısıdır:** ayet, tükenmezliği bir sıfat olarak söyleyip geçmiyor — **tükenmenin nasıl ölçüleceğini gösteriyor ve o ölçünün yetmediğini bildiriyor.** Yani soyut bir iddia, **sayılabilir bir malzemeyle** kuruluyor.
 

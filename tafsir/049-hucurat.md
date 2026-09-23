@@ -271,7 +271,7 @@ Birinci yasak bir eşik koyuyor: onun sesinin üstüne çıkma. İkinci yasak bi
 
 **جَهَرَ — kök ج-ه-ر.** Asıl anlamı **açığa çıkmak, görünür/duyulur olmak**. Aynı kökten:
 - *cehr* — sesi açıktan çıkarmak (namazda "cehrî kıraat" buradandır).
-- *cehâren* — açıkça, alenen. *"Bana açıkça göster"* — *erine'llâhe **cehreten*** (Nisâ 4/153).
+- *cehâren* — açıkça, alenen. *"Bize açıkça göster"* — *erine'llâhe **cehreten*** (Nisâ 4/153).
 - *echer* — gündüz gözü kamaşan; kökün "açıklık/parlaklık" tarafı.
 
 **Kökün merkezinde gizliliğin karşıtı vardır.** *Cehr*, sırrın (*sırr*) karşıtıdır. Yani ikinci yasak, ses yüksekliğinden çok **açıktan ve pervasızca konuşma**yı hedefler.
@@ -578,7 +578,7 @@ Bunu kendi okumam olarak kaydediyorum; ama fasılaların dizisi metinde duruyor 
 
 ### Birinci bloğun bütünü (1-5)
 
-Beş ayet, tek bir meseleyi dört kademede işledi:
+Beş ayet, tek bir meseleyi beş kademede işledi:
 
 | Ayet | Kademe | Düzenlenen |
 |---|---|---|
@@ -881,7 +881,7 @@ Sıralama içten dışa doğru gidiyor: önce inancın reddi, sonra sınırdan �
 
 **Ve dizimde bir denge var:** karşıda tek bir olumlu terim duruyor — *el-îmân*. Bir sevdirilen, üç tiksindirilen. Klasik izahlardan biri şudur: iman tektir, ondan sapmanın yolları çoktur.
 
-**ف-س-ق kökünün sûredeki üçüncü geçişi olduğunu kaydetmek gerekiyor.** Kelime altıncı ayette haberi getiren kişinin sıfatıydı (*fâsikun*); burada tiksindirilen şeylerden biri (*el-fusûk*); ve on birinci ayette bir isim olarak geri gelecek: *bi'se'l-ismü'l-fusûku ba'de'l-îmân*. Üç geçişi sûrenin bütünü bölümünde toparlayacağım.
+**ف-س-ق kökünün sûredeki ikinci geçişi olduğunu kaydetmek gerekiyor.** Kelime altıncı ayette haberi getiren kişinin sıfatıydı (*fâsikun*); burada tiksindirilen şeylerden biri (*el-fusûk*); ve on birinci ayette bir isim olarak geri gelecek: *bi'se'l-ismü'l-fusûku ba'de'l-îmân*. Üç geçişi sûrenin bütünü bölümünde toparlayacağım.
 
 ### أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ
 
@@ -2052,7 +2052,7 @@ Ve arada 9/98 bulunur; o da bedevîlerin bir kısmını tarif eder. Yani Kur'an,
 
 ### قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا — iddia
 
-Sûre, on dört ayet boyunca doğrudan hitapla ilerledi. Burada bir **anlatı cümlesi**ne geçiyor: "Dediler ki."
+Sûre, on üç ayet boyunca doğrudan hitapla ilerledi. Burada bir **anlatı cümlesi**ne geçiyor: "Dediler ki."
 
 Ve söyledikleri şudur: *âmennâ* — "iman ettik."
 
@@ -2596,7 +2596,7 @@ Bunu bir kelime gözlemi olarak kaydediyorum.
 | **17** | İddianın alacak olarak sunulması reddediliyor; yön tersine çevriliyor |
 | **18** | Ve mühür: bilen ve gören O'dur |
 
-**Blok, bir cümlenin — "iman ettik" — dört ayrı biçimde ele alınmasıdır:** olarak, ölçülerek, bilgi olarak, alacak olarak. Ve sonunda ölçünün nerede olduğu söyleniyor.
+**Blok, bir cümlenin — "iman ettik" — dört ayrı biçimde ele alınmasıdır:** amel olarak, ölçülerek, bilgi olarak, alacak olarak. Ve sonunda ölçünün nerede olduğu söyleniyor.
 
 ---
 

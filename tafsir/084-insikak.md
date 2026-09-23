@@ -141,7 +141,7 @@ Ve buradan bir karşıtlık doğuyor — sûrenin kendisi bu karşıtlığı yir
 
 **Gök, Rabbini dinliyor. İnsan, kendisine Kur'an okunduğunda secde etmiyor.**
 
-Sûre birinci ayette *ezinet* (kulak verdi) fiilini kullanıyor; yirmi birinci ayette *"kendilerine Kur'an okunduğunda secde etmezler"* diyor. Kulak veren gök ile kulak vermeyen insan, aynı sûrenin iki ucunda duruyor.
+Sûre ikinci ayette *ezinet* (kulak verdi) fiilini kullanıyor; yirmi birinci ayette *"kendilerine Kur'an okunduğunda secde etmezler"* diyor. Kulak veren gök ile kulak vermeyen insan, aynı sûrenin iki ucunda duruyor.
 
 ### وَحُقَّتْ — "hakkı da oydu"
 
@@ -257,7 +257,7 @@ Zilzâl bölümünde kaydedildiği gibi, oradaki *eskāl* için müfessirler iki
 
 ### وَتَخَلَّتْ — boşaldı
 
-**Kök: خ-ل-و.** Boş olmak, içinde bir şey bulunmamak. *Halâ' * — boşluk; *hâlî* — boş; *halvet* — yalnız kalma, boşalma.
+**Kök: خ-ل-و.** Boş olmak, içinde bir şey bulunmamak. *Halâ'* — boşluk; *hâlî* — boş; *halvet* — yalnız kalma, boşalma.
 
 Ayetteki fiil **تَفَعُّل** (*tefe''ul*) babındadır: *tehallet*. Bu bab Arapçada iki şey bildirir ve ikisi de burada işliyor:
 
@@ -355,7 +355,7 @@ Sûrenin merkez ayeti ve Kur'an'ın insan hakkındaki en yoğun cümlelerinden b
 
 Ayet "ey inkâr edenler" ya da "ey inananlar" demiyor. **ٱلْإِنسَٰن** — insan, cins olarak.
 
-Buradaki *el-* takısı **istiğrak** bildirir: cinsin bütününü kapsar. Yani cümle bir gruba değil, insan olmak niteliğine sesleniyor. Bu, on sekizinci ayetten sonra gelecek olan ayrımdan (kitabını sağından alan / arkasından alan) **önce** kuruluyor. Önce ortak durum konuyor, sonra ayrılık.
+Buradaki *el-* takısı **istiğrak** bildirir: cinsin bütününü kapsar. Yani cümle bir gruba değil, insan olmak niteliğine sesleniyor. Bu, yedinci ayetten itibaren gelecek olan ayrımdan (kitabını sağından alan / arkasından alan) **önce** kuruluyor. Önce ortak durum konuyor, sonra ayrılık.
 
 Aynı sıralama Kâria sûresinde de vardı: önce *"insanlar"* (herkes), sonra terazi ve iki grup. Kur'an'ın alışılmış hareketi budur — teşhis herkese, hüküm ayrı ayrı.
 
@@ -776,7 +776,7 @@ Fiil **mâzî**: *kâne … basîran* — "görücü **idi**".
 
 Bu zaman tercihi anlamlıdır. Ayet "Rabbi onu görür" demiyor, "**görüyordu**" diyor. Yani görme, adamın "dönmeyeceğim" dediği o dönemde zaten oluyordu.
 
-Adam kendini görülmemiş sanarken görülüyordu. Kayıt, o farkında olmadan tutuluyordu. On birinci ayetteki "kitabın arkadan verilmesi" bu yüzden anlamlıdır: kitap zaten yazılmıştı; adamın haberi yoktu.
+Adam kendini görülmemiş sanarken görülüyordu. Kayıt, o farkında olmadan tutuluyordu. Onuncu ayetteki "kitabın arkadan verilmesi" bu yüzden anlamlıdır: kitap zaten yazılmıştı; adamın haberi yoktu.
 
 Beled sûresinde aynı fikir başka bir kelimeyle işlenmişti: *"Kendisini hiç kimsenin görmediğini mi sanıyor? Ona iki göz vermedik mi?"* (Beled 90/7-8). Orada kaydedilen tespit — "seni gördük" değil, "sana göz verdik" denmesi — burada tersinden geliyor: bu sûrede doğrudan **"Rabbi seni görüyordu"** deniyor.
 

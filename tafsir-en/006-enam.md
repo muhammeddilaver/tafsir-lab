@@ -799,7 +799,7 @@ The **د-ر-ك** root: **to catch up with, to reach, to grasp.** **The root was 
 
 **The construction of the sentence must be recorded, and I give this as my own reading:** the verse does not say "these things are forbidden" — **it says *lā ajidu fīmā ūḥiya ilayya muḥarraman* — "in what has been revealed to me I do not find".**
 
-That is, the ruling is given not as the proclamation of a list but as **a search of the text in hand**. **And this coincides exactly with the backbone of the sūra:** in verse 150 it will be said *hātū shuhadāʾakum* — **the support for the prohibition will be asked for.**
+That is, the ruling is given not as the proclamation of a list but as **a search of the text in hand**. **And this coincides exactly with the backbone of the sūra:** in verse 150 it will be said *halumma shuhadāʾakum* — **the support for the prohibition will be asked for.**
 
 The qualification **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ** had occurred in the 119th verse of this sūra as well. **And it was treated at `002-bakara.md` 2/173.**
 
@@ -821,7 +821,7 @@ The qualification **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْ�
 
 **The same logic was treated at `036-yasin.md` 36/47** (*law yashāʾu'llāhu aṭʿamah*) and it was recorded there: **the premise is true, the conclusion false — what is criticised is not the belief in destiny itself but its being used to escape responsibility.** **I rely on that treatment.**
 
-**And the answer is worth recording:** the verse does not enter into the argument — it says *fa-li'llāhi'l-ḥujjatu'l-bāligha*. **And after that it passes to the second question: *hātū shuhadāʾakum*.**
+**And the answer is worth recording:** the verse does not enter into the argument — it says *fa-li'llāhi'l-ḥujjatu'l-bāligha*. **And after that it passes to the second question: *halumma shuhadāʾakum*.**
 
 **I record this as my own reading:** instead of carrying on the argument about destiny, the sūra turns to **a concrete demand**: **a witness as to who laid down the prohibition.** **And this is the knot of the whole last block of the sūra** — indeed the next verse will give the real list.
 
@@ -973,7 +973,7 @@ The qualification **إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْ�
 | **كتب على نفسه الرحمة** | 12, 54 | Twice, the same expression |
 | **ف-ل-ق** | *fāliqu'l-ḥabb* (95) — *fāliqu'l-iṣbāḥ* (96) | Two scales, one verb |
 | **ز-ع-م / ح-ج-ر** | 136, 138 | The naming of the invented prohibitions |
-| **The demand for proof** | *nabbiʾūnī bi-ʿilm* (143) — *hātū shuhadāʾakum* (150) | The knot of the sūra |
+| **The demand for proof** | *nabbiʾūnī bi-ʿilm* (143) — *halumma shuhadāʾakum* (150) | The knot of the sūra |
 | **و-ز-ر** | 164 | The last link of a principle spanning seven sūras |
 | **ش-ي-ع** | *shiyaʿan* (159) | A use contrasting with al-Qaṣaṣ 28/4 |
 | **ب-ل-و** | *li-yabluwakum* (165) | A sentence shared with al-Kahf 18/7 |

@@ -884,7 +884,7 @@ Bu, sûreler arası en sıkı bağlardan biridir ve komşu sûreyle kurulur.
 
 **مُصَيْطِر (musaytır)**, kökü itibariyle bir şeyin üzerine dikilip onu gözeten, kaydeden, işi elinde tutan kimsedir; kelime hem "denetçi" hem "zorla hükmeden" anlamını taşır.
 
-Ve Fecr, iki sûre sonra, şunu söyler:
+Ve Fecr, bir sûre sonra, şunu söyler:
 
 > *"Şüphesiz Rabbin gözetleme yerindedir."* (Fecr 89/14)
 
@@ -1640,7 +1640,7 @@ Kur'an'daki kullanım: *"Bağı sıkı tutun"* (Muhammed 47/4 — *fe-şüddü'l
 
 **Ve aynı kökten مِيثَاق (mîsâk) gelir — ahit, antlaşma, sözleşme.**
 
-Kökün diğer türevleri de aynı ailededir: *vesîka* (belge — bugün Türkçede "vesika"), *sika* (güvenilir kimse), *tevsîk* (belgelendirme), *el-Vesîkā* (sağlam bağ).
+Kökün diğer türevleri de aynı ailededir: *vesîka* (belge — bugün Türkçede "vesika"), *sika* (güvenilir kimse), *tevsîk* (belgelendirme), *el-vüskā* (sağlam bağ).
 
 **Bu bağı kurmak öğreticidir.** Ahit de bir bağdır, kelepçe de. *Mîsâk*ta taraflar birbirine bağlanır — gönüllü olarak, ve bağ tarafları tutar. *Visâk*ta kişi bağlanır — istemeden, ve bağ onu tutar.
 

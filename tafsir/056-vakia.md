@@ -42,9 +42,9 @@ Sûrenin en dikkat çekici biçimsel özelliği burada. **Aynı gruplar sûre bo
 
 | | **Giriş (7-11)** | **Tablolar (27, 41)** | **Kapanış (88-92)** |
 |---|---|---|---|
-| Birinci grup | *ashâbü'l-**meymene*** | *ashâbü'l-**yemîn*** | *el-**mukarrabîn*** için ayrı |
-| İkinci grup | *ashâbü'l-**meş'eme*** | *ashâbü'ş-**şimâl*** | — |
-| Üçüncü grup | *es-**sâbikūn*** / *el-**mukarrabûn*** | (tablo başlığı yok) | — |
+| Birinci grup | *ashâbü'l-**meymene*** | *ashâbü'l-**yemîn*** | *ashâbü'l-**yemîn*** (90) |
+| İkinci grup | *ashâbü'l-**meş'eme*** | *ashâbü'ş-**şimâl*** | *el-**mükezzibîne'd-dâllîn*** (92) |
+| Üçüncü grup | *es-**sâbikūn*** / *el-**mukarrabûn*** | (tablo başlığı yok) | *el-**mukarrabîn*** (88) |
 
 Kapanış bölümünde (88-92) sıra ve adlar şöyledir:
 
@@ -330,7 +330,7 @@ Ve iki ayette **arka arkaya** gelmesi bir ritim kuruyor: *raccâ… bessâ.* İk
 | Kelime | Kök | Nerede | Ne bildiriyor |
 |---|---|---|---|
 | **زُلْزِلَت** | ز-ل-ز-ل | Zilzâl 99/1 | Sarsıntı (ikilenmiş kök) |
-| **رَجَفَت** | ر-ج-ف | Müzzemmil 73/14 | Titreme, ürperme |
+| **تَرْجُفُ** | ر-ج-ف | Müzzemmil 73/14 | Titreme, ürperme |
 | **رُجَّت** | **ر-ج-ج** | **Vâkıa 56/4** | **Çalkalanma** |
 | **دُكَّت** | د-ك-ك | Hâkka 69/14 | Dövülüp düzleşme |
 
@@ -2263,9 +2263,9 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 | Delil | Ayet | Konu | Açılış kalıbı |
 |---|---|---|---|
 | 1 | 58-59 | **Nutfe** — insanın kendi oluşumu | *E-fe-raeytüm mâ tümnûn* |
-| 2 | 63-67 | **Ekin** — yediği şey | *E-fe-raeytüm mâ tahrusûn* |
-| 3 | 68-70 | **Su** — içtiği şey | *E-fe-raeytümü'l-mâe'llezî teşrabûn* |
-| 4 | 71-73 | **Ateş** — yaktığı şey | *E-fe-raeytümü'n-nâre'lletî tûrûn* |
+| 2 | 63-64 | **Ekin** — yediği şey | *E-fe-raeytüm mâ tahrusûn* |
+| 3 | 68-69 | **Su** — içtiği şey | *E-fe-raeytümü'l-mâe'llezî teşrabûn* |
+| 4 | 71-72 | **Ateş** — yaktığı şey | *E-fe-raeytümü'n-nâre'lletî tûrûn* |
 
 **Dördünün de açılışı aynı: *e-fe-raeytüm* — "gördünüz mü, ne dersiniz?"** Ve dördünde de aynı soru sorulur: **bunu siz mi yapıyorsunuz?**
 
@@ -2550,7 +2550,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 **Ve sorunun geri çekilme mesafesi kaydedilmeye değer:** insan ateşi çakar; ateşi veren dal, dalı veren ağaç, **ağacı bitiren ise bir önceki delilde çözülmüştü** (63-64: *nahnü'z-zâriûn*). **Deliller birbirine bağlanıyor.**
 
-***Enşe'tüm* / *el-münşiûn* — kök ن-ش-أ.** Sûrede bu kökün üçüncü ve dördüncü geçişi (35, 61, 62'den sonra). **Aynı kök, sûre boyunca dört kez: cennette eşlerin inşası, insanın yeniden inşası, ilk inşa, ve ağacın inşası.** Bu, doğrulanabilir bir tekrardır.
+***Enşe'tüm* / *el-münşiûn* — kök ن-ش-أ.** Sûrede bu kökün dördüncü geçişi (35, 61, 62'den sonra). **Aynı kök, sûre boyunca dört kez: cennette eşlerin inşası, insanın yeniden inşası, ilk inşa, ve ağacın inşası.** Bu, doğrulanabilir bir tekrardır.
 
 ### Sûredeki dört ağaç
 
@@ -2814,7 +2814,7 @@ Beklenen ifade *mine'ş-şeceri'z-zakkūm* (zakkum ağacından) olurdu. **Belirs
 
 **Arapçada bunun adı *hazf*tır ve burada bilinçlidir:** gizlenen özne, dilcilerin ittifakla belirttiğine göre ***er-rûh*** ya da ***en-nefs***tir (ikisi de müennes kabul edilir).
 
-**Bunu bir dizim nüktesi olarak kaydediyorum:** ayet, çıkan şeyin adını **söylemiyor.** Ve söylememesi, sahnenin kendisiyle uyumlu: **giden şeyin ne olduğu, kalanlar tarafından görülmüyor.** Doksan yedi ayetlik sûrede ölümün en yakın anlatıldığı yerde, ölen şeyin adı verilmiyor.
+**Bunu bir dizim nüktesi olarak kaydediyorum:** ayet, çıkan şeyin adını **söylemiyor.** Ve söylememesi, sahnenin kendisiyle uyumlu: **giden şeyin ne olduğu, kalanlar tarafından görülmüyor.** Doksan altı ayetlik sûrede ölümün en yakın anlatıldığı yerde, ölen şeyin adı verilmiyor.
 
 ### ٱلْحُلْقُوم — boğazın kendisi
 
@@ -2894,7 +2894,7 @@ Zamir müennes: *terciûne**hâ*** — yani seksen üçüncü ayette adı söyle
 
 ### Sûre başladığı yere dönüyor
 
-**Yedinci ayette insanlar üçe ayrılmıştı: *ve küntüm ezvâcen selâse*. Sûre şimdi, doksan ayet sonra, aynı üçlüyü tekrar kuruyor** — ama bu kez **bir kişinin ölüm anında.**
+**Yedinci ayette insanlar üçe ayrılmıştı: *ve küntüm ezvâcen selâse*. Sûre şimdi, seksen bir ayet sonra, aynı üçlüyü tekrar kuruyor** — ama bu kez **bir kişinin ölüm anında.**
 
 | | Giriş (7-11) | Tablolar (12-56) | **Kapanış (88-94)** |
 |---|---|---|---|

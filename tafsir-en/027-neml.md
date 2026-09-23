@@ -97,7 +97,7 @@ The basmala was treated in earlier sections; the verses are numbered without it.
 
 **Second:** the opening of al-Naml goes on by describing **the one addressed** (*li'l-muʾminīn*, and then three attributes), while al-Qaṣaṣ goes on by announcing **what is to be narrated**. **This is a difference of method between the two sūras: one begins by defining its reader, the other by announcing its subject.** I record this as my own reading; its ground is the sentences that continue the two openings.
 
-**And as was recorded in `028-kasas.md`, no conclusion is drawn from the way the disconnected letters are arranged across sūras.** That the two sūras are neighbours is a datum; **I draw no inference from it about the meaning of the letters.**
+**And no conclusion is drawn from the way the disconnected letters are arranged across sūras.** That the two sūras are neighbours is a datum; **I draw no inference from it about the meaning of the letters.**
 
 ### The verse that coincides exactly with Luqmān
 
@@ -230,7 +230,7 @@ The root **ب-ر-ك** was worked out in `025-furkan.md` at 25/1 and in `067-mulk
 
 **The observation recorded in `028-kasas.md` holds here too, and rather than repeat it I add something to it:** the call comes not at a place that was sought out, but **on a road, at a point turned aside to for an everyday need.**
 
-**What is peculiar to al-Naml is this addition, and I give it as my own reading:** the two things asked for in al-Naml — **news** and **warmth** — are the sūra's own subjects. **News will be carried throughout the sūra** (the hoopoe brings *nabaʾin yaqīn* at 27/22; the letter is carried at 27/28), **and the sūra will turn on the question "who brings news".** The first word Moses speaks as he turns towards the fire is *bi-khabarin*. **I record this as an overlap, not as a claim about intent.**
+**What is peculiar to al-Naml is this addition, and I give it as my own reading:** the two things asked for in al-Naml — **news** and **warmth** — are the sūra's own subjects. **News will be carried throughout the sūra** (the hoopoe brings *nabaʾin yaqīn* at 27/22; the letter is carried at 27/28), **and the sūra will turn on the question "who brings news".** Of the two things Moses names as he turns towards the fire, the first is *bi-khabarin*. **I record this as an overlap, not as a claim about intent.**
 
 ---
 
@@ -703,7 +703,7 @@ The root **ب-س-م**, in Form V: ***tabassum* — the slight parting of the lip
 
 **I record this as my own reading, and its ground is the verb the two verses share (*iʾtūnī* / *yaʾtiyannī*):** the same demand issues once from a messenger who holds no power and once from a king who holds the authority to punish. **In the second case the demand weighs more** — because the party who might have dispensed with evidence is already in a position to carry out the punishment.
 
-**And in `028-kasas.md` at 28/75 all the links of this demand across the series were set out in a table** (*hātū burhānakum*, *arūnī*, *bi-ghayri sulṭānin atāhum*). **Verse 64 of this sūra will enter the same chain: *qul hātū burhānakum in kuntum ṣādiqīn*.** **The sūra thus directs the demand for evidence first to a bird and then to all whom it addresses.** This is a repetition that can be verified within the sūra.
+**And in `028-kasas.md` at 28/75 all the links of this demand across the series were set out in a table** (*hātū burhānakum*, *arūnī*, *iʾtūnī bi-kitāb*, *bi-ghayri sulṭānin atāhum*). **Verse 64 of this sūra will enter the same chain: *qul hātū burhānakum in kuntum ṣādiqīn*.** **The sūra thus directs the demand for evidence first to a bird and then to all whom it addresses.** This is a repetition that can be verified within the sūra.
 
 ### هُدْهُد
 
@@ -749,7 +749,7 @@ The root **ح-و-ط** was worked out in `002-bakara.md` at 2/255, and the findin
 **Three details reinforce this, and all three are data of the text:**
 
 1. **The verb is the verb of encompassing, not of knowing.** The bird does not say "I have known what you do not know" — **it says "I have encompassed what you could not encompass."** The limit drawn in al-Baqara is applied here to a difference of scale between created beings.
-2. **The sentence comes immediately after verse 16.** There Solomon had said *ūtīnā min kulli shayʾ* ("we have been given of everything"). **Verse 22 shows the limit of that sentence.**
+2. **The sentence comes six verses after verse 16.** There Solomon had said *ūtīnā min kulli shayʾ* ("we have been given of everything"). **Verse 22 shows the limit of that sentence.**
 3. **And the *knowledge* given in verse 15 meets a deficiency here.** The narrative that the sūra opened with knowledge goes on with the limit of knowledge.
 
 **I record this as my own reading:** the sūra does not distribute knowledge along a scale of rank. **The smallest, the one reckoned lowest, brings news from a place the greatest could not reach.** And this prepares the ruling at verse 65 of the sūra: **only God knows the unseen** — the knowledge of everyone else is completed by someone else's.
@@ -791,7 +791,7 @@ The root **ح-و-ط** was worked out in `002-bakara.md` at 2/255, and the findin
 
 **عَرْش** — root **ع-ر-ش**: **to raise up, to set up an arbour.** In Arabic it covers the throne, the arbour, the raised and roofed structure, and it is used as the emblem of sovereignty. **The root was treated in `057-hadid.md` at 57/4**, and this verse was already cited there. **I do not repeat it here.**
 
-**And the word will occur five more times in this sūra: 23, 26, 38, 41, 42.** **One of these (26) is for God; four are for the queen's throne.** It will be set out in a table in the next section.
+**And the word occurs five times in this sūra: 23, 26, 38, 41, 42.** **One of these (26) is for God; four are for the queen's throne.** It will be set out in a table in the next section.
 
 ---
 
@@ -1241,7 +1241,7 @@ The root **ق-ب-ل**: **the front, that which faces.** ***Qibal*** here: **the 
 | Self-description | ***la-qawiyyun amīn*** — strong and trustworthy | **None** — he does not describe himself |
 | The ground | **His own strength** | ***ʿilmun mina'l-kitāb*** — a knowledge given |
 
-**All four differences can be verified from the text.**
+**All five differences can be verified from the text.**
 
 **And two of the differences must be recorded in particular.**
 
@@ -3104,7 +3104,7 @@ The root **ت-ل-و**: **to go after, to follow behind.** **From this, *tilāwa*
 | **59** | *quli'l-ḥamdu li'llāh* | **The opening of the block of proof** |
 | **93** | *wa quli'l-ḥamdu li'llāh* | **The last verse of the sūra** |
 
-**And it was recorded in the discussion of `034-sebe.md`: there are five sūras in the Qurʾān that open with *al-ḥamdu li'llāh*** (al-Fātiḥa, al-Anʿām, al-Kahf, Sabaʾ, Fāṭir). **Al-Naml does not open with this construction — it uses it twice, in the middle and at the end.** I record this as an observation.
+**And it was recorded in the discussion of `034-sebe.md`: there are five sūras in the Qurʾān that open with *al-ḥamdu li'llāh*** (al-Fātiḥa, al-Anʿām, al-Kahf, Sabaʾ, Fāṭir). **Al-Naml does not open with this construction — it uses it three times: at the fifteenth verse, in the middle and at the end.** I record this as an observation.
 
 ### سَيُرِيكُمْ ءَايَٰتِهِۦ فَتَعْرِفُونَهَا
 

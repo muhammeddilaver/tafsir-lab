@@ -483,7 +483,7 @@
 
 **All three are transmitted; I do not impose a preference.**
 
-**The ground given for the second reading is verse 33 of Sūrat al-Raʿd. This verse has not yet been treated in the series** (there is no file for Sūrat al-Raʿd), **so I mention it not as a cross-reference but only as an opportunity for comparison.**
+**The ground given for the second reading is verse 33 of Sūrat al-Raʿd.** This verse was treated at `013-rad.md` 13/32-38 (*qāʾimun ʿalā kulli nafsin bimā kasabat*); **I rely on that treatment.**
 
 **And the construct had occurred at `055-rahman.md` 55/46** (*wa li-man khāfa maqāma rabbihi jannatān*). **There the same expression is mentioned together with a reward, here together with a settling.**
 
@@ -1064,7 +1064,7 @@ The concrete sense of the root **ض-ر-ب** is **to strike**; and in Arabic the 
 
 "**God is He who created the heavens and the earth, and sent down water from the sky and brought forth fruits with it as provision for you. He made the ships subservient to you, that they might run upon the sea by His command; and He made the rivers subservient to you. · He made the sun and the moon subservient to you, both unceasing; and the night and the day. · And He gave you of everything you asked of Him. Were you to count God's favour you could not reckon it up.** Man is indeed **much given to wrong, much given to covering over.**"
 
-### Five times *sakhkhara*
+### Four times *sakhkhara*
 
 **The verb is repeated four times in three verses:** the ships, the rivers, the sun and the moon, the night and the day.
 

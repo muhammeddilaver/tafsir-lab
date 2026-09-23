@@ -65,7 +65,7 @@ What the text says about the Zayd section (37):
 
 ### What the Qurʾān does not say
 
-**The only place-name in the sūra is *Yathrib* (13)** — and that from the mouths not of the believers but of those calling for a return. The word "trench" (*khandaq*) **does not occur in the Qurʾān.** The name "Medina" occurs twice in this sūra (at 60, *al-madīna*), but not in the account of the siege.
+**The only place-name in the sūra is *Yathrib* (13)** — and that from the mouths not of the believers but of those calling for a return. The word "trench" (*khandaq*) **does not occur in the Qurʾān.** The name "Medina" occurs once in this sūra (at 60, *al-madīna*), but not in the account of the siege.
 
 None of the following is in the text: how many days the siege lasted; the existence, the shape, or the proposer of a dug entrenchment; which tribes the besiegers were; their numbers; the names of the commanders; the name of the group mentioned in verse 26; in which year the siege occurred; how many were killed; who "those who kept their pledge" in verse 23 were.
 
@@ -185,7 +185,7 @@ Indeed it is enough to look at what comes immediately after the command: *"do no
 
 **And this explains why the prohibition is framed with this verb.** The verse does not say "do not do what they say"; it says "do not **fall in willingly** with them". That is, what is forbidden is not something done under compulsion; it is an alignment a person enters by his own consent.
 
-**And the command *lā tuṭiʿ* occurs twice in the sūra:** here (1) and in the forty-eighth verse. Between the two lie the twenty-seven verses of the siege section and the nineteen verses of the household section. **That is, the sūra frames all the sections in between by repeating the same command at its two ends.** In the forty-eighth verse an addition will be made to the command: *wa daʿ adhāhum* — "pay no heed to their injury."
+**And the command *lā tuṭiʿ* occurs twice in the sūra:** here (1) and in the forty-eighth verse. Between the two lie the nineteen verses of the siege section and the seven verses of the household section. **That is, the sūra frames all the sections in between by repeating the same command at its two ends.** In the forty-eighth verse an addition will be made to the command: *wa daʿ adhāhum* — "pay no heed to their injury."
 
 ### The disbelievers and the hypocrites side by side
 
@@ -889,7 +889,7 @@ I record this as my own reading: **the Qurʾān depicts the inward faltering of 
 
 ### A short verse, a heading for a block
 
-A verse of eight words, but it closes the whole description of the preceding verse with **a single name**: this was an *ibtilāʾ*.
+A verse of six words, but it closes the whole description of the preceding verse with **a single name**: this was an *ibtilāʾ*.
 
 ### هُنَالِكَ — "there"
 
@@ -1046,7 +1046,7 @@ The sources transmit that a promise of victory or of expansion was voiced before
 | **What they said** | *mā waʿadana'llāhu… illā ghurūrā* | *hādhā mā waʿadana'llāhu wa rasūluh* |
 | **The outcome** | — | *wa mā zādahum illā īmānan wa taslīmā* |
 
-**This is the sharpest contrast the sūra sets up, and it is the spine of the whole siege section.** The ten verses between the two fill in the space between these two sentences.
+**This is the sharpest contrast the sūra sets up, and it is the spine of the whole siege section.** The nine verses between the two fill in the space between these two sentences.
 
 **And what must be recorded is this: the difference is not one of knowledge.** Both sides know the same thing, see the same scene, live through the same danger. The difference lies in **the conclusion drawn from the same data.**
 
@@ -1576,7 +1576,7 @@ I record this as my own reading; its ground is the joining in one sentence of *b
 
 Again a *law* clause (a condition that did not come about) and again an *illā qalīlā*.
 
-**This expression occurs for the third time in this section of the sūra:**
+**This expression occurs for the fourth time in this section of the sūra:**
 
 | Verse | The construction | What is little |
 |---|---|---|
@@ -1783,7 +1783,7 @@ I record this as my own reading; its ground is the distribution of the roots ر-
 
 What was recorded there: whether faith increases is one of the oldest debates in the history of theology; the two views and their grounds were given in a table, no side was taken, and it was recorded that the question arises from a **difference of definition.**
 
-**There this further finding was made about this verse, and I bring it over here:** *"Some of the things that set off the increase are good news and some are bad news. At al-Aḥzāb 33/22 what causes the increase is a threat outright."*
+**There this further finding was made about this verse, and I bring it over here:** *"Some of the things that set off the increase are good news and some are bad news. At al-Aḥzāb 33/22 and Āl ʿImrān 3/173 what causes the increase is a threat outright. I record this as an observation: the increase the Qurʾān describes does not depend on conditions improving."*
 
 **A linguistic note on the subjects of the sentence:** *mā zādahum* — the agent of the verb is not named; on the plainest reading the agent is what was seen in the preceding sentence (*al-aḥzāb*, or the scene generally). That is, **what produces the increase is the threat itself.**
 
@@ -2298,15 +2298,15 @@ I record these two points as my own reading.
 
 **جَمِيل — root ج-م-ل.** Beautiful. And the root has a striking side: *jamal* — a camel; *jumla* — a total. The lexicographers explain *jamāl* as "the harmony of the whole of a thing".
 
-**The construction occurs three times in the Qurʾān, and in all three it qualifies a hard situation:**
+**The construction occurs seven times in the Qurʾān, and in every one it qualifies a hard situation:**
 
 | Place | The construction | What |
 |---|---|---|
 | **al-Ḥijr 15/85** | *fa'ṣfaḥi'l-ṣafḥa'l-jamīl* | Forgiving in a fair way |
-| **al-Maʿārij 70/5** | *fa'ṣbir ṣabran jamīlā* | Fair patience — treated at `070-mearic.md` |
-| **al-Aḥzāb 33/28, 49** | *sarāḥan jamīlā* | Releasing in a fair way |
+| **Yūsuf 12/18, 83; al-Maʿārij 70/5** | *ṣabrun / ṣabran jamīl* | Fair patience — treated at `070-mearic.md` |
+| **al-Aḥzāb 33/28, 49; al-Muzzammil 73/10** | *sarāḥan / hajran jamīlā* | Releasing, and parting, in a fair way |
 
-**And in all three the adjective *jamīl* states *how* a thing is to be done** — not what is to be done.
+**And in every one the adjective *jamīl* states *how* a thing is to be done** — not what is to be done.
 
 **This is a measure worth recording, and I give it as my own reading:** separation is a possibility the verse envisages and it is not forbidden. **What is regulated is not the separation itself but its form.** The ending of a relationship and its ending badly are different things; the verse removes the second.
 
@@ -2366,7 +2366,7 @@ In the twenty-eighth verse the address was to the Prophet (*qul li-azwājika*). 
 
 **This is a datum of the text and I record it.** The word *azwāj* brings forward the bond of spousehood and pairing, *nisāʾ* the being a woman. **And *al-nabiyy* (the name of the office) is used in the construct** — that is, the address is framed by ascription not to a personal bond but to an office.
 
-**The construction will occur three times in this block: 30, 32, and in 59 it will return as *azwājika*.**
+**The construction will occur twice in this block: 30 and 32; in 59 it will return as *azwājika*.**
 
 ### بِفَٰحِشَةٍ مُّبَيِّنَةٍ — a note of qualification
 
@@ -2384,7 +2384,7 @@ In the twenty-eighth verse the address was to the Prophet (*qul li-azwājika*). 
 
 *Qunūt*, by the definition the lexicographers record: **a continuous and silent state of obedience; standing constantly at a task.** The word means obedience, humility, and standing for a long time.
 
-**The Qurʾān uses the word in striking places:** *"All that is in the heavens and the earth is *qānit* to Him"* (al-Baqara 2/116); *"And Mary was *qānita* to her Lord"* (al-Taḥrīm 66/12).
+**The Qurʾān uses the word in striking places:** *"All that is in the heavens and the earth is *qānit* to Him"* (al-Baqara 2/116); *"And Mary was among the *qānitīn*"* (al-Taḥrīm 66/12).
 
 **And that the word was chosen here instead of *ṭāʿa* (ط-و-ع) is worth noting.** In the first verse of the sūra *lā tuṭiʿ* (do not obey) was used. Here there is *qunūt*.
 
@@ -2439,7 +2439,7 @@ This is the clearest thing these two verses say. If the place a person occupies 
 
 **And this is the most important fact of word order in the verse:** the distinction comes not from the standing but from the **conduct.** The standing has been given, but what produces the difference is taqwā.
 
-**When the word *aḥad* was treated at `112-ihlas.md`, this very verse was given as the example:** *"Where it occurs in an affirmative sentence it is almost always inside a construct: 'you are not like any one of the women' (al-Aḥzāb 33/32)."* I rely on that treatment.
+**When the word *aḥad* was treated at `112-ihlas.md`, this very verse was given as the example:** *"Where it occurs in an affirmative sentence it is almost always inside a construct: 'one of the two said' (Yūsuf 12/36), 'you are not like any one of the women' (al-Aḥzāb 33/32)."* I rely on that treatment.
 
 **أَحَد — "any one".** The word carries an indefiniteness: the sentence does not say "you are not like such-and-such women"; it says **"like any one"**. That is, the comparison is made not with a person but with a **category**.
 
@@ -2713,9 +2713,9 @@ I record this as my own reading, and I draw no conclusion for or against any sid
 
 **The block 28-34 ends here, and the close is made with a command: *wa'dhkurna*.**
 
-**The root ذ-ك-ر** occupies an important place in this sūra: 21 (*dhakara'llāha kathīrā*), 34 (here), 35 (*al-dhākirīna'llāha kathīran wa'l-dhākirāt*), 41 (*udhkuru'llāha dhikran kathīrā*).
+**The root ذ-ك-ر** occupies an important place in this sūra: 9 (*udhkurū niʿmata'llāh*), 21 (*dhakara'llāha kathīrā*), 34 (here), 35 (*al-dhākirīna'llāha kathīran wa'l-dhākirāt*), 41 (*udhkuru'llāha dhikran kathīrā*).
 
-**And all four are gathered in the same group of blocks.** From the condition of exemplarity (21) to the general command (41) the sūra repeats remembrance.
+**And all five are gathered in the same group of blocks.** From the condition of exemplarity (21) to the general command (41) the sūra repeats remembrance.
 
 ### مَا يُتْلَىٰ فِى بُيُوتِكُنَّ — "what is recited in your houses"
 
@@ -3172,7 +3172,7 @@ I record this as my own reading.
 
 **This concept was treated in detail at `048-fetih.md` (48/23), and verse 62 of this sūra was taken into the table there. I rely on that treatment.**
 
-**The note recorded there and needing repetition here:** *"The application of the concept of sunnat Allāh to contemporary events was not entered into; it was recorded that the concept is a measure for understanding the past, not an authority for judging the present."*
+**The note recorded there and needing repetition here:** *"The application of the concept of sunnat Allāh to contemporary events was not entered into; that the concept is a measure for understanding the past and not an authority for judging the present was recorded as my own assessment. Current politics was not entered."*
 
 **In this sūra *sunnat Allāh* occurs twice:**
 
@@ -3223,7 +3223,7 @@ I record this as my own reading; its ground is that both occurrences stand in th
 
 ### وَكَفَىٰ بِٱللَّهِ حَسِيبًا — the verse-ending
 
-**The pattern كَفَىٰ بِـ** for the third time in this sūra (3, 25, 39).
+**The pattern كَفَىٰ بِـ** for the second time in this sūra (3, 39).
 
 **حَسِيب — root ح-س-ب.** To count, to reckon. **It occurred in the twentieth verse as *yaḥsabūna*** — there a mistaken reckoning, here the one who takes the reckoning.
 
@@ -3406,7 +3406,7 @@ I record this as my own reading.
 
 **The lexicographers dwell on how the root passes from "to swim" to "to declare free of imperfection":** *tasbīḥ* is to **remove** a thing from what does not befit it — as the swimmer passes through the water and moves away.
 
-**بُكْرَة وَأَصِيل** — morning and evening. **This pair was recorded at `048-fetih.md`** and this verse was given there as an example: *"The Qurʾān uses the same pair in several places: 'Glorify Him morning and evening' (al-Aḥzāb 33/42)."* I rely on that treatment.
+**بُكْرَة وَأَصِيل** — morning and evening. **This pair was recorded at `048-fetih.md`** and this verse was given there as an example: *"The Qurʾān uses the same pair in several places: 'Glorify Him morning and evening' (al-Aḥzāb 33/42); 'Do not drive away those who call upon their Lord morning and evening' (al-Anʿām 6/52)."* I rely on that treatment.
 
 **أَصِيل — root أ-ص-ل.** *Aṣl* — a root, a foundation. *Aṣīl* — the end of the day, the time from the afternoon to the evening. **The lexicographers do not establish with certainty the link between the "root" sense of the word and the sense "end of day"; I record it but build no meaning on it.**
 
@@ -3514,7 +3514,7 @@ I record this as my own reading; its ground is the four occurrences of the root 
 
 **Root: س-ر-ج.** A lamp, a thing that gives light.
 
-**This word was treated at `071-nuh.md`** and the finding recorded there is worth bringing over: *"the Qurʾān uses the word *sirāj* of the Prophet as well — 'an illuminating lamp' (*sirājan munīrā*, al-Aḥzāb 33/46). There, of course, no burning body is meant. The word conveys not a physical mechanism but the function of being a source."*
+**This word was treated at `071-nuh.md`** and the finding recorded there is worth bringing over: *"the Qurʾān uses the word *sirāj* of the Prophet as well — 'an illuminating lamp' (*sirājan munīrā*, al-Aḥzāb 33/46). There, of course, no burning body is meant. The word conveys not a physical mechanism but the function of being a source. That the same word is used of the sun conveys primarily this: the light comes from it."*
 
 **The Qurʾān uses the word of the sun too** (Nūḥ 71/16; al-Furqān 25/61; al-Nabaʾ 78/13 — there *sirājan wahhājā*).
 
@@ -3569,7 +3569,7 @@ I record this as my own reading; its ground is the choice of the verb.
 | **28** | The choice offered to the Prophet's wives | *usarriḥkunna sarāḥan jamīlā* |
 | **49** | A command to all the believers | *sarriḥūhunna sarāḥan jamīlā* |
 
-**The same construction, once an offer and once a command.** And there are twenty-one verses between them.
+**The same construction, once an offer and once a command.** And there are twenty verses between them.
 
 **This is a method of the sūra and I record it:** a measure applied in a particular case is afterwards repeated as a general command. **The sūra opens to everyone the measure established in the Prophet's house.**
 
@@ -3730,7 +3730,7 @@ I record this as my own reading; its ground is the use of the pattern with the s
 
 ### وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ
 
-**And again the *heart*.** The places where the word occurs in the sūra: 4, 10, 12, 26, 32, 51, 53.
+**And again the *heart*.** The places where the word occurs in the sūra: 4, 10, 12, 26, 32, 51, 53, 60.
 
 **And this occurrence is worth noting:** the pronoun is **masculine plural** (*qulūbikum*) — that is, the address is not to the women alone but to everyone.
 
@@ -4064,7 +4064,7 @@ I record this as my own reading; its ground is that the list rests on lineage.
 | Subject | What the ṣalāt corresponds to | Its ground |
 |---|---|---|
 | **God** | Mercy, praise, exaltation; mention in the presence of the angels | The state of the verb's agent; the use of the same verb of the believers at al-Aḥzāb 33/43 with the ground given as *li-yukhrijakum mina'l-ẓulumāti ila'l-nūr* |
-| **The angels** | Supplication, seeking forgiveness | The statement in the Qurʾān that the angels seek forgiveness for the believers (al-Muʾmin 40/7; al-Shūrā 42/5) |
+| **The angels** | Supplication, seeking forgiveness | The statement in the Qurʾān that the angels seek forgiveness for the believers (Ghāfir 40/7; al-Shūrā 42/5) |
 | **People** | Supplication, the sending of blessings and peace | The command of the verse: *ṣallū ʿalayhi wa sallimū* |
 
 **This distinction is widely recorded in classical exegesis.** And it has a counterpart in the language: **the same verb takes a different content according to the state of the agent.**
@@ -4093,7 +4093,7 @@ I record this as my own reading; its ground is the order of the two sentences.
 
 **And the link with the twenty-second verse is worth recording:** there too the word *taslīm* was not in the same cognate-accusative pattern, but it came from the same root and named the believers' response in the face of the siege (*mā zādahum illā īmānan wa taslīmā*).
 
-**There are thirty-four verses between the two, and both use the same root.** I record it.
+**There are thirty-three verses between the two, and both use the same root.** I record it.
 
 ### A comparison of the two verses
 
@@ -4242,7 +4242,7 @@ I record this as a datum of the text.
 
 **To be near. And in Form IV (*adnā*) "to bring near, to let hang down, to draw over".**
 
-**And this root occurs in the sūra for the third time:** *adnā* (51), *adnā* (in the second half of 59), and here *yudnīna*. **The word *dunyā* is also from the same root (28).**
+**And this root occurs in the sūra for the fourth time:** *adnā* (51), *adnā* (in the second half of 59), and here *yudnīna*. **The word *dunyā* is also from the same root (28).**
 
 **And the root occurs twice within the verse:** *yudnīna* (the verb) and *adnā* (the elative). **Two words from the same root, one carrying the command and the other the ground.**
 
@@ -4491,7 +4491,7 @@ I record this as my own reading; its ground is that the concrete senses of the t
 
 **The finding recorded at `090-beled.md` works here exactly:**
 
-> *"A consistent distinction in the Qurʾān: the pattern **مَا أَدْرَاكَ** (what made you know — the perfect) is used in places where an **explanation follows**. The pattern **مَا يُدْرِيكَ** (what will make you know — the imperfect) is used in places where **no explanation follows**, where the knowledge is left closed to man (for example about the time of the resurrection: al-Aḥzāb 33/63)."*
+> *"A consistent distinction in the Qurʾān: the pattern **مَا أَدْرَاكَ** (what made you know — the perfect) is used in places where an **explanation follows**. The pattern **مَا يُدْرِيكَ** (what will make you know — the imperfect) is used in places where **no explanation follows**, where the knowledge is left closed to man (for example about the time of the resurrection: al-Aḥzāb 33/63, 'What will make you know? Perhaps the Hour is near')."*
 
 **This verse is one of the examples of that rule, and the rule is confirmed here:** the pattern is *mā yudrīka* and no explanation follows it — what follows is a possibility: *laʿalla'l-sāʿata takūnu qarībā.*
 
@@ -4618,7 +4618,7 @@ I record this as my own reading; its ground is that both occurrences of the expr
 
 **And the verse does not accept this excuse. The reason is said by the sentence's own verb:** *aṭaʿnā* — **we obeyed.**
 
-**The finding recorded at `037-saffat.md` for a similar scene holds here too:** *"This is not a defence but a levelling. The other side was saying 'you led me astray'; the answer becomes 'yes, but we too were astray.' That is, the offence is admitted but the difference is not removed."*
+**The finding recorded at `037-saffat.md` for a similar scene holds here too:** *"This is not a defence but a levelling. The other side was saying 'you led me astray'; the answer becomes 'yes, but we too were astray.' That is, the offence is admitted but the difference is removed."*
 
 **In al-Aḥzāb there is one step further:** here the other side's answer is not given. **The sentence stands one-sided and rots from within.**
 
@@ -4987,7 +4987,7 @@ I record this as my own reading; its ground is the "growing thin" sense of the r
 
 **The sūra opens with a word that stays in the mouth and closes with a burden carried on the back.**
 
-**And the seventy verses between them describe the distance between these two ends:** the word given (7, 15), the word kept (23), the word broken (26), the excuse said (13), the slander said (58), the firm word (70).
+**And the sixty-seven verses between them describe the distance between these two ends:** the word given (7, 15), the word kept (23), the word broken (26), the excuse said (13), the slander said (58), the firm word (70).
 
 I record this as my own reading; its ground is that the two verses stand at the two ends of the sūra and that both frame a matter of "carrying".
 
@@ -5149,7 +5149,7 @@ What is recounted: a wind, the state of the eyes, the state of the hearts, surmi
 | **د-ع-و** | 4 (*adʿiyāʾ*), 5 (*udʿūhum*), 46 (*dāʿiyan ila'llāh*) | The direction of the call is corrected twice |
 | **ظ-ه-ر** | 4 (*tuẓāhirūna* — ẓihār), 26 (*ẓāharūhum* — support) | The same root, two entirely different senses; what joins them is the *back* |
 | **و-ل-ي** | 5 (*mawālī*), 6 (*awlā*), 15 (*yuwallūna'l-adbār*), 17 (*waliyy*) | Nearness and turning the back — the two directions of the root |
-| **ق-ل-ب** | 4, 10, 12, 26, 32, 51, 53, 66 | Opens with the heart and closes with the turning of the face |
+| **ق-ل-ب** | 4, 10, 12, 26, 32, 51, 53, 60, 66 | Opens with the heart and closes with the turning of the face |
 | **س-ل-م** | 22 (*taslīm*), 35 (*muslimīn*), 44 (*salām*), 56 (*sallimū*) | From a state to an attribute, from an attribute to a recompense |
 | **ص-د-ق** | 8, 22, 23, 24, 35 | Truthfulness asked about, truthfulness recompensed |
 | **أ-ذ-ي** | 48, 53 (twice), 57, 58, 59, 69 | Seven occurrences: every face of injury |

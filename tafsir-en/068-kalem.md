@@ -293,7 +293,7 @@ The verse does not say *"innaka la-dhū khuluqin ʿaẓīm"* (you are the posses
 
 **The difference is this:** "you possess" conveys ownership — character is a thing in the person's hand. "You are upon" conveys **position** — the person stands upon his character.
 
-**And this attaches to a finding recorded in the discussion of al-Fātiḥa:** there the expression *"ʿalā hudan min rabbihim"* (**upon** a guidance from their Lord) was compared with *"fī ḍalālin"* (**in** error) — the one a ground stood upon, the other a place fallen into.
+**And this attaches to a finding recorded at `002-bakara.md`:** there the expression *"ʿalā hudan min rabbihim"* (**upon** a guidance from their Lord) was compared with *"fī ḍalālin"* (**in** error) — the one a ground stood upon, the other a place fallen into.
 
 **The same preposition does the same work here:** character is set up as a ground stood upon. The ground is underneath, and it bears.
 
@@ -631,7 +631,7 @@ Softening an unnecessary argument in a meeting is useful. Reducing friction in a
 
 ### The pattern of the attributes
 
-**Five of the nine attributes are in the intensive form, and this determines the character of the portrait:**
+**Four of the nine attributes are in the intensive form, and this determines the character of the portrait:**
 
 | Attribute | Pattern | What it conveys |
 |---|---|---|
@@ -1106,7 +1106,7 @@ To whom does the pronoun *hum* refer? To the deniers of the preceding section �
 
 **مُصْبِحِين — having entered upon the morning.** Root *ṣ-b-ḥ*; *aṣbaḥa* was treated in the discussion of al-Mulk 67/30.
 
-**And this word occurs three times in the narrative:** 17 (*muṣbiḥīn*), 21 (*muṣbiḥīn*), 22 (*ighdū* — go out early). The narrative, then, turns about the word **morning**.
+**And this word occurs three times in the narrative:** 17 (*muṣbiḥīn*), 20 (*fa-aṣbaḥat*), 21 (*muṣbiḥīn*). The narrative, then, turns about the word **morning**.
 
 **The reason is the construction of the narrative, as my own reading:** the disaster happens by night and is discovered in the morning. And the men had planned for the morning. **The plan belongs to the morning, the disaster to the night.**
 
@@ -1686,9 +1686,9 @@ The Qurʾān records this inference elsewhere as well — the deniers' claim tha
 
 **And the word will come again in the thirty-ninth verse:** *inna lakum la-mā **taḥkumūn*** — "you shall have whatever you decree". By using the same verb twice the sūra names the claim: these people are **giving judgements** — in their own favour.
 
-### Four times "or" — the demand for proof
+### Four questions — the demand for proof
 
-**Between verses 37 and 41 the word أَمْ (or) comes four times, and each time it eliminates a source of proof:**
+**Between verses 37 and 41 four questions come — three of them with أَمْ (or) — and each one eliminates a source of proof:**
 
 | Verse | Question | Which source of proof |
 |---|---|---|
@@ -2567,7 +2567,7 @@ And the attraction of this form is plain — it is easier, it produces quicker r
 
 **What the sūra does is to read the list anyway.** And to read it without naming a name.
 
-**The caution from the discussion of al-Humaza must be repeated here:** to read this portrait and fit one's acquaintances into it is the very act the portrait describes. Four of the nine attributes are faults committed with the tongue: swearing, faultfinding, talebearing.
+**The caution from the discussion of al-Humaza must be repeated here:** to read this portrait and fit one's acquaintances into it is the very act the portrait describes. Three of the nine attributes are faults committed with the tongue: swearing, faultfinding, talebearing.
 
 **The portrait is applied first to oneself.**
 

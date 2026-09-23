@@ -591,7 +591,7 @@ The word's difference from *khusr* (Sūrat al-ʿAṣr) is fine but real. **Khusr
 
 This difference adds something to the verse: the man who buries his soul is not someone who hoped for nothing. He hoped for something — comfort, perhaps, or safety, perhaps the peace of not being seen. The word says that this hope came to nothing.
 
-The other uses in the Qurʾān confirm this flavour: *"and every obstinate tyrant came to nothing"* (Ibrāhīm 14/15); *"He who invents a lie has lost"* (Ṭāhā 20/61)
+The other uses in the Qurʾān confirm this flavour: *"and every obstinate tyrant came to nothing"* (Ibrāhīm 14/15); *"He who invents a lie has lost"* (Ṭāhā 20/61).
 
 ### دَسَّى — to bury
 
@@ -864,7 +864,7 @@ The she-camel is a sign, that is; and what makes her a sign is not her own prope
 
 ### سُقْيَا — the turn at the water
 
-**Root: س-ق-ي.** *Saqā* — he gave to drink, he watered. From the same root come **siqāya** (the office of distributing water — it occurs at al-Tawba 9/19), **sharāb/mashrūb**, and **suqyā** — the water given to drink, the share of drinking.
+**Root: س-ق-ي.** *Saqā* — he gave to drink, he watered. From the same root come **siqāya** (the office of distributing water — it occurs at al-Tawba 9/19) and **suqyā** — the water given to drink, the share of drinking.
 
 **And here is the real matter.** The verse does not merely say "do not touch the she-camel"; it says **"do not touch her share of the water"**. The prohibition is in two layers, that is: the animal herself and the animal's right.
 

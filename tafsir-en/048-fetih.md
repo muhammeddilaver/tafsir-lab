@@ -231,7 +231,7 @@ From this **bayān** is born: to separate a thing from other things, to fix its 
 
 ### The sound of the repeated word
 
-The verse consists of four words, two of them from the same root: *fataḥnā… fatḥan*. A short, tight sentence of a single breath. The rest of the sūra is built of long verses; the opening is deliberately kept short.
+The verse consists of five words, two of them from the same root: *fataḥnā… fatḥan*. A short, tight sentence of a single breath. The rest of the sūra is built of long verses; the opening is deliberately kept short.
 
 The verse-ending (the closing sound in -*īn*/-*ā*) will be largely preserved throughout the sūra: *mubīnā, mustaqīmā, ʿazīzā, ḥakīmā, ʿaẓīmā…* This is a consistency not always found in the long Medinan sūras.
 
@@ -633,7 +633,7 @@ The primary sense of this root was analysed at `002-bakara.md` (2/6): **to cover
 
 **سَيِّئَة** — root **س-و-أ**: to be bad, to be ugly, to be displeasing. *Sūʾ*, *asāʾa*, *sayyiʾa*. At the centre of the word there is less a moral verdict than a **displeasure**: the thing that sours the face at the sight of it.
 
-The same root will occur **twice** in the next verse: *ẓanna's-sawʾ* and *dāʾiratu's-sawʾ*. The sūra thus uses this root three times, in three separate places — once as the thing that is covered over, and twice as the state of the other side.
+The same root will occur **three times** in the next verse: *ẓanna's-sawʾ*, *dāʾiratu's-sawʾ* and *sāʾat*. The sūra thus uses this root four times — once as the thing that is covered over, and three times in what concerns the other side's outcome.
 
 ### وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
 
@@ -679,7 +679,7 @@ The evil thought here, then, **is not a theological conviction but a forecast of
 
 > *"…thinking of God, without right, **the thought of the age of ignorance**."* (Āl ʿImrān 3/154)
 
-The link between the two verses is striking: there the thought is ascribed to "the age of ignorance", here to "evil". And in verse 26 of this sūra **ḥamiyya** will again be ascribed to "the age of ignorance". The same word qualifies three different things across the same group of sūras: thought, ḥamiyya, judgement (al-Māʾida 5/50), display (al-Aḥzāb 33/33).
+The link between the two verses is striking: there the thought is ascribed to "the age of ignorance", here to "evil". And in verse 26 of this sūra **ḥamiyya** will again be ascribed to "the age of ignorance". The same word qualifies four different things across the same group of sūras: thought, ḥamiyya, judgement (al-Māʾida 5/50), display (al-Aḥzāb 33/33).
 
 ### عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ — "upon them is the circle of evil"
 

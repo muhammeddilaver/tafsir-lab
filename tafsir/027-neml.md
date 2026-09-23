@@ -97,7 +97,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **İkincisi:** Neml açılışı **muhatabı** tarif ederek devam ediyor (*li'l-mü'minîn* ve ardından üç vasıf), Kasas ise **anlatılacak olanı** haber vererek. **Bu, iki sûrenin yöntem farkıdır: biri okuyucusunu tanımlayarak, öteki konusunu duyurarak başlıyor.** Bunu kendi okumam olarak kaydediyorum; dayanağı iki açılışın devam cümleleridir.
 
-**Ve `028-kasas.md`'de kaydedildiği gibi, mukattaa harflerinin sûreler arası dizilişinden bir sonuç çıkarılmıyor.** İki sûrenin komşuluğu bir veridir; **bundan harflerin anlamına dair bir çıkarım yapmıyorum.**
+**Ve mukattaa harflerinin sûreler arası dizilişinden bir sonuç çıkarılmıyor.** İki sûrenin komşuluğu bir veridir; **bundan harflerin anlamına dair bir çıkarım yapmıyorum.**
 
 ### Lokmân ile birebir örtüşen ayet
 
@@ -230,7 +230,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **`028-kasas.md`'de kaydedilen gözlem burada da geçerlidir ve tekrarlamak yerine üstüne bir şey ekliyorum:** çağrı, aranmış bir yerde değil, **yolda, gündelik bir ihtiyaç için sapılan bir noktada** geliyor.
 
-**Neml'e özgü olan ek şudur ve kendi okumam olarak veriyorum:** Neml'de istenen iki şey — **haber** ve **ısınma** — sûrenin kendi konularıdır. **Sûre boyunca haber taşınacaktır** (hüdhüd 27/22'de *nebein yakīn* getirir, mektup 27/28'de taşınır), **ve sûre "kim haber getirir" sorusu etrafında dönecektir.** Mûsâ'nın ateşe yönelirken söylediği ilk kelime *bi-haberin*dir. **Bunu bir örtüşme olarak kaydediyorum, bir kasıt iddiası olarak değil.**
+**Neml'e özgü olan ek şudur ve kendi okumam olarak veriyorum:** Neml'de istenen iki şey — **haber** ve **ısınma** — sûrenin kendi konularıdır. **Sûre boyunca haber taşınacaktır** (hüdhüd 27/22'de *nebein yakīn* getirir, mektup 27/28'de taşınır), **ve sûre "kim haber getirir" sorusu etrafında dönecektir.** Mûsâ'nın ateşe yönelirken saydığı iki şeyden ilki *bi-haberin*dir. **Bunu bir örtüşme olarak kaydediyorum, bir kasıt iddiası olarak değil.**
 
 ---
 
@@ -703,7 +703,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı iki ayetin ortak fiilidir (*i'tûnî* / *ye'tiyennî*):** aynı talep, biri elinde güç olmayan bir elçiden, öteki elinde ceza yetkisi olan bir hükümdardan çıkıyor. **İkinci durumda talep daha ağırdır** — çünkü delil istemeyen taraf zaten cezayı uygulayabilecek durumdadır.
 
-**Ve `028-kasas.md` 28/75'te bu talebin dizindeki bütün halkaları tablolanmıştı** (*hâtû burhâneküm*, *erûnî*, *bi-ğayri sultânin etâhüm*). **Bu sûrenin 64. ayeti de aynı halkaya girecek: *kul hâtû burhâneküm in küntüm sâdikīn*.** **Yani sûre, delil talebini önce bir kuşa, sonra bütün muhataplara yöneltiyor.** Bu, sûre içinde doğrulanabilir bir tekrardır.
+**Ve `028-kasas.md` 28/75'te bu talebin dizindeki bütün halkaları tablolanmıştı** (*hâtû burhâneküm*, *erûnî*, *i'tûnî bi-kitâb*, *bi-ğayri sultânin etâhüm*). **Bu sûrenin 64. ayeti de aynı halkaya girecek: *kul hâtû burhâneküm in küntüm sâdikīn*.** **Yani sûre, delil talebini önce bir kuşa, sonra bütün muhataplara yöneltiyor.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
 ### هُدْهُد
 
@@ -749,7 +749,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 **Üç ayrıntı bunu pekiştiriyor ve üçü de metin verisidir:**
 
 1. **Fiil ilim değil ihâta fiilidir.** Kuş "senin bilmediğini bildim" demiyor — **"senin kuşatamadığını kuşattım" diyor.** Bakara'da çizilen sınır burada bir yaratılmış varlıklar arası ölçek farkına uygulanıyor.
-2. **Cümle 16. ayetin hemen ardından geliyor.** Süleymân orada *ûtînâ min külli şey'* (bize her şeyden verildi) demişti. **Yirmi ikinci ayet, o cümlenin sınırını gösteriyor.**
+2. **Cümle 16. ayetten altı ayet sonra geliyor.** Süleymân orada *ûtînâ min külli şey'* (bize her şeyden verildi) demişti. **Yirmi ikinci ayet, o cümlenin sınırını gösteriyor.**
 3. **Ve 15. ayette verilen *ilim*, burada bir eksikle karşılaşıyor.** Sûrenin ilimle açtığı kıssa, ilmin sınırıyla devam ediyor.
 
 **Bunu kendi okumam olarak kaydediyorum:** sûre, bilgiyi bir rütbe sırasına göre dağıtmıyor. **En küçük ve en aşağı sayılan, en büyüğün ulaşamadığı yerden haber getiriyor.** Ve bu, sûrenin 65. ayetindeki hükmün hazırlığıdır: **gaybı yalnız Allah bilir** — geri kalan herkesin bilgisi, başkasının bilgisiyle tamamlanır.
@@ -791,7 +791,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 **عَرْش** — kök **ع-ر-ش**: **yükseltmek, çardak kurmak.** Arapçada tahtı, çardağı, üzeri örtülü yüksek yapıyı karşılar ve hükümranlığın simgesi olarak kullanılır. **Kök `057-hadid.md` 57/4'te işlendi** ve orada bu ayet zaten anılmıştı. **Tekrarlamıyorum.**
 
-**Ve kelime bu sûrede beş kez daha geçecek: 23, 26, 38, 41, 42.** **Bunlardan biri (26) Allah içindir; dördü melikenin tahtı içindir.** Bir sonraki bölümde tablolanacak.
+**Ve kelime bu sûrede beş kez geçer: 23, 26, 38, 41, 42.** **Bunlardan biri (26) Allah içindir; dördü melikenin tahtı içindir.** Bir sonraki bölümde tablolanacak.
 
 ---
 
@@ -1241,7 +1241,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 | Kendini niteleme | ***Le-kaviyyün emîn*** — güçlü ve güvenilir | **Yok** — kendini nitelemiyor |
 | Dayanak | **Kendi gücü** | ***Ilmün mine'l-kitâb*** — verilmiş bir bilgi |
 
-**Dört fark da metinden doğrulanabilirdir.**
+**Beş fark da metinden doğrulanabilirdir.**
 
 **Ve iki fark özellikle kaydedilmelidir.**
 
@@ -2452,7 +2452,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ## 27/76-77 — إِنَّ هَٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَكْثَرَ ٱلَّذِى هُمْ فِيهِ يَخْتَلِفُونَ · وَإِنَّهُۥ لَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ
 
-*İnne hâze'l-kur'âne yekussu alâ benî isrâîle ekbera'llezî hüm fîhi yahtelifûn · Ve innehû le-hüden ve rahmetün li'l-mü'minîn*
+*İnne hâze'l-kur'âne yekussu alâ benî isrâîle eksera'llezî hüm fîhi yahtelifûn · Ve innehû le-hüden ve rahmetün li'l-mü'minîn*
 
 "**Bu Kur'an, İsrâiloğulları'na, ayrılığa düştükleri şeylerin çoğunu anlatmaktadır. Ve o, inananlar için bir yol gösterme ve rahmettir.**"
 
@@ -3104,7 +3104,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 | **59** | *Kuli'l-hamdü lillâh* | **Delil bloğunun açılışı** |
 | **93** | *Ve kuli'l-hamdü lillâh* | **Sûrenin son ayeti** |
 
-**Ve `034-sebe.md` bahsinde kaydedilmişti: Kur'an'da *el-hamdü lillâh* ile açılan beş sûre vardır** (Fâtiha, En'âm, Kehf, Sebe', Fâtır). **Neml bu terkiple açılmıyor — iki kez, ortasında ve sonunda kullanıyor.** Bunu bir gözlem olarak kaydediyorum.
+**Ve `034-sebe.md` bahsinde kaydedilmişti: Kur'an'da *el-hamdü lillâh* ile açılan beş sûre vardır** (Fâtiha, En'âm, Kehf, Sebe', Fâtır). **Neml bu terkiple açılmıyor — üç kez kullanıyor: on beşinci ayette, ortasında ve sonunda.** Bunu bir gözlem olarak kaydediyorum.
 
 ### سَيُرِيكُمْ ءَايَٰتِهِۦ فَتَعْرِفُونَهَا
 

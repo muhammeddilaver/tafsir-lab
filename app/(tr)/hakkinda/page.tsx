@@ -1,14 +1,14 @@
 import Link from "next/link";
 import { stats } from "@/lib/content";
 import { REPO, REPO_LABEL, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "Hakkında",
   description: "Tafsir Lab nedir, metni kim yazdı, hangi kurallara uyuldu.",
   alternates: {
     canonical: ROUTES.tr.about,
-    ...alternates({ tr: ROUTES.tr.about, en: ROUTES.en.about }),
+    ...alternates(everywhere((r) => r.about)),
   },
 };
 

@@ -28,7 +28,7 @@ The skeleton of the sūra can be set out thus:
 
 It will be noticed that twice the sūra builds a sentence opening with "**اعلموا**" (know that): in verses 17 and 20. Both do the same work — they set a piece of knowledge directly before the reader and ask him to draw the conclusion himself. And there are only two verses between them.
 
-One more weave: the sūra uses the word **light** five times (9, 12, 13 twice, 19, 28). Light is the most repeated concrete image of the sūra; and in one of the last verses (28) what is promised to the believers is again a light — *"a light by which you will walk."* The image the sūra opens in verse 9 with a bringing out of darkness into light it closes in verse 28 with a light that is walked in.
+One more weave: the sūra uses the word **light** five times (9, 12, 13, 19, 28). Light is the most repeated concrete image of the sūra; and in one of the last verses (28) what is promised to the believers is again a light — *"a light by which you will walk."* The image the sūra opens in verse 9 with a bringing out of darkness into light it closes in verse 28 with a light that is walked in.
 
 ## Its being Medinan, and its historical place
 
@@ -338,7 +338,7 @@ One of the longest verses in the sūra, made up of four separate sentences. The 
 
 This expression recurs in several places in the Qurʾān and needs attention, because it is very open ground for forced interpretation.
 
-The word **يَوْم** in Arabic does not mean only "a day of twenty-four hours". The original sense of the root is **a stretch of time, a period.** The Qurʾān shows this itself: *"A day with your Lord is like a thousand years of what you count"* (al-Ḥajj 22/47); and in a later verse in the same sūra a day of fifty thousand years is named for the ascent of the angels and the Spirit (al-Maʿārij 70/4).
+The word **يَوْم** in Arabic does not mean only "a day of twenty-four hours". The original sense of the root is **a stretch of time, a period.** The Qurʾān shows this itself: *"A day with your Lord is like a thousand years of what you count"* (al-Ḥajj 22/47); and in a verse of another sūra a day of fifty thousand years is named for the ascent of the angels and the Spirit (al-Maʿārij 70/4).
 
 That is, *yawm* is a unit whose measure changes with the context. It is also plain that "day" cannot be used in its present-day sense when the sun has not yet been created.
 
@@ -490,7 +490,7 @@ The picture the root carries is this: **not passing through a wide opening but s
 
 The verb in the verse is in the **إفعال (*ifʿāl*)** form: *walaja* (he entered) → *awlaja* (he made enter). That is, it has been made transitive. The night does not enter of itself; it **is made to enter.**
 
-The best-known use of this root in the Qurʾān is the expression *"He knows what enters the earth"* in the previous verse of this same sūra (57/4). The same root, two verses apart, once in the context of knowledge and once in the context of an act.
+The best-known use of this root in the Qurʾān is the expression *"He knows what enters the earth"* in the fourth verse of this same sūra (57/4). The same root, two verses apart, once in the context of knowledge and once in the context of an act.
 
 ### What is being described?
 
@@ -538,7 +538,7 @@ This is the same movement as the close of the fourth verse: a descent from the c
 
 And considering what follows in the sūra this is entirely apt. The sūra will ask for spending; spending is a visible act. But the sūra will also speak of **the hypocrites** — that is, of those who perform the same act outwardly while being otherwise within. The scene in the thirteenth verse is built on exactly this.
 
-The close of the sixth verse prepares that scene six verses in advance: **what cannot be told apart when looked at from outside can be told apart when looked at from here.**
+The close of the sixth verse prepares that scene seven verses in advance: **what cannot be told apart when looked at from outside can be told apart when looked at from here.**
 
 A further link is also made with the third verse. There God was named *al-Bāṭin* — the one who is innermost. Here what He knows is **the inside of the breasts.** Name and act are matched three verses apart.
 
@@ -2597,7 +2597,7 @@ And **the order is striking: force first, then benefit.** The destructive face o
 
 The reason for this may be the context of the verse: the sentence comes after the purpose *"that people might uphold justice."* That is, the real function of iron here is the protection of justice — and that work requires the *baʾs* side.
 
-**Iron occurs elsewhere in the Qurʾān too, and always with these two faces:**
+**Iron is mentioned elsewhere in the Qurʾān too:**
 
 - *"We softened iron for him"* (Sabaʾ 34/10) — of David (Dāwūd). And what follows describes the making of armour: *"Make full coats of mail, and measure the links well"* (Sabaʾ 34/11). Note: there too there is a command of **measure.**
 - *"We taught him the craft of making armour for you, to protect you from your violence"* (al-Anbiyāʾ 21/80) — again David.
@@ -2643,7 +2643,7 @@ This order could have been reversed. But it has not been, and the order itself s
 
 This recalls the pair of names in the first verse of the sūra: **al-ʿazīzu'l-ḥakīm** — power and wisdom. It was recorded there: when power is named alone the possibility of arbitrariness arises; when wisdom is named alone the possibility of ineffectiveness arises.
 
-**Twenty-five verses later the same balance is set up again through a concrete substance.** And the verse will close with another form of the same pair of names: *qawiyyun ʿazīz.*
+**Twenty-four verses later the same balance is set up again through a concrete substance.** And the verse will close with another form of the same pair of names: *qawiyyun ʿazīz.*
 
 ### وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ
 
@@ -3285,7 +3285,7 @@ At several points across the text a decisive tone was deliberately not used; the
 - The difference between ***mukhtāl*** and *fakhūr* (*ḥāl* / *qāl*) was given as a tendency found in the sources; it was stated that there is no firm agreement.
 - Four views were given in a table on what the word ***mīzān*** is; no preference was imposed.
 - **The claim that iron came from space or from the stars was rejected on five separate grounds.** It was stated plainly that what is rejected is not the astrophysical information but **the claim that this information is derived from the verse.** Examples of the verb *inzāl* being used of abstract and earth-sourced things were given from **al-Zumar 39/6** (the sending down of livestock), **al-Aʿrāf 7/26** (the sending down of a garment) and **al-Fatḥ 48/4** (the sending down of *sakīna*); and al-Ḥijr 15/21 was shown as the decisive verse.
-- That **all three occurrences of iron in the Qurʾān are in a context of defence** was recorded as an observation, but since the sample is small it was not presented as a rule.
+- That **all three of the cited examples of iron are in a context of defence** was recorded as an observation, but since the sample is small it was not presented as a rule.
 - **The reading that the repetition of the verb *anzalnā* puts the three things in the same category, and that this means "the force in your hand is not yours either", is my own reading**; it was not ascribed to any classical exegete.
 - Two explanations were given for the expression ***li-yaʿlama'llāh***; no preference was imposed.
 - On the ***iʿrāb*** of 57/27 two main readings, and two readings for the exception *illā*, were given in a table. The first reading was taken as the basis, and it was recorded that **this is a preference and is not binding.**

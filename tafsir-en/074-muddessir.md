@@ -482,7 +482,7 @@ I record this distinction as my own reading.
 *Wa lā tamnun tastakthir*
 "Do not cast up a favour, counting it much."
 
-**The shortest and the most disputed verse of the sūra.** Two words, and the relation between them left indefinite.
+**The shortest verse of the sūra, and the most opaque in meaning.** Two words, and the relation between them left indefinite.
 
 ### The منن root — a word with two faces
 
@@ -1398,7 +1398,7 @@ Derivatives:
 
 **And there is a weave here, easy to miss.**
 
-The same verb will occur once more, eleven verses later:
+The same verb will occur once more, ten verses later:
 
 - **74/23:** *thumma **adbara** wa'stakbara* — the man turned his back.
 - **74/33:** *wa'l-layli **idh adbara*** — "and by the night when it retreats."
@@ -1608,7 +1608,7 @@ But a caveat entered in `090-beled.md` holds here as well: there it was pointed 
 
 **وَذَرَ** — from the و-ذ-ر root: **to leave, to abandon, to let be.**
 
-**And the second verb occurs in the sūra for the third time.**
+**And the second verb occurs in the sūra for the second time.**
 
 | Place | Word | Who | Whom / what is left |
 |---|---|---|---|
@@ -2315,7 +2315,7 @@ This symmetry can be observed and stands in the text.
 
 **This pair is one of the measures the Qurʾān repeats most insistently.**
 
-In `107-maun.md` this measure was treated in detail, and this verse (74/43-44) was already recorded there as the chief example: *"The three main elements of Sūrat al-Māʿūn — the prayer, feeding the destitute, and calling the truth a lie — stand together in al-Muddaththir in the same order."* I do not repeat it.
+In `107-maun.md` this measure was treated in detail, and this verse (74/43-44) was already recorded there as the chief example: *"The three main elements of Sūrat al-Māʿūn — the prayer, feeding the destitute, and calling the truth a lie — stand together in al-Muddaththir in the reverse order."* I do not repeat it.
 
 **And the most important finding recorded there was this:** *"The sūra does not set worship against morality; it says that worship cannot remain without morality."*
 
@@ -2940,7 +2940,7 @@ al-Ḍuḥā and al-Inshirāḥ are like **the continuation of a single conversa
 
 ### 3. The most meaningful row: the direction of the first command
 
-The most important row in the table is the fifth.
+The most important row in the table is the third.
 
 **The two sūras begin with the same command — قُمْ — and send him in two opposite directions.**
 
@@ -3141,7 +3141,7 @@ This says something about the text's own tone, and it is an observable structure
 - **The variant reading ٱلرُّجْز / ٱلرِّجْز at 74/5 was transmitted; no list was given as to which reading belongs to which imām.** The reading in the widespread printed muṣḥaf (the transmission of Ḥafṣ) was stated. The four views on what is to be forsaken were given in a table, and no preference was imposed. The kinship between *rijz* and *rijs* was presented as a **possibility**.
 - **Four readings were given in a table for *lā tamnun tastakthir* at 74/6, and no preference was imposed.** The reading that joins three of them ("the turning of a kindness into a debt owed is forbidden") was marked as my own reading. The link set up with *ghayru mamnūn* is an observation; no reference between the verses was claimed.
 - The comparison set up between the *li* at 74/7 and the *ʿalā* at al-Muzzammil 73/10 is my own reading; the existence of the difference of particle is beyond dispute.
-- The logic of the sequence of five commands, and the observation that "six of the seven commands regulate the one who does the work", are my own inference.
+- The logic of the sequence of seven commands, and the observation that "six of the seven commands regulate the one who does the work", are my own inference.
 - The difference at 74/8 between *nuqira fi'l-nāqūr* and *nufikha fi'l-ṣūr* was recorded as an observation about sound and about vocabulary; **it was not claimed that the two expressions point to different events.**
 - The *mafhūm al-mukhālafa* conclusion drawn from the qualification "not easy for those who disbelieve" at 74/10 was presented **with the express statement that it is a disputed proof among the legal theorists**, and was not counted definite. The joining with al-Inshiqāq 84/8 is my own reading.
 - **Three views on to whom the *waḥīdā* at 74/11 belongs were given in a table; the first view was preferred on the ground of its fit with the context, and it was stated that this is not binding.**

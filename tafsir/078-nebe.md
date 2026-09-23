@@ -4,7 +4,7 @@ Kırk ayet. Adını ikinci ayetteki **ٱلنَّبَإِ ٱلْعَظِيمِ** 
 
 Sûre bir soruyla açılır — ama soruyu soran metin değildir. Metin, **başkalarının sorduğu bir soruyu aktarır**: *"Neyi soruşuyorlar birbirlerine?"* Yani sûre bir konuşmanın ortasına düşer; dışarıda süren bir tartışmayı duyar ve ona müdahale eder.
 
-Ve müdahalenin biçimi dikkat çekicidir. Sûre soruyu **cevaplamaz.** Önce sorunun konusunu adlandırır (*büyük haber*), sonra iki kez *"bileceksiniz"* der, sonra da bambaşka bir şeye geçer: **yeryüzüne, dağlara, uykuya, geceye, güneşe, buluta, bahçeye.** On bir ayet boyunca kıyametten hiç söz edilmez.
+Ve müdahalenin biçimi dikkat çekicidir. Sûre soruyu **cevaplamaz.** Önce sorunun konusunu adlandırır (*büyük haber*), sonra iki kez *"bilecekler"* der, sonra da bambaşka bir şeye geçer: **yeryüzüne, dağlara, uykuya, geceye, güneşe, buluta, bahçeye.** On bir ayet boyunca kıyametten hiç söz edilmez.
 
 Bu, sûrenin yöntemidir: **dirilişi soranların önüne, yaşadıkları evin envanteri konur.**
 
@@ -137,7 +137,7 @@ Bu ayrım, sûrenin adının taşıdığı yüktür ve üzerinde durmak gerekiyo
 
 Türevleri:
 
-- **نَبَّأَ / أَنْبَأَ** — haber verdi, bildirdi. *"Onlara ismlerini bildir"* (Bakara 2/33).
+- **نَبَّأَ / أَنْبَأَ** — haber verdi, bildirdi. *"Onlara isimlerini bildir"* (Bakara 2/33).
 - **إِنْبَاء / تَنْبِئَة** — bildirme.
 - **نَبِيّ** — peygamber.
 
@@ -309,7 +309,7 @@ Bunu, iki kelimenin sûre içindeki yerlerinden çıkardığım bir okuma olarak
 
 ### كَلَّا — kesme edatı
 
-Bu edat Kur'an'da otuza yakın yerde geçer ve **hepsi mushafın ikinci yarısındadır** — yani ağırlıklı olarak kısa Mekkî sûrelerde. Bu tefsirde daha önce Tekâsür, Hümeze, Alak ve Beled bölümlerinde karşımıza çıktı.
+Bu edat Kur'an'da otuza yakın yerde geçer ve **hepsi mushafın ikinci yarısındadır** — yani ağırlıklı olarak kısa Mekkî sûrelerde. Bu tefsirde daha önce Tekâsür, Hümeze, Alak ve Abese bölümlerinde karşımıza çıktı.
 
 Dilciler edatın işlevinde ikiye ayrılır:
 
@@ -780,7 +780,7 @@ Gece için bu kelimenin seçilmesi, gecenin insanı **kuşatması**nı anlatıyo
 
 *"Sizin için geceyi bir örtü, uykuyu bir dinlenme, gündüzü de kalkıp dağılma [vakti] yapan O'dur."* (Furkân 25/47)
 
-Bu ayet Nebe' 78/9-11 ile neredeyse aynı üçlüyü sayıyor: gece, uyku, gündüz. Kelimeler farklı (*libâs* yerine *libâs*, *sübât* yerine *sübât*, *meâş* yerine *nüşûr*), ama sıra aynı.
+Bu ayet Nebe' 78/9-11 ile neredeyse aynı üçlüyü sayıyor: gece, uyku, gündüz. Kelimelerin ilk ikisi aynı (*libâs*, *sübât*), yalnız üçüncüsü farklı (*meâş* yerine *nüşûr*), sıra ise aynı.
 
 Ve Furkân'daki son kelime dikkat çekicidir: **نُشُور** — dağılıp yayılma. Aynı kelime Kur'an'da **diriliş** için de kullanılır: *"Dirilme (nüşûr) O'nadır"* (Mülk 67/15).
 
@@ -2641,7 +2641,7 @@ Ve dikkat: birinci ayetteki soruya hiçbir yerde cevap verilmiyor. Sûrenin muha
 
 Sûrenin ses düzeni Kur'an'daki en tek sesli düzenlerden biridir.
 
-**Beşinci ayetten sonuna kadar bütün ayetler aynı sesle bitiyor: uzatılmış *-â*, ve büyük çoğunlukla *-âbâ.***
+**Altıncı ayetten sonuna kadar bütün ayetler aynı sesle bitiyor: uzatılmış *-â*, ve büyük çoğunlukla *-âbâ.***
 
 Fasılaları sırayla okuyun:
 

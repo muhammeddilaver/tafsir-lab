@@ -607,7 +607,7 @@ Soru "hangi gün?" diyor; cevap "şu gün" diyor ama günü takvimle değil, **o
 On üçüncü ayette fiil: *yuftenûn* — sınanıyorlar / ateşte eritiliyorlar.
 On dördüncü ayette isim: *fitneteküm* — sizin fitneniz / sınanmanız.
 
-**Aynı kök, iki ayet arayla, iki farklı kalıpta.** Ve ikinci kullanımda kelime muhataba **izafe edilmiş**: "sizin fitneniz".
+**Aynı kök, ardışık iki ayette, iki farklı kalıpta.** Ve ikinci kullanımda kelime muhataba **izafe edilmiş**: "sizin fitneniz".
 
 Bu izafe, ayetin en sert yeridir. Çünkü "sizin fitneniz" tamlaması iki türlü okunabilir ve ikisi de metinde dayanak buluyor:
 
@@ -2150,7 +2150,7 @@ Nûh kavmi Kur'an'da en çok anlatılan kavimlerden biridir — bir sûrenin tam
 
 **Burada tek ayet.** Hatta olayın kendisi hiç anlatılmıyor: ne tufan, ne gemi, ne süre. Sadece bir hüküm: *kânû kavmen fâsikīn.*
 
-**Ve sıra anlamlıdır:** beş kıssa hızla kısalıyor — on dört ayetten tek ayete.
+**Ve sıra anlamlıdır:** beş kıssa on dört ayetten tek ayete iniyor.
 
 | Kıssa | Ayet sayısı |
 |---|---|
@@ -2731,7 +2731,7 @@ Ve Bakara 2/21'de kaydedilen: emir *"Allah'a kulluk edin"* değil *"Rabbinize ku
 
 **Bu iki tespit, elli altıncı ayetin okunmasını doğrudan belirliyor** ve aşağıdaki tartışmanın zeminidir.
 
-### لِيَعْبُدُونِ — nûnun düşmesi
+### لِيَعْبُدُونِ — yâ'nın düşmesi
 
 Küçük bir gramer ayrıntısı: fiil *li-ya'büdû**nî*** olmalıydı — sonda mütekellim yâ'sı (bana). Ayette yâ düşmüş, yalnız kesre kalmış: *li-ya'büdûn(i).*
 
@@ -2971,7 +2971,7 @@ Kim? Klasik kaynaklarda iki izah:
 | **Geçmiş kavimler** | Sûrede az önce sayılanlar: Lût kavmi, Firavun, Âd, Semûd, Nûh kavmi |
 | **Kendi çağdaşları** | Aynı yolu tutanlar |
 
-**Birincisi daha güçlüdür**, çünkü sûre otuz dört ayetini o kavimlere ayırmıştı ve *ashâb* kelimesi burada "aynı işi yapanlar" anlamında rahatça okunur.
+**Birincisi daha güçlüdür**, çünkü sûre yirmi üç ayetini o kavimlere ayırmıştı ve *ashâb* kelimesi burada "aynı işi yapanlar" anlamında rahatça okunur.
 
 Ve bu okuyuş, elli üçüncü ayetteki tespiti tamamlıyor: *"bunu birbirlerine mi tavsiye ettiler?"* Aynı sözü söyleyenler, aynı payı alıyor.
 
@@ -3003,7 +3003,7 @@ Bunu kendi okumam olarak kaydediyorum; tamlamanın kendisi metinde durur.
 | **22** | *ve fi's-semâi rizkuküm **ve mâ tûadûn*** | Söz, rızkın yanındadır |
 | **60** | *yevmihimü'llezî **yûadûn*** | Sözün günü gelecek |
 
-**Sûre bir vaadin doğruluğunu ilan ederek açılıyor ve o vaadin gününü hatırlatarak kapanıyor.** Aradaki elli beş ayet, o vaadin niçin doğru olduğunun dökümüdür.
+**Sûre bir vaadin doğruluğunu ilan ederek açılıyor ve o vaadin gününü hatırlatarak kapanıyor.** Aradaki elli dört ayet, o vaadin niçin doğru olduğunun dökümüdür.
 
 ---
 
@@ -3016,7 +3016,7 @@ Altmış ayetin fasılaları belirgin gruplar oluşturuyor ve gruplar muhtevanı
 | Ayet | Fasıla örnekleri | Ses |
 |---|---|---|
 | 1-4 | *zervâ, vikrâ, yüsrâ, emrâ* | Kısa, tenvinli mansûb, **-râ** |
-| 5-14 | *sâdık, vâkı', muhtelif, üfik, el-harrâsûn, sâhûn, ed-dîn, yuftenûn, testa'cilûn* | Karışık; uzun ünlü + **n** ağır basıyor |
+| 5-14 | *sâdık, vâkı', el-hubük, muhtelif, üfik, el-harrâsûn, sâhûn, ed-dîn, yuftenûn, testa'cilûn* | Karışık; uzun ünlü + **n** ağır basıyor |
 | 15-23 | *uyûn, muhsinîn, yehce'ûn, yestağfirûn, el-mahrûm, el-mûkınîn, tübsırûn, tûadûn, tentıkūn* | Uzun ünlü + **n**, neredeyse kesintisiz |
 | 24-46 | *el-mükramîn, münkerûn, semîn, te'külûn, alîm, akīm, el-alîm, el-mürselûn, mücrimîn, tîn, el-müsrifîn, el-mü'minîn, el-müslimîn, el-elîm, mübîn, mecnûn, mülîm, el-akīm, er-ramîm, hîn, yenzurûn, müntasırîn, fâsikīn* | Aynı ses sürüyor |
 | 47-60 | *mûsiûn, el-mâhidûn, tezekkerûn, mübîn, mecnûn, tâğūn, melûm, el-mü'minîn, li-ya'büdûn, yut'ımûn, el-metîn, yesta'cilûn, yûadûn* | Aynı ses |

@@ -444,7 +444,7 @@ Türkçede ikisi de "düşmanlık" diye çevrilebilir; ama ikisi ayrı şeyler.
 
 Ama şimdi asıl mesele geliyor.
 
-### إِلَىٰ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ — çelişki gibi görünen kayıt
+### أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ — çelişki gibi görünen kayıt
 
 > **وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ**
 > *"Aramızda, siz bir tek Allah'a inanıncaya kadar sürecek, ebedî bir düşmanlık ve öfke başlamıştır."*
@@ -469,7 +469,7 @@ Ve dikkat edin, sınır olarak konan şey bir teslimiyet, bir yenilgi, bir tazmi
 
 Ayetin en çok konuşulan yeri.
 
-**Önce istisnanın neye bağlandığına bakalım.** Üç ayet önce bir *üsve* (örnek) konmuştu; sonra o örneğin muhtevası anlatıldı; şimdi bir istisna geliyor. Klasik tefsirde iki tahlil vardır:
+**Önce istisnanın neye bağlandığına bakalım.** Aynı ayetin başında bir *üsve* (örnek) konmuştu; sonra o örneğin muhtevası anlatıldı; şimdi bir istisna geliyor. Klasik tefsirde iki tahlil vardır:
 
 | Görüş | İstisna neye bağlanıyor | Cümlenin anlamı |
 |---|---|---|
@@ -904,7 +904,7 @@ Sekizinci ayette iki fiil vardı; burada bir üçüncüsü ekleniyor.
 
 **ظَاهَرَ** — kök ظ-ه-ر: **sırt.** Aynı kökten *zahr* (sırt), *zâhir* (görünen — arkası değil önü çevrilmiş olan), *zuhr* (öğle — günün belirginleştiği vakit) gelir.
 
-*Müfâale* bâbındaki **زَاهَرَ/ظَاهَرَ** ise **sırt sırta vermek**tir: birine arka çıkmak, destek olmak, sırtını dayamak. Türkçedeki "arka çıkmak" deyimi kelimenin somut anlamına şaşırtıcı derecede yakındır.
+*Müfâale* bâbındaki **ظَاهَرَ** ise **sırt sırta vermek**tir: birine arka çıkmak, destek olmak, sırtını dayamak. Türkçedeki "arka çıkmak" deyimi kelimenin somut anlamına şaşırtıcı derecede yakındır.
 
 **Bu üçüncü fiilin eklenmesi neden önemli?** Çünkü bir kategoriyi daha kapsıyor: **bizzat yapmayan ama destekleyen.** Savaşmamış olabilir, kimseyi kendi eliyle çıkarmamış olabilir; ama çıkarma işine arka çıkmıştır.
 
@@ -1190,7 +1190,7 @@ Ve şimdi sûre içindeki bağa bakın. Dördüncü ayette, İbrâhim'in babası
 
 Aynı fiil, aynı sûrede, iki zıt hükümle. Ve fark muhataptadır — fiilin kendisinde değil.
 
-Bu simetri, dördüncü ayetteki istisnanın doğru anlaşılmasını sağlıyor. İstiğfar yasaklanmış bir şey değildir; sûre onu on iki ayet sonra emrediyor. İstisna edilen şey, **belirli bir durumda** ve **belirli bir muhatap için** yapılan istiğfardı.
+Bu simetri, dördüncü ayetteki istisnanın doğru anlaşılmasını sağlıyor. İstiğfar yasaklanmış bir şey değildir; sûre onu sekiz ayet sonra emrediyor. İstisna edilen şey, **belirli bir durumda** ve **belirli bir muhatap için** yapılan istiğfardı.
 
 **إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ** — ve ayet, yedinci ayetle aynı iki isimle kapanıyor. Sûrenin bu iki ismi tekrarlaması, sertlik ile bağışlama arasındaki dengeyi metnin kendi içinde tutmasının bir başka yoludur.
 

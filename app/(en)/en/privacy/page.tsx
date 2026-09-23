@@ -1,14 +1,14 @@
 import Link from "next/link";
 import ConsentSwitch from "@/components/ConsentSwitch";
 import { REPO, ROUTES } from "@/lib/i18n";
-import { alternates } from "@/lib/meta";
+import { alternates, everywhere } from "@/lib/meta";
 
 export const metadata = {
   title: "Privacy policy",
   description: "What data this site processes, and what it does not.",
   alternates: {
     canonical: ROUTES.en.privacy,
-    ...alternates({ tr: ROUTES.tr.privacy, en: ROUTES.en.privacy }),
+    ...alternates(everywhere((r) => r.privacy)),
   },
 };
 
@@ -18,7 +18,7 @@ export default function PrivacyPage() {
       <main className="doc">
         <div className="sura-head">
           <h1>Privacy policy</h1>
-          <p className="meta">Last updated: 1 September 2026</p>
+          <p className="meta">Last updated: 23 September 2026</p>
         </div>
 
         <p>
@@ -131,8 +131,8 @@ export default function PrivacyPage() {
                   <code>tefsir:consent</code>
                 </td>
                 <td>
-                  Your answer on analytics cookies. One decision covers both languages, so
-                  switching language does not ask you again
+                  Your answer on analytics cookies. One decision covers all three
+                  languages, so switching language does not ask you again
                 </td>
               </tr>
             </tbody>
@@ -140,8 +140,8 @@ export default function PrivacyPage() {
         </div>
         <p>
           The Turkish version of the site keeps the two reading records under keys without
-          the <code>en</code> part, so the two languages do not overwrite each other&apos;s
-          reading position.
+          a language part and the Indonesian version under <code>tefsir:id:…</code>, so the
+          three languages do not overwrite each other&apos;s reading position.
         </p>
         <p>
           These records <strong>stay in your browser alone</strong>; they are not sent to any
@@ -162,11 +162,12 @@ export default function PrivacyPage() {
 
         <h2>External resources</h2>
         <p>
-          The page fonts are loaded from Google Fonts (<code>fonts.googleapis.com</code> and{" "}
-          <code>fonts.gstatic.com</code>), and the analytics script from{" "}
-          <code>googletagmanager.com</code>. During those requests your IP address and browser
-          information reach Google. Beyond this, no third-party script, advertisement, pixel,
-          or tracker is embedded in the pages.
+          The page fonts are served <strong>from this site itself</strong>: the files taken
+          from Google Fonts are built into the site, so opening a page sends no font request
+          to Google. The only request your browser makes to an outside host is for the
+          analytics script from <code>googletagmanager.com</code>; during that request your IP
+          address and browser information reach Google. Beyond this, no third-party script,
+          advertisement, pixel, or tracker is embedded in the pages.
         </p>
 
         <h2>The sharing function</h2>

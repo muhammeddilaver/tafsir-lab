@@ -482,7 +482,7 @@ Bu ayrımı kendi okumam olarak kaydediyorum.
 *Ve lâ temnün testeksir*
 "Çok bularak başa kakma."
 
-**Sûrenin en kısa ve en çok tartışılan ayeti.** İki kelime, ve ikisinin ilişkisi belirsiz bırakılmış.
+**Sûrenin en kısa ve anlamı en kapalı ayeti.** İki kelime, ve ikisinin ilişkisi belirsiz bırakılmış.
 
 ### منن kökü — iki yüzü olan bir kelime
 
@@ -1398,7 +1398,7 @@ Türevler:
 
 **Ve burada bir örgü var, gözden kaçmaya müsait.**
 
-Aynı fiil, on bir ayet sonra bir kez daha geçecek:
+Aynı fiil, on ayet sonra bir kez daha geçecek:
 
 - **74/23:** *sümme **edbera** ve'stekbera* — adam sırt çevirdi.
 - **74/33:** *ve'l-leyli **iz edbera*** — "çekildiğinde geceye (yemin olsun)."
@@ -1608,7 +1608,7 @@ Ama `090-beled.md`'de düşülen bir kayıt da burada geçerli: orada *akabe* ke
 
 **وَذَرَ** — و-ذ-ر kökünden: **bırakmak, terk etmek, kendi haline bırakmak.**
 
-**Ve ikinci fiil, sûrede üçüncü kez geçiyor.**
+**Ve ikinci fiil, sûrede ikinci kez geçiyor.**
 
 | Yer | Kelime | Kim | Kimi/neyi bırakıyor |
 |---|---|---|---|
@@ -2315,7 +2315,7 @@ Bu simetri gözlenebilir ve metinde durmaktadır.
 
 **Bu ikili, Kur'an'ın en ısrarla tekrarladığı ölçütlerden biridir.**
 
-`107-maun.md`'de bu ölçüt tafsilatlı işlendi ve orada bu ayet (74/43-44) zaten ana örnek olarak kaydedilmişti: *"Mâûn sûresinin üç ana unsuru — namaz, yoksulu doyurma ve yalanlama — Müddessir'de aynı sırayla bir arada."* Tekrarlamıyorum.
+`107-maun.md`'de bu ölçüt tafsilatlı işlendi ve orada bu ayet (74/43-44) zaten ana örnek olarak kaydedilmişti: *"Mâûn sûresinin üç ana unsuru — namaz, yoksulu doyurma ve yalanlama — Müddessir'de ters sırayla bir arada."* Tekrarlamıyorum.
 
 **Ve orada kaydedilen en önemli tespit şuydu:** *"Sûre ibadeti ahlakın karşısına koymuyor; ibadetin ahlaksız kalamayacağını söylüyor."*
 
@@ -2940,7 +2940,7 @@ Duhâ ile İnşirâh **aynı konuşmanın devamı** gibidir: biri sorar, öteki 
 
 ### 3. En anlamlı satır: ilk emrin yönü
 
-Tablodaki en önemli satır beşincisidir.
+Tablodaki en önemli satır üçüncüsüdür.
 
 **İki sûre aynı emirle başlıyor — قُمْ — ve iki zıt yöne gönderiyor.**
 
@@ -3141,7 +3141,7 @@ Bu, metnin kendi tonu hakkında bir şey söylüyor ve gözlenebilir bir yapıd�
 - **74/5'teki ٱلرُّجْز / ٱلرِّجْز kıraat farkı aktarıldı; hangi okuyuşun hangi imama ait olduğu konusunda liste verilmedi.** Yaygın basılı mushaftaki (Hafs rivayeti) okuyuş belirtildi. Terk edilecek şeyin ne olduğu konusundaki dört görüş tablo halinde verildi, tercih dayatılmadı. *Ricz* ile *rics* arasındaki akrabalık bir **ihtimal** olarak sunuldu.
 - **74/6'daki *lâ temnün testeksir* için dört okuma tablo halinde verildi ve tercih dayatılmadı.** Üçünü birleştiren okuma ("iyiliğin bir alacağa dönüşmesi yasaklanıyor") kendi okumam olarak işaretlendi. *Ğayru memnûn* ile kurulan bağ bir gözlemdir; ayetler arasında gönderme iddia edilmedi.
 - 74/7'deki *li* ile Müzzemmil 73/10'daki *alâ* arasında kurulan karşılaştırma kendi okumamdır; edat farkının varlığı ise tartışmasızdır.
-- Beş emirlik dizinin mantığı ve "yedi emrin altısı işi yapanı düzenliyor" gözlemi kendi çıkarımımdır.
+- Yedi emirlik dizinin mantığı ve "yedi emrin altısı işi yapanı düzenliyor" gözlemi kendi çıkarımımdır.
 - 74/8'de *nukira fi'n-nâkūr* ile *nufiha fi's-sûr* arasındaki fark bir ses ve kelime gözlemi olarak kaydedildi; **iki ifadenin farklı olaylara işaret ettiği iddia edilmedi.**
 - 74/10'daki "kâfirler için kolay değil" kaydından çıkarılan *mefhûmu'l-muhâlefe* sonucu, **usûlcüler arasında tartışmalı bir delil olduğu açıkça belirtilerek** sunuldu ve kesin sayılmadı. İnşikāk 84/8 ile birleştirme kendi okumamdır.
 - **74/11'deki *vahîdâ*'nın kime ait olduğu konusunda üç görüş tablo halinde verildi; birinci görüş siyakla uyum gerekçesiyle tercih edildi ve bunun bağlayıcı olmadığı belirtildi.**

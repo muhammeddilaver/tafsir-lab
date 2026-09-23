@@ -444,7 +444,7 @@ That the two should be named together states that the separation is both in deed
 
 But now the real matter comes.
 
-### إِلَىٰ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ — a caveat that looks like a contradiction
+### أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ — a caveat that looks like a contradiction
 
 > **وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ**
 > *"Between us and you there has begun an everlasting enmity and hatred, until you believe in God alone."*
@@ -469,7 +469,7 @@ And note what is set as the limit: it is not a submission, a defeat, an indemnit
 
 The most discussed place in the verse.
 
-**First let us look at what the exception attaches to.** Three verses back an *uswa* (example) had been laid down; then the content of that example was described; now an exception comes. In the classical exegesis there are two analyses:
+**First let us look at what the exception attaches to.** At the beginning of the same verse an *uswa* (example) had been laid down; then the content of that example was described; now an exception comes. In the classical exegesis there are two analyses:
 
 | View | What the exception attaches to | The meaning of the sentence |
 |---|---|---|
@@ -904,7 +904,7 @@ In the eighth verse there were two deeds; here a third is added.
 
 **ظَاهَرَ** — the root ظ-ه-ر: **the back.** From the same root come *ẓahr* (the back), *ẓāhir* (what is visible — that which has its front and not its back turned), *ẓuhr* (noon — the hour at which the day is most distinct).
 
-**زَاهَرَ/ظَاهَرَ** in the *mufāʿala* pattern is **to set back to back**: to back someone, to support him, to lean one's back against him. The English idiom "to back someone" is surprisingly close to the concrete sense of the word.
+**ظَاهَرَ** in the *mufāʿala* pattern is **to set back to back**: to back someone, to support him, to lean one's back against him. The English idiom "to back someone" is surprisingly close to the concrete sense of the word.
 
 **Why does the adding of this third deed matter?** Because it covers one further category: **the one who does not do it himself but supports it.** He may not have fought, he may not with his own hand have driven anyone out; but he has backed the work of driving out.
 
@@ -1190,7 +1190,7 @@ And now look at the link within the sūra. In the fourth verse, Abraham's asking
 
 The same act, in the same sūra, with two opposite rulings. And the difference lies in the addressee — not in the act itself.
 
-This symmetry makes the exception of the fourth verse rightly understood. Asking forgiveness is not a forbidden thing; the sūra commands it twelve verses later. What was excepted was asking forgiveness **in a particular situation** and **for a particular addressee**.
+This symmetry makes the exception of the fourth verse rightly understood. Asking forgiveness is not a forbidden thing; the sūra commands it eight verses later. What was excepted was asking forgiveness **in a particular situation** and **for a particular addressee**.
 
 **إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ** — and the verse closes with the same two names as the seventh verse. That the sūra should repeat these two names is another way in which the text holds within itself the balance between severity and forgiveness.
 

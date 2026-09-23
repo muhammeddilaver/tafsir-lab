@@ -1,5 +1,5 @@
 import { names, stats } from "@/lib/content";
-import { REPO, ROUTES, SITE, T } from "@/lib/i18n";
+import { LANGS, REPO, ROUTES, SITE, T } from "@/lib/i18n";
 import { abs } from "@/lib/meta";
 
 export const dynamic = "force-static";
@@ -16,21 +16,19 @@ export const dynamic = "force-static";
  */
 export function GET() {
   const s = stats("tr");
-  const tr = names("tr");
-  const en = names("en");
+  const nm = Object.fromEntries(LANGS.map((l) => [l, names(l)])) as Record<
+    (typeof LANGS)[number],
+    Map<number, string>
+  >;
 
   const lines = [
     `# ${SITE}`,
     "",
-    `> ${T.tr.metaDesc}`,
-    `> ${T.en.metaDesc}`,
+    ...LANGS.map((l) => `> ${T[l].metaDesc}`),
     "",
-    "## Uyarı / Disclaimer",
+    "## Uyarı / Disclaimer / Peringatan",
     "",
-    T.tr.footNote,
-    "",
-    T.en.footNote,
-    "",
+    ...LANGS.flatMap((l) => [T[l].footNote, ""]),
     "Bu metin klasik tefsir literatürünün yerine geçmez. Bir dil modeli ikna",
     "edici görünen yanlışlar üretebilir: kelime kökleri, gramer açıklamaları,",
     "kıraat ve nakil bilgileri yanlış olabilir. Buradan alıntı yapılacaksa",
@@ -39,25 +37,34 @@ export function GET() {
     "This text does not stand in for the classical commentary literature.",
     "If you quote it, say that the source was written by a language model.",
     "",
-    "## Yapı / Structure",
+    "Teks ini tidak menggantikan literatur tafsir klasik. Jika Anda mengutipnya,",
+    "sebutkan bahwa sumbernya ditulis oleh sebuah model bahasa.",
+    "",
+    "## Yapı / Structure / Struktur",
     "",
     `- ${s.suras} sûre, ${s.ayahs.toLocaleString("tr-TR")} ayet; her ayet işlenmiş.`,
-    "- Türkçe kökte (`/`), İngilizce `/en` altında. İkisi birebir aynı bölümlere ayrılır.",
-    `- Sûre sayfası: \`${ROUTES.tr.sura}/<no>\` · \`${ROUTES.en.sura}/<no>\``,
+    "- Türkçe kökte (`/`), İngilizce `/en`, Endonezce `/id` altında.",
+    "  Üçü de birebir aynı bölümlere ayrılır; Türkçe kaynak metindir.",
+    `- Sûre sayfası: ${LANGS.map((l) => `\`${ROUTES[l].sura}/<no>\``).join(" · ")}`,
     `- Bölüm sayfası (tek ayet ya da ayet öbeği): \`${ROUTES.tr.sura}/<no>/<ilk-ayet>\``,
     "  — alıntı için en uygun birim; her biri tek konu, kendi başlığı ve adresi.",
-    `- Kök dizini: \`${ROUTES.tr.roots}\` · \`${ROUTES.en.roots}\``,
-    `- Usul ve üslup kuralları: \`${ROUTES.tr.method}\` · \`${ROUTES.en.method}\``,
+    `- Kök dizini: ${LANGS.map((l) => `\`${ROUTES[l].roots}\``).join(" · ")}`,
+    `- Usul ve üslup kuralları: ${LANGS.map((l) => `\`${ROUTES[l].method}\``).join(" · ")}`,
     "",
     `Bütün adreslerin listesi: ${abs("/sitemap.xml")}`,
     `Kaynak metin ve denetim araçları: ${REPO}`,
     "",
-    "## Sûreler / Sūras",
+    "## Sûreler / Sūras / Surah",
     "",
   ];
 
+  // A sura is listed under every name it has been published with: the
+  // translations in progress simply contribute fewer names.
   for (let no = 1; no <= s.suras; no++) {
-    lines.push(`- [${no}. ${tr.get(no)} / ${en.get(no)}](${abs(`${ROUTES.tr.sura}/${no}`)})`);
+    const label = LANGS.map((l) => nm[l].get(no))
+      .filter(Boolean)
+      .join(" / ");
+    lines.push(`- [${no}. ${label}](${abs(`${ROUTES.tr.sura}/${no}`)})`);
   }
 
   return new Response(lines.join("\n") + "\n", {

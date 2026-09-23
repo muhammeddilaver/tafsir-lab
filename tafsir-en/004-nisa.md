@@ -62,7 +62,7 @@ The sūra is a long text in which the subjects run into one another; the boundar
 | **II** | **2-10** | The orphan's property; marriage; the bridal gift; the holding of property in trust | *Wa ātu'l-yatāmā amwālahum* | *lā tatabaddalū*, *taʿdilū*, *niḥla*, *sufahāʾ*, *rushd* |
 | **III** | **11-14** | The shares of inheritance and the limits set by God | *Yūṣīkumu'llāhu fī awlādikum* | *ḥaẓẓ*, *waṣiyya*, *dayn*, *kalāla*, *ḥudūdu'llāh* |
 | **IV** | **15-22** | Indecency, repentance; that women cannot be counted as inheritance; conduct in marriage | *Wa'llātī yaʾtīna'l-fāḥisha* | *tawba*, *karhan*, *ʿāshirūhunna bi'l-maʿrūf*, *afḍā* |
-| **V** | **23-28** | The prohibitions of marriage; the ground of the measure; the lightening | *Ḥurrimat ʿalaykum ummahātukum* | *muḥṣanāt*, *ujūr*, *yurīdu'llāhu li-yubayyina*, *ḍuʿifa* |
+| **V** | **23-28** | The prohibitions of marriage; the ground of the measure; the lightening | *Ḥurrimat ʿalaykum ummahātukum* | *muḥṣanāt*, *ujūr*, *yurīdu'llāhu li-yubayyina*, *ḍaʿīf* |
 | **VI** | **29-35** | Property, life, coveting; the earnings of the man and of the woman; conflict within the family | *Lā taʾkulū amwālakum baynakum bi'l-bāṭil* | *tarāḍin*, *naṣīb*, *iktisāb*, *qawwāmūn*, *nushūz*, *ḥakam*, *iṣlāḥ* |
 | **VII** | **36-42** | A list of rights in ten items; miserliness, ostentation; the day of testimony | *Wa'ʿbudu'llāha wa lā tushrikū bihī shayʾā* | *iḥsān*, *al-jār*, *al-ṣāḥib bi'l-janb*, *bukhl*, *riʾāʾa'l-nās* |
 | **VIII** | **43-57** | Prayer and purity; a group among the People of the Book; trust and obedience | *Lā taqrabu'ṣ-ṣalāta wa antum sukārā* | *tayammum*, *yuḥarrifūna'l-kalim*, *naṣīban mina'l-kitāb* |
@@ -1149,7 +1149,7 @@ I record this as **my own reading**; its ground is the moods of the two verbs.
 
 | Word | Where | Its context |
 |---|---|---|
-| **نَصِيب** (*naṣīb*) | 7 (twice), 32 (twice), 33, 118 | **The proclamation that the right exists** |
+| **نَصِيب** (*naṣīb*) | 7 (twice), 32 (twice), 33, 44, 51, 53, 85, 118, 141 | **The proclamation that the right exists** |
 | **حَظّ** (*ḥaẓẓ*) | 11, 176 | **The determination of the amount of the share** |
 
 **This is an observation about word order, and the places of the words can be counted.** *Naṣīb* names the principle, *ḥaẓẓ* the reckoning.
@@ -1171,7 +1171,7 @@ I record this as **my own reading**; its ground is the moods of the two verbs.
 
 **And three things must be recorded that do not appear in the table but can be read from the wording of the verse:**
 
-**One.** The verse names **a female heir in three separate places**: the daughter (twice), the mother (twice). **Most of the rulings, that is, are laid down in order to determine the share of a female heir.** This is a countable fact.
+**One.** The verse names **a female heir in four separate places**: the daughter (twice), the mother (twice). **Most of the rulings, that is, are laid down in order to determine the share of a female heir.** This is a countable fact.
 
 **Two.** The verse states **the father's share openly in one case only** (a sixth, if there is a child); in the others it does not specify it. **The mother's share, on the other hand, is stated openly in two separate cases.**
 
@@ -1467,13 +1467,13 @@ I record this as **my own reading**; its ground is the root of the word together
 
 | Verse | Word | Where |
 |---|---|---|
-| **16** | *aṣlaḥā* | The close of the discussion of indecency |
+| **16, 146** | *aṣlaḥā*, *aṣlaḥū* | The close of the discussion of indecency; the condition of repentance |
 | **35** | *iṣlāḥan*, *yuwaffiqi'llāhu baynahumā* | The close of the discussion of conflict within the family |
 | **114** | *iṣlāḥin bayna'l-nās* | The good kind of secret conversation |
 | **128** | *an yuṣliḥā baynahumā ṣulḥā*, *wa'l-ṣulḥu khayr* | Between husband and wife |
 | **129** | *wa in tuṣliḥū wa tattaqū* | The close of the discussion of justice |
 
-**Four of the five places are where a dispute comes to an end.**
+**Four of the six places are where a dispute comes to an end.**
 
 **I record this as my own reading:** the sūra tends to close its rulings not with a sanction but with **setting right**. This will be shown separately in the discussion of the thirty-fifth verse.
 
@@ -1856,7 +1856,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ### إِلَّا مَا قَدْ سَلَفَ — a second time
 
-**It occurred in the twenty-second verse too. It is repeated two verses later.**
+**It occurred in the twenty-second verse too. It is repeated in the very next verse.**
 
 **And the verse-ending changes:** the twenty-second verse ended with *sāʾa sabīlā* (an evil way); the twenty-third ends with ***Ghafūran Raḥīmā***.
 
@@ -1892,7 +1892,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ### إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ — a record
 
-**This expression occurs several times in the sūra (3, 24, 25, 36, 92) and concerns an institution of society that existed in the classical period.**
+**This expression occurs several times in the sūra (3, 24, 25, 36) and concerns an institution of society that existed in the classical period.**
 
 **A record was entered on this matter in the discussion of `033-ahzab.md` 33/50, and I carry it over here as it stands:**
 
@@ -2023,7 +2023,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 | 3 | *Alladhīna yattabiʿūna'l-shahawāt* | *An tamīlū maylan ʿaẓīmā* — **that you swerve** |
 | 4 | God | *An yukhaffifa ʿankum* — **to lighten** |
 
-**And the structure itself carries information, which I record as my own reading:** after the rulings, what the will that lays them down wants is stated. **The verse, that is, explains the intention behind a list of prohibitions running to twenty-three items.**
+**And the structure itself carries information, which I record as my own reading:** after the rulings, what the will that lays them down wants is stated. **The verse, that is, explains the intention behind a list of prohibitions running to thirteen items.**
 
 ### سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ — the word
 
@@ -2349,7 +2349,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 **The root ق-و-م: to rise to one's feet, to stand up, to keep a matter standing.**
 
-**The root has occurred twice already in this sūra:** at the fifth verse, *allatī jaʿala'llāhu lakum **qiyāmā*** ("the property God has made a means of standing upright for you"), and it was treated there under the heading "the weave of roots in the sūra". **I rely on that treatment.**
+**The root has occurred once already in this sūra:** at the fifth verse, *allatī jaʿala'llāhu lakum **qiyāmā*** ("the property God has made a means of standing upright for you"), and it was treated there under the heading "the weave of roots in the sūra". **I rely on that treatment.**
 
 **And the pattern must be recorded: *qawwām* is on the فَعَّال pattern.** In Arabic this pattern states two things:
 
@@ -2912,7 +2912,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 **In all three items what changes is small; and the verse qualifies this with the word *aqwam* (more upright, more erect).**
 
-***Aqwam* — the elative from the root ق-و-م.** **The root occurs in this sūra at the fifth verse (*qiyāmā*), at the thirty-fourth (*qawwāmūn*) and here; it will return once more at the hundred and thirty-fifth (*qawwāmīna bi'l-qisṭ*).** **The root's four occurrences in the sūra will be set out in a table in the concluding section.**
+***Aqwam* — the elative from the root ق-و-م.** **The root occurs in this sūra at the fifth verse (*qiyāmā*), at the thirty-fourth (*qawwāmūn*) and here; it will return once more at the hundred and thirty-fifth (*qawwāmīna bi'l-qisṭ*).** **The root's six occurrences in the sūra will be set out in a table in the concluding section.**
 
 **وَلَىًّۢا بِأَلْسِنَتِهِمْ** — *layy*: root ل-و-ي, **to twist, to bend.** **And the word carries the picture of distortion over into the tongue: as the words are shifted from their places, so the tongue too is twisted.**
 
@@ -2934,11 +2934,11 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ### إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ — and twice in the sūra
 
-**This sentence occurs twice in the sūra: at the forty-eighth verse and at the hundred and sixteenth. The two occurrences are almost identical, and the only difference is in one word.**
+**This sentence occurs twice in the sūra: at the forty-eighth verse and at the hundred and sixteenth. The two occurrences are almost identical, and the only difference is in the verse's closing.**
 
 | Verse | Sentence | Difference |
 |---|---|---|
-| **48** | *Wa yaghfiru mā dūna dhālika **li-man yashāʾ*** | — |
+| **48** | *Wa yaghfiru mā dūna dhālika **li-man yashāʾ*** | The verse continues on with *wa man yushrik bi'llāhi fa-qadi'ftarā ithman ʿaẓīmā* |
 | **116** | *Wa yaghfiru mā dūna dhālika **li-man yashāʾ*** | The verse continues on with *wa man yushrik bi'llāhi fa-qad ḍalla ḍalālan baʿīdā* |
 
 **That two verses repeat the same sentence is a countable fact.** And the places of the repetition must be recorded: one inside an address to the People of the Book, the other inside the discussion of Satan's promise. **The same sentence, for two different parties addressed.**
@@ -3691,7 +3691,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 **I record this as my own reading, and its ground is the difference between the two words:** for the good the verse chooses the word **share**, for the bad the word **burden**. **Two separate names are given to the same structure.**
 
-**And the word *naṣīb* occurs here for the sixth time in this sūra** (twice in 7, twice in 32, 33, 85). **The word's distribution in the sūra will be set out in a table in the concluding section.**
+**And the word *naṣīb* occurs here for the ninth time in this sūra** (twice in 7, twice in 32, 33, 44, 51, 53, 85). **The word's distribution in the sūra will be set out in a table in the concluding section.**
 
 ### وَإِذَا حُيِّيتُم بِتَحِيَّةٍ — the reckoning of a greeting
 
@@ -4233,16 +4233,16 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 | 2 | *Maʿrūf* | **A recognised good** |
 | 3 | ***Iṣlāḥin bayna'l-nās*** | **What is between people** |
 
-**And the third item must be recorded: the root ص-ل-ح occurs in this sūra for the fourth time, as a *remedy*.**
+**And the third item must be recorded: the root ص-ل-ح occurs in this sūra for the third time, as a *remedy*.**
 
 | Verse | Wording | Between whom |
 |---|---|---|
 | **16** | *Fa-in tābā wa **aṣlaḥā*** | Two persons |
 | **35** | *In yurīdā **iṣlāḥan** yuwaffiqi'llāhu baynahumā* | Spouses |
 | **114** | ***Iṣlāḥin bayna'l-nās*** | **People — in general** |
-| **128** | *An **yuṣliḥā** baynahumā ṣulḥan wa'l-**ṣulḥu** khayr* | Spouses |
+| **128, 129** | *An **yuṣliḥā** baynahumā ṣulḥan wa'l-**ṣulḥu** khayr*, *wa in **tuṣliḥū** wa tattaqū* | Spouses |
 
-**The same root in four verses, and in all four the setting right of a breach.** This is a weave that can be verified within the sūra, and it will be tabled again in the concluding section.
+**The same root in five verses, and in all five the setting right of a breach.** This is a weave that can be verified within the sūra, and it will be tabled again in the concluding section.
 
 **I record this as my own reading:** the sūra uses the same word from a disagreement inside the family (35) to human relations in general (114). **The scale changes, the verb does not.**
 
@@ -4803,7 +4803,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 | *In kāna lakum **fatḥun** mina'llāh* | *A-lam nakun maʿakum* — were we not with you |
 | *Wa in kāna li'l-kāfirīna **naṣīb*** | *A-lam nastaḥwidh ʿalaykum wa namnaʿkum mina'l-muʾminīn* |
 
-**And the word *naṣīb* occurs here for the seventh time in the sūra.** The word's distribution in the sūra will be set out in a table in the concluding section.
+**And the word *naṣīb* occurs here for the eleventh time in the sūra.** The word's distribution in the sūra will be set out in a table in the concluding section.
 
 **I record this as an observation about word order:** the verse describes a disposition by **two separate sayings in the face of two opposite outcomes**. **The description is tied not to a person but to the changing of the words.**
 
@@ -5359,10 +5359,10 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 | Word / construction | The verses where it occurs | What it does |
 |---|---|---|
-| **نَصِيب** (*naṣīb*) | 7 (twice), 32 (twice), 33, 85, 141 | A share; the sūra's most frequently returning word for a right |
+| **نَصِيب** (*naṣīb*) | 7 (twice), 32 (twice), 33, 44, 51, 53, 85, 118, 141 | A share; the sūra's most frequently returning word for a right |
 | **نَصِيبًا مَّفْرُوضًا** | 7, 118 | The same construction: once a **right**, once a **claim to seize** |
 | **بُهْتَان** | 20, 112, 156 | The slander that freezes; in 20 and 112 the construction is word for word identical |
-| **ص-ل-ح** (*iṣlāḥ / ṣulḥ*) | 16, 35, 114, 128, 146 | In all five places a **setting right of a breach** |
+| **ص-ل-ح** (*iṣlāḥ / ṣulḥ*) | 16, 35, 114, 128, 129, 146 | In all six places a **setting right of a breach** |
 | **ق-و-م** | 5, 34, 46, 103, 127, 135 | *Qiyām*, *qawwām*, *aqwam*, *qiyāman*, *taqūmū*, *qawwāmīn* |
 | **ض-ع-ف** | 9, 28, 75, 98, 127 | Weakness as a state, as a nature and as a wrong done |
 | **و-س-ع** | 97, 100, 130 | The wideness of the earth, of migration and of separation |

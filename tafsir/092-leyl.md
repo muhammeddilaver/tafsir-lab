@@ -438,7 +438,7 @@ Bunun Kur'an içinde bir karşılığı var: *"Ayetlerimizi yalanlayanları, bil
 
 Bu, sûrenin kurduğu en keskin ironidir. Adam kendini *ğanî* (muhtaç değil) sanıyordu; malı onu *ğanî* kılmayacak.
 
-Kur'an bu kalıbı başka yerlerde de kullanır: *"Malı ve kazandığı ona fayda vermedi"* (Tebbet 111/2 — orada *mâ ağnâ*); *"Ne malları ne evlatları onlara Allah'a karşı bir fayda sağlar"* (Âl-i İmrân 3/10, 116'da benzer).
+Kur'an bu kalıbı başka yerlerde de kullanır: *"Malı ve kazandığı ona fayda vermedi"* (Tebbet 111/2 — orada *mâ ağnâ*); *"Ne malları ne evlatları onlara Allah'a karşı bir fayda sağlar"* (Âl-i İmrân 3/10, 3/116'da benzer).
 
 Ama Leyl'deki kullanım özel, çünkü aynı sûrenin içinde adamın kendi iddiasına cevap veriyor. Sekizinci ayette söylediği şey, on birinci ayette çürütülüyor — ve çürütmede kendi kelimesi kullanılıyor.
 

@@ -8,7 +8,7 @@ Sûre bu belirsizlikle başlar ve **belirsizlikle biter**: son beş ayette Peyga
 
 Arada üç şey var: **iki sarsıntı**, **bir kıssa** ve **bir yaratılış tablosu.**
 
-Ve sûrenin omurgası bir kelimededir: **طَغَىٰ.** Kelime üç kez geçer. Önce bir kişi hakkında kullanılır (*"Firavun'a git; o azdı"*), sonra bir vasıf haline gelir (*"kim azar ve dünya hayatını tercih ederse"*). Sûre, bir tarihî şahsiyeti anlatıp onu bir **ölçüye** dönüştürüyor.
+Ve sûrenin omurgası bir kelimededir: **طَغَىٰ.** Kelime iki kez geçer. Önce bir kişi hakkında kullanılır (*"Firavun'a git; o azdı"*), sonra bir vasıf haline gelir (*"kim azar ve dünya hayatını tercih ederse"*). Sûre, bir tarihî şahsiyeti anlatıp onu bir **ölçüye** dönüştürüyor.
 
 ## Mekkî mi Medenî mi
 
@@ -936,7 +936,7 @@ Kelime Kur'an'da bir yerde daha geçer, aynı sahnede: *"Ben senin Rabbinim; aya
 
 Alak bölümünde ayrıca şu kaydedilmişti: bu kök Kur'an'da en çok Firavun için kullanılır ve *"tuğyanın en uç noktası, kendini rab konumuna koymaktır."* Orada bu sûrenin yirmi dördüncü ayeti delil olarak anılmıştı.
 
-**Burada eklenecek olan şudur: كلمenin cümledeki yeri.**
+**Burada eklenecek olan şudur: kelimenin cümledeki yeri.**
 
 Ayet *"Firavun'a git, çünkü o azdı"* diyor. Yani azgınlık, gitmenin **gerekçesi** olarak veriliyor.
 
@@ -1088,7 +1088,7 @@ Bunu bir gözlem olarak kaydediyorum; kelime tekrarları doğrulanabilir bir ver
 
 **Ve şimdi sûrenin anlatım tekniğine dikkat edin.**
 
-On yedinci ayetten yirmi beşinci ayete kadar dokuz ayet var ve hepsi **فَ** ile bağlanmış:
+On yedinci ayetten yirmi beşinci ayete kadar dokuz ayet var ve biri dışında hepsi **فَ** ile bağlanmış:
 
 *fe-kul (18) · fe-erâhü (20) · fe-kezzebe (21) · sümme edbera (22) · fe-haşera (23) · fe-kāle (24) · fe-ehazehü (25)*
 
@@ -1460,7 +1460,7 @@ Bu, iki sûre arasındaki en somut kelime bağlarından biridir ve **doğrulanab
 
 Nahivcilerin bir kısmı bunu *es-semâ*nın sıfatı sayar; bir kısmı bağımsız cümle sayar. İkincisi daha yaygındır.
 
-**Ve fiil dizisi burada başlıyor.** Yirmi sekizinci ayetten otuz ikinci ayete kadar **sekiz fiil** var ve hepsinin fâili aynı, hepsi mâzî, hepsi üçüncü tekil:
+**Ve fiil dizisi burada başlıyor.** Yirmi yedinci ayetten otuz ikinci ayete kadar **sekiz fiil** var ve hepsinin fâili aynı, hepsi mâzî, hepsi üçüncü tekil:
 
 *benâ · rafea · sevvâ · ağtaşe · ahrace · dahâ · ahrace · ersâ*
 
@@ -1506,7 +1506,7 @@ Sıra anlamlıdır: önce ölçü verilir, sonra denge kurulur. Bina önce yüks
 
 Ayet "gece oldu" ya da "karanlık çöktü" demiyor. **"Kararttı"** diyor — yani karanlık, ışığın çekilmesiyle kendiliğinden oluşan bir boşluk değil; **yapılan bir şey.**
 
-**Bu, Felak sûresi bölümünde غَاسِق için kaydedilen tespitle örtüşüyor. Orada şu yazılmıştı: *"Karanlık Arapçanın bu kökündeki tasavvurda 'olan' bir şey değil, akan** bir şeydir. Işığın kesilmesi değil, karanlığın dökülmesi."*
+**Bu, Felak sûresi bölümünde غَاسِق için kaydedilen tespitle örtüşüyor. Orada şu yazılmıştı:** *"Karanlık Arapçanın bu kökündeki tasavvurda 'olan' bir şey değil, akan bir şeydir. Işığın kesilmesi değil, karanlığın dökülmesi."*
 
 **Nâziât 79/29 aynı fikri başka bir kökle ve daha açık biçimde veriyor:** karanlık **yapılır.**
 
@@ -1914,7 +1914,7 @@ Ve orada şu yazılmıştı: *"Şart cümleleri birebir simetriktir… Ama cevap
 
 Bunu kendi okumam olarak kaydediyorum. Dört fiilin anlamları ise sözlük verisidir.
 
-### طَغَىٰ — üçüncü kez
+### طَغَىٰ — ikinci kez
 
 **Ve sûrenin omurgası burada tamamlanıyor.**
 

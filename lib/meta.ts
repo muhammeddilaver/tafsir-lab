@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import { getSura, section } from "./content";
-import { LANGS, OG_LOCALE, ROUTES, SITE, T, type Lang } from "./i18n";
+import { getSura, langsWithSura, section } from "./content";
+import { LANGS, OG_LOCALE, ROUTES, SITE, SOURCE_LANG, T, type Lang } from "./i18n";
 
 // The published address comes from the environment: in production Vercel sets
 // VERCEL_PROJECT_PRODUCTION_URL. Without it the alternates stay relative —
@@ -40,18 +40,29 @@ function verification(): Metadata["verification"] | undefined {
 export const abs = (p: string) => (p === "/" ? SITE_URL : `${SITE_URL}${p}`);
 
 /**
- * A page's address in both languages: the hreflang tags come from here.
- * x-default points at the Turkish version — the language the text was
- * written in.
+ * A page's address in every language that publishes it: the hreflang tags
+ * come from here. x-default points at the Turkish version — the language the
+ * text was written in.
+ *
+ * The record is partial on purpose. A translation in progress does not have
+ * every sura, and an hreflang pointing at a page that does not exist is worse
+ * than no hreflang at all: the pairing is declared reciprocal, and a 404 on
+ * one side makes the search engine drop the whole cluster. Languages absent
+ * from `paths` are simply left out.
  */
-export function alternates(paths: Record<Lang, string>): Metadata["alternates"] {
+export function alternates(paths: Partial<Record<Lang, string>>): Metadata["alternates"] {
+  const present = LANGS.filter((l) => paths[l]);
   return {
     languages: {
-      ...Object.fromEntries(LANGS.map((l) => [l, paths[l]])),
-      "x-default": paths.tr,
+      ...Object.fromEntries(present.map((l) => [l, paths[l]!])),
+      ...(paths[SOURCE_LANG] ? { "x-default": paths[SOURCE_LANG]! } : {}),
     },
   };
 }
+
+/** The same path shape in every language, for pages that exist in all of them. */
+export const everywhere = (path: (r: (typeof ROUTES)[Lang]) => string) =>
+  Object.fromEntries(LANGS.map((l) => [l, path(ROUTES[l])])) as Record<Lang, string>;
 
 /**
  * Trims a description without cutting through a word.
@@ -75,7 +86,7 @@ export function rootMetadata(lang: Lang): Metadata {
     applicationName: SITE,
     alternates: {
       canonical: ROUTES[lang].home,
-      ...alternates({ tr: ROUTES.tr.home, en: ROUTES.en.home }),
+      ...alternates(everywhere((r) => r.home)),
     },
     openGraph: {
       type: "website",
@@ -109,7 +120,10 @@ export function suraMetadata(lang: Lang, no: number): Metadata {
   const sura = getSura(lang, no);
   if (!sura) return {};
   const t = T[lang];
-  const paths = { tr: `${ROUTES.tr.sura}/${no}`, en: `${ROUTES.en.sura}/${no}` };
+  // Only the languages that have this sura translated are paired.
+  const paths = Object.fromEntries(
+    langsWithSura(no).map((l) => [l, `${ROUTES[l].sura}/${no}`])
+  ) as Partial<Record<Lang, string>>;
   const description = clamp(t.suraSeoDesc(sura.name, sura.ayahCount, sura.lead));
   return {
     title: t.suraSeoTitle(sura.name),
@@ -120,18 +134,18 @@ export function suraMetadata(lang: Lang, no: number): Metadata {
 
 /**
  * Metadata for a section page. Because the section boundaries are identical
- * in both languages (3,003 headings, zero differences), the hreflang pairing
- * is safe: /sure/2/255 and /en/sura/2/255 always show the same verses.
+ * in every language (3,003 headings, zero differences — the translation guide
+ * forbids merging or splitting one), the hreflang pairing is safe:
+ * /sure/2/255, /en/sura/2/255 and /id/surah/2/255 always show the same verses.
  */
 export function sectionMetadata(lang: Lang, no: number, start: number): Metadata {
   const sec = section(lang, no, start);
   if (!sec) return {};
   const t = T[lang];
   const range = t.secRange(no, sec.from, sec.to);
-  const paths = {
-    tr: `${ROUTES.tr.sura}/${no}/${start}`,
-    en: `${ROUTES.en.sura}/${no}/${start}`,
-  };
+  const paths = Object.fromEntries(
+    langsWithSura(no).map((l) => [l, `${ROUTES[l].sura}/${no}/${start}`])
+  ) as Partial<Record<Lang, string>>;
   return {
     title: t.secSeoTitle(sec.name, range, sec.title),
     description: clamp(t.secSeoDesc(sec.name, range, sec.lead)),

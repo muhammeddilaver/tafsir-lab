@@ -632,7 +632,7 @@ The core recorded there was this: **the concrete sense of the root is "the back,
 
 | Verse | Expression | The position of the word |
 |---|---|---|
-| **19** | *Jannātu'l-**maʾwā*** | **The governing term** — the name of the gardens |
+| **19** | *Jannātu'l-**maʾwā*** | **The governed term** — the name of the gardens |
 | **20** | *Fa-**maʾwāhum**u'l-nār* | **The predicate** — the place they come to |
 
 **The root أ-و-ي: to take refuge, to shelter, to come back and settle.** *Maʾwā* — **the place one returns to and takes refuge in.**

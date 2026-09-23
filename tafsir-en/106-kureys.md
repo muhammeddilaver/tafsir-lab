@@ -170,7 +170,7 @@ This root has a hidden kinship with the root of *īlāf*: both convey a state th
 
 ### رَبَّ هَٰذَا الْبَيْتِ — "the Lord of this House"
 
-The heart of the sūra is in this construct, and there are two distinct subtleties in it.
+The heart of the sūra is in this construct, and there are three distinct subtleties in it.
 
 **First: not the House, but the Lord of the House.** Quraysh already revered the Kaʿba; they counted themselves its servants and lived on the standing it gave them. The sūra does not reject their attachment; it **corrects its target**: not the building, but the Owner of the building.
 

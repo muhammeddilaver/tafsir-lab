@@ -42,7 +42,7 @@ Since the basmala was treated in earlier sections, it is not taken up again here
 | 48 | **The diagnosis** | Those who do not answer the command to bow | **49** |
 | 50 | **The close** | "In what discourse after this will they believe?" | — |
 
-There is something visible in the table that determines how the sūra is read: **the last three sections are of one verse each.** 41-44 is four verses, 46 one verse, 48 one verse. The sūra ends by narrowing.
+There is something visible in the table that determines how the sūra is read: **the last three sections are of one verse each.** 46 is one verse, 48 one verse, 50 one verse. The sūra ends by narrowing.
 
 ---
 
@@ -170,7 +170,7 @@ From these two branches arise two separate readings, and **both have been defend
 
 **One.** The second reading has direct support within the Qurʾān: in al-Aʿrāf 7/199, *"wa'mur bi'l-**ʿurf**"* — "enjoin what is right". That is, the word *ʿurf* occurs in the Qurʾān's own usage in the sense of "good". This is an advantage the first reading does not have.
 
-**Two.** The first reading, on the other hand, has an advantage of **word order**: since the word is not from the same root as the active participle, it cannot be an absolute object; and *dhikrā* at the other end of the sequence is not an absolute object either. If the two end words form exceptions for the same reason, one expects them both to do similar work. *Dhikrā* conveys content (*what* is delivered); in that case it seems more consistent for *ʿurfā* too to convey content or purpose — that is, the second reading.
+**Two.** The second reading has a further advantage, one of **word order**: since the word is not from the same root as the active participle, it cannot be an absolute object; and *dhikrā* at the other end of the sequence is not an absolute object either. If the two end words form exceptions for the same reason, one expects them both to do similar work. *Dhikrā* conveys content (*what* is delivered); in that case it seems more consistent for *ʿurfā* too to convey content or purpose — that is, the second reading.
 
 This second observation is **my own inference**, not a transmitted view; and it does not count as decisive evidence, since a circumstantial qualifier is also possible in terms of word order.
 
@@ -656,7 +656,7 @@ Something split is divided in two; something parted open is something in the mid
 
 And this accords with another resurrection verse of the Qurʾān: *"The sky was opened and became gateways"* (al-Nabaʾ 78/19) — *fa-kānat abwābā*. There the opening of the sky is described as a **passage**. The same idea.
 
-There is a fourth root as well and it must not be confused: **ف-ت-ح** (al-Qamar 54/11, *fa-fataḥnā abwāba's-samāʾ*). That too is opening, but the opening of a door; it conveys no splitting.
+There is a fifth root as well and it must not be confused: **ف-ت-ح** (al-Qamar 54/11, *fa-fataḥnā abwāba's-samāʾ*). That too is opening, but the opening of a door; it conveys no splitting.
 
 **A limit:** the division of labour I have drawn among the four roots is **my own reading**; the dictionary senses of the roots are transmitted, the division of labour among them is not. The same qualification was set down in the section on al-Inshiqāq.
 
@@ -1049,7 +1049,7 @@ And from this emerges the function peculiar to al-Mursalāt. In al-Kāfirūn the
 
 **One — it marks the sections.**
 
-The sūra takes up twelve separate subjects: the scene of the resurrection, the destructions in history, the creation of man, the earth, the driving to Hell, silence, the gathering, the godwary, the address to the deniers, bowing. So many different subjects could have run into one another in a short sūra.
+The sūra takes up ten separate subjects: the scene of the resurrection, the destructions in history, the creation of man, the earth, the driving to Hell, silence, the gathering, the godwary, the address to the deniers, bowing. So many different subjects could have run into one another in a short sūra.
 
 They do not, because the same sentence comes at the end of each. The refrain works as a **line** separating the subjects from one another.
 
@@ -1393,7 +1393,7 @@ The two verses use exactly the same construct.
 
 And the link recorded there: *"the relation between measuring and worth is built into the language itself. To know a thing's worth is to give it the right measure. Measuring and valuing come from the same root in Arabic — because worth is the result of right measuring. **One who measures wrongly cannot value either.**"*
 
-**In this sūra the root occurs four times in three verses:**
+**In this sūra the root occurs three times in two verses:**
 
 | Verse | Word | Pattern | Which branch of meaning |
 |---|---|---|---|
@@ -1683,7 +1683,7 @@ The fourth refrain. After the last of the three proof sections.
 The distinction recorded in the table above becomes visible here:
 
 - **15-28:** three proofs (history, body, earth). All open with *a-lam*, all are from this world.
-- **29-40:** four scenes. All are from that day.
+- **29-40:** three scenes. All are from that day.
 
 The refrain stands as the hinge joining the two halves.
 
@@ -1931,7 +1931,7 @@ And the verse lays one simile on top of another. This is not something often see
 
 **كَأَنَّ** — a particle of comparison: "as though". It is stronger than *ka*; *ka* makes a comparison, *ka-anna* comes close to establishing identity.
 
-**The pronoun's being masculine.** *Ka-**annahū*** — masculine singular. But what is compared is *sharar* (a plural). The grammarians explain this by the pronoun's referring to the class of **شَرَر**, the singular of *sharar*, or to each individual spark. That is, "each one is as though…".
+**The pronoun's being masculine.** *Ka-**annahū*** — masculine singular. But what is compared is *sharar* (a plural). The grammarians explain this by the pronoun's referring to **شَرَر** as a collective class, or to each individual spark. That is, "each one is as though…".
 
 ### جِمَٰلَتٌ صُفْرٌ — two readings of the word
 
@@ -2065,6 +2065,8 @@ I impose no preference; but the verses' internal structure (the *wāw* linking 3
 
 > **At the centre of this root there is an organ: أُذُن (*udhun*) — the ear.** All the root's derivatives come out of that organ:
 >
+> | Derivative | Sense |
+> |---|---|
 > | **أُذُن** | Ear |
 > | **أَذِنَ لِـ** | He gave ear, he listened |
 > | **أَذِنَ لَهُ فِى** | He permitted |
@@ -2239,7 +2241,7 @@ Transitions between the plural of majesty and the singular are ordinary in the Q
 
 **The same pattern in the Qurʾān:**
 
-> *"Then scheme against me, all of you, and give me no respite."* (Hūd 11/55) — *fa-**kīdūnī** jamīʿan thumma lā tunẓirūn.* The words of Noah to his people.
+> *"Then scheme against me, all of you, and give me no respite."* (Hūd 11/55) — *fa-**kīdūnī** jamīʿan thumma lā tunẓirūn.* The words of Hūd to his people.
 >
 > *"Call your partners, then scheme against me, and give me no respite."* (al-Aʿrāf 7/195) — *thumma **kīdūni** fa-lā tunẓirūn.*
 
@@ -2419,7 +2421,7 @@ I record this as my own reading.
 
 And here there is a question classical exegesis has long debated.
 
-The particle **بِ** does more than one work in Arabic. Two of them have been debated here:
+The particle **بِ** does more than one work in Arabic. Three of them have been debated here:
 
 | Its kind | Its meaning | Its result |
 |---|---|---|
@@ -2664,7 +2666,7 @@ Now let us set the two verses side by side:
 
 And there is a relation between them — I record it as my own reading: in al-Baqara the command was a command **to join a community** (*maʿa'r-rākiʿīn*). What is refused in al-Mursalāt is also a joining. That is, what is refused is not merely a bodily movement but **a taking of one's place in a rank.**
 
-This accords with the whole argument of the sūra. The sūra's name is *yawm al-faṣl* — the day of separation. And the criterion of the separation is not set on that day; it is set in this world, in what is done when "bow" is said.
+This accords with the whole argument of the sūra. That day's name is *yawm al-faṣl* — the day of separation. And the criterion of the separation is not set on that day; it is set in this world, in what is done when "bow" is said.
 
 ### The mood of the verb: لَا يَرْكَعُونَ
 
@@ -2781,7 +2783,7 @@ Across fifty verses:
 - A judgement was set down: what is promised will come to pass.
 - The four ruptures of the resurrection were told.
 - Three proofs were presented: history, the body, the earth.
-- Four scenes were framed: the driving, the silence, the gathering, the challenge.
+- Three scenes were framed: the driving, the silence, the gathering and the challenge.
 - One counter-tableau was drawn.
 - One diagnosis was made: they do not bow.
 - And the judgement was repeated ten times.
@@ -2940,7 +2942,7 @@ A measure applied in several sections of this commentary: to record also what th
 
 **Four — no way out is shown.** There is no call to repentance, no condition of "if you believe". The sūra is not an invitation but a **notification**. This gap was recorded in the sections on al-ʿĀdiyāt, al-Takāthur and al-Humaza too.
 
-**Five — the tableau of the Garden is short.** Against forty-four verses of warning, a tableau of four verses. And even at the end of that tableau the refrain is placed.
+**Five — the tableau of the Garden is short.** Against forty-six verses of warning, a tableau of four verses. And even at the end of that tableau the refrain is placed.
 
 The common result of these five gaps: **the sūra is not a text of persuasion but a text of judgement.** As an instrument of persuasion it offers only three proofs, and at the end it asks: what else will you believe in?
 

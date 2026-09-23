@@ -752,9 +752,9 @@ This is the first link of a connection that will be made towards the end of the 
 
 | Reading | Sense | Its ground |
 |---|---|---|
-| **فَعَدَلَكَ** (undoubled) — "He made you equal" | He made your limbs equal to one another, symmetrical, proportioned | The basic sense of the root; it continues on the same line as *sawwā* |
-| **فَعَدَلَكَ** (undoubled) — "He turned you" | *ʿAdala ʿan* — to turn from something; "He turned you into whatever form He willed" | It joins directly to the next verse: *fī ayyi ṣūratin mā shāʾa rakkabak* |
-| **فَعَدَّلَكَ** (doubled) — "He balanced you thoroughly" | The *tafʿīl* form, intensification: He set the balance up fully and densely | The pattern conveys that the work was done with care and repeatedly |
+| **First reading: فَعَدَلَكَ** (undoubled) — "He made you equal" | He made your limbs equal to one another, symmetrical, proportioned | The basic sense of the root; it continues on the same line as *sawwā* |
+| **First reading: فَعَدَلَكَ** (undoubled) — "He turned you" | *ʿAdala ʿan* — to turn from something; "He turned you into whatever form He willed" | It joins directly to the next verse: *fī ayyi ṣūratin mā shāʾa rakkabak* |
+| **Second reading: فَعَدَّلَكَ** (doubled) — "He balanced you thoroughly" | The *tafʿīl* form, intensification: He set the balance up fully and densely | The pattern conveys that the work was done with care and repeatedly |
 
 Both readings are transmitted among the imams of the variant readings. **Because I cannot give with certainty which reading belongs to which imam, I give no name.**
 
@@ -1025,7 +1025,7 @@ Moreover *ʿalaykum* has been brought before the predicate: the order of the sen
 
 **Root: ح-ف-ظ.** And this root has two branches of meaning; Turkish has borrowed words from both:
 
-1. **To guard, to preserve.** *Ḥifẓ* — guarding. The line of the borrowed Turkish words *muhafaza* (preservation), *muhafız* (guard), *himâye* (protection).
+1. **To guard, to preserve.** *Ḥifẓ* — guarding. The line of the borrowed Turkish words *muhafaza* (preservation), *muhafız* (guard).
 2. **To memorise, to keep in mind.** *Ḥāfiẓ* — one who has memorised the Qurʾān. The borrowed Turkish verb *hıfzetmek* — to take into memory.
 
 The two join in a single idea: **not to let a thing be lost.** To guard property and to memorise a word are both the prevention of loss.

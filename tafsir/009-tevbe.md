@@ -666,7 +666,7 @@ Cümle şöyle kurulabilirdi ve kurulmuyor:
 
 ## 9/12 — وَإِن نَّكَثُوٓا۟ أَيْمَٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ
 
-*Ve in nekesû eymânehüm min ba'di ahdihim ve taanû fî dîniküm fe-kātilû eimmete'l-küfr; innehüm lâ eymâne lehüm lealllehüm yentehûn*
+*Ve in nekesû eymânehüm min ba'di ahdihim ve taanû fî dîniküm fe-kātilû eimmete'l-küfr; innehüm lâ eymâne lehüm leallehüm yentehûn*
 
 "**Antlaşmalarından sonra yeminlerini bozar ve dininize dil uzatırlarsa, küfrün önderleriyle savaşın. Çünkü onların yeminleri yoktur; belki vazgeçerler.**"
 
@@ -712,7 +712,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 ### لَعَلَّهُمْ يَنتَهُونَ
 
-**Ayetin gayesi kaydedilmelidir: *lealllehüm yentehûn* — "belki vazgeçerler."**
+**Ayetin gayesi kaydedilmelidir: *leallehüm yentehûn* — "belki vazgeçerler."**
 
 **ن-ه-ي** kökü: **son, bitiş; vazgeçme.** *İntihâ* — sona erme.
 
@@ -982,7 +982,7 @@ Ayet "onlarla savaşın" demiyor. *Fe-kātilû **eimmete'l-küfr*** diyor — "*
 
 **ع-ج-ب** kökü: **şaşırtmak, hayrete düşürmek.** *A'cebe* — hoşuna gitti, beğendirdi. **Kalıbın burada bildirdiği şey, bir *kendinden hoşnutluk*tur.**
 
-**Ve aynı fiil sûrede üç kez daha geçecek — ve üçünde de yasak olarak:**
+**Ve aynı fiil sûrede iki kez daha geçecek — ve ikisinde de yasak olarak:**
 
 | Ayet | İfade | Kim hakkında |
 |---|---|---|
@@ -1751,9 +1751,9 @@ Cahiliye döneminde haram ayların savaşı engellemesi sebebiyle, bir haram ay�
 
 **İhtilafı aktarıyor, tercih dayatmıyorum.** **Ve kalıp kaydedilmelidir: *fe'âl* — mübalağa kalıbı, "çok dinleyen."**
 
-### فِتْنَة kelimesinin üç geçişi
+### فِتْنَة kelimesinin dört geçişi
 
-**Kelime dört ayet içinde dört kez geçiyor (47, 48, 49) ve kaydedilmelidir:**
+**Kelime üç ayet içinde dört kez geçiyor (47, 48, 49) ve kaydedilmelidir:**
 
 | Yer | *Fitne* nasıl geçiyor |
 |---|---|
@@ -2471,7 +2471,7 @@ Kelime *hâlife*nin çoğuludur: **geride kalanlar.**
 
 ### Mazeretin ayrılması
 
-**Sûre, seksen sekizinci ayetten beri geride kalanları anlatıyordu.** **Doksan birinci ayet, aynı grubun içinden bir kesimi ayırıyor** — ve ayırma ölçüsü **üç somut hâl** ile veriliyor:
+**Sûre, seksen birinci ayetten beri geride kalanları anlatıyordu.** **Doksan birinci ayet, aynı grubun içinden bir kesimi ayırıyor** — ve ayırma ölçüsü **üç somut hâl** ile veriliyor:
 
 | Ölçü | Kim |
 |---|---|
@@ -2778,7 +2778,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **و-ل-ي** kökü: **yakın olmak, bitişik olmak.** *Velî*, *evlâ*, *mevlâ* aynı kökten. ***Yelûneküm* — "size bitişik olanlar", yani mesafe bakımından en yakındakiler.**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimenin kendisidir:** ayet bir **sıra** bildiriyor — yakından başlamak. **Ve bu, sûrenin baştan beri sürdürdüğü çizgiyle uyumludur:** dokuzuncu ayetten itibaren muhatap, **antlaşma yapmış ve bozmuş belirli bir taraftır**; sûrenin dördüncü ayeti antlaşmasını bozmayanları, altıncı ayeti sığınma isteyeni açıkça istisna etmişti.
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı kelimenin kendisidir:** ayet bir **sıra** bildiriyor — yakından başlamak. **Ve bu, sûrenin baştan beri sürdürdüğü çizgiyle uyumludur:** birinci ayetten itibaren muhatap, **antlaşma yapmış ve bozmuş belirli bir taraftır**; sûrenin dördüncü ayeti antlaşmasını bozmayanları, altıncı ayeti sığınma isteyeni açıkça istisna etmişti.
 
 **غِلْظَة** — kök **غ-ل-ظ**: **katılık, sertlik, kalınlık.** **Kök `009-tevbe.md` 9/73'te (*va'ğluz aleyhim*) ve `003-al-i-imran.md` 3/159'da (*ğalîza'l-kalb*) geçer.**
 
@@ -2790,7 +2790,7 @@ Bu ayet, mazeretin nasıl tespit edildiğini gösteriyor ve bunu kendi okumam ol
 
 **Bu ayetten güncel siyasî ya da askerî bir sonuç çıkarılmamaktadır.** Ayetin çerçevesi, sûrenin kendi anlattığı **karşılıklı bir savaş hâli**dir; ve o hâlin sınırları sûrenin ilk on altı ayetinde tek tek sayılmıştır (antlaşmaya sadık kalanın istisna edilmesi, sığınanın korunup güvenli yere ulaştırılması, barışa yanaşıldığında karşılık verilmesi — `008-enfal.md` 8/61'de işlendi).
 
-**Ve ayetin son cümlesi bir ölçü bırakıyor: *innallâhe mea'l-müttekīn*.** **Yani beraberlik, savaşın kendisine değil korunmaya bağlanıyor** — ve *takvâ*, sûrenin ikinci ayetinden beri tekrarlanan kelimedir.
+**Ve ayetin son cümlesi bir ölçü bırakıyor: *innallâhe mea'l-müttekīn*.** **Yani beraberlik, savaşın kendisine değil korunmaya bağlanıyor** — ve *takvâ*, sûrenin dördüncü ayetinden beri tekrarlanan kelimedir.
 
 ---
 

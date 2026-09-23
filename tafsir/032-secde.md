@@ -632,7 +632,7 @@ Orada kaydedilen çekirdek şuydu: **kökün somut anlamı "arka, bir şeyin ark
 
 | Ayet | İfade | Kelimenin konumu |
 |---|---|---|
-| **19** | *Cennâtü'l-**me'vâ*** | **Tamlanan** — cennetlerin adı |
+| **19** | *Cennâtü'l-**me'vâ*** | **Muzâfun ileyh** — cennetlerin adı |
 | **20** | *Fe-**me'vâhüm**ü'n-nâr* | **Haber** — varacakları yer |
 
 **أ-و-ي kökü: sığınmak, barınmak, dönüp yerleşmek.** *Me'vâ* — **dönülüp sığınılan yer.**

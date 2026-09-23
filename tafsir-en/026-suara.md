@@ -225,12 +225,12 @@ The sentence occurs once inside the introductory mould in each of the five accou
 
 **And *mubīn* is an active participle**, that is, not "made clear" but **"making clear"**. The distinction matters here: the Book is not merely intelligible, it is **what makes things intelligible**.
 
-**A link within the sūra:** the same word occurs four more times in the sūra:
+**A link within the sūra:** the same word occurs five more times in the sūra:
 
 | Verse | Construction | What it qualifies |
 |---|---|---|
 | **2** | *al-kitābi'l-mubīn* | **The Book** |
-| **32** | *thuʿbānun mubīn* | What the staff turned into |
+| **30, 32** | *shayʾin mubīn*, *thuʿbānun mubīn* | The proof Moses would bring, what the staff turned into |
 | **97** | *ḍalālin mubīn* | Error |
 | **115** | *nadhīrun mubīn* | Noah himself |
 | **195** | *lisānin ʿarabiyyin mubīn* | **The language** |
@@ -708,7 +708,7 @@ The root **ط-ل-ق**: **the untying of a bond, becoming free.** *Ṭalāq* (the
 | **The message of the two is one** | Two messengers carry a single messengership |
 | **In Arabic *rasūl* can be both singular and plural** | The lexicographers record this property of the *faʿūl* pattern (like *ʿaduww*) |
 
-**The Qurʾān's own usage supports the first explanation:** not *fa-inna ʿalayka laʿnatī*, but at Ṭāhā 20/47, for the same event, it says *innā **rasūlā** rabbik* (dual). **The same scene is thus given in two sūras in two different moulds: singular in al-Shuʿarāʾ, dual in Ṭāhā.** This is a difference that can be verified from the text and requires an explanation; I have given the transmitted explanations above, and I do not impose a preference.
+**The Qurʾān's own usage shows a second mould here:** not *fa-inna ʿalayka laʿnatī*, but at Ṭāhā 20/47, for the same event, it says *innā **rasūlā** rabbik* (dual). **The same scene is thus given in two sūras in two different moulds: singular in al-Shuʿarāʾ, dual in Ṭāhā.** This is a difference that can be verified from the text and requires an explanation; I have given the transmitted explanations above, and I do not impose a preference.
 
 ### أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ — that the request is a single sentence
 
@@ -1150,8 +1150,8 @@ The root **ن-ز-ع**: **to pull out, to tear away.** The root was analysed at `
 
 | Root | Sense | The sentence's meaning |
 |---|---|---|
-| **ر-ج-و / ر-ج-أ** (*arjaʾa*) | To postpone, to delay | **"Keep him waiting"** — do not decide, stall |
-| **ر-ج-و** (*irjāʾ*, deferral) | To detain | **"Hold him"** |
+| **ر-ج-أ** (*arjaʾa*) | To postpone, to delay | **"Keep him waiting"** — do not decide, stall |
+| **ر-ج-و** (*irjāʾ*, detention) | To detain | **"Hold him"** |
 
 **Both readings converge on "do nothing immediately".** Variant readings of the word are also transmitted (*arjih*, *arjihi*, *arjiʾhu*); **these are differences of pronunciation and do not change the meaning, so I do not go into their detail.**
 
@@ -1259,9 +1259,9 @@ The root **ق-ر-ب**: **to be near.** *Muqarrab* — the passive participle of 
 
 "Moses said to them: '**Cast what you are going to cast!**' · **So they cast their ropes and their staffs and said: 'By the might of Pharaoh, we are surely the ones who prevail!'** · Then Moses cast his staff; **and there it was, swallowing what they had fabricated!** · Thereupon **the sorcerers were thrown down prostrate.** · They said: '**We believe in the Lord of all the worlds — the Lord of Moses and Aaron.**' · [Pharaoh] said: '**You believed him before I gave you leave!… I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all!**'"
 
-### ل-ق-ي / ل-ق-ف — nine castings in seven verses
+### ل-ق-ي / ل-ق-ف — six castings in seven verses
 
-**The clearest structural datum of this section is the repetition of a single root. The root ل-ق-ي (to cast) occurs six times in seven verses, and its relative ل-ق-ف once:**
+**The clearest structural datum of this section is the repetition of a single root. The root ل-ق-ي (to cast) occurs five times in seven verses, and its relative ل-ق-ف once:**
 
 | Verse | Word | Who casts | Mood |
 |---|---|---|---|
@@ -2515,7 +2515,7 @@ The root **ط-ر-د**: **to send away, to drive off, to expel.**
 
 **And the list of limits tabulated at `028-kasas.md` 28/56 is a relative of this verse as well.** I rely on the note there.
 
-**مُّبِين** — a word occurring five times in the sūra; its analysis was made and tabulated at 26/1-2. **That it qualifies *nadhīr* here must be recorded: the warning is not hidden or veiled — it is a warning that *makes clear*.**
+**مُّبِين** — a word occurring six times in the sūra; its analysis was made and tabulated at 26/1-2. **That it qualifies *nadhīr* here must be recorded: the warning is not hidden or veiled — it is a warning that *makes clear*.**
 
 ---
 
@@ -2992,7 +2992,7 @@ The root **ن-ح-ت**: **to carve, to shape by cutting.** It is used of stone an
 
 **And here a prohibition is set opposite the command *wa aṭīʿūn* ("obey me") repeated in the five accounts: *wa lā tuṭīʿū amra'l-musrifīn*.**
 
-**The same root (ط-و-ع), two verses apart, one a command and one a prohibition.**
+**The same root (ط-و-ع), in two adjacent verses, one a command and one a prohibition.**
 
 | Verse | Expression | To whom |
 |---|---|---|
@@ -3636,7 +3636,7 @@ The root **ن-ز-ل**: to descend. Form II (*nazzala*) announces **gradual desce
 | **Both look to clarity; there is emphasis** | The sense of the root |
 | ***Mubīn* qualifies not the language but the Qurʾān** | A remote reading |
 
-**And the five occurrences of the word in the sūra were tabulated in the section on 26/1-2.** The sūra opens with *al-kitābi'l-mubīn* and here ties it to language with *lisānin ʿarabiyyin mubīn*. **This is an overlap that can be verified from the text.**
+**And the six occurrences of the word in the sūra were tabulated in the section on 26/1-2.** The sūra opens with *al-kitābi'l-mubīn* and here ties it to language with *lisānin ʿarabiyyin mubīn*. **This is an overlap that can be verified from the text.**
 
 **And the word *lisān* must be recorded: it occurs in the sūra in three places.**
 
@@ -3814,7 +3814,7 @@ The root **ع-ج-ل**: **to hasten.** Form X (*istaʿjala*) — **to ask for has
 
 ### أَفَرَءَيْتَ إِن مَّتَّعْنَٰهُمْ سِنِين — a question across three verses
 
-**After the hundred and ninety-fifth verse the sūra sets up a question to think on, and the question spreads across three verses (205-207).**
+**After the two hundred and fourth verse the sūra sets up a question to think on, and the question spreads across three verses (205-207).**
 
 | Verse | Element |
 |---|---|
@@ -3830,7 +3830,7 @@ The root **م-ت-ع**: **to derive benefit from a thing, to enjoy it for a time.
 
 **And at `037-saffat.md` 37/148 the same root closed an account:** *fa-mattaʿnāhum ilā ḥīn* — "so We let them enjoy for a time". **The same mould, in two sūras.**
 
-**م-ا أَغْنَىٰ عَنْهُم** — root **غ-ن-ي**: **to be free of need, to suffice.** *Mā aghnā ʿanhu* — "it warded nothing off from him, it did not suffice him".
+**مَآ أَغْنَىٰ عَنْهُم** — root **غ-ن-ي**: **to be free of need, to suffice.** *Mā aghnā ʿanhu* — "it warded nothing off from him, it did not suffice him".
 
 **And the mood of the sentence is perfect: *mā aghnā*.** That the apodosis of a conditional comes in the perfect is exactly the technique recorded in the fourth verse: **to recount as already done what is certain to happen.**
 

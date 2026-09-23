@@ -424,7 +424,7 @@ I record this link as an observation; I do not claim that the choice of words wa
 
 **أَمْرِهِمْ — "of their own affair".** And this possession sets up the verse's logic of justice: what is tasted is not a disaster coming from outside but the consequence **of their own affair**. The ill consequence has come out of the affair itself.
 
-This construct will find an echo within the sūra: in Sūrat al-Ṭalāq almost the same sentence occurs — *fa-dhāqat wabāla amrihā* (al-Ṭalāq 65/9). That two neighbouring sūras use the same expression is striking; I shall make a note of it in the relevant place.
+This construct will find an echo in the neighbouring sūra: in Sūrat al-Ṭalāq almost the same sentence occurs — *fa-dhāqat wabāla amrihā* (al-Ṭalāq 65/9). That two neighbouring sūras use the same expression is striking; I shall make a note of it in the relevant place.
 
 ### وَلَهُمْ عَذَابٌ أَلِيمٌ — two times
 
@@ -640,7 +640,7 @@ And recall the definition in `078-nebe.md`: a *nabaʾ* is a report on hearing wh
 
 And the qualification *ʿala'llāh* is important: the ease lies not **in the act itself** but **relative to the agent**. The difficulty of a task is not an absolute quality; it depends on who does it. The verse shifts the measure from the act to the agent.
 
-This word will return in Sūrat al-Ṭalāq as well (not *yasīran* but *yusrā*, 65/4 and 65/7); I shall gather the shared vocabulary between the two neighbouring sūras at the end of the sūra.
+This word will return in Sūrat al-Ṭalāq as well (not *yasīran* but *yusrā*, 65/4 and 65/7); this shared vocabulary between the two neighbouring sūras is worth recording.
 
 ---
 
@@ -712,7 +712,7 @@ And this triad will be gathered into a single construct in the last verse of the
 
 "On the day He gathers you for the day of gathering. That is the day of mutual loss in the bargain. Whoever believes in God and does a righteous deed, He will cover over his evil deeds and admit him into gardens beneath which rivers flow, to remain there for ever. That is the great winning."
 
-The heart of the sūra. And the phrase that carries the sūra's name is here, in the second word of the verse.
+The heart of the sūra. And the phrase that carries the sūra's name is here, in the second sentence of the verse.
 
 ### يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ — the doubling of the gathering
 
@@ -840,7 +840,7 @@ Had *taghābun* been said and left there, the verse would have been a bleak stat
 
 > *wa man yuʾmin bi'llāhi wa yaʿmal ṣāliḥan…*
 
-**The conditional structure.** *Man* (whoever) is a conditional particle; two verbs form the condition, three the answer. And the condition consists of two items: **faith** and **righteous deed**. The eighth verse of the sūra had commanded faith; here a second condition is added beside it.
+**The conditional structure.** *Man* (whoever) is a conditional particle; two verbs form the condition, two the answer. And the condition consists of two items: **faith** and **righteous deed**. The eighth verse of the sūra had commanded faith; here a second condition is added beside it.
 
 This pair is one of the most frequently repeated formulas in the Qurʾān, and it sets up the general frame of the finding treated in `107-maun.md`: belief and conduct are given not as two separate headings but as **two items of a single list**.
 
@@ -938,6 +938,8 @@ The verse sets two verbs side by side and the two are not the same thing.
 - **كَذَّبُوا** — they cried lies. An outward operation: saying "this is a lie".
 
 This distinction was treated in `107-maun.md` and I do not repeat it: *kadhaba* (Form I) means "he told a lie" — the agent is a liar; *kadhdhaba* (Form II) means "he called another's true utterance a lie" — what he does is to reject what is true. And what was recorded there is this: *takdhīb* is not a silent denial but **an active stance, a taking up of position**.
+
+**The order of the two verbs is logical:** first the covering within, then the announcement without. Unbelief is a state; giving the lie is a declaration.
 
 And this connects with the second verse of the sūra: there only *kāfirun* had been said — a state. Here an act is added to the state.
 

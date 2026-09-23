@@ -8,7 +8,7 @@ The sūra begins with this indeterminacy and **ends with indeterminacy**: in the
 
 In between there are three things: **two quakings**, **a narrative** and **a table of creation.**
 
-And the backbone of the sūra lies in a single word: **طَغَىٰ.** The word occurs three times. First it is used of a particular person (*"Go to Pharaoh; he has run beyond all bounds"*), then it becomes an attribute (*"whoever runs beyond bounds and prefers the life of this world"*). The sūra recounts a historical figure and turns him into a **measure.**
+And the backbone of the sūra lies in a single word: **طَغَىٰ.** The word occurs twice. First it is used of a particular person (*"Go to Pharaoh; he has run beyond all bounds"*), then it becomes an attribute (*"whoever runs beyond bounds and prefers the life of this world"*). The sūra recounts a historical figure and turns him into a **measure.**
 
 ## Meccan or Medinan
 
@@ -936,7 +936,7 @@ In brief: the concrete sense of the root is **water's overrunning its bed**; *�
 
 In the section on al-ʿAlaq this was also recorded: this root is used in the Qurʾān most often of Pharaoh, and *"the furthest point of ṭughyān is to put oneself in the position of lord."* There the twenty-fourth verse of this sūra was cited as evidence.
 
-**What is to be added here is this: the place of كلم in the sentence.**
+**What is to be added here is this: the place of the word in the sentence.**
 
 The verse says *"Go to Pharaoh, for he has run beyond bounds."* That is, the running beyond bounds is given as the **ground** for going.
 
@@ -1088,7 +1088,7 @@ I record this as an observation; the repetitions of the word are a datum that ca
 
 **And now attend to the sūra's technique of narration.**
 
-From the seventeenth verse to the twenty-fifth there are nine verses, and all of them are joined with **فَ**:
+From the seventeenth verse to the twenty-fifth there are nine verses, and all but one of them are joined with **فَ**:
 
 *fa-qul (18) · fa-arāhu (20) · fa-kadhdhaba (21) · thumma adbara (22) · fa-ḥashara (23) · fa-qāla (24) · fa-akhadhahu (25)*
 
@@ -1460,7 +1460,7 @@ This is one of the most concrete verbal links between the two sūras and it is *
 
 Some of the grammarians count it an adjective of *al-samāʾ*; some count it an independent sentence. The second is the more widespread.
 
-**And the series of verbs begins here.** From the twenty-eighth verse to the thirty-second there are **eight verbs**, and all have the same agent, all are in the perfect, all are third person singular:
+**And the series of verbs begins here.** From the twenty-seventh verse to the thirty-second there are **eight verbs**, and all have the same agent, all are in the perfect, all are third person singular:
 
 *banā · rafaʿa · sawwā · aghṭasha · akhraja · daḥā · akhraja · arsā*
 
@@ -1506,7 +1506,7 @@ The order is meaningful: first the measure is given, then the balance is set. Th
 
 The verse does not say "night fell" or "darkness came down". It says **"He darkened"** — that is, the darkness is not an emptiness formed of itself by the withdrawal of light; it is **something done.**
 
-**This coincides with the finding recorded for غَاسِق in the section on Sūrat al-Falaq. What was written there was: *"In the conception carried by this Arabic root, darkness is not something that 'happens' but something that flows**. Not the cutting-off of light, but the pouring of darkness."*
+**This coincides with the finding recorded for غَاسِق in the section on Sūrat al-Falaq. What was written there was:** *"In the conception carried by this Arabic root, darkness is not something that 'happens' but something that flows. Not the cutting-off of light, but the pouring of darkness."*
 
 **Al-Nāziʿāt 79/29 gives the same idea with another root and more explicitly:** darkness is **made.**
 
@@ -1914,7 +1914,7 @@ And there this was written: *"The conditional clauses are exactly symmetrical…
 
 I record this as my own reading. The meanings of the four verbs are, however, dictionary data.
 
-### طَغَىٰ — for the third time
+### طَغَىٰ — for the second time
 
 **And the backbone of the sūra is completed here.**
 

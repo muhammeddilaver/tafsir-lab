@@ -17,7 +17,7 @@ Sûrenin ayrıca **Kıtâl** (**سُورَةُ ٱلْقِتَال** — savaş s
 | 3 | **Muhammed 47/2** | *"Muhammed'e indirilene iman edenler…"* |
 | 4 | **Fetih 48/29** | *"Muhammed, Allah'ın elçisidir."* |
 
-Bir beşincisi, başka bir biçimle: **أَحْمَد** — Saff 61/6'da Îsâ'nın müjdesinde. O kelime `061-saff.md` bölümünde ayrıntılı işlendi (ح-م-د kökü, *ahmed*in ism-i tafdîl mi ism-i fâil mi olduğu tartışması, ve kelimenin özel isim mi vasıf mı olduğu meselesi). **Tekrarlamıyorum.**
+Bir beşincisi, başka bir biçimle: **أَحْمَد** — Saff 61/6'da Îsâ'nın müjdesinde. O kelime `061-saff.md` bölümünde işlendi (ح-م-د kökü Fâtiha'ya havale ediliyor; orada tartışılan, *ahmed*in *ef'al* kalıbının fâil yönünde mi mef'ûl yönünde mi okunacağıdır). **Tekrarlamıyorum.**
 
 Burada yalnız şu kaydedilecek: **dört geçişin dördü de Medenî sûrelerdedir** ve dördünde de ismin yanında bir **sınır** ya da bir **konum belirlemesi** vardır. Âl-i İmrân "ancak bir elçidir" der; Ahzâb "babanız değildir" der; Fetih "Allah'ın elçisidir" der; ve burada, 47/2'de, iman edilen şey **ismin kendisi değil, "ona indirilen"**dir: *âmenû **bimâ nüzzile alâ** Muhammed.*
 
@@ -89,7 +89,7 @@ Sûrenin Medenî olduğunda ihtilaf yoktur. Metnin içindeki karineler bunu zate
 
 ## Bir usul kaydı: bu sûre nasıl okunmayacak
 
-STYLE gereği, bu sûreye girmeden önce iki sınır çizmek zorundayım. Bunlar okumayı baştan sona etkileyecek.
+STYLE gereği, bu sûreye girmeden önce üç sınır çizmek zorundayım. Bunlar okumayı baştan sona etkileyecek.
 
 **Bir. Bu sûre bir savaş hukuku metni değildir ve bu tefsirde ondan fıkhî hüküm çıkarılmayacaktır.** Dördüncü ayet, klasik fıkıhta esirler bahsinin en çok tartışılan metinlerinden biridir; o tartışmayı **ihtilaf tablosu hâlinde aktaracağım** ve hiçbir görüşü tercih etmeyeceğim. Bu tefsirin işi, metnin ne dediğini göstermektir; ne yapılacağını söylemek değildir.
 
@@ -142,7 +142,7 @@ Kökün iki yönü vardır ve ikisi de Kur'an'da bulunur:
 
 | Kullanım | Anlam | Örnek |
 |---|---|---|
-| **Geçişsiz** — *sadde an* | Kendisi yüz çevirdi | *"Seni görünce senden **yüz çevirirler**"* (Zuhruf 43/57'de aynı kökten *yasıddûn*) |
+| **Geçişsiz** — *sadde an* | Kendisi yüz çevirdi | *"Kavmin **ondan yüz çevirir**"* (Zuhruf 43/57'de aynı kökten *yasıddûn*) |
 | **Geçişli** — *sadde… an* | Başkasını alıkoydu | **Buradaki kullanım** |
 
 Aynı kökten **صَدِيد** (*sadîd*) — irin; ve **صَدَف** ile karıştırılmamalı. Ayrıca **الصَّدَد** — bir şeyin karşısı, önü; *"bu husûsta"* anlamındaki *"bu sadedde"* Türkçeye bu kökten geçmiştir.
@@ -461,7 +461,7 @@ Ve bir dil notu: dilciler aynı kökten **بَطَل** (*batal*) kelimesini de k
 
 Şu kadarı açık: ayet, kendisinden önceki iki ayeti **bir misal** olarak nitelendiriyor. Yani 1-2. ayetler yalnız iki grup hakkında bir hüküm değil; bir **örnek** olarak konmuş.
 
-Ve **م-ث-ل** kökü sûrede üç kez geçecek: burada (3), 47/10'da (*ve li'l-kâfirîne emsâlühâ*), ve **sûrenin son kelimesinde** (47/38: *sümme lâ yekûnû emsâleküm*). Sûre bir "misal" kelimesiyle çerçeveleniyor.
+Ve **م-ث-ل** kökü sûrede dört kez geçecek: burada (3), 47/10'da (*ve li'l-kâfirîne emsâlühâ*), 47/15'te (*meselü'l-cenneti*), ve **sûrenin son kelimesinde** (47/38: *sümme lâ yekûnû emsâleküm*). Sûre bir "misal" kelimesiyle çerçeveleniyor.
 
 ---
 
@@ -923,9 +923,9 @@ Bir ayrıntı: fiil **mâzî**dir (*arrafe*), oysa etrafındaki fiiller muzârid
 
 ### Sûrenin ilk nidâsı
 
-**Sûre altı ayet boyunca üçüncü şahısla konuştu.** "İnkâr edenler", "iman edenler", "onlar". Muhatap yok; anlatılan bir durum var.
+**Sûre altı ayet boyunca üçüncü şahıslardan söz etti.** "İnkâr edenler", "iman edenler", "onlar". Nidâ yok; anlatılan bir durum var.
 
-**Ve yedinci ayette ilk kez doğrudan hitap geliyor:** *yâ eyyühe'llezîne âmenû.*
+**Ve yedinci ayette ilk kez nidâ geliyor:** *yâ eyyühe'llezîne âmenû.*
 
 Bu, sûrede iki kez olacak: **7** ve **33**. İkisi de birer emirle geliyor, ve ikisi de sûrenin yön değiştirdiği noktalar.
 
@@ -1223,7 +1223,7 @@ Ve bu, Kur'an'ın başka yerlerde kullandığı bir resimdir. Nahl 16/26: *"…A
 
 **Fark büyük değil; kaydetmekle yetiniyorum.**
 
-**Ve م-ث-ل kökünün sûredeki ikinci geçişi burasıdır** (3, **10**, 38). Üçüncü ayette Allah insanlara "misallerini" veriyordu; burada kâfirler için "onun benzerleri" var; ve sûrenin son kelimesi yine bu kökten olacak.
+**Ve م-ث-ل kökünün sûredeki ikinci geçişi burasıdır** (3, **10**, 15, 38). Üçüncü ayette Allah insanlara "misallerini" veriyordu; burada kâfirler için "onun benzerleri" var; ve sûrenin son kelimesi yine bu kökten olacak.
 
 ### Bugüne bakan yönü
 
@@ -1873,7 +1873,7 @@ Dört ırmak da içilecek şeylerdir; yani onlar da içeriye girer. Ayet, iki ta
 | **1** | **Sıfat, durum, tarif** | Tasvir doğrudan bir tariftir |
 | **2** | **Temsil, benzetme** | Tasvir bir benzetmedir |
 
-**Tercih yapmıyorum.** Şu kadarını kaydediyorum: **م-ث-ل kökü bu sûrede üç kez geçiyor** (3, 10, 38) ve üçüncü ayetteki geçişi açıkça "misal verme" anlamındaydı: *kezâlike yadribu'llâhu li'n-nâsi emsâlehüm.*
+**Tercih yapmıyorum.** Şu kadarını kaydediyorum: **م-ث-ل kökü bu sûrede dört kez geçiyor** (3, 10, 15, 38) ve üçüncü ayetteki geçişi açıkça "misal verme" anlamındaydı: *kezâlike yadribu'llâhu li'n-nâsi emsâlehüm.*
 
 **Bu, ikinci görüşü destekler görünmektedir; ama bir kökün bir sûre içinde aynı anlamda kullanılması zorunlu değildir ve tercih yapmıyorum.**
 
@@ -2160,7 +2160,7 @@ Yani: *hedâhu fe'htedâ* — "ona yol gösterdi, o da yola girdi". Fiil, dışa
 
 **Ve bu iki anlam kökte birbirine bağlıdır:** *nazar*, bir yöne çevrilmiş bakıştır; ve bir şeyi beklemek de gözünü o yöne çevirmektir. Aynı kökten **إِنْتِظَار** (*intizâr* — bekleyiş) ve **مُنْتَظِر** gelir.
 
-**Sûre aynı kökü iki ayet arayla iki anlamda kullanıyor:**
+**Sûre aynı kökü sekiz ayet arayla iki anlamda kullanıyor:**
 
 | Ayet | İfade | Anlam |
 |---|---|---|
@@ -2588,7 +2588,7 @@ Ve somut kaynağı ilgi çekicidir: **حَكَمَة** — atın ağzına takıl
 
 **Kelimenin kökünde bir *ortaklık* fikri vardır:** *ma'rûf*, herkesin bildiği ve tanıdığı şeydir. Karşıtı **مُنكَر** (*münker*) — **"tanınmayan, yadırganan"**; aynı mantıkla kurulmuş.
 
-**Ve bu kök beşinci ayette de geçmişti: عَرَّفَهَا لَهُمْ.** Sûre içinde ikinci geçiş.
+**Ve bu kök altıncı ayette de geçmişti: عَرَّفَهَا لَهُمْ.** Sûre içinde ikinci geçiş.
 
 **قَوْلٌ مَّعْرُوفٌ** — "bilinen/makul bir söz". Yani abartısız, yerinde, karşı tarafın da tanıyacağı bir söz.
 
@@ -4431,14 +4431,14 @@ Cümle şöyle olabilirdi:
 
 **Ayet, bir önceki ayetin son cümlesini alıp tersine çeviriyor ve ne olacağını anlatıyor.**
 
-**Ve dizim, üç fiili bir zincire diziyor:**
+**Ve dizim, dört fiili bir zincire diziyor:**
 
 1. **يَسْـَٔلْكُمُوهَا** — istese,
 2. **فَيُحْفِكُمْ** — ve sıkıştırsa,
 3. **تَبْخَلُوا۟** — cimrilik edersiniz,
 4. **وَيُخْرِجْ أَضْغَٰنَكُمْ** — ve kinlerinizi çıkarır.
 
-**Üç fiil de meczûm** (şart cümlesinin parçaları). Ve zincir, sebepten sonuca doğru ilerliyor.
+**Dört fiil de meczûm** (şart cümlesinin parçaları). Ve zincir, sebepten sonuca doğru ilerliyor.
 
 ### أَحْفَىٰ — ح-ف-و kökü
 
@@ -4707,9 +4707,9 @@ Aynı kökten **بَدَل** (bedel), **تَبْدِيل** (değiştirme), **إ�
 
 **Ve şunu kaydediyorum:** cümle, gelecek topluluğun **ne olacağını** söylemiyor; yalnız **ne olmayacağını** söylüyor. Tarif, olumsuzlama yoluyla veriliyor — tıpkı 15. ayetteki dört ırmağın nitelenmesi gibi.
 
-### م-ث-ل kökünün üçüncü ve son geçişi — ve sûrenin çerçevesi
+### م-ث-ل kökünün dördüncü ve son geçişi — ve sûrenin çerçevesi
 
-**أَمْثَٰلَكُمْ, sûrenin son kelimesidir. Ve م-ث-ل kökünün üçüncü geçişidir.**
+**أَمْثَٰلَكُمْ, sûrenin son kelimesidir. Ve م-ث-ل kökünün dördüncü geçişidir. Kökün zamir eki alan üç geçişi yan yana konabilir:**
 
 | Ayet | İfade | Kim hakkında |
 |---|---|---|
@@ -4814,7 +4814,7 @@ Bu tefsirin başında kurduğum tablo, sûre boyunca izlendi ve tamamlandı:
 
 - **47/4 — kıraat farkı** (*kutilû* / *kātelû*) aktarıldı ve tercih yapılmadı; iki okuyuşun birbirini tamamladığı yorumu bana aittir.
 
-- **47/5 — *arrafehâ lehüm*.** Üç okuma (tanıtma / güzel koku / sınır belirleme) tablo hâlinde verildi, tercih yapılmadı; üçünü "yabancılığın kalkması" başlığı altında birleştirme denemesi **kendi okumamdır.**
+- **47/6 — *arrafehâ lehüm*.** Üç okuma (tanıtma / güzel koku / sınır belirleme) tablo hâlinde verildi, tercih yapılmadı; üçünü "yabancılığın kalkması" başlığı altında birleştirme denemesi **kendi okumamdır.**
 
 - **47/12 — hayvan benzetmesi.** Benzetmenin faile değil fiile bağlandığı gramer verisidir; buradan çıkarılan "ölçüm" yorumu **kendi çıkarımımdır.** Ve ayetin bir kimliğe değil bir vasfa hüküm kurduğu STYLE gereği ayrıca kaydedildi.
 

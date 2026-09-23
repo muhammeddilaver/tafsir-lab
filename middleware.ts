@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { LANG_COOKIE } from "@/lib/i18n";
+import { LANG_COOKIE, LANGS, ROUTES, SOURCE_LANG, type Lang } from "@/lib/i18n";
 
 /**
  * Picks the entry language. Runs on "/" ONLY.
@@ -8,8 +8,8 @@ import { LANG_COOKIE } from "@/lib/i18n";
  * search result, that is the page they asked for. Throwing them to
  * /en/sura/2 because their browser is English would override an explicit
  * choice — and that is exactly the case Google warns about for language
- * redirects. /en is not redirected either, for the same reason: an explicit
- * link to it was clicked.
+ * redirects. /en and /id are not redirected either, for the same reason: an
+ * explicit link to them was clicked.
  *
  * Order: explicit choice (cookie) > browser language (Accept-Language) >
  * default (tr). The cookie is written only when the language link in the top
@@ -22,8 +22,10 @@ import { LANG_COOKIE } from "@/lib/i18n";
  * — that would be cloaking.
  */
 
+const isLang = (v: string | undefined): v is Lang => !!v && (LANGS as string[]).includes(v);
+
 /** Ranks Accept-Language by q value and returns the first language we support. */
-function negotiate(header: string | null): "tr" | "en" | null {
+function negotiate(header: string | null): Lang | null {
   if (!header) return null;
   const ranked = header
     .split(",")
@@ -38,8 +40,10 @@ function negotiate(header: string | null): "tr" | "en" | null {
   for (const { tag } of ranked) {
     // For regional tags such as "tr-TR" and "en-GB" the primary subtag is enough.
     const primary = tag.split("-")[0];
-    if (primary === "tr") return "tr";
-    if (primary === "en") return "en";
+    // "in" is the old ISO 639 code for Indonesian; some Android builds still
+    // send it, and browsers that send "id" send it as the primary subtag.
+    if (primary === "in") return "id";
+    if (isLang(primary)) return primary;
   }
   // If none of the languages we support is listed, fall back to the language
   // the text itself is written in.
@@ -48,12 +52,12 @@ function negotiate(header: string | null): "tr" | "en" | null {
 
 export function middleware(req: NextRequest) {
   const saved = req.cookies.get(LANG_COOKIE)?.value;
-  const lang =
-    saved === "tr" || saved === "en" ? saved : negotiate(req.headers.get("accept-language"));
+  const lang = isLang(saved) ? saved : negotiate(req.headers.get("accept-language"));
 
+  // The source language is served at "/" itself; anything else is a redirect.
   const res =
-    lang === "en"
-      ? NextResponse.redirect(new URL("/en", req.url), 307)
+    lang && lang !== SOURCE_LANG
+      ? NextResponse.redirect(new URL(ROUTES[lang].home, req.url), 307)
       : NextResponse.next();
 
   // Vary goes on the redirect. It cannot go on the 200 that continues to the

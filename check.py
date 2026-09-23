@@ -129,6 +129,35 @@ def broken_bold(line):
         return True          # a double opener such as ****x**; rendering breaks
     return any(m.group(1) != m.group(1).strip() for m in R_EM2.finditer(t))
 
+LAT = "A-Za-z\u00c0-\u024f\u02bb\u02bc\u02be\u02bf\u1e00-\u1eff"
+R_SPLIT_EM = re.compile(rf"(?<=[{LAT}])\*[{LAT}]{{1,3}}\*(?=[{LAT}])")
+
+def broken_italic(line):
+    """An italic pair opened inside a word. lib/md.ts pairs `*...*` with a
+    regex that cannot span another `*`, so `*tesk*i*f*` renders as two
+    separate <em>s with a bare letter stranded between them."""
+    return bool(R_SPLIT_EM.search(re.sub(r"\*\*", "\x00\x00", line)))
+
+def check_italic(target=None):
+    total = 0
+    for path in files():
+        m = re.match(r"^(\d+)-", os.path.basename(path))
+        if not m:
+            continue
+        if target and int(target) != int(m.group(1)):
+            continue
+        with open(path, encoding="utf-8") as f:
+            bad = [i + 1 for i, l in enumerate(f.read().split("\n")) if broken_italic(l)]
+        if bad:
+            total += len(bad)
+            print(f"{os.path.basename(path):22s} {len(bad):4d} lines: "
+                  + ", ".join(str(n) for n in bad[:20])
+                  + (" ..." if len(bad) > 20 else ""))
+    if total:
+        print(f"Broken italic emphasis: {total} lines.")
+    else:
+        print("No broken italic emphasis.")
+
 def check_bold(target=None):
     total = 0
     for path in files():
@@ -152,8 +181,11 @@ def check_bold(target=None):
 def main():
     global SRC_DIR
     args = sys.argv[1:]
-    if args and args[0] == "--dir":
-        SRC_DIR = args[1]; args = args[2:]
+    while "--dir" in args:                     # accepted anywhere, not just first
+        i = args.index("--dir")
+        if i + 1 >= len(args):
+            sys.exit("--dir needs a directory")
+        SRC_DIR = args[i + 1]; args = args[:i] + args[i + 2:]
     sys.argv = [sys.argv[0]] + args
     if len(sys.argv) > 1 and sys.argv[1] == "verses":
         check_verses(); return
@@ -161,6 +193,8 @@ def main():
         check_refs(); return
     if len(sys.argv) > 1 and sys.argv[1] == "bold":
         check_bold(sys.argv[2] if len(sys.argv) > 2 else None); return
+    if len(sys.argv) > 1 and sys.argv[1] == "italic":
+        check_italic(sys.argv[2] if len(sys.argv) > 2 else None); return
     target = sys.argv[1] if len(sys.argv) > 1 else None
     flagged = 0
     for path in files():

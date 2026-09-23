@@ -2,7 +2,7 @@
 
 Yetmiş sekiz ayet. Adını ilk ayetten alıyor — ve ilk ayet tek bir kelimeden ibaret: **ٱلرَّحْمَٰنُ.**
 
-Bu sûre, Kur'an'da biçimi en görünür olan iki sûreden biridir. Diğeri Mürselât'tır ve orada on kez tekrarlanan bir cümlenin metni dokuz bölüme ayırdığı gösterilmişti. Burada aynı teknik, **üç kat yoğunlukta** işletiliyor:
+Bu sûre, Kur'an'da biçimi en görünür olan iki sûreden biridir. Diğeri Mürselât'tır ve orada on kez tekrarlanan bir cümlenin metni on bölüme ayırdığı gösterilmişti. Burada aynı teknik, **üç kat yoğunlukta** işletiliyor:
 
 > **فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ**
 
@@ -76,7 +76,7 @@ Bir de sûrenin bir kısmının Mekkî bir kısmının Medenî olduğunu söyley
 
 Tablodan hemen görünen iki şey var ve ikisi de sûrenin okunuşunu belirliyor:
 
-**Bir.** Nakaratların **on altısı** — yani yarısından fazlası — bahçe bölümlerindedir. Mürselât'ta dokuz bölümden yalnız biri müjde bölümüydü; burada otuz bir bölümün on altısı müjdedir. **İki sûre aynı tekniği kullanıp ağırlığı ters tarafa koymuş.**
+**Bir.** Nakaratların **on altısı** — yani yarısından fazlası — bahçe bölümlerindedir. Mürselât'ta on bölümden yalnız biri müjde bölümüydü; burada otuz bir bölümün on altısı müjdedir. **İki sûre aynı tekniği kullanıp ağırlığı ters tarafa koymuş.**
 
 **İki.** İki bahçe bölümü **birebir eşit** sayıda nakarat alıyor: sekiz ve sekiz. Bu simetri tesadüf gibi durmuyor ve aşağıda ayrı bir bölümde ele alacağım.
 
@@ -141,7 +141,7 @@ Rahmân'da bu böyle değil.
 | İlk bölüm | 7 ayet | **12 ayet** |
 | Son bölüm | 1 ayet | 1 ayet |
 | Aradaki eğri | Kademeli iniş (7 → 3 → 4 → 3 → 5 → 2 → 2 → 4 → 1 → 1) | **Bir kerede düşüş, sonra sabit** |
-| İki ayetlik bölüm sayısı | 3 | 4 |
+| İki ayetlik bölüm sayısı | 2 | 4 |
 | Tek ayetlik bölüm sayısı | 2 | **26** |
 
 Sayılar şöyle: Rahmân'ın ilk bölümü on iki ayet. Geri kalan otuz bölümün dördü iki ayet, **yirmi altısı tek ayet.** Yani sûre birinci nakarattan sonra mümkün olan en yüksek tempoya çıkıyor ve **sonuna kadar orada kalıyor.**
@@ -324,7 +324,7 @@ Bu okuma azap bölümlerini sorunsuz karşılar — ateş de bir kudret belirtis
 
 Şimdi asıl noktaya geliyorum ve bunu **kendi okumam** olarak kaydediyorum.
 
-Nakarat, bulunduğu yere göre **hiç değişmiyor.** Bahçeden sonra da, cehennemden sonra da aynı otuz harf. Sûre, bir bölümün "iyi" bir bölümün "kötü" olduğunu belirtmek için nakaratta en küçük bir oynama yapmıyor.
+Nakarat, bulunduğu yere göre **hiç değişmiyor.** Bahçeden sonra da, cehennemden sonra da aynı yirmi harf. Sûre, bir bölümün "iyi" bir bölümün "kötü" olduğunu belirtmek için nakaratta en küçük bir oynama yapmıyor.
 
 **Bu bir tercihtir ve tercihin kendisi bir hüküm taşıyor:** metin, anlattığı şeyleri **nimet ve nimet-olmayan diye ikiye ayırmayı reddediyor.**
 
@@ -681,11 +681,11 @@ Rahmân'da insana verilen şeyin adı **beyân**dır — ve bu kelimenin kökü 
 | Karşı taraf | **Melekler** bilemedi | — |
 | Sonuç | İnsanın konumu bilgiyle kuruluyor | İnsanın vasfı beyanla kuruluyor |
 
-**Fiilin aynı olması tesadüf değil.** Alak bölümünde de aynı tablo kurulmuş ve *alleme* fiilinin üç yerde aynı işi gördüğü gösterilmişti (Bakara 2/31, Alak 96/5, Rahmân 55/2-4).
+**Fiilin aynı olması tesadüf değil.** Alak bölümünde de aynı tablo kurulmuş ve *alleme* fiilinin iki yerde aynı işi gördüğü gösterilmişti (Bakara 2/31-32, Alak 96/5).
 
 **Ve buradan çıkan sonuç, bu sûre için merkezîdir:**
 
-Bakara'da insanın ayrıcalığı adlandırmadaydı, ve o bölümde şu kayıt düşülmüştü: *"bilgi bir ayrıcalıktır, ve her ayrıcalık gibi yanlış anlaşılmaya açıktır."*
+Bakara'da insanın ayrıcalığı adlandırmadaydı, ve Alak bölümünde şu kayıt düşülmüştü: *"bilgi bir ayrıcalıktır, ve her ayrıcalık gibi yanlış anlaşılmaya açıktır."*
 
 Rahmân bunu bir adım ileri taşıyor. Dördüncü ayette insana **beyân** veriliyor — ayırt etme ve ayırdığını söyleyebilme yetisi. Ve dokuz ayet sonra, o yetiyi kullanan insana soruluyor: **تُكَذِّبَانِ** — yalanlıyor musunuz?
 
@@ -734,7 +734,7 @@ Ve orada bu tespitin delili olarak verilen ayetlerden biri tam bu ayetti.
 
 **Anlamda ikisi de aynı yere çıkıyor:** güneş ile ay bir hesaba bağlıdır, rastgele hareket etmezler.
 
-**Ve kelimenin ikinci bir kullanımı var, kaydedilmesi gerekiyor:** aynı kelime Kur'an'da bir kez daha geçer ve orada gökten gönderilen bir felaketi adlandırır:
+**Ve kelimenin ikinci bir kullanımı var, kaydedilmesi gerekiyor:** aynı kelime Kur'an'da iki yerde daha geçer — En'âm 6/96'da yine güneş ile ayın hesabı için, Kehf 18/40'ta ise gökten gönderilen bir felaketi adlandırmak için:
 
 > *"…üzerine gökten bir **husbân** gönderir de kaygan bir toprak haline gelir."* (Kehf 18/40)
 
@@ -1743,7 +1743,7 @@ Bakara 2/115'te *vech* Allah için kullanılıyordu ve orada kaydedildiği gibi 
 
 ### ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَام — celâl ve ikram sahibi
 
-**Bu tamlama sûrede iki kez geçiyor: burada (27) ve son ayette (78).** İkisi arasında yetmiş bir ayet var ve ikisi sûrenin çerçevesini kuruyor. Aşağıda son ayette bu çerçeveyi ayrıca ele alacağım.
+**Bu tamlama sûrede iki kez geçiyor: burada (27) ve son ayette (78).** İkisi arasında elli ayet var ve ikisi sûrenin çerçevesini kuruyor. Aşağıda son ayette bu çerçeveyi ayrıca ele alacağım.
 
 **ٱلْجَلَال — kök ج-ل-ل.** Büyüklük, yücelik, azamet. *Celîl* (yüce), *ecell* (daha yüce), *celâlet* aynı kökten. Kökün somut çekirdeği **büyüklük ve ağırlık**tır; ve Arapçada bu büyüklük **uzaklık** ve **heybet** doğurur.
 
@@ -2202,7 +2202,7 @@ Ve bu ayetle aynı yönde bir başka ayet daha vardır:
 | **Günün iki ayrı vakti** | O günün uzun safhaları vardır; bir safhada sorulur, bir safhada sorulmaz |
 | **Sorulmaması, tanınmalarındandır** | Bir sonraki ayet bunu söylüyor: *"Suçlular simalarından tanınır."* Tanınan birine kimliği sorulmaz |
 
-**Üçüncü izah, dizim bakımından en güçlü olanıdır** ve metnin kendisinden çıkar: otuz dokuzuncu ayet "sorulmaz" der, kırk birinci ayet "simalarından tanınır" der. İkisi arka arkaya gelen iki nakaratla ayrılmış olsa da aynı sahnenin parçalarıdır.
+**Üçüncü izah, dizim bakımından en güçlü olanıdır** ve metnin kendisinden çıkar: otuz dokuzuncu ayet "sorulmaz" der, kırk birinci ayet "simalarından tanınır" der. İkisi tek bir nakaratla ayrılmış olsa da aynı sahnenin parçalarıdır.
 
 **Bu tefsirde eğilim üçüncü izahtan yanadır ve bağlayıcı değildir.** Birinci izah da klasik kaynaklarda yaygındır ve elenmez.
 
@@ -2596,7 +2596,7 @@ Bunu bir gözlem olarak kaydediyorum; iki ayetin lafızları metindedir. İki s�
 
 **İkisi de nakledilir ve tercih dayatmıyorum.** İkisi birbirini de dışlamaz: çok dallı bir bahçe, çok çeşitli bir bahçedir.
 
-**Bir dizim notu:** ayet tek kelimelik bir tamlamadan ibarettir ve öznesi bir önceki ayette (46) geçen *cennetân*dır. Yani nakarat araya girmiş olmasına rağmen cümle sürüyor.
+**Bir dizim notu:** ayet tek bir tamlamadan ibarettir ve öznesi bir önceki ayette (46) geçen *cennetân*dır. Yani nakarat araya girmiş olmasına rağmen cümle sürüyor.
 
 **Bu, bu bölümün genel özelliğidir ve kaydedilmesi gerekiyor:** nakarat, cümleleri bölmüyor. Kırk altıncı ayetin öznesi, kırk sekizinci ayetin sıfatı, ellinci ayetin *fîhimâ*sı, elli ikinci ayetin *fîhimâ*sı — hepsi aynı ikiliye bağlı. Araya sekiz nakarat giriyor ve gramer bağı kopmuyor.
 
@@ -3121,7 +3121,7 @@ Bunu bir kelime örgüsü gözlemi olarak kaydediyorum; iki kelimenin kökü kon
 
 ### ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَام — ve sûrenin çerçevesi
 
-**Tamlama sûrede iki kez geçiyor: 27 ve 78.** Ve arasında yetmiş bir ayet var.
+**Tamlama sûrede iki kez geçiyor: 27 ve 78.** Ve arasında elli ayet var.
 
 **Ama iki geçiş birebir aynı değil, ve fark bir gramer farkıdır:**
 
@@ -3184,7 +3184,7 @@ Sûrenin yapısı yukarıda "Nakaratın konumları" başlığında tablo halinde
 | **III** | 46-77 | **16** | **İki çift bahçe** |
 | — | 78 | — | Kapanış |
 
-**İki — nakaratın yarısından fazlası mükâfat tarafındadır.** Otuz bir nakaratın on altısı bahçe bölümlerinde. Mürselât'ta dokuz bölümden yalnız biri müjde bölümüydü.
+**İki — nakaratın yarısından fazlası mükâfat tarafındadır.** Otuz bir nakaratın on altısı bahçe bölümlerinde. Mürselât'ta on bölümden yalnız biri müjde bölümüydü.
 
 **Üç — sûre ritmini bir kez kurup hiç değiştirmiyor.** İlk on iki ayetten sonra bölümler bir ya da iki ayetliktir ve sonuna kadar öyle kalır.
 
@@ -3415,7 +3415,7 @@ Rahmân iki bahçe çiftiyle bitiyor; Vâkıa üç sınıfla başlıyor.
 
 - **55/54'teki إستبرق ve 55/58'deki ياقوت kelimelerinin yabancı kökenli sayıldığı** kaydedildi ve **kesin konuşulmadı.**
 
-- **55/72'deki عبقري kelimesinin *Abkar* yer adına bağlanması** dilcilerin kaydettiği bir açıklama olarak aktarıldı; **kesin bir etimoloji olarak sunulmadı.** Aynı kayıt **حور** kökünün kolları için de düşüldü.
+- **55/76'daki عبقري kelimesinin *Abkar* yer adına bağlanması** dilcilerin kaydettiği bir açıklama olarak aktarıldı; **kesin bir etimoloji olarak sunulmadı.** Aynı kayıt **حور** kökünün kolları için de düşüldü.
 
 - **55/78'deki تبارك fiilinin Kur'an'da daima bu kalıpta ve daima Allah için kullanıldığı** tespiti, Kur'an metninden çıkarılmış bir **gözlem** olarak sunuldu.
 

@@ -27,9 +27,9 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 - **Block I and block VI are joined by the same verb:** *iqtaraba* (1) — *wa'qtaraba* (97).
 - **Block II opens with *lāʿibīn*** (16) and the same word occurs once more **in block IV, in the question put to Abraham**: *am anta mina'l-lāʿibīn* (55).
-- **The root *waṣf* occurs three times in block II and once in the last verse of block VI:** *mimmā taṣifūn* (18) — *ʿammā yaṣifūn* (22) — *ʿalā mā taṣifūn* (112).
+- **The root *waṣf* occurs twice in block II and once in the last verse of block VI:** *mimmā taṣifūn* (18) — *ʿammā yaṣifūn* (22) — *ʿalā mā taṣifūn* (112).
 
-**And the sūra's densest word is the root ذ-ك-ر:** 2, 7, 10, 24, 36, 42, 48, 50, 105 — in nine verses. In this sūra the Qurʾān names itself *dhikr* in five separate places. **This is a countable fact; it will be tabulated at the end.**
+**And the sūra's densest word is the root ذ-ك-ر:** 2, 7, 10, 24, 36, 42, 48, 50, 84, 105 — in ten verses. In this sūra the Qurʾān names itself *dhikr* in five separate places. **This is a countable fact; it will be tabulated at the end.**
 
 ---
 
@@ -599,7 +599,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **The verse does not give the second premise.** After saying *la-fasadatā* it passes straight to glorification.
 
-**I record this as my own reading, and its ground is the incompleteness of the sentence:** the second premise **has been left to the eye of the one addressed.** It is not the verse that says the heaven and the earth have not broken down, but **the one who looks.** The proof is, for exactly this reason, not a sentence of debate but **a call to look** — and the sūra will do this openly three verses later: *awalam yara'lladhīna kafarū* (30).
+**I record this as my own reading, and its ground is the incompleteness of the sentence:** the second premise **has been left to the eye of the one addressed.** It is not the verse that says the heaven and the earth have not broken down, but **the one who looks.** The proof is, for exactly this reason, not a sentence of debate but **a call to look** — and the sūra will do this openly eight verses later: *awalam yara'lladhīna kafarū* (30).
 
 **And a second observation:** the verse does not say **why** it would break down either. No chain of causes is set up. **The only thing the sentence gives is that plurality and order cannot stand together.**
 
@@ -2463,7 +2463,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 
 **That is, three sūras give the same fact in three different ways: two by wording, one by structure.** **I offer this as a reading; the wording of the three verses is verifiable, the interpretation of the structure is mine.**
 
-**كُلٌّ إِلَيْنَا رَٰجِعُونَ** — ***kull* with nunation, followed by a predicate in the plural of rational beings.** **And the verb occurred in the sūra's thirty-fifth verse:** *wa ilaynā **turjaʿūn***. **The same root (ر-ج-ع), one a verb and one a noun.** **And the same root occurred in the sixty-fourth verse too (*fa-rajaʿū ilā anfusihim*).** **The root is in three places in the sūra: 35, 64, 93.** **It is a countable fact.**
+**كُلٌّ إِلَيْنَا رَٰجِعُونَ** — ***kull* with nunation, followed by a predicate in the plural of rational beings.** **And the verb occurred in the sūra's thirty-fifth verse:** *wa ilaynā **turjaʿūn***. **The same root (ر-ج-ع), one a verb and one a noun.** **And the same root occurred in the sixty-fourth verse too (*fa-rajaʿū ilā anfusihim*).** **The root is in five places in the sūra: 35, 58, 64, 93, 95.** **It is a countable fact.**
 
 ---
 
@@ -3084,7 +3084,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 | **تَصِفُونَ / يَصِفُونَ** | **18**, **22**, **112** | Beginning, middle, end |
 | **لَٰعِبِين** | **16** (creating) — **55** (the question put to Abraham) | The rejected word turns into an accusation |
 | **مُّعْرِضُونَ** | **1**, **24**, **32**, **42** | Four times, always after a proof |
-| **ذ-ك-ر** | **2, 7, 10, 24, 36, 42, 48, 50, 105** | **Nine verses** — the sūra's densest root |
+| **ذ-ك-ر** | **2, 7, 10, 24, 36, 42, 48, 50, 84, 105** | **Ten verses** — the sūra's densest root |
 | **ٱلرَّحْمَٰن** | **26**, **36**, **42**, **112** | The name objected to, the name taken refuge in at the last verse |
 | **فَٰعِلِين** | **17**, **68**, **79**, **104** | Two the text's, one the people's, one God's act |
 | **س-ب-ح** | **20** (those with Him), **33** (the heavenly bodies), **79** (the mountains) | Three different subjects, the same root |
@@ -3100,7 +3100,7 @@ And when the series ends the sūra sets down its verdict in a single sentence: *
 | **ع-ق-ل (أَفَلَا تَعْقِلُونَ)** | **10** (the text), **67** (Abraham) | The same question, two mouths |
 | **س-أ-ل** | **13** (*laʿallakum tusʾalūn*), **23** (*lā yusʾalu … yusʾalūn*) | What is said in mockery turns into a ruling |
 | **ح-س-س** | **12** (*aḥassū baʾsanā*), **102** (*lā yasmaʿūna ḥasīsahā*) | Sensing and not sensing |
-| **ر-ج-ع** | **35**, **58**, **64**, **93** | The verb of returning, with four different destinations |
+| **ر-ج-ع** | **35**, **58**, **64**, **93**, **95** | The verb of returning, with five different destinations |
 | **فَٱعْبُدُونِ** | **25** (before the series), **92** (after the series) | The series lies between these two sentences |
 | **فِتْنَة** | **35** (evil and good), **111** (the delay) | The scope of the testing widens |
 | **ح-س-ب** | **1** (*ḥisābuhum*), **47** (*ḥāsibīn*) | The owner of what draws near is named |

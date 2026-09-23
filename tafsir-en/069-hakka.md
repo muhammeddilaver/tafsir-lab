@@ -1091,7 +1091,7 @@ Here that function is removed. **The thing that is stood upon is lifted away.**
 
 I record this as my own reading. Its ground is the sense of the verb and the order of the two verbs.
 
-**And the third occurrence of the root ح-م-ل is here.** In the eleventh verse God carried human beings; here the earth and the mountains are carried. The same verb: the one to save, the other to beat.
+**And the second occurrence of the root ح-م-ل is here.** In the eleventh verse God carried human beings; here the earth and the mountains are carried. The same verb: the one to save, the other to beat.
 
 ### فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ — "on that day the befalling befalls"
 
@@ -1390,11 +1390,11 @@ From the first verse to the eighteenth the verse-ending was *-iya*. In the ninet
 
 And the new sound is built by a letter added at the end: **هَاء ٱلسَّكْت** (the *hāʾ* of pause). This letter was treated in the section on al-Qāriʿa, and this was recorded there: the letter has no meaning, it is there **for the preservation of the sound**; and its densest use in the Qurʾān is in Sūrat al-Ḥāqqa.
 
-Now let us see that density. The *hāʾ* of pause occurs in **five** places in the sūra, and all of them are inside these two scenes:
+Now let us see that density. The *hāʾ* of pause occurs in **six** places in the sūra, and all of them are inside these two scenes:
 
 | Verse | Word | Who says it |
 |---|---|---|
-| 19 | *كِتَٰبِيَهْ* | Those on the right |
+| 19-20 | *كِتَٰبِيَهْ* · *حِسَابِيَهْ* | The one on the right |
 | 25 | *كِتَٰبِيَهْ* | The one on the left |
 | 26 | *حِسَابِيَهْ* | The one on the left |
 | 28 | *مَالِيَهْ* | The one on the left |
@@ -2000,7 +2000,7 @@ Some classical exegetes read the seventy here in the same way; others count it a
 
 **But that a measure has been given is worth recording**, and it suggests the following — which I record as my own reading:
 
-Two verses earlier the man had spoken of two things: **his wealth** and **his authority.** No measure was given for either. How much wealth he had, how wide his authority was — the sūra does not say.
+Three verses earlier the man had spoken of two things: **his wealth** and **his authority.** No measure was given for either. How much wealth he had, how wide his authority was — the sūra does not say.
 
 The only thing whose measure is given is **the chain.**
 
@@ -2096,7 +2096,7 @@ The structure *kāna* + imperfect conveys in Arabic **a condition that continued
 
 What is charged, that is, is not a moment but a **span.** And the span is over; *kāna* is in the perfect.
 
-This makes a contrast with the sentence of the right-hand man in the nineteenth verse: he too used the perfect (*ẓanantu* — "I thought"). Both men use the past tense; the one tells of a conviction now closed, the other of a denial now closed.
+This makes a contrast with the sentence of the right-hand man in the twentieth verse: he too used the perfect (*ẓanantu* — "I thought"). Both men use the past tense; the one tells of a conviction now closed, the other of a denial now closed.
 
 ### بِٱللَّهِ ٱلْعَظِيمِ — "God the Mighty"
 
@@ -2554,7 +2554,7 @@ I record this reading as an attempt; I ascribe it to no classical exegete and do
 
 ### تَذَكَّرُونَ and the sūra's second "tadhkira"
 
-**The root ذ-ك-ر occurs three times in this sūra**, and the three fall one in each of the sūra's three parts:
+**The root ذ-ك-ر occurs three times in this sūra**, and one falls in the part on history, two in the part on revelation:
 
 | Verse | Word | Part | What it conveys |
 |---|---|---|---|

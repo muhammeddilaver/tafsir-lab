@@ -1813,7 +1813,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 |---|---|---|
 | Zümer 39/58 | *Lev enne lî kerraten* — **geri dönme isteği** | *Belâ kad câetke âyâtî* — **âyetler gelmişti** |
 | Ğâfir 40/85 | *Lemmâ raev be'senâ* — **azabı görünce** | *Sünnetallâh* — **süregelen kural** |
-| **Yûnus 10/91** | *Hattâ izâ edrakehü'l-ğarak* — **boğulurken** | *Ve kad **asayte kablü*** — **geçmişteki isyan** |
+| **Yûnus 10/90** | *Hattâ izâ edrakehü'l-ğarak* — **boğulurken** | *Ve kad **asayte kablü*** — **geçmişteki isyan** |
 
 **Ve Yûnus'un eklediği kaydedilmelidir: gerekçe bir kurala değil, muhatabın kendi geçmişine dayandırılıyor. *Kablü* — "daha önce". Hüküm, kişiselleştirilmiş olarak veriliyor.**
 
@@ -2066,7 +2066,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ### Sorumluluk sınırının en açık ifadesi
 
-**Bu sınır dizinde defalarca işlendi ve `028-kasas.md` 28/56'da altı sûrelik bir tablo kurulmuştu. Tabloyu buraya taşıyor ve Yûnus'u ekliyorum, çünkü bu ayet o hattın en açık ifadelerinden biridir:**
+**Bu sınır dizinde defalarca işlendi ve `028-kasas.md` 28/56'da altı sûrelik bir tablo kurulmuştu. Tabloyu buraya taşıyor, Ra'd ve Yûnus'u ekliyorum, çünkü bu ayet o hattın en açık ifadelerinden biridir:**
 
 | Yer | İfade | Neyi sınırlıyor |
 |---|---|---|
@@ -2160,7 +2160,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 **Ve sûrenin omurga kelimesi burada son kez, en dikkat çekici biçimde geçiyor: *hakkan aleynâ*.**
 
-**Bunu kendi okumam olarak kaydediyorum ve dayanağı edattır:** *alâ* Arapçada **yükümlülük** bildirir. **Ayet, kurtarmayı bir vaat olarak değil, *üstlenilmiş bir yükümlülük* olarak adlandırıyor.** **Ve bu, sûrenin *hakk* kelimesini geldiği son yerdir: kelime, tartışılan bir konu olmaktan çıkıp bir taahhüt hâline geliyor.**
+**Bunu kendi okumam olarak kaydediyorum ve dayanağı edattır:** *alâ* Arapçada **yükümlülük** bildirir. **Ayet, kurtarmayı bir vaat olarak değil, *üstlenilmiş bir yükümlülük* olarak adlandırıyor.** **Ve bu, sûrenin *hakk* kelimesinin geldiği son yerdir: kelime, tartışılan bir konu olmaktan çıkıp bir taahhüt hâline geliyor.**
 
 **Ve `013-rad.md` 13/40'ta kaydedilen gözlem burada da işliyor:** sınırın öbür tarafında ne olduğu boş bırakılmıyor.
 
@@ -2235,7 +2235,7 @@ Ve fiilin öznesi kaydedilmelidir: *tebl**û** küllü nefsin* — sınayan, **c
 
 ### قَدْ جَآءَكُمُ ٱلْحَقُّ — ve elli yedinci ayetle bağ
 
-**Sûrede *yâ eyyühe'n-nâs* hitabı ile açılan iki cümle var ve ikisi de aynı fiille kuruluyor:**
+**Sûrede *yâ eyyühe'n-nâs* hitabı ile açılan ve aynı fiille kurulan iki cümle var:**
 
 | Ayet | Cümle | Gelen |
 |---|---|---|

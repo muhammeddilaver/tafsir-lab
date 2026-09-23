@@ -22,7 +22,7 @@ Bu tarihleme, sûrenin en tartışmalı yönü olan "kesin gelecek hükmü" mese
 
 Buhârî ve Müslim'de yer alan rivayete göre olay şöyle gelişir:
 
-Peygamber Safâ tepesine çıkıp Kureyş'i çağırdı; kabileleri tek tek isimleriyle seslendi ve toplandılar. Onlara şunu sordu: *"Size şu vadinin arkasında sizin üzerinize gelmekte olan bir süvari birliği var desem, bana inanır mısınız?"* — *"Evet, senden yalandan başka bir şey görmedik"* dediler. Bunun üzerine: *"Ben, önünüzdeki şiddetli bir azaba karşı sizi uyaranım"* dedi. Ebû Leheb: *"Bunun için mi bizi topladın? Yazıklar olsun sana (tebben leke)!"* dedi. Sûre bunun üzerine indi.
+Peygamber Safâ tepesine çıkıp Kureyş'i çağırdı; kabileleri tek tek isimleriyle seslendi ve toplandılar. Onlara şunu sordu: *"Size şu vadinin arkasında sizin üzerinize gelmekte olan bir süvari birliği var desem, bana inanır mısınız?"* — *"Evet, senden doğruluktan başka bir şey görmedik"* dediler. Bunun üzerine: *"Ben, önünüzdeki şiddetli bir azaba karşı sizi uyaranım"* dedi. Ebû Leheb: *"Bunun için mi bizi topladın? Yazıklar olsun sana (tebben leke)!"* dedi. Sûre bunun üzerine indi.
 
 **Rivayet hakkında.** Bu nakil sağlam kaynaklarda yer alır ve farklı yollardan gelir; nüzul sebebi rivayetleri içinde nispeten sağlam sayılanlardandır. Ayrıntı düzeyinde farklılıklar vardır (kullanılan ifade, toplananların kimliği, Safâ'ya çıkış biçimi), ama olayın çekirdeği istikrarlıdır.
 
@@ -551,7 +551,7 @@ Bugün insanların kendilerine kurduğu kimlikler — profil, unvan, marka, "ki�
 - **Ebû Leheb'in asıl adı** (Abdüluzzâ), **karısının adı** (Ümmü Cemîl / Ervâ bint Harb), **akrabalık ayrıntıları** ve **ölüm zamanı** siyer kaynaklarından gelir; Kur'an bunların hiçbirini vermez. Metinde bu ayrım her yerde belirtildi.
 - Nüzul sebebi rivayeti (Safâ tepesi) Buhârî ve Müslim'de yer alır; ayrıntı farklılıkları olduğu kaydedildi.
 - Ebû Leheb'in ambargoda karşı tarafta yer alması ve panayırlarda Peygamber'i takip ederek yalanlaması gibi ayrıntılar siyer rivayetleridir; sıhhat dereceleri farklıdır ve "nakledilir" kaydıyla verildi.
-- **"Kur'an'da adı geçen tek çağdaş"** ifadesi düzeltildi: Muhammed, Ahmed ve Zeyd de adıyla anılır. Doğru ifade, Ebû Leheb'in **ismen anılan tek muhalif** olması ve bir sûrenin tamamının tek kişiye ayrılmasının başka örneğinin bulunmamasıdır.
+- Ebû Leheb, Kur'an'da **ismen anılan tek muhaliftir**; Muhammed, Ahmed ve Zeyd de adıyla anılır ama muhalif değildir. Bir sûrenin tamamının tek bir kişiye ayrılmasının da başka örneği yoktur.
 - Künyenin yüzünün kırmızılığından geldiği bilgisi rivayettir; kesin değildir.
 - *Hammâlete'l-hatab* / "odun taşıma" ifadesi hakkındaki dört görüş tablo halinde verildi; tercih yapılmadı.
 - Ümmü Cemîl'in gerdanlığı hakkındaki rivayet aktarıldı, ama ayetin anlamının bu rivayete bağlı olmadığı belirtildi.

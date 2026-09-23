@@ -49,11 +49,18 @@ a{color:var(--lapis)}
 .top .home{font-family:var(--display); font-weight:700; font-size:19px; color:var(--ink); letter-spacing:-.01em}
 .top .sp{flex:1}
 /* Dil degistirici: gezinme baglantilarindan ayirt edilsin diye cerceveli */
+.top .langs{display:flex; align-items:center; gap:6px}
 .top .lang{
   border:1px solid var(--rule); border-radius:999px; padding:2px 10px;
   font-size:13px; line-height:1.6; white-space:nowrap; color:var(--ink-2);
 }
 .top .lang:hover{border-color:var(--lapis); color:var(--lapis)}
+/* Uc dil: dar ekranda iki harfli kisaltma gosterilir */
+.top .lang-ab{display:none}
+@media (max-width:560px){
+  .top .lang-full{display:none}
+  .top .lang-ab{display:inline}
+}
 /* The site name wrapped to two lines on narrow screens */
 @media (max-width:420px){
   .top-in{gap:10px; padding:10px 14px}

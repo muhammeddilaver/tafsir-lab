@@ -100,7 +100,7 @@ Cümlenin dizimi dikkat ister. Normal sıra *"el-mülkü bi-yedihî"* olurdu —
 
 **Arapçada öne alınan öğe sınırlama bildirir.** Besmele bahsinde bu kural işlenmişti: *"Allah'ın adıyla"* öne alındığında "sadece O'nun adıyla" anlamı doğuyordu. Burada aynı kural işliyor: mülk **sadece** O'nun elindedir. Başka bir elde değil, kısmen başka bir elde de değil.
 
-**Ve "el" meselesi.** Kur'an'da Allah'a nispet edilen *yed* (el), *vech* (yüz), *ayn* (göz) gibi ifadeler, kelâm tarihinin en çok tartışılan konusudur. Bu tefsirde tutulan usul şudur ve sûrenin ilerisinde (68/42, *sâk*) bir kez daha uygulanacak:
+**Ve "el" meselesi.** Kur'an'da Allah'a nispet edilen *yed* (el), *vech* (yüz), *ayn* (göz) gibi ifadeler, kelâm tarihinin en çok tartışılan konusudur. Bu tefsirde tutulan usul şudur ve `068-kalem.md`'de (68/42, *sâk*) bir kez daha uygulanacak:
 
 | Tutum | Ne yapar | Gerekçesi |
 |---|---|---|
@@ -395,7 +395,7 @@ Bu, dilin kendi içinden çıkan bir ince yer ve tesadüf olabilir. Ama şunu s�
 
 ### هَلْ تَرَىٰ — "görüyor musun?"
 
-Ayet iki farklı olumsuzlama kullanıyor ve ikisi arasındaki fark önemlidir:
+Ayet iki farklı kalıp kullanıyor ve ikisi arasındaki fark önemlidir:
 
 - **مَّا تَرَىٰ** — "göremezsin" (haber cümlesi, olumsuz).
 - **هَلْ تَرَىٰ** — "görüyor musun?" (soru cümlesi).
@@ -1026,9 +1026,9 @@ Bu cümle Arapça gramerinin ders kitaplarına girecek bir belirsizlik taşıyor
 Kur'an'daki geçişleri bu ikiliği doğruluyor:
 
 - *"Gözler O'nu idrak edemez, O gözleri idrak eder. **O Latîf'tir, Habîr'dir**"* (En'âm 6/103) — **Mülk 67/14 ile birebir aynı isim çifti**, ve orada da bağlam görme/kavrama sınırıdır.
-- *"Şüphesiz Rabbim dilediği şeyde **latîf**tir"* (Yûsuf 12/100) — Yûsuf'un, kırk yıl sonra tamamlanan bir planın sonunda söylediği söz. Burada *lutf* açıkça "fark edilmeden işleyen tedbir" anlamındadır.
+- *"Şüphesiz Rabbim dilediği şeyde **latîf**tir"* (Yûsuf 12/100) — Yûsuf'un, yıllar sonra tamamlanan bir planın sonunda söylediği söz. Burada *lutf* açıkça "fark edilmeden işleyen tedbir" anlamındadır.
 
-**En'âm 6/103 ile kurulan bağ, Mülk sûresi için ayrıca önemlidir.** Orada gözlerin O'nu kavrayamayacağı söyleniyor; burada gözler dört ayet önce yorgun dönmüştü. **Aynı isim çifti, iki yerde de görme sınırının hemen yanında duruyor.** Bunu bir gözlem olarak kaydediyorum.
+**En'âm 6/103 ile kurulan bağ, Mülk sûresi için ayrıca önemlidir.** Orada gözlerin O'nu kavrayamayacağı söyleniyor; burada gözler on ayet önce yorgun dönmüştü. **Aynı isim çifti, iki yerde de görme sınırının hemen yanında duruyor.** Bunu bir gözlem olarak kaydediyorum.
 
 ### ٱلْخَبِير — deneyerek bilen
 
@@ -1532,7 +1532,7 @@ Sûrenin en görsel ayeti. Ve ses yapısının kırıldığı yer: yirmi bir aye
 
 **Cümlenin en önemli özelliği şu: iki tarafta da aynı fiil var.** *Yemşî* — yürüyor. İkisi de yürüyor.
 
-Bu, karşılaştırmanın yerini belirliyor. Ayet **yürüyenle durani** karşılaştırmıyor; iki yürüyeni karşılaştırıyor. Yani mesele hareket etmek değil, **nasıl hareket edildiği.**
+Bu, karşılaştırmanın yerini belirliyor. Ayet **yürüyenle duranı** karşılaştırmıyor; iki yürüyeni karşılaştırıyor. Yani mesele hareket etmek değil, **nasıl hareket edildiği.**
 
 **Ve bu, sûrenin on beşinci ayetiyle bağlanıyor:** orada *fe'mşû* (yürüyün) diye emredilmişti. Emir verildi; şimdi ölçü veriliyor.
 

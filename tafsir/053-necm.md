@@ -92,7 +92,7 @@ Sûre baştan sona iki bilgi kaynağını karşılaştırıyor ve kelimeleri bun
 
 Ve 30. ayet bu karşılaştırmayı tek bir kelimeyle bağlıyor: **مَبْلَغُهُم مِّنَ ٱلْعِلْمِ** — *"bilgiden ulaşabildikleri yer budur."* Yani mesele bir yalan söyleme meselesi değil; **bir menzil** meselesi. Sûre karşı tarafı yalancılıkla değil, **erişim sınırıyla** niteliyor.
 
-Sonra 36. ayette **üçüncü bir kaynak** giriyor: *"Yoksa Mûsâ'nın sahifelerinde olanlar ona bildirilmedi mi?"* Yani sûre üç şeyi sıralıyor: **şimdi gelen vahiy** (1-18), **atadan gelen zan** (19-30), **önceden gelen vahiy** (36-55). Ve son ayette bunların hepsini tek bir cümlede toplayacak: *"Bu, önceki uyarıcılardan bir uyarıcıdır"* (56).
+Sonra 36. ayette **üçüncü bir kaynak** giriyor: *"Yoksa Mûsâ'nın sahifelerinde olanlar ona bildirilmedi mi?"* Yani sûre üç şeyi sıralıyor: **şimdi gelen vahiy** (1-18), **atadan gelen zan** (19-30), **önceden gelen vahiy** (36-55). Ve 56. ayette bunların hepsini tek bir cümlede toplayacak: *"Bu, önceki uyarıcılardan bir uyarıcıdır"* (56).
 
 ### Üçüncü gözlem: aynı sesin iki ayrı kelimesi
 
@@ -368,7 +368,7 @@ Bu, sûre içi doğrulanabilir bir veridir ve bir okuma değildir.
 
 **إِنْ … إِلَّا** — Arapçanın en yaygın sınırlama (hasr, kasr) kalıbı. *İn* burada nefy edatıdır (*mâ* yerine), *illâ* istisnâ. İkisi birlikte: **"başka bir şey değildir, ancak şudur."**
 
-Bu kalıp Kur'an'da bir şeyin tanımını daraltmak için kullanılır ve bu sûrede **iki kez** geçer:
+Bu kalıp Kur'an'da bir şeyin tanımını daraltmak için kullanılır ve bu sûrede **iki karşıt hükümde** geçer:
 
 | Ayet | Cümle | Ne sınırlanıyor |
 |---|---|---|
@@ -675,7 +675,7 @@ Onuncu ayetteki **عَبْدِهِ** ("onun kulu") ifadesi tartışmanın düğ�
 
 Bu ihtilafın arkasında daha büyük bir kelâmî tartışma vardır: **Peygamber Rabbini gözüyle gördü mü?**
 
-**Kur'an'ın konuya değen kendi verileri şunlardır ve ikisi de bu tartışmada kullanılır:**
+**Kur'an'ın konuya değen kendi verileri şunlardır ve üçü de bu tartışmada kullanılır:**
 
 > *"Gözler O'nu idrak edemez; O gözleri idrak eder."* (En'âm 6/103)
 
@@ -931,7 +931,7 @@ Sidr, o coğrafyada **çölde gölge veren birkaç ağaçtan biriydi.** Sıcak, 
 
 Kökün somut anlamı: **bir şeyin bitmesi, sona ermesi, son sınıra varması.**
 
-Ve buradan iki ayrı yön çıkar:
+Ve buradan üç ayrı yön çıkar:
 - **نِهَايَة (nihâyet)** — son, bitim.
 - **نَهَىٰ (nehâ)** — yasakladı. Bağ şudur: yasak, bir şeyin **sınırını** koymaktır; nereye kadar gidilebileceğini belirler.
 - **نُهْيَة / نُهَىٰ (nühâ)** — akıl. Kur'an bu kelimeyi kullanır: *"Bunda akıl sahipleri (*üli'n-nühâ*) için âyetler vardır"* (Tâhâ 20/54). Dilcilerin izahı: akıl, insanı kendine zarar verecek şeyden **alıkoyan** şeydir. Yani aklın adı, bir yasaklama kökünden geliyor.
@@ -1276,7 +1276,7 @@ Kaynaklarda Uzzâ'nın Mekke yakınlarında, Nahle vadisinde bulunduğu nakledil
 
 > **24. ayet:** *em li'l-insâni mâ **تَمَنَّىٰ***? — "Yoksa insana her **temenni ettiği** mi var?"
 
-**تَمَنَّىٰ**, *Menât* ile **aynı kökten.** Yani sûre, "kader dağıtan" adlı bir putu andıktan beş ayet sonra, insanın **temennisinin** kendisine bir şey vermediğini söylüyor.
+**تَمَنَّىٰ**, *Menât* ile **aynı kökten.** Yani sûre, "kader dağıtan" adlı bir putu andıktan dört ayet sonra, insanın **temennisinin** kendisine bir şey vermediğini söylüyor.
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı kök ortaklığıdır.** Kök ortaklığı sayılabilir bir veridir; iki ayet arasında kasıtlı bir ilişki kurulduğu ise benim çıkarımımdır ve kesin değildir — çünkü *temennâ* fiili Kur'an'da yaygındır ve her geçtiği yerde bir put çağrışımı taşımaz.
 
@@ -3173,7 +3173,7 @@ Bunu bir okuma olarak sunuyorum; üç kalıbın aynı olması ise sayılabilir b
 
 **Bunu kendi okumam olarak kaydediyorum;** bâb farkı ise gramer verisidir ve tartışmasızdır.
 
-**Ve muhatabın tekilleşmesi** de aynı yönde: on ikinci ayette *tümârûne* (çoğul, siz), elli beşinci ayette *tetemârâ* (tekil, sen). **Sûre kalabalığa hitapla başlayıp tek kişiye iniyor.** Bu, 19/33. ayetlerdeki *e-fe-raeytüm / e-fe-raeyte* geçişiyle aynı yöndedir ve yukarıda kaydedildi.
+**Ve muhatabın tekilleşmesi** de aynı yönde: on ikinci ayette *tümârûne* (çoğul, siz), elli beşinci ayette *tetemârâ* (tekil, sen). **Sûre kalabalığa hitapla başlayıp tek kişiye iniyor.** Bu, on dokuzuncu ve otuz üçüncü ayetlerdeki *e-fe-raeytüm / e-fe-raeyte* geçişiyle aynı yöndedir ve yukarıda kaydedildi.
 
 ### ءَالَاء — nimetler
 
@@ -3573,7 +3573,7 @@ Sûrenin ilk yarısı bir konuşma tartışmasıdır: kim konuşuyor, nereden ko
 
 Sûrenin son ayeti ise iki fiil emrediyor ve ikisi de **bedenle** ilgili: eğilmek ve kulluk etmek.
 
-**Yani metin, bir söz iddiasıyla açılıp bir davranışla kapanıyor.** Ve arada, kırk altı ayet boyunca, iddianın dayanağı kurulmuş oluyor.
+**Yani metin, bir söz iddiasıyla açılıp bir davranışla kapanıyor.** Ve arada, elli yedi ayet boyunca, iddianın dayanağı kurulmuş oluyor.
 
 **Bunu bir gözlem olarak kaydediyorum.**
 
@@ -3587,7 +3587,7 @@ Sûrenin ilk dört ayeti bir yöntem taşıyor ve bugün de işleyen bir yöntem
 
 İkinci ayet taşıyıcıyı değerlendiriyor ve delili şaşırtıcı derecede sıradan: **onu tanıyorsunuz.** Bir kişinin bilinen geçmişi, o kişi hakkındaki iddiaları değerlendirmenin ilk aracıdır — ve bu araç, bugün en çok ihmal edilenidir.
 
-Bir iddia dolaşıma girdiğinde sorulan ilk soru genellikle "bu doğru mu?" olur. Sûrenin sırası farklı: **"bunu kim söylüyor ve o kimi tanıyoruz?"**
+Bir iddia dolaşıma girdiğinde sorulan ilk soru genellikle "bu doğru mu?" olur. Sûrenin sırası farklı: **"bunu kim söylüyor ve onu kim olarak tanıyoruz?"**
 
 ### İki. Zan ile bilgi arasındaki tür farkı
 

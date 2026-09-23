@@ -72,7 +72,7 @@ This has two consequences, and both of them govern how the text is read aloud.
 |---|---|---|---|
 | 8 | *yawmun **ʿasir*** | *yawmun **ʿasīr*** (al-Muddaththir 74/9) | Quasi-participle / intensive form |
 | 16, 18, 21, 30, 37, 39 | ***nudhur*** (with the yāʾ dropped) | *nudhurī* — this is the original | Elision of the yāʾ of annexation |
-| 45 | ***al-dubur*** (singular) | *adbārahum* (plural, al-Anfāl 8/15-16) | Generic noun in the singular |
+| 45 | ***al-dubur*** (singular) | *al-adbār* (plural, al-Anfāl 8/15) | Generic noun in the singular |
 | 54 | ***nahar*** (singular) | *anhār* (plural, everywhere else) | Treated separately below |
 
 **The elision of the yāʾ of annexation** deserves attention, because it concerns the most frequently repeated word of the sūra. The *nudhur* of the phrase *ʿadhābī wa nudhur* is in fact *nudhurī* — "my warnings". The final *yāʾ* has been dropped for the sake of the verse-ending, and a kasra is left behind: **نُذُرِ**. The same elision, for the same reason, appears twice in Sūrat al-Mulk: *kayfa kāna **nakīr*** (67/18) and *kayfa kāna **nadhīr*** (67/17) — both are in fact *nakīrī* and *nadhīrī*. This was treated in the section on al-Mulk.
@@ -112,7 +112,7 @@ Three things emerge from the table.
 
 **Two — the section on reward is two verses long.** Of fifty-five verses, fifty-three are warning, punishment, account and reckoning; two are garden. In al-Raḥmān thirty-two verses were garden. **Two refrain sūras have placed the weight at exactly opposite ends.**
 
-**Three — the accounts are not equal in length, and the sequence is not a descending curve:** Noah 6 verses, ʿĀd 3 verses, Thamūd 7 verses, Lot 6 verses, Pharaoh 2 verses. The longest account is thus in the middle (Thamūd), the shortest at the end (Pharaoh). The list shows no smooth diminution; there is **an abrupt cut at the end**.
+**Three — the accounts are not equal in length, and the sequence is not a descending curve:** Noah 6 verses, ʿĀd 3 verses, Thamūd 8 verses, Lot 6 verses, Pharaoh 2 verses. The longest account is thus in the middle (Thamūd), the shortest at the end (Pharaoh). The list shows no smooth diminution; there is **an abrupt cut at the end**.
 
 ---
 
@@ -255,7 +255,7 @@ I apply here the method applied in the sections on Nūḥ and al-Raḥmān: to s
 - **How the she-camel came: absent.** As was recorded in the section on al-Shams, the Qurʾān nowhere says this.
 - **The city of Lot's people is not named.** The same note was made in the section on al-Ḥāqqa.
 - **No account of Pharaoh.** Even his name does not occur; *āla Firʿawn* occurs. Moses, the staff, the sea, the drowning — none of it.
-- **No legal ruling.** There is a single command in the sūra, and it is directed at the Prophet: *"so turn away from them"* (6), *"watch and be patient"* (27, spoken as said to Ṣāliḥ).
+- **No legal ruling.** The commands in the sūra are directed either at the Prophet or at figures within the accounts: *"so turn away from them"* (6), *"watch and be patient"* (27, spoken as said to Ṣāliḥ).
 - **No description of the Garden.** Two verses, a description of four words: *jannātin wa nahar* + *fī maqʿadi ṣidqin ʿinda malīkin muqtadir.*
 
 All of these exist elsewhere in the Qurʾān. So this is not a lack but **a choice**. This sūra uses not the content of the accounts but their **listability**. What is told is not the events; it is the fact that the events **came one after another**.
@@ -678,7 +678,7 @@ And this is exactly what the verse says: **what they are called to resembles not
 
 The sixth verse says "it resembles nothing"; the seventh immediately makes a comparison. Not a contradiction but **a division of labour**: what resembles nothing is **the event itself**; what is likened is **the appearance of the people.** The nature of the resurrection cannot be described; but the state people will be in on that day can be.
 
-**Interpreting the Qurʾān by the Qurʾān.** The same root, in the same sense, occurs in the account of al-Khiḍr in Sūrat al-Kahf: *"You have done a most **munkar** thing"* (al-Kahf 18/74) and *"You have done a **nukr** thing"* (al-Kahf 18/71). There too the sense runs towards "unheard-of, hard to take in".
+**Interpreting the Qurʾān by the Qurʾān.** The same root, in the same sense, occurs in the account of al-Khiḍr in Sūrat al-Kahf: *"You have done a **nukr** thing"* (al-Kahf 18/74). There too the sense runs towards "unheard-of, hard to take in".
 
 ---
 
@@ -1369,7 +1369,7 @@ The sentence opens with three elements of reinforcement:
 
 The sentence is therefore rendered "We have indeed, most certainly", and this is not exaggeration; it is the counterpart of three separate grammatical elements.
 
-**And this triple occurs in every sentence in the sūra that begins with *wa-laqad*.** There are eight verses in the sūra opening with *wa-laqad*: 4, 15, 17, 22, 32, 36, 37, 38, 40, 41, 51. The most heavily reinforced sentences in the sūra, that is, are the joints of the accounts.
+**And this triple occurs in every sentence in the sūra that begins with *wa-laqad*.** There are eleven verses in the sūra opening with *wa-laqad*: 4, 15, 17, 22, 32, 36, 37, 38, 40, 41, 51. The most heavily reinforced sentences in the sūra, that is, are the joints of the accounts.
 
 ### يَسَّرْنَا — We have made easy
 
@@ -1563,7 +1563,7 @@ The picture the verse gives, then, is not of a fallen tree but of **a tree taken
 
 I record this joining as my own reading.
 
-**And Form VII conveys the middle sense here too** — for the fourth time in this sūra: *inshaqqa* (1), *munhamir* (11), *munqaʿir* (20), and below, not *muḥtaẓir* but a similar structure. The sūra names everything **that undergoes an outside action** with this form. The moon was split, the water was released, the tree was torn out — none of the three of itself.
+**And Form VII conveys the middle sense here too** — for the third time in this sūra: *inshaqqa* (1), *munhamir* (11), *munqaʿir* (20), and below, not *muḥtaẓir* but a similar structure. The sūra names everything **that undergoes an outside action** with this form. The moon was split, the water was released, the tree was torn out — none of the three of itself.
 
 I record this as an observation about the pattern, and it can be verified.
 
@@ -1614,7 +1614,7 @@ Verse twenty-two is the **second** full occurrence of the refrain. The analysis 
 
 ## III. Thamūd — 54/23-32
 
-The longest account in the sūra: nine verses. And the only one with dialogue — the people's speech is reported (24-25), an answer is given (26), and instructions are given to the messenger (27-28).
+The longest account in the sūra: eight verses. And the only one with dialogue — the people's speech is reported (24-25), an answer is given (26), and instructions are given to the messenger (27-28).
 
 In **`091-sems.md`** what the Qurʾān says and does not say about the account of Thamūd was itemised in detail; the historical frame of the people (the Assyrian records, al-Ḥijr, their not being confused with the Nabataean structures) was also given there. **I do not repeat these.** Two verses of this sūra (54/28 and 54/29) were already cited in the section on al-Shams.
 
@@ -2027,7 +2027,7 @@ That last sentence is my own reading; the two senses of the root are data of the
 
 The root's derivatives show where the sense opens out:
 
-- **عَاقِر** — a woman or man who bears no child. In the Qurʾān: *"My wife is barren"* (Maryam 19/5, 19/8), *"I am a barren old woman"* (al-Dhāriyāt 51/29). **The lexicographers' explanation: one whose line has been cut.**
+- **عَاقِر** — a woman or man who bears no child. In the Qurʾān: *"My wife is barren"* (Maryam 19/5, 19/8; Āl ʿImrān 3/40). **The lexicographers' explanation: one whose line has been cut.**
 - **عُقْر الدار** — the middle of a house, its core, its main body.
 - **عَقِير** — an animal struck in the legs.
 
@@ -2675,7 +2675,7 @@ And this is precisely what will be said in verse forty-nine: *innā kulla shayʾ
 
 Verse forty-three opens the second half of the sūra. Having spoken about the third person for forty-two verses, the text turns here to **the second person** and does not turn back.
 
-A count of the pronouns shows this: from 43 to 53 the suffix **-kum** occurs five times (*kuffārukum*, *ulāʾikum*, *lakum*, and in 51 *ashyāʿakum*). Before verse forty-three the pronoun of address occurs in only two places in the sūra (the command to the Prophet in 6, and *dhūqū* in 37 and 39).
+A count of the pronouns shows this: from 43 to 53 the suffix **-kum** occurs four times (*kuffārukum*, *ulāʾikum*, *lakum*, and in 51 *ashyāʿakum*). Before verse forty-three the pronoun of address occurs in only two places in the sūra (the command to the Prophet in 6, and *dhūqū* in 37 and 39).
 
 ### أَكُفَّارُكُمْ — "your disbelievers"
 
@@ -3537,7 +3537,7 @@ The Qurʾān uses three separate forms from this root:
 | Form | Pattern | Its sense |
 |---|---|---|
 | **مَلِك** | *faʿil* | **King** — al-Ḥashr 59/23, al-Nās 114/2, Ṭāhā 20/114 |
-| **مَالِك** | active participle | **Owner, possessor** — al-Fātiḥa 1/4 (with a variant reading), Āl ʿImrān 3/26 |
+| **مَالِك** | active participle | **Owner, possessor** — al-Fātiḥa 1/3 (with a variant reading), Āl ʿImrān 3/26 |
 | **مَلِيك** | ***faʿīl*** — **intensive** | **al-Qamar 54/55** |
 
 The **فَعِيل** pattern conveys in Arabic **intensity and the quasi-participle**: the quality being settled and concentrated in its bearer. *ʿAlīm* (knowing much), *Qadīr*, *Samīʿ*, *Raḥīm*.

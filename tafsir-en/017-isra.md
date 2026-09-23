@@ -838,7 +838,7 @@ The root **ر-ب-و / ر-ب-ب**: **to raise, to nurture, to increase.** **The n
 | Place | The extremes forbidden | The name of the measure |
 |---|---|---|
 | al-Furqān 25/67 | *Isrāf* and *iqtār* | ***Qawām*** — the point of balance |
-| **al-Isrāʾ 17/26-29** | *Tabdhīr* (26) and **the binding of the hand** (29) | *Bayna dhālik* (29) — **between the two** |
+| **al-Isrāʾ 17/26-29** | *Tabdhīr* (26) and **the binding of the hand** (29) | *Bayna dhālik* (110) — **between the two** |
 
 **The two sūras set up the same measure, but al-Isrāʾ divides it between two separate verses and gives the second by way of an image.** This is an overlap between sūras that can be verified.
 
@@ -1017,7 +1017,7 @@ The root **ف-ح-ش**: **what is foul enough to exceed all measure, an ugliness 
 
 **I record this as an observation, and its support is the word itself:** the verse issues two judgements — one on the **quality** of the act (*fāḥisha*), the other on its **direction** (*sabīl* — a way). **The act is thus weighed not only as a point but as a course.**
 
-**And the word *sabīl* occurs often in this sūra** (9, 32, 42, 48, 72, 84, 110). **In one of the last verses of the sūra the same word returns in a command: *wa'btaghi bayna dhālika sabīlā* (110).** This is a weave that can be verified within the sūra.
+**And the word *sabīl* occurs often in this sūra** (26, 32, 42, 48, 72, 84, 110). **In one of the last verses of the sūra the same word returns in a command: *wa'btaghi bayna dhālika sabīlā* (110).** This is a weave that can be verified within the sūra.
 
 ---
 
@@ -1473,7 +1473,7 @@ The root **ح-ل-م**: **not to hurry, not to grow angry, to grant respite.** **
 
 **The same accusation, at the two ends of the sūra, to two different messengers.** This is a repetition that can be verified within the sūra, and **it will be taken up separately at verse 101.**
 
-**I record this as my own reading:** the sūra records the word the other party uses, and a hundred verses later shows a far older instance of the same word. **The objection, that is, is not new.**
+**I record this as my own reading:** the sūra records the word the other party uses, and fifty-four verses later shows a far older instance of the same word. **The objection, that is, is not new.**
 
 ### 17/48 — ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ
 
@@ -1606,7 +1606,7 @@ The root **ن-غ-ض**: **to shake a thing, to move it about** (especially the he
 | 65 | *Wa kafā bi-rabbika wakīlā* | **The Lord** — the trustee who suffices |
 | 68 | *Thumma lā tajidū lakum wakīlā* | **Absence** — the trustee that cannot be found |
 
-**The word occurs in four places in the sūra and in four different roles.** This is a weave that can be verified within the sūra, and **I record this as my own reading: the sūra narrows the place of reliance in four steps** — the taking of one, the messenger's not being one, the Lord's sufficing, and no other being found.
+**The word occurs in five places in the sūra; the first four in four different roles.** This is a weave that can be verified within the sūra, and **I record this as my own reading: the sūra narrows the place of reliance in four steps** — the taking of one, the messenger's not being one, the Lord's sufficing, and no other being found.
 
 ### فَضَّلْنَا بَعْضَ ٱلنَّبِيِّـۧنَ عَلَىٰ بَعْضٍ
 
@@ -1833,7 +1833,7 @@ The root **ك-ر-م**: **to be of worth, generous, noble.** **The root was treat
 | 53 | *Li-ʿibādī* — plural | **Those addressed by the command** |
 | 30, 96 | *Bi-ʿibādihi* | **The party who is known** |
 
-**The word occurs in six places in the sūra, and in all six in a favourable position.** This is a weave that can be verified within the sūra.
+**The word occurs in eight places in the sūra; the six in the table are in a favourable position.** This is a weave that can be verified within the sūra.
 
 ---
 
@@ -2000,7 +2000,7 @@ The root **ف-ت-ل**: **to twist, to twine.** *Fatīl* is explained by the lexi
 
 **And the qualification must be recorded: *shayʾan qalīlā* — "a little".** **What is in question, that is, is not a full turning but a small inclination.**
 
-### دِعْف ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ
+### ضِعْف ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ
 
 **The requital is worth recording, and I give this as an observation about the structure:** for "a small inclination" the verse states a **doubled** punishment. The disproportion is in the sentence itself.
 
@@ -2160,16 +2160,16 @@ The root **ش-ف-ي**: **to recover from illness; and to come to the edge of a t
 
 ### وَلَا يَزِيدُ … إِلَّا خَسَارًا
 
-**This pattern comes for the fourth time in the sūra:**
+**This pattern comes for the third time in the sūra:**
 
 | Verse | What increases | In whom |
 |---|---|---|
 | 41 | *Nufūr* — taking fright and fleeing | Those addressed |
-| 46 | *Nufūr* | Those addressed |
+| 46 | *Nufūr* — the same outcome, without the pattern | Those addressed |
 | 60 | *Ṭughyān kabīr* — great insolence | Those addressed |
 | **82** | *Khasār* — loss | *Al-ẓālimīn* |
 
-**The same pattern (*mā/lā yazīdu … illā*) four times in the sūra.** This is a weave that can be verified within the sūra.
+**The same pattern (*mā/lā yazīdu … illā*) three times in the sūra.** This is a weave that can be verified within the sūra.
 
 **And the difference in the eighty-second verse must be recorded: here the subject is *ẓālimīn* — that is, an attribute.** **Per the method this record matters: the ruling is tied not to a group but to an attribute.**
 
@@ -2689,7 +2689,7 @@ The root **ث-ب-ر**: **to perish, to be destroyed.** *Thubūr* — destruction
 
 **And al-Isrāʾ's own addition must be recorded: *wa yazīduhum khushūʿā* — "and it increases them in humility."**
 
-**I record this as my own reading, and its support is the sūra's own repetition:** the verb *yazīdu* had been used four times in the sūra with a negative outcome (41, 46, 60, 82) — taking fright and fleeing, insolence, loss. **The hundred and ninth verse uses the same verb for the first time with a positive outcome.**
+**I record this as my own reading, and its support is the sūra's own repetition:** the verb *yazīdu* had been used three times in the sūra with a negative outcome (41, 60, 82) — taking fright and fleeing, insolence, loss. **The hundred and ninth verse uses the same verb for the first time with a positive outcome.**
 
 | Verse | What increases | In whom |
 |---|---|---|
@@ -2763,7 +2763,7 @@ The root **ج-ه-ر**: **to bring into the open, to raise the voice.** The root 
 
 **I record this as my own reading, and its support is the pattern the three verses share:** nowhere does the Qurʾān give the measure as a number. **Each time it names the two extremes and looks for what lies between** — and in al-Isrāʾ this is said with a verb of seeking: *wa'btaghi* ("seek"). **The middle point, that is, is not handed over ready-made; it is set down as something to be sought.**
 
-**And the word *sabīl* returns here — it was one of the words that occur often in the sūra** (9, 32, 42, 48, 72, 84, 110). **After the expressions "an evil way" (32), "finding no way" (48) and "further astray from the way" (72), the sūra in its last command asks that a way be *sought*.**
+**And the word *sabīl* returns here — it was one of the words that occur often in the sūra** (26, 32, 42, 48, 72, 84, 110). **After the expressions "an evil way" (32), "finding no way" (48) and "further astray from the way" (72), the sūra in its last command asks that a way be *sought*.**
 
 ### 17/111 — three negations
 
@@ -2824,7 +2824,7 @@ The root **ج-ه-ر**: **to bring into the open, to raise the voice.** The root 
 
 | Word / root | Where | What it does |
 |---|---|---|
-| **عبد** | *bi-ʿabdihi* (1) — *ʿabdan shakūrā* (3) — *ʿibādī* (53, 65) — *bi-ʿibādihi* (30, 96) | Six occurrences, all in a favourable position |
+| **عبد** | *bi-ʿabdihi* (1) — *ʿabdan shakūrā* (3) — *ʿibādan lanā* (5) — *bi-dhunūbi ʿibādihi* (17) — *ʿibādī* (53, 65) — *bi-ʿibādihi* (30, 96) | Eight occurrences, six in a favourable position |
 | **ك-ر-م** | *qawlan karīmā* (23) — *karramta ʿalayya* (62) — *karramnā banī Ādam* (70) | A command, an objection, a judgement |
 | **س-ب-ح** | *subḥāna* (1, 43, 93, 108) — *tusabbiḥu* (44) | In five different mouths |
 | **ق-و-م / ق-ع-د** | *aqwam* (9) — *taqʿuda* (22, 29) — *al-mustaqīm* (35) | Direction, collapse, the balance |
@@ -2832,7 +2832,7 @@ The root **ج-ه-ر**: **to bring into the open, to raise the voice.** The root 
 | **ع-ن-ق** | *ṭāʾirahu fī ʿunuqih* (13) — *maghlūlatan ilā ʿunuqik* (29) | The neck that carries and the neck that obstructs |
 | **ف-ز-ز** | *istafziz* (64) — *yastafizzūnaka* (76) — *yastafizzahum* (103) | Satan, those addressed, Pharaoh |
 | **مسحور** | 47 (to the Prophet) — 101 (to Moses) | The same accusation, at two dates |
-| **يزيد … إلا** | *nufūr* (41, 46) — *ṭughyān* (60) — *khasār* (82) — ***khushūʿ*** (109) | Four negative, one positive |
+| **يزيد … إلا** | *nufūr* (41) — *ṭughyān* (60) — *khasār* (82) — ***khushūʿ*** (109) | Three negative, one positive |
 | **17/49 = 17/98** | *A-idhā kunnā ʿiẓāman wa rufātā…* | The same objection, fifty verses apart |
 | **17/7 → 17/104** | *Fa-idhā jāʾa waʿdu'l-ākhira* | The same sentence at the two ends of the sūra |
 | **17/22 = 17/39** | *Lā tajʿal maʿa'llāhi ilāhan ākhara* | The frame of the list of commands |
