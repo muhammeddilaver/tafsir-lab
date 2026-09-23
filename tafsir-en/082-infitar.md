@@ -1417,7 +1417,7 @@ That is, the question is asked as "what kind of day is that day?" and the answer
 
 ---
 
-## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
+## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
 
 *Yawma lā tamliku nafsun li-nafsin shayʾā • wa'l-amru yawmaʾidhin lillāh*
 "The day on which no soul has power over anything for another soul. On that day the command belongs to God alone."

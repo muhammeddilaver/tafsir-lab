@@ -344,7 +344,7 @@
 
 ---
 
-## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
+## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
 
 *Kālû yâ ebânâ mâ leke lâ te'mennâ alâ Yûsufe ve innâ lehû le-nâsıhûn · Ersilhü meanâ ğaden yerta' ve yel'ab ve innâ lehû le-hâfizûn · Kāle innî le-yahzününî en tezhebû bihî ve ehâfü en ye'külehü'z-zi'bü ve entüm anhü ğâfilûn · Kālû le-in ekelehü'z-zi'bü ve nahnü usbetün innâ izen le-hâsirûn*
 
@@ -363,7 +363,7 @@
 
 **Ve dikkat çekicidir: babanın verdiği iki gerekçeden yalnız biri cevaplanıyor.** Baba "üzülürüm" ve "kurt yer diye korkarım" dedi; kardeşler yalnız kurdu cevapladı. **Üzüntü cevapsız kaldı.** Bunu kendi okumam olarak kaydediyorum; dayanağı, 13 ve 14. ayetlerin karşılaştırılmasıdır.
 
-### لَا تَأْمَ۫نَّا — kıraat ve imlâ notu
+### لَا تَأْمَنَّا — kıraat ve imlâ notu
 
 **Fiil *lâ te'menünâ*dır ve mushaf imlâsında iki *nûn* birleşerek yazılmıştır.** **Bu kelimenin okunuşunda kıraat imamları arasında fark vardır** — *işmâm* ve *ihtilâs* denen iki söyleyiş nakledilir. **Fark söyleyiştedir, anlamı değiştirmez; bu yüzden ayrıntısına girmiyorum.**
 

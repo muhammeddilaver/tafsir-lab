@@ -992,7 +992,7 @@ Kaitan ini saya tegakkan sebagai bacaan saya sendiri.
 
 ---
 
-## 74/16-17 — كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
+## 74/16-17 — كَلَّآ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
 
 *Kallā innahū kāna li-āyātinā ʻanīdā / Sa-urhiquhū ṣuʻūdā*
 "Sekali-kali tidak! Ia dahulu keras kepala terhadap ayat-ayat Kami. Aku akan menghalaunya ke sebuah tanjakan yang terjal."
@@ -1786,7 +1786,7 @@ Keterangan lain yang diberikan Al-Qur'an tentang para petugas neraka: *"Penjagan
 
 ## 74/31 — Bilangan itu sendiri menjadi ujian
 
-وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
 "Dan tidaklah Kami jadikan para penjaga neraka itu melainkan dari malaikat. Dan tidaklah Kami jadikan bilangan mereka melainkan sebagai ujian bagi orang-orang yang kafir — agar orang-orang yang diberi kitab menjadi yakin, agar bertambah iman orang-orang yang beriman, agar orang-orang yang diberi kitab dan orang-orang mukmin tidak ragu-ragu, dan agar orang-orang yang di dalam hatinya ada penyakit serta orang-orang kafir berkata, 'Apakah yang dikehendaki Allah dengan ini sebagai perumpamaan?' Demikianlah: Allah menyesatkan siapa yang Dia kehendaki dan memberi petunjuk kepada siapa yang Dia kehendaki. Dan tidak ada yang mengetahui bala tentara Tuhanmu kecuali Dia. Dan ia tidak lain hanyalah sebuah peringatan bagi manusia."
 
@@ -2623,7 +2623,7 @@ Saya catat ini sebagai bacaan saya sendiri; ayat-ayat itu tidak menegakkan kaita
 
 ---
 
-## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
+## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
 
 *Bal yurīdu kullumriʼim minhum an yuʼtā ṣuḥufam munasysyarah / Kallā bal lā yakhāfūnal-ākhirah*
 
@@ -2727,7 +2727,7 @@ Kaitan ini saya tegakkan, dan saya nyatakan bahwa ia selaras pula dengan kerangk
 
 ## 74/54-56 — Penutup
 
-كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
+كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
 
 *Kallā innahū tażkirah / Fa-man syāʼa żakarah / Wa mā yażkurūna illā an yasyāʼallāh. Huwa ahlut-taqwā wa ahlul-magfirah*
 

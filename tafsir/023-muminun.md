@@ -3685,7 +3685,7 @@ Sûre sekiz bloktan oluşuyor. Blok sınırları çoğunlukla metnin kendi tekra
 
 **Kökün somut anlamı dilcilerce şöyle verilir: *hasee'l-kelbe* — köpeği kovmak, uzaklaştırmak.** Ve buradan **aşağılanarak uzaklaştırılma** anlamı gelir. *Hâsi'* — kovulmuş, sinmiş.
 
-**Kök dizinde ilk kez burada çözümleniyor.** Kelime Kur'an'da iki yerde geçer: Bakara 2/65 (*kûnû kıradeten **hâsiîn***) ve bu ayet. **Ve `067-mulk.md` 67/4'te aynı kök başka bir kalıpla geçer** (*yenkalib ileyke'l-basaru **hâsien**  ve hüve hasîr*) — orada **gözün yorgun ve umutsuz dönmesi** için kullanılmıştı.
+**Kök dizinde ilk kez burada çözümleniyor.** Kelime Kur'an'da iki yerde geçer: Bakara 2/65 (*kûnû kıradeten **hâsiîn***) ve bu ayet. **Ve `067-mulk.md` 67/4'te aynı kök başka bir kalıpla geçer** (*yenkalib ileyke'l-basaru **hâsien** ve hüve hasîr*) — orada **gözün yorgun ve umutsuz dönmesi** için kullanılmıştı.
 
 **Kelimenin üç geçişi karşılaştırılabilir:**
 

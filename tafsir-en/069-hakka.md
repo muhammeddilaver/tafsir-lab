@@ -1193,7 +1193,7 @@ And *yawmaʾidhin* (on that day), coming in between, fixes this in time as well.
 
 ---
 
-## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
+## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
 
 *Wa'l-malaku ʿalā arjāʾihā; wa yaḥmilu ʿarsha rabbika fawqahum yawmaʾidhin thamāniya*
 "And the angels are upon its edges. On that day eight [beings] bear the Throne of your Lord above them."
@@ -2462,7 +2462,7 @@ I record this as an observation about the language.
 
 ---
 
-## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
 *Wa mā huwa bi-qawli shāʿir; qalīlan mā tuʾminūn · Wa lā bi-qawli kāhin; qalīlan mā tadhakkarūn · Tanzīlun min rabbi'l-ʿālamīn*
 "It is not the speech of a poet — how little you believe! Nor the speech of a soothsayer — how little you reflect! It is a sending down from the Lord of all the worlds."

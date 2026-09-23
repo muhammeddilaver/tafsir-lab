@@ -475,10 +475,10 @@ The order has been debated, and more than one explanation is proposed. The right
 **The fourth — symmetry with the following verses.** The ninth verse ends with **deliverance**, the tenth with **loss**: *aflaḥa* / *khāba*. The eighth verse, however, runs in the order *fujūr*–*taqwā*. The order of the inspiring and the order of the outcome are thus the reverse of one another. This sets up a chiastic (crossing) structure:
 
 ```
-fujūr  ————————\    /———————  aflaḥa (zakkāhā)
-                 \/
-                 /\
-taqwā  ————————/    \———————  khāba (dassāhā)
+fujūr ————————\ /——————— aflaḥa (zakkāhā)
+ \/
+ /\
+taqwā ————————/ \——————— khāba (dassāhā)
 ```
 
 The text, that is, names last in the outcome what it named first in the inspiring. Crossed symmetry of this kind is one of the Qurʾān's known structural preferences.
@@ -654,8 +654,8 @@ The point to be noticed: what is described here is not an open evil. Something i
 The two verses are in exactly the same pattern:
 
 ```
-قَدْ أَفْلَحَ    مَن   زَكَّاهَا
-وَقَدْ خَابَ    مَن   دَسَّاهَا
+قَدْ أَفْلَحَ مَن زَكَّاهَا
+وَقَدْ خَابَ مَن دَسَّاهَا
 ```
 
 *qad + verb + man + verb + hā.* The number of words is the same, the metre the same, the rhyme the same. The only difference is in the two pairs of verbs.

@@ -179,7 +179,7 @@ The third verse begins *innā anzalnāhu*, and the pattern *inna* + past tense a
 
 ---
 
-## 44/3 — إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ
+## 44/3 — إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ
 
 *Innā anzalnāhu fī laylatin mubārakatin, innā kunnā mundhirīn*
 
@@ -334,7 +334,7 @@ In `097-kadr.md` this verse was already cited, and the sharing of the word *amr*
 
 ---
 
-## 44/5-6 — أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ · رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+## 44/5-6 — أَمْرًا مِّنْ عِندِنَآ إِنَّا كُنَّا مُرْسِلِينَ · رَحْمَةً مِّن رَّبِّكَ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
 *Amran min ʿindinā, innā kunnā mursilīn · Raḥmatan min rabbika, innahu huwa's-Samīʿu'l-ʿAlīm*
 
@@ -400,7 +400,7 @@ The finding recorded in `085-buruc.md` for the address *rabbuka* works here too:
 
 ---
 
-## 44/7-8 — رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ · لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+## 44/7-8 — رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ إِن كُنتُم مُّوقِنِينَ · لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
 *Rabbi's-samāwāti wa'l-arḍi wa mā baynahumā, in kuntum mūqinīn · Lā ilāha illā huwa yuḥyī wa yumīt, rabbukum wa rabbu ābāʾikumu'l-awwalīn*
 
@@ -543,7 +543,7 @@ In `052-tur.md` exactly this structure was treated — there *fī khawḍin yal�
 
 ---
 
-## 44/10-11 — فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ · يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ
+## 44/10-11 — فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ · يَغْشَى ٱلنَّاسَ هَٰذَا عَذَابٌ أَلِيمٌ
 
 *Fa'rtaqib yawma taʾti's-samāʾu bi-dukhānin mubīn · Yaghsha'n-nāsa, hādhā ʿadhābun alīm*
 
@@ -797,7 +797,7 @@ Two readings are transmitted for *rasūlun mubīn*, and both rest on the two bra
 
 ---
 
-## 44/15 — إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ
+## 44/15 — إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ
 
 *Innā kāshifu'l-ʿadhābi qalīlan, innakum ʿāʾidūn*
 
@@ -1039,7 +1039,7 @@ It may be seen thus:
 
 ---
 
-## 44/18 — أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
+## 44/18 — أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
 
 *An addū ilayya ʿibāda'llāh, innī lakum rasūlun amīn*
 
@@ -1116,7 +1116,7 @@ It may be seen thus:
 
 ---
 
-## 44/19 — وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍ مُّبِينٍ
+## 44/19 — وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍ مُّبِينٍ
 
 *Wa an lā taʿlū ʿala'llāh, innī ātīkum bi-sulṭānin mubīn*
 
@@ -1360,7 +1360,7 @@ In `071-nuh.md` Noah's prayer was treated; the difference between the long deman
 
 ---
 
-## 44/23-24 — فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ · وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+## 44/23-24 — فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ · وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 
 *Fa-asri bi-ʿibādī laylan innakum muttabaʿūn · Wa'truki'l-baḥra rahwan, innahum jundun mughraqūn*
 
@@ -1589,7 +1589,7 @@ In the twenty-fourth verse *"they are an army to be drowned"* is said; the twent
 
 ---
 
-## 44/28 — كَذَٰلِكَ ۖ وَأَوْرَثْنَٰهَا قَوْمًا ءَاخَرِينَ
+## 44/28 — كَذَٰلِكَ وَأَوْرَثْنَٰهَا قَوْمًا ءَاخَرِينَ
 
 *Kadhālika wa awrathnāhā qawman ākharīn*
 
@@ -1734,7 +1734,7 @@ In the twenty-fourth verse *"they are an army to be drowned"* is said; the twent
 
 ---
 
-## 44/30-31 — وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ · مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ
+## 44/30-31 — وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ · مِن فِرْعَوْنَ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ
 
 *Wa laqad najjaynā banī isrāʾīla mina'l-ʿadhābi'l-muhīn · Min firʿawna, innahu kāna ʿāliyan mina'l-musrifīn*
 
@@ -1995,7 +1995,7 @@ It may be seen thus: the raising, as described in the fourth and fortieth verses
 
 ---
 
-## 44/37 — أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
+## 44/37 — أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ أَهْلَكْنَٰهُمْ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
 
 *A-hum khayrun am qawmu tubbaʿin wa'lladhīna min qablihim, ahlaknāhum, innahum kānū mujrimīn*
 
@@ -2194,7 +2194,7 @@ The other party had advanced a claim of **impossibility** (35: we shall not be r
 
 ---
 
-## 44/40-42 — إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَٰتُهُمْ أَجْمَعِينَ · يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ · إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+## 44/40-42 — إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَٰتُهُمْ أَجْمَعِينَ · يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ · إِلَّا مَن رَّحِمَ ٱللَّهُ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
 *Inna yawma'l-faṣli mīqātuhum ajmaʿīn · Yawma lā yughnī mawlan ʿan mawlan shayʾan wa lā hum yunṣarūn · Illā man raḥima'llāh, innahu huwa'l-ʿAzīzu'r-Raḥīm*
 
@@ -3064,7 +3064,7 @@ It may be seen thus: the list in verses twenty-five to twenty-seven was complete
 
 ---
 
-## 44/56 — لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
+## 44/56 — لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
 
 *Lā yadhūqūna fīha'l-mawta illa'l-mawtata'l-ūlā, wa waqāhum ʿadhāba'l-jaḥīm*
 
@@ -3165,7 +3165,7 @@ They had said: *"There is only one death, that is all."* **And the fifty-sixth v
 
 ---
 
-## 44/57 — فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+## 44/57 — فَضْلًا مِّن رَّبِّكَ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Faḍlan min rabbika, dhālika huwa'l-fawzu'l-ʿaẓīm*
 

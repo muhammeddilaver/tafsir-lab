@@ -160,7 +160,7 @@ This is the place where the methodological rule to which this text is bound is a
 
 And the textual evidence for this is not one particle only. The Qurʾān sets out the balancing statement about the same community plainly:
 
-> **لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
+> **لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
 > *"They are not all one. Among the People of the Book there is an upright (kāʾima) community that recites the signs of God in the watches of the night, prostrating themselves."* (Āl ʿImrān 3/113)
 
 The first two words of this verse — *laysū sawāʾan*, "they are not all one" — directly forbid generalising. What follows (3/114-115) says that this community believes in God and in the Last Day, enjoins good and forbids wrong, and vies in good works, and it declares that *"no good they do will be left without its reward"*.
@@ -336,7 +336,7 @@ These explanations are not alternatives to one another but different faces of th
 
 **The Qurʾān's exegesis by the Qurʾān — ʿAbasa 80/13-16.** The same word occurs there, in the same construction:
 
-> **فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ**
+> **فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ**
 > *"In pages held in honour; exalted, purified; by the hands of scribe-envoys; noble and dutiful."* (ʿAbasa 80/13-16)
 
 There the pages have three attributes: *mukarrama* (made honoured), *marfūʿa* (raised), *muṭahhara* (purified). All three are passive participles; all three are passive. The pages do not earn their own worth; they do not exalt themselves; they do not cleanse themselves. All three operations were done from outside.
@@ -396,7 +396,7 @@ The word *qayyim* in Arabic has a sense that opens in three separate directions,
 
 **1. Straight, without crookedness.** Carrying no distortion within itself. The cleanest evidence for this from within the Qurʾān is this:
 
-> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا ۜ ۝ قَيِّمًا**
+> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا · قَيِّمًا**
 > *"Praise be to God, who sent down the Book upon His servant and left in it no crookedness; straight (kayyimen)."* (al-Kahf 18/1-2)
 
 There *qayyim* is set as the opposite of the word *ʿiwaj* (crookedness) immediately before it. So *qayyim* = without crookedness.
@@ -575,7 +575,7 @@ The verse's function is diagnosis, and it comes before accusation: **division af
 
 ---
 
-## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
 
 *Wa mā umirū illā li-yaʿbudu'llāha mukhliṣīna lahu'd-dīna ḥunafāʾa wa yuqīmu'ṣ-ṣalāta wa yuʾtu'z-zakāta; wa dhālika dīnu'l-qayyima*
 
@@ -738,10 +738,10 @@ I offer this not as a preference but as a possibility. All four explanations hav
 
 The strongest parallel to this verse is in Sūrat al-Rūm, and the parallel is extraordinarily close. Let us give the three verses in order and compare them with al-Bayyina:
 
-> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
+> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
 > *"So set your face towards the religion, as a ḥanīf. [Follow] the fiṭra of God, upon which He created mankind. There is no changing the creation of God. That is the upright religion (al-dīnu'l-qayyim); but most people do not know."* (al-Rūm 30/30)
 
-> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ ۝ مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
+> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ · مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
 > *"Turning to Him; and be mindful of Him, and hold the prayer upright, and be not of the mushrikūn — of those who split their religion apart and became sects, each party rejoicing in what it holds."* (al-Rūm 30/31-32)
 
 The table of comparison:
@@ -767,7 +767,7 @@ Reading these two verses together with al-Bayyina 98/4-5 completes the sūra's d
 
 ---
 
-## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
+## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
 
 *Inna'lladhīna kafarū min ahli'l-kitābi wa'l-mushrikīna fī nāri jahannama khālidīna fīhā; ulāʾika hum sharru'l-bariyya*
 
@@ -934,7 +934,7 @@ The cause of this doubleness is the sūra's whole subject: **the bayyina.** Havi
 
 ---
 
-## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
+## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
 
 *Jazāʾuhum ʿinda rabbihim jannātu ʿadnin tajrī min taḥtihā'l-anhāru khālidīna fīhā abadā; raḍiya'llāhu ʿanhum wa raḍū ʿanh; dhālika li-man khashiya rabbah*
 
@@ -1068,7 +1068,7 @@ Because **a gift does not close the distance between giver and receiver.** You m
 
 The Qurʾān sets this hierarchy out plainly in one place. In Sūrat al-Tawba, immediately after the Garden has been described, this sentence comes:
 
-> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
+> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
 > *"And a good pleasure (riḍwān) from God is greater. That is the mighty triumph."* (al-Tawba 9/72)
 
 **"Is greater"** — than what? Than the gardens and the dwellings enumerated just before. The verse makes the comparison itself, and sets contentment above them.
@@ -1083,7 +1083,7 @@ This is at the same time a measure that keeps piety from turning into creditorsh
 
 The Qurʾān frames this two-sided contentment in one more place, this time as two *adjectives*:
 
-> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ ۝ ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
+> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ · ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
 > *"O soul at rest! Return to your Lord, well pleased and well pleasing."* (al-Fajr 89/27-28)
 
 There two patterns of the same root come side by side: **رَاضِيَة** (an active participle: the one who is content) and **مَّرْضِيَّة** (a passive participle: the one with whom one is content). What is framed in al-Bayyina with two *verbs* is framed in al-Fajr with two *adjectives*.

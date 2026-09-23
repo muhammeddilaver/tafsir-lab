@@ -1962,7 +1962,7 @@ Simetrik olsaydı: kötülük yapanlara *bi-mâ amilû*, iyilik yapanlara da *bi
 
 ---
 
-## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
+## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
 
 *Ellezîne yectenibûne kebâira'l-ismi ve'l-fevâhışe ille'l-lemem · İnne rabbeke vâsiu'l-mağfira · Hüve a'lemü biküm iz enşeeküm mine'l-ardı ve iz entüm ecinnetün fî butûni ümmehâtiküm · Fe-lâ tüzekkû enfüseküm; hüve a'lemü bimeni'ttekâ*
 "Onlar, günahın büyüklerinden ve çirkin işlerden kaçınırlar — küçük kusurlar başka. Rabbinin bağışlaması geniştir. Sizi topraktan var ettiğinde ve annelerinizin karınlarında ceninler halindeyken de sizi en iyi bilen O'dur. Öyleyse kendinizi temize çıkarmayın; kimin korunduğunu en iyi O bilir."

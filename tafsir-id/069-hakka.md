@@ -1193,7 +1193,7 @@ Dan *yaumaiżin* (pada hari itu) masuk di tengah lalu menetapkan hal ini dari si
 
 ---
 
-## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
+## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
 
 *Wal-malaku ʻalā arjāʼihā; wa yaḥmilu ʻarsya rabbika fauqahum yaumaiżin ṡamāniyah*
 "Para malaikat berada di tepi-tepinya. Dan pada hari itu, delapan [makhluk] memikul Arasy Tuhanmu di atas mereka."
@@ -2462,7 +2462,7 @@ Saya catat ini sebagai pengamatan atas kata.
 
 ---
 
-## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
 *Wa mā huwa bi-qauli syāʻir; qalīlan mā tuʼminūn · Wa lā bi-qauli kāhin; qalīlan mā tażakkarūn · Tanzīlun min rabbil-ʻālamīn*
 "Ia bukanlah perkataan seorang penyair — alangkah sedikitnya kalian beriman! Bukan pula perkataan seorang tukang tenung — alangkah sedikitnya kalian mengambil pelajaran! Ia adalah sesuatu yang diturunkan dari Tuhan seluruh alam."

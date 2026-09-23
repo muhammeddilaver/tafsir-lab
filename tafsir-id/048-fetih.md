@@ -429,7 +429,7 @@ Bacaan ini punya padanannya di dalam surah. Peristiwa yang diceritakan surah ini
 
 ---
 
-## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 
 *Huwallażī anzalas-sakīnata fī qulūbil-muʼminīna li-yazdādū īmānan maʻa īmānihim; wa lillāhi junūdus-samāwāti wal-arḍ; wa kānallāhu ʻalīman ḥakīmā*
 
@@ -595,7 +595,7 @@ Inilah benih, pada ayat keempat, bagi kalimat *fa-ʻalima mā lam taʻlamū* pad
 
 ---
 
-## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
+## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
 
 *Li-yudkhilal-muʼminīna wal-muʼmināti jannātin tajrī min taḥtihal-anhāru khālidīna fīhā wa yukaffira ʻanhum sayyiʼātihim; wa kāna żālika ʻindallāhi fauzan ʻaẓīmā*
 
@@ -649,7 +649,7 @@ Ayat itu tidak berkata "inilah keselamatan yang besar". Ia berkata: **"inilah, d
 
 ---
 
-## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
+## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Wa yuʻażżibal-munāfiqīna wal-munāfiqāti wal-musyrikīna wal-musyrikātiẓ-ẓānnīna billāhi ẓannas-sauʼ; ʻalaihim dāʼiratus-sauʼ; wa gaḍiballāhu ʻalaihim wa laʻanahum wa aʻadda lahum jahannam; wa sāʼat maṣīrā*
 
@@ -721,7 +721,7 @@ Saya catat ini sebagai sebuah jalinan bunyi dan makna; bukan sebagai sebuah klai
 
 ---
 
-## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Wa lillāhi junūdus-samāwāti wal-arḍ; wa kānallāhu ʻazīzan ḥakīmā*
 
@@ -750,10 +750,10 @@ Ini adalah teknik penutup yang sering terlihat di dalam Al-Qur'an, dan gejala ya
 Bagian antara ayat keempat dan ketujuh membentuk sebuah **bingkai**:
 
 ```
-4  — bala tentara itu milik Allah  →  orang mukmin: sakīnah
-5  —                                   orang mukmin: taman-taman
-6  —                                   pihak lawan: azab
-7  — bala tentara itu milik Allah
+4 — bala tentara itu milik Allah → orang mukmin: sakīnah
+5 — orang mukmin: taman-taman
+6 — pihak lawan: azab
+7 — bala tentara itu milik Allah
 ```
 
 Jadi bagian tempat kedua kelompok itu terpisah diletakkan di antara dua pengulangan kalimat yang sama. **Inilah jalinan struktur surah ini yang paling teratur**, dan ia mengatakan: kedua kelompok itu berada di dalam kepemilikan yang sama. Pemisahan itu bukanlah pergantian kepemilikan.
@@ -889,7 +889,7 @@ Al-Qur'an memakai pasangan yang sama di beberapa tempat: *"Dan bertasbihlah kepa
 
 ---
 
-## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
+## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 *Innallażīna yubāyiʻūnaka innamā yubāyiʻūnallāh; yadullāhi fauqa aidīhim; fa-man nakaṡa fa-innamā yankuṡu ʻalā nafsih; wa man aufā bimā ʻāhada ʻalaihullāha fa-sa-yuʼtīhi ajran ʻaẓīmā*
 
@@ -1043,7 +1043,7 @@ Blok ini ditutup dengan "balasan yang besar". Dan surah ini pun akan ditutup den
 
 ---
 
-## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
+## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
 *Sa-yaqūlu lakal-mukhallafūna minal-aʻrābi syagalatnā amwālunā wa ahlūnā fastagfir lanā; yaqūlūna bi-alsinatihim mā laisa fī qulūbihim; qul fa-man yamliku lakum minallāhi syaiʼan in arāda bikum ḍarran au arāda bikum nafʻā; bal kānallāhu bimā taʻmalūna khabīrā*
 
@@ -1356,7 +1356,7 @@ Kata kerjanya berbentuk **lampau**: telah disediakan, sejak sebelumnya. Ini adal
 
 ---
 
-## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
 *Wa lillāhi mulkus-samāwāti wal-arḍ; yagfiru li-man yasyāʼu wa yuʻażżibu man yasyāʼ; wa kānallāhu gafūran raḥīmā*
 
@@ -1403,7 +1403,7 @@ Urutan ini menarik perhatian dan saya catat sebagai bacaan saya sendiri. Apa yan
 
 ---
 
-## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
+## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
 
 *Sa-yaqūlul-mukhallafūna iżanṭalaqtum ilā magānima li-taʼkhużūhā żarūnā nattabiʻkum; yurīdūna an yubaddilū kalāmallāh; qul lan tattabiʻūnā każālikum qālallāhu min qabl; fa-sa-yaqūlūna bal taḥsudūnanā; bal kānū lā yafqahūna illā qalīlā*
 
@@ -1510,7 +1510,7 @@ Dalam tafsir-tafsir klasik kedua bacaan itu sama-sama terdapat; saya tidak memak
 
 ---
 
-## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
+## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
 
 *Qul lil-mukhallafīna minal-aʻrābi satudʻauna ilā qaumin ulī baʼsin syadīdin tuqātilūnahum au yuslimūn; fa-in tuṭīʻū yuʼtikumullāhu ajran ḥasanā; wa in tatawallau kamā tawallaitum min qablu yuʻażżibkum ʻażāban alīmā*
 
@@ -1590,7 +1590,7 @@ Di dalam surah ini "balasan" disebut beberapa kali dan sifat-sifatnya berbeda:
 
 ---
 
-## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
+## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
 
 *Laisa ʻalal-aʻmā ḥarajun wa lā ʻalal-aʻraji ḥarajun wa lā ʻalal-marīḍi ḥaraj; wa man yuṭiʻillāha wa rasūlahū yudkhilhu jannātin tajrī min taḥtihal-anhār; wa man yatawalla yuʻażżibhu ʻażāban alīmā*
 
@@ -1724,9 +1724,9 @@ Jadi disebutnya pohon sebagai *syajarah* adalah karena **saling menyilangnya dah
 
 ```
 mereka sedang berbaiat
-      ↓
+ ↓
 Allah MENGETAHUI apa yang ada di dalam hati mereka
-      ↓
+ ↓
 Dia menurunkan sakīnah
 ```
 
@@ -1795,7 +1795,7 @@ Pada `061-saff.md` rangkaian yang sama telah dibahas: *fatḥun qarīb* (As-Saff
 
 ---
 
-## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Wa magānima kaṡīratan yaʼkhużūnahā; wa kānallāhu ʻazīzan ḥakīmā*
 
@@ -1882,7 +1882,7 @@ Saya catat ini sebagai sebuah pengamatan atas susunan kata: apa yang dikatakan s
 
 ---
 
-## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
+## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
 
 *Wa ukhrā lam taqdirū ʻalaihā qad aḥāṭallāhu bihā; wa kānallāhu ʻalā kulli syaiʼin qadīrā*
 
@@ -1983,7 +1983,7 @@ Pada `110-nasr.md` telah dicatat: makna konkret akar *naṣr* berkaitan dengan h
 
 ---
 
-## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
+## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
 
 *Sunnatallāhillatī qad khalat min qabl; wa lan tajida li-sunnatillāhi tabdīlā*
 
@@ -2089,7 +2089,7 @@ Kata itu datang dalam keadaan **mansub**: *sunnat**a**llāh*. Ini adalah titik y
 
 ---
 
-## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
+## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
 
 *Wa huwallażī kaffa aidiyahum ʻankum wa aidiyakum ʻanhum bi-baṭni Makkata min baʻdi an aẓfarakum ʻalaihim; wa kānallāhu bimā taʻmalūna baṣīrā*
 
@@ -2100,8 +2100,8 @@ Kata itu datang dalam keadaan **mansub**: *sunnat**a**llāh*. Ini adalah titik y
 **Di pusat ayat itu ada simetri yang sempurna:**
 
 ```
-aidiya-HUM   ʻan-KUM     — tangan mereka   dari kamu
-aidiya-KUM   ʻan-HUM     — tangan kamu     dari mereka
+aidiya-HUM ʻan-KUM — tangan mereka dari kamu
+aidiya-KUM ʻan-HUM — tangan kamu dari mereka
 ```
 
 Kata kerja yang sama (*kaffa*), dua objek, kata ganti yang bersilang timbal balik. **Dan hal yang sama dikerjakan kepada kedua pihak.**
@@ -2160,7 +2160,7 @@ Saya catat ini sebagai sebuah pengamatan atas susunan kata.
 
 ---
 
-## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
+## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 
 *Humullażīna kafarū wa ṣaddūkum ʻanil-masjidil-ḥarāmi wal-hadya maʻkūfan an yabluga maḥillah; wa lau lā rijālun muʼminūna wa nisāʼun muʼminātun lam taʻlamūhum an taṭaʼūhum fa-tuṣībakum minhum maʻarratun bi-gairi ʻilm; li-yudkhilallāhu fī raḥmatihī man yasyāʼ; lau tazayyalū la-ʻażżabnallażīna kafarū minhum ʻażāban alīmā*
 
@@ -2290,7 +2290,7 @@ Dan surah ini punya sebuah kelanjutan yang mendukung bacaan tersebut: dalam Sura
 
 ---
 
-## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
+## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *Iż jaʻalallażīna kafarū fī qulūbihimul-ḥamiyyata ḥamiyyatal-jāhiliyyati fa-anzalallāhu sakīnatahū ʻalā rasūlihī wa ʻalal-muʼminīna wa alzamahum kalimatat-taqwā wa kānū aḥaqqa bihā wa ahlahā; wa kānallāhu bikulli syaiʼin ʻalīmā*
 
@@ -2301,8 +2301,8 @@ Dan surah ini punya sebuah kelanjutan yang mendukung bacaan tersebut: dalam Sura
 **Ayat ini ditegakkan di atas sebuah perbandingan, dan kedua sisi perbandingan itu adalah dua kata:**
 
 ```
-Di satu pihak:  الحمية   —  ḥamiyyah  —  MEMANAS
-Di pihak lain:  السكينة  —  sakīnah   —  MEREDA
+Di satu pihak: الحمية — ḥamiyyah — MEMANAS
+Di pihak lain: السكينة — sakīnah — MEREDA
 ```
 
 **Dan pertentangan itu berada pada tataran akar kata**, bukan pada tataran kata. Yakni ayat itu tidak memperhadapkan "kemarahan" dengan "kesabaran", atau "dendam" dengan "kasih sayang". Yang diperhadapkan adalah **dua keadaan gerak**: memanas dan mereda.
@@ -2473,7 +2473,7 @@ Dan ayat itu ditutup dengan nama "Yang Maha Mengetahui segala sesuatu". **بِك
 
 ---
 
-## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
 
 *Laqad ṣadaqallāhu rasūlahur-ruʼyā bil-ḥaqq; la-tadkhulunnal-masjidal-ḥarāma in syāʼallāhu āminīna muḥalliqīna ruʼūsakum wa muqaṣṣirīna lā takhāfūn; fa-ʻalima mā lam taʻlamū fa-jaʻala min dūni żālika fatḥan qarībā*
 
@@ -2677,8 +2677,8 @@ Kalimat *"Dia mengetahui apa yang tidak kamu ketahui"* adalah **sebuah penjelasa
 Gambarannya menjadi begini:
 
 ```
-MIMPI          →   [ PENAKLUKAN (dekat) ]   →   TERWUJUDNYA MIMPI
-(janji)          YANG DILETAKKAN DI ANTARANYA          (Masjidilharam)
+MIMPI → [ PENAKLUKAN (dekat) ] → TERWUJUDNYA MIMPI
+(janji) YANG DILETAKKAN DI ANTARANYA (Masjidilharam)
 ```
 
 **Sebuah tahap telah diletakkan di antaranya.** Dan kepada tahap itulah nama surah ini diberikan: **penaklukan.**
@@ -2689,7 +2689,7 @@ MIMPI          →   [ PENAKLUKAN (dekat) ]   →   TERWUJUDNYA MIMPI
 
 ---
 
-## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
+## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Huwallażī arsala rasūlahū bil-hudā wa dīnil-ḥaqqi li-yuẓhirahū ʻalad-dīni kullih; wa kafā billāhi syahīdā*
 
@@ -2775,7 +2775,7 @@ Analisis akar kata **دِين** telah dikerjakan pada `107-maun.md` (**د-ي-ن*
 
 ---
 
-## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
+## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
 
 *Muḥammadur-rasūlullāh; wallażīna maʻahū asyiddāʼu ʻalal-kuffāri ruḥamāʼu bainahum; tarāhum rukkaʻan sujjadan yabtagūna faḍlan minallāhi wa riḍwānā; sīmāhum fī wujūhihim min aṡaris-sujūd; żālika maṡaluhum fit-Taurāh; wa maṡaluhum fil-Injīli kazarʻin akhraja syaṭʼahū fa-āzarahū fastaglaẓa fastawā ʻalā sūqihī yuʻjibuz-zurrāʻa li-yagīẓa bihimul-kuffār; waʻadallāhullażīna āmanū wa ʻamiluṣ-ṣāliḥāti minhum magfiratan wa ajran ʻaẓīmā*
 
@@ -2924,7 +2924,7 @@ Ayat ini telah disebut dengan fungsi yang sama pada `059-hasr.md` dan ia berlaku
 
 **Saya catat ini sebagai bacaan saya sendiri:** dihasilkannya sebuah tanda untuk dipertontonkan membuat tanda itu berhenti menjadi tanda. Ini adalah pokok yang diperingatkan Al-Qur'an secara terang di tempat-tempat lain — kritik terhadap ibadah yang dikerjakan untuk dipamerkan (telah dibahas pada `107-maun.md`). Kalimat ayat itu adalah sebuah **penetapan**: pada mereka ada jejak semacam itu. Ia bukan sebuah anjuran: ia tidak berkata "peroleh jejak semacam itu".
 
-### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
+### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
 
 **مَثَل** — akar kata **م-ث-ل**: menyerupai, menjadi tandingan sesuatu. *Miṡāl*, *timṡāl*, *tamṡīl*, *mumāṡil*. Dalam bahasa Arab kata itu berarti sekaligus "perumpamaan" dan **"pemerian, penggambaran"**.
 
@@ -3044,7 +3044,7 @@ Dalam penjelasan-penjelasan klasik ada dua bacaan:
 
 ```
 benih → tunas → topangan → penebalan → berdiri tegak
-        (dari samping) (timbal balik) (ketahanan) (kemandirian)
+ (dari samping) (timbal balik) (ketahanan) (kemandirian)
 ```
 
 **Saya catat ini sebagai bacaan saya sendiri dan saya tidak menyajikannya sebagai riwayat:**

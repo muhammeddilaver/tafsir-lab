@@ -137,7 +137,7 @@ The root **أ-و-ل**: **to arrive at the origin of a thing, at the place it ret
 
 ### وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ
 
-**The إِن here is the *in mukhaffafa***  — that is, the lightened form of *inna*, not a negation. Its mark is the **لَ** in the following clause (the *lām al-fāriqa*, the *lām* of distinction). **The sense: "you were indeed, before it, among those unaware."**
+**The إِن here is the *in mukhaffafa*** — that is, the lightened form of *inna*, not a negation. Its mark is the **لَ** in the following clause (the *lām al-fāriqa*, the *lām* of distinction). **The sense: "you were indeed, before it, among those unaware."**
 
 **This is a grammatical detail, but it carries the meaning:** if the sentence is read as a negation ("you were not unaware"), the sense is reversed. **The *lām* prevents this.**
 
@@ -344,7 +344,7 @@ The root **أ-و-ل**: **to arrive at the origin of a thing, at the place it ret
 
 ---
 
-## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
+## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
 
 *Qālū yā abānā mā laka lā taʾmannā ʿalā Yūsufa wa-innā lahu la-nāṣiḥūn · Arsilhu maʿanā ghadan yartaʿ wa-yalʿab wa-innā lahu la-ḥāfiẓūn · Qāla innī la-yaḥzununī an tadhhabū bihi wa-akhāfu an yaʾkulahu'dh-dhiʾbu wa-antum ʿanhu ghāfilūn · Qālū la-in akalahu'dh-dhiʾbu wa-naḥnu ʿuṣbatun innā idhan la-khāsirūn*
 
@@ -363,7 +363,7 @@ The root **أ-و-ل**: **to arrive at the origin of a thing, at the place it ret
 
 **And it is striking: of the two grounds the father gives, only one is answered.** The father said "I shall grieve" and "I fear a wolf may eat him"; the brothers answered only the wolf. **The grief was left unanswered.** I record this as my own reading; its ground is the comparison of verses 13 and 14.
 
-### لَا تَأْمَ۫نَّا — a note on the variant readings and the orthography
+### لَا تَأْمَنَّا — a note on the variant readings and the orthography
 
 **The verb is *lā taʾmanunā*, and in the orthography of the muṣḥaf the two *nūn*s are written joined.** **The reciters differ over the pronunciation of this word** — two pronunciations, called *ishmām* and *ikhtilās*, are transmitted. **The difference lies in the utterance and does not change the meaning; for that reason I do not go into its detail.**
 

@@ -318,7 +318,7 @@ Tabloda dikkat çeken şey şu: **listedeki tek gök cismi aydır.** Kökün öt
 Cümle iki mâzî (geçmiş zaman) fiilden ve aralarındaki bir vâv'dan ibarettir:
 
 ```
-ٱقْتَرَبَتِ ٱلسَّاعَةُ   وَ   ٱنشَقَّ ٱلْقَمَرُ
+ٱقْتَرَبَتِ ٱلسَّاعَةُ وَ ٱنشَقَّ ٱلْقَمَرُ
 ```
 
 Ve bütün ihtilaf buradan doğuyor. Çünkü Arapçada **mâzî fiil, henüz olmamış bir olayı da anlatabilir** — ve bunu iki farklı gerekçeyle yapar:
@@ -469,7 +469,7 @@ Bunu kendi okumam olarak kaydediyorum. Bu tür bir "kelimenin sahibine dönmesi"
 
 ---
 
-## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
+## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
 
 *Ve kezzebû ve'ttebeû ehvâehüm; ve küllü emrin müstekırr*
 "Yalanladılar ve heveslerine uydular. Her iş yerini bulacaktır."
@@ -527,7 +527,7 @@ Ayet bu ikisini ayırıyor: **görünmeyen sonuç ile olmayan sonuç aynı şey 
 
 ---
 
-## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ
 
 *Velekad câehüm mine'l-enbâi mâ fîhi müzdecer — hikmetün bâliğatün fe-mâ tuğni'n-nüzür*
 "Andolsun ki onlara, içinde caydırıcılık bulunan haberler geldi. Erişmiş bir hikmet. Ama uyarılar fayda vermiyor."
@@ -618,7 +618,7 @@ Yani beşinci ayet, on yedinci ayette başlayacak nakaratın **önden söylenmi�
 
 ---
 
-## 54/6 — فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
+## 54/6 — فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
 
 *Fe-tevelle anhüm; yevme yed'u'd-dâi ilâ şey'in nükür*
 "Öyleyse onlardan yüz çevir. Çağıranın tanınmadık bir şeye çağıracağı gün…"
@@ -786,7 +786,7 @@ Kur'an'ın kendisi çekirgeyi bir azap olarak da anar: *"Üzerlerine tufan, **ç
 
 ---
 
-## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
+## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
 
 *Mühti'îne ile'd-dâ'; yekûlü'l-kâfirûne hâzâ yevmün asir*
 "Çağırana doğru boyun uzatmış koşarlar. Kâfirler, 'Bu, zor bir gün' der."
@@ -1437,10 +1437,10 @@ Bu ayet sûrenin yapısındaki en dikkat çekici tercihtir ve yukarıda tablo ha
 Sonuç: Âd kıssası, aynı cümlenin iki yanına konduğu üç ayetlik bir tasvirden ibaret hale geliyor.
 
 ```
-18  كذبت عاد    فكيف كان عذابي ونذر
-19  إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
-20  تنزع الناس كأنهم أعجاز نخل منقعر
-21              فكيف كان عذابي ونذر
+18 كذبت عاد فكيف كان عذابي ونذر
+19 إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
+20 تنزع الناس كأنهم أعجاز نخل منقعر
+21 فكيف كان عذابي ونذر
 ```
 
 **Kendi okumam olarak kaydediyorum:** bu kuruluş, on dokuz ve yirminci ayetleri bir **parantez içine** alıyor. Soru sorulup cevap veriliyor, sonra soru tekrar soruluyor. Yani okuyucu tasviri, iki kez sorulmuş bir sorunun cevabı olarak okuyor.
@@ -1800,7 +1800,7 @@ Bu ayrıntıyı Hûd 11/65'e dayanarak veriyorum; **`091-sems.md`**'de de Kur'an
 
 ---
 
-## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
 
 *İnnâ mürsilü'n-nâkati fitneten lehüm fe'rtakıbhüm ve'stabir — ve nebbi'hüm enne'l-mâe kısmetün beynehüm; küllü şirbin muhtadar*
 "Biz, onlara bir imtihan olmak üzere deveyi gönderiyoruz. Sen onları gözetle ve sabret. Onlara haber ver ki su, aralarında paylaştırılmıştır; her içme nöbetine sırası gelen hazır bulunacaktır."
@@ -1955,8 +1955,8 @@ Ayet dört kelimeden ibaret ve üçü fiil. Üçü de **فَ** ile bağlanmış.
 Yani ayet, üç eylemi **tek bir hareket dizisi** olarak veriyor:
 
 ```
-فَنَادَوْا    →  فَتَعَاطَىٰ  →  فَعَقَرَ
-çağırdılar      uzandı aldı      kesti
+فَنَادَوْا → فَتَعَاطَىٰ → فَعَقَرَ
+çağırdılar uzandı aldı kesti
 ```
 
 Arada duraklama yok, düşünme yok, tereddüt yok. **Sûrenin en hızlı ayeti budur.**
@@ -2048,10 +2048,10 @@ Yukarıda nakarat tablosunda kaydettiğim en dikkat çekici yerleşim budur ve b
 Sıra şudur:
 
 ```
-29  فنادوا صاحبهم فتعاطى فعقر          ← SUÇ
-30  فكيف كان عذابي ونذر                ← SORU
-31  إنا أرسلنا عليهم صيحة واحدة ...     ← CEVAP
-32  ولقد يسرنا القرآن للذكر ...         ← ZİKİR NAKARATI
+29 فنادوا صاحبهم فتعاطى فعقر ← SUÇ
+30 فكيف كان عذابي ونذر ← SORU
+31 إنا أرسلنا عليهم صيحة واحدة ... ← CEVAP
+32 ولقد يسرنا القرآن للذكر ... ← ZİKİR NAKARATI
 ```
 
 Öteki üç kıssada nakarat, cezanın tasvirinden **sonra** gelir. Burada **arasına** giriyor.
@@ -2166,7 +2166,7 @@ Nakaratın **üçüncü** tam geçişi. Arkasında üç kıssa var: Nûh, Âd, S
 
 ## IV. Lût — 54/33-40
 
-## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَٰهُم بِسَحَرٍ
+## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
 
 *Kezzebet kavmü Lûtın bi'n-nüzür — innâ erselnâ aleyhim hâsıben illâ âle Lûtın; necceynâhüm bi-sehar*
 "Lût kavmi de uyarıları yalanladı. Biz onların üzerine taş savuran bir rüzgâr gönderdik — Lût'un ailesi müstesna; onları bir seher vaktinde kurtardık."
@@ -2259,7 +2259,7 @@ Ve bu, sûrenin başka yerlerde de yaptığı bir şeydir: **süre vermek.** *Sa
 
 ---
 
-## 54/35 — نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ
+## 54/35 — نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ
 
 *Ni'meten min indinâ; kezâlike neczî men şeker*
 "Katımızdan bir nimet olarak. İşte şükredeni böyle karşılıklandırırız."
@@ -3031,8 +3031,8 @@ Bunları tekrarlamıyorum.
 Cümle **iştigâl** yapısındadır ve bunu görmek gerekiyor:
 
 ```
-إِنَّا   كُلَّ شَىْءٍ   خَلَقْنَٰهُ   بِقَدَرٍ
-inne    külle şey'in   halaknâ-hü    bi-kader
+إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+inne külle şey'in halaknâ-hü bi-kader
 ```
 
 **كُلَّ شَىْءٍ** **mansûb**dur (*külle*, fetha ile). Oysa fiilin nesnesi zaten var: *halaknâ-**hü*** — sondaki *hü* zamiri.
@@ -3557,9 +3557,9 @@ Yani *melîk*, *melik*ten daha ağırdır: **mülkü yerleşik ve tam olan.**
 **Ve şimdi sûrenin en sıkı halkası tamamlanıyor.**
 
 ```
-42   فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
-49   إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
-55   فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
+42 فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
+49 إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+55 فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
 ```
 
 Üç ayet, tek kök, üç ayrı iş:

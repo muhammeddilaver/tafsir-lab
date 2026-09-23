@@ -73,7 +73,7 @@ Surah ini terdiri atas sembilan blok. Batas-batas bloknya ditandai oleh perpinda
 
 ---
 
-## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
+## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
 
 *Yā ayyuhallażīna āmanū aufū bil-ʻuqūd · Uḥillat lakum bahīmatul-anʻāmi illā mā yutlā ʻalaikum gaira muḥilliṣ-ṣaidi wa antum ḥurum · Innallāha yaḥkumu mā yurīd*
 
@@ -151,7 +151,7 @@ Kata-kata Indonesia **"akad", "akad nikah", "akidah", "iktikad"** berasal dari a
 
 ---
 
-## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
+## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
 
 *Yā ayyuhallażīna āmanū lā tuḥillū syaʻāʼirallāhi wa lasy-syahral-ḥarāma wa lal-hadya wa lal-qalāʼida wa lā āmmīnal-baital-ḥarāma yabtagūna faḍlan min rabbihim wa riḍwānā · Wa iżā ḥalaltum faṣṭādū · Wa lā yajrimannakum syanaʼānu qaumin an ṣaddūkum ʻanil-Masjidil-Ḥarāmi an taʻtadū · Wa taʻāwanū ʻalal-birri wat-taqwā wa lā taʻāwanū ʻalal-iṡmi wal-ʻudwān · Wattaqullāh · Innallāha syadīdul-ʻiqāb*
 
@@ -270,7 +270,7 @@ Dalam bahasa Arab **bab VI menunjukkan kesalingan** — pekerjaan yang dilakukan
 
 ---
 
-## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
 *Ḥurrimat ʻalaikumul-maitatu wad-damu wa laḥmul-khinzīri wa mā uhilla li-gairillāhi bihī wal-munkhaniqatu wal-mauqūżatu wal-mutaraddiyatu wan-naṭīḥatu wa mā akalas-sabuʻu illā mā żakkaitum wa mā żubiḥa ʻalan-nuṣubi wa an tastaqsimū bil-azlām · Żālikum fisq · Al-yauma yaʼisallażīna kafarū min dīnikum fa-lā takhsyauhum wakhsyaun · Al-yauma akmaltu lakum dīnakum wa atmamtu ʻalaikum niʻmatī wa raḍītu lakumul-Islāma dīnā · Fa-maniḍṭurra fī makhmaṣatin gaira mutajānifin li-iṡmin fa-innallāha gafūrun raḥīm*
 
@@ -449,7 +449,7 @@ Dalam bahasa Arab **bab VI menunjukkan kesalingan** — pekerjaan yang dilakukan
 
 ---
 
-## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
+## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
 
 *Yasʼalūnaka māżā uhilla lahum · Qul uhilla lakumuṭ-ṭayyibātu wa mā ʻallamtum minal-jawāriḥi mukallibīna tuʻallimūnahunna mimmā ʻallamakumullāh · Fa-kulū mimmā amsakna ʻalaikum ważkurusmallāhi ʻalaih · Wattaqullāh · Innallāha sarīʻul-ḥisāb*
 
@@ -508,7 +508,7 @@ Dalam bahasa Arab **bab VI menunjukkan kesalingan** — pekerjaan yang dilakukan
 
 ---
 
-## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
+## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
 
 *Al-yauma uhilla lakumuṭ-ṭayyibāt · Wa ṭaʻāmullażīna ūtul-kitāba ḥillun lakum wa ṭaʻāmukum ḥillun lahum · Wal-muḥṣanātu minal-muʼmināti wal-muḥṣanātu minallażīna ūtul-kitāba min qablikum iżā ātaitumūhunna ujūrahunna muḥṣinīna gaira musāfiḥīna wa lā muttakhiżī akhdān · Wa man yakfur bil-īmāni fa-qad ḥabiṭa ʻamaluh wa huwa fil-ākhirati minal-khāsirīn*
 
@@ -704,7 +704,7 @@ Dalam bahasa Arab **bab VI menunjukkan kesalingan** — pekerjaan yang dilakukan
 
 ---
 
-## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Ważkurū niʻmatallāhi ʻalaikum wa mīṡāqahullażī wāṡaqakum bihī iż qultum samiʻnā wa aṭaʻnā · Wattaqullāh · Innallāha ʻalīmun bi-żātiṣ-ṣudūr*
 
@@ -753,7 +753,7 @@ Dalam bahasa Arab **bab VI menunjukkan kesalingan** — pekerjaan yang dilakukan
 
 ---
 
-## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
 *Yā ayyuhallażīna āmanū kūnū qawwāmīna lillāhi syuhadāʼa bil-qisṭ · Wa lā yajrimannakum syanaʼānu qaumin ʻalā allā taʻdilū · Iʻdilū huwa aqrabu lit-taqwā · Wattaqullāh · Innallāha khabīrun bimā taʻmalūn*
 
@@ -943,7 +943,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
+## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
 
 *Wa laqad akhażallāhu mīṡāqa banī Isrāʼīla wa baʻaṡnā minhumuṡnai ʻasyara naqībā · Wa qālallāhu innī maʻakum · La-in aqamtumuṣ-ṣalāta wa ātaitumuz-zakāta wa āmantum bi-rusulī wa ʻazzartumūhum wa aqraḍtumullāha qarḍan ḥasanan la-ukaffiranna ʻankum sayyiʼātikum wa la-udkhilannakum jannātin tajrī min taḥtihal-anhār · Fa-man kafara baʻda żālika minkum fa-qad ḍalla sawāʼas-sabīl*
 
@@ -1012,7 +1012,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
+## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
 *Fa-bimā naqḍihim mīṡāqahum laʻannāhum wa jaʻalnā qulūbahum qāsiyah · Yuḥarrifūnal-kalima ʻan mawāḍiʻihī wa nasū ḥaẓẓan mimmā żukkirū bih · Wa lā tazālu taṭṭaliʻu ʻalā khāʼinatin minhum illā qalīlan minhum · Faʻfu ʻanhum waṣfaḥ · Innallāha yuḥibbul-muḥsinīn*
 
@@ -1110,7 +1110,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
+## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
 *Wa minallażīna qālū innā naṣārā akhażnā mīṡāqahum fa-nasū ḥaẓẓan mimmā żukkirū bih · Fa-agrainā bainahumul-ʻadāwata wal-bagḍāʼa ilā yaumil-qiyāmah · Wa saufa yunabbiʼuhumullāhu bimā kānū yaṣnaʻūn*
 
@@ -1168,7 +1168,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
+## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
 
 *Yā ahlal-kitābi qad jāʼakum rasūlunā yubayyinu lakum kaṡīran mimmā kuntum tukhfūna minal-kitābi wa yaʻfū ʻan kaṡīr · Qad jāʼakum minallāhi nūrun wa kitābun mubīn · Yahdī bihillāhu manittabaʻa riḍwānahū subulas-salāmi wa yukhrijuhum minaẓ-ẓulumāti ilan-nūri bi-iżnihī wa yahdīhim ilā ṣirāṭin mustaqīm*
 
@@ -1222,7 +1222,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
+## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
 
 *Laqad kafarallażīna qālū innallāha huwal-Masīḥubnu Maryam · Qul fa-man yamliku minallāhi syaiʼan in arāda an yuhlikal-Masīḥabna Maryama wa ummahū wa man fil-arḍi jamīʻā · Wa lillāhi mulkus-samāwāti wal-arḍi wa mā bainahumā · Yakhluqu mā yasyāʼ · Wallāhu ʻalā kulli syaiʼin qadīr*
 
@@ -1252,7 +1252,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
+## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
 
 *Wa qālatil-yahūdu wan-naṣārā naḥnu abnāʼullāhi wa aḥibbāʼuh · Qul fa-lima yuʻażżibukum bi-żunūbikum · Bal antum basyarun mimman khalaq · Yagfiru li-man yasyāʼu wa yuʻażżibu man yasyāʼ · Wa lillāhi mulkus-samāwāti wal-arḍi wa mā bainahumā · Wa ilaihil-maṣīr*
 
@@ -1289,7 +1289,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
+## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
 
 *Yā ahlal-kitābi qad jāʼakum rasūlunā yubayyinu lakum ʻalā fatratin minar-rusuli an taqūlū mā jāʼanā min basyīrin wa lā nażīr · Fa-qad jāʼakum basyīrun wa nażīr · Wallāhu ʻalā kulli syaiʼin qadīr*
 
@@ -1416,7 +1416,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
+## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
 *Qāla rabbi innī lā amliku illā nafsī wa akhī · Fafruq bainanā wa bainal-qaumil-fāsiqīn · Qāla fa-innahā muḥarramatun ʻalaihim arbaʻīna sanatan yatīhūna fil-arḍ · Fa-lā taʼsa ʻalal-qaumil-fāsiqīn*
 
@@ -1434,7 +1434,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ### Tanda *muʻānaqah* di dalam mushaf
 
-**Pada ayat ini di dalam mushaf-mushaf klasik terdapat dua tanda bertitik tiga berbentuk `ۛ`: satu sebelum *arbaʻīna sanatan*, satu sesudahnya.**
+**Pada ayat ini di dalam mushaf-mushaf klasik terdapat dua tanda bertitik tiga berbentuk ``: satu sebelum *arbaʻīna sanatan*, satu sesudahnya.**
 
 **Ini adalah tanda *muʻānaqah* (berpelukan) yang telah dibahas pada `002-bakara.md` 2/2, dan di sana telah dicatat:** **berhenti dilakukan pada salah satu dari kedua tempat itu, dan tidak pada keduanya sekaligus.** Saya bersandar pada pembahasan itu.
 
@@ -1461,7 +1461,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
+## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
 *Watlu ʻalaihim nabaʼabnai Ādama bil-ḥaqq · Iż qarrabā qurbānan fa-tuqubbila min aḥadihimā wa lam yutaqabbal minal-ākhar · Qāla la-aqtulannak · Qāla innamā yataqabbalullāhu minal-muttaqīn*
 
@@ -1505,7 +1505,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
+## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
 *La-in basaṭta ilayya yadaka li-taqtulanī mā ana bi-bāsiṭin yadiya ilaika li-aqtulak · Innī akhāfullāha rabbal-ʻālamīn*
 
@@ -1611,7 +1611,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
+## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
 *Fa-baʻaṡallāhu gurāban yabḥaṡu fil-arḍi li-yuriyahū kaifa yuwārī sauʼata akhīh · Qāla yā wailatā a-ʻajaztu an akūna miṡla hāżal-gurābi fa-uwāriya sauʼata akhī · Fa-aṣbaḥa minan-nādimīn*
 
@@ -2156,7 +2156,7 @@ Dan datangnya kata *qaum* dalam bentuk tidak tentu (nakirah) harus dicatat: *sya
 
 ---
 
-## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
+## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
 
 "**Mereka berkata: 'Tangan Allah terbelenggu'. Tangan merekalah yang terbelenggu, dan mereka dilaknat karena apa yang mereka katakan. Tidak; kedua tangan-Nya terbuka lebar; Dia memberi sebagaimana yang Dia kehendaki.**"
 
@@ -2244,7 +2244,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 ---
 
-## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
+## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
 
 **Waktu kata kerjanya harus dicatat:** *farīqan **każżabū*** (bentuk lampau) **/** *wa farīqan **yaqtulūn*** (bentuk kini dan nanti).
 
@@ -2288,7 +2288,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 **Surah ini telah menegakkan urutan tersebut dua kali sebelumnya: 5/33-34 dan 5/38-39.** **Hukum → pintu untuk kembali → *gafūrun raḥīm*.** **Pengulangan yang ketiga ada di sini.**
 
-### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
+### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
 
 ***Kānā yaʼkulāniṭ-ṭaʻām* — "keduanya makan makanan".**
 
@@ -2310,7 +2310,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 ---
 
-## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
+## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
 
 "**Mereka tidak saling mencegah dari kemungkaran yang mereka kerjakan. Sungguh buruk apa yang mereka perbuat!**"
 
@@ -2330,7 +2330,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 ---
 
-## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
+## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
 
 "**Engkau akan mendapati manusia yang paling keras permusuhannya terhadap orang-orang yang beriman adalah … Dan engkau akan melihat bahwa yang paling dekat kasih sayangnya kepada orang-orang yang beriman adalah mereka yang berkata 'kami orang Nasrani'. Sebab di antara mereka ada para pendeta dan para rahib, dan mereka tidak menyombongkan diri.**"
 
@@ -2487,7 +2487,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 **عَفَا ٱللَّهُ عَمَّا سَلَفَ** — **dan diumumkanlah pemaafan bagi masa lalu.** **Ungkapan yang sama muncul pula di tempat-tempat lain dalam Al-Qur'an di luar `005-maide.md` 5/95; di sini diberitakan dengan terang bahwa hukumnya tidak diberlakukan surut.**
 
-### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
+### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
 
 **Pembedaannya terang: buruan laut dibolehkan, buruan darat dilarang selama ihram.** ***Mā dumtum ḥurumā* — catatan tentang lamanya.**
 
@@ -2556,7 +2556,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 ---
 
-## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
+## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
 
 "**Wahai orang-orang yang beriman! Jagalah dirimu. Orang yang sesat tidak akan mendatangkan mudarat kepadamu selama kamu berada di jalan yang benar.**"
 
@@ -2609,7 +2609,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 ---
 
-## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
+## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ قَالُوا۟ لَا عِلْمَ لَنَآ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
 "**Pada hari Allah mengumpulkan para utusan, Dia akan berfirman: 'Jawaban apa yang diberikan kepadamu?' Mereka akan menjawab: 'Kami tidak mempunyai pengetahuan. Sesungguhnya Engkaulah yang Maha Mengetahui segala yang gaib.'**"
 
@@ -2681,7 +2681,7 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 **Akar *iṭmiʼnān* telah dibahas pada `013-rad.md` 13/28 (*alā bi-żikrillāhi taṭmaʼinnul-qulūb*) dan pada `002-bakara.md` 2/260 (dalam permintaan Ibrahim *wa lākin li-yaṭmaʼinna qalbī*);** saya bersandar pada pembahasan itu. **Kata yang sama, dalam sebuah permintaan yang sejenis.**
 
-### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
+### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
 
 **Saya catat ini sebagai bacaan saya sendiri, dan sandarannya adalah syarat kalimat itu:** permintaannya diterima, **tetapi sebagai gantinya tanggung jawabnya menjadi lebih berat.** **Jadi ketika dalil yang diminta itu diberikan, pengingkaran yang datang sesudah dalil tersebut memikul beban yang lain.**
 
@@ -2718,13 +2718,13 @@ Para mufasir umumnya menjelaskan rangkaian ini sebagai **hujan dari langit, tumb
 
 **Kalimat yang sama dua kali dengan jarak empat puluh lima ayat** — yang satu sebagai dalil banding bagi putusan itu, yang lain sebagai jawaban pada perhitungan. **Pengulangan ini dapat diverifikasi dari teks.**
 
-**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
+**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
 
 ***Mā dumtu fīhim* — catatan tentang lamanya.** **Persaksian itu dibatasi oleh lamanya ia berada di sana.**
 
 **Para mufasir berbeda pendapat tentang makna kata *tawaffī* (و-ف-ي) di sini** — **makna asal akarnya adalah "mengambil secara penuh, menerima penyerahan tanpa kurang", dan hal itu telah diperdebatkan dalam konteks `003-al-i-imran.md` 3/55 dan `004-nisa.md` 4/157-158.** **Dalam tafsir ini tidak ada pilihan yang diambil.**
 
-### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 **Kalimat itu memuat dua syarat dan memberikan dua alasan:**
 

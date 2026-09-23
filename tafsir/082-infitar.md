@@ -1417,7 +1417,7 @@ Yani soru "o gün nasıl bir gündür?" diye soruluyor ve cevap "o gün kimse ki
 
 ---
 
-## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
+## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
 
 *Yevme lâ temlikü nefsün li-nefsin şey'â • ve'l-emru yevmeizin lillâh*
 "O gün hiçbir nefis, bir başka nefis için hiçbir şeye sahip değildir. O gün emir/iş yalnızca Allah'ındır."

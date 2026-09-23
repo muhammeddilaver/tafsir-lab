@@ -870,7 +870,7 @@ Dan penutup ayat keempatnya pun sama: *banīh, akhīh, tuʼwīh, yunjīh* — se
 
 ---
 
-## 70/15-16 — كَلَّآ ۖ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
+## 70/15-16 — كَلَّآ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
 
 *Kallā innahā laẓā · Nazzāʻatan lisy-syawā*
 "Sekali-kali tidak! Ia adalah nyala api; yang menghanguskan dan mengelupaskan kulit."
@@ -2258,7 +2258,7 @@ Saya catat ini sebagai sebuah bacaan; isi kedua ayat itu dan kaitannya dengan ay
 
 ---
 
-## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
+## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
 
 *A-yaṭmaʻu kullumriʼin minhum an yudkhala jannata naʻīm · Kallā innā khalaqnāhum mimmā yaʻlamūn*
 "Apakah setiap orang dari mereka berharap dimasukkan ke dalam surga yang penuh kenikmatan? Sekali-kali tidak! Kami menciptakan mereka dari apa yang mereka ketahui."
@@ -2602,7 +2602,7 @@ Dan kata kerjanya **muḍāriʻ**: janji itu berlangsung, ia diulang.
 
 ---
 
-## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
+## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
 *Yauma yakhrujūna minal-ajdāṡi sirāʻan ka-annahum ilā nuṣubin yūfiḍūn · Khāsyiʻatan abṣāruhum tarhaquhum żillah; żālikal-yaumul-lażī kānū yūʻadūn*
 "Pada hari mereka keluar dari kubur dengan bergegas, seakan-akan mereka berlari menuju sebuah tanda yang dipancangkan. Pandangan mereka tertunduk, diliputi kehinaan. Itulah hari yang dahulu dijanjikan kepada mereka."

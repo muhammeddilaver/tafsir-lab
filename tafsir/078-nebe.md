@@ -2116,7 +2116,7 @@ Bunu bir gözlem olarak kaydediyorum; kelime tekrarı doğrulanabilir bir veridi
 
 ---
 
-## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
 
 *Rabbi's-semâvâti ve'l-ardı ve mâ beynehüme'r-Rahmân · Lâ yemlikûne minhü hıtâbâ*
 "Göklerin, yerin ve ikisi arasındakilerin Rabbi — Rahmân. O'na hitap etmeye güçleri yetmez."
@@ -2206,7 +2206,7 @@ Bunu kendi okumam olarak kaydediyorum, ama sûrenin söz örgüsü metindedir:
 
 ---
 
-## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
+## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
 
 *Yevme yekūmü'r-rûhu ve'l-melâiketü saffâ · Lâ yetekellemûne illâ men ezine lehü'r-Rahmânü ve kāle savâbâ*
 "O gün Ruh ve melekler saf halinde dururlar. Konuşamazlar — ancak Rahmân'ın izin verdiği ve doğru söyleyen [konuşur]."
@@ -2327,7 +2327,7 @@ Kaydedilecek olan şudur: ayet şefaatin varlığını da yokluğunu da tek baş
 
 ---
 
-## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
+## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 
 *Zâlike'l-yevmü'l-hakk · Fe-men şâe'ttehaze ilâ rabbihî meâbâ*
 "İşte o, gerçek gündür. Dileyen Rabbine bir dönüş yeri edinsin."

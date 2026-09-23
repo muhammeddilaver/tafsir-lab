@@ -358,7 +358,7 @@ Ia adalah yang kedua dari tujuh surah yang dibuka dengan *Ḥā mīm*.
 
 **Pasangan yang sama telah muncul pula pada ayat 25 surah ini** — di sana para *qarīn* **menjadikan indah** apa yang ada di hadapan dan apa yang ada di belakang mereka. **Rangkaian yang sama, pada dua arah yang berbeda: yang satu cakupan penghiasan, yang lain cakupan penjagaan.** Ini adalah pengulangan yang dapat diverifikasi di dalam surah.
 
-### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ
+### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَاعْجَمِىٌّ وَعَرَبِىٌّ
 
 "Seandainya Kami menjadikannya sebuah Al-Qur'an **dalam bahasa asing**, niscaya mereka akan berkata: '**Mengapa tidak dijadikan terperinci ayat-ayatnya? Bahasa asing untuk orang Arab?**'"
 

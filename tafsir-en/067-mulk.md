@@ -151,7 +151,7 @@ The sūra does not once say "you are not the owner". It only asks questions. And
 
 ---
 
-## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
+## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
 
 *Alladhī khalaqa'l-mawta wa'l-ḥayāta li-yabluwakum ayyukum aḥsanu ʿamalā, wa huwa'l-ʿazīzu'l-ghafūr*
 "He who created death and life, to test which of you is best in deed. He is the mighty, the much-forgiving."
@@ -294,7 +294,7 @@ And the sūra lays down as its measure the one that cannot be answered.
 
 ---
 
-## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
+## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
 
 *Alladhī khalaqa sabʿa samāwātin ṭibāqā, mā tarā fī khalqi'l-raḥmāni min tafāwut, fa'rjiʿi'l-baṣara hal tarā min fuṭūr*
 "He who created seven heavens in layers. You will see no disharmony in the creation of the Merciful. Turn your gaze back and look: do you see any crack?"
@@ -521,7 +521,7 @@ A second aspect: **looking in search is different from looking as a spectator.**
 
 ---
 
-## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
+## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
 
 *Wa laqad zayyanna'l-samāʾa'l-dunyā bi-maṣābīḥa wa jaʿalnāhā rujūman li'l-shayāṭīn, wa aʿtadnā lahum ʿadhāba'l-saʿīr*
 "We have adorned the nearest sky with lamps and made them things to be hurled at the satans. And We have prepared for them the punishment of the blaze."
@@ -604,7 +604,7 @@ This word occurs three times in the sūra (5, 10, 11) and in all three it names 
 
 ---
 
-## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ ۝ إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
+## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ ٱلْمَصِيرُ · إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
 
 *Wa lilladhīna kafarū bi-rabbihim ʿadhābu jahannam, wa biʾsa'l-maṣīr — idhā ulqū fīhā samiʿū lahā shahīqan wa hiya tafūr*
 "And for those who denied their Lord there is the punishment of Hell; what an evil destination! When they are cast into it they hear it drawing a terrible breath as it boils."
@@ -656,7 +656,7 @@ Its best-known use in the Qurʾān is in the story of Noah: *"Until, when Our co
 
 ---
 
-## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ ۝ قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
+## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ · قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
 
 *Takādu tamayyazu mina'l-ghayẓ, kullamā ulqiya fīhā fawjun saʾalahum khazanatuhā a-lam yaʾtikum nadhīr — qālū balā qad jāʾanā nadhīrun fa-kadhdhabnā wa qulnā mā nazzala'llāhu min shayʾin in antum illā fī ḍalālin kabīr*
 "It almost bursts apart from fury. Every time a company is cast into it, its keepers ask them: 'Did no warner come to you?' They say: 'Yes, a warner came to us; but we cried lies and said: God has sent down nothing, you are in nothing but great error.'"
@@ -773,7 +773,7 @@ The sūra ties the value of a confession to **its timing**. The same sentence sa
 
 ---
 
-## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ ۝ فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
+## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ · فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
 
 *Wa qālū law kunnā nasmaʿu aw naʿqilu mā kunnā fī aṣḥābi'l-saʿīr — fa'ʿtarafū bi-dhanbihim fa-suḥqan li-aṣḥābi'l-saʿīr*
 "And they say: 'Had we listened or used our reason, we would not be among the people of the blaze.' So they confess their sin. Away with the people of the blaze!"
@@ -954,7 +954,7 @@ That the same word is used three verses apart, once for an accusation and once f
 
 ---
 
-## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ ۝ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
+## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ · أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
 *Wa asirrū qawlakum awi'jharū bih, innahu ʿalīmun bi-dhāti'l-ṣudūr — a-lā yaʿlamu man khalaqa wa huwa'l-laṭīfu'l-khabīr*
 "Keep your speech secret or make it public; He knows the very substance of the breasts. Shall the one who created not know? He is the Subtle, the Aware."
@@ -1059,7 +1059,7 @@ And the pair of names *al-Laṭīfu'l-Khabīr* takes this knowledge out of being
 
 ---
 
-## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ
+## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ
 
 *Huwa'lladhī jaʿala lakumu'l-arḍa dhalūlan fa'mshū fī manākibihā wa kulū min rizqih, wa ilayhi'l-nushūr*
 "It is He who made the earth submissive for you. So walk upon its shoulders and eat of His provision. And to Him is the rising."
@@ -1183,7 +1183,7 @@ The verse does not say this, and I do not make the verse say something it does n
 
 ---
 
-## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ ۝ أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ ۝ وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ · أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ · وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
 
 *A-amintum man fi'l-samāʾi an yakhsifa bikumu'l-arḍa fa-idhā hiya tamūr — am amintum man fi'l-samāʾi an yursila ʿalaykum ḥāṣiban fa-sa-taʿlamūna kayfa nadhīr — wa laqad kadhdhaba'lladhīna min qablihim fa-kayfa kāna nakīr*
 "Have you become secure from the One in the sky, that He should make the earth swallow you, so that it suddenly heaves? Or have you become secure from the One in the sky, that He should send against you a wind hurling stones? You shall soon know how My warning is. Those before them cried lies too; and how was My rejection!"
@@ -1291,7 +1291,7 @@ This takes the threat out of being abstract. For a person living on a fault line
 
 ---
 
-## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
 
 *A-wa-lam yaraw ila'l-ṭayri fawqahum ṣāffātin wa yaqbiḍn, mā yumsikuhunna illa'l-raḥmān, innahu bi-kulli shayʾin baṣīr*
 "Have they not looked at the birds above them, spreading their wings and closing them? None holds them up but the Merciful. He sees everything."
@@ -1392,7 +1392,7 @@ The difference between the two languages changes how a person looks at himself. 
 
 ---
 
-## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ ۝ أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
+## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ · أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
 
 *Amman hādha'lladhī huwa jundun lakum yanṣurukum min dūni'l-raḥmān, ini'l-kāfirūna illā fī ghurūr — amman hādha'lladhī yarzuqukum in amsaka rizqah, bal lajjū fī ʿutuwwin wa nufūr*
 "Or who is this army of yours that is to help you apart from the Merciful? The deniers are in nothing but delusion. Or who is this that is to provide for you, if He withholds His provision? No — they persist in hardness and shying away."
@@ -1636,7 +1636,7 @@ And the finding recorded in the discussion of al-Ghāshiya works here in reverse
 
 ---
 
-## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ ۝ قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ · قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
 *Qul huwa'lladhī anshaʾakum wa jaʿala lakumu'l-samʿa wa'l-abṣāra wa'l-afʾida, qalīlan mā tashkurūn — qul huwa'lladhī dharaʾakum fi'l-arḍi wa ilayhi tuḥsharūn*
 "Say: It is He who brought you into being and gave you hearing, eyes and hearts. How little you are grateful! Say: It is He who scattered you over the earth, and to Him you will be gathered."
@@ -1720,7 +1720,7 @@ From here comes the definition of gratitude, and it differs from the English "th
 
 ---
 
-## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ ۝ قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ ۝ فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
+## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ · قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ · فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
 
 *Wa yaqūlūna matā hādha'l-waʿdu in kuntum ṣādiqīn — qul innama'l-ʿilmu ʿinda'llāhi wa innamā anā nadhīrun mubīn — fa-lammā raʾawhu zulfatan sīʾat wujūhu'lladhīna kafarū wa qīla hādha'lladhī kuntum bihi taddaʿūn*
 "They say: 'When is this promise, if you are truthful?' Say: 'The knowledge is with God alone; I am only a clear warner.' When they see it close at hand, the faces of those who denied will darken, and it will be said: 'This is what you kept calling for.'"
@@ -1795,7 +1795,7 @@ There is disagreement over the reading and the meaning of this verb:
 
 ---
 
-## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ ۝ قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
+## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ · قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
 
 *Qul a-raʾaytum in ahlakaniya'llāhu wa man maʿiya aw raḥimanā fa-man yujīru'l-kāfirīna min ʿadhābin alīm — qul huwa'l-raḥmānu āmannā bihi wa ʿalayhi tawakkalnā, fa-sa-taʿlamūna man huwa fī ḍalālin mubīn*
 "Say: 'Tell me — if God destroys me and those with me, or has mercy on us, who will protect the deniers from a painful punishment?' Say: 'He is the Merciful; we have believed in Him and relied on Him. You shall soon know who is in clear error.'"

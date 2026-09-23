@@ -348,12 +348,12 @@ Cümle şöyle kurulabilirdi ve kurulmuyor:
 **Yani sıralama şudur ve metinden doğrulanabilir:**
 
 ```
-1. ayet  — ilan (berâe)
-2. ayet  — süre (dört ay, serbest dolaşım)
-3. ayet  — kamuya duyuru + tevbe kapısı
-4. ayet  — bozmayanların istisnası
-5. ayet  — sürenin bitiminde hüküm
-6. ayet  — sığınma isteyenin korunması
+1. ayet — ilan (berâe)
+2. ayet — süre (dört ay, serbest dolaşım)
+3. ayet — kamuya duyuru + tevbe kapısı
+4. ayet — bozmayanların istisnası
+5. ayet — sürenin bitiminde hüküm
+6. ayet — sığınma isteyenin korunması
 ```
 
 **Beşinci ayet bu dizinin beşinci halkasıdır. Tek başına okunduğunda dizinin ilk dört halkası kaybolur.**
@@ -1219,7 +1219,7 @@ Bunun dayanağı sûrenin kendi zaman kayıtlarıdır: bir önceki ayet *ba'de �
 
 ---
 
-## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
+## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
 
 *Ve kâleti'l-yehûdü Uzeyrünibnullâh ve kâleti'n-nasâra'l-mesîhubnullâh; zâlike kavlühüm bi-efvâhihim; yudâhiûne kavle'llezîne keferû min kabl; kâtelehümüllâh; ennâ yü'fekûn*
 
@@ -2122,10 +2122,10 @@ Zamir kaydedilmelidir: *tünebbiü**hüm*** — başkalarına değil, **onlara.*
 **Bu ayet, Kur'an'ın en yoğun tekrarlı cümlelerinden biridir. Aynı kalıp üç kez geçiyor:**
 
 ```
-fe'stemteû      bi-halâkihim
-fe'stemta'tüm   bi-halâkiküm
-keme'stemtea    …bi-halâkihim
-ve hudtüm       ke'llezî hâdû
+fe'stemteû bi-halâkihim
+fe'stemta'tüm bi-halâkiküm
+keme'stemtea …bi-halâkihim
+ve hudtüm ke'llezî hâdû
 ```
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı bu tekrardır:** cümlenin kendisi, anlattığı şeyi yapıyor — **tekrar.** Aynı fiil, aynı nesne, farklı özneler. **Yani "aynı şeyi yaptınız" cümlesi, aynı kelimeleri tekrarlayarak kuruluyor.**

@@ -66,7 +66,7 @@ Besmele önceki bölümlerde işlendiği için burada tekrar ele alınmıyor; ay
 
 ---
 
-## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 *Sebbeha lillâhi mâ fi's-semâvâti ve'l-ard, ve hüve'l-azîzü'l-hakîm*
 "Göklerde ve yerde ne varsa Allah'ı tesbih etti. O azîzdir, hakîmdir."
@@ -148,7 +148,7 @@ Ve bu çiftin sûrenin başında bulunması anlamlıdır: Hadîd, 25. ayette **d
 
 ---
 
-## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Lehû mülkü's-semâvâti ve'l-ard, yuhyî ve yümît, ve hüve alâ külli şey'in kadîr*
 "Göklerin ve yerin mülkü O'nundur. Diriltir ve öldürür. O her şeye kâdirdir."
@@ -187,7 +187,7 @@ Bu ikinci ayeti not ediyorum; 25. ayette **demirin indirilmesi** meselesine geld
 
 ---
 
-## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Hüve'l-evvelü ve'l-âhiru ve'z-zâhiru ve'l-bâtın, ve hüve bi-külli şey'in alîm*
 "O evveldir, âhirdir, zâhirdir, bâtındır. O her şeyi bilendir."
@@ -327,7 +327,7 @@ Sûre, tevhîdin resmini bir kez birleşme, bir kez ayrılma olarak gösteriyor.
 
 ---
 
-## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 *Hüve'llezî halaka's-semâvâti ve'l-arda fî sitteti eyyâmin sümme'stevâ ale'l-arş; ya'lemü mâ yelicü fi'l-ardı ve mâ yahrucü minhâ ve mâ yenzilü mine's-semâi ve mâ ya'rucü fîhâ; ve hüve meaküm eyne mâ küntüm; va'llâhu bimâ ta'melûne basîr*
 "Gökleri ve yeri altı günde yaratan, sonra Arş üzerine istivâ eden O'dur. Yere gireni ve ondan çıkanı, gökten ineni ve ona yükseleni bilir. Nerede olursanız olun O sizinledir. Allah yaptıklarınızı görendir."
@@ -438,7 +438,7 @@ Bu daralma sûrenin yönteminin bir örneğidir: büyük tablo kuruluyor, sonra 
 
 ---
 
-## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 *Lehû mülkü's-semâvâti ve'l-ard, ve ile'llâhi türceu'l-ümûr*
 "Göklerin ve yerin mülkü O'nundur. Bütün işler Allah'a döndürülür."
@@ -472,7 +472,7 @@ Ve yine **takdîm** var: *ile'llâhi* (Allah'a) fiilden önce gelmiş. Anlam: **
 
 ---
 
-## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Yûlicü'l-leyle fi'n-nehâri ve yûlicü'n-nehâra fi'l-leyl, ve hüve alîmün bi-zâti's-sudûr*
 "Geceyi gündüze sokar, gündüzü de geceye sokar. O, göğüslerde olanı bilendir."
@@ -544,7 +544,7 @@ Ayrıca üçüncü ayetle bir halka daha kuruluyor. Orada Allah *el-bâtın* diy
 
 ---
 
-## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
+## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
 
 *Âminû billâhi ve rasûlih, ve enfikû mimmâ ce'aleküm müstahlefîne fîh; fe'llezîne âmenû minküm ve enfekû lehüm ecrun kebîr*
 "Allah'a ve Resûlüne inanın; sizi içinde halife kıldığı şeyden infak edin. İçinizden inanıp infak edenler için büyük bir ecir vardır."
@@ -701,7 +701,7 @@ Yani ayet, karşılığı **ücret** kelimesiyle adlandırıyor — hediye ya da
 
 ---
 
-## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
 *Ve mâ leküm lâ tü'minûne billâh, ve'r-rasûlü yed'ûküm li-tü'minû bi-rabbiküm ve kad ehaze mîsâkaküm in küntüm mü'minîn*
 "Size ne oluyor ki Allah'a inanmıyorsunuz? Oysa Resûl sizi Rabbinize inanmaya çağırıyor ve O sizden söz almıştı — eğer inanacaksanız."
@@ -754,7 +754,7 @@ Bu okumaya göre cümlenin tonu şudur: *"kendinizi mümin sayıyorsanız, iman 
 
 ---
 
-## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
+## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
 
 *Hüve'llezî yünezzilü alâ abdihî âyâtin beyyinâtin li-yuhriceküm mine'z-zulümâti ile'n-nûr; ve inne'llâhe biküm le-raûfün rahîm*
 "Kuluna apaçık ayetler indiren O'dur — sizi karanlıklardan aydınlığa çıkarsın diye. Şüphesiz Allah size karşı çok şefkatlidir, çok merhametlidir."
@@ -803,7 +803,7 @@ Bir sûrede ki o sûre 27. ayette **ruhbanlığı** ve 25. ayette **peygamberler
 
 ---
 
-## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ ۚ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 *Ve mâ leküm ellâ tünfikû fî sebîlillâhi ve lillâhi mîrâsü's-semâvâti ve'l-ard; lâ yestevî minküm men enfeka min kabli'l-fethi ve kâtel; ülâike a'zamü dereceten mine'llezîne enfekû min ba'dü ve kâtelû; ve küllen ve'ada'llâhu'l-husnâ; va'llâhu bimâ ta'melûne habîr*
 "Size ne oluyor ki Allah yolunda infak etmiyorsunuz? Oysa göklerin ve yerin mirası Allah'ındır. İçinizden fetihten önce infak edip savaşanlar, sonra infak edip savaşanlarla bir değildir; onların derecesi daha büyüktür. Ama Allah hepsine en güzeli vaad etmiştir. Allah yaptıklarınızdan haberdardır."
@@ -1042,7 +1042,7 @@ Ve bu sahnenin Kur'an'daki en yakın akrabası, Bakara sûresinin 17. ayetidir. 
 
 ---
 
-## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Yevme tera'l-mü'minîne ve'l-mü'minâti yes'â nûruhüm beyne eydîhim ve bi-eymânihim: büşrâkümü'l-yevme cennâtün tecrî min tahtihe'l-enhâru hâlidîne fîhâ; zâlike hüve'l-fevzü'l-azîm*
 "O gün mümin erkekleri ve mümin kadınları görürsün: ışıkları önlerinde ve sağlarında koşuyor. 'Bugün müjdeniz, altlarından ırmaklar akan, içinde ebedî kalacağınız cennetlerdir. İşte büyük kurtuluş budur.'"
@@ -1248,7 +1248,7 @@ Orada kelime *hicâb* (perde), burada *sûr* (duvar). Ve orada perdenin üzerind
 
 ---
 
-## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
+## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
 
 *Yünâdûnehüm: e-lem nekün meaküm? Kâlû: belâ, ve lâkinneküm fetentüm enfüseküm ve terabbastüm ve'rtebtüm ve ğarratkümü'l-emâniyyü hattâ câe emrullâh, ve ğarraküm billâhi'l-ğarûr*
 "Onlara seslenirler: 'Biz sizinle beraber değil miydik?' Derler ki: 'Evet, ama siz kendinizi fitneye düşürdünüz, beklediniz, şüphe ettiniz ve kuruntular sizi aldattı — nihayet Allah'ın emri geldi. O çok aldatıcı da sizi Allah ile aldattı.'"
@@ -1407,7 +1407,7 @@ Bu, sûrenin altıncı ayetindeki kapanışı hatırlatıyor: **وَهُوَ ع�
 
 ---
 
-## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ
+## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ
 
 *Fe'l-yevme lâ yü'hazü minküm fidyetün ve lâ mine'llezîne keferû; me'vâkümü'n-nâr, hiye mevlâküm, ve bi'se'l-masîr*
 "Bugün ne sizden ne de inkâr edenlerden bir fidye alınır. Varacağınız yer ateştir; o sizin mevlânızdır. Ne kötü bir dönüş yeri!"
@@ -1454,7 +1454,7 @@ Ayetin üç kelimesi (*me'vâ*, *mevlâ*, *masîr*) böylece aynı işi yapıyor
 
 ---
 
-## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *E-lem ye'ni lillezîne âmenû en tahşea kulûbühüm li-zikrillâhi ve mâ nezele mine'l-hakk, ve lâ yekûnû kellezîne ûtü'l-kitâbe min kablü fe-tâle aleyhimü'l-emedü fe-kaset kulûbühüm; ve kesîrun minhüm fâsikûn*
 "İnananların, Allah'ı anmak ve inen hakikat için kalplerinin yumuşamasının vakti gelmedi mi? Ve kendilerine daha önce kitap verilenler gibi olmasınlar: üzerlerinden uzun zaman geçti, derken kalpleri katılaştı. Onların çoğu yoldan çıkmıştır."
@@ -1623,7 +1623,7 @@ Bunun sebebi muhtemelen şudur: süreyle olan soğuma fark edilmez. Bir olayla s
 
 ---
 
-## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 
 *İ'lemû enna'llâhe yuhyi'l-arda ba'de mevtihâ; kad beyyennâ lekümü'l-âyâti lealleküm ta'kılûn*
 "Bilin ki Allah yeryüzünü ölümünden sonra diriltir. Size ayetleri açıkladık; belki akledersiniz."
@@ -1758,7 +1758,7 @@ Ve karşılık sıfatı aynı: **أَجْرٌ كَرِيمٌ** — 11. ayetteki 
 
 ---
 
-## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
+## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
 
 *Vellezîne âmenû billâhi ve rusülih, ülâike hümü's-sıddîkûn; ve'ş-şühedâü inde rabbihim lehüm ecruhüm ve nûruhüm; vellezîne keferû ve kezzebû bi-âyâtinâ ülâike ashâbü'l-cahîm*
 "Allah'a ve elçilerine inananlar — işte onlar sıddîklardır. Şehidler ise Rableri katındadır; onların ecirleri ve nurları vardır. İnkâr edip ayetlerimizi yalanlayanlar ise cehennemliklerdir."
@@ -1812,7 +1812,7 @@ Dört geçişin dizilimi bir yol gösteriyor:
 
 ---
 
-## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 
 *İ'lemû ennema'l-hayâtü'd-dünyâ le'ibün ve lehvün ve zînetün ve tefâhurun beyneküm ve tekâsürun fi'l-emvâli ve'l-evlâd; ke-meseli ğaysin a'cebe'l-küffâra nebâtühû sümme yehîcü fe-terâhü musfarran sümme yekûnü hutâmâ; ve fi'l-âhirati azâbün şedîdün ve mağfiratün mine'llâhi ve rıdvân; ve me'l-hayâtü'd-dünyâ illâ metâu'l-ğurûr*
 "Bilin ki dünya hayatı ancak bir oyun, bir eğlence, bir süs, aranızda bir övünme yarışı ve mallarda evlâtlarda bir çoğalma yarışıdır. Bir yağmur gibi: bitirdiği bitki çiftçilerin hoşuna gider; sonra kurur, onu sararmış görürsün; sonra çerçöp olur. Âhirette ise şiddetli bir azap, ve Allah'tan bir bağışlanma ve rıza vardır. Dünya hayatı, aldatıcı bir yararlanmadan başka bir şey değildir."
@@ -2071,7 +2071,7 @@ Kendi hayatı için aynı şeyi yapamaz — çünkü onun içindedir. Benzetmeni
 
 ---
 
-## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Sâbikû ilâ mağfiratin min rabbiküm ve cennetin arduhâ ke-ardi's-semâi ve'l-ard, u'iddet lillezîne âmenû billâhi ve rusülih; zâlike fadlu'llâhi yü'tîhi men yeşâ'; va'llâhu zü'l-fadli'l-azîm*
 "Rabbinizden bir bağışlanmaya ve genişliği gökle yerin genişliği gibi olan, Allah'a ve elçilerine inananlar için hazırlanmış bir cennete koşun. İşte bu Allah'ın lütfudur; onu dilediğine verir. Allah büyük lütuf sahibidir."
@@ -2136,7 +2136,7 @@ Kelime sûrenin son ayetinde (29) üç kez daha geçecek ve orada meselenin merk
 
 ---
 
-## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 *Mâ esâbe min musîbetin fi'l-ardı ve lâ fî enfüsiküm illâ fî kitâbin min kabli en nebraehâ; inne zâlike ala'llâhi yesîr. Li-keylâ te'sev alâ mâ fâteküm ve lâ tefrahû bimâ âtâküm; va'llâhu lâ yuhibbü külle muhtâlin fahûr*
 "Yeryüzünde ve kendi nefislerinizde meydana gelen hiçbir musibet yoktur ki, biz onu yaratmadan önce bir kitapta bulunmasın. Bu, Allah'a göre kolaydır. Kaybettiğinize üzülmeyesiniz ve size verilene sevinip şımarmayasınız diye. Allah, kendini beğenip böbürlenen hiç kimseyi sevmez."
@@ -2329,7 +2329,7 @@ Aranan şey, duyguların yokluğu değil; **duyguların sahibinin doğru bilinme
 
 ---
 
-## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
 *Ellezîne yebhalûne ve ye'mürûne'n-nâse bi'l-buhl; ve men yetevelle fe-inna'llâhe hüve'l-ğaniyyü'l-hamîd*
 "Onlar ki cimrilik ederler ve insanlara da cimriliği emrederler. Kim yüz çevirirse, şüphesiz Allah zengindir, övgüye lâyıktır."
@@ -2384,7 +2384,7 @@ Kur'an bunu başka yerde açıkça söyler: *"İşte sizler, Allah yolunda infak
 
 ---
 
-## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 
 *Lekad erselnâ rusülenâ bi'l-beyyinâti ve enzelnâ meahümü'l-kitâbe ve'l-mîzâne li-yekûme'n-nâsü bi'l-kıst; ve enzelne'l-hadîde fîhi be'sün şedîdün ve menâfiu li'n-nâsi ve li-ya'lema'llâhu men yensuruhû ve rusülehû bi'l-ğayb; inna'llâhe kaviyyün azîz*
 "Andolsun, elçilerimizi açık delillerle gönderdik ve onlarla birlikte kitabı ve mîzânı indirdik ki insanlar adaleti ayakta tutsunlar. Demiri de indirdik; onda çetin bir güç ve insanlar için faydalar vardır — ve Allah, kendisine ve elçilerine görmeden yardım edenleri belirlesin diye. Şüphesiz Allah güçlüdür, azîzdir."
@@ -2727,7 +2727,7 @@ Bunu bir hüküm olarak değil, ayetin kurduğu çerçevenin genelliği olarak k
 
 ---
 
-## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Ve lekad erselnâ Nûhan ve İbrâhîme ve ce'alnâ fî zürriyyetihime'n-nübüvvete ve'l-kitâb; fe-minhüm mühted, ve kesîrun minhüm fâsikûn*
 "Andolsun, Nûh'u ve İbrâhim'i gönderdik; ikisinin soyuna peygamberliği ve kitabı verdik. Onlardan doğru yolu bulan da vardır; ama çoğu yoldan çıkmıştır."
@@ -2755,7 +2755,7 @@ Ve ayetin ikinci yarısı bunu zaten kesiyor: **"onlardan doğru yolu bulan da v
 
 Bu, Bakara 2/124'te kurulan ölçünün aynısıdır: *"Zalimler ahdime nail olmaz."* İbrâhim soyu için soru sorulduğunda verilen cevap budur.
 
-### فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+### فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 **Dizimin kendisi bir denge kuruyor** ve dikkatle okunmalıdır.
 
@@ -2776,7 +2776,7 @@ Metin bunu kendisi yapıyor — üç kez, aynı kelimeyle.
 
 ---
 
-## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Sümme kaffeynâ alâ âsârihim bi-rusülinâ ve kaffeynâ bi-Îse'bni Meryeme ve âteynâhü'l-İncîle ve ce'alnâ fî kulûbi'llezîne'ttebeûhu ra'feten ve rahmeh; ve rahbâniyyeten'btedeûhâ mâ ketebnâhâ aleyhim ille'btiğâe rıdvânillâhi fe-mâ raavhâ hakka riâyetihâ; fe-âteyne'llezîne âmenû minhüm ecrahüm; ve kesîrun minhüm fâsikûn*
 "Sonra onların izleri üzerinde elçilerimizi ardı ardına gönderdik; Meryem oğlu Îsâ'yı da arkalarından gönderdik ve ona İncil'i verdik. Ona uyanların kalplerine şefkat ve merhamet koyduk. Ruhbanlığa gelince: onu kendileri uydurdular; biz onu üzerlerine yazmadık — ancak Allah'ın rızasını aramak için (yaptılar). Ama ona hakkıyla riayet etmediler. İçlerinden inananlara ecirlerini verdik; ama çoğu yoldan çıkmıştır."
@@ -2947,7 +2947,7 @@ Ve iki ayetin ortak fikri şudur: **bir şeyin başlaması ile sürdürülmesi a
 
 ---
 
-## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
 *Yâ eyyühe'llezîne âmenû'ttekû'llâhe ve âminû bi-rasûlih, yü'tiküm kifleyni min rahmetihî ve yec'al leküm nûran temşûne bihî ve yağfir leküm; va'llâhu ğafûrun rahîm*
 "Ey iman edenler! Allah'a karşı sorumluluk bilinciyle davranın ve elçisine inanın ki size rahmetinden iki kat versin, size onunla yürüyeceğiniz bir ışık versin ve sizi bağışlasın. Allah bağışlayandır, merhametlidir."
@@ -3027,7 +3027,7 @@ Bu, birinci okumayı (muhatabın ehl-i kitap olduğu) destekleyen bir unsur olar
 
 ---
 
-## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Li-ellâ ya'leme ehlü'l-kitâbi ellâ yakdirûne alâ şey'in min fadlillâhi ve enne'l-fadle bi-yedillâhi yü'tîhi men yeşâ'; va'llâhu zü'l-fadli'l-azîm*
 "Kitap ehli bilsin ki, Allah'ın lütfundan hiçbir şeye güç yetiremezler; lütuf Allah'ın elindedir, onu dilediğine verir. Allah büyük lütuf sahibidir."

@@ -475,10 +475,10 @@ Sıralama tartışılmıştır ve birden fazla açıklama önerilir. Hepsini ver
 **Dördüncüsü — sonraki ayetlerle simetri.** Dokuzuncu ayet **kurtuluşla**, onuncu ayet **kayıpla** biter: *eflaha* / *hâbe*. Sekizinci ayet ise fücûr–takvâ sırasındadır. Yani ilham sırası ile sonuç sırası birbirinin tersidir. Bu bir çaprazlama (kesişme) yapısı kurar:
 
 ```
-fücûr  ————————\    /———————  eflaha (zekkâhâ)
-                 \/
-                 /\
-takvâ  ————————/    \———————  hâbe (dessâhâ)
+fücûr ————————\ /——————— eflaha (zekkâhâ)
+ \/
+ /\
+takvâ ————————/ \——————— hâbe (dessâhâ)
 ```
 
 Yani metin, ilhamda önce anılanı sonuçta sonra anıyor. Bu türden çapraz simetri Kur'an'ın bilinen yapı tercihlerinden biridir.
@@ -654,8 +654,8 @@ Dikkat edilecek nokta: burada tarif edilen şey açık bir kötülük değil. Bi
 İki ayet birebir aynı kalıpta:
 
 ```
-قَدْ أَفْلَحَ    مَن   زَكَّاهَا
-وَقَدْ خَابَ    مَن   دَسَّاهَا
+قَدْ أَفْلَحَ مَن زَكَّاهَا
+وَقَدْ خَابَ مَن دَسَّاهَا
 ```
 
 *kad + fiil + men + fiil + hâ.* Kelime sayısı aynı, vezin aynı, kafiye aynı. Tek fark iki fiil çiftinde.

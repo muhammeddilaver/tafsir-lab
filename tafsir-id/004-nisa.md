@@ -153,7 +153,7 @@ Satu hal khusus bagi surah ini dapat dicatat: **ayat pertama sebuah teks yang di
 
 ---
 
-## 4/1 — يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة وخلق منها زوجها وبث منهما رجالا كثيرا ونساء واتقوا الله الذي تساءلون به والأرحام إن الله كان عليكم رقيبا
+## 4/1 — يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 *Yā ayyuhan-nāsuttaqū rabbakumullażī khalaqakum min nafsin wāḥidatin wa khalaqa minhā zaujahā wa baṡṡa minhumā rijālan kaṡīran wa nisāʼā, wattaqullāhallażī tasāʼalūna bihī wal-arḥām, innallāha kāna ʻalaikum raqībā*
 
@@ -318,7 +318,7 @@ Pada cara baca yang pertama, dua hal yang diperintahkan untuk ditakwai datang be
 
 ---
 
-## 4/2 — وآتوا اليتامى أموالهم ولا تتبدلوا الخبيث بالطيب ولا تأكلوا أموالهم إلى أموالكم إنه كان حوبا كبيرا
+## 4/2 — وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
 
 *Wa ātul-yatāmā amwālahum wa lā tatabaddalul-khabīṡa biṭ-ṭayyib, wa lā taʼkulū amwālahum ilā amwālikum, innahū kāna ḥūban kabīrā*
 
@@ -378,7 +378,7 @@ Saya catat ini sebagai pengamatan atas kata: **pertukarannya tampak setara, pena
 
 ---
 
-## 4/3 — وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم ذلك أدنى ألا تعولوا
+## 4/3 — وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
 
 *Wa in khiftum allā tuqsiṭū fil-yatāmā fankiḥū mā ṭāba lakum minan-nisāʼi maṡnā wa ṡulāṡa wa rubāʻ, fa in khiftum allā taʻdilū fa wāḥidatan au mā malakat aimānukum, żālika adnā allā taʻūlū*
 
@@ -569,7 +569,7 @@ Saya catat ini sebagai **pengamatan atas susunan**; dari sini saya tidak menarik
 
 ---
 
-## 4/4 — وآتوا النساء صدقاتهن نحلة فإن طبن لكم عن شيء منه نفسا فكلوه هنيئا مريئا
+## 4/4 — وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
 
 *Wa ātun-nisāʼa ṣaduqātihinna niḥlah, fa in ṭibna lakum ʻan syaiʼin minhu nafsan fa kulūhu hanīʼan marīʼā*
 
@@ -643,7 +643,7 @@ Saya catat ini sebagai **bacaan saya sendiri**: surah ini mengembalikan sesuatu 
 
 ---
 
-## 4/5 — ولا تؤتوا السفهاء أموالكم التي جعل الله لكم قياما وارزقوهم فيها واكسوهم وقولوا لهم قولا معروفا
+## 4/5 — وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Wa lā tuʼtus-sufahāʼa amwālakumullatī jaʻalallāhu lakum qiyāman warzuqūhum fīhā waksūhum wa qūlū lahum qaulan maʻrūfā*
 
@@ -729,7 +729,7 @@ Wilayah yang sama telah dibahas di `002-bakara.md` pada 2/83 (*wa qūlū lin-nā
 
 ---
 
-## 4/6 — وابتلوا اليتامى حتى إذا بلغوا النكاح فإن آنستم منهم رشدا فادفعوا إليهم أموالهم ولا تأكلوها إسرافا وبدارا أن يكبروا ومن كان غنيا فليستعفف ومن كان فقيرا فليأكل بالمعروف فإذا دفعتم إليهم أموالهم فأشهدوا عليهم وكفى بالله حسيبا
+## 4/6 — وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
 
 *Wabtalul-yatāmā ḥattā iżā balagun-nikāḥ, fa in ānastum minhum rusydan fadfaʻū ilaihim amwālahum, wa lā taʼkulūhā isrāfan wa bidāran ay yakbarū, wa man kāna ganiyyan falyastaʻfif wa man kāna faqīran falyaʼkul bil-maʻrūf, fa iżā dafaʻtum ilaihim amwālahum fa asyhidū ʻalaihim, wa kafā billāhi ḥasībā*
 
@@ -842,7 +842,7 @@ Logika yang sama telah dibahas secara rinci di `002-bakara.md` pada 2/282 (penca
 
 ---
 
-## 4/7 — للرجال نصيب مما ترك الوالدان والأقربون وللنساء نصيب مما ترك الوالدان والأقربون مما قل منه أو كثر نصيبا مفروضا
+## 4/7 — لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا
 
 *Lir-rijāli naṣībum mimmā tarakal-wālidāni wal-aqrabūn, wa lin-nisāʼi naṣībum mimmā tarakal-wālidāni wal-aqrabūna mimmā qalla minhu au kaṡur, naṣīban mafrūḍā*
 
@@ -896,7 +896,7 @@ Logika yang sama telah dibahas secara rinci di `002-bakara.md` pada 2/282 (penca
 
 ---
 
-## 4/8 — وإذا حضر القسمة أولو القربى واليتامى والمساكين فارزقوهم منه وقولوا لهم قولا معروفا
+## 4/8 — وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Wa iżā ḥaḍaral-qismata ulul-qurbā wal-yatāmā wal-masākīnu farzuqūhum minhu wa qūlū lahum qaulan maʻrūfā*
 
@@ -946,7 +946,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah berdampingannya 
 
 ---
 
-## 4/9 — وليخش الذين لو تركوا من خلفهم ذرية ضعافا خافوا عليهم فليتقوا الله وليقولوا قولا سديدا
+## 4/9 — وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
 
 *Walyakhsyallażīna lau tarakū min khalfihim żurriyyatan ḍiʻāfan khāfū ʻalaihim, falyattaqullāha walyaqūlū qaulan sadīdā*
 
@@ -1023,7 +1023,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah susunan kalimat 
 
 ---
 
-## 4/10 — إن الذين يأكلون أموال اليتامى ظلما إنما يأكلون في بطونهم نارا وسيصلون سعيرا
+## 4/10 — إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
 
 *Innallażīna yaʼkulūna amwālal-yatāmā ẓulman innamā yaʼkulūna fī buṭūnihim nārā, wa sayaṣlauna saʻīrā*
 
@@ -1105,7 +1105,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah bentuk waktu ked
 
 ---
 
-## 4/11 — يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين … من بعد وصية يوصي بها أو دين
+## 4/11 — يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ … مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ
 
 *Yūṣīkumullāhu fī aulādikum liż-żakari miṡlu ḥaẓẓil-unṡayain, fa in kunna nisāʼan fauqaṡnataini fa lahunna ṡuluṡā mā tarak, wa in kānat wāḥidatan fa lahan-niṣf, wa li abawaihi likulli wāḥidim minhumas-sudusu mimmā taraka in kāna lahū walad, fa il lam yakul lahū waladuw wa wariṡahū abawāhu fa li ummihiṡ-ṡuluṡ, fa in kāna lahū ikhwatun fa li ummihis-sudus, min baʻdi waṣiyyatiy yūṣī bihā au dain, ābāʼukum wa abnāʼukum lā tadrūna ayyuhum aqrabu lakum nafʻā, farīḍatam minallāh, innallāha kāna ʻalīman ḥakīmā*
 
@@ -1250,7 +1250,7 @@ Dalam pembagian waris, keberatan manusia yang paling wajar adalah: "yang itu leb
 
 ---
 
-## 4/12 — ولكم نصف ما ترك أزواجكم إن لم يكن لهن ولد … وإن كان رجل يورث كلالة أو امرأة وله أخ أو أخت فلكل واحد منهما السدس
+## 4/12 — وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ … وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ
 
 *Wa lakum niṣfu mā taraka azwājukum il lam yakul lahunna walad, fa in kāna lahunna waladun fa lakumur-rubuʻu mimmā tarakna min baʻdi waṣiyyatiy yūṣīna bihā au dain, wa lahunnar-rubuʻu mimmā taraktum il lam yakul lakum walad, fa in kāna lakum waladun fa lahunnaṡ-ṡumunu mimmā taraktum min baʻdi waṣiyyatin tūṣūna bihā au dain, wa in kāna rajuluy yūraṡu kalālatan awimraʼatuw wa lahū akhun au ukhtun fa likulli wāḥidim minhumas-sudus, fa in kānū akṡara min żālika fa hum syurakāʼu fiṡ-ṡuluṡi min baʻdi waṣiyyatiy yūṣā bihā au dainin gaira muḍārr, waṣiyyatam minallāh, wallāhu ʻalīmun ḥalīm*
 
@@ -1343,7 +1343,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah letak catatan it
 
 ---
 
-## 4/13-14 — تلك حدود الله ومن يطع الله ورسوله يدخله جنات تجري من تحتها الأنهار خالدين فيها وذلك الفوز العظيم · ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين
+## 4/13-14 — تِلْكَ حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ · وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
 
 *Tilka ḥudūdullāh, wa may yuṭiʻillāha wa rasūlahū yudkhilhu jannātin tajrī min taḥtihal-anhāru khālidīna fīhā, wa żālikal-fauzul-ʻaẓīm · Wa may yaʻṣillāha wa rasūlahū wa yataʻadda ḥudūdahū yudkhilhu nāran khālidan fīhā wa lahū ʻażābum muhīn*
 
@@ -1403,7 +1403,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah akar kata itu da
 
 ---
 
-## 4/15-16 — واللاتي يأتين الفاحشة من نسائكم فاستشهدوا عليهن أربعة منكم فإن شهدوا فأمسكوهن في البيوت حتى يتوفاهن الموت أو يجعل الله لهن سبيلا · واللذان يأتيانها منكم فآذوهما فإن تابا وأصلحا فأعرضوا عنهما
+## 4/15-16 — وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا · وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ
 
 *Wallātī yaʼtīnal-fāḥisyata min nisāʼikum fastasyhidū ʻalaihinna arbaʻatam minkum, fa in syahidū fa amsikūhunna fil-buyūti ḥattā yatawaffāhunnal-mautu au yajʻalallāhu lahunna sabīlā · Wallażāni yaʼtiyānihā minkum fa āżūhumā, fa in tābā wa aṣlaḥā fa aʻriḍū ʻanhumā, innallāha kāna tawwābar raḥīmā*
 
@@ -1479,7 +1479,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah akar kata itu da
 
 ---
 
-## 4/17-18 — إنما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فأولئك يتوب الله عليهم · وليست التوبة للذين يعملون السيئات حتى إذا حضر أحدهم الموت قال إني تبت الآن
+## 4/17-18 — إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ · وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ
 
 *Innamat-taubatu ʻalallāhi lillażīna yaʻmalūnas-sūʼa bijahālatin ṡumma yatūbūna min qarībin fa ulāʼika yatūbullāhu ʻalaihim, wa kānallāhu ʻalīman ḥakīmā · Wa laisatit-taubatu lillażīna yaʻmalūnas-sayyiʼāti ḥattā iżā ḥaḍara aḥadahumul-mautu qāla innī tubtul-ʼāna wa lallażīna yamūtūna wa hum kuffār, ulāʼika aʻtadnā lahum ʻażāban alīmā*
 
@@ -1543,7 +1543,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah akar kata itu da
 
 ---
 
-## 4/19 — يا أيها الذين آمنوا لا يحل لكم أن ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما آتيتموهن إلا أن يأتين بفاحشة مبينة وعاشروهن بالمعروف فإن كرهتموهن فعسى أن تكرهوا شيئا ويجعل الله فيه خيرا كثيرا
+## 4/19 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
 
 *Yā ayyuhallażīna āmanū lā yaḥillu lakum an tariṡun-nisāʼa karhā, wa lā taʻḍulūhunna litażhabū bibaʻḍi mā ātaitumūhunna illā ay yaʼtīna bifāḥisyatim mubayyinah, wa ʻāsyirūhunna bil-maʻrūf, fa in karihtumūhunna fa ʻasā an takrahū syaiʼaw wa yajʻalallāhu fīhi khairan kaṡīrā*
 
@@ -1671,7 +1671,7 @@ Saya catat ini sebagai **pengamatan tata bahasa**; dasarnya adalah bab itu sendi
 
 ---
 
-## 4/20-21 — وإن أردتم استبدال زوج مكان زوج وآتيتم إحداهن قنطارا فلا تأخذوا منه شيئا أتأخذونه بهتانا وإثما مبينا · وكيف تأخذونه وقد أفضى بعضكم إلى بعض وأخذن منكم ميثاقا غليظا
+## 4/20-21 — وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا · وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًا
 
 *Wa in aradtumustibdāla zaujim makāna zaujiw wa ātaitum iḥdāhunna qinṭāran fa lā taʼkhużū minhu syaiʼā, a taʼkhużūnahū buhtānaw wa iṡmam mubīnā · Wa kaifa taʼkhużūnahū wa qad afḍā baʻḍukum ilā baʻḍiw wa akhażna minkum mīṡāqan galīẓā*
 
@@ -1747,7 +1747,7 @@ Saya catat ini sebagai **pengamatan tata bahasa**; dasarnya adalah bab itu sendi
 
 ---
 
-## 4/22 — ولا تنكحوا ما نكح آباؤكم من النساء إلا ما قد سلف إنه كان فاحشة ومقتا وساء سبيلا
+## 4/22 — وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
 
 *Wa lā tankiḥū mā nakaḥa ābāʼukum minan-nisāʼi illā mā qad salaf, innahū kāna fāḥisyataw wa maqtaw wa sāʼa sabīlā*
 
@@ -1787,7 +1787,7 @@ Saya catat ini sebagai **pengamatan tata bahasa**; dasarnya adalah bab itu sendi
 
 ---
 
-## 4/23 — حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم وخالاتكم وبنات الأخ وبنات الأخت وأمهاتكم اللاتي أرضعنكم وأخواتكم من الرضاعة وأمهات نسائكم وربائبكم اللاتي في حجوركم … وأن تجمعوا بين الأختين إلا ما قد سلف
+## 4/23 — حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم … وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ
 
 *Ḥurrimat ʻalaikum ummahātukum wa banātukum wa akhawātukum wa ʻammātukum wa khālātukum wa banātul-akhi wa banātul-ukhti wa ummahātukumullātī arḍaʻnakum wa akhawātukum minar-raḍāʻati wa ummahātu nisāʼikum wa rabāʼibukumullātī fī ḥujūrikum min nisāʼikumullātī dakhaltum bihinna, fa il lam takūnū dakhaltum bihinna fa lā junāḥa ʻalaikum, wa ḥalāʼilu abnāʼikumullażīna min aṣlābikum wa an tajmaʻū bainal-ukhtaini illā mā qad salaf, innallāha kāna gafūrar raḥīmā*
 
@@ -1864,7 +1864,7 @@ Saya catat ini sebagai **pengamatan tata bahasa**; dasarnya adalah bab itu sendi
 
 ---
 
-## 4/24 — والمحصنات من النساء إلا ما ملكت أيمانكم كتاب الله عليكم وأحل لكم ما وراء ذلكم أن تبتغوا بأموالكم محصنين غير مسافحين
+## 4/24 — وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
 
 *Wal-muḥṣanātu minan-nisāʼi illā mā malakat aimānukum, kitāballāhi ʻalaikum, wa uḥilla lakum mā warāʼa żālikum an tabtagū biamwālikum muḥṣinīna gaira musāfiḥīn, famastamtaʻtum bihī minhunna fa ātūhunna ujūrahunna farīḍah, wa lā junāḥa ʻalaikum fīmā tarāḍaitum bihī mim baʻdil-farīḍah, innallāha kāna ʻalīman ḥakīmā*
 
@@ -1949,7 +1949,7 @@ Saya catat ini sebagai **bacaan saya sendiri**; dasarnya adalah catatan *mim ba�
 
 ---
 
-## 4/25 — ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات فمن ما ملكت أيمانكم من فتياتكم المؤمنات … فانكحوهن بإذن أهلهن وآتوهن أجورهن بالمعروف … ذلك لمن خشي العنت منكم وأن تصبروا خير لكم
+## 4/25 — وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ … فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ … ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ
 
 *Wa mal lam yastaṭiʻ minkum ṭaulan ay yankiḥal-muḥṣanātil-muʼmināti fa mim mā malakat aimānukum min fatayātikumul-muʼmināt, wallāhu aʻlamu biīmānikum, baʻḍukum mim baʻḍ, fankiḥūhunna biiżni ahlihinna wa ātūhunna ujūrahunna bil-maʻrūfi muḥṣanātin gaira musāfiḥātiw wa lā muttakhiżāti akhdān… żālika liman khasyiyal-ʻanata minkum, wa an taṣbirū khairul lakum, wallāhu gafūrur raḥīm*
 
@@ -2006,7 +2006,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/26-28 — يريد الله ليبين لكم ويهديكم سنن الذين من قبلكم ويتوب عليكم … ويريد الذين يتبعون الشهوات أن تميلوا ميلا عظيما · يريد الله أن يخفف عنكم وخلق الإنسان ضعيفا
+## 4/26-28 — يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ … وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا · يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًا
 
 *Yurīdullāhu liyubayyina lakum wa yahdiyakum sunanallażīna min qablikum wa yatūba ʻalaikum, wallāhu ʻalīmun ḥakīm · Wallāhu yurīdu ay yatūba ʻalaikum wa yurīdullażīna yattabiʻūnasy-syahawāti an tamīlū mailan ʻaẓīmā · Yurīdullāhu ay yukhaffifa ʻankum wa khuliqal-insānu ḍaʻīfā*
 
@@ -2079,7 +2079,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 ---
 
 
-## 4/29-30 — يا أيها الذين آمنوا لا تأكلوا أموالكم بينكم بالباطل إلا أن تكون تجارة عن تراض منكم ولا تقتلوا أنفسكم إن الله كان بكم رحيما · ومن يفعل ذلك عدوانا وظلما فسوف نصليه نارا وكان ذلك على الله يسيرا
+## 4/29-30 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا · وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 
 *Yā ayyuhallażīna āmanū lā taʼkulū amwālakum bainakum bil-bāṭili illā an takūna tijāratan ʻan tarāḍim minkum, wa lā taqtulū anfusakum, innallāha kāna bikum raḥīmā · Wa may yafʻal żālika ʻudwānaw wa ẓulman fa saufa nuṣlīhi nārā, wa kāna żālika ʻalallāhi yasīrā*
 
@@ -2164,7 +2164,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/31 — إن تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما
+## 4/31 — إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا
 
 *In tajtanibū kabāʼira mā tunhauna ʻanhu nukaffir ʻankum sayyiʼātikum wa nudkhilkum mudkhalan karīmā*
 
@@ -2192,7 +2192,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/32 — ولا تتمنوا ما فضل الله به بعضكم على بعض للرجال نصيب مما اكتسبوا وللنساء نصيب مما اكتسبن واسألوا الله من فضله إن الله كان بكل شيء عليما
+## 4/32 — وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *Wa lā tatamannau mā faḍḍalallāhu bihī baʻḍakum ʻalā baʻḍ, lir-rijāli naṣībum mimmaktasabū wa lin-nisāʼi naṣībum mimmaktasabna, wasʼalullāha min faḍlih, innallāha kāna bikulli syaiʼin ʻalīmā*
 
@@ -2285,7 +2285,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/33 — ولكل جعلنا موالي مما ترك الوالدان والأقربون والذين عقدت أيمانكم فآتوهم نصيبهم إن الله كان على كل شيء شهيدا
+## 4/33 — وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا
 
 *Wa likullin jaʻalnā mawāliya mimmā tarakal-wālidāni wal-aqrabūn, wallażīna ʻaqadat aimānukum fa ātūhum naṣībahum, innallāha kāna ʻalā kulli syaiʼin syahīdā*
 
@@ -2325,7 +2325,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/34-35 — الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم … واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن فإن أطعنكم فلا تبغوا عليهن سبيلا · وإن خفتم شقاق بينهما فابعثوا حكما من أهله وحكما من أهلها إن يريدا إصلاحا يوفق الله بينهما
+## 4/34-35 — ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ … وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا · وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ
 
 *Ar-rijālu qawwāmūna ʻalan-nisāʼi bimā faḍḍalallāhu baʻḍahum ʻalā baʻḍiw wa bimā anfaqū min amwālihim, faṣ-ṣāliḥātu qānitātun ḥāfiẓātul lil-gaibi bimā ḥafiẓallāh, wallātī takhāfūna nusyūzahunna fa ʻiẓūhunna wahjurūhunna fil-maḍājiʻi waḍribūhunna, fa in aṭaʻnakum fa lā tabgū ʻalaihinna sabīlā, innallāha kāna ʻaliyyan kabīrā · Wa in khiftum syiqāqa bainihimā fabʻaṡū ḥakamam min ahlihī wa ḥakamam min ahlihā, iy yurīdā iṣlāḥay yuwaffiqillāhu bainahumā, innallāha kāna ʻalīman khabīrā*
 
@@ -2593,7 +2593,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/36 — واعبدوا الله ولا تشركوا به شيئا وبالوالدين إحسانا وبذي القربى واليتامى والمساكين والجار ذي القربى والجار الجنب والصاحب بالجنب وابن السبيل وما ملكت أيمانكم إن الله لا يحب من كان مختالا فخورا
+## 4/36 — وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
 
 *Waʻbudullāha wa lā tusyrikū bihī syaiʼā, wa bil-wālidaini iḥsānaw wa biżil-qurbā wal-yatāmā wal-masākīni wal-jāri żil-qurbā wal-jāril-junubi waṣ-ṣāḥibi bil-janbi wabnis-sabīli wa mā malakat aimānukum, innallāha lā yuḥibbu man kāna mukhtālan fakhūrā*
 
@@ -2719,7 +2719,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/37-39 — الذين يبخلون ويأمرون الناس بالبخل ويكتمون ما آتاهم الله من فضله وأعتدنا للكافرين عذابا مهينا · والذين ينفقون أموالهم رئاء الناس ولا يؤمنون بالله ولا باليوم الآخر · وماذا عليهم لو آمنوا بالله واليوم الآخر وأنفقوا مما رزقهم الله
+## 4/37-39 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا · وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ · وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ
 
 *Allażīna yabkhalūna wa yaʼmurūnan-nāsa bil-bukhli wa yaktumūna mā ātāhumullāhu min faḍlih … Wallażīna yunfiqūna amwālahum riʼāʼan-nāsi wa lā yuʼminūna billāhi wa lā bil-yaumil-ākhir … Wa māżā ʻalaihim lau āmanū billāhi wal-yaumil-ākhiri wa anfaqū mimmā razaqahumullāh*
 
@@ -2775,7 +2775,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/40-42 — إن الله لا يظلم مثقال ذرة وإن تك حسنة يضاعفها ويؤت من لدنه أجرا عظيما · فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا · يومئذ يود الذين كفروا وعصوا الرسول لو تسوى بهم الأرض ولا يكتمون الله حديثا
+## 4/40-42 — إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا · فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا · يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا
 
 *Innallāha lā yaẓlimu miṡqāla żarrah, wa in taku ḥasanatay yuḍāʻifhā wa yuʼti mil ladunhu ajran ʻaẓīmā · Fa kaifa iżā jiʼnā min kulli ummatim bisyahīdiw wa jiʼnā bika ʻalā hāʼulāʼi syahīdā · Yaumaʼiżiy yawaddullażīna kafarū wa ʻaṣawur-rasūla lau tusawwā bihimul-arḍ, wa lā yaktumūnallāha ḥadīṡā*
 
@@ -2818,7 +2818,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/43 — يا أيها الذين آمنوا لا تقربوا الصلاة وأنتم سكارى حتى تعلموا ما تقولون ولا جنبا إلا عابري سبيل حتى تغتسلوا … فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم إن الله كان عفوا غفورا
+## 4/43 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ … فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 
 *Yā ayyuhallażīna āmanū lā taqrabuṣ-ṣalāta wa antum sukārā ḥattā taʻlamū mā taqūlūn … fa tayammamū ṣaʻīdan ṭayyiban famsaḥū biwujūhikum wa aidīkum, innallāha kāna ʻafuwwan gafūrā*
 
@@ -2865,7 +2865,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/44-46 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يشترون الضلالة ويريدون أن تضلوا السبيل · والله أعلم بأعدائكم وكفى بالله وليا وكفى بالله نصيرا · من الذين هادوا يحرفون الكلم عن مواضعه ويقولون سمعنا وعصينا … ولو أنهم قالوا سمعنا وأطعنا واسمع وانظرنا لكان خيرا لهم وأقوم
+## 4/44-46 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ · وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا · مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا … وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ
 
 *Alam tara ilallażīna ūtū naṣībam minal-kitābi yasytarūnaḍ-ḍalālata wa yurīdūna an taḍillus-sabīl · Wallāhu aʻlamu biaʻdāʼikum wa kafā billāhi waliyyaw wa kafā billāhi naṣīrā · Minallażīna hādū yuḥarrifūnal-kalima ʻam mawāḍiʻihī …*
 
@@ -2920,7 +2920,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/47-50 — يا أيها الذين أوتوا الكتاب آمنوا بما نزلنا مصدقا لما معكم … إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء · ألم تر إلى الذين يزكون أنفسهم بل الله يزكي من يشاء
+## 4/47-50 — يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم … إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ · أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ
 
 *Yā ayyuhallażīna ūtul-kitāba āminū bimā nazzalnā muṣaddiqal limā maʻakum … Innallāha lā yagfiru ay yusyraka bihī wa yagfiru mā dūna żālika limay yasyāʼ · Alam tara ilallażīna yuzakkūna anfusahum, balillāhu yuzakkī may yasyāʼ*
 
@@ -2964,7 +2964,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/51-57 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يؤمنون بالجبت والطاغوت … أم يحسدون الناس على ما آتاهم الله من فضله · إن الذين كفروا بآياتنا سوف نصليهم نارا · والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار
+## 4/51-57 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ … أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ · إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا · وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ
 
 *Alam tara ilallażīna ūtū naṣībam minal-kitābi yuʼminūna bil-jibti waṭ-ṭāgūt … Am yaḥsudūnan-nāsa ʻalā mā ātāhumullāhu min faḍlih …*
 
@@ -3001,7 +3001,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/58 — إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل إن الله نعما يعظكم به إن الله كان سميعا بصيرا
+## 4/58 — إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا
 
 *Innallāha yaʼmurukum an tuʼaddul-amānāti ilā ahlihā wa iżā ḥakamtum bainan-nāsi an taḥkumū bil-ʻadl, innallāha niʻimmā yaʻiẓukum bih, innallāha kāna samīʻam baṣīrā*
 
@@ -3067,7 +3067,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/59 — يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم فإن تنازعتم في شيء فردوه إلى الله والرسول إن كنتم تؤمنون بالله واليوم الآخر ذلك خير وأحسن تأويلا
+## 4/59 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 *Yā ayyuhallażīna āmanū aṭīʻullāha wa aṭīʻur-rasūla wa ulil-amri minkum, fa in tanāzaʻtum fī syaiʼin fa ruddūhu ilallāhi war-rasūli in kuntum tuʼminūna billāhi wal-yaumil-ākhir, żālika khairuw wa aḥsanu taʼwīlā*
 
@@ -3170,7 +3170,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/60-63 — ألم تر إلى الذين يزعمون أنهم آمنوا بما أنزل إليك وما أنزل من قبلك يريدون أن يتحاكموا إلى الطاغوت وقد أمروا أن يكفروا به … فأعرض عنهم وعظهم وقل لهم في أنفسهم قولا بليغا
+## 4/60-63 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ … فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا
 
 *Alam tara ilallażīna yazʻumūna annahum āmanū bimā unzila ilaika wa mā unzila min qablika yurīdūna ay yataḥākamū ilaṭ-ṭāgūti wa qad umirū ay yakfurū bih … Fa aʻriḍ ʻanhum wa ʻiẓhum wa qul lahum fī anfusihim qaulam balīgā*
 
@@ -3211,7 +3211,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/64-70 — وما أرسلنا من رسول إلا ليطاع بإذن الله … فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم حرجا مما قضيت ويسلموا تسليما … ومن يطع الله والرسول فأولئك مع الذين أنعم الله عليهم من النبيين والصديقين والشهداء والصالحين وحسن أولئك رفيقا
+## 4/64-70 — وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ … فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا … وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًا
 
 *Wa mā arsalnā mir rasūlin illā liyuṭāʻa biiżnillāh … Fa lā wa rabbika lā yuʼminūna ḥattā yuḥakkimūka fīmā syajara bainahum ṡumma lā yajidū fī anfusihim ḥarajam mimmā qaḍaita wa yusallimū taslīmā … Wa may yuṭiʻillāha war-rasūla fa ulāʼika maʻallażīna anʻamallāhu ʻalaihim minan-nabiyyīna waṣ-ṣiddīqīna wasy-syuhadāʼi waṣ-ṣāliḥīn, wa ḥasuna ulāʼika rafīqā*
 
@@ -3266,7 +3266,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/71-74 — يا أيها الذين آمنوا خذوا حذركم فانفروا ثبات أو انفروا جميعا · وإن منكم لمن ليبطئن … فليقاتل في سبيل الله الذين يشرون الحياة الدنيا بالآخرة
+## 4/71-74 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًا · وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ … فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ
 
 *Yā ayyuhallażīna āmanū khużū ḥiżrakum fanfirū ṡubātin awinfirū jamīʻā · Wa inna minkum lamal layubaṭṭiʼann … Falyuqātil fī sabīlillāhillażīna yasyrūnal-ḥayātad-dunyā bil-ākhirah*
 
@@ -3298,7 +3298,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/75-76 — وما لكم لا تقاتلون في سبيل الله والمستضعفين من الرجال والنساء والولدان الذين يقولون ربنا أخرجنا من هذه القرية الظالم أهلها واجعل لنا من لدنك وليا واجعل لنا من لدنك نصيرا
+## 4/75-76 — وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
 *Wa mā lakum lā tuqātilūna fī sabīlillāhi wal-mustaḍʻafīna minar-rijāli wan-nisāʼi wal-wildānillażīna yaqūlūna rabbanā akhrijnā min hāżihil-qaryatiẓ-ẓālimi ahluhā wajʻal lanā mil ladunka waliyyaw wajʻal lanā mil ladunka naṣīrā*
 
@@ -3365,7 +3365,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/77 — ألم تر إلى الذين قيل لهم كفوا أيديكم وأقيموا الصلاة وآتوا الزكاة فلما كتب عليهم القتال إذا فريق منهم يخشون الناس كخشية الله أو أشد خشية
+## 4/77 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً
 
 *Alam tara ilallażīna qīla lahum kuffū aidiyakum wa aqīmuṣ-ṣalāta wa ātuz-zakāh, fa lammā kutiba ʻalaihimul-qitālu iżā farīqum minhum yakhsyaunan-nāsa kakhasyyatillāhi au asyadda khasyyah*
 
@@ -3399,7 +3399,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/78-79 — أينما تكونوا يدرككم الموت ولو كنتم في بروج مشيدة وإن تصبهم حسنة يقولوا هذه من عند الله وإن تصبهم سيئة يقولوا هذه من عندك قل كل من عند الله … · ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك وأرسلناك للناس رسولا وكفى بالله شهيدا
+## 4/78-79 — أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ … · مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Ainamā takūnū yudrikkumul-mautu wa lau kuntum fī burūjim musyayyadah, wa in tuṣibhum ḥasanatuy yaqūlū hāżihī min ʻindillāh, wa in tuṣibhum sayyiʼatuy yaqūlū hāżihī min ʻindik, qul kullum min ʻindillāh, fa mā lihāʼulāʼil-qaumi lā yakādūna yafqahūna ḥadīṡā · Mā aṣābaka min ḥasanatin fa minallāh, wa mā aṣābaka min sayyiʼatin fa min nafsik, wa arsalnāka lin-nāsi rasūlā, wa kafā billāhi syahīdā*
 
@@ -3509,7 +3509,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/80-81 — من يطع الرسول فقد أطاع الله ومن تولى فما أرسلناك عليهم حفيظا · ويقولون طاعة فإذا برزوا من عندك بيت طائفة منهم غير الذي تقول والله يكتب ما يبيتون فأعرض عنهم وتوكل على الله وكفى بالله وكيلا
+## 4/80-81 — مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا · وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
 *May yuṭiʻir-rasūla fa qad aṭāʻallāh, wa man tawallā fa mā arsalnāka ʻalaihim ḥafīẓā · Wa yaqūlūna ṭāʻatun fa iżā barazū min ʻindika bayyata ṭāʼifatum minhum gairallażī taqūl, wallāhu yaktubu mā yubayyitūn, fa aʻriḍ ʻanhum wa tawakkal ʻalallāh, wa kafā billāhi wakīlā*
 
@@ -3545,7 +3545,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/82 — أفلا يتدبرون القرآن ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا
+## 4/82 — أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا
 
 *Afalā yatadabbarūnal-qurʼān, wa lau kāna min ʻindi gairillāhi lawajadū fīhikhtilāfan kaṡīrā*
 
@@ -3602,7 +3602,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/83 — وإذا جاءهم أمر من الأمن أو الخوف أذاعوا به ولو ردوه إلى الرسول وإلى أولي الأمر منهم لعلمه الذين يستنبطونه منهم
+## 4/83 — وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ
 
 *Wa iżā jāʼahum amrum minal-amni awil-khaufi ażāʻū bih, wa lau raddūhu ilar-rasūli wa ilā ulil-amri minhum laʻalimahullażīna yastanbiṭūnahū minhum*
 
@@ -3652,7 +3652,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/84-87 — فقاتل في سبيل الله لا تكلف إلا نفسك وحرض المؤمنين · من يشفع شفاعة حسنة يكن له نصيب منها ومن يشفع شفاعة سيئة يكن له كفل منها · وإذا حييتم بتحية فحيوا بأحسن منها أو ردوها إن الله كان على كل شيء حسيبا · الله لا إله إلا هو ليجمعنكم إلى يوم القيامة لا ريب فيه
+## 4/84-87 — فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ وَحَرِّضِ ٱلْمُؤْمِنِينَ · مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةً يَكُن لَّهُۥ نَصِيبٌ مِّنْهَا وَمَن يَشْفَعْ شَفَٰعَةً سَيِّئَةً يَكُن لَّهُۥ كِفْلٌ مِّنْهَا · وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا · ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ
 
 *Fa qātil fī sabīlillāh, lā tukallafu illā nafsak, wa ḥarriḍil-muʼminīn · May yasyfaʻ syafāʻatan ḥasanatay yakul lahū naṣībum minhā, wa may yasyfaʻ syafāʻatan sayyiʼatay yakul lahū kiflum minhā … · Wa iżā ḥuyyītum bitaḥiyyatin fa ḥayyū biaḥsana minhā au ruddūhā, innallāha kāna ʻalā kulli syaiʼin ḥasībā*
 
@@ -3712,7 +3712,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/88-91 — فما لكم في المنافقين فئتين والله أركسهم بما كسبوا … إلا الذين يصلون إلى قوم بينكم وبينهم ميثاق أو جاءوكم حصرت صدورهم أن يقاتلوكم … فإن اعتزلوكم فلم يقاتلوكم وألقوا إليكم السلم فما جعل الله لكم عليهم سبيلا
+## 4/88-91 — فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ … إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ … فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
 
 *Fa mā lakum fil-munāfiqīna fiʼataini wallāhu arkasahum bimā kasabū … Illallażīna yaṣilūna ilā qaumim bainakum wa bainahum mīṡāqun au jāʼūkum ḥaṣirat ṣudūruhum ay yuqātilūkum … Fa iniʻtazalūkum fa lam yuqātilūkum wa alqau ilaikumus-salama fa mā jaʻalallāhu lakum ʻalaihim sabīlā*
 
@@ -3760,7 +3760,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/92-93 — وما كان لمؤمن أن يقتل مؤمنا إلا خطأ ومن قتل مؤمنا خطأ فتحرير رقبة مؤمنة ودية مسلمة إلى أهله إلا أن يصدقوا … فمن لم يجد فصيام شهرين متتابعين توبة من الله · ومن يقتل مؤمنا متعمدا فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
+## 4/92-93 — وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ … فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ · وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا
 
 *Wa mā kāna limuʼminin ay yaqtula muʼminan illā khaṭaʼā, wa man qatala muʼminan khaṭaʼan fa taḥrīru raqabatim muʼminatiw wa diyatum musallamatun ilā ahlihī illā ay yaṣṣaddaqū … fa mal lam yajid fa ṣiyāmu syahraini mutatābiʻaini taubatam minallāh · Wa may yaqtul muʼminam mutaʻammidan fa jazāʼuhū jahannamu khālidan fīhā wa gaḍiballāhu ʻalaihi wa laʻanahū wa aʻadda lahū ʻażāban ʻaẓīmā*
 
@@ -3851,7 +3851,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/94-96 — يا أيها الذين آمنوا إذا ضربتم في سبيل الله فتبينوا ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا فعند الله مغانم كثيرة كذلك كنتم من قبل فمن الله عليكم فتبينوا
+## 4/94-96 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟
 
 *Yā ayyuhallażīna āmanū iżā ḍarabtum fī sabīlillāhi fa tabayyanū wa lā taqūlū liman alqā ilaikumus-salāma lasta muʼminan tabtagūna ʻaraḍal-ḥayātid-dunyā, fa ʻindallāhi magānimu kaṡīrah, każālika kuntum min qablu fa mannallāhu ʻalaikum fa tabayyanū*
 
@@ -3904,7 +3904,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/97-100 — إن الذين توفاهم الملائكة ظالمي أنفسهم قالوا فيم كنتم قالوا كنا مستضعفين في الأرض قالوا ألم تكن أرض الله واسعة فتهاجروا فيها … · إلا المستضعفين من الرجال والنساء والولدان لا يستطيعون حيلة ولا يهتدون سبيلا · فأولئك عسى الله أن يعفو عنهم … · ومن يهاجر في سبيل الله يجد في الأرض مراغما كثيرا وسعة
+## 4/97-100 — إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا … · إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا · فَأُو۟لَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ … · وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً
 
 *Innallażīna tawaffāhumul-malāʼikatu ẓālimī anfusihim qālū fīma kuntum, qālū kunnā mustaḍʻafīna fil-arḍ, qālū alam takun arḍullāhi wāsiʻatan fa tuhājirū fīhā … · Illal-mustaḍʻafīna minar-rijāli wan-nisāʼi wal-wildāni lā yastaṭīʻūna ḥīlataw wa lā yahtadūna sabīlā · Fa ulāʼika ʻasallāhu ay yaʻfuwa ʻanhum … · Wa may yuhājir fī sabīlillāhi yajid fil-arḍi murāgaman kaṡīraw wa saʻah*
 
@@ -4006,7 +4006,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/101-104 — وإذا ضربتم في الأرض فليس عليكم جناح أن تقصروا من الصلاة … · وإذا كنت فيهم فأقمت لهم الصلاة فلتقم طائفة منهم معك وليأخذوا أسلحتهم … · فإذا قضيتم الصلاة فاذكروا الله قياما وقعودا وعلى جنوبكم … إن الصلاة كانت على المؤمنين كتابا موقوتا · ولا تهنوا في ابتغاء القوم إن تكونوا تألمون فإنهم يألمون كما تألمون
+## 4/101-104 — وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ … · وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ … · فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ … إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا · وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ
 
 *Wa iżā ḍarabtum fil-arḍi fa laisa ʻalaikum junāḥun an taqṣurū minaṣ-ṣalāh … · Wa iżā kunta fīhim fa aqamta lahumuṣ-ṣalāta faltaqum ṭāʼifatum minhum maʻaka walyaʼkhużū asliḥatahum … · Fa iżā qaḍaitumuṣ-ṣalāta fażkurullāha qiyāmaw wa quʻūdaw wa ʻalā junūbikum … innaṣ-ṣalāta kānat ʻalal-muʼminīna kitābam mauqūtā · Wa lā tahinū fibtigāʼil-qaum, in takūnū taʼlamūna fa innahum yaʼlamūna kamā taʼlamūn*
 
@@ -4054,7 +4054,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/105-113 — إنا أنزلنا إليك الكتاب بالحق لتحكم بين الناس بما أراك الله ولا تكن للخائنين خصيما … · يستخفون من الناس ولا يستخفون من الله وهو معهم … · ومن يكسب خطيئة أو إثما ثم يرم به بريئا فقد احتمل بهتانا وإثما مبينا
+## 4/105-113 — إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا … · يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ … · وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا
 
 *Innā anzalnā ilaikal-kitāba bil-ḥaqqi litaḥkuma bainan-nāsi bimā arākallāh, wa lā takul lil-khāʼinīna khaṣīmā … · Yastakhfūna minan-nāsi wa lā yastakhfūna minallāhi wa huwa maʻahum … · Wa may yaksib khaṭīʼatan au iṡman ṡumma yarmi bihī barīʼan fa qadiḥtamala buhtānaw wa iṡmam mubīnā*
 
@@ -4211,7 +4211,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/114-115 — لا خير في كثير من نجواهم إلا من أمر بصدقة أو معروف أو إصلاح بين الناس ومن يفعل ذلك ابتغاء مرضات الله فسوف نؤتيه أجرا عظيما · ومن يشاقق الرسول من بعد ما تبين له الهدى ويتبع غير سبيل المؤمنين نوله ما تولى ونصله جهنم وساءت مصيرا
+## 4/114-115 — لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا · وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Lā khaira fī kaṡīrim min najwāhum illā man amara biṣadaqatin au maʻrūfin au iṣlāḥim bainan-nās, wa may yafʻal żālikabtigāʼa marḍātillāhi fa saufa nuʼtīhi ajran ʻaẓīmā · Wa may yusyāqiqir-rasūla mim baʻdi mā tabayyana lahul-hudā wa yattabiʻ gaira sabīlil-muʼminīna nuwallihī mā tawallā wa nuṣlihī jahannam, wa sāʼat maṣīrā*
 
@@ -4263,7 +4263,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/116-121 — إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء … · لعنه الله وقال لأتخذن من عبادك نصيبا مفروضا · ولأضلنهم ولأمنينهم … · يعدهم ويمنيهم وما يعدهم الشيطان إلا غرورا
+## 4/116-121 — إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ … · لَّعَنَهُ ٱللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا · وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ … · يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
 *Innallāha lā yagfiru ay yusyraka bihī wa yagfiru mā dūna żālika limay yasyāʼ … · Laʻanahullāh, wa qāla laattakhiżanna min ʻibādika naṣībam mafrūḍā · Wa laʼuḍillannahum wa laʼumanniyannahum … · Yaʻiduhum wa yumannīhim, wa mā yaʻiduhumusy-syaiṭānu illā gurūrā*
 
@@ -4318,7 +4318,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/122-126 — والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار … · ليس بأمانيكم ولا أماني أهل الكتاب من يعمل سوءا يجز به ولا يجد له من دون الله وليا ولا نصيرا · ومن يعمل من الصالحات من ذكر أو أنثى وهو مؤمن فأولئك يدخلون الجنة ولا يظلمون نقيرا · ومن أحسن دينا ممن أسلم وجهه لله وهو محسن واتبع ملة إبراهيم حنيفا واتخذ الله إبراهيم خليلا
+## 4/122-126 — وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ … · لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا · وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا · وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 
 *Wallażīna āmanū wa ʻamiluṣ-ṣāliḥāti sanudkhiluhum jannātin tajrī min taḥtihal-anhār … · Laisa biamāniyyikum wa lā amāniyyi ahlil-kitāb, may yaʻmal sūʼay yujza bihī wa lā yajid lahū min dūnillāhi waliyyaw wa lā naṣīrā · Wa may yaʻmal minaṣ-ṣāliḥāti min żakarin au unṡā wa huwa muʼminun fa ulāʼika yadkhulūnal-jannata wa lā yuẓlamūna naqīrā · Wa man aḥsanu dīnam mimman aslama wajhahū lillāhi wa huwa muḥsinuw wattabaʻa millata ibrāhīma ḥanīfā, wattakhażallāhu ibrāhīma khalīlā*
 
@@ -4377,7 +4377,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/127 — ويستفتونك في النساء قل الله يفتيكم فيهن وما يتلى عليكم في الكتاب في يتامى النساء اللاتي لا تؤتونهن ما كتب لهن وترغبون أن تنكحوهن والمستضعفين من الولدان وأن تقوموا لليتامى بالقسط
+## 4/127 — وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ
 
 *Wa yastaftūnaka fin-nisāʼ, qulillāhu yuftīkum fīhinna wa mā yutlā ʻalaikum fil-kitābi fī yatāman-nisāʼillātī lā tuʼtūnahunna mā kutiba lahunna wa targabūna an tankiḥūhunna wal-mustaḍʻafīna minal-wildāni wa an taqūmū lil-yatāmā bil-qisṭ*
 
@@ -4424,7 +4424,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/128-130 — وإن امرأة خافت من بعلها نشوزا أو إعراضا فلا جناح عليهما أن يصلحا بينهما صلحا والصلح خير وأحضرت الأنفس الشح … · ولن تستطيعوا أن تعدلوا بين النساء ولو حرصتم فلا تميلوا كل الميل فتذروها كالمعلقة وإن تصلحوا وتتقوا فإن الله كان غفورا رحيما · وإن يتفرقا يغن الله كلا من سعته
+## 4/128-130 — وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَٱلصُّلْحُ خَيْرٌ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ … · وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا · وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّا مِّن سَعَتِهِۦ
 
 *Wa inimraʼatun khāfat mim baʻlihā nusyūzan au iʻrāḍan fa lā junāḥa ʻalaihimā ay yuṣliḥā bainahumā ṣulḥā, waṣ-ṣulḥu khair, wa uḥḍiratil-anfususy-syuḥḥ … · Wa lan tastaṭīʻū an taʻdilū bainan-nisāʼi wa lau ḥaraṣtum, fa lā tamīlū kullal-maili fa tażarūhā kal-muʻallaqah, wa in tuṣliḥū wa tattaqū fa innallāha kāna gafūrar raḥīmā · Wa iy yatafarraqā yugnillāhu kullam min saʻatih*
 
@@ -4528,7 +4528,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/131-134 — ولله ما في السماوات وما في الأرض ولقد وصينا الذين أوتوا الكتاب من قبلكم وإياكم أن اتقوا الله … · من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والآخرة وكان الله سميعا بصيرا
+## 4/131-134 — وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ … · مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًا
 
 *Wa lillāhi mā fis-samāwāti wa mā fil-arḍ, wa laqad waṣṣainallażīna ūtul-kitāba min qablikum wa iyyākum anittaqullāh … · Man kāna yurīdu ṡawābad-dunyā fa ʻindallāhi ṡawābud-dunyā wal-ākhirah, wa kānallāhu samīʻam baṣīrā*
 
@@ -4563,7 +4563,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/135 — يا أيها الذين آمنوا كونوا قوامين بالقسط شهداء لله ولو على أنفسكم أو الوالدين والأقربين إن يكن غنيا أو فقيرا فالله أولى بهما فلا تتبعوا الهوى أن تعدلوا وإن تلووا أو تعرضوا فإن الله كان بما تعملون خبيرا
+## 4/135 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 
 *Yā ayyuhallażīna āmanū kūnū qawwāmīna bil-qisṭi syuhadāʼa lillāhi wa lau ʻalā anfusikum awil-wālidaini wal-aqrabīn, iy yakun ganiyyan au faqīran fallāhu aulā bihimā, fa lā tattabiʻul-hawā an taʻdilū, wa in talwū au tuʻriḍū fa innallāha kāna bimā taʻmalūna khabīrā*
 
@@ -4704,7 +4704,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/136-139 — يا أيها الذين آمنوا آمنوا بالله ورسوله والكتاب الذي نزل على رسوله والكتاب الذي أنزل من قبل … · إن الذين آمنوا ثم كفروا ثم آمنوا ثم كفروا ثم ازدادوا كفرا لم يكن الله ليغفر لهم … · الذين يتخذون الكافرين أولياء من دون المؤمنين أيبتغون عندهم العزة فإن العزة لله جميعا
+## 4/136-139 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ … · إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ … · ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا
 
 *Yā ayyuhallażīna āmanū āminū billāhi wa rasūlihī wal-kitābillażī nazzala ʻalā rasūlihī wal-kitābillażī anzala min qabl … · Innallażīna āmanū ṡumma kafarū ṡumma āmanū ṡumma kafarū ṡummazdādū kufral lam yakunillāhu liyagfira lahum … · Allażīna yattakhiżūnal-kāfirīna auliyāʼa min dūnil-muʼminīn, a yabtagūna ʻindahumul-ʻizzata fa innal-ʻizzata lillāhi jamīʻā*
 
@@ -4755,7 +4755,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/140-141 — وقد نزل عليكم في الكتاب أن إذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره إنكم إذا مثلهم … · الذين يتربصون بكم فإن كان لكم فتح من الله قالوا ألم نكن معكم
+## 4/140-141 — وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ إِنَّكُمْ إِذًا مِّثْلُهُمْ … · ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ
 
 *Wa qad nazzala ʻalaikum fil-kitābi an iżā samiʻtum āyātillāhi yukfaru bihā wa yustahzaʼu bihā fa lā taqʻudū maʻahum ḥattā yakhūḍū fī ḥadīṡin gairih, innakum iżam miṡluhum … · Allażīna yatarabbaṣūna bikum fa in kāna lakum fatḥum minallāhi qālū alam nakum maʻakum*
 
@@ -4809,7 +4809,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/142-147 — إن المنافقين يخادعون الله وهو خادعهم وإذا قاموا إلى الصلاة قاموا كسالى … · مذبذبين بين ذلك لا إلى هؤلاء ولا إلى هؤلاء · … إن المنافقين في الدرك الأسفل من النار … · إلا الذين تابوا وأصلحوا واعتصموا بالله وأخلصوا دينهم لله فأولئك مع المؤمنين · ما يفعل الله بعذابكم إن شكرتم وآمنتم
+## 4/142-147 — إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ … · مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ · … إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ … · إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ · مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ
 
 *Innal-munāfiqīna yukhādiʻūnallāha wa huwa khādiʻuhum wa iżā qāmū ilaṣ-ṣalāti qāmū kusālā … · Mużabżabīna baina żālika lā ilā hāʼulāʼi wa lā ilā hāʼulāʼ · … Innal-munāfiqīna fid-darkil-asfali minan-nār … · Illallażīna tābū wa aṣlaḥū waʻtaṣamū billāhi wa akhlaṣū dīnahum lillāhi fa ulāʼika maʻal-muʼminīn · Mā yafʻalullāhu biʻażābikum in syakartum wa āmantum*
 
@@ -4871,7 +4871,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/148-152 — لا يحب الله الجهر بالسوء من القول إلا من ظلم … · إن تبدوا خيرا أو تخفوه أو تعفوا عن سوء فإن الله كان عفوا قديرا · … الذين يفرقون بين الله ورسله … · والذين آمنوا بالله ورسله ولم يفرقوا بين أحد منهم أولئك سوف يؤتيهم أجورهم
+## 4/148-152 — لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ … · إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا · … وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ … · وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ
 
 *Lā yuḥibbullāhul-jahra bis-sūʼi minal-qauli illā man ẓulim … · In tubdū khairan au tukhfūhu au taʻfū ʻan sūʼin fa innallāha kāna ʻafuwwan qadīrā · … Allażīna yufarriqūna bainallāhi wa rusulihī … · Wallażīna āmanū billāhi wa rusulihī wa lam yufarriqū baina aḥadim minhum ulāʼika saufa yuʼtīhim ujūrahum*
 
@@ -4928,7 +4928,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/153-159 — يسألك أهل الكتاب أن تنزل عليهم كتابا من السماء … · فبما نقضهم ميثاقهم وكفرهم بآيات الله وقتلهم الأنبياء بغير حق وقولهم قلوبنا غلف … · وبكفرهم وقولهم على مريم بهتانا عظيما · وقولهم إنا قتلنا المسيح عيسى ابن مريم رسول الله وما قتلوه وما صلبوه ولكن شبه لهم … وما قتلوه يقينا · بل رفعه الله إليه
+## 4/153-159 — يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ … · فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ … · وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًا · وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ … وَمَا قَتَلُوهُ يَقِينًۢا · بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ
 
 *Yasʼaluka ahlul-kitābi an tunazzila ʻalaihim kitābam minas-samāʼ … · Fa bimā naqḍihim mīṡāqahum wa kufrihim biāyātillāhi wa qatlihimul-ambiyāʼa bigairi ḥaqqiw wa qaulihim qulūbunā gulf … · Wa bikufrihim wa qaulihim ʻalā maryama buhtānan ʻaẓīmā · Wa qaulihim innā qatalnal-masīḥa ʻīsabna maryama rasūlallāh, wa mā qatalūhu wa mā ṣalabūhu wa lākin syubbiha lahum … wa mā qatalūhu yaqīnā · Bar rafaʻahullāhu ilaih*
 
@@ -5029,7 +5029,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/160-162 — فبظلم من الذين هادوا حرمنا عليهم طيبات أحلت لهم وبصدهم عن سبيل الله كثيرا · وأخذهم الربا وقد نهوا عنه وأكلهم أموال الناس بالباطل … · لكن الراسخون في العلم منهم والمؤمنون يؤمنون بما أنزل إليك وما أنزل من قبلك والمقيمين الصلاة والمؤتون الزكاة والمؤمنون بالله واليوم الآخر أولئك سنؤتيهم أجرا عظيما
+## 4/160-162 — فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا · وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ … · لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
 *Fa biẓulmim minallażīna hādū ḥarramnā ʻalaihim ṭayyibātin uḥillat lahum wa biṣaddihim ʻan sabīlillāhi kaṡīrā · Wa akhżihimur-ribā wa qad nuhū ʻanhu wa aklihim amwālan-nāsi bil-bāṭil … · Lākinir-rāsikhūna fil-ʻilmi minhum wal-muʼminūna yuʼminūna bimā unzila ilaika wa mā unzila min qablik, wal-muqīmīnaṣ-ṣalāta wal-muʼtūnaz-zakāta wal-muʼminūna billāhi wal-yaumil-ākhir, ulāʼika sanuʼtīhim ajran ʻaẓīmā*
 
@@ -5084,7 +5084,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/163-166 — إنا أوحينا إليك كما أوحينا إلى نوح والنبيين من بعده … · ورسلا قد قصصناهم عليك من قبل ورسلا لم نقصصهم عليك وكلم الله موسى تكليما · رسلا مبشرين ومنذرين لئلا يكون للناس على الله حجة بعد الرسل
+## 4/163-166 — إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ … · وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًا · رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ
 
 *Innā auḥainā ilaika kamā auḥainā ilā nūḥiw wan-nabiyyīna mim baʻdih … · Wa rusulan qad qaṣaṣnāhum ʻalaika min qablu wa rusulal lam naqṣuṣhum ʻalaik, wa kallamallāhu mūsā taklīmā · Rusulam mubasysyirīna wa munżirīna liallā yakūna lin-nāsi ʻalallāhi ḥujjatum baʻdar-rusul*
 
@@ -5108,7 +5108,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/167-170 — إن الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا … · يا أيها الناس قد جاءكم الرسول بالحق من ربكم فآمنوا خيرا لكم وإن تكفروا فإن لله ما في السماوات والأرض
+## 4/167-170 — إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا … · يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًا لَّكُمْ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
 
 *Innallażīna kafarū wa ṣaddū ʻan sabīlillāhi qad ḍallū ḍalālam baʻīdā … · Yā ayyuhan-nāsu qad jāʼakumur-rasūlu bil-ḥaqqi mir rabbikum fa āminū khairal lakum, wa in takfurū fa inna lillāhi mā fis-samāwāti wal-arḍ*
 
@@ -5138,7 +5138,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/171-173 — يا أهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه … ولا تقولوا ثلاثة انتهوا خيرا لكم … · لن يستنكف المسيح أن يكون عبدا لله ولا الملائكة المقربون · فأما الذين آمنوا وعملوا الصالحات فيوفيهم أجورهم ويزيدهم من فضله
+## 4/171-173 — يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ … وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ … · لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ
 
 *Yā ahlal-kitābi lā taglū fī dīnikum wa lā taqūlū ʻalallāhi illal-ḥaqq, innamal-masīḥu ʻīsabnu maryama rasūlullāhi wa kalimatuhū alqāhā ilā maryama wa rūḥum minhu … wa lā taqūlū ṡalāṡah, intahū khairal lakum … · Lay yastankifal-masīḥu ay yakūna ʻabdal lillāhi wa lal-malāʼikatul-muqarrabūn · Fa ammallażīna āmanū wa ʻamiluṣ-ṣāliḥāti fa yuwaffīhim ujūrahum wa yazīduhum min faḍlih*
 
@@ -5225,7 +5225,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/174-175 — يا أيها الناس قد جاءكم برهان من ربكم وأنزلنا إليكم نورا مبينا · فأما الذين آمنوا بالله واعتصموا به فسيدخلهم في رحمة منه وفضل ويهديهم إليه صراطا مستقيما
+## 4/174-175 — يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا
 
 *Yā ayyuhan-nāsu qad jāʼakum burhānum mir rabbikum wa anzalnā ilaikum nūram mubīnā · Fa ammallażīna āmanū billāhi waʻtaṣamū bihī fa sayudkhiluhum fī raḥmatim minhu wa faḍliw wa yahdīhim ilaihi ṣirāṭam mustaqīmā*
 
@@ -5259,7 +5259,7 @@ Kata ganti pada catatan yang kedua perlu dicatat: *ātū**hunna*** — "berikanl
 
 ---
 
-## 4/176 — يستفتونك قل الله يفتيكم في الكلالة إن امرؤ هلك ليس له ولد وله أخت فلها نصف ما ترك وهو يرثها إن لم يكن لها ولد فإن كانتا اثنتين فلهما الثلثان مما ترك وإن كانوا إخوة رجالا ونساء فللذكر مثل حظ الأنثيين يبين الله لكم أن تضلوا والله بكل شيء عليم
+## 4/176 — يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
 *Yastaftūnak, qulillāhu yuftīkum fil-kalālah, inimruʼun halaka laisa lahū waladuw wa lahū ukhtun fa lahā niṣfu mā tarak, wa huwa yariṡuhā il lam yakul lahā walad, fa in kānataṡnataini fa lahumaṡ-ṡuluṡāni mimmā tarak, wa in kānū ikhwatar rijālaw wa nisāʼan fa liż-żakari miṡlu ḥaẓẓil-unṡayain, yubayyinullāhu lakum an taḍillū, wallāhu bikulli syaiʼin ʻalīm*
 

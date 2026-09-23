@@ -179,7 +179,7 @@ Ayat ketiga dimulai dengan *innā anzalnāhu*, dan pola *inna* + kata kerja lamp
 
 ---
 
-## 44/3 — إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ
+## 44/3 — إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ
 
 *Innā anzalnāhu fī lailatim mubārakatin, innā kunnā munżirīn*
 
@@ -334,7 +334,7 @@ Pada `097-kadr.md` ayat ini memang telah disebutkan dan di sana telah dicatat ke
 
 ---
 
-## 44/5-6 — أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ · رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+## 44/5-6 — أَمْرًا مِّنْ عِندِنَآ إِنَّا كُنَّا مُرْسِلِينَ · رَحْمَةً مِّن رَّبِّكَ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 
 *Amram min ʻindinā, innā kunnā mursilīn · Raḥmatam mir rabbik, innahū huwas-Samīʻul-ʻAlīm*
 
@@ -400,7 +400,7 @@ Ketetapan yang dicatat pada `085-buruc.md` untuk sapaan *rabbuka* bekerja pula d
 
 ---
 
-## 44/7-8 — رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ · لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+## 44/7-8 — رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ إِن كُنتُم مُّوقِنِينَ · لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 
 *Rabbis-samāwāti wal-arḍi wa mā bainahumā, in kuntum mūqinīn · Lā ilāha illā huwa yuḥyī wa yumīt, rabbukum wa rabbu ābā'ikumul-awwalīn*
 
@@ -543,7 +543,7 @@ Pada `052-tur.md` susunan yang persis sama telah dibahas — di sana *fī khau�
 
 ---
 
-## 44/10-11 — فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ · يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌ
+## 44/10-11 — فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ · يَغْشَى ٱلنَّاسَ هَٰذَا عَذَابٌ أَلِيمٌ
 
 *Fartaqib yauma ta'tis-samā'u bi-dukhānim mubīn · Yagsyan-nās, hāżā ʻażābun alīm*
 
@@ -797,7 +797,7 @@ Untuk *rasūlum mubīn* diriwayatkan dua bacaan, dan keduanya bersandar pada dua
 
 ---
 
-## 44/15 — إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ
+## 44/15 — إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ
 
 *Innā kāsyiful-ʻażābi qalīlan, innakum ʻā'idūn*
 
@@ -1039,7 +1039,7 @@ Hal itu dapat dilihat begini:
 
 ---
 
-## 44/18 — أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
+## 44/18 — أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
 
 *An addū ilayya ʻibādallāh, innī lakum rasūlun amīn*
 
@@ -1116,7 +1116,7 @@ Hal itu dapat dilihat begini:
 
 ---
 
-## 44/19 — وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍ مُّبِينٍ
+## 44/19 — وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ إِنِّىٓ ءَاتِيكُم بِسُلْطَٰنٍ مُّبِينٍ
 
 *Wa al lā taʻlū ʻalallāh, innī ātīkum bi-sulṭānim mubīn*
 
@@ -1360,7 +1360,7 @@ Pada `071-nuh.md` doa Nuh telah dibahas; perbedaan antara tuntutan yang panjang 
 
 ---
 
-## 44/23-24 — فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ · وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+## 44/23-24 — فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ · وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 
 *Fa-asri bi-ʻibādī lailan innakum muttabaʻūn · Watrukil-baḥra rahwan, innahum jundum mugraqūn*
 
@@ -1589,7 +1589,7 @@ Pada ayat kedua puluh empat dikatakan *"bala tentara yang akan ditenggelamkan"*;
 
 ---
 
-## 44/28 — كَذَٰلِكَ ۖ وَأَوْرَثْنَٰهَا قَوْمًا ءَاخَرِينَ
+## 44/28 — كَذَٰلِكَ وَأَوْرَثْنَٰهَا قَوْمًا ءَاخَرِينَ
 
 *Każālika wa auraṡnāhā qauman ākharīn*
 
@@ -1734,7 +1734,7 @@ Pada ayat kedua puluh empat dikatakan *"bala tentara yang akan ditenggelamkan"*;
 
 ---
 
-## 44/30-31 — وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ · مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ
+## 44/30-31 — وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ · مِن فِرْعَوْنَ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ
 
 *Wa laqad najjainā banī Isrā'īla minal-ʻażābil-muhīn · Min Firʻaun, innahū kāna ʻāliyam minal-musrifīn*
 
@@ -1995,7 +1995,7 @@ Hal itu dapat dilihat begini: kebangkitan, sebagaimana diceritakan pada ayat kee
 
 ---
 
-## 44/37 — أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
+## 44/37 — أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ أَهْلَكْنَٰهُمْ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ
 
 *A-hum khairun am qaumu Tubbaʻiw wallażīna min qablihim, ahlaknāhum, innahum kānū mujrimīn*
 
@@ -2194,7 +2194,7 @@ Pihak lawan telah mengajukan sebuah klaim **ketidakmungkinan** (35: kami tidak a
 
 ---
 
-## 44/40-42 — إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَٰتُهُمْ أَجْمَعِينَ · يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ · إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+## 44/40-42 — إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَٰتُهُمْ أَجْمَعِينَ · يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ · إِلَّا مَن رَّحِمَ ٱللَّهُ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 
 *Inna yaumal-faṣli mīqātuhum ajmaʻīn · Yauma lā yugnī maulan ʻam maulan syai'aw wa lā hum yunṣarūn · Illā mar raḥimallāh, innahū huwal-ʻAzīzur-Raḥīm*
 
@@ -3064,7 +3064,7 @@ Hal itu dapat dilihat begini: daftar pada ayat kedua puluh lima sampai kedua pul
 
 ---
 
-## 44/56 — لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
+## 44/56 — لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ
 
 *Lā yażūqūna fīhal-mauta illal-mautatal-ūlā, wa waqāhum ʻażābal-jaḥīm*
 
@@ -3165,7 +3165,7 @@ Mereka telah berkata: *"Hanya ada satu kematian, itu saja."* **Dan ayat kelima p
 
 ---
 
-## 44/57 — فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+## 44/57 — فَضْلًا مِّن رَّبِّكَ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Faḍlam mir rabbik, żālika huwal-fauzul-ʻaẓīm*
 

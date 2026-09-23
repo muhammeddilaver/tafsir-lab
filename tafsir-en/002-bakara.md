@@ -63,7 +63,7 @@ These letters count as a verse, they are recited in prayer, they are written in 
 
 ---
 
-## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ
 
 *Dhālika'l-kitābu lā rayba fīh, hudan li'l-muttaqīn*
 "That is the Book; there is no doubt in it; a guidance for those who guard themselves."
@@ -105,7 +105,7 @@ No. Note carefully: the verse does not say "no one doubts it"; it says **"there 
 
 ### The small mark in the muṣḥaf
 
-In this verse the classical copies carry two three-dotted marks in the form `ۛ` — one before "fīh", one after. This is called *muʿānaqa* (embracing), and it means this: **one may pause at either of the two places, but not at both.** For the two pauses give two different meanings:
+In this verse the classical copies carry two three-dotted marks in the form `` — one before "fīh", one after. This is called *muʿānaqa* (embracing), and it means this: **one may pause at either of the two places, but not at both.** For the two pauses give two different meanings:
 
 - *"There is no doubt in it. It is a guidance for those who guard themselves."*
 - *"There is no doubt in it. In it there is guidance for those who guard themselves."*
@@ -4534,7 +4534,7 @@ The pair of attributes occurs several more times in the sūra, and each time **a
 
 **The choice of the word is worth recording.** The verse does not say "give" or "spend"; it says **"lend"**. A loan is what is given in order to be taken back. **Spending, that is, is described not as something lost but as something entered in the column of what is owed to one.**
 
-**وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ** — "God straitens and enlarges." **That this sentence is placed here is an answer to the anxiety about diminution felt in giving.**
+**وَٱللَّهُ يَقْبِضُ وَيَبْصُطُ** — "God straitens and enlarges." **That this sentence is placed here is an answer to the anxiety about diminution felt in giving.**
 
 ---
 

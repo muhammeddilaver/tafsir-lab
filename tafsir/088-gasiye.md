@@ -115,7 +115,7 @@ Kur'an geçmiş bir olaya dikkat çekerken sık sık **ألم تر** (görmedin 
 
 ---
 
-## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ ۝ عَامِلَةٌ نَّاصِبَةٌ
+## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ · عَامِلَةٌ نَّاصِبَةٌ
 
 *Vücûhun yevmeizin hâşi'a — âmiletün nâsıba*
 "Yüzler vardır o gün, çökmüştür; çalışmış, yorulmuştur."
@@ -250,7 +250,7 @@ Sûre bir örüntü kuruyor: her nesne, kendi özelliğinin uç noktasında.
 
 ---
 
-## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ ۝ لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ ۝ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
+## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ · لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ · لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
 
 *Tüskâ min aynin âniye — leyse lehüm taâmün illâ min darî' — lâ yüsminü ve lâ yuğnî min cû'*
 "Kaynar bir pınardan içirilir. Onlar için kuru dikenden başka yiyecek yoktur; ne besler ne de açlığı giderir."
@@ -385,7 +385,7 @@ Kelimenin bir kullanımı daha var ve bu sûre için anlamlı: *"Malı ve kazand
 
 ---
 
-## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ ۝ لِّسَعْيِهَا رَاضِيَةٌ
+## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ · لِّسَعْيِهَا رَاضِيَةٌ
 
 *Vücûhun yevmeizin nâ'ime — li-sa'yihâ râdıye*
 "Yüzler vardır o gün, yumuşamıştır; kendi çabasından hoşnuttur."
@@ -490,7 +490,7 @@ Fecr ise ikisini bir sıfat çiftinde topluyor: *râdıye* (razı olan) ve *merd
 
 ---
 
-## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ ۝ لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
+## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ · لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
 
 *Fî cennetin âliye — lâ tesme'u fîhâ lâğiye*
 "Yüksek bir bahçededir. Orada boş söz duymaz."
@@ -589,7 +589,7 @@ Fark küçük görünür ama gerçektir: insanın huzurunu bozan şey, kötü s�
 
 ---
 
-## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ ۝ فِيهَا سُرُرٌ مَّرْفُوعَةٌ ۝ وَأَكْوَابٌ مَّوْضُوعَةٌ ۝ وَنَمَارِقُ مَصْفُوفَةٌ ۝ وَزَرَابِىُّ مَبْثُوثَةٌ
+## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ · فِيهَا سُرُرٌ مَّرْفُوعَةٌ · وَأَكْوَابٌ مَّوْضُوعَةٌ · وَنَمَارِقُ مَصْفُوفَةٌ · وَزَرَابِىُّ مَبْثُوثَةٌ
 
 *Fîhâ aynün câriye — fîhâ sürurun merfû'a — ve ekvâbün mevdû'a — ve nemâriku masfûfe — ve zerâbiyyü mebsûse*
 "Orada akan bir pınar vardır. Orada yükseltilmiş tahtlar, konulmuş kadehler, sıra sıra dizilmiş yastıklar ve yayılmış halılar vardır."
@@ -733,7 +733,7 @@ Bu ayet, tasvirlerin nasıl okunması gerektiğine dair Kur'an'ın kendi kaydıd
 
 ---
 
-## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ ۝ وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ۝ وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ ۝ وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
+## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ · وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ · وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ · وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
 
 *Efelâ yenzurûne ile'l-ibili keyfe hulikat — ve ile's-semâi keyfe rufi'at — ve ile'l-cibâli keyfe nusıbet — ve ile'l-ardı keyfe sutihat*
 "Bakmıyorlar mı deveye, nasıl yaratıldı? Göğe, nasıl yükseltildi? Dağlara, nasıl dikildi? Yere, nasıl yayıldı?"
@@ -922,7 +922,7 @@ Bunu sakin ve net biçimde yazıyorum çünkü STYLE'ın koyduğu ölçü burada
 
 ---
 
-## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
+## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ · لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
 
 *Fe-zekkir innemâ ente müzekkir — leste aleyhim bi-musaytır*
 "Sen hatırlat; sen ancak hatırlatıcısın. Onların üzerinde zorla hükmeden değilsin."
@@ -1016,7 +1016,7 @@ Ve bu, imanın tanımına dair bir şey söylüyor: **zorla elde edilebilen bir 
 
 ---
 
-## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ ۝ فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
+## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ · فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
 
 *İllâ men tevellâ ve kefer — fe-yu'azzibühüllâhü'l-azâbe'l-ekber*
 "Ancak kim yüz çevirir ve örterse, Allah ona en büyük azabı verir."
@@ -1099,7 +1099,7 @@ Ve Secde ayetinin bir kaydı daha var, atlanmaması gerekiyor: *"belki dönerler
 
 ---
 
-## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ ۝ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
+## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ · ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
 
 *İnne ileynâ iyâbehüm — sümme inne aleynâ hisâbehüm*
 "Şüphesiz onların dönüşü bizedir. Sonra hesaplarını görmek de bize aittir."

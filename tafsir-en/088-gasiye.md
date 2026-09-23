@@ -115,7 +115,7 @@ In al-Ghāshiya the second is chosen, and the choice is apt: **what is being rec
 
 ---
 
-## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ ۝ عَامِلَةٌ نَّاصِبَةٌ
+## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ · عَامِلَةٌ نَّاصِبَةٌ
 
 *Wujūhun yawmaʾidhin khāshiʿa — ʿāmilatun nāṣiba*
 "There are faces that day, brought low; having laboured, having grown weary."
@@ -250,7 +250,7 @@ The sūra is setting up a pattern: every object at the furthest point of its own
 
 ---
 
-## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ ۝ لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ ۝ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
+## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ · لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ · لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
 
 *Tusqā min ʿaynin āniya — laysa lahum ṭaʿāmun illā min ḍarīʿ — lā yusminu wa lā yughnī min jūʿ*
 "It is given to drink from a boiling spring. They have no food but dry thorn; it neither nourishes nor avails against hunger."
@@ -385,7 +385,7 @@ The word has one further use, and it is meaningful for this sūra: *"His wealth 
 
 ---
 
-## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ ۝ لِّسَعْيِهَا رَاضِيَةٌ
+## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ · لِّسَعْيِهَا رَاضِيَةٌ
 
 *Wujūhun yawmaʾidhin nāʿima — li-saʿyihā rāḍiya*
 "There are faces that day, softened; well pleased with their own striving."
@@ -490,7 +490,7 @@ Read together, the three sūras show a sequence: **to be pleased with what one h
 
 ---
 
-## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ ۝ لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
+## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ · لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
 
 *Fī jannatin ʿāliya — lā tasmaʿu fīhā lāghiya*
 "It is in a lofty garden. It hears no idle talk there."
@@ -589,7 +589,7 @@ The difference looks small but is real: what disturbs a person's peace is not th
 
 ---
 
-## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ ۝ فِيهَا سُرُرٌ مَّرْفُوعَةٌ ۝ وَأَكْوَابٌ مَّوْضُوعَةٌ ۝ وَنَمَارِقُ مَصْفُوفَةٌ ۝ وَزَرَابِىُّ مَبْثُوثَةٌ
+## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ · فِيهَا سُرُرٌ مَّرْفُوعَةٌ · وَأَكْوَابٌ مَّوْضُوعَةٌ · وَنَمَارِقُ مَصْفُوفَةٌ · وَزَرَابِىُّ مَبْثُوثَةٌ
 
 *Fīhā ʿaynun jāriya — fīhā sururun marfūʿa — wa akwābun mawḍūʿa — wa namāriqu maṣfūfa — wa zarābiyyu mabthūtha*
 "In it is a flowing spring. In it are couches raised high, goblets set out, cushions ranged in rows, and carpets spread out."
@@ -733,7 +733,7 @@ This verse is the Qurʾān's own note on how the depictions are to be read: what
 
 ---
 
-## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ ۝ وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ۝ وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ ۝ وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
+## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ · وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ · وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ · وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
 
 *A-fa-lā yanẓurūna ila'l-ibili kayfa khuliqat — wa ila's-samāʾi kayfa rufiʿat — wa ila'l-jibāli kayfa nuṣibat — wa ila'l-arḍi kayfa suṭiḥat*
 "Do they not look at the camel, how it was created? And at the sky, how it was raised? And at the mountains, how they were set up? And at the earth, how it was spread out?"
@@ -922,7 +922,7 @@ I write this calmly and plainly because the measure laid down by the method (`ST
 
 ---
 
-## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
+## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ · لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
 
 *Fa-dhakkir innamā anta mudhakkir — lasta ʿalayhim bi-muṣayṭir*
 "So remind; you are only a reminder. You are not one who rules them by force."
@@ -1016,7 +1016,7 @@ And this says something about the definition of faith: **what can be obtained by
 
 ---
 
-## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ ۝ فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
+## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ · فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
 
 *Illā man tawallā wa kafar — fa-yuʿadhdhibuhu'llāhu'l-ʿadhāba'l-akbar*
 "But whoever turns away and covers over, God will punish him with the greatest punishment."
@@ -1099,7 +1099,7 @@ And the verse of al-Sajda has one further note that must not be passed over: *"p
 
 ---
 
-## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ ۝ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
+## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ · ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
 
 *Inna ilaynā iyābahum — thumma inna ʿalaynā ḥisābahum*
 "Truly their return is to us. Then truly their reckoning is ours."

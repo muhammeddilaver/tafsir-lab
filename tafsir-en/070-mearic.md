@@ -870,7 +870,7 @@ And the verse-ending of the four verses is the same as well: *banīh, akhīh, tu
 
 ---
 
-## 70/15-16 — كَلَّآ ۖ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
+## 70/15-16 — كَلَّآ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
 
 *Kallā innahā laẓā · Nazzāʿatan li'sh-shawā*
 "No! It is a flame; it strips away the skin."
@@ -2258,7 +2258,7 @@ I record this as a reading; the content of the two verses and their link with th
 
 ---
 
-## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
+## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
 
 *A-yaṭmaʿu kullu'mriʾin minhum an yudkhala jannata naʿīm · Kallā innā khalaqnāhum mimmā yaʿlamūn*
 "Does each one of them covet being admitted to a garden of bliss? No! We created them from what they know."
@@ -2602,7 +2602,7 @@ And the verb is **imperfect**: the promise continues, it is renewed.
 
 ---
 
-## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
+## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
 *Yawma yakhrujūna mina'l-ajdāthi sirāʿan ka-annahum ilā nuṣubin yūfiḍūn · Khāshiʿatan abṣāruhum tarhaquhum dhillah; dhālika'l-yawmu'lladhī kānū yūʿadūn*
 "The day they come out of the graves in haste, as though they were racing towards a standing stone. Their eyes cast down, humiliation covering them. That is the day they were promised."

@@ -84,9 +84,9 @@ Analisis kata demi kata atas basmalah telah dikerjakan pada Surah Al-Fatihah; sa
 
 ---
 
-## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ ۝ أَن جَآءَهُ ٱلْأَعْمَىٰ
+## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ · أَن جَآءَهُ ٱلْأَعْمَىٰ
 
-*ʻAbasa wa tawallā ۝ An jāʼahul-aʻmā*
+*ʻAbasa wa tawallā · An jāʼahul-aʻmā*
 "Ia bermasam muka dan berpaling — karena orang buta itu datang kepadanya."
 
 ### Dimulainya dengan orang ketiga
@@ -210,9 +210,9 @@ Hal ini mengeluarkan surah ini dari kedudukannya sebagai sebuah pelajaran akhlak
 
 ---
 
-## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
+## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ · أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
 
-*Wa mā yudrīka laʻallahū yazzakkā ۝ Au yażżakkaru fa-tanfaʻahuż-żikrā*
+*Wa mā yudrīka laʻallahū yazzakkā · Au yażżakkaru fa-tanfaʻahuż-żikrā*
 "Tahukah engkau — boleh jadi ia akan menyucikan diri; atau ia akan mengambil peringatan, lalu peringatan itu memberinya manfaat."
 
 ### Pertanyaan yang tidak punya jawaban
@@ -284,9 +284,9 @@ Inilah campur tangan surah ini yang paling senyap tetapi paling mendasar: **manu
 
 ---
 
-## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ ۝ فَأَنتَ لَهُۥ تَصَدَّىٰ ۝ وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ · فَأَنتَ لَهُۥ تَصَدَّىٰ · وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
 
-*Ammā manistagnā ۝ Fa-anta lahū taṣaddā ۝ Wa mā ʻalaika allā yazzakkā*
+*Ammā manistagnā · Fa-anta lahū taṣaddā · Wa mā ʻalaika allā yazzakkā*
 "Adapun orang yang memandang dirinya serba cukup — engkau menghadap kepadanya. Padahal tidak menyucikan dirinya orang itu bukanlah tanggung jawabmu."
 
 ### Susunan: penggolongan bercabang dua
@@ -356,9 +356,9 @@ Ini adalah perkataan yang diucapkan untuk penyampaian dakwah, tetapi ia duduk di
 
 ---
 
-## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ ۝ وَهُوَ يَخْشَىٰ ۝ فَأَنتَ عَنْهُ تَلَهَّىٰ
+## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ · وَهُوَ يَخْشَىٰ · فَأَنتَ عَنْهُ تَلَهَّىٰ
 
-*Wa ammā man jāʼaka yasʻā ۝ Wa huwa yakhsyā ۝ Fa-anta ʻanhu talahhā*
+*Wa ammā man jāʼaka yasʻā · Wa huwa yakhsyā · Fa-anta ʻanhu talahhā*
 "Adapun orang yang datang kepadamu dengan bergegas — sedangkan ia menaruh khasyyah — engkau berpaling darinya dan sibuk dengan yang lain."
 
 ### Tiga sifat lelaki itu
@@ -433,9 +433,9 @@ Enam ayat ini adalah sebuah pemerian tentang bagaimana manusia mengurutkan satu 
 
 ---
 
-## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ ۝ فَمَن شَآءَ ذَكَرَهُۥ
+## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ · فَمَن شَآءَ ذَكَرَهُۥ
 
-*Kallā innahā tażkirah ۝ Fa-man syāʼa żakarah*
+*Kallā innahā tażkirah · Fa-man syāʼa żakarah*
 "Sekali-kali jangan! Ia adalah sebuah peringatan. Maka siapa yang mau, ia akan mengingatnya."
 
 ### كَلَّا — pemutus
@@ -474,9 +474,9 @@ Dan padanannya yang persis terdapat pada **At-Takwir 81/28-29**: *"bagi siapa di
 
 ---
 
-## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ
+## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ
 
-*Fī ṣuḥufim mukarramah ۝ Marfūʻatim muṭahharah ۝ Bi-aidī safarah ۝ Kirāmim bararah*
+*Fī ṣuḥufim mukarramah · Marfūʻatim muṭahharah · Bi-aidī safarah · Kirāmim bararah*
 "Ia berada di dalam lembaran-lembaran yang dimuliakan; yang ditinggikan, yang disucikan; ia berada di tangan para utusan penulis — yang mulia lagi ahli kebajikan."
 
 ### Susunan: ia tersambung ke mana?
@@ -652,9 +652,9 @@ Bacaan pertama adalah yang paling kuat. Tetapi yang kedua punya satu keindahan: 
 
 ---
 
-## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ ۝ مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ ۝ ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ · مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ · ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
 
-*Min ayyi syaiʼin khalaqah ۝ Min nuṭfatin khalaqahū fa-qaddarah ۝ Ṡummas-sabīla yassarah*
+*Min ayyi syaiʼin khalaqah · Min nuṭfatin khalaqahū fa-qaddarah · Ṡummas-sabīla yassarah*
 "Dari apakah Dia menciptakannya? Dari setetes air Dia menciptakannya lalu memberinya ukuran. Kemudian Dia memudahkan jalannya."
 
 ### Pertanyaan yang diajukan dan langsung dijawab
@@ -718,9 +718,9 @@ Dan hal ini memperberat tuduhannya. Alasan "aku tidak tahu" ditutup oleh *hadā*
 
 ---
 
-## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ ۝ ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
+## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ · ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
 
-*Ṡumma amātahū fa-aqbarah ۝ Ṡumma iżā syāʼa ansyarah*
+*Ṡumma amātahū fa-aqbarah · Ṡumma iżā syāʼa ansyarah*
 "Kemudian Dia mematikannya lalu menjadikannya berkubur. Kemudian bila Dia menghendaki, Dia akan membangkitkannya."
 
 ### أَقْبَرَ — menjadikan seseorang punya kubur
@@ -863,9 +863,9 @@ Tetapi delapan ayat yang datang sesudahnya memperlihatkan ke mana pandangan itu 
 
 ---
 
-## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا ۝ ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا ۝ فَأَنۢبَتْنَا فِيهَا حَبًّا ۝ وَعِنَبًا وَقَضْبًا ۝ وَزَيْتُونًا وَنَخْلًا ۝ وَحَدَآئِقَ غُلْبًا ۝ وَفَٰكِهَةً وَأَبًّا ۝ مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
+## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا · ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا · فَأَنۢبَتْنَا فِيهَا حَبًّا · وَعِنَبًا وَقَضْبًا · وَزَيْتُونًا وَنَخْلًا · وَحَدَآئِقَ غُلْبًا · وَفَٰكِهَةً وَأَبًّا · مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
 
-*Annā ṣababnal-māʼa ṣabbā ۝ Ṡumma syaqaqnal-arḍa syaqqā ۝ Fa-ambatnā fīhā ḥabbā ۝ Wa ʻinabaw wa qaḍbā ۝ Wa zaitūnaw wa nakhlā ۝ Wa ḥadāʼiqa gulbā ۝ Wa fākihataw wa abbā ۝ Matāʻal lakum wa li-anʻāmikum*
+*Annā ṣababnal-māʼa ṣabbā · Ṡumma syaqaqnal-arḍa syaqqā · Fa-ambatnā fīhā ḥabbā · Wa ʻinabaw wa qaḍbā · Wa zaitūnaw wa nakhlā · Wa ḥadāʼiqa gulbā · Wa fākihataw wa abbā · Matāʻal lakum wa li-anʻāmikum*
 
 "Kami mencurahkan air dengan sebenar-benar curahan; kemudian Kami belah bumi dengan sebenar-benar belahan; lalu Kami tumbuhkan padanya biji-bijian — anggur dan rumput-rumputan segar, zaitun dan kurma, kebun-kebun yang lebat pohonnya, buah-buahan dan padang rumput; untuk kesenanganmu dan untuk binatang-binatang ternakmu."
 
@@ -981,9 +981,9 @@ Dan hal ini berbicara secara senyap dengan sepuluh ayat pertama surah. Di sana s
 
 ---
 
-## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ ۝ يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ ۝ وَأُمِّهِۦ وَأَبِيهِ ۝ وَصَٰحِبَتِهِۦ وَبَنِيهِ ۝ لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ · يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ · وَأُمِّهِۦ وَأَبِيهِ · وَصَٰحِبَتِهِۦ وَبَنِيهِ · لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
 
-*Fa-iżā jāʼatiṣ-ṣākhkhah ۝ Yauma yafirrul-marʼu min akhīh ۝ Wa ummihī wa abīh ۝ Wa ṣāḥibatihī wa banīh ۝ Likullimriʼim minhum yaumaʼiżin syaʼnuy yugnīh*
+*Fa-iżā jāʼatiṣ-ṣākhkhah · Yauma yafirrul-marʼu min akhīh · Wa ummihī wa abīh · Wa ṣāḥibatihī wa banīh · Likullimriʼim minhum yaumaʼiżin syaʼnuy yugnīh*
 
 "Maka apabila datang suara yang memekakkan telinga — pada hari itu manusia lari dari saudaranya; dari ibunya dan bapaknya, dari istrinya dan anak-anaknya. Pada hari itu setiap orang dari mereka punya urusan yang cukup menyibukkannya."
 
@@ -1101,9 +1101,9 @@ Ini adalah sebuah kesimpulan dan saya catat ia sebagai bacaan saya sendiri. Teta
 
 ---
 
-## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ ۝ ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۝ وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ ۝ تَرْهَقُهَا قَتَرَةٌ ۝ أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
+## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ · ضَاحِكَةٌ مُّسْتَبْشِرَةٌ · وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ · تَرْهَقُهَا قَتَرَةٌ · أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
 
-*Wujūhuy yaumaʼiżim musfirah ۝ Ḍāḥikatum mustabsyirah ۝ Wa wujūhuy yaumaʼiżin ʻalaihā gabarah ۝ Tarhaquhā qatarah ۝ Ulāʼika humul-kafaratul-fajarah*
+*Wujūhuy yaumaʼiżim musfirah · Ḍāḥikatum mustabsyirah · Wa wujūhuy yaumaʼiżin ʻalaihā gabarah · Tarhaquhā qatarah · Ulāʼika humul-kafaratul-fajarah*
 
 "Pada hari itu ada wajah-wajah yang berseri; tertawa dan bergembira karena kabar baik. Dan pada hari itu ada wajah-wajah yang tertutup debu; kegelapan menyelubunginya. Itulah orang-orang kafir lagi durhaka."
 

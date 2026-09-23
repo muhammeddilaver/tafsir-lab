@@ -153,7 +153,7 @@ Bu sûreye özel bir nokta kaydedilebilir: **Rahmân ve Rahîm isimleriyle açı
 
 ---
 
-## 4/1 — يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة وخلق منها زوجها وبث منهما رجالا كثيرا ونساء واتقوا الله الذي تساءلون به والأرحام إن الله كان عليكم رقيبا
+## 4/1 — يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 *Yâ eyyühe'n-nâsü'ttekū rabbekümü'llezî halakaküm min nefsin vâhidetin ve halaka minhâ zevcehâ ve besse minhümâ ricâlen kesîran ve nisââ, ve'ttekullâhe'llezî tesâelûne bihî ve'l-erhâm, innallâhe kâne aleyküm rakībâ*
 
@@ -318,7 +318,7 @@ Birinci okuyuşta, sakınılması istenen iki şey yan yana geliyor: **Allah ve 
 
 ---
 
-## 4/2 — وآتوا اليتامى أموالهم ولا تتبدلوا الخبيث بالطيب ولا تأكلوا أموالهم إلى أموالكم إنه كان حوبا كبيرا
+## 4/2 — وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
 
 *Ve âtü'l-yetâmâ emvâlehüm ve lâ tetebeddelü'l-habîse bi't-tayyib, ve lâ te'külû emvâlehüm ilâ emvâliküm, innehû kâne hûben kebîrâ*
 
@@ -378,7 +378,7 @@ Bunu bir kelime gözlemi olarak kaydediyorum: **takas görünüşte eşit, adlan
 
 ---
 
-## 4/3 — وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم ذلك أدنى ألا تعولوا
+## 4/3 — وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
 
 *Ve in hıftüm ellâ tuksitû fi'l-yetâmâ fenkihû mâ tâbe leküm mine'n-nisâi mesnâ ve sülâse ve rubâ', fe-in hıftüm ellâ ta'dilû fe-vâhideten ev mâ meleket eymânüküm, zâlike ednâ ellâ teûlû*
 
@@ -569,7 +569,7 @@ Bunu bir **dizim gözlemi** olarak kaydediyorum; buradan bir hüküm çıkarmıy
 
 ---
 
-## 4/4 — وآتوا النساء صدقاتهن نحلة فإن طبن لكم عن شيء منه نفسا فكلوه هنيئا مريئا
+## 4/4 — وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
 
 *Ve âtü'n-nisâe sadükātihinne nıhle, fe-in tıbne leküm an şey'in minhü nefsen fe-külûhu henîen merîâ*
 
@@ -643,7 +643,7 @@ Bunu **kendi okumam** olarak kaydediyorum: sûre, iki ayrı grubun elinden alın
 
 ---
 
-## 4/5 — ولا تؤتوا السفهاء أموالكم التي جعل الله لكم قياما وارزقوهم فيها واكسوهم وقولوا لهم قولا معروفا
+## 4/5 — وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Ve lâ tü'tü's-süfehâe emvâlekümü'lletî cealallâhu leküm kıyâmen ve'rzukūhüm fîhâ ve'ksûhüm ve kūlû lehüm kavlen ma'rûfâ*
 
@@ -729,7 +729,7 @@ Bunu **kendi okumam** olarak kaydediyorum; kelimelerin yerleri metinde sayılabi
 
 ---
 
-## 4/6 — وابتلوا اليتامى حتى إذا بلغوا النكاح فإن آنستم منهم رشدا فادفعوا إليهم أموالهم ولا تأكلوها إسرافا وبدارا أن يكبروا ومن كان غنيا فليستعفف ومن كان فقيرا فليأكل بالمعروف فإذا دفعتم إليهم أموالهم فأشهدوا عليهم وكفى بالله حسيبا
+## 4/6 — وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
 
 *Vebtelü'l-yetâmâ hattâ izâ belağü'n-nikâh, fe-in ânestüm minhüm rüşden fedfeû ileyhim emvâlehüm, ve lâ te'külûhâ isrâfen ve bidâran en yekberû, ve men kâne ğaniyyen fe'l-yesta'fif ve men kâne fakīran fe'l-ye'kül bi'l-ma'rûf, fe-izâ defa'tüm ileyhim emvâlehüm fe-eşhidû aleyhim, ve kefâ billâhi hasîbâ*
 
@@ -842,7 +842,7 @@ Kök `024-nur.md` 24/27'de (*hattâ teste'nisû*) işlendi; oraya dayanıyorum.
 
 ---
 
-## 4/7 — للرجال نصيب مما ترك الوالدان والأقربون وللنساء نصيب مما ترك الوالدان والأقربون مما قل منه أو كثر نصيبا مفروضا
+## 4/7 — لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا
 
 *Li'r-ricâli nasîbün mimmâ terake'l-vâlidâni ve'l-akrabûn, ve li'n-nisâi nasîbün mimmâ terake'l-vâlidâni ve'l-akrabûne mimmâ kalle minhü ev kesür, nasîben mefrûdâ*
 
@@ -896,7 +896,7 @@ Kök `024-nur.md` 24/27'de (*hattâ teste'nisû*) işlendi; oraya dayanıyorum.
 
 ---
 
-## 4/8 — وإذا حضر القسمة أولو القربى واليتامى والمساكين فارزقوهم منه وقولوا لهم قولا معروفا
+## 4/8 — وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Ve izâ hadara'l-kısmete ülü'l-kurbâ ve'l-yetâmâ ve'l-mesâkînü fe'rzukūhüm minhü ve kūlû lehüm kavlen ma'rûfâ*
 
@@ -946,7 +946,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı iki emrin aynı cümlede y
 
 ---
 
-## 4/9 — وليخش الذين لو تركوا من خلفهم ذرية ضعافا خافوا عليهم فليتقوا الله وليقولوا قولا سديدا
+## 4/9 — وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
 
 *Ve'l-yahşe'llezîne lev terakû min halfihim zürriyyeten dıâfen hâfû aleyhim, fe'l-yettekullâhe ve'l-yekūlû kavlen sedîdâ*
 
@@ -1023,7 +1023,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı şart cümlesinin kuruluş
 
 ---
 
-## 4/10 — إن الذين يأكلون أموال اليتامى ظلما إنما يأكلون في بطونهم نارا وسيصلون سعيرا
+## 4/10 — إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
 
 *İnne'llezîne ye'külûne emvâle'l-yetâmâ zulmen innemâ ye'külûne fî butûnihim nârâ, ve seyaslavne saîrâ*
 
@@ -1105,7 +1105,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı iki fiilin kipleridir.
 
 ---
 
-## 4/11 — يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين … من بعد وصية يوصي بها أو دين
+## 4/11 — يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ … مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ
 
 *Yûsîkümüllâhu fî evlâdiküm li'z-zekeri mislü hazzı'l-ünseyeyn, fe-in künne nisâen fevka'sneteyni fe-lehünne sülüsâ mâ terak, ve in kânet vâhideten fe-lehe'n-nısf, ve li-ebeveyhi li-külli vâhidin minhüme's-südüsü mimmâ terake in kâne lehû veled, fe-in lem yekün lehû veledün ve verisehû ebevâhu fe-li-ümmihi's-sülüs, fe-in kâne lehû ihvetün fe-li-ümmihi's-südüs, min ba'di vasıyyetin yûsî bihâ ev deyn, âbâüküm ve ebnâüküm lâ tedrûne eyyühüm akrabu leküm nef'â, farîdaten minallâh, innallâhe kâne alîmen hakîmâ*
 
@@ -1250,7 +1250,7 @@ Miras taksiminde insanın en doğal itirazı şudur: "şu daha yakındı", "şu 
 
 ---
 
-## 4/12 — ولكم نصف ما ترك أزواجكم إن لم يكن لهن ولد … وإن كان رجل يورث كلالة أو امرأة وله أخ أو أخت فلكل واحد منهما السدس
+## 4/12 — وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ … وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ
 
 *Ve leküm nısfü mâ terake ezvâcüküm in lem yekün lehünne veled, fe-in kâne lehünne veledün fe-lekümü'r-rubuu mimmâ terakne min ba'di vasıyyetin yûsîne bihâ ev deyn, ve lehünne'r-rubuu mimmâ teraktüm in lem yekün leküm veled, fe-in kâne leküm veledün fe-lehünne's-sümünü mimmâ teraktüm min ba'di vasıyyetin tûsûne bihâ ev deyn, ve in kâne racülün yûrasü kelâleten evi'mraetün ve lehû ehun ev uhtün fe-li-külli vâhidin minhüme's-südüs, fe-in kânû eksera min zâlike fe-hüm şürakâü fi's-sülüsi min ba'di vasıyyetin yûsâ bihâ ev deynin ğayra mudârr, vasıyyeten minallâh, vallâhu alîmün halîm*
 
@@ -1343,7 +1343,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kaydın yeridir.
 
 ---
 
-## 4/13-14 — تلك حدود الله ومن يطع الله ورسوله يدخله جنات تجري من تحتها الأنهار خالدين فيها وذلك الفوز العظيم · ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين
+## 4/13-14 — تِلْكَ حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ · وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
 
 *Tilke hudûdullâh, ve men yutiıllâhe ve rasûlehû yüdhılhü cennâtin tecrî min tahtihe'l-enhâru hâlidîne fîhâ, ve zâlike'l-fevzü'l-azîm · Ve men ya'sıllâhe ve rasûlehû ve yeteadde hudûdehû yüdhılhü nâran hâliden fîhâ ve lehû azâbün mühîn*
 
@@ -1403,7 +1403,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kelimenin kökü ile bloğ
 
 ---
 
-## 4/15-16 — واللاتي يأتين الفاحشة من نسائكم فاستشهدوا عليهن أربعة منكم فإن شهدوا فأمسكوهن في البيوت حتى يتوفاهن الموت أو يجعل الله لهن سبيلا · واللذان يأتيانها منكم فآذوهما فإن تابا وأصلحا فأعرضوا عنهما
+## 4/15-16 — وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا · وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ
 
 *Vellâtî ye'tîne'l-fâhışete min nisâiküm feste'şhidû aleyhinne erbeaten minküm, fe-in şehidû fe-emsikûhünne fi'l-büyûti hattâ yeteveffâhünne'l-mevtü ev yec'alallâhu lehünne sebîlâ · Velleẕâni ye'tiyânihâ minküm fe-âzûhümâ, fe-in tâbâ ve aslehâ fe-a'ridû anhümâ, innallâhe kâne tevvâben rahîmâ*
 
@@ -1479,7 +1479,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kelimenin kökü ile bloğ
 
 ---
 
-## 4/17-18 — إنما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فأولئك يتوب الله عليهم · وليست التوبة للذين يعملون السيئات حتى إذا حضر أحدهم الموت قال إني تبت الآن
+## 4/17-18 — إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ · وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ
 
 *İnneme't-tevbetü alallâhi lillezîne ya'melûne's-sûe bi-cehâletin sümme yetûbûne min karîbin fe-ülâike yetûbullâhu aleyhim, ve kânallâhu alîmen hakîmâ · Ve leyseti't-tevbetü lillezîne ya'melûne's-seyyiâti hattâ izâ hadara ehadehümü'l-mevtü kāle innî tübtü'l-âne ve le'llezîne yemûtûne ve hüm küffâr, ülâike a'tednâ lehüm azâben elîmâ*
 
@@ -1543,7 +1543,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı kelimenin kökü ile bloğ
 
 ---
 
-## 4/19 — يا أيها الذين آمنوا لا يحل لكم أن ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما آتيتموهن إلا أن يأتين بفاحشة مبينة وعاشروهن بالمعروف فإن كرهتموهن فعسى أن تكرهوا شيئا ويجعل الله فيه خيرا كثيرا
+## 4/19 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
 
 *Yâ eyyühe'llezîne âmenû lâ yehıllü leküm en terisü'n-nisâe kerhâ, ve lâ ta'dulûhünne li-tezhebû bi-ba'di mâ âteytümûhünne illâ en ye'tîne bi-fâhışetin mübeyyineh, ve âşirûhünne bi'l-ma'rûf, fe-in kerihtümûhünne fe-asâ en tekrahû şey'en ve yec'alallâhu fîhi hayran kesîrâ*
 
@@ -1671,7 +1671,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ---
 
-## 4/20-21 — وإن أردتم استبدال زوج مكان زوج وآتيتم إحداهن قنطارا فلا تأخذوا منه شيئا أتأخذونه بهتانا وإثما مبينا · وكيف تأخذونه وقد أفضى بعضكم إلى بعض وأخذن منكم ميثاقا غليظا
+## 4/20-21 — وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا · وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًا
 
 *Ve in eradtümü'stibdâle zevcin mekâne zevcin ve âteytüm ihdâhünne kıntâran fe-lâ te'huzû minhü şey'â, e te'huzûnehû bühtânen ve ismen mübînâ · Ve keyfe te'huzûnehû ve kad efdâ ba'duküm ilâ ba'din ve ehazne minküm mîsâkan ğalîzâ*
 
@@ -1747,7 +1747,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ---
 
-## 4/22 — ولا تنكحوا ما نكح آباؤكم من النساء إلا ما قد سلف إنه كان فاحشة ومقتا وساء سبيلا
+## 4/22 — وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
 
 *Ve lâ tenkihû mâ nekeha âbâüküm mine'n-nisâi illâ mâ kad selef, innehû kâne fâhışeten ve makten ve sâe sebîlâ*
 
@@ -1787,7 +1787,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ---
 
-## 4/23 — حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم وخالاتكم وبنات الأخ وبنات الأخت وأمهاتكم اللاتي أرضعنكم وأخواتكم من الرضاعة وأمهات نسائكم وربائبكم اللاتي في حجوركم … وأن تجمعوا بين الأختين إلا ما قد سلف
+## 4/23 — حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم … وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ
 
 *Hurrimet aleyküm ümmehâtüküm ve benâtüküm ve ehavâtüküm ve ammâtüküm ve hâlâtüküm ve benâtü'l-ehi ve benâtü'l-uhti ve ümmehâtükümü'llâtî erda'neküm ve ehavâtüküm mine'r-radâati ve ümmehâtü nisâiküm ve rabâibükümü'llâtî fî hucûriküm min nisâikümü'llâtî dehaltüm bihinne, fe-in lem tekûnû dehaltüm bihinne fe-lâ cünâha aleyküm, ve halâilü ebnâikümü'llezîne min aslâbiküm ve en tecmeû beyne'l-uhteyni illâ mâ kad selef, innallâhe kâne ğafûran rahîmâ*
 
@@ -1864,7 +1864,7 @@ Bunu bir **gramer gözlemi** olarak kaydediyorum; dayanağı bâbın kendisidir.
 
 ---
 
-## 4/24 — والمحصنات من النساء إلا ما ملكت أيمانكم كتاب الله عليكم وأحل لكم ما وراء ذلكم أن تبتغوا بأموالكم محصنين غير مسافحين
+## 4/24 — وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
 
 *Ve'l-muhsanâtü mine'n-nisâi illâ mâ meleket eymânüküm, kitâballâhi aleyküm, ve uhılle leküm mâ verâe zâliküm en tebteğū bi-emvâliküm muhsınîne ğayra müsâfihîn, fe-me'stemta'tüm bihî minhünne fe-âtûhünne ücûrahünne farîdaten, ve lâ cünâha aleyküm fîmâ terâdaytüm bihî min ba'di'l-farîda, innallâhe kâne alîmen hakîmâ*
 
@@ -1949,7 +1949,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/25 — ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات فمن ما ملكت أيمانكم من فتياتكم المؤمنات … فانكحوهن بإذن أهلهن وآتوهن أجورهن بالمعروف … ذلك لمن خشي العنت منكم وأن تصبروا خير لكم
+## 4/25 — وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ … فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ … ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ
 
 *Ve men lem yestetı' minküm tavlen en yenkiha'l-muhsanâti'l-mü'minâti fe-min mâ meleket eymânüküm min feteyâtikümü'l-mü'minât, vallâhu a'lemü bi-îmâniküm, ba'duküm min ba'd, fenkihûhünne bi-izni ehlihinne ve âtûhünne ücûrahünne bi'l-ma'rûfi muhsanâtin ğayra müsâfihâtin ve lâ müttehızâti ahdân… zâlike li-men haşiye'l-anete minküm, ve en tasbirû hayrun leküm, vallâhu ğafûrun rahîm*
 
@@ -2006,7 +2006,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/26-28 — يريد الله ليبين لكم ويهديكم سنن الذين من قبلكم ويتوب عليكم … ويريد الذين يتبعون الشهوات أن تميلوا ميلا عظيما · يريد الله أن يخفف عنكم وخلق الإنسان ضعيفا
+## 4/26-28 — يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ … وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا · يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًا
 
 *Yürîdüllâhu li-yübeyyine leküm ve yehdiyeküm sünene'llezîne min kabliküm ve yetûbe aleyküm, vallâhu alîmün hakîm · Vallâhu yürîdü en yetûbe aleyküm ve yürîdü'llezîne yettebiûne'ş-şehevâti en temîlû meylen azîmâ · Yürîdüllâhu en yuhaffife anküm ve hulika'l-insânü daîfâ*
 
@@ -2079,7 +2079,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 ---
 
 
-## 4/29-30 — يا أيها الذين آمنوا لا تأكلوا أموالكم بينكم بالباطل إلا أن تكون تجارة عن تراض منكم ولا تقتلوا أنفسكم إن الله كان بكم رحيما · ومن يفعل ذلك عدوانا وظلما فسوف نصليه نارا وكان ذلك على الله يسيرا
+## 4/29-30 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا · وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 
 *Yâ eyyühe'llezîne âmenû lâ te'külû emvâleküm beyneküm bi'l-bâtıli illâ en tekûne ticâraten an terâdın minküm, ve lâ taktülû enfüseküm, innallâhe kâne biküm rahîmâ · Ve men yef'al zâlike udvânen ve zulmen fe-sevfe nuslîhi nârâ, ve kâne zâlike alallâhi yesîrâ*
 
@@ -2164,7 +2164,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/31 — إن تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما
+## 4/31 — إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا
 
 *İn tectenibû kebâira mâ tünhevne anhü nükeffir anküm seyyiâtiküm ve nüdhılküm müdhalen kerîmâ*
 
@@ -2192,7 +2192,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/32 — ولا تتمنوا ما فضل الله به بعضكم على بعض للرجال نصيب مما اكتسبوا وللنساء نصيب مما اكتسبن واسألوا الله من فضله إن الله كان بكل شيء عليما
+## 4/32 — وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *Ve lâ tetemennev mâ faddalallâhu bihî ba'daküm alâ ba'd, li'r-ricâli nasîbün mimme'ktesebû ve li'n-nisâi nasîbün mimme'ktesebne, ve's'elullâhe min fadlih, innallâhe kâne bi-külli şey'in alîmâ*
 
@@ -2285,7 +2285,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/33 — ولكل جعلنا موالي مما ترك الوالدان والأقربون والذين عقدت أيمانكم فآتوهم نصيبهم إن الله كان على كل شيء شهيدا
+## 4/33 — وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا
 
 *Ve li-küllin cealnâ mevâliye mimmâ terake'l-vâlidâni ve'l-akrabûn, ve'llezîne akadet eymânüküm fe-âtûhüm nasîbehüm, innallâhe kâne alâ külli şey'in şehîdâ*
 
@@ -2325,7 +2325,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/34-35 — الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم … واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن فإن أطعنكم فلا تبغوا عليهن سبيلا · وإن خفتم شقاق بينهما فابعثوا حكما من أهله وحكما من أهلها إن يريدا إصلاحا يوفق الله بينهما
+## 4/34-35 — ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ … وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا · وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ
 
 *Er-ricâlü kavvâmûne ale'n-nisâi bimâ faddalallâhu ba'dahüm alâ ba'd ve bimâ enfekū min emvâlihim, fe's-sâlihâtü kānitâtün hâfizâtün li'l-ğaybi bimâ hafizallâh, vellâtî tehâfûne nüşûzehünne fe-ızûhünne ve'hcurûhünne fi'l-medâci'ı ve'drıbûhünne, fe-in eta'neküm fe-lâ tebğū aleyhinne sebîlâ, innallâhe kâne aliyyen kebîrâ · Ve in hıftüm şikāka beynihimâ fe'b'asû hakemen min ehlihî ve hakemen min ehlihâ, in yürîdâ ıslâhan yuveffikıllâhu beynehümâ, innallâhe kâne alîmen habîrâ*
 
@@ -2593,7 +2593,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/36 — واعبدوا الله ولا تشركوا به شيئا وبالوالدين إحسانا وبذي القربى واليتامى والمساكين والجار ذي القربى والجار الجنب والصاحب بالجنب وابن السبيل وما ملكت أيمانكم إن الله لا يحب من كان مختالا فخورا
+## 4/36 — وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
 
 *Va'büdüllâhe ve lâ tüşrikû bihî şey'â, ve bi'l-vâlideyni ihsânen ve bi-zi'l-kurbâ ve'l-yetâmâ ve'l-mesâkîni ve'l-câri zi'l-kurbâ ve'l-câri'l-cünübi ve's-sâhibi bi'l-cenbi ve'bni's-sebîli ve mâ meleket eymânüküm, innallâhe lâ yuhıbbü men kâne muhtâlen fehûrâ*
 
@@ -2719,7 +2719,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/37-39 — الذين يبخلون ويأمرون الناس بالبخل ويكتمون ما آتاهم الله من فضله وأعتدنا للكافرين عذابا مهينا · والذين ينفقون أموالهم رئاء الناس ولا يؤمنون بالله ولا باليوم الآخر · وماذا عليهم لو آمنوا بالله واليوم الآخر وأنفقوا مما رزقهم الله
+## 4/37-39 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا · وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ · وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ
 
 *Ellezîne yebhalûne ve ye'mürûne'n-nâse bi'l-buhli ve yektümûne mâ âtâhümüllâhu min fadlih … Vellezîne yünfikūne emvâlehüm riâe'n-nâsi ve lâ yü'minûne billâhi ve lâ bi'l-yevmi'l-âhir … Ve mâzâ aleyhim lev âmenû billâhi ve'l-yevmi'l-âhıri ve enfekū mimmâ razekahümüllâh*
 
@@ -2775,7 +2775,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/40-42 — إن الله لا يظلم مثقال ذرة وإن تك حسنة يضاعفها ويؤت من لدنه أجرا عظيما · فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا · يومئذ يود الذين كفروا وعصوا الرسول لو تسوى بهم الأرض ولا يكتمون الله حديثا
+## 4/40-42 — إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا · فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا · يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا
 
 *İnnallâhe lâ yazlimü miskāle zerra, ve in tekü hasenetten yudâıfhâ ve yü'ti min ledünhü ecran azîmâ · Fe-keyfe izâ ci'nâ min külli ümmetin bi-şehîdin ve ci'nâ bike alâ hâülâi şehîdâ · Yevmeizin yeveddü'llezîne keferû ve asavu'r-rasûle lev tüsevvâ bihimü'l-ard, ve lâ yektümûnallâhe hadîsâ*
 
@@ -2818,7 +2818,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/43 — يا أيها الذين آمنوا لا تقربوا الصلاة وأنتم سكارى حتى تعلموا ما تقولون ولا جنبا إلا عابري سبيل حتى تغتسلوا … فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم إن الله كان عفوا غفورا
+## 4/43 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ … فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 
 *Yâ eyyühe'llezîne âmenû lâ takrabu's-salâte ve entüm sükârâ hattâ ta'lemû mâ tekūlûn … fe-teyemmemû saîden tayyiben fe'mseĥû bi-vücûhiküm ve eydîküm, innallâhe kâne afüvven ğafûrâ*
 
@@ -2865,7 +2865,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/44-46 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يشترون الضلالة ويريدون أن تضلوا السبيل · والله أعلم بأعدائكم وكفى بالله وليا وكفى بالله نصيرا · من الذين هادوا يحرفون الكلم عن مواضعه ويقولون سمعنا وعصينا … ولو أنهم قالوا سمعنا وأطعنا واسمع وانظرنا لكان خيرا لهم وأقوم
+## 4/44-46 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ · وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا · مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا … وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ
 
 *Elem tera ile'llezîne ûtû nasîben mine'l-kitâbi yeşterûne'd-dalâlete ve yürîdûne en tedıllü's-sebîl · Vallâhu a'lemü bi-a'dâiküm ve kefâ billâhi veliyyen ve kefâ billâhi nasîrâ · Mine'llezîne hâdû yüharrifûne'l-kelime an mevâdııhî …*
 
@@ -2920,7 +2920,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/47-50 — يا أيها الذين أوتوا الكتاب آمنوا بما نزلنا مصدقا لما معكم … إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء · ألم تر إلى الذين يزكون أنفسهم بل الله يزكي من يشاء
+## 4/47-50 — يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم … إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ · أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ
 
 *Yâ eyyühe'llezîne ûtü'l-kitâbe âminû bimâ nezzelnâ musaddikan limâ meaküm … İnnallâhe lâ yağfiru en yüşrake bihî ve yağfiru mâ dûne zâlike li-men yeşâ' · Elem tera ile'llezîne yüzekkûne enfüsehüm, beli'llâhu yüzekkî men yeşâ'*
 
@@ -2964,7 +2964,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/51-57 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يؤمنون بالجبت والطاغوت … أم يحسدون الناس على ما آتاهم الله من فضله · إن الذين كفروا بآياتنا سوف نصليهم نارا · والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار
+## 4/51-57 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ … أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ · إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا · وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ
 
 *Elem tera ile'llezîne ûtû nasîben mine'l-kitâbi yü'minûne bi'l-cibti ve't-tâğût … Em yahsüdûne'n-nâse alâ mâ âtâhümüllâhu min fadlih …*
 
@@ -3001,7 +3001,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/58 — إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل إن الله نعما يعظكم به إن الله كان سميعا بصيرا
+## 4/58 — إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا
 
 *İnnallâhe ye'müruküm en tüeddü'l-emânâti ilâ ehlihâ ve izâ hakemtüm beyne'n-nâsi en tahkümû bi'l-adl, innallâhe niımmâ yeızuküm bih, innallâhe kâne semîan basîrâ*
 
@@ -3067,7 +3067,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/59 — يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم فإن تنازعتم في شيء فردوه إلى الله والرسول إن كنتم تؤمنون بالله واليوم الآخر ذلك خير وأحسن تأويلا
+## 4/59 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 *Yâ eyyühe'llezîne âmenû etîullâhe ve etîu'r-rasûle ve üli'l-emri minküm, fe-in tenâza'tüm fî şey'in fe-ruddûhu ilallâhi ve'r-rasûli in küntüm tü'minûne billâhi ve'l-yevmi'l-âhır, zâlike hayrun ve ahsenü te'vîlâ*
 
@@ -3170,7 +3170,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/60-63 — ألم تر إلى الذين يزعمون أنهم آمنوا بما أنزل إليك وما أنزل من قبلك يريدون أن يتحاكموا إلى الطاغوت وقد أمروا أن يكفروا به … فأعرض عنهم وعظهم وقل لهم في أنفسهم قولا بليغا
+## 4/60-63 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ … فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا
 
 *Elem tera ile'llezîne yez'umûne ennehüm âmenû bimâ ünzile ileyke ve mâ ünzile min kablike yürîdûne en yetehâkemû ile't-tâğūti ve kad ümirû en yekfürû bih … Fe-a'rid anhüm ve ızhüm ve kul lehüm fî enfüsihim kavlen belîğâ*
 
@@ -3211,7 +3211,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/64-70 — وما أرسلنا من رسول إلا ليطاع بإذن الله … فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم حرجا مما قضيت ويسلموا تسليما … ومن يطع الله والرسول فأولئك مع الذين أنعم الله عليهم من النبيين والصديقين والشهداء والصالحين وحسن أولئك رفيقا
+## 4/64-70 — وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ … فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا … وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًا
 
 *Ve mâ erselnâ min rasûlin illâ li-yutâa bi-iznillâh … Fe-lâ ve rabbike lâ yü'minûne hattâ yühakkimûke fîmâ şecera beynehüm sümme lâ yecidû fî enfüsihim haracen mimmâ kadayte ve yüsellimû teslîmâ … Ve men yutıı'llâhe ve'r-rasûle fe-ülâike mea'llezîne en'amallâhu aleyhim mine'n-nebiyyîne ve's-sıddîkīne ve'ş-şühedâi ve's-sâlihîn, ve hasüne ülâike rafîkā*
 
@@ -3266,7 +3266,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/71-74 — يا أيها الذين آمنوا خذوا حذركم فانفروا ثبات أو انفروا جميعا · وإن منكم لمن ليبطئن … فليقاتل في سبيل الله الذين يشرون الحياة الدنيا بالآخرة
+## 4/71-74 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًا · وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ … فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ
 
 *Yâ eyyühe'llezîne âmenû huzû hızraküm fe'nfirû sübâtin evi'nfirû cemîâ · Ve inne minküm le-men le-yübattıenn … Fe'l-yukātil fî sebîlillâhi'llezîne yeşrûne'l-hayâte'd-dünyâ bi'l-âhıra*
 
@@ -3298,7 +3298,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/75-76 — وما لكم لا تقاتلون في سبيل الله والمستضعفين من الرجال والنساء والولدان الذين يقولون ربنا أخرجنا من هذه القرية الظالم أهلها واجعل لنا من لدنك وليا واجعل لنا من لدنك نصيرا
+## 4/75-76 — وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
 *Ve mâ leküm lâ tukātilûne fî sebîlillâhi ve'l-müstad'afîne mine'r-ricâli ve'n-nisâi ve'l-vildâni'llezîne yekūlûne rabbenâ ahricnâ min hâzihi'l-karyeti'z-zâlimi ehlühâ ve'c'al lenâ min ledünke veliyyen ve'c'al lenâ min ledünke nasîrâ*
 
@@ -3365,7 +3365,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/77 — ألم تر إلى الذين قيل لهم كفوا أيديكم وأقيموا الصلاة وآتوا الزكاة فلما كتب عليهم القتال إذا فريق منهم يخشون الناس كخشية الله أو أشد خشية
+## 4/77 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً
 
 *Elem tera ile'llezîne kīle lehüm küffû eydiyeküm ve ekīmü's-salâte ve âtü'z-zekâh, fe-lemmâ kütibe aleyhimü'l-kıtâlü izâ ferîkun minhüm yahşevne'n-nâse ke-haşyetillâhi ev eşedde haşyeh*
 
@@ -3399,7 +3399,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/78-79 — أينما تكونوا يدرككم الموت ولو كنتم في بروج مشيدة وإن تصبهم حسنة يقولوا هذه من عند الله وإن تصبهم سيئة يقولوا هذه من عندك قل كل من عند الله … · ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك وأرسلناك للناس رسولا وكفى بالله شهيدا
+## 4/78-79 — أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ … · مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Eynemâ tekûnû yüdrikkümü'l-mevtü ve lev küntüm fî bürûcin müşeyyede, ve in tusibhüm hasenetün yekūlû hâzihî min indillâh, ve in tusibhüm seyyietün yekūlû hâzihî min indik, kul küllün min indillâh, fe-mâ li-hâülâi'l-kavmi lâ yekâdûne yefkahûne hadîsâ · Mâ esâbeke min hasenetin fe-minallâh, ve mâ esâbeke min seyyietin fe-min nefsik, ve erselnâke li'n-nâsi rasûlâ, ve kefâ billâhi şehîdâ*
 
@@ -3509,7 +3509,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/80-81 — من يطع الرسول فقد أطاع الله ومن تولى فما أرسلناك عليهم حفيظا · ويقولون طاعة فإذا برزوا من عندك بيت طائفة منهم غير الذي تقول والله يكتب ما يبيتون فأعرض عنهم وتوكل على الله وكفى بالله وكيلا
+## 4/80-81 — مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا · وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
 *Men yutıı'r-rasûle fe-kad atâallâh, ve men tevellâ fe-mâ erselnâke aleyhim hafîzâ · Ve yekūlûne tâatün fe-izâ berazû min indike beyyete tâifetün minhüm ğayre'llezî tekūl, vallâhu yektübü mâ yübeyyitûn, fe-a'rid anhüm ve tevekkel alallâh, ve kefâ billâhi vekîlâ*
 
@@ -3545,7 +3545,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/82 — أفلا يتدبرون القرآن ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا
+## 4/82 — أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا
 
 *Efe-lâ yetedebberûne'l-Kur'ân, ve lev kâne min indi ğayrillâhi le-vecedû fîhi'htilâfen kesîrâ*
 
@@ -3602,7 +3602,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/83 — وإذا جاءهم أمر من الأمن أو الخوف أذاعوا به ولو ردوه إلى الرسول وإلى أولي الأمر منهم لعلمه الذين يستنبطونه منهم
+## 4/83 — وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ
 
 *Ve izâ câehüm emrun mine'l-emni evi'l-havfi ezâû bih, ve lev raddûhu ile'r-rasûli ve ilâ üli'l-emri minhüm le-alimehü'llezîne yestenbitûnehû minhüm*
 
@@ -3652,7 +3652,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/84-87 — فقاتل في سبيل الله لا تكلف إلا نفسك وحرض المؤمنين · من يشفع شفاعة حسنة يكن له نصيب منها ومن يشفع شفاعة سيئة يكن له كفل منها · وإذا حييتم بتحية فحيوا بأحسن منها أو ردوها إن الله كان على كل شيء حسيبا · الله لا إله إلا هو ليجمعنكم إلى يوم القيامة لا ريب فيه
+## 4/84-87 — فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ وَحَرِّضِ ٱلْمُؤْمِنِينَ · مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةً يَكُن لَّهُۥ نَصِيبٌ مِّنْهَا وَمَن يَشْفَعْ شَفَٰعَةً سَيِّئَةً يَكُن لَّهُۥ كِفْلٌ مِّنْهَا · وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا · ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ
 
 *Fe-kātil fî sebîlillâh, lâ tükellefü illâ nefsek, ve harridı'l-mü'minîn · Men yeşfa' şefâaten haseneten yekün lehû nasîbün minhâ, ve men yeşfa' şefâaten seyyieten yekün lehû kiflün minhâ … · Ve izâ huyyîtüm bi-tehıyyetin fe-hayyû bi-ahsene minhâ ev ruddûhâ, innallâhe kâne alâ külli şey'in hasîbâ*
 
@@ -3712,7 +3712,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/88-91 — فما لكم في المنافقين فئتين والله أركسهم بما كسبوا … إلا الذين يصلون إلى قوم بينكم وبينهم ميثاق أو جاءوكم حصرت صدورهم أن يقاتلوكم … فإن اعتزلوكم فلم يقاتلوكم وألقوا إليكم السلم فما جعل الله لكم عليهم سبيلا
+## 4/88-91 — فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ … إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ … فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
 
 *Fe-mâ leküm fi'l-münâfikīne fieteyni vallâhu erkesehüm bimâ kesebû … İlle'llezîne yasılûne ilâ kavmin beyneküm ve beynehüm mîsâkun ev câûküm hasırat sudûruhüm en yukātilûküm … Fe-ini'tezelûküm fe-lem yukātilûküm ve elkav ileykümü's-seleme fe-mâ cealallâhu leküm aleyhim sebîlâ*
 
@@ -3760,7 +3760,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/92-93 — وما كان لمؤمن أن يقتل مؤمنا إلا خطأ ومن قتل مؤمنا خطأ فتحرير رقبة مؤمنة ودية مسلمة إلى أهله إلا أن يصدقوا … فمن لم يجد فصيام شهرين متتابعين توبة من الله · ومن يقتل مؤمنا متعمدا فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
+## 4/92-93 — وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ … فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ · وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا
 
 *Ve mâ kâne li-mü'minin en yaktüle mü'minen illâ hataâ, ve men katele mü'minen hataen fe-tahrîru rakabetin mü'minetin ve diyetün müsellemetün ilâ ehlihî illâ en yassaddekū … fe-men lem yecid fe-sıyâmü şehreyni mütetâbiayni tevbeten minallâh · Ve men yaktül mü'minen müteammiden fe-cezâühû cehennemü hâliden fîhâ ve ğadıballâhu aleyhi ve leanehû ve eadde lehû azâben azîmâ*
 
@@ -3851,7 +3851,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/94-96 — يا أيها الذين آمنوا إذا ضربتم في سبيل الله فتبينوا ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا فعند الله مغانم كثيرة كذلك كنتم من قبل فمن الله عليكم فتبينوا
+## 4/94-96 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟
 
 *Yâ eyyühe'llezîne âmenû izâ darabtüm fî sebîlillâhi fe-tebeyyenû ve lâ tekūlû li-men elkā ileykümü's-selâme leste mü'minen tebteğūne arada'l-hayâti'd-dünyâ, fe-ındallâhi meğānimü kesîra, kezâlike küntüm min kablü fe-mennallâhu aleyküm fe-tebeyyenû*
 
@@ -3904,7 +3904,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/97-100 — إن الذين توفاهم الملائكة ظالمي أنفسهم قالوا فيم كنتم قالوا كنا مستضعفين في الأرض قالوا ألم تكن أرض الله واسعة فتهاجروا فيها … · إلا المستضعفين من الرجال والنساء والولدان لا يستطيعون حيلة ولا يهتدون سبيلا · فأولئك عسى الله أن يعفو عنهم … · ومن يهاجر في سبيل الله يجد في الأرض مراغما كثيرا وسعة
+## 4/97-100 — إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا … · إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا · فَأُو۟لَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ … · وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً
 
 *İnne'llezîne teveffâhümü'l-melâiketü zâlimî enfüsihim kālû fîme küntüm, kālû künnâ müstad'afîne fi'l-ard, kālû elem tekün ardullâhi vâsiaten fe-tühâcirû fîhâ … · İlle'l-müstad'afîne mine'r-ricâli ve'n-nisâi ve'l-vildâni lâ yestetîûne hîleten ve lâ yehtedûne sebîlâ · Fe-ülâike ase'llâhu en ya'füve anhüm … · Ve men yühâcir fî sebîlillâhi yecid fi'l-ardı mürâğamen kesîran ve seaten*
 
@@ -4006,7 +4006,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/101-104 — وإذا ضربتم في الأرض فليس عليكم جناح أن تقصروا من الصلاة … · وإذا كنت فيهم فأقمت لهم الصلاة فلتقم طائفة منهم معك وليأخذوا أسلحتهم … · فإذا قضيتم الصلاة فاذكروا الله قياما وقعودا وعلى جنوبكم … إن الصلاة كانت على المؤمنين كتابا موقوتا · ولا تهنوا في ابتغاء القوم إن تكونوا تألمون فإنهم يألمون كما تألمون
+## 4/101-104 — وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ … · وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ … · فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ … إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا · وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ
 
 *Ve izâ darabtüm fi'l-ardı fe-leyse aleyküm cünâhun en taksurû mine's-salâh … · Ve izâ künte fîhim fe-ekamte lehümü's-salâte fe'l-tekum tâifetün minhüm meake ve'l-ye'huzû eslihatehüm … · Fe-izâ kadaytümü's-salâte fe'zkürullâhe kıyâmen ve kuûden ve alâ cünûbiküm … inne's-salâte kânet ale'l-mü'minîne kitâben mevkūtâ · Ve lâ tehinû fi'btiğāi'l-kavm, in tekûnû te'lemûne fe-innehüm ye'lemûne kemâ te'lemûn*
 
@@ -4054,7 +4054,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/105-113 — إنا أنزلنا إليك الكتاب بالحق لتحكم بين الناس بما أراك الله ولا تكن للخائنين خصيما … · يستخفون من الناس ولا يستخفون من الله وهو معهم … · ومن يكسب خطيئة أو إثما ثم يرم به بريئا فقد احتمل بهتانا وإثما مبينا
+## 4/105-113 — إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا … · يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ … · وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا
 
 *İnnâ enzelnâ ileyke'l-kitâbe bi'l-hakkı li-tahküme beyne'n-nâsi bimâ erâkallâh, ve lâ tekün li'l-hâinîne hasîmâ … · Yestahfûne mine'n-nâsi ve lâ yestahfûne minallâhi ve hüve meahüm … · Ve men yeksib hatîeten ev ismen sümme yermi bihî berîen fe-kadi'htemele bühtânen ve ismen mübînâ*
 
@@ -4211,7 +4211,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/114-115 — لا خير في كثير من نجواهم إلا من أمر بصدقة أو معروف أو إصلاح بين الناس ومن يفعل ذلك ابتغاء مرضات الله فسوف نؤتيه أجرا عظيما · ومن يشاقق الرسول من بعد ما تبين له الهدى ويتبع غير سبيل المؤمنين نوله ما تولى ونصله جهنم وساءت مصيرا
+## 4/114-115 — لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا · وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Lâ hayra fî kesîrin min necvâhüm illâ men emera bi-sadakatin ev ma'rûfin ev ıslâhın beyne'n-nâs, ve men yef'al zâlike'btiğāe merdâtillâhi fe-sevfe nü'tîhi ecran azîmâ · Ve men yüşâkıkı'r-rasûle min ba'di mâ tebeyyene lehü'l-hüdâ ve yettebi' ğayra sebîli'l-mü'minîne nüvellihî mâ tevellâ ve nuslihî cehennem, ve sâet masîrâ*
 
@@ -4263,7 +4263,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/116-121 — إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء … · لعنه الله وقال لأتخذن من عبادك نصيبا مفروضا · ولأضلنهم ولأمنينهم … · يعدهم ويمنيهم وما يعدهم الشيطان إلا غرورا
+## 4/116-121 — إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ … · لَّعَنَهُ ٱللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا · وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ … · يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
 *İnnallâhe lâ yağfiru en yüşrake bihî ve yağfiru mâ dûne zâlike li-men yeşâ' … · Leanehullâh, ve kāle le-ettehızenne min ıbâdike nasîben mefrûdâ · Ve le-udıllennehüm ve le-ümenniyennehüm … · Yeıdühüm ve yümennîhim, ve mâ yeıdühümü'ş-şeytânu illâ ğurûrâ*
 
@@ -4318,7 +4318,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/122-126 — والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار … · ليس بأمانيكم ولا أماني أهل الكتاب من يعمل سوءا يجز به ولا يجد له من دون الله وليا ولا نصيرا · ومن يعمل من الصالحات من ذكر أو أنثى وهو مؤمن فأولئك يدخلون الجنة ولا يظلمون نقيرا · ومن أحسن دينا ممن أسلم وجهه لله وهو محسن واتبع ملة إبراهيم حنيفا واتخذ الله إبراهيم خليلا
+## 4/122-126 — وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ … · لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا · وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا · وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 
 *Vellezîne âmenû ve amilü's-sâlihâti se-nüdhılühüm cennâtin tecrî min tahtihe'l-enhâr … · Leyse bi-emâniyyiküm ve lâ emâniyyi ehli'l-kitâb, men ya'mel sûen yücze bihî ve lâ yecid lehû min dûnillâhi veliyyen ve lâ nasîrâ · Ve men ya'mel mine's-sâlihâti min zekerin ev ünsâ ve hüve mü'minun fe-ülâike yedhulûne'l-cennete ve lâ yuzlemûne nakīrâ · Ve men ahsenü dînen mimmen esleme vechehû lillâhi ve hüve muhsinun vettebea millete İbrâhîme hanîfâ, vettehazallâhu İbrâhîme halîlâ*
 
@@ -4377,7 +4377,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/127 — ويستفتونك في النساء قل الله يفتيكم فيهن وما يتلى عليكم في الكتاب في يتامى النساء اللاتي لا تؤتونهن ما كتب لهن وترغبون أن تنكحوهن والمستضعفين من الولدان وأن تقوموا لليتامى بالقسط
+## 4/127 — وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ
 
 *Ve yesteftûneke fi'n-nisâ, kulillâhu yüftîküm fîhinne ve mâ yütlâ aleyküm fi'l-kitâbi fî yetâme'n-nisâi'llâtî lâ tü'tûnehünne mâ kütibe lehünne ve terğabûne en tenkihûhünne ve'l-müstad'afîne mine'l-vildâni ve en tekūmû li'l-yetâmâ bi'l-kıst*
 
@@ -4424,7 +4424,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/128-130 — وإن امرأة خافت من بعلها نشوزا أو إعراضا فلا جناح عليهما أن يصلحا بينهما صلحا والصلح خير وأحضرت الأنفس الشح … · ولن تستطيعوا أن تعدلوا بين النساء ولو حرصتم فلا تميلوا كل الميل فتذروها كالمعلقة وإن تصلحوا وتتقوا فإن الله كان غفورا رحيما · وإن يتفرقا يغن الله كلا من سعته
+## 4/128-130 — وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَٱلصُّلْحُ خَيْرٌ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ … · وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا · وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّا مِّن سَعَتِهِۦ
 
 *Ve ini'mraetün hâfet min ba'lihâ nüşûzen ev i'râdan fe-lâ cünâha aleyhimâ en yuslihâ beynehümâ sulhâ, ve's-sulhu hayr, ve uhdıratı'l-enfüsü'ş-şuhh … · Ve len testetîû en ta'dilû beyne'n-nisâi ve lev harastüm, fe-lâ temîlû külle'l-meyli fe-tezerûhâ ke'l-muallaka, ve in tuslihû ve tettekū fe-innallâhe kâne ğafûran rahîmâ · Ve in yeteferrakā yuğnillâhu küllen min seatih*
 
@@ -4528,7 +4528,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/131-134 — ولله ما في السماوات وما في الأرض ولقد وصينا الذين أوتوا الكتاب من قبلكم وإياكم أن اتقوا الله … · من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والآخرة وكان الله سميعا بصيرا
+## 4/131-134 — وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ … · مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًا
 
 *Ve lillâhi mâ fi's-semâvâti ve mâ fi'l-ard, ve lekad vassaynâ'llezîne ûtü'l-kitâbe min kabliküm ve iyyâküm eni'ttekullâh … · Men kâne yürîdü sevâbe'd-dünyâ fe-ındallâhi sevâbü'd-dünyâ ve'l-âhıra, ve kânallâhu semîan basîrâ*
 
@@ -4563,7 +4563,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/135 — يا أيها الذين آمنوا كونوا قوامين بالقسط شهداء لله ولو على أنفسكم أو الوالدين والأقربين إن يكن غنيا أو فقيرا فالله أولى بهما فلا تتبعوا الهوى أن تعدلوا وإن تلووا أو تعرضوا فإن الله كان بما تعملون خبيرا
+## 4/135 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 
 *Yâ eyyühe'llezîne âmenû kûnû kavvâmîne bi'l-kıstı şühedâe lillâhi ve lev alâ enfüsiküm evi'l-vâlideyni ve'l-akrabîn, in yekün ğaniyyen ev fakīran fallâhu evlâ bihimâ, fe-lâ tettebiu'l-hevâ en ta'dilû, ve in telvû ev tu'ridû fe-innallâhe kâne bimâ ta'melûne habîrâ*
 
@@ -4704,7 +4704,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/136-139 — يا أيها الذين آمنوا آمنوا بالله ورسوله والكتاب الذي نزل على رسوله والكتاب الذي أنزل من قبل … · إن الذين آمنوا ثم كفروا ثم آمنوا ثم كفروا ثم ازدادوا كفرا لم يكن الله ليغفر لهم … · الذين يتخذون الكافرين أولياء من دون المؤمنين أيبتغون عندهم العزة فإن العزة لله جميعا
+## 4/136-139 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ … · إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ … · ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا
 
 *Yâ eyyühe'llezîne âmenû âminû billâhi ve rasûlihî ve'l-kitâbi'llezî nezzele alâ rasûlihî ve'l-kitâbi'llezî enzele min kabl … · İnne'llezîne âmenû sümme keferû sümme âmenû sümme keferû sümme'zdâdû küfran lem yekünillâhu li-yağfira lehüm … · Ellezîne yettehızûne'l-kâfirîne evliyâe min dûni'l-mü'minîn, e-yebteğūne indehümü'l-ızzete fe-inne'l-ızzete lillâhi cemîâ*
 
@@ -4755,7 +4755,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/140-141 — وقد نزل عليكم في الكتاب أن إذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره إنكم إذا مثلهم … · الذين يتربصون بكم فإن كان لكم فتح من الله قالوا ألم نكن معكم
+## 4/140-141 — وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ إِنَّكُمْ إِذًا مِّثْلُهُمْ … · ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ
 
 *Ve kad nezzele aleyküm fi'l-kitâbi en izâ semi'tüm âyâtillâhi yükferu bihâ ve yüstehzeü bihâ fe-lâ tak'udû meahüm hattâ yehûdû fî hadîsin ğayrih, inneküm izen mislühüm … · Ellezîne yeterabbesûne biküm fe-in kâne leküm fethun minallâhi kālû elem nekün meaküm*
 
@@ -4809,7 +4809,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/142-147 — إن المنافقين يخادعون الله وهو خادعهم وإذا قاموا إلى الصلاة قاموا كسالى … · مذبذبين بين ذلك لا إلى هؤلاء ولا إلى هؤلاء · … إن المنافقين في الدرك الأسفل من النار … · إلا الذين تابوا وأصلحوا واعتصموا بالله وأخلصوا دينهم لله فأولئك مع المؤمنين · ما يفعل الله بعذابكم إن شكرتم وآمنتم
+## 4/142-147 — إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ … · مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ · … إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ … · إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ · مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ
 
 *İnne'l-münâfikīne yühâdiûnallâhe ve hüve hâdiuhüm ve izâ kāmû ile's-salâti kāmû küsâlâ … · Müzebzebîne beyne zâlike lâ ilâ hâülâi ve lâ ilâ hâülâ' · … İnne'l-münâfikīne fi'd-derki'l-esfeli mine'n-nâr … · İlle'llezîne tâbû ve aslahû va'tesamû billâhi ve ahlesû dînehüm lillâhi fe-ülâike mea'l-mü'minîn · Mâ yef'alullâhu bi-azâbiküm in şekertüm ve âmentüm*
 
@@ -4871,7 +4871,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/148-152 — لا يحب الله الجهر بالسوء من القول إلا من ظلم … · إن تبدوا خيرا أو تخفوه أو تعفوا عن سوء فإن الله كان عفوا قديرا · … الذين يفرقون بين الله ورسله … · والذين آمنوا بالله ورسله ولم يفرقوا بين أحد منهم أولئك سوف يؤتيهم أجورهم
+## 4/148-152 — لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ … · إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا · … وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ … · وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ
 
 *Lâ yuhıbbullâhu'l-cehra bi's-sûi mine'l-kavli illâ men zulim … · İn tübdû hayran ev tuhfûhü ev ta'fû an sûin fe-innallâhe kâne afüvven kadîrâ · … Ellezîne yüferrikūne beynallâhi ve rusülihî … · Vellezîne âmenû billâhi ve rusülihî ve lem yüferrikū beyne ehadin minhüm ülâike sevfe yü'tîhim ücûrahüm*
 
@@ -4928,7 +4928,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/153-159 — يسألك أهل الكتاب أن تنزل عليهم كتابا من السماء … · فبما نقضهم ميثاقهم وكفرهم بآيات الله وقتلهم الأنبياء بغير حق وقولهم قلوبنا غلف … · وبكفرهم وقولهم على مريم بهتانا عظيما · وقولهم إنا قتلنا المسيح عيسى ابن مريم رسول الله وما قتلوه وما صلبوه ولكن شبه لهم … وما قتلوه يقينا · بل رفعه الله إليه
+## 4/153-159 — يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ … · فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ … · وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًا · وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ … وَمَا قَتَلُوهُ يَقِينًۢا · بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ
 
 *Yes'elüke ehlü'l-kitâbi en tünezzile aleyhim kitâben mine's-semâ' … · Fe-bimâ nakdıhim mîsâkahüm ve küfrihim bi-âyâtillâhi ve katlihimü'l-enbiyâe bi-ğayri hakkın ve kavlihim kulûbünâ ğulf … · Ve bi-küfrihim ve kavlihim alâ Meryeme bühtânen azîmâ · Ve kavlihim innâ katelne'l-Mesîha Îsâ'bne Meryeme rasûlallâh, ve mâ katelûhu ve mâ salebûhu ve lâkin şübbihe lehüm … ve mâ katelûhu yakīnâ · Bel rafeahullâhu ileyh*
 
@@ -5029,7 +5029,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/160-162 — فبظلم من الذين هادوا حرمنا عليهم طيبات أحلت لهم وبصدهم عن سبيل الله كثيرا · وأخذهم الربا وقد نهوا عنه وأكلهم أموال الناس بالباطل … · لكن الراسخون في العلم منهم والمؤمنون يؤمنون بما أنزل إليك وما أنزل من قبلك والمقيمين الصلاة والمؤتون الزكاة والمؤمنون بالله واليوم الآخر أولئك سنؤتيهم أجرا عظيما
+## 4/160-162 — فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا · وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ … · لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
 *Fe-bi-zulmin mine'llezîne hâdû harramnâ aleyhim tayyibâtin uhıllet lehüm ve bi-saddihim an sebîlillâhi kesîrâ · Ve ahzihimü'r-ribâ ve kad nühû anhü ve eklihim emvâle'n-nâsi bi'l-bâtıl … · Lâkini'r-râsihûne fi'l-ılmi minhüm ve'l-mü'minûne yü'minûne bimâ ünzile ileyke ve mâ ünzile min kablik, ve'l-mukīmîne's-salâte ve'l-mü'tûne'z-zekâte ve'l-mü'minûne billâhi ve'l-yevmi'l-âhır, ülâike se-nü'tîhim ecran azîmâ*
 
@@ -5084,7 +5084,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/163-166 — إنا أوحينا إليك كما أوحينا إلى نوح والنبيين من بعده … · ورسلا قد قصصناهم عليك من قبل ورسلا لم نقصصهم عليك وكلم الله موسى تكليما · رسلا مبشرين ومنذرين لئلا يكون للناس على الله حجة بعد الرسل
+## 4/163-166 — إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ … · وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًا · رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ
 
 *İnnâ evhaynâ ileyke kemâ evhaynâ ilâ Nûhın ve'n-nebiyyîne min ba'dih … · Ve rusülen kad kasasnâhüm aleyke min kablü ve rusülen lem naksushüm aleyk, ve kellemallâhu Mûsâ teklîmâ · Rusülen mübeşşirîne ve münzirîne li-ellâ yekûne li'n-nâsi alallâhi huccetün ba'de'r-rusül*
 
@@ -5108,7 +5108,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/167-170 — إن الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا … · يا أيها الناس قد جاءكم الرسول بالحق من ربكم فآمنوا خيرا لكم وإن تكفروا فإن لله ما في السماوات والأرض
+## 4/167-170 — إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا … · يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًا لَّكُمْ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
 
 *İnne'llezîne keferû ve saddû an sebîlillâhi kad dallû dalâlen baîdâ … · Yâ eyyühe'n-nâsü kad câekümü'r-rasûlü bi'l-hakkı min rabbiküm fe-âminû hayran leküm, ve in tekfürû fe-inne lillâhi mâ fi's-semâvâti ve'l-ard*
 
@@ -5138,7 +5138,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/171-173 — يا أهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه … ولا تقولوا ثلاثة انتهوا خيرا لكم … · لن يستنكف المسيح أن يكون عبدا لله ولا الملائكة المقربون · فأما الذين آمنوا وعملوا الصالحات فيوفيهم أجورهم ويزيدهم من فضله
+## 4/171-173 — يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ … وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ … · لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ
 
 *Yâ ehle'l-kitâbi lâ tağlû fî dîniküm ve lâ tekūlû alallâhi ille'l-hakk, innema'l-Mesîhu Îsâ'bnü Meryeme rasûlullâhi ve kelimetühû elkāhâ ilâ Meryeme ve rûhun minhü … ve lâ tekūlû selâseh, intehû hayran leküm … · Len yestenkife'l-Mesîhu en yekûne abden lillâhi ve le'l-melâiketü'l-mukarrabûn · Fe-emme'llezîne âmenû ve amilü's-sâlihâti fe-yüveffîhim ücûrahüm ve yezîdühüm min fadlih*
 
@@ -5225,7 +5225,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/174-175 — يا أيها الناس قد جاءكم برهان من ربكم وأنزلنا إليكم نورا مبينا · فأما الذين آمنوا بالله واعتصموا به فسيدخلهم في رحمة منه وفضل ويهديهم إليه صراطا مستقيما
+## 4/174-175 — يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا
 
 *Yâ eyyühe'n-nâsü kad câeküm burhânün min rabbiküm ve enzelnâ ileyküm nûran mübînâ · Fe-emme'llezîne âmenû billâhi va'tesamû bihî fe-se-yüdhılühüm fî rahmetin minhü ve fadlin ve yehdîhim ileyhi sırâtan müstakīmâ*
 
@@ -5259,7 +5259,7 @@ Bunu **kendi okumam** olarak kaydediyorum; dayanağı *min ba'di'l-farîda* kayd
 
 ---
 
-## 4/176 — يستفتونك قل الله يفتيكم في الكلالة إن امرؤ هلك ليس له ولد وله أخت فلها نصف ما ترك وهو يرثها إن لم يكن لها ولد فإن كانتا اثنتين فلهما الثلثان مما ترك وإن كانوا إخوة رجالا ونساء فللذكر مثل حظ الأنثيين يبين الله لكم أن تضلوا والله بكل شيء عليم
+## 4/176 — يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
 *Yesteftûnek, kulillâhu yüftîküm fi'l-kelâleh, ini'mruün heleke leyse lehû veledün ve lehû uhtün fe-lehâ nısfü mâ terak, ve hüve yerisühâ in lem yekün lehâ veled, fe-in kânete'sneteyni fe-lehüme's-sülüsâni mimmâ terak, ve in kânû ihveten ricâlen ve nisâen fe-li'z-zekeri mislü hazzı'l-ünseyeyn, yübeyyinullâhu leküm en tedıllû, vallâhu bi-külli şey'in alîm*
 

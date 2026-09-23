@@ -242,7 +242,7 @@ The objection of those addressed — the objection this sūra addresses — is t
 
 ---
 
-## 42/4 — لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+## 42/4 — لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 
 *Lahu mā fi's-samāwāti wa mā fi'l-arḍ, wa huwa'l-ʿaliyyu'l-ʿaẓīm*
 
@@ -278,7 +278,7 @@ The objection of those addressed — the objection this sūra addresses — is t
 
 ---
 
-## 42/5 — تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+## 42/5 — تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
 *Takādu's-samāwātu yatafaṭṭarna min fawqihinna, wa'l-malāʾikatu yusabbiḥūna bi-ḥamdi rabbihim wa yastaghfirūna li-man fi'l-arḍ; alā inna'llāha huwa'l-ghafūru'r-raḥīm*
 
@@ -426,7 +426,7 @@ The place where a person convinced he knows something rightly most often stumble
 
 ---
 
-## 42/7 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
+## 42/7 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
 
 *Wa kadhālika awḥaynā ilayka qurʾānan ʿarabiyyan li-tundhira umma'l-qurā wa man ḥawlahā wa tundhira yawma'l-jamʿi lā rayba fīh; farīqun fi'l-jannati wa farīqun fi's-saʿīr*
 
@@ -552,7 +552,7 @@ The place where a person convinced he knows something rightly most often stumble
 
 ---
 
-## 42/8 — وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
+## 42/8 — وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
 
 *Wa law shāʾa'llāhu la-jaʿalahum ummatan wāḥidatan wa lākin yudkhilu man yashāʾu fī raḥmatih; wa'ẓ-ẓālimūna mā lahum min waliyyin wa lā naṣīr*
 
@@ -606,7 +606,7 @@ The place where a person convinced he knows something rightly most often stumble
 
 ---
 
-## 42/9 — أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+## 42/9 — أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Ami'ttakhadhū min dūnihi awliyāʾ, fa'llāhu huwa'l-waliyyu wa huwa yuḥyi'l-mawtā wa huwa ʿalā kulli shayʾin qadīr*
 
@@ -657,7 +657,7 @@ A *walī* is one who stands beside a person and takes on his affair. **The limit
 
 ---
 
-## 42/10 — وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
+## 42/10 — وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
 *Wa ma'khtalaftum fīhi min shayʾin fa-ḥukmuhu ila'llāh; dhālikumu'llāhu rabbī ʿalayhi tawakkaltu wa ilayhi unīb*
 
@@ -721,7 +721,7 @@ A *walī* is one who stands beside a person and takes on his affair. **The limit
 
 ---
 
-## 42/11 — فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+## 42/11 — فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
 
 *Fāṭiru's-samāwāti wa'l-arḍ; jaʿala lakum min anfusikum azwājan wa mina'l-anʿāmi azwājā; yadhraʾukum fīh; laysa ka-mithlihi shayʾ; wa huwa's-samīʿu'l-baṣīr*
 
@@ -906,7 +906,7 @@ A human being knows what he does not know by likening it to what he does. This i
 
 ---
 
-## 42/12 — لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ
+## 42/12 — لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Lahu maqālīdu's-samāwāti wa'l-arḍ; yabsuṭu'r-rizqa li-man yashāʾu wa yaqdir; innahu bi-kulli shayʾin ʿalīm*
 
@@ -966,7 +966,7 @@ A human being knows what he does not know by likening it to what he does. This i
 
 ---
 
-## 42/13 — شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
+## 42/13 — شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
 *Sharaʿa lakum mina'd-dīni mā waṣṣā bihi Nūḥan wa'lladhī awḥaynā ilayka wa mā waṣṣaynā bihi Ibrāhīma wa Mūsā wa ʿĪsā, an aqīmu'd-dīna wa lā tatafarraqū fīh; kabura ʿala'l-mushrikīna mā tadʿūhum ilayh; Allāhu yajtabī ilayhi man yashāʾu wa yahdī ilayhi man yunīb*
 
@@ -1140,7 +1140,7 @@ The connotation the word *sharīʿa* carries today is "a body of rules". **The r
 
 ---
 
-## 42/14 — وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
+## 42/14 — وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
 
 *Wa mā tafarraqū illā min baʿdi mā jāʾahumu'l-ʿilmu baghyan baynahum; wa lawlā kalimatun sabaqat min rabbika ilā ajalin musamman la-quḍiya baynahum; wa inna'lladhīna ūrithu'l-kitāba min baʿdihim la-fī shakkin minhu murīb*
 
@@ -1261,7 +1261,7 @@ The connotation the word *sharīʿa* carries today is "a body of rules". **The r
 
 ---
 
-## 42/15 — فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
+## 42/15 — فَلِذَٰلِكَ فَٱدْعُ وَٱسْتَقِمْ كَمَآ أُمِرْتَ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ٱللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ ٱلْمَصِيرُ
 
 *Fa-li-dhālika fa'dʿu wa'staqim kamā umirt; wa lā tattabiʿ ahwāʾahum; wa qul āmantu bimā anzala'llāhu min kitāb; wa umirtu li-aʿdila baynakum; Allāhu rabbunā wa rabbukum; lanā aʿmālunā wa lakum aʿmālukum; lā ḥujjata baynanā wa baynakum; Allāhu yajmaʿu baynanā; wa ilayhi'l-maṣīr*
 
@@ -1440,7 +1440,7 @@ Knowing at what point to leave an argument is harder than carrying it on. Most a
 
 ---
 
-## 42/17 — ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ
+## 42/17 — ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ
 
 *Allāhu'lladhī anzala'l-kitāba bi'l-ḥaqqi wa'l-mīzān; wa mā yudrīka laʿalla's-sāʿata qarīb*
 
@@ -1513,7 +1513,7 @@ Knowing at what point to leave an argument is harder than carrying it on. Most a
 
 ---
 
-## 42/18 — يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ
+## 42/18 — يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ
 
 *Yastaʿjilu biha'lladhīna lā yuʾminūna bihā; wa'lladhīna āmanū mushfiqūna minhā wa yaʿlamūna annaha'l-ḥaqq; alā inna'lladhīna yumārūna fi's-sāʿati la-fī ḍalālin baʿīd*
 
@@ -1564,7 +1564,7 @@ Knowing at what point to leave an argument is harder than carrying it on. Most a
 
 ---
 
-## 42/19 — ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
+## 42/19 — ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
 
 *Allāhu laṭīfun bi-ʿibādihi yarzuqu man yashāʾ; wa huwa'l-qawiyyu'l-ʿazīz*
 
@@ -1610,7 +1610,7 @@ Knowing at what point to leave an argument is harder than carrying it on. Most a
 
 ---
 
-## 42/20 — مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
+## 42/20 — مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
 
 *Man kāna yurīdu ḥartha'l-ākhirati nazid lahu fī ḥarthih; wa man kāna yurīdu ḥartha'd-dunyā nuʾtihi minhā wa mā lahu fi'l-ākhirati min naṣīb*
 
@@ -1737,7 +1737,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/21 — أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+## 42/21 — أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 *Am lahum shurakāʾu sharaʿū lahum mina'd-dīni mā lam yaʾdhan bihi'llāh; wa lawlā kalimatu'l-faṣli la-quḍiya baynahum; wa inna'ẓ-ẓālimīna lahum ʿadhābun alīm*
 
@@ -1785,7 +1785,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/22 — تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
+## 42/22 — تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
 *Tara'ẓ-ẓālimīna mushfiqīna mimmā kasabū wa huwa wāqiʿun bihim; wa'lladhīna āmanū wa ʿamilu'ṣ-ṣāliḥāti fī rawḍāti'l-jannāt; lahum mā yashāʾūna ʿinda rabbihim; dhālika huwa'l-faḍlu'l-kabīr*
 
@@ -1829,7 +1829,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/23 — ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ
+## 42/23 — ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ
 
 *Dhālika'lladhī yubashshiru'llāhu ʿibādahu'lladhīna āmanū wa ʿamilu'ṣ-ṣāliḥāt; qul lā asʾalukum ʿalayhi ajran illa'l-mawaddata fi'l-qurbā; wa man yaqtarif ḥasanatan nazid lahu fīhā ḥusnā; inna'llāha ghafūrun shakūr*
 
@@ -1960,7 +1960,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/24 — أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 42/24 — أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Am yaqūlūna'ftarā ʿala'llāhi kadhibā; fa-in yashaʾi'llāhu yakhtim ʿalā qalbik; wa yamḥu'llāhu'l-bāṭila wa yuḥiqqu'l-ḥaqqa bi-kalimātih; innahu ʿalīmun bi-dhāti'ṣ-ṣudūr*
 
@@ -2068,7 +2068,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/26 — وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
+## 42/26 — وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
 
 *Wa yastajību'lladhīna āmanū wa ʿamilu'ṣ-ṣāliḥāti wa yazīduhum min faḍlih; wa'l-kāfirūna lahum ʿadhābun shadīd*
 
@@ -2116,7 +2116,7 @@ The distinction the verse sets up is not "this world is bad, the hereafter is go
 
 ---
 
-## 42/27 — وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
+## 42/27 — وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
 
 *Wa law basaṭa'llāhu'r-rizqa li-ʿibādihi la-baghaw fi'l-arḍ; wa lākin yunazzilu bi-qadarin mā yashāʾ; innahu bi-ʿibādihi khabīrun baṣīr*
 
@@ -2209,7 +2209,7 @@ This is said not as a rule of morals but as a **working.** And the word itself c
 
 ---
 
-## 42/28 — وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
+## 42/28 — وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
 
 *Wa huwa'lladhī yunazzilu'l-ghaytha min baʿdi mā qanaṭū wa yanshuru raḥmatah; wa huwa'l-waliyyu'l-ḥamīd*
 
@@ -2277,7 +2277,7 @@ This is said not as a rule of morals but as a **working.** And the word itself c
 
 ---
 
-## 42/29 — وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
+## 42/29 — وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
 *Wa min āyātihi khalqu's-samāwāti wa'l-arḍi wa mā baththa fīhimā min dābba; wa huwa ʿalā jamʿihim idhā yashāʾu qadīr*
 
@@ -2438,7 +2438,7 @@ The verse opens a door for a person to take account of **his own** condition. Bu
 
 ---
 
-## 42/31 — وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
+## 42/31 — وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
 
 *Wa mā antum bi-muʿjizīna fi'l-arḍ; wa mā lakum min dūni'llāhi min waliyyin wa lā naṣīr*
 
@@ -2511,7 +2511,7 @@ The verse opens a door for a person to take account of **his own** condition. Bu
 
 ---
 
-## 42/33 — إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+## 42/33 — إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
 
 *In yashaʾ yuskini'r-rīḥa fa-yaẓlalna rawākida ʿalā ẓahrih; inna fī dhālika la-āyātin li-kulli ṣabbārin shakūr*
 
@@ -2677,7 +2677,7 @@ The word *wa yaʿlama* comes in the **subjunctive**, and this is a point the gra
 
 ---
 
-## 42/36 — فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
+## 42/36 — فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 
 *Fa-mā ūtītum min shayʾin fa-matāʿu'l-ḥayāti'd-dunyā; wa mā ʿinda'llāhi khayrun wa abqā li'lladhīna āmanū wa ʿalā rabbihim yatawakkalūn*
 
@@ -2996,7 +2996,7 @@ The word *wa yaʿlama* comes in the **subjunctive**, and this is a point the gra
 
 ---
 
-## 42/40 — وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+## 42/40 — وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
 *Wa jazāʾu sayyiʾatin sayyiʾatun mithluhā; fa-man ʿafā wa aṣlaḥa fa-ajruhu ʿala'llāh; innahu lā yuḥibbu'ẓ-ẓālimīn*
 
@@ -3119,7 +3119,7 @@ The word *wa yaʿlama* comes in the **subjunctive**, and this is a point the gra
 
 ---
 
-## 42/42 — إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ
+## 42/42 — إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 *Innama's-sabīlu ʿala'lladhīna yaẓlimūna'n-nāsa wa yabghūna fi'l-arḍi bi-ghayri'l-ḥaqq; ulāʾika lahum ʿadhābun alīm*
 
@@ -3256,7 +3256,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/44 — وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ
+## 42/44 — وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ
 
 *Wa man yuḍlili'llāhu fa-mā lahu min waliyyin min baʿdih; wa tara'ẓ-ẓālimīna lammā raʾawu'l-ʿadhāba yaqūlūna hal ilā maraddin min sabīl*
 
@@ -3287,7 +3287,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/45 — وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ
+## 42/45 — وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ
 
 *Wa tarāhum yuʿraḍūna ʿalayhā khāshiʿīna mina'dh-dhulli yanẓurūna min ṭarfin khafiyy; wa qāla'lladhīna āmanū inna'l-khāsirīna'lladhīna khasirū anfusahum wa ahlīhim yawma'l-qiyāma; alā inna'ẓ-ẓālimīna fī ʿadhābin muqīm*
 
@@ -3341,7 +3341,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/46 — وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
+## 42/46 — وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
 
 *Wa mā kāna lahum min awliyāʾa yanṣurūnahum min dūni'llāh; wa man yuḍlili'llāhu fa-mā lahu min sabīl*
 
@@ -3373,7 +3373,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/47 — ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ
+## 42/47 — ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ
 
 *Istajībū li-rabbikum min qabli an yaʾtiya yawmun lā maradda lahu mina'llāh; mā lakum min maljaʾin yawmaʾidhin wa mā lakum min nakīr*
 
@@ -3417,7 +3417,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/48 — فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَٰنَ كَفُورٌ
+## 42/48 — فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَٰنَ كَفُورٌ
 
 *Fa-in aʿraḍū fa-mā arsalnāka ʿalayhim ḥafīẓā; in ʿalayka illa'l-balāgh; wa innā idhā adhaqna'l-insāna minnā raḥmatan fariḥa bihā; wa in tuṣibhum sayyiʾatun bimā qaddamat aydīhim fa-inna'l-insāna kafūr*
 
@@ -3488,7 +3488,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/49-50 — لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ · أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا ۖ وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا ۚ إِنَّهُۥ عَلِيمٌ قَدِيرٌ
+## 42/49-50 — لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ · أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ
 
 *Li'llāhi mulku's-samāwāti wa'l-arḍ; yakhluqu mā yashāʾ; yahabu li-man yashāʾu ināthan wa yahabu li-man yashāʾu'dh-dhukūr · Aw yuzawwijuhum dhukrānan wa ināthā; wa yajʿalu man yashāʾu ʿaqīmā; innahu ʿalīmun qadīr*
 
@@ -3612,7 +3612,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/51 — وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ ۚ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+## 42/51 — وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
 
 *Wa mā kāna li-basharin an yukallimahu'llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan fa-yūḥiya bi-idhnihi mā yashāʾ; innahu ʿaliyyun ḥakīm*
 
@@ -3697,7 +3697,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/52 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+## 42/52 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
 *Wa kadhālika awḥaynā ilayka rūḥan min amrinā; mā kunta tadrī ma'l-kitābu wa la'l-īmān; wa lākin jaʿalnāhu nūran nahdī bihi man nashāʾu min ʿibādinā; wa innaka la-tahdī ilā ṣirāṭin mustaqīm*
 
@@ -3853,7 +3853,7 @@ The counsel given to a person who has been wronged usually falls into one of two
 
 ---
 
-## 42/53 — صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ
+## 42/53 — صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ
 
 *Ṣirāṭi'llāhi'lladhī lahu mā fi's-samāwāti wa mā fi'l-arḍ; alā ila'llāhi taṣīru'l-umūr*
 

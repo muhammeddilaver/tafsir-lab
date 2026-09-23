@@ -1417,7 +1417,7 @@ Jadi pertanyaannya diajukan sebagai "hari itu hari yang bagaimana?" dan jawabann
 
 ---
 
-## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
+## 82/19 — يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ
 
 *Yauma lā tamliku nafsul li-nafsin syaiʼā • wal-amru yaumaʼiżil lillāh*
 "Pada hari ketika tidak ada satu jiwa pun yang memiliki sesuatu bagi jiwa yang lain. Dan pada hari itu segala urusan hanyalah milik Allah."

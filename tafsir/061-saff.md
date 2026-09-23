@@ -100,9 +100,9 @@ Ve dikkate değer bir ayrıntı: **mushaf tertibinde hemen önceki sûre olan M�
 
 ---
 
-## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
+## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ · كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
 
-*Yâ eyyühe'llezîne âmenû lime tekūlûne mâ lâ tef'alûn ۝ Kebüra makten indallâhi en tekūlû mâ lâ tef'alûn*
+*Yâ eyyühe'llezîne âmenû lime tekūlûne mâ lâ tef'alûn · Kebüra makten indallâhi en tekūlû mâ lâ tef'alûn*
 
 "Ey iman edenler! Niçin yapmayacağınız şeyi söylüyorsunuz? Yapmayacağınız şeyi söylemeniz, Allah katında büyük bir öfke/iğrenme sebebidir."
 

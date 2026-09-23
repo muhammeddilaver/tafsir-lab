@@ -73,6 +73,12 @@ three. An edit that changes one language's line count has to change the other tw
 same way, or the section links drift apart. `check.py` does not test this;
 `align.py` does.
 
+The Arabic is Uthmani throughout, and it carries only the marks that belong to the
+spelling — the silent-letter zeros (`۟` `۠`), the small waw and yeh, the iqlāb meem.
+Pause marks (`ۖ ۗ ۚ`) and the end-of-ayah sign (`۝`) are not used: where one heading
+runs over several verses the verses are separated by ` · `, and where it skips one the
+gap is marked `…`.
+
 ---
 
 ## The site

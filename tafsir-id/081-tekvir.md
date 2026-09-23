@@ -437,9 +437,9 @@ Ayat ini memerikan sebuah saat ketika ukuran pengelompokan itu berubah: sebab be
 
 ---
 
-## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝ بِأَىِّ ذَنۢبٍ قُتِلَتْ
+## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ · بِأَىِّ ذَنۢبٍ قُتِلَتْ
 
-*Wa iżal-mauʼūdatu suʼilat ۝ Bi-ayyi żambin qutilat*
+*Wa iżal-mauʼūdatu suʼilat · Bi-ayyi żambin qutilat*
 "Apabila bayi perempuan yang dikubur hidup-hidup ditanya: karena dosa apa engkau dibunuh?"
 
 Pusat surah ini ada di sini.
@@ -702,9 +702,9 @@ Hal ini memandang ke tempat yang sama dengan berputarnya Surah 'Abasa di sekitar
 
 ---
 
-## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ ۝ وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
+## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ · وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
 
-*Wa iżal-jaḥīmu suʻʻirat ۝ Wa iżal-jannatu uzlifat*
+*Wa iżal-jaḥīmu suʻʻirat · Wa iżal-jannatu uzlifat*
 "Apabila neraka Jahim dinyalakan dan apabila surga didekatkan."
 
 ### ٱلْجَحِيم — jahim
@@ -854,9 +854,9 @@ Surah ini menegakkan sebuah rantai pengetahuan dan memperlihatkan kedua ujungnya
 
 ---
 
-## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ ۝ ٱلْجَوَارِ ٱلْكُنَّسِ
+## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ · ٱلْجَوَارِ ٱلْكُنَّسِ
 
-*Fa-lā uqsimu bil-khunnas ۝ Al-jawāril-kunnas*
+*Fa-lā uqsimu bil-khunnas · Al-jawāril-kunnas*
 "Aku bersumpah demi yang menarik diri — yang beredar, yang masuk ke sarangnya."
 
 ### فَلَا أُقْسِمُ — لا di awalnya
@@ -940,9 +940,9 @@ Saya catat kaitan ini sebagai bacaan saya sendiri. Tetapi bahwa sumpah-sumpah Al
 
 ---
 
-## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ ۝ وَٱلصُّبْحِ إِذَا تَنَفَّسَ
+## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ · وَٱلصُّبْحِ إِذَا تَنَفَّسَ
 
-*Wal-laili iżā ʻasʻas ۝ Waṣ-ṣubḥi iżā tanaffas*
+*Wal-laili iżā ʻasʻas · Waṣ-ṣubḥi iżā tanaffas*
 "Dan demi malam — ketika ia berbalik; dan demi subuh — ketika ia bernapas."
 
 Dua ayat terindah dalam surah ini.
@@ -1045,9 +1045,9 @@ Saya menyajikan hal ini sebagai sebuah kemungkinan bacaan: kedua sumpah surah in
 
 ---
 
-## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ ۝ ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ ۝ مُّطَاعٍ ثَمَّ أَمِينٍ
+## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ · ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ · مُّطَاعٍ ثَمَّ أَمِينٍ
 
-*Innahū laqaulu rasūlin karīm ۝ Żī quwwatin ʻinda żil-ʻarsyi makīn ۝ Muṭāʻin ṡamma amīn*
+*Innahū laqaulu rasūlin karīm · Żī quwwatin ʻinda żil-ʻarsyi makīn · Muṭāʻin ṡamma amīn*
 "Sesungguhnya ia adalah perkataan seorang utusan yang mulia — pemilik kekuatan, yang kokoh kedudukannya di sisi Pemilik 'Arasy; yang ditaati di sana, yang tepercaya."
 
 ### Jawaban sumpah dan tiga lapis penegasan

@@ -73,7 +73,7 @@ Sûre dokuz bloktan oluşur. Blok sınırları, hitap değişimleri ve *yâ eyy�
 
 ---
 
-## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
+## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
 
 *Yâ eyyühe'llezîne âmenû evfû bi'l-ukūd · Uhıllet leküm behîmetü'l-en'âmi illâ mâ yütlâ aleyküm ğayra muhıllı's-saydi ve entüm hurum · İnna'llâhe yahkümü mâ yürîd*
 
@@ -151,7 +151,7 @@ Türkçedeki **"akit", "akde", "akit yapmak", "münakit"** kelimeleri bu kökten
 
 ---
 
-## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
+## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
 
 *Yâ eyyühe'llezîne âmenû lâ tuhıllû şeâira'llâhi ve le'ş-şehra'l-harâme ve le'l-hedye ve le'l-kalâide ve lâ âmmîne'l-beyte'l-harâme yebteğûne fadlen min rabbihim ve rıdvânâ · Ve izâ haleltüm fe'stâdû · Ve lâ yecrimenneküm şeneânü kavmin en saddûküm ani'l-Mescidi'l-Harâmi en ta'tedû · Ve teâvenû ale'l-birri ve't-takvâ ve lâ teâvenû ale'l-ismi ve'l-udvân · Vetteku'llâh · İnna'llâhe şedîdü'l-ıkāb*
 
@@ -270,7 +270,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ---
 
-## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
 *Hurrimet aleykümü'l-meytetü ve'd-demü ve lahmü'l-hınzîri ve mâ ühille li-ğayrillâhi bihî ve'l-münhanikatü ve'l-mevkūzetü ve'l-müteraddiyetü ve'n-natîhatü ve mâ ekele's-sebuu illâ mâ zekkeytüm ve mâ zübiha ale'n-nusubi ve en testaksimû bi'l-ezlâm · Zâliküm fisk · El-yevme yeise'llezîne keferû min dîniküm fe-lâ tahşevhüm ve'hşevn · El-yevme ekmeltü leküm dîneküm ve etmemtü aleyküm ni'metî ve radîtü lekümü'l-İslâme dînâ · Fe-meni'dturra fî mahmesatin ğayra mütecânifin li-ismin fe-inna'llâhe ğafûrun rahîm*
 
@@ -449,7 +449,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ---
 
-## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
+## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
 
 *Yes'elûneke mâzâ ühılle lehüm · Kul ühılle lekümü't-tayyibâtü ve mâ allemtüm mine'l-cevârihi mükellibîne tuallimûnehünne mimmâ allemekümü'llâh · Fe-külû mimmâ emsekne aleyküm ve'zkürü'sma'llâhi aleyh · Vetteku'llâh · İnna'llâhe serîu'l-hisâb*
 
@@ -508,7 +508,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ---
 
-## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
+## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
 
 *El-yevme ühılle lekümü't-tayyibât · Ve taâmü'llezîne ûtü'l-kitâbe hıllün leküm ve taâmüküm hıllün lehüm · Ve'l-muhsanâtü mine'l-mü'minâti ve'l-muhsanâtü mine'llezîne ûtü'l-kitâbe min kabliküm izâ âteytümûhünne ücûrahünne muhsınîne ğayra müsâfihîne ve lâ müttehızî ahdân · Ve men yekfür bi'l-îmâni fe-kad habita amelüh ve hüve fi'l-âhırati mine'l-hâsirîn*
 
@@ -704,7 +704,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ---
 
-## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Ve'zkürû ni'meta'llâhi aleyküm ve mîsâkahü'llezî vâsekaküm bihî iz kultüm semi'nâ ve eta'nâ · Vetteku'llâh · İnna'llâhe alîmün bi-zâti's-sudûr*
 
@@ -753,7 +753,7 @@ Arapçada **VI. bâb karşılıklılık bildirir** — iki ya da daha çok taraf
 
 ---
 
-## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
 *Yâ eyyühe'llezîne âmenû kûnû kavvâmîne lillâhi şühedâe bi'l-kıst · Ve lâ yecrimenneküm şeneânü kavmin alâ ellâ ta'dilû · İ'dilû hüve akrabü li't-takvâ · Vetteku'llâh · İnna'llâhe habîrun bimâ ta'melûn*
 
@@ -943,7 +943,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
+## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
 
 *Ve lekad ehaza'llâhu mîsâka benî İsrâîle ve beasnâ minhümü'snâ aşera nakībâ · Ve kāla'llâhu innî meaküm · Le-in ekamtümü's-salâte ve âteytümü'z-zekâte ve âmentüm bi-rusülî ve azzertümûhüm ve akradtümü'llâhe kardan hasenen le-ükeffiranne anküm seyyiâtiküm ve le-üdhılenneküm cennâtin tecrî min tahtihe'l-enhâr · Fe-men kefera ba'de zâlike minküm fe-kad dalle sevâe's-sebîl*
 
@@ -1012,7 +1012,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
+## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
 *Fe-bimâ nakdıhim mîsâkahüm leannâhüm ve cealnâ kulûbehüm kāsiyeh · Yüharrifûne'l-kelime an mevâdııhî ve nesû hazzan mimmâ zükkirû bih · Ve lâ tezâlü tattaliu alâ hâinetin minhüm illâ kalîlen minhüm · Fa'fu anhüm va'sfah · İnna'llâhe yuhıbbü'l-muhsinîn*
 
@@ -1110,7 +1110,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
+## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
 *Ve mine'llezîne kālû innâ nasârâ ehaznâ mîsâkahüm fe-nesû hazzan mimmâ zükkirû bih · Fe-ağraynâ beynehümü'l-adâvete ve'l-bağdâe ilâ yevmi'l-kıyâmeh · Ve sevfe yünebbiühümü'llâhu bimâ kânû yasneûn*
 
@@ -1168,7 +1168,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
+## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
 
 *Yâ ehle'l-kitâbi kad câeküm rasûlünâ yübeyyinü leküm kesîran mimmâ küntüm tuhfûne mine'l-kitâbi ve ya'fû an kesîr · Kad câeküm mina'llâhi nûrun ve kitâbün mübîn · Yehdî bihi'llâhu meni'ttebea rıdvânehû sübüle's-selâmi ve yuhricühüm mine'z-zulümâti ile'n-nûri bi-iznihî ve yehdîhim ilâ sırâtın müstakīm*
 
@@ -1222,7 +1222,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
+## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
 
 *Lekad kefera'llezîne kālû inna'llâhe hüve'l-Mesîhu'bnü Meryem · Kul fe-men yemlikü mina'llâhi şey'en in erâde en yühlike'l-Mesîha'bne Meryeme ve ümmehû ve men fi'l-ardı cemîâ · Ve lillâhi mülkü's-semâvâti ve'l-ardı ve mâ beynehümâ · Yahlüku mâ yeşâ' · Va'llâhu alâ külli şey'in kadîr*
 
@@ -1252,7 +1252,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
+## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
 
 *Ve kāleti'l-yehûdü ve'n-nasârâ nahnu ebnâü'llâhi ve ehıbbâüh · Kul fe-lime yuazzibüküm bi-zünûbiküm · Bel entüm beşerun mimmen halak · Yağfiru li-men yeşâü ve yuazzibü men yeşâ' · Ve lillâhi mülkü's-semâvâti ve'l-ardı ve mâ beynehümâ · Ve ileyhi'l-masîr*
 
@@ -1289,7 +1289,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
+## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
 
 *Yâ ehle'l-kitâbi kad câeküm rasûlünâ yübeyyinü leküm alâ fetratin mine'r-rusuli en tekūlû mâ câenâ min beşîrin ve lâ nezîr · Fe-kad câeküm beşîrun ve nezîr · Va'llâhu alâ külli şey'in kadîr*
 
@@ -1416,7 +1416,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
+## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
 *Kāle rabbi innî lâ emlikü illâ nefsî ve ahî · Fe'fruk beynenâ ve beyne'l-kavmi'l-fâsikīn · Kāle fe-innehâ muharrametün aleyhim erbaîne seneten yetîhûne fi'l-ard · Fe-lâ te'se ale'l-kavmi'l-fâsikīn*
 
@@ -1434,7 +1434,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ### Mushaftaki mu'ânaka işareti
 
-**Bu ayette klasik mushaflarda `ۛ` biçiminde üç noktalı iki işaret vardır: biri *erbaîne seneten*'den önce, biri sonra.**
+**Bu ayette klasik mushaflarda `` biçiminde üç noktalı iki işaret vardır: biri *erbaîne seneten*'den önce, biri sonra.**
 
 **Bu, `002-bakara.md` 2/2'de işlenen *mu'ânaka* (sarmaşma) işaretidir ve orada kaydedilmişti:** **bu iki yerden birinde durulur, ikisinde birden durulmaz.** Oraya dayanıyorum.
 
@@ -1461,7 +1461,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
+## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
 *Ve'tlü aleyhim nebee'bney Âdeme bi'l-hakk · İz karrabâ kurbânen fe-tukubbile min ehadihimâ ve lem yütekabbel mine'l-âhar · Kāle le-aktülennek · Kāle innemâ yetekabbelu'llâhu mine'l-müttekīn*
 
@@ -1505,7 +1505,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
+## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
 *Le-in besatte ileyye yedeke li-taktülenî mâ ene bi-bâsitın yediye ileyke li-aktülek · İnnî ehâfu'llâhe rabbe'l-âlemîn*
 
@@ -1611,7 +1611,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
+## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
 *Fe-beasa'llâhu ğurâben yebhasü fi'l-ardı li-yüriyehû keyfe yüvârî sev'ete ahîh · Kāle yâ veyletâ e-aceztü en ekûne misle hâze'l-ğurâbi fe-üvâriye sev'ete ahî · Fe-asbaha mine'n-nâdimîn*
 
@@ -2156,7 +2156,7 @@ Ve *kavm* kelimesinin belirsiz (nekre) gelmesi kaydedilmelidir: *şeneânü **ka
 
 ---
 
-## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
+## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
 
 "**'Allah'ın eli bağlıdır' dediler. Kendi elleri bağlandı ve söyledikleri yüzünden lânetlendiler. Hayır, O'nun iki eli de açıktır; dilediği gibi verir.**"
 
@@ -2244,7 +2244,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ---
 
-## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
+## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
 
 **Fiil zamanları kaydedilmelidir:** *ferîkan **kezzebû*** (geçmiş) **/** *ve ferîkan **yaktülûn*** (geniş zaman).
 
@@ -2288,7 +2288,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 **Sûre bu sırayı daha önce iki kez kurmuştu: 5/33-34 ve 5/38-39.** **Hüküm → dönüş kapısı → *ğafûrun rahîm*.** **Üçüncü tekrar burada.**
 
-### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
+### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
 
 ***Kânâ ye'külâni't-taâm* — "ikisi de yemek yerlerdi".**
 
@@ -2310,7 +2310,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ---
 
-## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
+## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
 
 "**Birbirlerini, işledikleri kötülükten vazgeçirmeye çalışmazlardı. Yaptıkları şey ne kötüydü!**"
 
@@ -2330,7 +2330,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ---
 
-## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
+## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
 
 "**İman edenlere düşmanlıkta insanların en şiddetlisini … bulacaksın. İman edenlere sevgice en yakınlarının da 'biz hıristiyanız' diyenler olduğunu göreceksin. Çünkü onların içinde keşişler ve rahipler vardır ve onlar büyüklenmezler.**"
 
@@ -2487,7 +2487,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 **عَفَا ٱللَّهُ عَمَّا سَلَفَ** — **ve geçmiş için af ilan ediliyor.** **Aynı ifade `005-maide.md` 5/95 dışında Kur'an'da başka yerlerde de geçer; burada hükmün geçmişe yürütülmediği açıkça bildiriliyor.**
 
-### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
+### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
 
 **Ayrım açık: deniz avı serbest, kara avı ihram süresince yasak.** ***Mâ dümtüm hurumâ* — süre kaydı.**
 
@@ -2556,7 +2556,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ---
 
-## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
+## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
 
 "**Ey iman edenler! Siz kendinize bakın. Siz doğru yolda olduğunuz sürece sapan kimse size zarar veremez.**"
 
@@ -2609,7 +2609,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ---
 
-## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
+## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ قَالُوا۟ لَا عِلْمَ لَنَآ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
 "**Allah'ın elçileri toplayacağı gün şöyle diyecek: 'Size ne cevap verildi?' Diyecekler ki: 'Bizim bilgimiz yok. Gaybları bilen ancak sensin.'**"
 
@@ -2681,7 +2681,7 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 ***İtmi'nân* kökü `013-rad.md` 13/28'de (*elâ bi-zikrillâhi tatmeinnü'l-kulûb*) ve `002-bakara.md` 2/260'ta (İbrâhim'in *ve lâkin li-yatmeinne kalbî* isteğinde) işlendi;** oraya dayanıyorum. **Aynı kelime, aynı türden bir istekte.**
 
-### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
+### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
 
 **Bunu kendi okumam olarak kaydediyorum ve dayanağı cümlenin şartıdır:** istek kabul ediliyor, **ama karşılığında sorumluluk ağırlaşıyor.** **Yani istenen delil verildiğinde, delilin ardından gelen inkâr başka bir ağırlık taşıyor.**
 
@@ -2718,13 +2718,13 @@ Müfessirler bu terkibi genellikle **gökten yağmur, yerden bitki** — yani r�
 
 **Kırk beş ayet arayla aynı cümle iki kez** — biri hükmün karşı delili olarak, öteki hesabın cevabı olarak. **Bu tekrar metinden doğrulanabilir.**
 
-**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
+**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
 
 ***Mâ dümtü fîhim* — süre kaydı.** **Şahitlik, bulunulan süreyle sınırlanıyor.**
 
 ***Teveffî* (و-ف-ي) kelimesinin buradaki anlamı üzerinde müfessirler ayrılır** — **kökün asıl anlamı "tam olarak almak, eksiksiz teslim almak"tır ve `003-al-i-imran.md` 3/55 ile `004-nisa.md` 4/157-158 bağlamında tartışılmıştır.** **Bu tefsirde tercih yapılmıyor.**
 
-### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 **Cümle iki şart içeriyor ve iki gerekçe veriyor:**
 

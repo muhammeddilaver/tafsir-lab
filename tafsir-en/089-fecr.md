@@ -1099,7 +1099,7 @@ I do not turn this into a claim of social science and I do not attach it to a cu
 
 ---
 
-## 89/17-18 — كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+## 89/17-18 — كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
 
 *Kallā bal lā tukrimūna'l-yatīm • Wa lā taḥāḍḍūna ʿalā ṭaʿāmi'l-miskīn*
 "No! Rather, you do not honour the orphan; you do not urge one another to feed the needy."
@@ -1480,7 +1480,7 @@ I present this as my own reading; but that the verb at al-Shuʿarāʾ 26/129 and
 
 ---
 
-## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
+## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
 *Wa jīʾa yawmaʾidhin bi-jahannam, yawmaʾidhin yatadhakkaru'l-insānu wa annā lahu'dh-dhikrā • Yaqūlu yā laytanī qaddamtu li-ḥayātī*
 "And on that day Hell is brought; on that day man remembers — but what use is the remembering to him? He says: 'Would that I had sent something ahead for my life.'"

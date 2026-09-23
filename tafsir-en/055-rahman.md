@@ -523,7 +523,7 @@ And one further note: this is **not a numerical calculation.** What `STYLE.md` f
 
 ## Verse by verse
 
-## 55/1-4 — ٱلرَّحْمَٰنُ ۝ عَلَّمَ ٱلْقُرْءَانَ ۝ خَلَقَ ٱلْإِنسَٰنَ ۝ عَلَّمَهُ ٱلْبَيَانَ
+## 55/1-4 — ٱلرَّحْمَٰنُ · عَلَّمَ ٱلْقُرْءَانَ · خَلَقَ ٱلْإِنسَٰنَ · عَلَّمَهُ ٱلْبَيَانَ
 
 *Al-Raḥmān · ʿallama'l-Qurʾān · khalaqa'l-insān · ʿallamahu'l-bayān*
 
@@ -705,7 +705,7 @@ The concrete counterpart of this is not hard to find: the most widespread abuse 
 
 ---
 
-## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ ۝ وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ · وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
 
 *Al-shamsu wa'l-qamaru bi-ḥusbān · Wa'l-najmu wa'l-shajaru yasjudān*
 
@@ -789,7 +789,7 @@ For the heavenly bodies a **state** is used, then, and for the plants an **act**
 
 ---
 
-## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ ۝ أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ ۝ وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ · أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ · وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
 
 *Wa'l-samāʾa rafaʿahā wa waḍaʿa'l-mīzān · Allā taṭghaw fi'l-mīzān · Wa aqīmu'l-wazna bi'l-qisṭi wa lā tukhsiru'l-mīzān*
 
@@ -1020,7 +1020,7 @@ And the word puts that millimetre in the same pan as Pharaoh's sentence.
 
 ---
 
-## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ ۝ فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ ۝ وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ · فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ · وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
 
 *Wa'l-arḍa waḍaʿahā li'l-anām · Fīhā fākihatun wa'l-nakhlu dhātu'l-akmām · Wa'l-ḥabbu dhu'l-ʿaṣfi wa'l-rayḥān*
 
@@ -1135,7 +1135,7 @@ At the first asking, then, a list of **fourteen items** stands before the one ad
 
 ---
 
-## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ ۝ وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
+## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ · وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
 
 *Khalaqa'l-insāna min ṣalṣālin ka'l-fakhkhār · Wa khalaqa'l-jānna min mārijin min nār*
 
@@ -1321,7 +1321,7 @@ And what is striking is this: the verse in which this exception occurs is **the 
 
 ---
 
-## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ ۝ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
+## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ · بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
 
 *Maraja'l-baḥrayni yaltaqiyān · Baynahumā barzakhun lā yabghiyān*
 
@@ -1644,7 +1644,7 @@ The timber of the ship, the sea, the wind, and the hand that built it — none o
 
 ---
 
-## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ ۝ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ · وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
 
 *Kullu man ʿalayhā fān · Wa yabqā wajhu Rabbika dhu'l-jalāli wa'l-ikrām*
 
@@ -2327,7 +2327,7 @@ And I add one further reading, **as my own**: the forelock is the seat of pride 
 
 ---
 
-## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ ۝ يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
+## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ · يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
 
 *Hādhihi jahannamu'llatī yukadhdhibu bihā'l-mujrimūn · Yaṭūfūna baynahā wa bayna ḥamīmin ān*
 

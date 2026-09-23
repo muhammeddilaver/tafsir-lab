@@ -992,7 +992,7 @@ I set up this link as my own reading.
 
 ---
 
-## 74/16-17 — كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
+## 74/16-17 — كَلَّآ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
 
 *Kallā innahū kāna li-āyātinā ʿanīdā / Sa-urhiquhū ṣuʿūdā*
 "No! He was stubborn against Our signs. I shall drive him up a steep ascent."
@@ -1786,7 +1786,7 @@ The other information the Qurʾān gives about the keepers of the Fire: *"Over i
 
 ## 74/31 — The number itself as a test
 
-وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
 "We have made the keepers of the Fire none but angels. And We have made their number nothing but a test for those who disbelieve — so that those who were given the Book may know with certainty, and those who believe may increase in faith, and those who were given the Book and the believers may not fall into doubt, and those in whose hearts is a sickness, and the disbelievers, may say, 'What did God mean by this as a likeness?' Thus God leads astray whom He wills and guides whom He wills. And none knows the hosts of your Lord but He. And it is nothing but a reminder to human beings."
 
@@ -2623,7 +2623,7 @@ I record this as my own reading; the verses do not set up this link.
 
 ---
 
-## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
+## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
 
 *Bal yurīdu kullu'mriʾin minhum an yuʾtā ṣuḥufan munashshara / Kallā bal lā yakhāfūna'l-ākhira*
 
@@ -2727,7 +2727,7 @@ I set up this link, and I state that it agrees with the frame set up by `107-mau
 
 ## 74/54-56 — The close
 
-كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
+كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
 
 *Kallā innahū tadhkira / Fa-man shāʾa dhakarah / Wa mā yadhkurūna illā an yashāʾallāh. Huwa ahlu'l-taqwā wa ahlu'l-maghfira*
 

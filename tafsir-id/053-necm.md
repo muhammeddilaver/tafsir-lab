@@ -1962,7 +1962,7 @@ Seandainya setangkup, maka kepada orang-orang yang berbuat jahat dikatakan *bim�
 
 ---
 
-## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
+## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
 
 *Allażīna yajtanibūna kabāʼiral-iṡmi wal-fawāḥisya illal-lamam · Inna rabbaka wāsiʻul-magfirah · Huwa aʻlamu bikum iż ansyaʼakum minal-arḍi wa iż antum ajinnatun fī buṭūni ummahātikum · Fa-lā tuzakkū anfusakum; huwa aʻlamu bimanittaqā*
 "Mereka adalah orang-orang yang menjauhi dosa-dosa besar dan perbuatan-perbuatan keji — kecuali kesalahan-kesalahan kecil. Sesungguhnya ampunan Tuhanmu itu luas. Dialah yang paling mengetahui keadaanmu ketika Dia menumbuhkan kamu dari bumi dan ketika kamu masih berupa janin di dalam perut ibumu. Maka janganlah kamu menyatakan dirimu suci; Dialah yang paling mengetahui siapa yang bertakwa."

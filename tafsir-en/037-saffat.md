@@ -334,7 +334,7 @@ I record it thus: what is praised at the opening of the sūra is neither power n
 
 ---
 
-## 37/6-10 — إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ · وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ · لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ · دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ · إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
+## 37/6-10 — إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ · وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ · لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ · دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌ · إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
 
 *Innā zayyanna's-samāʾa'd-dunyā bi-zīnatini'l-kawākib · Wa ḥifẓan min kulli shayṭānin mārid · Lā yassammaʿūna ila'l-malaʾi'l-aʿlā wa yuqdhafūna min kulli jānib · Duḥūrā, wa lahum ʿadhābun wāṣib · Illā man khaṭifa'l-khaṭfata fa-atbaʿahu shihābun thāqib*
 
@@ -492,7 +492,7 @@ The "measure of knowledge" recorded in the section on al-Jinn holds here too and
 
 ---
 
-## 37/11-12 — فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍ لَّازِبٍ · بَلْ عَجِبْتَ وَيَسْخَرُونَ
+## 37/11-12 — فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ إِنَّا خَلَقْنَٰهُم مِّن طِينٍ لَّازِبٍ · بَلْ عَجِبْتَ وَيَسْخَرُونَ
 
 *Fa'staftihim a-hum ashaddu khalqan am man khalaqnā. Innā khalaqnāhum min ṭīnin lāzib · Bal ʿajibta wa yaskharūn*
 
@@ -820,7 +820,7 @@ The sense the lexicographers give: **sticking, clinging together, adhering to th
 
 ---
 
-## 37/22-26 — ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ · مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ · وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ · مَا لَكُمْ لَا تَنَاصَرُونَ · بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
+## 37/22-26 — ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ · مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ · وَقِفُوهُمْ إِنَّهُم مَّسْـُٔولُونَ · مَا لَكُمْ لَا تَنَاصَرُونَ · بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
 
 *Uḥshuru'lladhīna ẓalamū wa azwājahum wa mā kānū yaʿbudūn · Min dūni'llāhi fa'hdūhum ilā ṣirāṭi'l-jaḥīm · Wa qifūhum, innahum masʾūlūn · Mā lakum lā tanāṣarūn · Bal humu'l-yawma mustaslimūn*
 
@@ -940,7 +940,7 @@ The sense the lexicographers give: **sticking, clinging together, adhering to th
 
 ---
 
-## 37/27-32 — وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ · قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ · قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ · وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍ ۖ بَلْ كُنتُمْ قَوْمًا طَٰغِينَ · فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ · فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
+## 37/27-32 — وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ · قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ · قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ · وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍ بَلْ كُنتُمْ قَوْمًا طَٰغِينَ · فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ إِنَّا لَذَآئِقُونَ · فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
 
 *Wa aqbala baʿḍuhum ʿalā baʿḍin yatasāʾalūn · Qālū innakum kuntum taʾtūnanā ʿani'l-yamīn · Qālū bal lam takūnū muʾminīn · Wa mā kāna lanā ʿalaykum min sulṭān, bal kuntum qawman ṭāghīn · Fa-ḥaqqa ʿalaynā qawlu rabbinā, innā la-dhāʾiqūn · Fa-aghwaynākum innā kunnā ghāwīn*
 
@@ -1155,7 +1155,7 @@ And *ālihati**nā*** — "**our** gods". In the fourth verse it had been said *
 
 ---
 
-## 37/40-44 — إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ · فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ · فِى جَنَّٰتِ ٱلنَّعِيمِ · عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
+## 37/40-44 — إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ · فَوَٰكِهُ وَهُم مُّكْرَمُونَ · فِى جَنَّٰتِ ٱلنَّعِيمِ · عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
 
 *Illā ʿibāda'llāhi'l-mukhlaṣīn · Ulāʾika lahum rizqun maʿlūm · Fawākihu wa hum mukramūn · Fī jannāti'n-naʿīm · ʿAlā sururin mutaqābilīn*
 
@@ -2423,7 +2423,7 @@ The grammarians count this as an *ellipsis* and complete the elided word as *wal
 
 ---
 
-## 37/102 — فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
+## 37/102 — فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
 
 *Fa-lammā balagha maʿahu's-saʿya qāla yā bunayya innī arā fi'l-manāmi annī adhbaḥuka fa'nẓur mādhā tarā. Qāla yā abati'fʿal mā tuʾmar, sa-tajidunī in shāʾa'llāhu mina'ṣ-ṣābirīn*
 
@@ -2558,7 +2558,7 @@ And the child's answer is in the same mould: *yā **abati*** — "my dear father
 
 ---
 
-## 37/103-107 — فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ · وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ · قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ · وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ
+## 37/103-107 — فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ · وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ · قَدْ صَدَّقْتَ ٱلرُّءْيَآ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ · وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ
 
 *Fa-lammā aslamā wa tallahu li'l-jabīn · Wa nādaynāhu an yā Ibrāhīm · Qad ṣaddaqta'r-ruʾyā, innā kadhālika najzi'l-muḥsinīn · Inna hādhā la-huwa'l-balāʾu'l-mubīn · Wa fadaynāhu bi-dhibḥin ʿaẓīm*
 
@@ -2787,7 +2787,7 @@ The mould normally comes at **the end** of the account (80, 110, 121, 131). **He
 
 ---
 
-## 37/108-113 — وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ · سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ · كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ · وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ · وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
+## 37/108-113 — وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ · سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ · كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ · وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ · وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
 
 *Wa taraknā ʿalayhi fi'l-ākhirīn · Salāmun ʿalā Ibrāhīm · Kadhālika najzi'l-muḥsinīn · Innahu min ʿibādina'l-muʾminīn · Wa bashsharnāhu bi-Isḥāqa nabiyyan mina'ṣ-ṣāliḥīn · Wa bāraknā ʿalayhi wa ʿalā Isḥāq, wa min dhurriyyatihimā muḥsinun wa ẓālimun li-nafsihi mubīn*
 
@@ -3174,7 +3174,7 @@ And the one exception is the hundred and sixteenth verse: *wa naṣarnā**hum***
 
 ---
 
-## 37/133-138 — وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ · إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ · إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ · ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ · وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ · وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ
+## 37/133-138 — وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ · إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ · إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ · ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ · وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ · وَبِٱلَّيْلِ أَفَلَا تَعْقِلُونَ
 
 *Wa inna Lūṭan la-mina'l-mursalīn · Idh najjaynāhu wa ahlahu ajmaʿīn · Illā ʿajūzan fi'l-ghābirīn · Thumma dammarna'l-ākharīn · Wa innakum la-tamurrūna ʿalayhim muṣbiḥīn · Wa bi'l-layl, a-fa-lā taʿqilūn*
 
@@ -3632,7 +3632,7 @@ And the apodosis of the condition is worth noting: *ilā yawmi **yubʿathūn*** 
 
 ---
 
-## 37/158-163 — وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ · سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ · إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَإِنَّكُمْ وَمَا تَعْبُدُونَ · مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ · إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
+## 37/158-163 — وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ · سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ · إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَإِنَّكُمْ وَمَا تَعْبُدُونَ · مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ · إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
 
 *Wa jaʿalū baynahu wa bayna'l-jinnati nasaban, wa laqad ʿalimati'l-jinnatu innahum la-muḥḍarūn · Subḥāna'llāhi ʿammā yaṣifūn · Illā ʿibāda'llāhi'l-mukhlaṣīn · Fa-innakum wa mā taʿbudūn · Mā antum ʿalayhi bi-fātinīn · Illā man huwa ṣāli'l-jaḥīm*
 
@@ -3832,7 +3832,7 @@ The sentence is therefore not "we form ranks" but **"the ones who form ranks are
 
 ---
 
-## 37/167-170 — وَإِن كَانُوا۟ لَيَقُولُونَ · لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ · لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ
+## 37/167-170 — وَإِن كَانُوا۟ لَيَقُولُونَ · لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ · لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَكَفَرُوا۟ بِهِۦ فَسَوْفَ يَعْلَمُونَ
 
 *Wa in kānū la-yaqūlūn · Law anna ʿindanā dhikran mina'l-awwalīn · La-kunnā ʿibāda'llāhi'l-mukhlaṣīn · Fa-kafarū bihi fa-sawfa yaʿlamūn*
 
@@ -3891,7 +3891,7 @@ The sentence is therefore not "we form ranks" but **"the ones who form ranks are
 
 **I record this as my own reading:** the construction the sūra set down four times as the address of deliverance it sets, the fifth time, inside **an unrealised claim.** **And immediately after, it says how the claim breaks down.** The construction itself does not change; **what changes is the state of the one who says it.**
 
-### فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ — and the threat
+### فَكَفَرُوا۟ بِهِۦ فَسَوْفَ يَعْلَمُونَ — and the threat
 
 ***Kafarū* — root ك-ف-ر: to cover, to hide.** *Kāfir* in Arabic also means **a farmer** (one who covers the seed with earth). **The root was analysed in `002-bakara.md`.**
 

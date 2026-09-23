@@ -48,7 +48,7 @@ Tabloda görülen bir şey var ve sûrenin okunuşunu belirliyor: **son üç bö
 
 ## 77/1-5 — Beş yemin
 
-وَٱلْمُرْسَلَٰتِ عُرْفًا ۝ فَٱلْعَٰصِفَٰتِ عَصْفًا ۝ وَٱلنَّٰشِرَٰتِ نَشْرًا ۝ فَٱلْفَٰرِقَٰتِ فَرْقًا ۝ فَٱلْمُلْقِيَٰتِ ذِكْرًا
+وَٱلْمُرْسَلَٰتِ عُرْفًا · فَٱلْعَٰصِفَٰتِ عَصْفًا · وَٱلنَّٰشِرَٰتِ نَشْرًا · فَٱلْفَٰرِقَٰتِ فَرْقًا · فَٱلْمُلْقِيَٰتِ ذِكْرًا
 
 *Vel-mürselâti urfâ · fel-âsıfâti asfâ · ve'n-nâşirâti neşrâ · fel-fârikāti farkā · fel-mülkıyâti zikrâ*
 
@@ -535,7 +535,7 @@ Bunu bir okuma olarak kaydediyorum; kökün anlamı ise tartışmalı değildir.
 
 ## 77/8-11 — Dört kırılma
 
-فَإِذَا ٱلنُّجُومُ طُمِسَتْ ۝ وَإِذَا ٱلسَّمَآءُ فُرِجَتْ ۝ وَإِذَا ٱلْجِبَالُ نُسِفَتْ ۝ وَإِذَا ٱلرُّسُلُ أُقِّتَتْ
+فَإِذَا ٱلنُّجُومُ طُمِسَتْ · وَإِذَا ٱلسَّمَآءُ فُرِجَتْ · وَإِذَا ٱلْجِبَالُ نُسِفَتْ · وَإِذَا ٱلرُّسُلُ أُقِّتَتْ
 
 *Fe-ize'n-nücûmü tumiset · ve ize's-semâü füricet · ve ize'l-cibâlü nüsifet · ve ize'r-rusülü ukkıtet*
 
@@ -1157,7 +1157,7 @@ Nitekim sûrenin bütün yapısı bunu destekliyor: elli ayetin hiçbir yerinde 
 
 ## 77/16-18 — Üç delilin birincisi: tarih
 
-أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ ۝ ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ ۝ كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
+أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ · ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ · كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
 
 *E lem nühliki'l-evvelîn · Sümme nütbiuhümü'l-âhirîn · Kezâlike nef'alü bi'l-mücrimîn*
 
@@ -1293,7 +1293,7 @@ Yani bölüm zamansız bir kuralla bitiyor, nakarat o kuralı belirli bir güne 
 
 ## 77/20-23 — Üç delilin ikincisi: beden
 
-أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ ۝ فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ ۝ إِلَىٰ قَدَرٍ مَّعْلُومٍ ۝ فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ
+أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ · فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ · إِلَىٰ قَدَرٍ مَّعْلُومٍ · فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ
 
 *E lem nahlukküm min mâin mehîn · Fe-cealnâhü fî karârin mekîn · İlâ kaderin ma'lûm · Fe-kadernâ fe-ni'me'l-kādirûn*
 
@@ -1467,7 +1467,7 @@ Konumun anlamı: bölüm *"ne güzel ölçenleriz"* diye bitti — bir yeterlili
 
 ## 77/25-26 — Üç delilin üçüncüsü: yer
 
-أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا ۝ أَحْيَآءً وَأَمْوَٰتًا
+أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا · أَحْيَآءً وَأَمْوَٰتًا
 
 *E lem nec'ali'l-arda kifâtâ · Ahyâen ve emvâtâ*
 "Yeryüzünü bir toplayıcı kılmadık mı — dirileri de ölüleri de?"
@@ -1736,7 +1736,7 @@ Bunu bir lafız simetrisi olarak kaydediyorum.
 
 ---
 
-## 77/30-31 — ٱنطَلِقُوٓاْ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ ۝ لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ
+## 77/30-31 — ٱنطَلِقُوٓاْ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ · لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ
 
 *İntalikū ilâ zıllin zî selâsi şuab · Lâ zalîlin ve lâ yuğnî mine'l-leheb*
 
@@ -1873,7 +1873,7 @@ Ateşin dumanına sığınmak, ateşten kaçmak değildir. Bunu kendi okumam ola
 
 ---
 
-## 77/32-33 — إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ ۝ كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ
+## 77/32-33 — إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ · كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ
 
 *İnnehâ termî bi-şererin ke'l-kasr · Ke-ennehû cimâletün sufr*
 
@@ -1986,7 +1986,7 @@ Ve tam ortada: on nakaratın beşincisi. Sûrenin 50 ayetinin 34. ayeti; ama nak
 
 ---
 
-## 77/35-36 — هَٰذَا يَوْمُ لَا يَنطِقُونَ ۝ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+## 77/35-36 — هَٰذَا يَوْمُ لَا يَنطِقُونَ · وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
 
 *Hâzâ yevmü lâ yentıkūn · Ve lâ yü'zenü lehüm fe-ya'tezirûn*
 
@@ -2163,7 +2163,7 @@ O gün konuşan taraf ile konuşamayan taraf, bu iki ayetlik geçişte ayrılıy
 
 ---
 
-## 77/38-39 — هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ ۝ فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+## 77/38-39 — هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ · فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
 
 *Hâzâ yevmü'l-fasl · Cema'nâküm ve'l-evvelîn · Fe-in kâne leküm keydün fe-kîdûn*
 
@@ -2277,7 +2277,7 @@ Yedinci nakarat. Toplanma ve meydan okuma sahnesinin ardından.
 
 ---
 
-## 77/41-42 — إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ ۝ وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
+## 77/41-42 — إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ · وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
 
 *İnne'l-müttekīne fî zılâlin ve uyûn · Ve fevâkihe mimmâ yeştehûn*
 
@@ -2375,7 +2375,7 @@ Bu, sûrenin bir başka yerindeki ölçüyle karşıtlık kuruyor. Cehennem tabl
 
 ---
 
-## 77/43-44 — كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ ۝ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+## 77/43-44 — كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ · إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
 *Külû ve'şrabû henîen bimâ küntüm ta'melûn · İnnâ kezâlike neczi'l-muhsinîn*
 

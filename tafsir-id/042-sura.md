@@ -242,7 +242,7 @@ Bantahan lawan bicara — bantahan yang dihadapi surah ini — adalah bantahan b
 
 ---
 
-## 42/4 — لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+## 42/4 — لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
 
 *Lahū mā fis-samāwāti wa mā fil-arḍ, wa huwal-ʻaliyyul-ʻaẓīm*
 
@@ -278,7 +278,7 @@ Bantahan lawan bicara — bantahan yang dihadapi surah ini — adalah bantahan b
 
 ---
 
-## 42/5 — تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+## 42/5 — تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 
 *Takādus-samāwātu yatafaṭṭarna min fauqihinna, wal-malāʼikatu yusabbiḥūna biḥamdi rabbihim wa yastagfirūna liman fil-arḍ; alā innallāha huwal-gafūrur-raḥīm*
 
@@ -426,7 +426,7 @@ Tempat yang paling sering dijatuhi orang yang yakin bahwa ia mengetahui sesuatu 
 
 ---
 
-## 42/7 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
+## 42/7 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
 
 *Wa każālika auḥainā ilaika qurʼānan ʻarabiyyan litunżira ummal-qurā wa man ḥaulahā wa tunżira yaumal-jamʻi lā raiba fīh; farīqun fil-jannati wa farīqun fis-saʻīr*
 
@@ -552,7 +552,7 @@ Tempat yang paling sering dijatuhi orang yang yakin bahwa ia mengetahui sesuatu 
 
 ---
 
-## 42/8 — وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
+## 42/8 — وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ
 
 *Wa lau syāʼallāhu lajaʻalahum ummataw wāḥidataw wa lākiy yudkhilu may yasyāʼu fī raḥmatih; waẓ-ẓālimūna mā lahum miw waliyyiw wa lā naṣīr*
 
@@ -606,7 +606,7 @@ Tempat yang paling sering dijatuhi orang yang yakin bahwa ia mengetahui sesuatu 
 
 ---
 
-## 42/9 — أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+## 42/9 — أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Amittakhażū min dūnihī auliyāʼ, fallāhu huwal-waliyyu wa huwa yuḥyil-mautā wa huwa ʻalā kulli syaiʼin qadīr*
 
@@ -657,7 +657,7 @@ Tempat yang paling sering dijatuhi orang yang yakin bahwa ia mengetahui sesuatu 
 
 ---
 
-## 42/10 — وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
+## 42/10 — وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
 
 *Wa makhtalaftum fīhi min syaiʼin fa ḥukmuhū ilallāh; żālikumullāhu rabbī ʻalaihi tawakkaltu wa ilaihi unīb*
 
@@ -721,7 +721,7 @@ Tempat yang paling sering dijatuhi orang yang yakin bahwa ia mengetahui sesuatu 
 
 ---
 
-## 42/11 — فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا ۖ يَذْرَؤُكُمْ فِيهِ ۚ لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+## 42/11 — فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
 
 *Fāṭirus-samāwāti wal-arḍ; jaʻala lakum min anfusikum azwājaw wa minal-anʻāmi azwājā; yażraʼukum fīh; laisa kamiṡlihī syaiʼ; wa huwas-samīʻul-baṣīr*
 
@@ -906,7 +906,7 @@ Manusia mengenali apa yang tidak dikenalnya dengan menyerupakannya kepada apa ya
 
 ---
 
-## 42/12 — لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ
+## 42/12 — لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Lahū maqālīdus-samāwāti wal-arḍ; yabsuṭur-rizqa limay yasyāʼu wa yaqdir; innahū bikulli syaiʼin ʻalīm*
 
@@ -966,7 +966,7 @@ Manusia mengenali apa yang tidak dikenalnya dengan menyerupakannya kepada apa ya
 
 ---
 
-## 42/13 — شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
+## 42/13 — شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 
 *Syaraʻa lakum minad-dīni mā waṣṣā bihī Nūḥaw wallażī auḥainā ilaika wa mā waṣṣainā bihī Ibrāhīma wa Mūsā wa ʻĪsā, an aqīmud-dīna wa lā tatafarraqū fīh; kabura ʻalal-musyrikīna mā tadʻūhum ilaih; Allāhu yajtabī ilaihi may yasyāʼu wa yahdī ilaihi may yunīb*
 
@@ -1140,7 +1140,7 @@ Kesan yang dipikul kata *syarīʻah* pada hari ini adalah "himpunan aturan". **A
 
 ---
 
-## 42/14 — وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
+## 42/14 — وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
 
 *Wa mā tafarraqū illā mim baʻdi mā jāʼahumul-ʻilmu bagyam bainahum; wa lau lā kalimatun sabaqat mir rabbika ilā ajalim musamman laquḍiya bainahum; wa innallażīna ūriṡul-kitāba mim baʻdihim lafī syakkim minhu murīb*
 
@@ -1261,7 +1261,7 @@ Kesan yang dipikul kata *syarīʻah* pada hari ini adalah "himpunan aturan". **A
 
 ---
 
-## 42/15 — فَلِذَٰلِكَ فَٱدْعُ ۖ وَٱسْتَقِمْ كَمَآ أُمِرْتَ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ ۖ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ ۖ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ ۖ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ ۖ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ۖ ٱللَّهُ يَجْمَعُ بَيْنَنَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
+## 42/15 — فَلِذَٰلِكَ فَٱدْعُ وَٱسْتَقِمْ كَمَآ أُمِرْتَ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَقُلْ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٍ وَأُمِرْتُ لِأَعْدِلَ بَيْنَكُمُ ٱللَّهُ رَبُّنَا وَرَبُّكُمْ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ لَا حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ ٱللَّهُ يَجْمَعُ بَيْنَنَا وَإِلَيْهِ ٱلْمَصِيرُ
 
 *Fa liżālika fadʻu wastaqim kamā umirt; wa lā tattabiʻ ahwāʼahum; wa qul āmantu bimā anzalallāhu min kitāb; wa umirtu liaʻdila bainakum; Allāhu rabbunā wa rabbukum; lanā aʻmālunā wa lakum aʻmālukum; lā ḥujjata bainanā wa bainakum; Allāhu yajmaʻu bainanā; wa ilaihil-maṣīr*
 
@@ -1440,7 +1440,7 @@ Mengetahui pada titik mana sebuah perdebatan harus ditinggalkan lebih sulit dari
 
 ---
 
-## 42/17 — ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ ۗ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ
+## 42/17 — ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ
 
 *Allāhullażī anzalal-kitāba bil-ḥaqqi wal-mīzān; wa mā yudrīka laʻallas-sāʻata qarīb*
 
@@ -1513,7 +1513,7 @@ Mengetahui pada titik mana sebuah perdebatan harus ditinggalkan lebih sulit dari
 
 ---
 
-## 42/18 — يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا ۖ وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ ۗ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ
+## 42/18 — يَسْتَعْجِلُ بِهَا ٱلَّذِينَ لَا يُؤْمِنُونَ بِهَا وَٱلَّذِينَ ءَامَنُوا۟ مُشْفِقُونَ مِنْهَا وَيَعْلَمُونَ أَنَّهَا ٱلْحَقُّ أَلَآ إِنَّ ٱلَّذِينَ يُمَارُونَ فِى ٱلسَّاعَةِ لَفِى ضَلَٰلٍۭ بَعِيدٍ
 
 *Yastaʻjilu bihallażīna lā yuʼminūna bihā; wallażīna āmanū musyfiqūna minhā wa yaʻlamūna annahal-ḥaqq; alā innallażīna yumārūna fis-sāʻati lafī ḍalālim baʻīd*
 
@@ -1564,7 +1564,7 @@ Mengetahui pada titik mana sebuah perdebatan harus ditinggalkan lebih sulit dari
 
 ---
 
-## 42/19 — ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
+## 42/19 — ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ
 
 *Allāhu laṭīfum biʻibādihī yarzuqu may yasyāʼ; wa huwal-qawiyyul-ʻazīz*
 
@@ -1610,7 +1610,7 @@ Mengetahui pada titik mana sebuah perdebatan harus ditinggalkan lebih sulit dari
 
 ---
 
-## 42/20 — مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
+## 42/20 — مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
 
 *Man kāna yurīdu ḥarṡal-ākhirati nazid lahū fī ḥarṡih; wa man kāna yurīdu ḥarṡad-dunyā nuʼtihī minhā wa mā lahū fil-ākhirati min naṣīb*
 
@@ -1737,7 +1737,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/21 — أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ ۚ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ ۗ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+## 42/21 — أَمْ لَهُمْ شُرَكَٰٓؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّينِ مَا لَمْ يَأْذَنۢ بِهِ ٱللَّهُ وَلَوْلَا كَلِمَةُ ٱلْفَصْلِ لَقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 *Am lahum syurakāʼu syaraʻū lahum minad-dīni mā lam yaʼżam bihillāh; wa lau lā kalimatul-faṣli laquḍiya bainahum; wa innaẓ-ẓālimīna lahum ʻażābun alīm*
 
@@ -1785,7 +1785,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/22 — تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ ۗ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ ۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
+## 42/22 — تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
 *Taraẓ-ẓālimīna musyfiqīna mimmā kasabū wa huwa wāqiʻum bihim; wallażīna āmanū wa ʻamiluṣ-ṣāliḥāti fī rauḍātil-jannāt; lahum mā yasyāʼūna ʻinda rabbihim; żālika huwal-faḍlul-kabīr*
 
@@ -1829,7 +1829,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/23 — ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ ۗ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا ۚ إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ
+## 42/23 — ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ
 
 *Żālikallażī yubasysyirullāhu ʻibādahullażīna āmanū wa ʻamiluṣ-ṣāliḥāt; qul lā asʼalukum ʻalaihi ajran illal-mawaddata fil-qurbā; wa may yaqtarif ḥasanatan nazid lahū fīhā ḥusnā; innallāha gafūrun syakūr*
 
@@ -1960,7 +1960,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/24 — أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 42/24 — أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Am yaqūlūnaftarā ʻalallāhi każibā; fa iy yasyaʼillāhu yakhtim ʻalā qalbik; wa yamḥullāhul-bāṭila wa yuḥiqqul-ḥaqqa bikalimātih; innahū ʻalīmum biżātiṣ-ṣudūr*
 
@@ -2068,7 +2068,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/26 — وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ ۚ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
+## 42/26 — وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ
 
 *Wa yastajībullażīna āmanū wa ʻamiluṣ-ṣāliḥāti wa yazīduhum min faḍlih; wal-kāfirūna lahum ʻażābun syadīd*
 
@@ -2116,7 +2116,7 @@ Pembedaan yang ditegakkan ayat ini bukanlah "dunia buruk, akhirat baik"; **kedua
 
 ---
 
-## 42/27 — وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ ۚ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
+## 42/27 — وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
 
 *Wa lau basaṭallāhur-rizqa liʻibādihī labagau fil-arḍ; wa lākiy yunazzilu biqadarim mā yasyāʼ; innahū biʻibādihī khabīrum baṣīr*
 
@@ -2209,7 +2209,7 @@ Hal ini dikatakan bukan sebagai sebuah kaidah akhlak, melainkan sebagai sebuah *
 
 ---
 
-## 42/28 — وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ ۚ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
+## 42/28 — وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ وَهُوَ ٱلْوَلِىُّ ٱلْحَمِيدُ
 
 *Wa huwallażī yunazzilul-gaiṡa mim baʻdi mā qanaṭū wa yansyuru raḥmatah; wa huwal-waliyyul-ḥamīd*
 
@@ -2277,7 +2277,7 @@ Hal ini dikatakan bukan sebagai sebuah kaidah akhlak, melainkan sebagai sebuah *
 
 ---
 
-## 42/29 — وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
+## 42/29 — وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
 
 *Wa min āyātihī khalqus-samāwāti wal-arḍi wa mā baṡṡa fīhimā min dābbah; wa huwa ʻalā jamʻihim iżā yasyāʼu qadīr*
 
@@ -2438,7 +2438,7 @@ Ayat ini membuka sebuah pintu bagi seseorang untuk memperhitungkan keadaan **dir
 
 ---
 
-## 42/31 — وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ ۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
+## 42/31 — وَمَآ أَنتُم بِمُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
 
 *Wa mā antum bimuʻjizīna fil-arḍ; wa mā lakum min dūnillāhi miw waliyyiw wa lā naṣīr*
 
@@ -2511,7 +2511,7 @@ Ayat ini membuka sebuah pintu bagi seseorang untuk memperhitungkan keadaan **dir
 
 ---
 
-## 42/33 — إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+## 42/33 — إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
 
 *Iy yasyaʼ yuskinir-rīḥa fa yaẓlalna rawākida ʻalā ẓahrih; inna fī żālika laāyātil likulli ṣabbārin syakūr*
 
@@ -2677,7 +2677,7 @@ Kata *wa yaʻlama* datang dalam keadaan **manṣūb** dan ini adalah titik yang 
 
 ---
 
-## 42/36 — فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
+## 42/36 — فَمَآ أُوتِيتُم مِّن شَىْءٍ فَمَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا عِندَ ٱللَّهِ خَيْرٌ وَأَبْقَىٰ لِلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 
 *Famā ūtītum min syaiʼin famatāʻul-ḥayātid-dunyā; wa mā ʻindallāhi khairuw wa abqā lillażīna āmanū wa ʻalā rabbihim yatawakkalūn*
 
@@ -2996,7 +2996,7 @@ Kata *wa yaʻlama* datang dalam keadaan **manṣūb** dan ini adalah titik yang 
 
 ---
 
-## 42/40 — وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+## 42/40 — وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 
 *Wa jazāʼu sayyiʼatin sayyiʼatum miṡluhā; fa man ʻafā wa aṣlaḥa fa ajruhū ʻalallāh; innahū lā yuḥibbuẓ-ẓālimīn*
 
@@ -3119,7 +3119,7 @@ Kata *wa yaʻlama* datang dalam keadaan **manṣūb** dan ini adalah titik yang 
 
 ---
 
-## 42/42 — إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ
+## 42/42 — إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ
 
 *Innamas-sabīlu ʻalallażīna yaẓlimūnan-nāsa wa yabgūna fil-arḍi bigairil-ḥaqq; ulāʼika lahum ʻażābun alīm*
 
@@ -3256,7 +3256,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/44 — وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ ۗ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ
+## 42/44 — وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن وَلِىٍّ مِّنۢ بَعْدِهِۦ وَتَرَى ٱلظَّٰلِمِينَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ يَقُولُونَ هَلْ إِلَىٰ مَرَدٍّ مِّن سَبِيلٍ
 
 *Wa may yuḍlilillāhu famā lahū miw waliyyim mim baʻdih; wa taraẓ-ẓālimīna lammā raʼawul-ʻażāba yaqūlūna hal ilā maraddim min sabīl*
 
@@ -3287,7 +3287,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/45 — وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ ۗ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ ۗ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ
+## 42/45 — وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ
 
 *Wa tarāhum yuʻraḍūna ʻalaihā khāsyiʻīna minaż-żulli yanẓurūna min ṭarfin khafiyy; wa qālallażīna āmanū innal-khāsirīnallażīna khasirū anfusahum wa ahlīhim yaumal-qiyāmah; alā innaẓ-ẓālimīna fī ʻażābim muqīm*
 
@@ -3341,7 +3341,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/46 — وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
+## 42/46 — وَمَا كَانَ لَهُم مِّنْ أَوْلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ
 
 *Wa mā kāna lahum min auliyāʼa yanṣurūnahum min dūnillāh; wa may yuḍlilillāhu famā lahū min sabīl*
 
@@ -3373,7 +3373,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/47 — ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ ۚ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ
+## 42/47 — ٱسْتَجِيبُوا۟ لِرَبِّكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا مَرَدَّ لَهُۥ مِنَ ٱللَّهِ مَا لَكُم مِّن مَّلْجَإٍ يَوْمَئِذٍ وَمَا لَكُم مِّن نَّكِيرٍ
 
 *Istajībū lirabbikum min qabli ay yaʼtiya yaumul lā maradda lahū minallāh; mā lakum mim maljaʼiy yaumaʼiżiw wa mā lakum min nakīr*
 
@@ -3417,7 +3417,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/48 — فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَٰنَ كَفُورٌ
+## 42/48 — فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا إِنْ عَلَيْكَ إِلَّا ٱلْبَلَٰغُ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَٰنَ كَفُورٌ
 
 *Fa in aʻraḍū famā arsalnāka ʻalaihim ḥafīẓā; in ʻalaika illal-balāg; wa innā iżā ażaqnal-insāna minnā raḥmatan fariḥa bihā; wa in tuṣibhum sayyiʼatum bimā qaddamat aidīhim fa innal-insāna kafūr*
 
@@ -3488,7 +3488,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/49-50 — لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَخْلُقُ مَا يَشَآءُ ۚ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ · أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا ۖ وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا ۚ إِنَّهُۥ عَلِيمٌ قَدِيرٌ
+## 42/49-50 — لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ · أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ
 
 *Lillāhi mulkus-samāwāti wal-arḍ; yakhluqu mā yasyāʼ; yahabu limay yasyāʼu ināṡaw wa yahabu limay yasyāʼuż-żukūr · Au yuzawwijuhum żukrānaw wa ināṡā; wa yajʻalu may yasyāʼu ʻaqīmā; innahū ʻalīmun qadīr*
 
@@ -3612,7 +3612,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/51 — وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ ۚ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+## 42/51 — وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
 
 *Wa mā kāna libasyarin ay yukallimahullāhu illā waḥyan au miw warāʼi ḥijābin au yursila rasūlan fayūḥiya biiżnihī mā yasyāʼ; innahū ʻaliyyun ḥakīm*
 
@@ -3697,7 +3697,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/52 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+## 42/52 — وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
 *Wa każālika auḥainā ilaika rūḥam min amrinā; mā kunta tadrī mal-kitābu wa lal-īmān; wa lākin jaʻalnāhu nūran nahdī bihī man nasyāʼu min ʻibādinā; wa innaka latahdī ilā ṣirāṭim mustaqīm*
 
@@ -3853,7 +3853,7 @@ Nasihat yang diberikan kepada orang yang dizalimi pada umumnya jatuh ke salah sa
 
 ---
 
-## 42/53 — صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ
+## 42/53 — صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ
 
 *Ṣirāṭillāhillażī lahū mā fis-samāwāti wa mā fil-arḍ; alā ilallāhi taṣīrul-umūr*
 

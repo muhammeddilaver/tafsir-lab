@@ -1106,7 +1106,7 @@ Yakni surah ini memakai tiga akar yang berkaitan dengan tulisan, dan dua di anta
 
 ---
 
-## 83/14 — كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
+## 83/14 — كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
 
 *Kallā bal rāna ʻalā qulūbihim mā kānū yaksibūn*
 "Tidak! Sebenarnya apa yang selalu mereka usahakan itu telah menyelimuti hati mereka."

@@ -43,7 +43,7 @@ And one thing more: **at the centre of the sūra there is a scene of hospitality
 
 ## 51/1-4 — Four oaths
 
-وَٱلذَّٰرِيَٰتِ ذَرْوًا ۝ فَٱلْحَٰمِلَٰتِ وِقْرًا ۝ فَٱلْجَٰرِيَٰتِ يُسْرًا ۝ فَٱلْمُقَسِّمَٰتِ أَمْرًا
+وَٱلذَّٰرِيَٰتِ ذَرْوًا · فَٱلْحَٰمِلَٰتِ وِقْرًا · فَٱلْجَٰرِيَٰتِ يُسْرًا · فَٱلْمُقَسِّمَٰتِ أَمْرًا
 
 *Wa'l-dhāriyāti dharwā · fa'l-ḥāmilāti wiqrā · fa'l-jāriyāti yusrā · fa'l-muqassimāti amrā*
 
@@ -238,7 +238,7 @@ I present this as the application in this sūra of the link commonly built in th
 
 ---
 
-## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ ۝ وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
+## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ · وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
 
 *Innamā tūʿadūna la-ṣādiq · Wa inna'l-dīna la-wāqiʿ*
 "What you are promised is surely true. And the reckoning will surely come to pass."
@@ -382,7 +382,7 @@ I record this as my own reading. But the wordings of the two verses were given a
 
 ---
 
-## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ ۝ يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ · يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
 
 *Innakum la-fī qawlin mukhtalif · Yuʾfaku ʿanhu man ufik*
 "You are indeed in a contradictory word. Turned away from it is whoever has been turned."
@@ -442,7 +442,7 @@ The first is the more widespread. **I do not impose a preference**; but the firs
 
 ---
 
-## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ ۝ ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
+## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ · ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
 
 *Qutila'l-kharrāṣūn · Alladhīna hum fī ghamratin sāhūn*
 "Perish those guessers! They are heedless within an engulfing flood."
@@ -591,7 +591,7 @@ The question says "which day?"; the answer says "that day", but defines the day 
 
 ---
 
-## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ ۝ ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ · ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
 *Yawma hum ʿala'l-nāri yuftanūn · Dhūqū fitnatakum; hādha'lladhī kuntum bihi tastaʿjilūn*
 "The day when they are tested over the fire. 'Taste your testing! This is what you kept asking to be hastened.'"
@@ -660,7 +660,7 @@ This builds a circle with the sūra's last verse. In the fifty-ninth verse the s
 
 ---
 
-## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ ۝ ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
+## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ · ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
 
 *Inna'l-muttaqīna fī jannātin wa ʿuyūn · Ākhidhīna mā ātāhum rabbuhum; innahum kānū qabla dhālika muḥsinīn*
 "The God-fearing are in gardens and springs — taking what their Lord has given them. Before this they were doers of good."
@@ -742,7 +742,7 @@ This sūra adds one more place to that list — and the pair here is built not o
 
 ---
 
-## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ ۝ وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ · وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
 
 *Kānū qalīlan mina'l-layli mā yahjaʿūn · Wa bi'l-asḥāri hum yastaghfirūn*
 "They slept little of the night. And in the last hours before dawn they asked forgiveness."
@@ -947,7 +947,7 @@ And this detail stands in the text too: the third item does not tie what is give
 
 ---
 
-## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ ۝ وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
+## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ · وَفِىٓ أَنفُسِكُمْ أَفَلَا تُبْصِرُونَ
 
 *Wa fi'l-arḍi āyātun li'l-mūqinīn · Wa fī anfusikum; a-fa-lā tubṣirūn*
 "In the earth there are signs for those who have come to certainty. And in yourselves too. Do you still not see?"
@@ -1116,7 +1116,7 @@ I record this as an application; I state that the verse lays down a diagnosis, a
 
 ---
 
-## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ ۝ فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
+## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ · فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
 
 *Wa fi'l-samāʾi rizqukum wa mā tūʿadūn · Fa-wa-rabbi'l-samāʾi wa'l-arḍi innahū la-ḥaqqun mithla mā annakum tanṭiqūn*
 "In the sky is your provision, and what you are promised. By the Lord of the sky and the earth, this is as true as that you are speaking."
@@ -1216,7 +1216,7 @@ I record this as my own reading. But that there is only one verse between the tw
 
 ---
 
-## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ ۝ إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا ۖ قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
+## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ · إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
 
 *Hal atāka ḥadīthu ḍayfi Ibrāhīma'l-mukramīn · Idh dakhalū ʿalayhi fa-qālū salāmā; qāla salāmun qawmun munkarūn*
 "Has the account of Abraham's honoured guests come to you? They had entered upon him and said 'Peace'. And he said 'Peace' — 'a people not known.'"
@@ -1316,7 +1316,7 @@ I record this as an observation about the structure; the verse lays down no rule
 
 ---
 
-## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ ۝ فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ · فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
 
 *Fa-rāgha ilā ahlihi fa-jāʾa bi-ʿijlin samīn · Fa-qarrabahu ilayhim; qāla a-lā taʾkulūn*
 "Then he slipped away quietly to his household and brought a fatted calf. He put it near them and said, 'Will you not eat?'"
@@ -1383,7 +1383,7 @@ I record this as historical background; this side of the Arab tradition of hospi
 
 ---
 
-## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
 
 *Fa-awjasa minhum khīfa; qālū lā takhaf; wa bashsharūhu bi-ghulāmin ʿalīm*
 "A fear of them came upon him from within. 'Do not be afraid,' they said. And they gave him good news of a knowing son."
@@ -1466,7 +1466,7 @@ I record this as a reading drawn from the comparison of the two texts.
 
 ---
 
-## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ ۝ قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ · قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 
 *Fa-aqbalati'mraʾatuhu fī ṣarratin fa-ṣakkat wajhahā wa qālat ʿajūzun ʿaqīm · Qālū kadhāliki qāla rabbuk; innahū huwa'l-ḥakīmu'l-ʿalīm*
 "Then his wife came forward with a cry, struck her face and said, 'A barren old woman!' 'So your Lord has said,' they replied. 'He is the Wise, the Knowing.'"
@@ -1599,7 +1599,7 @@ The answer, that is, meets the two supports of the objection with two names: "yo
 
 ---
 
-## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ ۝ قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ ۝ لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ ۝ مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
+## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ · قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ · لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ · مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
 *Qāla fa-mā khaṭbukum ayyuha'l-mursalūn · Qālū innā ursilnā ilā qawmin mujrimīn · Li-nursila ʿalayhim ḥijāratan min ṭīn · Musawwamatan ʿinda rabbika li'l-musrifīn*
 "'What is your business, then, O messengers?' he said. 'We have been sent to a guilty people,' they said — 'to loose upon them stones of clay; stones marked in your Lord's presence for those who go beyond all bounds.'"
@@ -1709,7 +1709,7 @@ The two words say two different things: one **the breaking of a bond**, the othe
 
 ---
 
-## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ ۝ فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ ۝ وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
+## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ · فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ · وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
 
 *Fa-akhrajnā man kāna fīhā mina'l-muʾminīn · Fa-mā wajadnā fīhā ghayra baytin mina'l-muslimīn · Wa taraknā fīhā āyatan li'lladhīna yakhāfūna'l-ʿadhāba'l-alīm*
 "We brought out those of the believers who were in it. And We found in it but one household of those who submit. And We left in it a sign for those who fear the painful punishment."
@@ -1806,7 +1806,7 @@ The sentence "We left a sign", that is, is a claim the one addressed can verify.
 
 ---
 
-## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ ۝ فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ ۝ فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
+## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ · فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ · فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
 
 *Wa fī Mūsā idh arsalnāhu ilā Firʿawna bi-sulṭānin mubīn · Fa-tawallā bi-ruknihi wa qāla sāḥirun aw majnūn · Fa-akhadhnāhu wa junūdahu fa-nabadhnāhum fi'l-yammi wa huwa mulīm*
 "And in Moses too — when We sent him to Pharaoh with a clear authority. But he turned away with his pillar of strength and said, 'A magician, or a madman.' So We seized him and his hosts and cast them into the sea; and he had brought blame upon himself."
@@ -1944,7 +1944,7 @@ The same root, two opposite positions. I record this as a link within the sūra;
 
 ---
 
-## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ۝ مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
+## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ · مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
 
 *Wa fī ʿĀdin idh arsalnā ʿalayhimu'l-rīḥa'l-ʿaqīm · Mā tadharu min shayʾin atat ʿalayhi illā jaʿalathu ka'l-ramīm*
 "And in ʿĀd too — when We sent against them the barren wind. It left nothing it came upon without making it like crumbled bone."
@@ -2010,7 +2010,7 @@ I record this as my own reading; the verse says nothing of duration, but at al-�
 
 ---
 
-## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ ۝ فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ ۝ فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
+## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ · فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ · فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
 
 *Wa fī Thamūda idh qīla lahum tamattaʿū ḥattā ḥīn · Fa-ʿataw ʿan amri rabbihim fa-akhadhat-humu'l-ṣāʿiqatu wa hum yanẓurūn · Fa-ma'staṭāʿū min qiyāmin wa mā kānū muntaṣirīn*
 "And in Thamūd too — when it was said to them, 'Enjoy yourselves for a while.' They grew insolent against their Lord's command; and the thunderbolt seized them while they looked on. They could neither rise to their feet nor save themselves."
@@ -2120,7 +2120,7 @@ This sets up a parallel with Pharaoh in the thirty-ninth verse: there he had act
 
 ---
 
-## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
 
 *Wa qawma Nūḥin min qabl; innahum kānū qawman fāsiqīn*
 "And before them the people of Noah. They were a people who had strayed from the way."
@@ -2485,7 +2485,7 @@ This is a record that comes against the claim from within the verse itself, and 
 
 ---
 
-## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ ۝ وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ · وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
 
 *Fa-firrū ila'llāh; innī lakum minhu nadhīrun mubīn · Wa lā tajʿalū maʿa'llāhi ilāhan ākhar; innī lakum minhu nadhīrun mubīn*
 "So flee to God. I am to you a clear warner from Him. And do not set up another god alongside God. I am to you a clear warner from Him."
@@ -2558,7 +2558,7 @@ The phrase "a clear warner", that is, says two things: the warning is intelligib
 
 ---
 
-## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ ۝ أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ
+## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ · أَتَوَاصَوْا۟ بِهِۦ بَلْ هُمْ قَوْمٌ طَاغُونَ
 
 *Kadhālika mā ata'lladhīna min qablihim min rasūlin illā qālū sāḥirun aw majnūn · A-tawāṣaw bih; bal hum qawmun ṭāghūn*
 "So it is: no messenger came to those before them but they said, 'A magician, or a madman.' Did they enjoin this on one another? No — they are an insolent people."
@@ -2623,7 +2623,7 @@ The sentence does this, that is: it rejects the question asked and sets down **t
 
 ---
 
-## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ ۝ وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ · وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
 
 *Fa-tawalla ʿanhum fa-mā anta bi-malūm · Wa dhakkir fa-inna'l-dhikrā tanfaʿu'l-muʾminīn*
 "So turn away from them; you are not to be blamed. And remind; for the reminder profits the believers."
@@ -2821,7 +2821,7 @@ I record this as an application of the verse, not as the verse's claim.
 
 ---
 
-## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ ۝ إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
+## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ · إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
 
 *Mā urīdu minhum min rizqin wa mā urīdu an yuṭʿimūn · Inna'llāha huwa'l-Razzāqu dhu'l-quwwati'l-matīn*
 "I want no provision from them; nor do I want them to feed Me. It is God who is the Provider, the possessor of strength, the firm."
@@ -2916,7 +2916,7 @@ The sūra opens with a work, states the object of the work at its middle, and at
 
 ---
 
-## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ ۝ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
+## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ · فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
 
 *Fa-inna li'lladhīna ẓalamū dhanūban mithla dhanūbi aṣḥābihim fa-lā yastaʿjilūn · Fa-waylun li'lladhīna kafarū min yawmihimu'lladhī yūʿadūn*
 "For those who do wrong there is a share like the share of their fellows. So let them not ask for haste. And woe to those who deny, because of the day they are promised!"

@@ -78,7 +78,7 @@ The word-by-word analysis of the basmala was made in Sūrat al-Fātiḥa; I do n
 
 ---
 
-## 63/1 — إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
+## 63/1 — إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
 
 *Idhā jāʾaka'l-munāfiqūna qālū nashhadu innaka la-rasūlu'llāh. Wa'llāhu yaʿlamu innaka la-rasūluh, wa'llāhu yashhadu inna'l-munāfiqīna la-kādhibūn*
 
@@ -183,7 +183,7 @@ The measure the verse sets down is not the content of the word but **the bond th
 
 ---
 
-## 63/2 — اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+## 63/2 — اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
 
 *Ittakhadhū aymānahum junnatan fa-ṣaddū ʿan sabīli'llāh. Innahum sāʾa mā kānū yaʿmalūn*
 
@@ -370,7 +370,7 @@ And the fourth verse will relate **how all this looks from outside**. The sūra 
 
 ---
 
-## 63/4 — وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+## 63/4 — وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ أَنَّىٰ يُؤْفَكُونَ
 
 *Wa idhā raʾaytahum tuʿjibuka ajsāmuhum, wa in yaqūlū tasmaʿ li-qawlihim. Ka-annahum khushubun musannada, yaḥsabūna kulla ṣayḥatin ʿalayhim. Humu'l-ʿaduwwu fa'ḥdharhum, qātalahumu'llāh, annā yuʾfakūn*
 
@@ -714,7 +714,7 @@ Arrogance blocks exactly this: the admission of a need.
 
 ---
 
-## 63/6 — سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+## 63/6 — سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 
 *Sawāʾun ʿalayhim astaghfarta lahum am lam tastaghfir lahum lan yaghfira'llāhu lahum. Inna'llāha lā yahdi'l-qawma'l-fāsiqīn*
 
@@ -799,7 +799,7 @@ And here too the same balance holds: the withholding of guidance is placed **aft
 
 ---
 
-## 63/7 — هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
+## 63/7 — هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
 
 *Humu'lladhīna yaqūlūna lā tunfiqū ʿalā man ʿinda rasūli'llāhi ḥattā yanfaḍḍū. Wa li'llāhi khazāʾinu's-samāwāti wa'l-arḍ, wa lākinna'l-munāfiqīna lā yafqahūn*
 
@@ -920,7 +920,7 @@ This is connected with the sūra's next verse too. There as well there will be a
 
 ---
 
-## 63/8 — يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
+## 63/8 — يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
 
 *Yaqūlūna la-in rajaʿnā ila'l-Madīnati la-yukhrijanna'l-aʿazzu minha'l-adhall. Wa li'llāhi'l-ʿizzatu wa li-rasūlihi wa li'l-muʾminīna wa lākinna'l-munāfiqīna lā yaʿlamūn*
 
@@ -1039,7 +1039,7 @@ As a way of framing an argument this is striking. The verse does not enter into 
 
 ---
 
-## 63/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+## 63/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
 
 *Yā ayyuha'lladhīna āmanū lā tulhikum amwālukum wa lā awlādukum ʿan dhikri'llāh. Wa man yafʿal dhālika fa-ulāʾika humu'l-khāsirūn*
 
@@ -1311,7 +1311,7 @@ No special comment is needed for the present-day equivalent of this: we notice h
 
 ---
 
-## 63/11 — وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+## 63/11 — وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 *Wa lan yuʾakhkhira'llāhu nafsan idhā jāʾa ajaluhā, wa'llāhu khabīrun bimā taʿmalūn*
 

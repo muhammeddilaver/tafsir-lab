@@ -1193,7 +1193,7 @@ Ve *yevmeizin* (o gün) araya girerek bunu zaman bakımından da sabitliyor.
 
 ---
 
-## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
+## 69/17 — وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَٰنِيَةٌ
 
 *Ve'l-melekü alâ ercâihâ; ve yahmilü arşe rabbike fevkahum yevmeizin semâniye*
 "Melekler onun kenarlarındadır. O gün Rabbinin arşını, onların üstünde sekiz [varlık] taşır."
@@ -2462,7 +2462,7 @@ Bunu bir kelime gözlemi olarak kaydediyorum.
 
 ---
 
-## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+## 69/41-43 — وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ · وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ · تَنزِيلٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
 
 *Ve mâ hüve bi-kavli şâir; kalîlen mâ tü'minûn · Ve lâ bi-kavli kâhin; kalîlen mâ tezekkerûn · Tenzîlün min rabbi'l-âlemîn*
 "O bir şairin sözü değildir — ne kadar az inanıyorsunuz! Bir kâhinin sözü de değildir — ne kadar az düşünüyorsunuz! O, âlemlerin Rabbinden indirilmedir."

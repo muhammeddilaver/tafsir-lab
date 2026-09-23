@@ -100,9 +100,9 @@ That the two names stand at the opening of this sūra agrees with its content. *
 
 ---
 
-## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
+## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ · كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
 
-*Yā ayyuha'lladhīna āmanū lima taqūlūna mā lā tafʿalūn ۝ Kabura maqtan ʿindallāhi an taqūlū mā lā tafʿalūn*
+*Yā ayyuha'lladhīna āmanū lima taqūlūna mā lā tafʿalūn · Kabura maqtan ʿindallāhi an taqūlū mā lā tafʿalūn*
 
 "O you who believe! Why do you say what you will not do? That you say what you will not do is a cause of great anger/revulsion in the sight of God."
 

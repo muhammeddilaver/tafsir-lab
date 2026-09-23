@@ -472,9 +472,9 @@ Bir de mal ile bu görüntü arasındaki ilişki var. Elinde ağırlık taşıya
 
 ---
 
-## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ ۝ وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
+## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ · وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
 
-*İnne aleynâ le'l-hüdâ ۝ Ve inne lenâ le'l-âhirate ve'l-ûlâ*
+*İnne aleynâ le'l-hüdâ · Ve inne lenâ le'l-âhirate ve'l-ûlâ*
 "Doğru yolu göstermek elbette bize aittir. Âhiret de dünya da elbette bizimdir."
 
 Sûrenin ortasında, iki taraf tarif edildikten sonra gelen iki ilke cümlesi.
@@ -575,9 +575,9 @@ Bu, sûrenin genel mantığıyla uyumlu. Yedinci ve onuncu ayetlerde sonuçlar k
 
 ---
 
-## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى ۝ ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
+## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى · ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
 
-*Lâ yaslâhâ ille'l-eşkâ ۝ Ellezî kezzebe ve tevellâ*
+*Lâ yaslâhâ ille'l-eşkâ · Ellezî kezzebe ve tevellâ*
 "Ona en bedbaht olandan başkası girmez — o ki yalanladı ve yüz çevirdi."
 
 ### صَلِيَ — girmek, kavrulmak
@@ -628,9 +628,9 @@ Ve dikkat: dokuzuncu ayette de aynı fiil vardı — *"ve kezzebe bi'l-husnâ"*.
 
 ---
 
-## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى ۝ ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى · ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
 
-*Ve seyücennebühe'l-etkâ ۝ Ellezî yü'tî mâlehû yetezekkâ*
+*Ve seyücennebühe'l-etkâ · Ellezî yü'tî mâlehû yetezekkâ*
 "En çok korunan ise ondan uzak tutulacak — o ki malını verir, arınmak için."
 
 ### جَنَّبَ — yandan uzaklaştırmak
@@ -699,9 +699,9 @@ Ve burada sûre, Şems'e bağlanıyor.
 
 ---
 
-## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ ۝ إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ · إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
 
-*Ve mâ li-ehadin indehû min ni'metin tüczâ ۝ İlle'btiğâe vechi Rabbihi'l-a'lâ*
+*Ve mâ li-ehadin indehû min ni'metin tüczâ · İlle'btiğâe vechi Rabbihi'l-a'lâ*
 "Onun yanında hiç kimsenin karşılığı ödenecek bir nimeti yoktur — sadece yüce Rabbinin rızasını arayarak (verir)."
 
 Karşılıksız vermenin tanımı. Kur'an'da bu tanımın en yalın hali burada.
@@ -881,9 +881,9 @@ Bu okuma, rivayet doğru olmasa bile ayetin taşıdığı anlamı gösteriyor: *
 
 ```
 Yemin dizisi (kozmik)
-        ↓
+ ↓
 Ahlâkî ikilik (hüküm)
-        ↓
+ ↓
 İkiliğin gösterilmesi
 ```
 

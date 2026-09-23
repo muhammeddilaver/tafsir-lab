@@ -358,7 +358,7 @@ It is the second of the seven sūras that open with *Ḥā-mīm*.
 
 **The same pair had also occurred in verse 25 of this sūra** — there the *qarīns* made what was before them and what was behind them **seem fair.** **The same construction, in two different directions: the one the scope of the adorning, the other the scope of the protection.** This is a repetition that can be verified within the sūra.
 
-### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ
+### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَاعْجَمِىٌّ وَعَرَبِىٌّ
 
 "Had We made it a Qurʾān in **a foreign tongue**, they would certainly have said: '**If only its verses had been made distinct! A foreign tongue, and an Arab?**'"
 

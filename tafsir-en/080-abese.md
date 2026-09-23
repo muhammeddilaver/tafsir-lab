@@ -84,9 +84,9 @@ The word-by-word analysis of the basmala was made in Sūrat al-Fātiḥa; I do n
 
 ---
 
-## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ ۝ أَن جَآءَهُ ٱلْأَعْمَىٰ
+## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ · أَن جَآءَهُ ٱلْأَعْمَىٰ
 
-*ʿAbasa wa tawallā ۝ An jāʾahu'l-aʿmā*
+*ʿAbasa wa tawallā · An jāʾahu'l-aʿmā*
 "He frowned and turned away — because the blind man came to him."
 
 ### That it begins in the third person
@@ -210,9 +210,9 @@ This takes the sūra out of being a lesson in morals and makes it **a discussion
 
 ---
 
-## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
+## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ · أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
 
-*Wa mā yudrīka laʿallahu yazzakkā ۝ Aw yadhdhakkaru fa-tanfaʿahu'dh-dhikrā*
+*Wa mā yudrīka laʿallahu yazzakkā · Aw yadhdhakkaru fa-tanfaʿahu'dh-dhikrā*
 "What do you know — perhaps he will purify himself; or he will take the reminder, and the reminder will profit him."
 
 ### The question that has no answer
@@ -284,9 +284,9 @@ This is the sūra's quietest but most radical intervention: **a human being is c
 
 ---
 
-## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ ۝ فَأَنتَ لَهُۥ تَصَدَّىٰ ۝ وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ · فَأَنتَ لَهُۥ تَصَدَّىٰ · وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
 
-*Ammā mani'staghnā ۝ Fa-anta lahu taṣaddā ۝ Wa mā ʿalayka allā yazzakkā*
+*Ammā mani'staghnā · Fa-anta lahu taṣaddā · Wa mā ʿalayka allā yazzakkā*
 "As for the one who counts himself self-sufficient — you turn towards him. Yet his not purifying himself is not your responsibility."
 
 ### Word order: a division into two arms
@@ -356,9 +356,9 @@ This is a word said about the delivery of the message, but it settles into a far
 
 ---
 
-## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ ۝ وَهُوَ يَخْشَىٰ ۝ فَأَنتَ عَنْهُ تَلَهَّىٰ
+## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ · وَهُوَ يَخْشَىٰ · فَأَنتَ عَنْهُ تَلَهَّىٰ
 
-*Wa ammā man jāʾaka yasʿā ۝ Wa huwa yakhshā ۝ Fa-anta ʿanhu talahhā*
+*Wa ammā man jāʾaka yasʿā · Wa huwa yakhshā · Fa-anta ʿanhu talahhā*
 "As for the one who came to you running — and he is in *khashya* — you turn from him and busy yourself elsewhere."
 
 ### The man's three qualities
@@ -433,9 +433,9 @@ These six verses are a description of how people rank one another, and the descr
 
 ---
 
-## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ ۝ فَمَن شَآءَ ذَكَرَهُۥ
+## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ · فَمَن شَآءَ ذَكَرَهُۥ
 
-*Kallā innahā tadhkira ۝ Fa-man shāʾa dhakarah*
+*Kallā innahā tadhkira · Fa-man shāʾa dhakarah*
 "No! It is a reminder. So whoever wills remembers it."
 
 ### كَلَّا — the cut
@@ -474,9 +474,9 @@ And the exact counterpart of this is found at **al-Takwīr 81/28-29**: *"For who
 
 ---
 
-## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ
+## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ
 
-*Fī ṣuḥufin mukarrama ۝ Marfūʿatin muṭahhara ۝ Bi-aydī safara ۝ Kirāmin barara*
+*Fī ṣuḥufin mukarrama · Marfūʿatin muṭahhara · Bi-aydī safara · Kirāmin barara*
 "It is on pages made honoured; raised high, purified; in the hands of scribe-envoys — noble ones, given to goodness."
 
 ### Word order: what does it attach to?
@@ -652,9 +652,9 @@ The first reading is the strongest. But the second has a beauty of its own: read
 
 ---
 
-## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ ۝ مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ ۝ ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ · مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ · ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
 
-*Min ayyi shayʾin khalaqah ۝ Min nuṭfatin khalaqahu fa-qaddarah ۝ Thumma's-sabīla yassarah*
+*Min ayyi shayʾin khalaqah · Min nuṭfatin khalaqahu fa-qaddarah · Thumma's-sabīla yassarah*
 "Out of what did He create him? Out of a drop He created him and gave him measure. Then He made the path easy for him."
 
 ### A question asked and answered at once
@@ -718,9 +718,9 @@ And this makes the accusation heavier. The excuse "I did not know" is closed off
 
 ---
 
-## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ ۝ ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
+## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ · ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
 
-*Thumma amātahu fa-aqbarah ۝ Thumma idhā shāʾa ansharah*
+*Thumma amātahu fa-aqbarah · Thumma idhā shāʾa ansharah*
 "Then He made him die and had him put in a grave. Then when He wills He will raise him."
 
 ### أَقْبَرَ — to make one possessed of a grave
@@ -863,9 +863,9 @@ But the eight verses that follow show where the looking must lead — to the rai
 
 ---
 
-## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا ۝ ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا ۝ فَأَنۢبَتْنَا فِيهَا حَبًّا ۝ وَعِنَبًا وَقَضْبًا ۝ وَزَيْتُونًا وَنَخْلًا ۝ وَحَدَآئِقَ غُلْبًا ۝ وَفَٰكِهَةً وَأَبًّا ۝ مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
+## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا · ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا · فَأَنۢبَتْنَا فِيهَا حَبًّا · وَعِنَبًا وَقَضْبًا · وَزَيْتُونًا وَنَخْلًا · وَحَدَآئِقَ غُلْبًا · وَفَٰكِهَةً وَأَبًّا · مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
 
-*Annā ṣababna'l-māʾa ṣabbā ۝ Thumma shaqaqna'l-arḍa shaqqā ۝ Fa-anbatnā fīhā ḥabbā ۝ Wa ʿinaban wa qaḍbā ۝ Wa zaytūnan wa nakhlā ۝ Wa ḥadāʾiqa ghulbā ۝ Wa fākihatan wa abbā ۝ Matāʿan lakum wa li-anʿāmikum*
+*Annā ṣababna'l-māʾa ṣabbā · Thumma shaqaqna'l-arḍa shaqqā · Fa-anbatnā fīhā ḥabbā · Wa ʿinaban wa qaḍbā · Wa zaytūnan wa nakhlā · Wa ḥadāʾiqa ghulbā · Wa fākihatan wa abbā · Matāʿan lakum wa li-anʿāmikum*
 
 "We poured down the water in abundance; then We split the earth in clefts; and We made grain grow in it — and grapes and green fodder, olive and date palm, thick-treed gardens, fruit and pasture; for your enjoyment and that of your livestock."
 
@@ -981,9 +981,9 @@ And this speaks quietly with the sūra's first ten verses. There a man had seen 
 
 ---
 
-## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ ۝ يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ ۝ وَأُمِّهِۦ وَأَبِيهِ ۝ وَصَٰحِبَتِهِۦ وَبَنِيهِ ۝ لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ · يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ · وَأُمِّهِۦ وَأَبِيهِ · وَصَٰحِبَتِهِۦ وَبَنِيهِ · لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
 
-*Fa-idhā jāʾati'ṣ-ṣākhkha ۝ Yawma yafirru'l-marʾu min akhīh ۝ Wa ummihi wa abīh ۝ Wa ṣāḥibatihi wa banīh ۝ Li-kulli'mriʾin minhum yawmaʾidhin shaʾnun yughnīh*
+*Fa-idhā jāʾati'ṣ-ṣākhkha · Yawma yafirru'l-marʾu min akhīh · Wa ummihi wa abīh · Wa ṣāḥibatihi wa banīh · Li-kulli'mriʾin minhum yawmaʾidhin shaʾnun yughnīh*
 
 "When the sound that deafens the ears comes — on that day a man flees from his brother, and from his mother and his father, and from his wife and his children. On that day each of them has a concern of his own that suffices him."
 
@@ -1101,9 +1101,9 @@ This is an inference, and I record it as my own reading. But that the root occur
 
 ---
 
-## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ ۝ ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۝ وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ ۝ تَرْهَقُهَا قَتَرَةٌ ۝ أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
+## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ · ضَاحِكَةٌ مُّسْتَبْشِرَةٌ · وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ · تَرْهَقُهَا قَتَرَةٌ · أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
 
-*Wujūhun yawmaʾidhin musfira ۝ Ḍāḥikatun mustabshira ۝ Wa wujūhun yawmaʾidhin ʿalayhā ghabara ۝ Tarhaquhā qatara ۝ Ulāʾika humu'l-kafaratu'l-fajara*
+*Wujūhun yawmaʾidhin musfira · Ḍāḥikatun mustabshira · Wa wujūhun yawmaʾidhin ʿalayhā ghabara · Tarhaquhā qatara · Ulāʾika humu'l-kafaratu'l-fajara*
 
 "On that day some faces are shining; laughing, filled with good news. And on that day dust covers other faces; a darkness overspreads them. Those are the deniers, the transgressors."
 

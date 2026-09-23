@@ -348,12 +348,12 @@ Akar kata **ت-م-م**: **menjadikan sesuatu utuh tanpa kurang, membawanya sampa
 **Jadi urutannya adalah sebagai berikut, dan ia dapat diverifikasi dari teks:**
 
 ```
-ayat 1  — pengumuman (barāʼah)
-ayat 2  — masa (empat bulan, bergerak bebas)
-ayat 3  — pengumuman kepada khalayak + pintu tobat
-ayat 4  — pengecualian bagi mereka yang tidak melanggar
-ayat 5  — putusan pada akhir masa itu
-ayat 6  — perlindungan bagi yang meminta perlindungan
+ayat 1 — pengumuman (barāʼah)
+ayat 2 — masa (empat bulan, bergerak bebas)
+ayat 3 — pengumuman kepada khalayak + pintu tobat
+ayat 4 — pengecualian bagi mereka yang tidak melanggar
+ayat 5 — putusan pada akhir masa itu
+ayat 6 — perlindungan bagi yang meminta perlindungan
 ```
 
 **Ayat kelima adalah mata rantai kelima rangkaian ini. Ketika ia dibaca sendirian, empat mata rantai pertama rangkaian itu hilang.**
@@ -1219,7 +1219,7 @@ Sandarannya adalah catatan waktu surah ini sendiri: ayat sebelumnya berkata *ba�
 
 ---
 
-## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
+## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
 
 *Wa qālatil-yahūdu ʻUzairunibnullāh wa qālatin-naṣāral-masīḥubnullāh; żālika qauluhum bi-afwāhihim; yuḍāhiʼūna qaulallażīna kafarū min qabl; qātalahumullāh; annā yuʼfakūn*
 
@@ -2122,10 +2122,10 @@ Akar kata **ن-س-ي**: **melupakan; dan meninggalkan.** Para ahli bahasa mencat
 **Ayat ini adalah salah satu kalimat Al-Qur'an yang paling padat pengulangannya. Pola yang sama muncul tiga kali:**
 
 ```
-fastamtaʻū      bi-khalāqihim
-fastamtaʻtum    bi-khalāqikum
-kamastamtaʻa    …bi-khalāqihim
-wa khuḍtum      kallażī khāḍū
+fastamtaʻū bi-khalāqihim
+fastamtaʻtum bi-khalāqikum
+kamastamtaʻa …bi-khalāqihim
+wa khuḍtum kallażī khāḍū
 ```
 
 **Saya catat ini sebagai bacaan saya sendiri, dan sandarannya adalah pengulangan itu:** kalimat tersebut sendiri mengerjakan apa yang diceritakannya — **pengulangan.** Kata kerja yang sama, objek yang sama, subjek yang berbeda. **Jadi kalimat "kalian mengerjakan hal yang sama" ditegakkan dengan mengulang kata-kata yang sama.**

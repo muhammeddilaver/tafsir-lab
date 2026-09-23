@@ -1099,7 +1099,7 @@ Bunu bir sosyal bilim iddiasına çevirmiyorum ve güncel bir politikaya bağlam
 
 ---
 
-## 89/17-18 — كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+## 89/17-18 — كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
 
 *Kellâ bel lâ tükrimûne'l-yetîm • Ve lâ tehâddûne alâ ta'âmi'l-miskîn*
 "Hayır! Doğrusu siz yetime ikram etmiyorsunuz; yoksulun doyurulmasına birbirinizi teşvik etmiyorsunuz."
@@ -1480,7 +1480,7 @@ Bunu kendi okumam olarak sunuyorum; ama Şuarâ 26/129'daki fiil ile Hümeze 104
 
 ---
 
-## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
+## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
 *Ve cîe yevmeizin bi-cehennem, yevmeizin yetezekkeru'l-insânü ve ennâ lehü'z-zikrâ • Yekūlü yâ leytenî kaddemtü li-hayâtî*
 "O gün cehennem getirilir; o gün insan hatırlar — ama hatırlamanın ona ne faydası var? Der ki: 'Keşke hayatım için önden bir şey göndermiş olsaydım.'"

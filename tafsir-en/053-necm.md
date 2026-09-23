@@ -1962,7 +1962,7 @@ Had it been symmetrical: for those who did evil *bimā ʿamilū*, and for those 
 
 ---
 
-## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
+## 53/32 — ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ … فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰ
 
 *Alladhīna yajtanibūna kabāʾira'l-ithmi wa'l-fawāḥisha illā'l-lamam · Inna rabbaka wāsiʿu'l-maghfira · Huwa aʿlamu bikum idh anshaʾakum mina'l-arḍi wa idh antum ajinnatun fī buṭūni ummahātikum · Fa-lā tuzakkū anfusakum; huwa aʿlamu bi-mani'ttaqā*
 "Those who avoid the great sins and the shameful deeds — save for small lapses. Your Lord is wide in forgiveness. He knows you best, when He brought you forth from the earth and when you were embryos in the wombs of your mothers. So do not declare yourselves pure; He knows best who has guarded himself."

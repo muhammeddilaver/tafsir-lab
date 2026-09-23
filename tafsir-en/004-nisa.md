@@ -153,7 +153,7 @@ One point particular to this sūra can be recorded: **the first verse of a text 
 
 ---
 
-## 4/1 — يا أيها الناس اتقوا ربكم الذي خلقكم من نفس واحدة وخلق منها زوجها وبث منهما رجالا كثيرا ونساء واتقوا الله الذي تساءلون به والأرحام إن الله كان عليكم رقيبا
+## 4/1 — يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 
 *Yā ayyuha'l-nāsu'ttaqū rabbakumu'lladhī khalaqakum min nafsin wāḥidatin wa khalaqa minhā zawjahā wa bassa minhumā rijālan kathīran wa nisāʾā, wa'ttaqu'llāha'lladhī tasāʾalūna bihī wa'l-arḥām, inna'llāha kāna ʿalaykum raqībā*
 
@@ -318,7 +318,7 @@ On the first reading, two things to be mindful of come side by side: **God and t
 
 ---
 
-## 4/2 — وآتوا اليتامى أموالهم ولا تتبدلوا الخبيث بالطيب ولا تأكلوا أموالهم إلى أموالكم إنه كان حوبا كبيرا
+## 4/2 — وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
 
 *Wa ātu'l-yatāmā amwālahum wa lā tatabaddalu'l-khabītha bi'l-ṭayyib, wa lā taʾkulū amwālahum ilā amwālikum, innahū kāna ḥūban kabīrā*
 
@@ -378,7 +378,7 @@ I record this as an observation about a word: **the exchange looks equal; the na
 
 ---
 
-## 4/3 — وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم ذلك أدنى ألا تعولوا
+## 4/3 — وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
 
 *Wa in khiftum allā tuqsiṭū fi'l-yatāmā fa'nkiḥū mā ṭāba lakum mina'l-nisāʾi mathnā wa thulātha wa rubāʿ, fa-in khiftum allā taʿdilū fa-wāḥidatan aw mā malakat aymānukum, dhālika adnā allā taʿūlū*
 
@@ -569,7 +569,7 @@ I record this as an **observation about word order**; I draw no ruling from it.
 
 ---
 
-## 4/4 — وآتوا النساء صدقاتهن نحلة فإن طبن لكم عن شيء منه نفسا فكلوه هنيئا مريئا
+## 4/4 — وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
 
 *Wa ātu'l-nisāʾa ṣaduqātihinna niḥla, fa-in ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu hanīʾan marīʾā*
 
@@ -643,7 +643,7 @@ I record this as **my own reading**: the sūra gives back with the same verb wha
 
 ---
 
-## 4/5 — ولا تؤتوا السفهاء أموالكم التي جعل الله لكم قياما وارزقوهم فيها واكسوهم وقولوا لهم قولا معروفا
+## 4/5 — وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Wa lā tuʾtu'l-sufahāʾa amwālakumu'llatī jaʿala'llāhu lakum qiyāman wa'rzuqūhum fīhā wa'ksūhum wa qūlū lahum qawlan maʿrūfā*
 
@@ -729,7 +729,7 @@ The same field was treated at `002-bakara.md` 2/83 (*wa qūlū li'l-nāsi ḥusn
 
 ---
 
-## 4/6 — وابتلوا اليتامى حتى إذا بلغوا النكاح فإن آنستم منهم رشدا فادفعوا إليهم أموالهم ولا تأكلوها إسرافا وبدارا أن يكبروا ومن كان غنيا فليستعفف ومن كان فقيرا فليأكل بالمعروف فإذا دفعتم إليهم أموالهم فأشهدوا عليهم وكفى بالله حسيبا
+## 4/6 — وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
 
 *Wa'btalu'l-yatāmā ḥattā idhā balaghu'l-nikāḥ, fa-in ānastum minhum rushdan fa'dfaʿū ilayhim amwālahum, wa lā taʾkulūhā isrāfan wa bidāran an yakbarū, wa man kāna ghaniyyan fa'l-yastaʿfif wa man kāna faqīran fa'l-yaʾkul bi'l-maʿrūf, fa-idhā dafaʿtum ilayhim amwālahum fa-ashhidū ʿalayhim, wa kafā bi'llāhi ḥasībā*
 
@@ -842,7 +842,7 @@ The same logic was treated in detail at `002-bakara.md` 2/282 (the writing down 
 
 ---
 
-## 4/7 — للرجال نصيب مما ترك الوالدان والأقربون وللنساء نصيب مما ترك الوالدان والأقربون مما قل منه أو كثر نصيبا مفروضا
+## 4/7 — لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا
 
 *Li'l-rijāli naṣībun mimmā taraka'l-wālidāni wa'l-aqrabūn, wa li'l-nisāʾi naṣībun mimmā taraka'l-wālidāni wa'l-aqrabūna mimmā qalla minhu aw kathur, naṣīban mafrūḍā*
 
@@ -896,7 +896,7 @@ The same logic was treated in detail at `002-bakara.md` 2/282 (the writing down 
 
 ---
 
-## 4/8 — وإذا حضر القسمة أولو القربى واليتامى والمساكين فارزقوهم منه وقولوا لهم قولا معروفا
+## 4/8 — وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
 
 *Wa idhā ḥaḍara'l-qismata ulu'l-qurbā wa'l-yatāmā wa'l-masākīnu fa'rzuqūhum minhu wa qūlū lahum qawlan maʿrūfā*
 
@@ -946,7 +946,7 @@ I record this as **my own reading**; its ground is the standing of the two comma
 
 ---
 
-## 4/9 — وليخش الذين لو تركوا من خلفهم ذرية ضعافا خافوا عليهم فليتقوا الله وليقولوا قولا سديدا
+## 4/9 — وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
 
 *Wa'l-yakhsha'lladhīna law tarakū min khalfihim dhurriyyatan ḍiʿāfan khāfū ʿalayhim, fa'l-yattaqu'llāha wa'l-yaqūlū qawlan sadīdā*
 
@@ -1023,7 +1023,7 @@ I record this as **my own reading**; its ground is the construction of the condi
 
 ---
 
-## 4/10 — إن الذين يأكلون أموال اليتامى ظلما إنما يأكلون في بطونهم نارا وسيصلون سعيرا
+## 4/10 — إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا
 
 *Inna'lladhīna yaʾkulūna amwāla'l-yatāmā ẓulman innamā yaʾkulūna fī buṭūnihim nārā, wa sayaṣlawna saʿīrā*
 
@@ -1105,7 +1105,7 @@ I record this as **my own reading**; its ground is the moods of the two verbs.
 
 ---
 
-## 4/11 — يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين … من بعد وصية يوصي بها أو دين
+## 4/11 — يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ … مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ
 
 *Yūṣīkumu'llāhu fī awlādikum li'l-dhakari mithlu ḥaẓẓi'l-unthayayn, fa-in kunna nisāʾan fawqa'thnatayni fa-lahunna thuluthā mā tarak, wa in kānat wāḥidatan fa-laha'l-niṣf, wa li-abawayhi li-kulli wāḥidin minhuma'l-sudusu mimmā taraka in kāna lahū walad, fa-in lam yakun lahū waladun wa warithahū abawāhu fa-li-ummihi'l-thuluth, fa-in kāna lahū ikhwatun fa-li-ummihi'l-sudus, min baʿdi waṣiyyatin yūṣī bihā aw dayn, ābāʾukum wa abnāʾukum lā tadrūna ayyuhum aqrabu lakum nafʿā, farīḍatan mina'llāh, inna'llāha kāna ʿAlīman Ḥakīmā*
 
@@ -1250,7 +1250,7 @@ At the division of an estate the most natural human objection is this: "he was c
 
 ---
 
-## 4/12 — ولكم نصف ما ترك أزواجكم إن لم يكن لهن ولد … وإن كان رجل يورث كلالة أو امرأة وله أخ أو أخت فلكل واحد منهما السدس
+## 4/12 — وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ … وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ
 
 *Wa lakum niṣfu mā taraka azwājukum in lam yakun lahunna walad, fa-in kāna lahunna waladun fa-lakumu'l-rubuʿu mimmā tarakna min baʿdi waṣiyyatin yūṣīna bihā aw dayn, wa lahunna'l-rubuʿu mimmā taraktum in lam yakun lakum walad, fa-in kāna lakum waladun fa-lahunna'l-thumunu mimmā taraktum min baʿdi waṣiyyatin tūṣūna bihā aw dayn, wa in kāna rajulun yūrathu kalālatan awi'mraʾatun wa lahū akhun aw ukhtun fa-li-kulli wāḥidin minhuma'l-sudus, fa-in kānū akthara min dhālika fa-hum shurakāʾu fi'l-thuluthi min baʿdi waṣiyyatin yūṣā bihā aw daynin ghayra muḍārr, waṣiyyatan mina'llāh, wa'llāhu ʿAlīmun Ḥalīm*
 
@@ -1343,7 +1343,7 @@ I record this as **my own reading**; its ground is the place of the qualificatio
 
 ---
 
-## 4/13-14 — تلك حدود الله ومن يطع الله ورسوله يدخله جنات تجري من تحتها الأنهار خالدين فيها وذلك الفوز العظيم · ومن يعص الله ورسوله ويتعد حدوده يدخله نارا خالدا فيها وله عذاب مهين
+## 4/13-14 — تِلْكَ حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ · وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ وَيَتَعَدَّ حُدُودَهُۥ يُدْخِلْهُ نَارًا خَٰلِدًا فِيهَا وَلَهُۥ عَذَابٌ مُّهِينٌ
 
 *Tilka ḥudūdu'llāh, wa man yuṭiʿi'llāha wa rasūlahū yudkhilhu jannātin tajrī min taḥtiha'l-anhāru khālidīna fīhā, wa dhālika'l-fawzu'l-ʿaẓīm · Wa man yaʿṣi'llāha wa rasūlahū wa yataʿadda ḥudūdahū yudkhilhu nāran khālidan fīhā wa lahū ʿadhābun muhīn*
 
@@ -1403,7 +1403,7 @@ I record this as **my own reading**; its ground is the root of the word together
 
 ---
 
-## 4/15-16 — واللاتي يأتين الفاحشة من نسائكم فاستشهدوا عليهن أربعة منكم فإن شهدوا فأمسكوهن في البيوت حتى يتوفاهن الموت أو يجعل الله لهن سبيلا · واللذان يأتيانها منكم فآذوهما فإن تابا وأصلحا فأعرضوا عنهما
+## 4/15-16 — وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا · وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ
 
 *Wa'llātī yaʾtīna'l-fāḥishata min nisāʾikum fa'stashhidū ʿalayhinna arbaʿatan minkum, fa-in shahidū fa-amsikūhunna fi'l-buyūti ḥattā yatawaffāhunna'l-mawtu aw yajʿala'llāhu lahunna sabīlā · Wa'lladhāni yaʾtiyānihā minkum fa-ādhūhumā, fa-in tābā wa aṣlaḥā fa-aʿriḍū ʿanhumā, inna'llāha kāna Tawwāban Raḥīmā*
 
@@ -1479,7 +1479,7 @@ I record this as **my own reading**; its ground is the root of the word together
 
 ---
 
-## 4/17-18 — إنما التوبة على الله للذين يعملون السوء بجهالة ثم يتوبون من قريب فأولئك يتوب الله عليهم · وليست التوبة للذين يعملون السيئات حتى إذا حضر أحدهم الموت قال إني تبت الآن
+## 4/17-18 — إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ · وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ
 
 *Innama'l-tawbatu ʿala'llāhi li'lladhīna yaʿmalūna'l-sūʾa bi-jahālatin thumma yatūbūna min qarībin fa-ulāʾika yatūbu'llāhu ʿalayhim, wa kāna'llāhu ʿAlīman Ḥakīmā · Wa laysati'l-tawbatu li'lladhīna yaʿmalūna'l-sayyiʾāti ḥattā idhā ḥaḍara aḥadahumu'l-mawtu qāla innī tubtu'l-āna wa la'lladhīna yamūtūna wa hum kuffār, ulāʾika aʿtadnā lahum ʿadhāban alīmā*
 
@@ -1543,7 +1543,7 @@ I record this as **my own reading**; its ground is the root of the word together
 
 ---
 
-## 4/19 — يا أيها الذين آمنوا لا يحل لكم أن ترثوا النساء كرها ولا تعضلوهن لتذهبوا ببعض ما آتيتموهن إلا أن يأتين بفاحشة مبينة وعاشروهن بالمعروف فإن كرهتموهن فعسى أن تكرهوا شيئا ويجعل الله فيه خيرا كثيرا
+## 4/19 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
 
 *Yā ayyuha'lladhīna āmanū lā yaḥillu lakum an tarithu'l-nisāʾa karhā, wa lā taʿḍulūhunna li-tadhhabū bi-baʿḍi mā ātaytumūhunna illā an yaʾtīna bi-fāḥishatin mubayyina, wa ʿāshirūhunna bi'l-maʿrūf, fa-in karihtumūhunna fa-ʿasā an takrahū shayʾan wa yajʿala'llāhu fīhi khayran kathīrā*
 
@@ -1671,7 +1671,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ---
 
-## 4/20-21 — وإن أردتم استبدال زوج مكان زوج وآتيتم إحداهن قنطارا فلا تأخذوا منه شيئا أتأخذونه بهتانا وإثما مبينا · وكيف تأخذونه وقد أفضى بعضكم إلى بعض وأخذن منكم ميثاقا غليظا
+## 4/20-21 — وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا · وَكَيْفَ تَأْخُذُونَهُۥ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنكُم مِّيثَٰقًا غَلِيظًا
 
 *Wa in aradtumu'stibdāla zawjin makāna zawjin wa ātaytum iḥdāhunna qinṭāran fa-lā taʾkhudhū minhu shayʾā, a-taʾkhudhūnahū buhtānan wa ithman mubīnā · Wa kayfa taʾkhudhūnahū wa qad afḍā baʿḍukum ilā baʿḍin wa akhadhna minkum mīthāqan ghalīẓā*
 
@@ -1747,7 +1747,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ---
 
-## 4/22 — ولا تنكحوا ما نكح آباؤكم من النساء إلا ما قد سلف إنه كان فاحشة ومقتا وساء سبيلا
+## 4/22 — وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
 
 *Wa lā tankiḥū mā nakaḥa ābāʾukum mina'l-nisāʾi illā mā qad salaf, innahū kāna fāḥishatan wa maqtan wa sāʾa sabīlā*
 
@@ -1787,7 +1787,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ---
 
-## 4/23 — حرمت عليكم أمهاتكم وبناتكم وأخواتكم وعماتكم وخالاتكم وبنات الأخ وبنات الأخت وأمهاتكم اللاتي أرضعنكم وأخواتكم من الرضاعة وأمهات نسائكم وربائبكم اللاتي في حجوركم … وأن تجمعوا بين الأختين إلا ما قد سلف
+## 4/23 — حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم … وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ
 
 *Ḥurrimat ʿalaykum ummahātukum wa banātukum wa akhawātukum wa ʿammātukum wa khālātukum wa banātu'l-akhi wa banātu'l-ukhti wa ummahātukumu'llātī arḍaʿnakum wa akhawātukum mina'l-raḍāʿati wa ummahātu nisāʾikum wa rabāʾibukumu'llātī fī ḥujūrikum min nisāʾikumu'llātī dakhaltum bihinna, fa-in lam takūnū dakhaltum bihinna fa-lā junāḥa ʿalaykum, wa ḥalāʾilu abnāʾikumu'lladhīna min aṣlābikum wa an tajmaʿū bayna'l-ukhtayni illā mā qad salaf, inna'llāha kāna Ghafūran Raḥīmā*
 
@@ -1864,7 +1864,7 @@ I record this as a **grammatical observation**; its ground is the form itself.
 
 ---
 
-## 4/24 — والمحصنات من النساء إلا ما ملكت أيمانكم كتاب الله عليكم وأحل لكم ما وراء ذلكم أن تبتغوا بأموالكم محصنين غير مسافحين
+## 4/24 — وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
 
 *Wa'l-muḥṣanātu mina'l-nisāʾi illā mā malakat aymānukum, kitāba'llāhi ʿalaykum, wa uḥilla lakum mā warāʾa dhālikum an tabtaghū bi-amwālikum muḥṣinīna ghayra musāfiḥīn, fa-ma'stamtaʿtum bihī minhunna fa-ātūhunna ujūrahunna farīḍatan, wa lā junāḥa ʿalaykum fīmā tarāḍaytum bihī min baʿdi'l-farīḍa, inna'llāha kāna ʿAlīman Ḥakīmā*
 
@@ -1949,7 +1949,7 @@ I record this as **my own reading**; its ground is the qualification *min baʿdi
 
 ---
 
-## 4/25 — ومن لم يستطع منكم طولا أن ينكح المحصنات المؤمنات فمن ما ملكت أيمانكم من فتياتكم المؤمنات … فانكحوهن بإذن أهلهن وآتوهن أجورهن بالمعروف … ذلك لمن خشي العنت منكم وأن تصبروا خير لكم
+## 4/25 — وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ … فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ … ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ
 
 *Wa man lam yastaṭiʿ minkum ṭawlan an yankiḥa'l-muḥṣanāti'l-muʾmināti fa-min mā malakat aymānukum min fatayātikumu'l-muʾmināt, wa'llāhu aʿlamu bi-īmānikum, baʿḍukum min baʿḍ, fa'nkiḥūhunna bi-idhni ahlihinna wa ātūhunna ujūrahunna bi'l-maʿrūfi muḥṣanātin ghayra musāfiḥātin wa lā muttakhidhāti akhdān… dhālika li-man khashiya'l-ʿanata minkum, wa an taṣbirū khayrun lakum, wa'llāhu Ghafūrun Raḥīm*
 
@@ -2006,7 +2006,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/26-28 — يريد الله ليبين لكم ويهديكم سنن الذين من قبلكم ويتوب عليكم … ويريد الذين يتبعون الشهوات أن تميلوا ميلا عظيما · يريد الله أن يخفف عنكم وخلق الإنسان ضعيفا
+## 4/26-28 — يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ … وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا · يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ ٱلْإِنسَٰنُ ضَعِيفًا
 
 *Yurīdu'llāhu li-yubayyina lakum wa yahdiyakum sunana'lladhīna min qablikum wa yatūba ʿalaykum, wa'llāhu ʿAlīmun Ḥakīm · Wa'llāhu yurīdu an yatūba ʿalaykum wa yurīdu'lladhīna yattabiʿūna'l-shahawāti an tamīlū maylan ʿaẓīmā · Yurīdu'llāhu an yukhaffifa ʿankum wa khuliqa'l-insānu ḍaʿīfā*
 
@@ -2079,7 +2079,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 ---
 
 
-## 4/29-30 — يا أيها الذين آمنوا لا تأكلوا أموالكم بينكم بالباطل إلا أن تكون تجارة عن تراض منكم ولا تقتلوا أنفسكم إن الله كان بكم رحيما · ومن يفعل ذلك عدوانا وظلما فسوف نصليه نارا وكان ذلك على الله يسيرا
+## 4/29-30 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا · وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 
 *Yā ayyuha'lladhīna āmanū lā taʾkulū amwālakum baynakum bi'l-bāṭili illā an takūna tijāratan ʿan tarāḍin minkum, wa lā taqtulū anfusakum, inna'llāha kāna bikum Raḥīmā · Wa man yafʿal dhālika ʿudwānan wa ẓulman fa-sawfa nuṣlīhi nārā, wa kāna dhālika ʿala'llāhi yasīrā*
 
@@ -2164,7 +2164,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/31 — إن تجتنبوا كبائر ما تنهون عنه نكفر عنكم سيئاتكم وندخلكم مدخلا كريما
+## 4/31 — إِن تَجْتَنِبُوا۟ كَبَآئِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُم مُّدْخَلًا كَرِيمًا
 
 *In tajtanibū kabāʾira mā tunhawna ʿanhu nukaffir ʿankum sayyiʾātikum wa nudkhilkum mudkhalan karīmā*
 
@@ -2192,7 +2192,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/32 — ولا تتمنوا ما فضل الله به بعضكم على بعض للرجال نصيب مما اكتسبوا وللنساء نصيب مما اكتسبن واسألوا الله من فضله إن الله كان بكل شيء عليما
+## 4/32 — وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *Wa lā tatamannaw mā faḍḍala'llāhu bihī baʿḍakum ʿalā baʿḍ, li'l-rijāli naṣībun mimma'ktasabū wa li'l-nisāʾi naṣībun mimma'ktasabna, wa'sʾalu'llāha min faḍlih, inna'llāha kāna bi-kulli shayʾin ʿAlīmā*
 
@@ -2285,7 +2285,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/33 — ولكل جعلنا موالي مما ترك الوالدان والأقربون والذين عقدت أيمانكم فآتوهم نصيبهم إن الله كان على كل شيء شهيدا
+## 4/33 — وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا
 
 *Wa li-kullin jaʿalnā mawāliya mimmā taraka'l-wālidāni wa'l-aqrabūn, wa'lladhīna ʿaqadat aymānukum fa-ātūhum naṣībahum, inna'llāha kāna ʿalā kulli shayʾin Shahīdā*
 
@@ -2325,7 +2325,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/34-35 — الرجال قوامون على النساء بما فضل الله بعضهم على بعض وبما أنفقوا من أموالهم … واللاتي تخافون نشوزهن فعظوهن واهجروهن في المضاجع واضربوهن فإن أطعنكم فلا تبغوا عليهن سبيلا · وإن خفتم شقاق بينهما فابعثوا حكما من أهله وحكما من أهلها إن يريدا إصلاحا يوفق الله بينهما
+## 4/34-35 — ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ … وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا · وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ
 
 *Al-rijālu qawwāmūna ʿala'l-nisāʾi bimā faḍḍala'llāhu baʿḍahum ʿalā baʿḍ wa bimā anfaqū min amwālihim, fa'l-ṣāliḥātu qānitātun ḥāfiẓātun li'l-ghaybi bimā ḥafiẓa'llāh, wa'llātī takhāfūna nushūzahunna fa-ʿiẓūhunna wa'hjurūhunna fi'l-maḍājiʿi wa'ḍribūhunna, fa-in aṭaʿnakum fa-lā tabghū ʿalayhinna sabīlā, inna'llāha kāna ʿAliyyan Kabīrā · Wa in khiftum shiqāqa baynihimā fa'bʿathū ḥakaman min ahlihī wa ḥakaman min ahlihā, in yurīdā iṣlāḥan yuwaffiqi'llāhu baynahumā, inna'llāha kāna ʿAlīman Khabīrā*
 
@@ -2593,7 +2593,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/36 — واعبدوا الله ولا تشركوا به شيئا وبالوالدين إحسانا وبذي القربى واليتامى والمساكين والجار ذي القربى والجار الجنب والصاحب بالجنب وابن السبيل وما ملكت أيمانكم إن الله لا يحب من كان مختالا فخورا
+## 4/36 — وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
 
 *Wa'ʿbudu'llāha wa lā tushrikū bihī shayʾā, wa bi'l-wālidayni iḥsānan wa bi-dhi'l-qurbā wa'l-yatāmā wa'l-masākīni wa'l-jāri dhi'l-qurbā wa'l-jāri'l-junubi wa'l-ṣāḥibi bi'l-janbi wa'bni'l-sabīli wa mā malakat aymānukum, inna'llāha lā yuḥibbu man kāna mukhtālan fakhūrā*
 
@@ -2719,7 +2719,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/37-39 — الذين يبخلون ويأمرون الناس بالبخل ويكتمون ما آتاهم الله من فضله وأعتدنا للكافرين عذابا مهينا · والذين ينفقون أموالهم رئاء الناس ولا يؤمنون بالله ولا باليوم الآخر · وماذا عليهم لو آمنوا بالله واليوم الآخر وأنفقوا مما رزقهم الله
+## 4/37-39 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا · وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ · وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ
 
 *Alladhīna yabkhalūna wa yaʾmurūna'l-nāsa bi'l-bukhli wa yaktumūna mā ātāhumu'llāhu min faḍlih … Wa'lladhīna yunfiqūna amwālahum riʾāʾa'l-nāsi wa lā yuʾminūna bi'llāhi wa lā bi'l-yawmi'l-ākhir … Wa mādhā ʿalayhim law āmanū bi'llāhi wa'l-yawmi'l-ākhiri wa anfaqū mimmā razaqahumu'llāh*
 
@@ -2775,7 +2775,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/40-42 — إن الله لا يظلم مثقال ذرة وإن تك حسنة يضاعفها ويؤت من لدنه أجرا عظيما · فكيف إذا جئنا من كل أمة بشهيد وجئنا بك على هؤلاء شهيدا · يومئذ يود الذين كفروا وعصوا الرسول لو تسوى بهم الأرض ولا يكتمون الله حديثا
+## 4/40-42 — إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا · فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا · يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا
 
 *Inna'llāha lā yaẓlimu mithqāla dharra, wa in taku ḥasanatan yuḍāʿifhā wa yuʾti min ladunhu ajran ʿaẓīmā · Fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa jiʾnā bika ʿalā hāʾulāʾi shahīdā · Yawmaʾidhin yawaddu'lladhīna kafarū wa ʿaṣawu'l-rasūla law tusawwā bihimu'l-arḍ, wa lā yaktumūna'llāha ḥadīthā*
 
@@ -2818,7 +2818,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/43 — يا أيها الذين آمنوا لا تقربوا الصلاة وأنتم سكارى حتى تعلموا ما تقولون ولا جنبا إلا عابري سبيل حتى تغتسلوا … فتيمموا صعيدا طيبا فامسحوا بوجوهكم وأيديكم إن الله كان عفوا غفورا
+## 4/43 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ … فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 
 *Yā ayyuha'lladhīna āmanū lā taqrabu'ṣ-ṣalāta wa antum sukārā ḥattā taʿlamū mā taqūlūn … fa-tayammamū ṣaʿīdan ṭayyiban fa'msaḥū bi-wujūhikum wa aydīkum, inna'llāha kāna ʿAfuwwan Ghafūrā*
 
@@ -2865,7 +2865,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/44-46 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يشترون الضلالة ويريدون أن تضلوا السبيل · والله أعلم بأعدائكم وكفى بالله وليا وكفى بالله نصيرا · من الذين هادوا يحرفون الكلم عن مواضعه ويقولون سمعنا وعصينا … ولو أنهم قالوا سمعنا وأطعنا واسمع وانظرنا لكان خيرا لهم وأقوم
+## 4/44-46 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يَشْتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّوا۟ ٱلسَّبِيلَ · وَٱللَّهُ أَعْلَمُ بِأَعْدَآئِكُمْ وَكَفَىٰ بِٱللَّهِ وَلِيًّا وَكَفَىٰ بِٱللَّهِ نَصِيرًا · مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا … وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ
 
 *A-lam tara ila'lladhīna ūtū naṣīban mina'l-kitābi yashtarūna'l-ḍalālata wa yurīdūna an taḍillu'l-sabīl · Wa'llāhu aʿlamu bi-aʿdāʾikum wa kafā bi'llāhi waliyyan wa kafā bi'llāhi naṣīrā · Mina'lladhīna hādū yuḥarrifūna'l-kalima ʿan mawāḍiʿihī …*
 
@@ -2920,7 +2920,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/47-50 — يا أيها الذين أوتوا الكتاب آمنوا بما نزلنا مصدقا لما معكم … إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء · ألم تر إلى الذين يزكون أنفسهم بل الله يزكي من يشاء
+## 4/47-50 — يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم … إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ · أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ
 
 *Yā ayyuha'lladhīna ūtu'l-kitāba āminū bimā nazzalnā muṣaddiqan limā maʿakum … Inna'llāha lā yaghfiru an yushraka bihī wa yaghfiru mā dūna dhālika li-man yashāʾ · A-lam tara ila'lladhīna yuzakkūna anfusahum, bali'llāhu yuzakkī man yashāʾ*
 
@@ -2964,7 +2964,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/51-57 — ألم تر إلى الذين أوتوا نصيبا من الكتاب يؤمنون بالجبت والطاغوت … أم يحسدون الناس على ما آتاهم الله من فضله · إن الذين كفروا بآياتنا سوف نصليهم نارا · والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار
+## 4/51-57 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يُؤْمِنُونَ بِٱلْجِبْتِ وَٱلطَّٰغُوتِ … أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ · إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا · وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ
 
 *A-lam tara ila'lladhīna ūtū naṣīban mina'l-kitābi yuʾminūna bi'l-jibti wa'l-ṭāghūt … Am yaḥsudūna'l-nāsa ʿalā mā ātāhumu'llāhu min faḍlih …*
 
@@ -3001,7 +3001,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/58 — إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل إن الله نعما يعظكم به إن الله كان سميعا بصيرا
+## 4/58 — إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا
 
 *Inna'llāha yaʾmurukum an tuʾaddu'l-amānāti ilā ahlihā wa idhā ḥakamtum bayna'l-nāsi an taḥkumū bi'l-ʿadl, inna'llāha niʿimmā yaʿiẓukum bih, inna'llāha kāna Samīʿan Baṣīrā*
 
@@ -3067,7 +3067,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/59 — يا أيها الذين آمنوا أطيعوا الله وأطيعوا الرسول وأولي الأمر منكم فإن تنازعتم في شيء فردوه إلى الله والرسول إن كنتم تؤمنون بالله واليوم الآخر ذلك خير وأحسن تأويلا
+## 4/59 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
 
 *Yā ayyuha'lladhīna āmanū aṭīʿu'llāha wa aṭīʿu'l-rasūla wa uli'l-amri minkum, fa-in tanāzaʿtum fī shayʾin fa-ruddūhu ila'llāhi wa'l-rasūli in kuntum tuʾminūna bi'llāhi wa'l-yawmi'l-ākhir, dhālika khayrun wa aḥsanu taʾwīlā*
 
@@ -3170,7 +3170,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/60-63 — ألم تر إلى الذين يزعمون أنهم آمنوا بما أنزل إليك وما أنزل من قبلك يريدون أن يتحاكموا إلى الطاغوت وقد أمروا أن يكفروا به … فأعرض عنهم وعظهم وقل لهم في أنفسهم قولا بليغا
+## 4/60-63 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ … فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًا
 
 *A-lam tara ila'lladhīna yazʿumūna annahum āmanū bimā unzila ilayka wa mā unzila min qablika yurīdūna an yataḥākamū ila'l-ṭāghūti wa qad umirū an yakfurū bih … Fa-aʿriḍ ʿanhum wa ʿiẓhum wa qul lahum fī anfusihim qawlan balīghā*
 
@@ -3211,7 +3211,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/64-70 — وما أرسلنا من رسول إلا ليطاع بإذن الله … فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدوا في أنفسهم حرجا مما قضيت ويسلموا تسليما … ومن يطع الله والرسول فأولئك مع الذين أنعم الله عليهم من النبيين والصديقين والشهداء والصالحين وحسن أولئك رفيقا
+## 4/64-70 — وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ … فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا … وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًا
 
 *Wa mā arsalnā min rasūlin illā li-yuṭāʿa bi-idhni'llāh … Fa-lā wa rabbika lā yuʾminūna ḥattā yuḥakkimūka fīmā shajara baynahum thumma lā yajidū fī anfusihim ḥarajan mimmā qaḍayta wa yusallimū taslīmā … Wa man yuṭiʿi'llāha wa'l-rasūla fa-ulāʾika maʿa'lladhīna anʿama'llāhu ʿalayhim mina'l-nabiyyīna wa'l-ṣiddīqīna wa'l-shuhadāʾi wa'l-ṣāliḥīn, wa ḥasuna ulāʾika rafīqā*
 
@@ -3266,7 +3266,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/71-74 — يا أيها الذين آمنوا خذوا حذركم فانفروا ثبات أو انفروا جميعا · وإن منكم لمن ليبطئن … فليقاتل في سبيل الله الذين يشرون الحياة الدنيا بالآخرة
+## 4/71-74 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ خُذُوا۟ حِذْرَكُمْ فَٱنفِرُوا۟ ثُبَاتٍ أَوِ ٱنفِرُوا۟ جَمِيعًا · وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ … فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ
 
 *Yā ayyuha'lladhīna āmanū khudhū ḥidhrakum fa'nfirū thubātin awi'nfirū jamīʿā · Wa inna minkum la-man la-yubaṭṭiʾann … Fa'l-yuqātil fī sabīli'llāhi'lladhīna yashrūna'l-ḥayāta'l-dunyā bi'l-ākhira*
 
@@ -3298,7 +3298,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/75-76 — وما لكم لا تقاتلون في سبيل الله والمستضعفين من الرجال والنساء والولدان الذين يقولون ربنا أخرجنا من هذه القرية الظالم أهلها واجعل لنا من لدنك وليا واجعل لنا من لدنك نصيرا
+## 4/75-76 — وَمَا لَكُمْ لَا تُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ ٱلَّذِينَ يَقُولُونَ رَبَّنَآ أَخْرِجْنَا مِنْ هَٰذِهِ ٱلْقَرْيَةِ ٱلظَّالِمِ أَهْلُهَا وَٱجْعَل لَّنَا مِن لَّدُنكَ وَلِيًّا وَٱجْعَل لَّنَا مِن لَّدُنكَ نَصِيرًا
 
 *Wa mā lakum lā tuqātilūna fī sabīli'llāhi wa'l-mustaḍʿafīna mina'l-rijāli wa'l-nisāʾi wa'l-wildāni'lladhīna yaqūlūna rabbanā akhrijnā min hādhihi'l-qaryati'l-ẓālimi ahluhā wa'jʿal lanā min ladunka waliyyan wa'jʿal lanā min ladunka naṣīrā*
 
@@ -3365,7 +3365,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/77 — ألم تر إلى الذين قيل لهم كفوا أيديكم وأقيموا الصلاة وآتوا الزكاة فلما كتب عليهم القتال إذا فريق منهم يخشون الناس كخشية الله أو أشد خشية
+## 4/77 — أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً
 
 *A-lam tara ila'lladhīna qīla lahum kuffū aydiyakum wa aqīmu'ṣ-ṣalāta wa ātu'l-zakāh, fa-lammā kutiba ʿalayhimu'l-qitālu idhā farīqun minhum yakhshawna'l-nāsa ka-khashyati'llāhi aw ashadda khashyah*
 
@@ -3399,7 +3399,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/78-79 — أينما تكونوا يدرككم الموت ولو كنتم في بروج مشيدة وإن تصبهم حسنة يقولوا هذه من عند الله وإن تصبهم سيئة يقولوا هذه من عندك قل كل من عند الله … · ما أصابك من حسنة فمن الله وما أصابك من سيئة فمن نفسك وأرسلناك للناس رسولا وكفى بالله شهيدا
+## 4/78-79 — أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ … · مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Aynamā takūnū yudrikkumu'l-mawtu wa law kuntum fī burūjin mushayyada, wa in tuṣibhum ḥasanatun yaqūlū hādhihī min ʿindi'llāh, wa in tuṣibhum sayyiʾatun yaqūlū hādhihī min ʿindik, qul kullun min ʿindi'llāh, fa-mā li-hāʾulāʾi'l-qawmi lā yakādūna yafqahūna ḥadīthā · Mā aṣābaka min ḥasanatin fa-mina'llāh, wa mā aṣābaka min sayyiʾatin fa-min nafsik, wa arsalnāka li'l-nāsi rasūlā, wa kafā bi'llāhi shahīdā*
 
@@ -3509,7 +3509,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/80-81 — من يطع الرسول فقد أطاع الله ومن تولى فما أرسلناك عليهم حفيظا · ويقولون طاعة فإذا برزوا من عندك بيت طائفة منهم غير الذي تقول والله يكتب ما يبيتون فأعرض عنهم وتوكل على الله وكفى بالله وكيلا
+## 4/80-81 — مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا · وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 
 *Man yuṭiʿi'l-rasūla fa-qad aṭāʿa'llāh, wa man tawallā fa-mā arsalnāka ʿalayhim ḥafīẓā · Wa yaqūlūna ṭāʿatun fa-idhā barazū min ʿindika bayyata ṭāʾifatun minhum ghayra'lladhī taqūl, wa'llāhu yaktubu mā yubayyitūn, fa-aʿriḍ ʿanhum wa tawakkal ʿala'llāh, wa kafā bi'llāhi Wakīlā*
 
@@ -3545,7 +3545,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/82 — أفلا يتدبرون القرآن ولو كان من عند غير الله لوجدوا فيه اختلافا كثيرا
+## 4/82 — أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا
 
 *Afa-lā yatadabbarūna'l-Qurʾān, wa law kāna min ʿindi ghayri'llāhi la-wajadū fīhi'khtilāfan kathīrā*
 
@@ -3602,7 +3602,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/83 — وإذا جاءهم أمر من الأمن أو الخوف أذاعوا به ولو ردوه إلى الرسول وإلى أولي الأمر منهم لعلمه الذين يستنبطونه منهم
+## 4/83 — وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ
 
 *Wa idhā jāʾahum amrun mina'l-amni awi'l-khawfi adhāʿū bih, wa law raddūhu ila'l-rasūli wa ilā uli'l-amri minhum la-ʿalimahu'lladhīna yastanbiṭūnahū minhum*
 
@@ -3652,7 +3652,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/84-87 — فقاتل في سبيل الله لا تكلف إلا نفسك وحرض المؤمنين · من يشفع شفاعة حسنة يكن له نصيب منها ومن يشفع شفاعة سيئة يكن له كفل منها · وإذا حييتم بتحية فحيوا بأحسن منها أو ردوها إن الله كان على كل شيء حسيبا · الله لا إله إلا هو ليجمعنكم إلى يوم القيامة لا ريب فيه
+## 4/84-87 — فَقَٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ وَحَرِّضِ ٱلْمُؤْمِنِينَ · مَّن يَشْفَعْ شَفَٰعَةً حَسَنَةً يَكُن لَّهُۥ نَصِيبٌ مِّنْهَا وَمَن يَشْفَعْ شَفَٰعَةً سَيِّئَةً يَكُن لَّهُۥ كِفْلٌ مِّنْهَا · وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا · ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ
 
 *Fa-qātil fī sabīli'llāh, lā tukallafu illā nafsak, wa ḥarriḍi'l-muʾminīn · Man yashfaʿ shafāʿatan ḥasanatan yakun lahū naṣībun minhā, wa man yashfaʿ shafāʿatan sayyiʾatan yakun lahū kiflun minhā … · Wa idhā ḥuyyītum bi-taḥiyyatin fa-ḥayyū bi-aḥsana minhā aw ruddūhā, inna'llāha kāna ʿalā kulli shayʾin Ḥasībā*
 
@@ -3712,7 +3712,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/88-91 — فما لكم في المنافقين فئتين والله أركسهم بما كسبوا … إلا الذين يصلون إلى قوم بينكم وبينهم ميثاق أو جاءوكم حصرت صدورهم أن يقاتلوكم … فإن اعتزلوكم فلم يقاتلوكم وألقوا إليكم السلم فما جعل الله لكم عليهم سبيلا
+## 4/88-91 — فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ … إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ … فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
 
 *Fa-mā lakum fi'l-munāfiqīna fiʾatayni wa'llāhu arkasahum bimā kasabū … Illa'lladhīna yaṣilūna ilā qawmin baynakum wa baynahum mīthāqun aw jāʾūkum ḥaṣirat ṣudūruhum an yuqātilūkum … Fa-ini'tazalūkum fa-lam yuqātilūkum wa alqaw ilaykumu'l-salama fa-mā jaʿala'llāhu lakum ʿalayhim sabīlā*
 
@@ -3760,7 +3760,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/92-93 — وما كان لمؤمن أن يقتل مؤمنا إلا خطأ ومن قتل مؤمنا خطأ فتحرير رقبة مؤمنة ودية مسلمة إلى أهله إلا أن يصدقوا … فمن لم يجد فصيام شهرين متتابعين توبة من الله · ومن يقتل مؤمنا متعمدا فجزاؤه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
+## 4/92-93 — وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ … فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ · وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا
 
 *Wa mā kāna li-muʾminin an yaqtula muʾminan illā khaṭaʾā, wa man qatala muʾminan khaṭaʾan fa-taḥrīru raqabatin muʾminatin wa diyatun musallamatun ilā ahlihī illā an yaṣṣaddaqū … fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayni tawbatan mina'llāh · Wa man yaqtul muʾminan mutaʿammidan fa-jazāʾuhū jahannamu khālidan fīhā wa ghaḍiba'llāhu ʿalayhi wa laʿanahū wa aʿadda lahū ʿadhāban ʿaẓīmā*
 
@@ -3851,7 +3851,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/94-96 — يا أيها الذين آمنوا إذا ضربتم في سبيل الله فتبينوا ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا فعند الله مغانم كثيرة كذلك كنتم من قبل فمن الله عليكم فتبينوا
+## 4/94-96 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟
 
 *Yā ayyuha'lladhīna āmanū idhā ḍarabtum fī sabīli'llāhi fa-tabayyanū wa lā taqūlū li-man alqā ilaykumu'l-salāma lasta muʾminan tabtaghūna ʿaraḍa'l-ḥayāti'l-dunyā, fa-ʿinda'llāhi maghānimu kathīra, kadhālika kuntum min qablu fa-manna'llāhu ʿalaykum fa-tabayyanū*
 
@@ -3904,7 +3904,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/97-100 — إن الذين توفاهم الملائكة ظالمي أنفسهم قالوا فيم كنتم قالوا كنا مستضعفين في الأرض قالوا ألم تكن أرض الله واسعة فتهاجروا فيها … · إلا المستضعفين من الرجال والنساء والولدان لا يستطيعون حيلة ولا يهتدون سبيلا · فأولئك عسى الله أن يعفو عنهم … · ومن يهاجر في سبيل الله يجد في الأرض مراغما كثيرا وسعة
+## 4/97-100 — إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ قَالُوا۟ فِيمَ كُنتُمْ قَالُوا۟ كُنَّا مُسْتَضْعَفِينَ فِى ٱلْأَرْضِ قَالُوٓا۟ أَلَمْ تَكُنْ أَرْضُ ٱللَّهِ وَٰسِعَةً فَتُهَاجِرُوا۟ فِيهَا … · إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا · فَأُو۟لَٰٓئِكَ عَسَى ٱللَّهُ أَن يَعْفُوَ عَنْهُمْ … · وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً
 
 *Inna'lladhīna tawaffāhumu'l-malāʾikatu ẓālimī anfusihim qālū fīma kuntum, qālū kunnā mustaḍʿafīna fi'l-arḍ, qālū a-lam takun arḍu'llāhi wāsiʿatan fa-tuhājirū fīhā … · Illa'l-mustaḍʿafīna mina'l-rijāli wa'l-nisāʾi wa'l-wildāni lā yastaṭīʿūna ḥīlatan wa lā yahtadūna sabīlā · Fa-ulāʾika ʿasa'llāhu an yaʿfuwa ʿanhum … · Wa man yuhājir fī sabīli'llāhi yajid fi'l-arḍi murāghaman kathīran wa saʿa*
 
@@ -4006,7 +4006,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/101-104 — وإذا ضربتم في الأرض فليس عليكم جناح أن تقصروا من الصلاة … · وإذا كنت فيهم فأقمت لهم الصلاة فلتقم طائفة منهم معك وليأخذوا أسلحتهم … · فإذا قضيتم الصلاة فاذكروا الله قياما وقعودا وعلى جنوبكم … إن الصلاة كانت على المؤمنين كتابا موقوتا · ولا تهنوا في ابتغاء القوم إن تكونوا تألمون فإنهم يألمون كما تألمون
+## 4/101-104 — وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ … · وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ … · فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ … إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا · وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ
 
 *Wa idhā ḍarabtum fi'l-arḍi fa-laysa ʿalaykum junāḥun an taqṣurū mina'ṣ-ṣalāh … · Wa idhā kunta fīhim fa-aqamta lahumu'ṣ-ṣalāta fa'l-taqum ṭāʾifatun minhum maʿaka wa'l-yaʾkhudhū asliḥatahum … · Fa-idhā qaḍaytumu'ṣ-ṣalāta fa'dhkuru'llāha qiyāman wa quʿūdan wa ʿalā junūbikum … inna'ṣ-ṣalāta kānat ʿala'l-muʾminīna kitāban mawqūtā · Wa lā tahinū fi'btighāʾi'l-qawm, in takūnū taʾlamūna fa-innahum yaʾlamūna kamā taʾlamūn*
 
@@ -4054,7 +4054,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/105-113 — إنا أنزلنا إليك الكتاب بالحق لتحكم بين الناس بما أراك الله ولا تكن للخائنين خصيما … · يستخفون من الناس ولا يستخفون من الله وهو معهم … · ومن يكسب خطيئة أو إثما ثم يرم به بريئا فقد احتمل بهتانا وإثما مبينا
+## 4/105-113 — إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ لِتَحْكُمَ بَيْنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُ وَلَا تَكُن لِّلْخَآئِنِينَ خَصِيمًا … · يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ … · وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا وَإِثْمًا مُّبِينًا
 
 *Innā anzalnā ilayka'l-kitāba bi'l-ḥaqqi li-taḥkuma bayna'l-nāsi bimā arāka'llāh, wa lā takun li'l-khāʾinīna khaṣīmā … · Yastakhfūna mina'l-nāsi wa lā yastakhfūna mina'llāhi wa huwa maʿahum … · Wa man yaksib khaṭīʾatan aw ithman thumma yarmi bihī barīʾan fa-qadi'ḥtamala buhtānan wa ithman mubīnā*
 
@@ -4211,7 +4211,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/114-115 — لا خير في كثير من نجواهم إلا من أمر بصدقة أو معروف أو إصلاح بين الناس ومن يفعل ذلك ابتغاء مرضات الله فسوف نؤتيه أجرا عظيما · ومن يشاقق الرسول من بعد ما تبين له الهدى ويتبع غير سبيل المؤمنين نوله ما تولى ونصله جهنم وساءت مصيرا
+## 4/114-115 — لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا · وَمَن يُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُ ٱلْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ ٱلْمُؤْمِنِينَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصْلِهِۦ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Lā khayra fī kathīrin min najwāhum illā man amara bi-ṣadaqatin aw maʿrūfin aw iṣlāḥin bayna'l-nās, wa man yafʿal dhālika'btighāʾa marḍāti'llāhi fa-sawfa nuʾtīhi ajran ʿaẓīmā · Wa man yushāqiqi'l-rasūla min baʿdi mā tabayyana lahu'l-hudā wa yattabiʿ ghayra sabīli'l-muʾminīna nuwallihī mā tawallā wa nuṣlihī jahannam, wa sāʾat maṣīrā*
 
@@ -4263,7 +4263,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/116-121 — إن الله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء … · لعنه الله وقال لأتخذن من عبادك نصيبا مفروضا · ولأضلنهم ولأمنينهم … · يعدهم ويمنيهم وما يعدهم الشيطان إلا غرورا
+## 4/116-121 — إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ … · لَّعَنَهُ ٱللَّهُ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَّفْرُوضًا · وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ … · يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 
 *Inna'llāha lā yaghfiru an yushraka bihī wa yaghfiru mā dūna dhālika li-man yashāʾ … · Laʿanahu'llāh, wa qāla la-attakhidhanna min ʿibādika naṣīban mafrūḍā · Wa la-uḍillannahum wa la-umanniyannahum … · Yaʿiduhum wa yumannīhim, wa mā yaʿiduhumu'l-shayṭānu illā ghurūrā*
 
@@ -4318,7 +4318,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/122-126 — والذين آمنوا وعملوا الصالحات سندخلهم جنات تجري من تحتها الأنهار … · ليس بأمانيكم ولا أماني أهل الكتاب من يعمل سوءا يجز به ولا يجد له من دون الله وليا ولا نصيرا · ومن يعمل من الصالحات من ذكر أو أنثى وهو مؤمن فأولئك يدخلون الجنة ولا يظلمون نقيرا · ومن أحسن دينا ممن أسلم وجهه لله وهو محسن واتبع ملة إبراهيم حنيفا واتخذ الله إبراهيم خليلا
+## 4/122-126 — وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ … · لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا · وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا · وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 
 *Wa'lladhīna āmanū wa ʿamilu'ṣ-ṣāliḥāti sa-nudkhiluhum jannātin tajrī min taḥtiha'l-anhār … · Laysa bi-amāniyyikum wa lā amāniyyi ahli'l-kitāb, man yaʿmal sūʾan yujza bihī wa lā yajid lahū min dūni'llāhi waliyyan wa lā naṣīrā · Wa man yaʿmal mina'ṣ-ṣāliḥāti min dhakarin aw unthā wa huwa muʾminun fa-ulāʾika yadkhulūna'l-jannata wa lā yuẓlamūna naqīrā · Wa man aḥsanu dīnan mimman aslama wajhahū li'llāhi wa huwa muḥsinun wa'ttabaʿa millata Ibrāhīma ḥanīfā, wa'ttakhadha'llāhu Ibrāhīma khalīlā*
 
@@ -4377,7 +4377,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/127 — ويستفتونك في النساء قل الله يفتيكم فيهن وما يتلى عليكم في الكتاب في يتامى النساء اللاتي لا تؤتونهن ما كتب لهن وترغبون أن تنكحوهن والمستضعفين من الولدان وأن تقوموا لليتامى بالقسط
+## 4/127 — وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ
 
 *Wa yastaftūnaka fi'l-nisāʾ, quli'llāhu yuftīkum fīhinna wa mā yutlā ʿalaykum fi'l-kitābi fī yatāma'l-nisāʾi'llātī lā tuʾtūnahunna mā kutiba lahunna wa targhabūna an tankiḥūhunna wa'l-mustaḍʿafīna mina'l-wildāni wa an taqūmū li'l-yatāmā bi'l-qisṭ*
 
@@ -4424,7 +4424,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/128-130 — وإن امرأة خافت من بعلها نشوزا أو إعراضا فلا جناح عليهما أن يصلحا بينهما صلحا والصلح خير وأحضرت الأنفس الشح … · ولن تستطيعوا أن تعدلوا بين النساء ولو حرصتم فلا تميلوا كل الميل فتذروها كالمعلقة وإن تصلحوا وتتقوا فإن الله كان غفورا رحيما · وإن يتفرقا يغن الله كلا من سعته
+## 4/128-130 — وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَٱلصُّلْحُ خَيْرٌ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ … · وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا · وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّا مِّن سَعَتِهِۦ
 
 *Wa ini'mraʾatun khāfat min baʿlihā nushūzan aw iʿrāḍan fa-lā junāḥa ʿalayhimā an yuṣliḥā baynahumā ṣulḥā, wa'l-ṣulḥu khayr, wa uḥḍirati'l-anfusu'l-shuḥḥ … · Wa lan tastaṭīʿū an taʿdilū bayna'l-nisāʾi wa law ḥaraṣtum, fa-lā tamīlū kulla'l-mayli fa-tadharūhā ka'l-muʿallaqa, wa in tuṣliḥū wa tattaqū fa-inna'llāha kāna Ghafūran Raḥīmā · Wa in yatafarraqā yughni'llāhu kullan min saʿatih*
 
@@ -4528,7 +4528,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/131-134 — ولله ما في السماوات وما في الأرض ولقد وصينا الذين أوتوا الكتاب من قبلكم وإياكم أن اتقوا الله … · من كان يريد ثواب الدنيا فعند الله ثواب الدنيا والآخرة وكان الله سميعا بصيرا
+## 4/131-134 — وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَلَقَدْ وَصَّيْنَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَإِيَّاكُمْ أَنِ ٱتَّقُوا۟ ٱللَّهَ … · مَّن كَانَ يُرِيدُ ثَوَابَ ٱلدُّنْيَا فَعِندَ ٱللَّهِ ثَوَابُ ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَكَانَ ٱللَّهُ سَمِيعًۢا بَصِيرًا
 
 *Wa li'llāhi mā fi's-samāwāti wa mā fi'l-arḍ, wa laqad waṣṣayna'lladhīna ūtu'l-kitāba min qablikum wa iyyākum ani'ttaqu'llāh … · Man kāna yurīdu thawāba'l-dunyā fa-ʿinda'llāhi thawābu'l-dunyā wa'l-ākhira, wa kāna'llāhu Samīʿan Baṣīrā*
 
@@ -4563,7 +4563,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/135 — يا أيها الذين آمنوا كونوا قوامين بالقسط شهداء لله ولو على أنفسكم أو الوالدين والأقربين إن يكن غنيا أو فقيرا فالله أولى بهما فلا تتبعوا الهوى أن تعدلوا وإن تلووا أو تعرضوا فإن الله كان بما تعملون خبيرا
+## 4/135 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 
 *Yā ayyuha'lladhīna āmanū kūnū qawwāmīna bi'l-qisṭi shuhadāʾa li'llāhi wa law ʿalā anfusikum awi'l-wālidayni wa'l-aqrabīn, in yakun ghaniyyan aw faqīran fa'llāhu awlā bihimā, fa-lā tattabiʿu'l-hawā an taʿdilū, wa in talwū aw tuʿriḍū fa-inna'llāha kāna bimā taʿmalūna Khabīrā*
 
@@ -4704,7 +4704,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/136-139 — يا أيها الذين آمنوا آمنوا بالله ورسوله والكتاب الذي نزل على رسوله والكتاب الذي أنزل من قبل … · إن الذين آمنوا ثم كفروا ثم آمنوا ثم كفروا ثم ازدادوا كفرا لم يكن الله ليغفر لهم … · الذين يتخذون الكافرين أولياء من دون المؤمنين أيبتغون عندهم العزة فإن العزة لله جميعا
+## 4/136-139 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ … · إِنَّ ٱلَّذِينَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّمْ يَكُنِ ٱللَّهُ لِيَغْفِرَ لَهُمْ … · ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا
 
 *Yā ayyuha'lladhīna āmanū āminū bi'llāhi wa rasūlihī wa'l-kitābi'lladhī nazzala ʿalā rasūlihī wa'l-kitābi'lladhī anzala min qabl … · Inna'lladhīna āmanū thumma kafarū thumma āmanū thumma kafarū thumma'zdādū kufran lam yakuni'llāhu li-yaghfira lahum … · Alladhīna yattakhidhūna'l-kāfirīna awliyāʾa min dūni'l-muʾminīn, a-yabtaghūna ʿindahumu'l-ʿizzata fa-inna'l-ʿizzata li'llāhi jamīʿā*
 
@@ -4755,7 +4755,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/140-141 — وقد نزل عليكم في الكتاب أن إذا سمعتم آيات الله يكفر بها ويستهزأ بها فلا تقعدوا معهم حتى يخوضوا في حديث غيره إنكم إذا مثلهم … · الذين يتربصون بكم فإن كان لكم فتح من الله قالوا ألم نكن معكم
+## 4/140-141 — وَقَدْ نَزَّلَ عَلَيْكُمْ فِى ٱلْكِتَٰبِ أَنْ إِذَا سَمِعْتُمْ ءَايَٰتِ ٱللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا۟ مَعَهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦٓ إِنَّكُمْ إِذًا مِّثْلُهُمْ … · ٱلَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِن كَانَ لَكُمْ فَتْحٌ مِّنَ ٱللَّهِ قَالُوٓا۟ أَلَمْ نَكُن مَّعَكُمْ
 
 *Wa qad nazzala ʿalaykum fi'l-kitābi an idhā samiʿtum āyāti'llāhi yukfaru bihā wa yustahzaʾu bihā fa-lā taqʿudū maʿahum ḥattā yakhūḍū fī ḥadīthin ghayrih, innakum idhan mithluhum … · Alladhīna yatarabbaṣūna bikum fa-in kāna lakum fatḥun mina'llāhi qālū a-lam nakun maʿakum*
 
@@ -4809,7 +4809,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/142-147 — إن المنافقين يخادعون الله وهو خادعهم وإذا قاموا إلى الصلاة قاموا كسالى … · مذبذبين بين ذلك لا إلى هؤلاء ولا إلى هؤلاء · … إن المنافقين في الدرك الأسفل من النار … · إلا الذين تابوا وأصلحوا واعتصموا بالله وأخلصوا دينهم لله فأولئك مع المؤمنين · ما يفعل الله بعذابكم إن شكرتم وآمنتم
+## 4/142-147 — إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ … · مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ · … إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ … · إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ · مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ
 
 *Inna'l-munāfiqīna yukhādiʿūna'llāha wa huwa khādiʿuhum wa idhā qāmū ila'ṣ-ṣalāti qāmū kusālā … · Mudhabdhabīna bayna dhālika lā ilā hāʾulāʾi wa lā ilā hāʾulāʾ · … Inna'l-munāfiqīna fi'l-darki'l-asfali mina'l-nār … · Illa'lladhīna tābū wa aṣlaḥū wa'ʿtaṣamū bi'llāhi wa akhlaṣū dīnahum li'llāhi fa-ulāʾika maʿa'l-muʾminīn · Mā yafʿalu'llāhu bi-ʿadhābikum in shakartum wa āmantum*
 
@@ -4871,7 +4871,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/148-152 — لا يحب الله الجهر بالسوء من القول إلا من ظلم … · إن تبدوا خيرا أو تخفوه أو تعفوا عن سوء فإن الله كان عفوا قديرا · … الذين يفرقون بين الله ورسله … · والذين آمنوا بالله ورسله ولم يفرقوا بين أحد منهم أولئك سوف يؤتيهم أجورهم
+## 4/148-152 — لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ … · إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا · … وَيُرِيدُونَ أَن يُفَرِّقُوا۟ بَيْنَ ٱللَّهِ وَرُسُلِهِۦ … · وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ
 
 *Lā yuḥibbu'llāhu'l-jahra bi's-sūʾi mina'l-qawli illā man ẓulim … · In tubdū khayran aw tukhfūhu aw taʿfū ʿan sūʾin fa-inna'llāha kāna ʿAfuwwan Qadīrā · … Alladhīna yufarriqūna bayna'llāhi wa rusulihī … · Wa'lladhīna āmanū bi'llāhi wa rusulihī wa lam yufarriqū bayna aḥadin minhum ulāʾika sawfa yuʾtīhim ujūrahum*
 
@@ -4928,7 +4928,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/153-159 — يسألك أهل الكتاب أن تنزل عليهم كتابا من السماء … · فبما نقضهم ميثاقهم وكفرهم بآيات الله وقتلهم الأنبياء بغير حق وقولهم قلوبنا غلف … · وبكفرهم وقولهم على مريم بهتانا عظيما · وقولهم إنا قتلنا المسيح عيسى ابن مريم رسول الله وما قتلوه وما صلبوه ولكن شبه لهم … وما قتلوه يقينا · بل رفعه الله إليه
+## 4/153-159 — يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ … · فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ … · وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًا · وَقَوْلِهِمْ إِنَّا قَتَلْنَا ٱلْمَسِيحَ عِيسَى ٱبْنَ مَرْيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ … وَمَا قَتَلُوهُ يَقِينًۢا · بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ
 
 *Yasʾaluka ahlu'l-kitābi an tunazzila ʿalayhim kitāban mina's-samāʾ … · Fa-bimā naqḍihim mīthāqahum wa kufrihim bi-āyāti'llāhi wa qatlihimu'l-anbiyāʾa bi-ghayri ḥaqqin wa qawlihim qulūbunā ghulf … · Wa bi-kufrihim wa qawlihim ʿalā Maryama buhtānan ʿaẓīmā · Wa qawlihim innā qatalna'l-Masīḥa ʿĪsa'bna Maryama rasūla'llāh, wa mā qatalūhu wa mā ṣalabūhu wa lākin shubbiha lahum … wa mā qatalūhu yaqīnā · Bal rafaʿahu'llāhu ilayh*
 
@@ -5029,7 +5029,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/160-162 — فبظلم من الذين هادوا حرمنا عليهم طيبات أحلت لهم وبصدهم عن سبيل الله كثيرا · وأخذهم الربا وقد نهوا عنه وأكلهم أموال الناس بالباطل … · لكن الراسخون في العلم منهم والمؤمنون يؤمنون بما أنزل إليك وما أنزل من قبلك والمقيمين الصلاة والمؤتون الزكاة والمؤمنون بالله واليوم الآخر أولئك سنؤتيهم أجرا عظيما
+## 4/160-162 — فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا · وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ … · لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا
 
 *Fa-bi-ẓulmin mina'lladhīna hādū ḥarramnā ʿalayhim ṭayyibātin uḥillat lahum wa bi-ṣaddihim ʿan sabīli'llāhi kathīrā · Wa akhdhihimu'l-ribā wa qad nuhū ʿanhu wa aklihim amwāla'l-nāsi bi'l-bāṭil … · Lākini'l-rāsikhūna fi'l-ʿilmi minhum wa'l-muʾminūna yuʾminūna bimā unzila ilayka wa mā unzila min qablik, wa'l-muqīmīna'ṣ-ṣalāta wa'l-muʾtūna'l-zakāta wa'l-muʾminūna bi'llāhi wa'l-yawmi'l-ākhir, ulāʾika sa-nuʾtīhim ajran ʿaẓīmā*
 
@@ -5084,7 +5084,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/163-166 — إنا أوحينا إليك كما أوحينا إلى نوح والنبيين من بعده … · ورسلا قد قصصناهم عليك من قبل ورسلا لم نقصصهم عليك وكلم الله موسى تكليما · رسلا مبشرين ومنذرين لئلا يكون للناس على الله حجة بعد الرسل
+## 4/163-166 — إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّـۧنَ مِنۢ بَعْدِهِۦ … · وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًا · رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ
 
 *Innā awḥaynā ilayka kamā awḥaynā ilā Nūḥin wa'l-nabiyyīna min baʿdih … · Wa rusulan qad qaṣaṣnāhum ʿalayka min qablu wa rusulan lam naqṣuṣhum ʿalayk, wa kallama'llāhu Mūsā taklīmā · Rusulan mubashshirīna wa mundhirīna li-allā yakūna li'l-nāsi ʿala'llāhi ḥujjatun baʿda'l-rusul*
 
@@ -5108,7 +5108,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/167-170 — إن الذين كفروا وصدوا عن سبيل الله قد ضلوا ضلالا بعيدا … · يا أيها الناس قد جاءكم الرسول بالحق من ربكم فآمنوا خيرا لكم وإن تكفروا فإن لله ما في السماوات والأرض
+## 4/167-170 — إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ قَدْ ضَلُّوا۟ ضَلَٰلًۢا بَعِيدًا … · يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُمُ ٱلرَّسُولُ بِٱلْحَقِّ مِن رَّبِّكُمْ فَـَٔامِنُوا۟ خَيْرًا لَّكُمْ وَإِن تَكْفُرُوا۟ فَإِنَّ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
 
 *Inna'lladhīna kafarū wa ṣaddū ʿan sabīli'llāhi qad ḍallū ḍalālan baʿīdā … · Yā ayyuha'l-nāsu qad jāʾakumu'l-rasūlu bi'l-ḥaqqi min rabbikum fa-āminū khayran lakum, wa in takfurū fa-inna li'llāhi mā fi's-samāwāti wa'l-arḍ*
 
@@ -5138,7 +5138,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/171-173 — يا أهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه … ولا تقولوا ثلاثة انتهوا خيرا لكم … · لن يستنكف المسيح أن يكون عبدا لله ولا الملائكة المقربون · فأما الذين آمنوا وعملوا الصالحات فيوفيهم أجورهم ويزيدهم من فضله
+## 4/171-173 — يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ … وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ … · لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ
 
 *Yā ahla'l-kitābi lā taghlū fī dīnikum wa lā taqūlū ʿala'llāhi illa'l-ḥaqq, innama'l-Masīḥu ʿĪsa'bnu Maryama rasūlu'llāhi wa kalimatuhū alqāhā ilā Maryama wa rūḥun minhu … wa lā taqūlū thalātha, intahū khayran lakum … · Lan yastankifa'l-Masīḥu an yakūna ʿabdan li'llāhi wa la'l-malāʾikatu'l-muqarrabūn · Fa-amma'lladhīna āmanū wa ʿamilu'ṣ-ṣāliḥāti fa-yuwaffīhim ujūrahum wa yazīduhum min faḍlih*
 
@@ -5225,7 +5225,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/174-175 — يا أيها الناس قد جاءكم برهان من ربكم وأنزلنا إليكم نورا مبينا · فأما الذين آمنوا بالله واعتصموا به فسيدخلهم في رحمة منه وفضل ويهديهم إليه صراطا مستقيما
+## 4/174-175 — يَٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَكُم بُرْهَٰنٌ مِّن رَّبِّكُمْ وَأَنزَلْنَآ إِلَيْكُمْ نُورًا مُّبِينًا · فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا
 
 *Yā ayyuha'l-nāsu qad jāʾakum burhānun min rabbikum wa anzalnā ilaykum nūran mubīnā · Fa-amma'lladhīna āmanū bi'llāhi wa'ʿtaṣamū bihī fa-sa-yudkhiluhum fī raḥmatin minhu wa faḍlin wa yahdīhim ilayhi ṣirāṭan mustaqīmā*
 
@@ -5259,7 +5259,7 @@ The pronoun of the second qualification must be recorded: *ātū**hunna*** — "
 
 ---
 
-## 4/176 — يستفتونك قل الله يفتيكم في الكلالة إن امرؤ هلك ليس له ولد وله أخت فلها نصف ما ترك وهو يرثها إن لم يكن لها ولد فإن كانتا اثنتين فلهما الثلثان مما ترك وإن كانوا إخوة رجالا ونساء فللذكر مثل حظ الأنثيين يبين الله لكم أن تضلوا والله بكل شيء عليم
+## 4/176 — يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
 
 *Yastaftūnak, quli'llāhu yuftīkum fi'l-kalālah, ini'mruʾun halaka laysa lahū waladun wa lahū ukhtun fa-lahā niṣfu mā tarak, wa huwa yarithuhā in lam yakun lahā walad, fa-in kānata'thnatayni fa-lahuma'l-thuluthāni mimmā tarak, wa in kānū ikhwatan rijālan wa nisāʾan fa-li'l-dhakari mithlu ḥaẓẓi'l-unthayayn, yubayyinu'llāhu lakum an taḍillū, wa'llāhu bi-kulli shayʾin ʿAlīm*
 

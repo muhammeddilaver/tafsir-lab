@@ -66,7 +66,7 @@ Besmele önceki bölümlerde işlendi; ayetler besmelesiz sayılmıştır.
 
 ---
 
-## 68/1 — نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
+## 68/1 — نٓ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
 
 *Nûn, ve'l-kalemi ve mâ yesturûn*
 "Nûn. Kaleme ve satır satır yazdıklarına andolsun."
@@ -158,7 +158,7 @@ Sûre, akıl sağlığı üzerinden yürütülen bir tartışmayı — yani tama
 
 ---
 
-## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ ۝ وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
+## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ · وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
 
 *Mâ ente bi-ni'meti rabbike bi-mecnûn — ve inne leke le-ecran ğayra memnûn*
 "Sen, Rabbinin nimeti sayesinde bir mecnûn değilsin. Ve senin için kesintisiz bir ödül vardır."
@@ -370,7 +370,7 @@ Ve Mülk bahsinde işlenen *ahsen* ölçüsü tam buraya oturuyor: ölçü, elin
 
 ---
 
-## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ ۝ بِأَييِّكُمُ ٱلْمَفْتُونُ ۝ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ · بِأَييِّكُمُ ٱلْمَفْتُونُ · إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
 
 *Fe-se-tübsıru ve yübsırûn — bi-eyyikümü'l-meftûn — inne rabbeke hüve a'lemü bi-men dalle an sebîlihî ve hüve a'lemü bi'l-mühtedîn*
 "Yakında sen de göreceksin, onlar da görecek: hanginizde imiş o çarpılmışlık. Şüphesiz Rabbin, kendi yolundan sapanı en iyi bilendir; doğru yolda olanları da en iyi bilen O'dur."
@@ -468,7 +468,7 @@ Sûrenin yaptığı şey, suçlamayı bir **soruya** çevirmek. Soru ile suçlam
 
 ---
 
-## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ ۝ وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
+## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ · وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
 
 *Fe-lâ tütı'i'l-mükezzibîn — veddû lev tüdhinü fe-yüdhinûn*
 "Öyleyse yalanlayanlara boyun eğme. İsterler ki sen yağ süresin, onlar da sürsün."
@@ -610,7 +610,7 @@ Bir toplantıda gereksiz bir tartışmayı yumuşatmak faydalıdır. Bir aile or
 
 ---
 
-## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ ۝ هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ ۝ مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ ۝ عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
+## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ · هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ · مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ · عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
 
 *Ve lâ tütı' külle hallâfin mehîn — hemmâzin meşşâin bi-nemîm — mennâin li'l-hayri mu'tedin esîm — utüllin ba'de zâlike zenîm*
 "Şuna da boyun eğme: çok yemin eden, aşağılık; çokça ayıplayan, laf taşıyıp duran; hayrı engelleyen, saldırgan, günahkâr; kaba, üstelik soyu bozuk."
@@ -863,7 +863,7 @@ Portredeki adamın bütün sıfatları bir **konum kaygısı** etrafında toplan
 
 ---
 
-## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ ۝ إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ ۝ سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ · إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ · سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
 
 *En kâne zâ mâlin ve benîn — izâ tütlâ aleyhi âyâtünâ kâle esâtîru'l-evvelîn — se-nesimühû ale'l-hurtûm*
 "Mal ve oğullar sahibi olduğu için. Ayetlerimiz kendisine okunduğunda 'eskilerin masalları' der. Yakında onu hortumunun üzerinden damgalayacağız."
@@ -1047,7 +1047,7 @@ Bir görüşü içeriğine bakmadan bir kategoriye yerleştirip geçmek, bugün 
 
 ---
 
-## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ ۝ وَلَا يَسْتَثْنُونَ ۝ فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ ۝ فَأَصْبَحَتْ كَٱلصَّرِيمِ
+## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ · وَلَا يَسْتَثْنُونَ · فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ · فَأَصْبَحَتْ كَٱلصَّرِيمِ
 
 *İnnâ belevnâhüm kemâ belevnâ ashâbe'l-cenneti iz aksemû le-yasrimünnehâ musbihîn — ve lâ yestesnûn — fe-tâfe aleyhâ tâifün min rabbike ve hüm nâimûn — fe-asbehat ke's-sarîm*
 "Biz onları, o bahçe sahiplerini denediğimiz gibi denedik. Hani sabah olunca onu mutlaka devşireceklerine yemin etmişlerdi ve bir istisna da koymamışlardı. Onlar uyurken Rabbinden gelen bir dolaşıcı bahçeyi dolaştı ve bahçe kapkara kesildi."
@@ -1219,7 +1219,7 @@ Ve on sekizinci ayetteki eksiklik tam da buydu: *"Allah dilerse"* demediler. All
 
 ---
 
-## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ ۝ أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ ۝ فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ ۝ أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ ۝ وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ ۝ فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ ۝ بَلْ نَحْنُ مَحْرُومُونَ
+## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ · أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ · فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ · أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ · وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ · فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ · بَلْ نَحْنُ مَحْرُومُونَ
 
 *Fe-tenâdev musbihîn — eni'ğdû alâ harsiküm in küntüm sârimîn — fe'ntalekû ve hüm yetehâfetûn — en lâ yedhulennehe'l-yevme aleyküm miskîn — ve ğadev alâ hardin kâdirîn — fe-lemmâ raevhâ kâlû innâ le-dâllûn — bel nahnü mahrûmûn*
 "Sabahleyin birbirlerine seslendiler: 'Devşirecekseniz erkenden tarlanıza gidin!' Aralarında fısıldaşarak yola koyuldular: 'Sakın bugün oraya yanınıza bir yoksul girmesin!' Engelleme gücüne sahip olduklarını sanarak erkenden gittiler. Bahçeyi gördüklerinde dediler ki: 'Herhalde yolumuzu şaşırdık.' Sonra: 'Hayır, biz mahrum bırakılmışız.'"
@@ -1418,7 +1418,7 @@ Yani ellerinde olmayan bir şey üzerinde kudret iddia ediyorlar. Bahçe zaten g
 
 ---
 
-## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ ۝ قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ ۝ فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ ۝ قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ ۝ عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ ۝ كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ · قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ · فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ · قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ · عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ · كَذَٰلِكَ ٱلْعَذَابُ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ لَوْ كَانُوا۟ يَعْلَمُونَ
 
 *Kâle evsatühüm elem ekul leküm levlâ tüsebbihûn — kâlû sübhâne rabbinâ innâ künnâ zâlimîn — fe-akbele ba'duhüm alâ ba'dın yetelâvemûn — kâlû yâ veylenâ innâ künnâ tâğîn — asâ rabbunâ en yübdilenâ hayran minhâ innâ ilâ rabbinâ râğıbûn — kezâlike'l-azâb, ve le-azâbü'l-âhırati ekber, lev kânû ya'lemûn*
 "En insaflıları dedi ki: 'Ben size 'tesbih etseydiniz ya' dememiş miydim?' Dediler: 'Rabbimizi tenzih ederiz; biz gerçekten zalimlermişiz.' Sonra birbirlerine dönüp birbirlerini kınamaya başladılar. Dediler: 'Yazıklar olsun bize! Biz gerçekten azgınlarmışız. Umulur ki Rabbimiz bize bundan daha iyisini verir; biz artık Rabbimize yöneliyoruz.' İşte azap böyledir. Âhiret azabı ise daha büyüktür — bir bilselerdi.'"
@@ -1778,7 +1778,7 @@ Bu şart cümlesi (*in kânû sâdikîn*) Kur'an'da inkârcılara yöneltilen de
 
 ---
 
-## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ ۝ خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
+## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
 
 *Yevme yükşefü an sâkın ve yüd'avne ile's-sücûdi fe-lâ yestetî'ûn — hâşi'aten ebsâruhüm terhekuhüm zilleh, ve kad kânû yüd'avne ile's-sücûdi ve hüm sâlimûn*
 "O gün işin ciddiyeti ortaya çıkar ve secdeye çağrılırlar; ama güç yetiremezler. Gözleri düşmüş, kendilerini bir zillet bürümüş halde. Oysa onlar sapasağlamken de secdeye çağrılıyorlardı."
@@ -1926,7 +1926,7 @@ Bir insanın bir şeyi yapmaması, çoğunlukla bir tercihtir. Ama tercih tekrar
 
 ---
 
-## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ ۝ وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ ۝ أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ ۝ أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ · وَأُمْلِى لَهُمْ إِنَّ كَيْدِى مَتِينٌ · أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ · أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
 
 *Fe-zernî ve men yükezzibü bi-hâze'l-hadîs, se-nestedricühüm min haysü lâ ya'lemûn — ve ümlî lehüm, inne keydî metîn — em tes'elühüm ecran fe-hüm min mağramin müskalûn — em indehümü'l-ğaybü fe-hüm yektübûn*
 "Beni ve bu sözü yalanlayanı baş başa bırak. Onları, bilmedikleri yerden derece derece çekeceğiz. Onlara mühlet veriyorum; benim tuzağım sağlamdır. Yoksa sen onlardan bir ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Yoksa gayb onların yanında da, oradan mı yazıyorlar?"
@@ -2088,7 +2088,7 @@ Kırk yedinci ayet: *fe-hüm **yektübûn*** — yazıyorlar mı?
 
 ---
 
-## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ ۝ لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ ۝ فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ · لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ · فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 
 *Fe'sbir li-hukmi rabbike ve lâ tekün ke-sâhibi'l-hût, iz nâdâ ve hüve mekzûm — levlâ en tedârekehû ni'metün min rabbihî le-nübize bi'l-arâi ve hüve mezmûm — fe'ctebâhü rabbuhû fe-cealehû mine's-sâlihîn*
 "Rabbinin hükmüne sabret; balık sahibi gibi olma. Hani o, öfkesini yutmuş halde seslenmişti. Rabbinden ona bir nimet yetişmeseydi, kınanmış olarak çıplak bir yere atılacaktı. Fakat Rabbi onu seçti ve iyilerden kıldı."
@@ -2293,7 +2293,7 @@ Ve sabrın tarifi, kelimenin kökünde duruyor: **kendini bir yerde tutmak.** Du
 
 ---
 
-## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ ۝ وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
+## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ · وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
 
 *Ve in yekâdü'llezîne keferû le-yüzlikûneke bi-ebsârihim lemmâ semi'u'z-zikra ve yekûlûne innehû le-mecnûn — ve mâ hüve illâ zikrun li'l-âlemîn*
 "Zikri işittiklerinde, inkâr edenler neredeyse seni bakışlarıyla devireceklerdi ve 'o kesinlikle bir mecnûndur' diyorlar. Oysa o, âlemler için bir öğütten başka bir şey değildir."

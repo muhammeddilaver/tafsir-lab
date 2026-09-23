@@ -348,12 +348,12 @@ The root **ت-م-م**: **to bring to completeness, to carry through to the end.*
 **The sequence, then, is this, and it can be verified from the text:**
 
 ```
-verse 1  — the declaration (barāʾa)
-verse 2  — the period (four months, free movement)
-verse 3  — the public announcement + the door of turning back
-verse 4  — the exception of those who did not break the treaty
-verse 5  — the ruling at the end of the period
-verse 6  — the protection of the one who seeks refuge
+verse 1 — the declaration (barāʾa)
+verse 2 — the period (four months, free movement)
+verse 3 — the public announcement + the door of turning back
+verse 4 — the exception of those who did not break the treaty
+verse 5 — the ruling at the end of the period
+verse 6 — the protection of the one who seeks refuge
 ```
 
 **The fifth verse is the fifth link in this chain. Read on its own, the first four links of the chain disappear.**
@@ -1219,7 +1219,7 @@ The ground for this is the sūra's own notes of time: the preceding verse says *
 
 ---
 
-## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
+## 9/30 — وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ
 
 *Wa qālati'l-yahūdu ʿUzayru'bnu'llāh wa qālati'l-naṣāra'l-masīḥu'bnu'llāh; dhālika qawluhum bi-afwāhihim; yuḍāhiʾūna qawla'lladhīna kafarū min qabl; qātalahumu'llāh; annā yuʾfakūn*
 
@@ -2122,10 +2122,10 @@ The root **ن-س-ي**: **to forget; and to abandon.** The lexicographers record 
 **This verse is one of the most densely repetitive sentences in the Qurʾān. The same pattern occurs three times:**
 
 ```
-fa'stamtaʿū      bi-khalāqihim
-fa'stamtaʿtum    bi-khalāqikum
-kama'stamtaʿa    …bi-khalāqihim
-wa khuḍtum       ka'lladhī khāḍū
+fa'stamtaʿū bi-khalāqihim
+fa'stamtaʿtum bi-khalāqikum
+kama'stamtaʿa …bi-khalāqihim
+wa khuḍtum ka'lladhī khāḍū
 ```
 
 **I record this as my own reading, and its ground is this repetition:** the sentence itself does what it relates — **repetition.** The same verb, the same object, different subjects. **The sentence "you did the same thing", that is, is built by repeating the same words.**

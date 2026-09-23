@@ -1000,7 +1000,7 @@ And the whole architecture of the sūra is completed here: the sky changed state
 
 ---
 
-## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
+## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ 
 
 *Fa-mā lahum lā yuʾminūn · Wa idhā quriʾa ʿalayhimu'l-Qurʾānu lā yasjudūn*
 "So what is the matter with them, that they do not believe? And that when the Qurʾān is recited to them they do not prostrate themselves?"
@@ -1047,7 +1047,7 @@ And there is one more detail at the level of language. The verb in the second ve
 
 ### The prostration of recitation
 
-**There is a prostration at this verse.** In the copies of the muṣḥaf the sign of prostration (۩) is placed at the end of the verse.
+**There is a prostration at this verse.** In the copies of the muṣḥaf the sign of prostration () is placed at the end of the verse.
 
 Its ground is reports found in the hadith sources: it is transmitted that the Prophet prostrated himself at the sūra *"Idha's-samāʾu'nshaqqat"*. This report is found in the sound hadith collections; **rather than give a definite attribution as to the transmitter and the full text, I content myself with recording that the report exists.**
 

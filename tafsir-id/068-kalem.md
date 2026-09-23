@@ -66,7 +66,7 @@ Basmalah telah dibahas pada bagian-bagian sebelumnya; ayat-ayat dihitung tanpa b
 
 ---
 
-## 68/1 — نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
+## 68/1 — نٓ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
 
 *Nūn, wal-qalami wa mā yasṭurūn*
 "Nun. Demi pena dan demi apa yang mereka tuliskan baris demi baris."
@@ -158,7 +158,7 @@ Surah ini membuka sebuah perdebatan yang dijalankan lewat kesehatan akal — yak
 
 ---
 
-## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ ۝ وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
+## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ · وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
 
 *Mā anta bi-niʻmati rabbika bimajnūn — wa inna laka la-ajran gaira mamnūn*
 "Engkau, berkat nikmat Tuhanmu, bukanlah orang gila. Dan sesungguhnya bagimu ada pahala yang tidak terputus."
@@ -370,7 +370,7 @@ Dan ukuran *aḥsan* yang telah dibahas pada pembahasan Al-Mulk duduk tepat di s
 
 ---
 
-## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ ۝ بِأَييِّكُمُ ٱلْمَفْتُونُ ۝ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ · بِأَييِّكُمُ ٱلْمَفْتُونُ · إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
 
 *Fa-satubṣiru wa yubṣirūn — bi-ayyikumul-maftūn — inna rabbaka huwa aʻlamu biman ḍalla ʻan sabīlihī wa huwa aʻlamu bil-muhtadīn*
 "Maka kelak engkau akan melihat dan mereka pun akan melihat: pada siapa di antara kalian kerasukan itu berada. Sesungguhnya Tuhanmu, Dialah yang paling tahu siapa yang tersesat dari jalan-Nya; dan Dialah yang paling tahu tentang orang-orang yang mendapat petunjuk."
@@ -468,7 +468,7 @@ Yang dikerjakan surah ini adalah mengubah tuduhan menjadi sebuah **pertanyaan**.
 
 ---
 
-## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ ۝ وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
+## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ · وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
 
 *Fa-lā tuṭiʻil-mukażżibīn — waddū lau tudhinu fa-yudhinūn*
 "Maka janganlah engkau patuh kepada orang-orang yang mendustakan. Mereka ingin agar engkau melumuri dengan minyak, lalu mereka pun melumuri."
@@ -610,7 +610,7 @@ Melunakkan perdebatan yang tidak perlu dalam sebuah rapat itu berguna. Mengurang
 
 ---
 
-## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ ۝ هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ ۝ مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ ۝ عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
+## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ · هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ · مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ · عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
 
 *Wa lā tuṭiʻ kulla ḥallāfim mahīn — hammāzim masysyāʼim binamīm — mannāʻil lil-khairi muʻtadin aṡīm — ʻutullim baʻda żālika zanīm*
 "Dan janganlah engkau patuh kepada orang ini: yang banyak bersumpah lagi hina; yang banyak mencela, yang kian ke mari membawa omongan; yang menghalangi kebaikan, yang melampaui batas, yang bergelimang dosa; yang kasar, dan lagi pula buruk nasabnya."
@@ -863,7 +863,7 @@ Semua sifat orang dalam potret itu terkumpul di sekitar sebuah **kegelisahan ten
 
 ---
 
-## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ ۝ إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ ۝ سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ · إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ · سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
 
 *An kāna żā mālin wa banīn — iżā tutlā ʻalaihi āyātunā qāla asāṭīrul-awwalīn — sanasimuhū ʻalal-khurṭūm*
 "Karena ia pemilik harta dan anak-anak lelaki. Apabila ayat-ayat Kami dibacakan kepadanya, ia berkata, 'dongeng orang-orang dahulu.' Kelak Kami akan menandainya pada belalainya."
@@ -1047,7 +1047,7 @@ Menempatkan sebuah pendapat ke dalam sebuah kategori lalu berlalu tanpa melihat 
 
 ---
 
-## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ ۝ وَلَا يَسْتَثْنُونَ ۝ فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ ۝ فَأَصْبَحَتْ كَٱلصَّرِيمِ
+## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ · وَلَا يَسْتَثْنُونَ · فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ · فَأَصْبَحَتْ كَٱلصَّرِيمِ
 
 *Innā balaunāhum kamā balaunā aṣḥābal-jannati iż aqsamū layaṣrimunnahā muṣbiḥīn — wa lā yastaṡnūn — fa-ṭāfa ʻalaihā ṭāʼifum mir rabbika wa hum nāʼimūn — fa-aṣbaḥat kaṣ-ṣarīm*
 "Sesungguhnya Kami telah menguji mereka sebagaimana Kami telah menguji para pemilik kebun itu. Ketika mereka bersumpah bahwa mereka pasti akan memetik hasilnya pada pagi hari, dan mereka tidak mengucapkan pengecualian. Lalu kebun itu didatangi oleh sesuatu yang berkeliling dari Tuhanmu sementara mereka sedang tidur, dan kebun itu pun menjadi hitam legam."
@@ -1219,7 +1219,7 @@ Dan justru inilah yang tidak ada pada ayat kedelapan belas: mereka tidak berkata
 
 ---
 
-## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ ۝ أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ ۝ فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ ۝ أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ ۝ وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ ۝ فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ ۝ بَلْ نَحْنُ مَحْرُومُونَ
+## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ · أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ · فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ · أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ · وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ · فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ · بَلْ نَحْنُ مَحْرُومُونَ
 
 *Fa-tanādau muṣbiḥīn — anigdū ʻalā ḥarṡikum in kuntum ṣārimīn — fanṭalaqū wa hum yatakhāfatūn — al lā yadkhulannahal-yauma ʻalaikum miskīn — wa gadau ʻalā ḥardin qādirīn — fa-lammā raʼauhā qālū innā laḍāllūn — bal naḥnu maḥrūmūn*
 "Pada pagi hari mereka saling berseru: 'Pergilah pagi-pagi ke ladang kalian kalau kalian hendak memetik!' Mereka pun berangkat sambil berbisik-bisik: 'Pada hari ini jangan sampai ada seorang miskin pun masuk ke sana menemui kalian!' Mereka berangkat pagi-pagi dengan menyangka bahwa mereka berkuasa untuk menghalangi. Ketika melihat kebun itu, mereka berkata: 'Agaknya kita tersesat jalan.' Lalu: 'Tidak, kitalah yang dihalangi.'"
@@ -1418,7 +1418,7 @@ Partikel **بَلْ** dalam bahasa Arab menunjukkan *iḍrāb*: berpaling dari p
 
 ---
 
-## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ ۝ قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ ۝ فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ ۝ قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ ۝ عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ ۝ كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ · قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ · فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ · قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ · عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ · كَذَٰلِكَ ٱلْعَذَابُ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ لَوْ كَانُوا۟ يَعْلَمُونَ
 
 *Qāla ausaṭuhum alam aqul lakum laulā tusabbiḥūn — qālū subḥāna rabbinā innā kunnā ẓālimīn — fa-aqbala baʻḍuhum ʻalā baʻḍin yatalāwamūn — qālū yā wailanā innā kunnā ṭāgīn — ʻasā rabbunā an yubdilanā khairam minhā innā ilā rabbinā rāgibūn — każālikal-ʻażāb, wa laʻażābul-ākhirati akbar, lau kānū yaʻlamūn*
 "Yang paling bijak di antara mereka berkata: 'Bukankah telah kukatakan kepada kalian, mengapa kalian tidak bertasbih?' Mereka berkata: 'Mahasuci Tuhan kami; sungguh, kamilah yang zalim.' Lalu sebagian mereka berhadapan dengan sebagian yang lain dan saling mencela. Mereka berkata: 'Celakalah kami! Sungguh, kamilah yang melampaui batas. Mudah-mudahan Tuhan kami memberi kami ganti yang lebih baik daripada itu; sungguh, kepada Tuhan kami sajalah kami berharap.' Demikianlah azab itu. Dan sungguh, azab akhirat lebih besar — sekiranya mereka mengetahui."
@@ -1778,7 +1778,7 @@ Kalimat syarat ini (*in kānū ṣādiqīn*) sering datang di dalam Al-Qur'an pa
 
 ---
 
-## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ ۝ خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
+## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
 
 *Yauma yuksyafu ʻan sāqin wa yudʻauna ilas-sujūdi fa-lā yastaṭīʻūn — khāsyiʻatan abṣāruhum tarhaquhum żillah, wa qad kānū yudʻauna ilas-sujūdi wa hum sālimūn*
 "Pada hari itu kesungguhan perkara tersingkap dan mereka dipanggil untuk bersujud; tetapi mereka tidak sanggup. Pandangan mereka tertunduk, mereka diliputi kehinaan. Padahal dahulu mereka pun dipanggil untuk bersujud ketika mereka dalam keadaan sehat walafiat."
@@ -1926,7 +1926,7 @@ Bahwa seseorang tidak mengerjakan sesuatu umumnya adalah sebuah pilihan. Tetapi 
 
 ---
 
-## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ ۝ وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ ۝ أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ ۝ أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ · وَأُمْلِى لَهُمْ إِنَّ كَيْدِى مَتِينٌ · أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ · أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
 
 *Fa-żarnī wa may yukażżibu bihāżal-ḥadīṡ, sanastadrijuhum min ḥaiṡu lā yaʻlamūn — wa umlī lahum, inna kaidī matīn — am tasʼaluhum ajran fa-hum mim magramim muṡqalūn — am ʻindahumul-gaibu fa-hum yaktubūn*
 "Biarkanlah Aku berdua dengan orang yang mendustakan perkataan ini. Kelak Kami akan menarik mereka setingkat demi setingkat dari arah yang tidak mereka ketahui. Aku memberi mereka tenggang waktu; sesungguhnya tipu daya-Ku amat kukuh. Ataukah engkau meminta upah kepada mereka sehingga mereka terbebani oleh utang yang berat? Ataukah gaib itu ada di sisi mereka lalu dari sanalah mereka menuliskannya?"
@@ -2088,7 +2088,7 @@ Ayat keempat puluh tujuh: *fa-hum **yaktubūn*** — apakah mereka menuliskannya
 
 ---
 
-## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ ۝ لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ ۝ فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ · لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ · فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 
 *Faṣbir liḥukmi rabbika wa lā takun kaṣāḥibil-ḥūt, iż nādā wa huwa makẓūm — lau lā an tadārakahū niʻmatum mir rabbihī lanubiża bil-ʻarāʼi wa huwa mażmūm — fajtabāhu rabbuhū fa-jaʻalahū minaṣ-ṣāliḥīn*
 "Maka bersabarlah terhadap putusan Tuhanmu; dan janganlah engkau menjadi seperti si pemilik ikan. Ketika itu ia berseru dalam keadaan menelan amarahnya. Sekiranya tidak ada nikmat dari Tuhannya yang menyusulnya, niscaya ia akan dicampakkan ke tanah tandus dalam keadaan tercela. Tetapi Tuhannya memilihnya dan menjadikannya termasuk orang-orang saleh."
@@ -2293,7 +2293,7 @@ Dan batasan kesabaran itu berdiri pada akar katanya: **menahan diri di suatu tem
 
 ---
 
-## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ ۝ وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
+## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ · وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
 
 *Wa in yakādul-lażīna kafarū layuzliqūnaka bi-abṣārihim lammā samiʻuż-żikra wa yaqūlūna innahū lamajnūn — wa mā huwa illā żikrul lil-ʻālamīn*
 "Dan ketika mendengar peringatan itu, orang-orang yang ingkar itu hampir-hampir menggelincirkanmu dengan pandangan mereka, dan mereka berkata, 'ia benar-benar orang gila.' Padahal ia tidak lain adalah peringatan bagi seluruh alam."

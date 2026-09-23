@@ -63,7 +63,7 @@ Bu harfler ayet sayılır, namazda okunur, mushafta yazılıdır. Yani anlamı b
 
 ---
 
-## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ
 
 *Zâlike'l-kitâbü lâ raybe fîh, hüden li'l-müttekîn*
 "İşte o Kitap; onda kuşku yoktur; takvâ sahipleri için yol göstericidir."
@@ -105,7 +105,7 @@ Hayır. Dikkat edin: ayet "kimse ondan şüphe etmez" demiyor; **"onda kuşku yo
 
 ### Mushaftaki küçük işaret
 
-Bu ayette klasik mushaflarda `ۛ` biçiminde üç noktalı iki işaret bulunur — biri "fîh"ten önce, biri sonra. Buna *mu'ânaka* (sarmaşma) denir ve şu anlama gelir: **bu iki yerden birinde durulur, ikisinde birden durulmaz.** Çünkü iki farklı durak, iki farklı anlam verir:
+Bu ayette klasik mushaflarda `` biçiminde üç noktalı iki işaret bulunur — biri "fîh"ten önce, biri sonra. Buna *mu'ânaka* (sarmaşma) denir ve şu anlama gelir: **bu iki yerden birinde durulur, ikisinde birden durulmaz.** Çünkü iki farklı durak, iki farklı anlam verir:
 
 - *"Onda kuşku yoktur. Takvâ sahipleri için yol göstericidir."*
 - *"Onda kuşku yok. İçinde takvâ sahipleri için yol gösterme vardır."*
@@ -4534,7 +4534,7 @@ Sıfat çifti sûrede birkaç kez daha geçer ve her seferinde **söylenen bir s
 
 **Kelimenin seçimi kaydedilmeye değer.** Ayet "verin" ya da "harcayın" demiyor; **"borç verin"** diyor. Borç, geri alınmak üzere verilendir. **Yani infak, kaybedilen değil, alacak hânesine yazılan bir şey olarak tarif ediliyor.**
 
-**وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ** — "Allah daraltır da genişletir de." **Cümlenin buraya konması, verirken duyulan azalma endişesine cevaptır.**
+**وَٱللَّهُ يَقْبِضُ وَيَبْصُطُ** — "Allah daraltır da genişletir de." **Cümlenin buraya konması, verirken duyulan azalma endişesine cevaptır.**
 
 ---
 

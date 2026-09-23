@@ -66,7 +66,7 @@ Basmalah telah dibahas pada bagian-bagian sebelumnya sehingga tidak ditangani la
 
 ---
 
-## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 *Sabbaḥa lillāhi mā fis-samāwāti wal-arḍ, wa huwal-ʻazīzul-ḥakīm*
 "Apa pun yang ada di langit dan di bumi telah bertasbih kepada Allah. Dia Mahaperkasa, Mahabijaksana."
@@ -148,7 +148,7 @@ Dan beradanya pasangan ini di awal surah bermakna: pada ayat ke-25 Al-Hadid akan
 
 ---
 
-## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Lahū mulkus-samāwāti wal-arḍ, yuḥyī wa yumīt, wa huwa ʻalā kulli syaiʼin qadīr*
 "Milik-Nyalah kerajaan langit dan bumi. Dia menghidupkan dan mematikan. Dia Mahakuasa atas segala sesuatu."
@@ -187,7 +187,7 @@ Saya catat ayat yang kedua ini; saya akan kembali kepadanya ketika sampai pada p
 
 ---
 
-## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Huwal-awwalu wal-ākhiru waẓ-ẓāhiru wal-bāṭin, wa huwa bi-kulli syaiʼin ʻalīm*
 "Dia Yang Awal, Yang Akhir, Yang Zahir, Yang Batin. Dia Maha Mengetahui segala sesuatu."
@@ -327,7 +327,7 @@ Surah ini memperlihatkan lukisan tauhid sekali sebagai perpaduan, sekali sebagai
 
 ---
 
-## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 *Huwallażī khalaqas-samāwāti wal-arḍa fī sittati ayyāmin ṡummastawā ʻalal-ʻarsy; yaʻlamu mā yaliju fil-arḍi wa mā yakhruju minhā wa mā yanzilu minas-samāʼi wa mā yaʻruju fīhā; wa huwa maʻakum aina mā kuntum; wallāhu bimā taʻmalūna baṣīr*
 "Dialah yang menciptakan langit dan bumi dalam enam hari, kemudian Dia ber-*istiwāʼ* di atas 'Arsy. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar darinya, apa yang turun dari langit dan apa yang naik kepadanya. Di mana pun kamu berada, Dia bersama kamu. Allah Maha Melihat apa yang kamu kerjakan."
@@ -438,7 +438,7 @@ Penyempitan ini adalah sebuah contoh dari metode surah ini: gambaran besar diteg
 
 ---
 
-## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 *Lahū mulkus-samāwāti wal-arḍ, wa ilallāhi turjaʻul-umūr*
 "Milik-Nyalah kerajaan langit dan bumi. Dan kepada Allah segala urusan dikembalikan."
@@ -472,7 +472,7 @@ Dan di sini pun ada **takdim**: *ilallāhi* (kepada Allah) didahulukan dari kata
 
 ---
 
-## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Yūlijul-laila fin-nahāri wa yūlijun-nahāra fil-lail, wa huwa ʻalīmun bi-żātiṣ-ṣudūr*
 "Dia memasukkan malam ke dalam siang dan memasukkan siang ke dalam malam. Dia Maha Mengetahui segala isi dada."
@@ -544,7 +544,7 @@ Selain itu sebuah mata rantai lagi ditegakkan dengan ayat ketiga. Di sana Allah 
 
 ---
 
-## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
+## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
 
 *Āminū billāhi wa rasūlih, wa anfiqū mimmā jaʻalakum mustakhlafīna fīh; fallażīna āmanū minkum wa anfaqū lahum ajrun kabīr*
 "Berimanlah kepada Allah dan Rasul-Nya; dan berinfaklah dari apa yang di dalamnya Dia menjadikan kamu khalifah. Bagi orang-orang di antara kamu yang beriman dan berinfak ada pahala yang besar."
@@ -701,7 +701,7 @@ Adapun sifat **كبير** tidak menyebutkan ukuran, ia hanya memberitakan kebesa
 
 ---
 
-## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
 *Wa mā lakum lā tuʼminūna billāh, war-rasūlu yadʻūkum li-tuʼminū bi-rabbikum wa qad akhaża mīṡāqakum in kuntum muʼminīn*
 "Ada apa dengan kamu sehingga kamu tidak beriman kepada Allah? Padahal Rasul mengajak kamu untuk beriman kepada Tuhanmu, dan Dia telah mengambil perjanjian dari kamu — jika kamu memang hendak beriman."
@@ -754,7 +754,7 @@ Menurut bacaan ini nada kalimatnya adalah: *"jika kamu menghitung dirimu mukmin,
 
 ---
 
-## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
+## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
 
 *Huwallażī yunazzilu ʻalā ʻabdihī āyātim bayyinātil liyukhrijakum minaẓ-ẓulumāti ilan-nūr; wa innallāha bikum la-raʼūfur raḥīm*
 "Dialah yang menurunkan ayat-ayat yang jelas kepada hamba-Nya — agar Dia mengeluarkan kamu dari kegelapan kepada cahaya. Sungguh, terhadap kamu Allah benar-benar Maha Penyantun lagi Maha Penyayang."
@@ -803,7 +803,7 @@ Datangnya kedua nama ini bersama-sama terdapat di beberapa tempat dalam Al-Qur'a
 
 ---
 
-## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ ۚ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 *Wa mā lakum allā tunfiqū fī sabīlillāhi wa lillāhi mīrāṡus-samāwāti wal-arḍ; lā yastawī minkum man anfaqa min qablil-fatḥi wa qātal; ulāʼika aʻẓamu darajatam minallażīna anfaqū mim baʻdu wa qātalū; wa kullan waʻadallāhul-ḥusnā; wallāhu bimā taʻmalūna khabīr*
 "Ada apa dengan kamu sehingga kamu tidak berinfak di jalan Allah? Padahal milik Allahlah warisan langit dan bumi. Di antara kamu, orang-orang yang berinfak dan berperang sebelum Penaklukan tidaklah sama dengan mereka yang berinfak dan berperang sesudahnya; derajat mereka lebih besar. Tetapi kepada mereka semua Allah telah menjanjikan yang terbaik. Allah Mahateliti atas apa yang kamu kerjakan."
@@ -1042,7 +1042,7 @@ Dan kerabat terdekat adegan ini di dalam Al-Qur'an adalah ayat ke-17 Surah Al-Ba
 
 ---
 
-## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Yauma taral-muʼminīna wal-muʼmināti yasʻā nūruhum baina aidīhim wa bi-aimānihim: busyrākumul-yauma jannātun tajrī min taḥtihal-anhāru khālidīna fīhā; żālika huwal-fauzul-ʻaẓīm*
 "Pada hari engkau melihat orang-orang mukmin laki-laki dan perempuan: cahaya mereka berlari di depan mereka dan di sebelah kanan mereka. 'Pada hari ini kabar gembira bagimu adalah surga-surga yang mengalir di bawahnya sungai-sungai, kamu kekal di dalamnya. Itulah kemenangan yang agung.'"
@@ -1248,7 +1248,7 @@ Di sana katanya *ḥijāb* (tabir), di sini *sūr* (dinding). Dan di sana ada se
 
 ---
 
-## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
+## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
 
 *Yunādūnahum: a-lam nakum maʻakum? Qālū: balā, wa lākinnakum fatantum anfusakum wa tarabbaṣtum wartabtum wa garratkumul-amāniyyu ḥattā jāʼa amrullāh, wa garrakum billāhil-garūr*
 "Mereka menyeru orang-orang mukmin: 'Bukankah kami dahulu bersama kamu?' Mereka menjawab: 'Benar, tetapi kamu menjerumuskan dirimu sendiri ke dalam fitnah, kamu menunggu-nunggu, kamu ragu-ragu, dan angan-angan telah memperdaya kamu — sampai datang ketetapan Allah. Dan si pemperdaya telah memperdaya kamu tentang Allah.'"
@@ -1407,7 +1407,7 @@ Hal ini mengingatkan pada penutup ayat keenam surah ini: **وَهُوَ عَلِ
 
 ---
 
-## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ
+## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ
 
 *Fal-yauma lā yuʼkhażu minkum fidyatun wa lā minallażīna kafarū; maʼwākumun-nār, hiya maulākum, wa biʼsal-maṣīr*
 "Maka pada hari ini tidak diambil tebusan dari kamu, tidak pula dari orang-orang yang ingkar. Tempat bernaungmu adalah api; itulah *maulā* kamu. Dan seburuk-buruk tempat kembali adalah ia!"
@@ -1454,7 +1454,7 @@ Dengan demikian ketiga kata pada ayat ini (*maʼwā*, *maulā*, *maṣīr*) meng
 
 ---
 
-## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *A-lam yaʼni lillażīna āmanū an takhsyaʻa qulūbuhum liżikrillāhi wa mā nazala minal-ḥaqq, wa lā yakūnū kallażīna ūtul-kitāba min qablu fa-ṭāla ʻalaihimul-amadu fa-qasat qulūbuhum; wa kaṡīrum minhum fāsiqūn*
 "Belumkah tiba waktunya bagi orang-orang yang beriman untuk hati mereka melunak karena mengingat Allah dan karena kebenaran yang telah turun? Dan janganlah mereka menjadi seperti orang-orang yang telah diberi kitab sebelumnya: masa yang panjang berlalu atas mereka, lalu hati mereka mengeras. Dan kebanyakan mereka adalah orang-orang fasik."
@@ -1623,7 +1623,7 @@ Sebabnya kemungkinan adalah ini: pendinginan yang terjadi karena masa tidak disa
 
 ---
 
-## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 
 *Iʻlamū annallāha yuḥyil-arḍa baʻda mautihā; qad bayyannā lakumul-āyāti laʻallakum taʻqilūn*
 "Ketahuilah bahwa Allah menghidupkan bumi sesudah matinya. Sungguh, telah Kami jelaskan kepadamu ayat-ayat itu agar kamu mengerti."
@@ -1758,7 +1758,7 @@ Dan sifat imbalannya sama: **أَجْرٌ كَرِيمٌ** — pengulangan persi
 
 ---
 
-## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
+## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
 
 *Wallażīna āmanū billāhi wa rusulih, ulāʼika humuṣ-ṣiddīqūn; wasy-syuhadāʼu ʻinda rabbihim lahum ajruhum wa nūruhum; wallażīna kafarū wa każżabū bi-āyātinā ulāʼika aṣḥābul-jaḥīm*
 "Orang-orang yang beriman kepada Allah dan para rasul-Nya — merekalah orang-orang yang *ṣiddīq*. Adapun para syuhada, mereka berada di sisi Tuhan mereka; bagi mereka ada pahala mereka dan cahaya mereka. Adapun orang-orang yang ingkar dan mendustakan ayat-ayat Kami — merekalah penghuni neraka Jahim."
@@ -1812,7 +1812,7 @@ Urutan keempat kemunculan itu memperlihatkan sebuah jalan:
 
 ---
 
-## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 
 *Iʻlamū annamal-ḥayātud-dunyā laʻibun wa lahwun wa zīnatun wa tafākhurum bainakum wa takāṡurun fil-amwāli wal-aulād; ka-maṡali gaiṡin aʻjabal-kuffāra nabātuhū ṡumma yahīju fa-tarāhu muṣfarran ṡumma yakūnu ḥuṭāmā; wa fil-ākhirati ʻażābun syadīdun wa magfiratum minallāhi wa riḍwān; wa mal-ḥayātud-dunyā illā matāʻul-gurūr*
 "Ketahuilah bahwa kehidupan dunia itu hanyalah permainan, kelalaian, perhiasan, ajang bermegah-megahan di antara kamu, dan berlomba memperbanyak harta dan anak. Seperti hujan: tanaman yang ditumbuhkannya membuat kagum para petani; kemudian ia mengering, lalu engkau melihatnya menguning; kemudian ia menjadi hancur. Dan di akhirat ada azab yang keras, ada pula ampunan dari Allah serta keridaan-Nya. Dan kehidupan dunia tidak lain hanyalah kesenangan yang memperdaya."
@@ -2071,7 +2071,7 @@ Untuk hidupnya sendiri ia tidak dapat mengerjakan hal yang sama — sebab ia ber
 
 ---
 
-## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Sābiqū ilā magfiratim mir rabbikum wa jannatin ʻarḍuhā ka-ʻarḍis-samāʼi wal-arḍ, uʻiddat lillażīna āmanū billāhi wa rusulih; żālika faḍlullāhi yuʼtīhi may yasyāʼ; wallāhu żul-faḍlil-ʻaẓīm*
 "Berlombalah kamu menuju ampunan dari Tuhanmu dan surga yang luasnya seluas langit dan bumi, yang disediakan bagi orang-orang yang beriman kepada Allah dan para rasul-Nya. Itulah karunia Allah; Dia memberikannya kepada siapa yang Dia kehendaki. Dan Allah adalah pemilik karunia yang besar."
@@ -2136,7 +2136,7 @@ Kata ini akan muncul tiga kali lagi pada ayat terakhir surah ini (29) dan di san
 
 ---
 
-## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 *Mā aṣāba min muṣībatin fil-arḍi wa lā fī anfusikum illā fī kitābim min qabli an nabraʼahā; inna żālika ʻalallāhi yasīr. Li-kailā taʼsau ʻalā mā fātakum wa lā tafraḥū bimā ātākum; wallāhu lā yuḥibbu kulla mukhtālin fakhūr*
 "Tidak ada satu musibah pun yang menimpa di bumi dan pada dirimu sendiri melainkan telah tertulis dalam sebuah kitab sebelum Kami mewujudkannya. Sungguh, yang demikian itu mudah bagi Allah. Agar kamu tidak bersedih hati atas apa yang luput dari kamu dan tidak pula terlalu gembira atas apa yang diberikan-Nya kepadamu. Dan Allah tidak menyukai setiap orang yang sombong lagi membanggakan diri."
@@ -2329,7 +2329,7 @@ Yang dicari bukanlah ketiadaan perasaan; melainkan **diketahuinya dengan benar s
 
 ---
 
-## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
 *Allażīna yabkhalūna wa yaʼmurūnan-nāsa bil-bukhl; wa may yatawalla fa-innallāha huwal-ganiyyul-ḥamīd*
 "Mereka yang kikir dan menyuruh orang lain berbuat kikir. Dan barangsiapa berpaling, sesungguhnya Allahlah Yang Mahakaya lagi Maha Terpuji."
@@ -2384,7 +2384,7 @@ Ditambahkannya nama **حميد** juga bermakna. Seandainya *ganī* dikatakan sen
 
 ---
 
-## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 
 *Laqad arsalnā rusulanā bil-bayyināti wa anzalnā maʻahumul-kitāba wal-mīzāna li-yaqūman-nāsu bil-qisṭ; wa anzalnal-ḥadīda fīhi baʼsun syadīdun wa manāfiʻu lin-nāsi wa li-yaʻlamallāhu may yanṣuruhū wa rusulahū bil-gaib; innallāha qawiyyun ʻazīz*
 "Sungguh, Kami telah mengutus para rasul Kami dengan bukti-bukti yang nyata dan Kami turunkan bersama mereka kitab dan mizan agar manusia menegakkan keadilan. Dan Kami turunkan pula besi; padanya ada kekuatan yang dahsyat dan berbagai manfaat bagi manusia — dan agar Allah menetapkan siapa yang menolong-Nya dan para rasul-Nya tanpa melihat-Nya. Sungguh, Allah Mahakuat lagi Mahaperkasa."
@@ -2727,7 +2727,7 @@ Saya mencatat hal ini bukan sebagai sebuah putusan, melainkan sebagai keumuman d
 
 ---
 
-## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Wa laqad arsalnā Nūḥan wa Ibrāhīma wa jaʻalnā fī żurriyyatihiman-nubuwwata wal-kitāb; fa-minhum muhtad, wa kaṡīrum minhum fāsiqūn*
 "Dan sungguh, Kami telah mengutus Nuh dan Ibrahim, dan Kami jadikan kenabian dan kitab pada keturunan keduanya. Di antara mereka ada yang mendapat petunjuk; tetapi kebanyakan mereka adalah orang-orang fasik."
@@ -2755,7 +2755,7 @@ Dan paruh kedua ayat ini sudah memotong hal itu: **"di antara mereka ada yang me
 
 Ini persis sama dengan ukuran yang ditegakkan pada Al-Baqarah 2/124: *"Janji-Ku tidak berlaku bagi orang-orang yang zalim."* Inilah jawaban yang diberikan ketika pertanyaan diajukan tentang keturunan Ibrahim.
 
-### فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+### فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 **Susunannya sendiri menegakkan sebuah keseimbangan** dan ia harus dibaca dengan saksama.
 
@@ -2776,7 +2776,7 @@ Teksnya mengerjakan hal itu sendiri — tiga kali, dengan kata yang sama.
 
 ---
 
-## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Ṡumma qaffainā ʻalā āṡārihim bi-rusulinā wa qaffainā bi-ʻĪsabni Maryama wa ātaināhul-Injīla wa jaʻalnā fī qulūbillażīnattabaʻūhu raʼfatan wa raḥmah; wa rahbāniyyatanibtadaʻūhā mā katabnāhā ʻalaihim illabtigāʼa riḍwānillāhi fa-mā raʻauhā ḥaqqa riʻāyatihā; fa-ātainallażīna āmanū minhum ajrahum; wa kaṡīrum minhum fāsiqūn*
 "Kemudian Kami susulkan para rasul Kami mengikuti jejak mereka, dan Kami susulkan pula Isa putra Maryam; Kami berikan kepadanya Injil. Dan Kami jadikan rasa santun dan kasih sayang di dalam hati orang-orang yang mengikutinya. Adapun kerahiban: mereka sendirilah yang mengada-adakannya; Kami tidak mewajibkannya atas mereka — (mereka melakukannya) hanya untuk mencari keridaan Allah. Tetapi mereka tidak memeliharanya dengan pemeliharaan yang semestinya. Maka Kami berikan pahala mereka kepada orang-orang yang beriman di antara mereka; tetapi kebanyakan mereka adalah orang-orang fasik."
@@ -2947,7 +2947,7 @@ Dan gagasan bersama kedua ayat itu adalah: **memulai sesuatu dan melangsungkanny
 
 ---
 
-## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
 *Yā ayyuhallażīna āmanuttaqullāha wa āminū bi-rasūlih, yuʼtikum kiflaini mir raḥmatihī wa yajʻal lakum nūran tamsyūna bihī wa yagfir lakum; wallāhu gafūrur raḥīm*
 "Wahai orang-orang yang beriman! Bertakwalah kepada Allah dan berimanlah kepada Rasul-Nya, niscaya Dia memberimu dua kali lipat dari rahmat-Nya, memberimu sebuah cahaya yang dengannya kamu berjalan, dan mengampuni kamu. Allah Maha Pengampun lagi Maha Penyayang."
@@ -3027,7 +3027,7 @@ Hal ini dapat dipandang sebagai unsur yang menyokong bacaan pertama (bahwa lawan
 
 ---
 
-## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Li-allā yaʻlama ahlul-kitābi allā yaqdirūna ʻalā syaiʼim min faḍlillāhi wa annal-faḍla bi-yadillāhi yuʼtīhi may yasyāʼ; wallāhu żul-faḍlil-ʻaẓīm*
 "Agar Ahli Kitab mengetahui bahwa mereka tidak berkuasa sedikit pun atas karunia Allah; dan bahwa karunia itu berada di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki. Dan Allah adalah pemilik karunia yang besar."

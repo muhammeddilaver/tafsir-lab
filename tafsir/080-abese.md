@@ -84,9 +84,9 @@ Besmelenin kelime kelime tahlili Fâtiha sûresinde yapıldı; tekrarlamıyorum.
 
 ---
 
-## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ ۝ أَن جَآءَهُ ٱلْأَعْمَىٰ
+## 80/1-2 — عَبَسَ وَتَوَلَّىٰٓ · أَن جَآءَهُ ٱلْأَعْمَىٰ
 
-*Abese ve tevellâ ۝ En câehü'l-a'mâ*
+*Abese ve tevellâ · En câehü'l-a'mâ*
 "Yüzünü ekşitti ve döndü — kendisine âmâ geldi diye."
 
 ### Üçüncü şahısla başlaması
@@ -210,9 +210,9 @@ Bu, sûreyi bir ahlak dersi olmaktan çıkarıp bir **ölçü tartışması** ha
 
 ---
 
-## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ ۝ أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
+## 80/3-4 — وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ · أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰ
 
-*Vemâ yüdrîke lealle-hû yezzekkâ ۝ Ev yezzekkeru fe-tenfeahü'z-zikrâ*
+*Vemâ yüdrîke lealle-hû yezzekkâ · Ev yezzekkeru fe-tenfeahü'z-zikrâ*
 "Sen ne bilirsin — belki o arınacaktır; ya da öğüt alacak da öğüt ona fayda verecektir."
 
 ### Cevabı olmayan soru
@@ -284,9 +284,9 @@ Bu, sûrenin en sessiz ama en köklü müdahalesi: **insan bir araç olarak değ
 
 ---
 
-## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ ۝ فَأَنتَ لَهُۥ تَصَدَّىٰ ۝ وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
+## 80/5-7 — أَمَّا مَنِ ٱسْتَغْنَىٰ · فَأَنتَ لَهُۥ تَصَدَّىٰ · وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ
 
-*Emmâ meni'stağnâ ۝ Fe-ente lehû tesaddâ ۝ Vemâ aleyke ellâ yezzekkâ*
+*Emmâ meni'stağnâ · Fe-ente lehû tesaddâ · Vemâ aleyke ellâ yezzekkâ*
 "Kendini yeterli görene gelince — sen ona yöneliyorsun. Oysa onun arınmaması senin sorumluluğunda değil."
 
 ### Dizim: iki kollu tasnif
@@ -356,9 +356,9 @@ Bu, tebliğ için söylenmiş bir söz ama çok daha geniş bir yere oturuyor. B
 
 ---
 
-## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ ۝ وَهُوَ يَخْشَىٰ ۝ فَأَنتَ عَنْهُ تَلَهَّىٰ
+## 80/8-10 — وَأَمَّا مَن جَآءَكَ يَسْعَىٰ · وَهُوَ يَخْشَىٰ · فَأَنتَ عَنْهُ تَلَهَّىٰ
 
-*Ve emmâ men câeke yes'â ۝ Ve hüve yahşâ ۝ Fe-ente anhü telehhâ*
+*Ve emmâ men câeke yes'â · Ve hüve yahşâ · Fe-ente anhü telehhâ*
 "Sana koşarak gelene gelince — ki o haşyet içindedir — sen ondan yüz çevirip oyalanıyorsun."
 
 ### Adamın üç niteliği
@@ -433,9 +433,9 @@ Bu altı ayet, insanların birbirini nasıl sıraladığına dair bir tarif ve t
 
 ---
 
-## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ ۝ فَمَن شَآءَ ذَكَرَهُۥ
+## 80/11-12 — كَلَّآ إِنَّهَا تَذْكِرَةٌ · فَمَن شَآءَ ذَكَرَهُۥ
 
-*Kellâ innehâ tezkira ۝ Fe-men şâe zekerah*
+*Kellâ innehâ tezkira · Fe-men şâe zekerah*
 "Hayır! O bir hatırlatmadır. Artık dileyen onu hatırlar."
 
 ### كَلَّا — kesme
@@ -474,9 +474,9 @@ Ve bunun tam karşılığı **Tekvîr 81/28-29**'da bulunuyor: *"İçinizden ist
 
 ---
 
-## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ
+## 80/13-16 — فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ
 
-*Fî suhufin mükerrame ۝ Merfûatin mutahhara ۝ Bi-eydî sefera ۝ Kirâmin berera*
+*Fî suhufin mükerrame · Merfûatin mutahhara · Bi-eydî sefera · Kirâmin berera*
 "Değerli kılınmış sayfalardadır; yüceltilmiş, arındırılmıştır; yazıcı elçilerin ellerindedir — şerefli ve iyilik ehli olanların."
 
 ### Dizim: nereye bağlanıyor?
@@ -652,9 +652,9 @@ Birinci okuyuş en güçlüdür. Ama ikincisinin bir güzelliği var: soru olara
 
 ---
 
-## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ ۝ مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ ۝ ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+## 80/18-20 — مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ · مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ · ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
 
-*Min eyyi şey'in halakah ۝ Min nutfetin halakahû fe-kadderah ۝ Sümme's-sebîle yesserah*
+*Min eyyi şey'in halakah · Min nutfetin halakahû fe-kadderah · Sümme's-sebîle yesserah*
 "Onu hangi şeyden yarattı? Bir damladan yarattı ve ona ölçü verdi. Sonra yolu ona kolaylaştırdı."
 
 ### Sorulan ve hemen cevaplanan soru
@@ -718,9 +718,9 @@ Ve bu, suçlamayı ağırlaştırıyor. "Bilmiyordum" mazereti *hedâ* ile kapan
 
 ---
 
-## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ ۝ ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
+## 80/21-22 — ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ · ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
 
-*Sümme emâtehû fe-akberah ۝ Sümme izâ şâe enşerah*
+*Sümme emâtehû fe-akberah · Sümme izâ şâe enşerah*
 "Sonra onu öldürdü ve kabre koydurdu. Sonra dilediğinde onu kaldıracak."
 
 ### أَقْبَرَ — kabir sahibi kılmak
@@ -863,9 +863,9 @@ Ama arkasından gelen sekiz ayet, bakışın nereye götürmesi gerektiğini gö
 
 ---
 
-## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا ۝ ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا ۝ فَأَنۢبَتْنَا فِيهَا حَبًّا ۝ وَعِنَبًا وَقَضْبًا ۝ وَزَيْتُونًا وَنَخْلًا ۝ وَحَدَآئِقَ غُلْبًا ۝ وَفَٰكِهَةً وَأَبًّا ۝ مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
+## 80/25-32 — أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا · ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا · فَأَنۢبَتْنَا فِيهَا حَبًّا · وَعِنَبًا وَقَضْبًا · وَزَيْتُونًا وَنَخْلًا · وَحَدَآئِقَ غُلْبًا · وَفَٰكِهَةً وَأَبًّا · مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
 
-*Ennâ sabebne'l-mâe sabbâ ۝ Sümme şakakne'l-arda şakkâ ۝ Fe-enbetnâ fîhâ habbâ ۝ Ve ineben ve kadbâ ۝ Ve zeytûnen ve nahlâ ۝ Ve hadâika ğulbâ ۝ Ve fâkiheten ve ebbâ ۝ Metâan leküm ve li-en'âmiküm*
+*Ennâ sabebne'l-mâe sabbâ · Sümme şakakne'l-arda şakkâ · Fe-enbetnâ fîhâ habbâ · Ve ineben ve kadbâ · Ve zeytûnen ve nahlâ · Ve hadâika ğulbâ · Ve fâkiheten ve ebbâ · Metâan leküm ve li-en'âmiküm*
 
 "Biz suyu bol bol döktük; sonra toprağı yara yara yardık; orada taneler bitirdik — üzümler, taze otlar, zeytin ve hurma, sık ağaçlı bahçeler, meyve ve otlak; sizin ve hayvanlarınızın faydalanması için."
 
@@ -981,9 +981,9 @@ Ve bu, sûrenin ilk on ayetiyle sessizce konuşuyor. Orada bir adam kendini **m�
 
 ---
 
-## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ ۝ يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ ۝ وَأُمِّهِۦ وَأَبِيهِ ۝ وَصَٰحِبَتِهِۦ وَبَنِيهِ ۝ لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
+## 80/33-37 — فَإِذَا جَآءَتِ ٱلصَّآخَّةُ · يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ · وَأُمِّهِۦ وَأَبِيهِ · وَصَٰحِبَتِهِۦ وَبَنِيهِ · لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ
 
-*Fe-izâ câeti's-sâhha ۝ Yevme yefirru'l-mer'ü min ahîh ۝ Ve ümmihî ve ebîh ۝ Ve sâhibetihî ve benîh ۝ Li-külli'mriin minhüm yevmeizin şe'nün yuğnîh*
+*Fe-izâ câeti's-sâhha · Yevme yefirru'l-mer'ü min ahîh · Ve ümmihî ve ebîh · Ve sâhibetihî ve benîh · Li-külli'mriin minhüm yevmeizin şe'nün yuğnîh*
 
 "Kulakları sağır eden ses geldiğinde — o gün kişi kardeşinden kaçar; anasından ve babasından, eşinden ve çocuklarından. O gün onlardan her birinin, kendine yeten bir derdi vardır."
 
@@ -1101,9 +1101,9 @@ Bu bir çıkarımdır ve kendi okumam olarak kaydediyorum. Ama kökün sûrenin 
 
 ---
 
-## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ ۝ ضَاحِكَةٌ مُّسْتَبْشِرَةٌ ۝ وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ ۝ تَرْهَقُهَا قَتَرَةٌ ۝ أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
+## 80/38-42 — وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ · ضَاحِكَةٌ مُّسْتَبْشِرَةٌ · وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ · تَرْهَقُهَا قَتَرَةٌ · أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ
 
-*Vücûhün yevmeizin müsfira ۝ Dâhiketün müstebşira ۝ Ve vücûhün yevmeizin aleyhâ ğabera ۝ Terhekuhâ katera ۝ Ülâike hümü'l-keferatü'l-fecera*
+*Vücûhün yevmeizin müsfira · Dâhiketün müstebşira · Ve vücûhün yevmeizin aleyhâ ğabera · Terhekuhâ katera · Ülâike hümü'l-keferatü'l-fecera*
 
 "O gün birtakım yüzler parlar; güler, müjdelenmiş. Ve o gün birtakım yüzlerin üstünü toz kaplar; onları bir karanlık bürür. İşte onlardır kâfirler, fâcirler."
 

@@ -1000,7 +1000,7 @@ Dan seluruh arsitektur surah ini menjadi lengkap di sini: langit berubah keadaan
 
 ---
 
-## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
+## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ 
 
 *Fa mā lahum lā yu'minūn · Wa iżā quri'a ʻalaihimul-qur'ānu lā yasjudūn*
 "Maka mengapa mereka tidak beriman? Dan ketika Al-Qur'an dibacakan kepada mereka, mereka tidak bersujud?"
@@ -1047,7 +1047,7 @@ Dan ada satu rincian lagi pada tataran bahasa. Kata kerja pada ayat kedua adalah
 
 ### Sujud tilawah
 
-**Pada ayat ini ada sujud.** Dalam mushaf, tanda sujud (۩) diletakkan di akhir ayat itu.
+**Pada ayat ini ada sujud.** Dalam mushaf, tanda sujud () diletakkan di akhir ayat itu.
 
 Sandarannya adalah riwayat-riwayat yang terdapat dalam sumber-sumber hadis: diriwayatkan bahwa Nabi bersujud pada surah *"Iżas-samā'unsyaqqat"*. Riwayat ini terdapat dalam sumber-sumber hadis yang sahih; **alih-alih memberikan penisbatan yang pasti mengenai perawi dan teks lengkapnya, saya mencukupkan diri dengan mencatat bahwa riwayat itu ada.**
 

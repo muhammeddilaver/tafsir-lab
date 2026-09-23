@@ -43,7 +43,7 @@ Dan satu hal lagi: **di pusat surah ini ada sebuah adegan bertamu.** Adanya sebu
 
 ## 51/1-4 — Empat sumpah
 
-وَٱلذَّٰرِيَٰتِ ذَرْوًا ۝ فَٱلْحَٰمِلَٰتِ وِقْرًا ۝ فَٱلْجَٰرِيَٰتِ يُسْرًا ۝ فَٱلْمُقَسِّمَٰتِ أَمْرًا
+وَٱلذَّٰرِيَٰتِ ذَرْوًا · فَٱلْحَٰمِلَٰتِ وِقْرًا · فَٱلْجَٰرِيَٰتِ يُسْرًا · فَٱلْمُقَسِّمَٰتِ أَمْرًا
 
 *Waż-żāriyāti żarwā · fal-ḥāmilāti wiqrā · fal-jāriyāti yusrā · fal-muqassimāti amrā*
 
@@ -238,7 +238,7 @@ Saya sajikan hal ini sebagai penerapan pada surah ini dari kaitan yang lazim dit
 
 ---
 
-## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ ۝ وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
+## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ · وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
 
 *Innamā tūʻadūna la-ṣādiq · Wa innad-dīna la-wāqiʻ*
 "Apa yang dijanjikan kepada kamu itu pasti benar. Dan perhitungan itu pasti akan terjadi."
@@ -382,7 +382,7 @@ Saya catat ini sebagai bacaan saya sendiri. Tetapi lafal kedua ayat itu telah di
 
 ---
 
-## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ ۝ يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ · يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
 
 *Innakum la-fī qaulin mukhtalif · Yuʼfaku ʻanhu man ufik*
 "Kamu benar-benar berada dalam perkataan yang saling bertentangan. Dipalingkan darinya orang yang dipalingkan."
@@ -442,7 +442,7 @@ Yang pertama lebih lazim. **Saya tidak memaksakan pilihan**; tetapi bacaan perta
 
 ---
 
-## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ ۝ ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
+## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ · ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
 
 *Qutilal-kharrāṣūn · Allażīna hum fī gamratin sāhūn*
 "Celakalah para penerka itu! Mereka yang berada di dalam sebuah ketenggelaman lagi lalai."
@@ -591,7 +591,7 @@ Pertanyaannya berkata "hari yang mana?"; jawabannya berkata "hari itu", tetapi i
 
 ---
 
-## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ ۝ ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ · ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
 *Yauma hum ʻalan-nāri yuftanūn · Żūqū fitnatakum; hāżallażī kuntum bihī tastaʻjilūn*
 "Pada hari itu, hari ketika mereka diuji di atas api. 'Rasakanlah ujianmu! Inilah yang dahulu kamu minta disegerakan.'"
@@ -660,7 +660,7 @@ Hal ini menegakkan sebuah mata rantai dengan ayat terakhir surah ini. Pada ayat 
 
 ---
 
-## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ ۝ ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
+## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ · ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
 
 *Innal-muttaqīna fī jannātin wa ʻuyūn · Ākhiżīna mā ātāhum rabbuhum; innahum kānū qabla żālika muḥsinīn*
 "Orang-orang bertakwa berada di dalam taman-taman dan mata air — sambil mengambil apa yang diberikan Tuhan mereka kepada mereka. Sebelum itu mereka adalah orang-orang yang berbuat kebaikan."
@@ -742,7 +742,7 @@ Surah ini menambahkan satu tempat lagi kepada daftar itu — dan pasangan di sin
 
 ---
 
-## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ ۝ وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ · وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
 
 *Kānū qalīlan minal-laili mā yahjaʻūn · Wa bil-asḥāri hum yastagfirūn*
 "Mereka dahulu tidur hanya sedikit saja pada malam hari. Dan pada waktu-waktu sahur mereka memohon ampunan."
@@ -947,7 +947,7 @@ Dan rincian ini pun berdiri di dalam teksnya: butir ketiga tidak menyambungkan h
 
 ---
 
-## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ ۝ وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
+## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ · وَفِىٓ أَنفُسِكُمْ أَفَلَا تُبْصِرُونَ
 
 *Wa fil-arḍi āyātun lil-mūqinīn · Wa fī anfusikum; a-fa-lā tubṣirūn*
 "Di bumi ada tanda-tanda bagi orang-orang yang sampai kepada pengetahuan yang pasti. Dan pada diri kamu sendiri pun. Apakah kamu tidak juga melihat?"
@@ -1116,7 +1116,7 @@ Saya catat ini sebagai sebuah penerapan; saya nyatakan bahwa ayat itu membubuhka
 
 ---
 
-## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ ۝ فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
+## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ · فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
 
 *Wa fis-samāʼi rizqukum wa mā tūʻadūn · Fa-wa rabbis-samāʼi wal-arḍi innahū la-ḥaqqun miṡla mā annakum tanṭiqūn*
 "Rezeki kamu ada di langit, demikian pula apa yang dijanjikan kepada kamu. Demi Tuhan langit dan bumi, sungguh hal itu benar, sebenar keadaan kamu yang dapat berbicara."
@@ -1216,7 +1216,7 @@ Saya catat ini sebagai bacaan saya sendiri. Tetapi bahwa di antara kedua ayat it
 
 ---
 
-## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ ۝ إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا ۖ قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
+## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ · إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
 
 *Hal atāka ḥadīṡu ḍaifi Ibrāhīmal-mukramīn · Iż dakhalū ʻalaihi fa-qālū salāmā; qāla salāmun qaumun munkarūn*
 "Sudahkah sampai kepadamu berita tentang tamu-tamu Ibrahim yang dimuliakan? Ketika mereka masuk ke tempatnya lalu berkata 'Salam.' Ia pun berkata 'Salam' — 'suatu kaum yang tidak dikenal.'"
@@ -1316,7 +1316,7 @@ Saya catat ini sebagai pengamatan atas susunan kata; ayat itu tidak meletakkan s
 
 ---
 
-## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ ۝ فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ · فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
 
 *Fa-rāga ilā ahlihī fa-jāʼa bi-ʻijlin samīn · Fa-qarrabahū ilaihim; qāla a-lā taʼkulūn*
 "Lalu dengan diam-diam ia pergi kepada keluarganya dan datang membawa seekor anak sapi yang gemuk. Ia mendekatkannya kepada mereka dan berkata: 'Tidakkah kamu makan?'"
@@ -1383,7 +1383,7 @@ Saya catat ini sebagai latar sejarah; sisi tradisi bertamu Arab ini lazim terdap
 
 ---
 
-## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
 
 *Fa-aujasa minhum khīfah; qālū lā takhaf; wa basysyarūhu bi-gulāmin ʻalīm*
 "Masuklah rasa takut kepada mereka ke dalam hatinya. 'Jangan takut,' kata mereka. Dan mereka menyampaikan kepadanya kabar gembira tentang seorang anak laki-laki yang berilmu."
@@ -1466,7 +1466,7 @@ Saya catat ini sebagai sebuah bacaan yang saya tarik dari perbandingan kedua tek
 
 ---
 
-## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ ۝ قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ · قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 
 *Fa-aqbalatimraʼatuhū fī ṣarratin fa-ṣakkat wajhahā wa qālat ʻajūzun ʻaqīm · Qālū każāliki qāla rabbuki; innahū huwal-ḥakīmul-ʻalīm*
 "Maka istrinya datang menghampiri dengan sebuah jeritan, ia menepuk wajahnya dan berkata: 'Perempuan tua yang mandul!' Mereka berkata: 'Demikianlah Tuhanmu berfirman.' 'Sungguh Dialah Yang Mahabijaksana lagi Maha Mengetahui.'"
@@ -1599,7 +1599,7 @@ Yakni jawaban itu menjawab kedua sandaran bantahan tersebut dengan dua nama: "en
 
 ---
 
-## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ ۝ قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ ۝ لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ ۝ مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
+## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ · قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ · لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ · مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
 *Qāla fa-mā khaṭbukum ayyuhal-mursalūn · Qālū innā ursilnā ilā qaumin mujrimīn · Li-nursila ʻalaihim ḥijāratan min ṭīn · Musawwamatan ʻinda rabbika lil-musrifīn*
 "Ia berkata: 'Lalu, apakah urusan kamu, wahai para utusan?' Mereka berkata: 'Kami diutus kepada suatu kaum yang berdosa' — 'untuk mengirimkan kepada mereka batu-batu dari tanah liat; batu-batu yang ditandai di sisi Tuhanmu bagi orang-orang yang melampaui batas.'"
@@ -1709,7 +1709,7 @@ Kedua kata itu mengatakan dua hal yang berbeda: yang satu **diputuskannya sebuah
 
 ---
 
-## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ ۝ فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ ۝ وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
+## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ · فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ · وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
 
 *Fa-akhrajnā man kāna fīhā minal-muʼminīn · Fa-mā wajadnā fīhā gaira baitin minal-muslimīn · Wa taraknā fīhā āyatan lillażīna yakhāfūnal-ʻażābal-alīm*
 "Lalu Kami keluarkan orang-orang mukmin yang ada di sana. Dan memang Kami tidak mendapati di sana selain satu rumah dari kalangan orang-orang muslim. Dan Kami tinggalkan di sana sebuah tanda bagi orang-orang yang takut kepada azab yang pedih."
@@ -1806,7 +1806,7 @@ Yakni kalimat "Kami tinggalkan sebuah tanda" adalah sebuah klaim yang dapat dibe
 
 ---
 
-## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ ۝ فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ ۝ فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
+## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ · فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ · فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
 
 *Wa fī Mūsā iż arsalnāhu ilā Firʻauna bi-sulṭānin mubīn · Fa-tawallā bi-ruknihī wa qāla sāḥirun au majnūn · Fa-akhażnāhu wa junūdahū fa-nabażnāhum fil-yammi wa huwa mulīm*
 "Dan pada Musa pun ada — ketika Kami mengutusnya kepada Fir'aun dengan sebuah bukti yang nyata. Ia pun berpaling dengan bersandar pada kekuatannya dan berkata: 'Seorang tukang sihir atau seorang gila.' Maka Kami tangkap ia bersama bala tentaranya lalu Kami lemparkan mereka ke dalam laut; dan ia berada dalam keadaan yang tercela."
@@ -1944,7 +1944,7 @@ Akar yang sama, dua kedudukan yang berlawanan. Saya catat ini sebagai sebuah kai
 
 ---
 
-## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ۝ مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
+## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ · مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
 
 *Wa fī ʻĀdin iż arsalnā ʻalaihimur-rīḥal-ʻaqīm · Mā tażaru min syaiʼin atat ʻalaihi illā jaʻalathu kar-ramīm*
 "Dan pada 'Ad pun ada — ketika Kami kirimkan kepada mereka angin yang mandul itu. Ia tidak membiarkan sesuatu pun yang dilaluinya, melainkan pasti dijadikannya seperti tulang yang lapuk."
@@ -2010,7 +2010,7 @@ Saya catat ini sebagai bacaan saya sendiri; ayat itu tidak berbicara tentang lam
 
 ---
 
-## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ ۝ فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ ۝ فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
+## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ · فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ · فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
 
 *Wa fī Ṡamūda iż qīla lahum tamattaʻū ḥattā ḥīn · Fa-ʻatau ʻan amri rabbihim fa-akhażathumuṣ-ṣāʻiqatu wa hum yanẓurūn · Fa-mastaṭāʻū min qiyāmin wa mā kānū muntaṣirīn*
 "Dan pada Samud pun ada — ketika dikatakan kepada mereka: 'Bersenang-senanglah sampai suatu waktu.' Mereka pun menyombongkan diri terhadap perintah Tuhan mereka; maka petir itu menyambar mereka sementara mereka memandanginya. Mereka tidak sanggup bangkit berdiri dan tidak pula dapat menolong diri mereka sendiri."
@@ -2120,7 +2120,7 @@ Hal ini menegakkan sebuah kesejajaran dengan Fir'aun pada ayat ketiga puluh semb
 
 ---
 
-## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
 
 *Wa qauma Nūḥin min qabl; innahum kānū qauman fāsiqīn*
 "Dan sebelum itu, kaum Nuh pula. Mereka adalah kaum yang keluar dari jalan."
@@ -2485,7 +2485,7 @@ Ini adalah sebuah catatan yang datang dari dalam ayat itu sendiri terhadap klaim
 
 ---
 
-## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ ۝ وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ · وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
 
 *Fafirrū ilallāh; innī lakum minhu nażīrun mubīn · Wa lā tajʻalū maʻallāhi ilāhan ākhar; innī lakum minhu nażīrun mubīn*
 "Maka berlarilah kepada Allah. Sungguh aku adalah seorang pemberi peringatan yang nyata dari-Nya untuk kamu. Dan janganlah kamu mengadakan tuhan yang lain di samping Allah. Sungguh aku adalah seorang pemberi peringatan yang nyata dari-Nya untuk kamu."
@@ -2558,7 +2558,7 @@ Yakni ungkapan "pemberi peringatan yang nyata" mengatakan dua hal: peringatan it
 
 ---
 
-## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ ۝ أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ
+## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ · أَتَوَاصَوْا۟ بِهِۦ بَلْ هُمْ قَوْمٌ طَاغُونَ
 
 *Każālika mā atallażīna min qablihim min rasūlin illā qālū sāḥirun au majnūn · Atawāṣau bih; bal hum qaumun ṭāgūn*
 "Demikianlah: tidak seorang rasul pun yang datang kepada orang-orang sebelum mereka, melainkan mereka berkata 'tukang sihir atau orang gila'. Apakah mereka saling berpesan tentang hal ini? Tidak, mereka adalah kaum yang melampaui batas."
@@ -2623,7 +2623,7 @@ Yakni kalimat itu mengerjakan hal ini: ia menolak pertanyaan yang diajukan dan m
 
 ---
 
-## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ ۝ وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ · وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
 
 *Fa-tawalla ʻanhum fa-mā anta bi-malūm · Wa żakkir fa-innaż-żikrā tanfaʻul-muʼminīn*
 "Berpalinglah dari mereka; engkau tidaklah tercela. Dan ingatkanlah; sebab peringatan itu memberi manfaat kepada orang-orang mukmin."
@@ -2821,7 +2821,7 @@ Saya catat ini sebagai sebuah penerapan ayat itu, bukan sebagai klaim ayat terse
 
 ---
 
-## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ ۝ إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
+## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ · إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
 
 *Mā urīdu minhum min rizqin wa mā urīdu an yuṭʻimūn · Innallāha huwar-Razzāqu żul-quwwatil-matīn*
 "Aku tidak meminta rezeki dari mereka; Aku tidak pula meminta agar mereka memberi Aku makan. Sungguh Allahlah yang memberi rezeki, yang mempunyai kekuatan lagi kukuh."
@@ -2916,7 +2916,7 @@ Surah ini dibuka dengan sebuah pekerjaan, menyebutkan objek pekerjaan itu di ten
 
 ---
 
-## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ ۝ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
+## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ · فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
 
 *Fa-inna lillażīna ẓalamū żanūban miṡla żanūbi aṣḥābihim fa-lā yastaʻjilūn · Fa-wailun lillażīna kafarū min yaumihimullażī yūʻadūn*
 "Bagi orang-orang yang zalim ada suatu bagian seperti bagian teman-teman mereka. Maka janganlah mereka meminta agar disegerakan. Maka celakalah orang-orang yang ingkar karena hari mereka yang dijanjikan kepada mereka!"

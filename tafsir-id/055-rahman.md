@@ -523,7 +523,7 @@ Dan satu catatan lagi: ini **bukanlah sebuah hitungan angka.** Yang dilarang dal
 
 ## Ayat demi ayat
 
-## 55/1-4 — ٱلرَّحْمَٰنُ ۝ عَلَّمَ ٱلْقُرْءَانَ ۝ خَلَقَ ٱلْإِنسَٰنَ ۝ عَلَّمَهُ ٱلْبَيَانَ
+## 55/1-4 — ٱلرَّحْمَٰنُ · عَلَّمَ ٱلْقُرْءَانَ · خَلَقَ ٱلْإِنسَٰنَ · عَلَّمَهُ ٱلْبَيَانَ
 
 *Ar-Raḥmān · ʻAllamal-Qurʼān · Khalaqal-insān · ʻAllamahul-bayān*
 
@@ -705,7 +705,7 @@ Padanan konkretnya tidak sulit ditemukan: penyalahgunaan bahasa yang paling lazi
 
 ---
 
-## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ ۝ وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ · وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
 
 *Asy-syamsu wal-qamaru bi-ḥusbān · Wan-najmu wasy-syajaru yasjudān*
 
@@ -789,7 +789,7 @@ Jadi untuk benda-benda langit dipakai sebuah **keadaan**, untuk tumbuh-tumbuhan 
 
 ---
 
-## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ ۝ أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ ۝ وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ · أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ · وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
 
 *Was-samāʼa rafaʻahā wa waḍaʻal-mīzān · Allā taṭgau fil-mīzān · Wa aqīmul-wazna bil-qisṭi wa lā tukhsirul-mīzān*
 
@@ -1020,7 +1020,7 @@ Dan kata itu meletakkan satu milimeter tersebut pada piringan timbangan yang sam
 
 ---
 
-## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ ۝ فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ ۝ وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ · فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ · وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
 
 *Wal-arḍa waḍaʻahā lil-anām · Fīhā fākihatun wan-nakhlu żātul-akmām · Wal-ḥabbu żul-ʻaṣfi war-raiḥān*
 
@@ -1135,7 +1135,7 @@ Jadi pada pertanyaan yang pertama, di hadapan lawan bicaranya ada sebuah daftar 
 
 ---
 
-## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ ۝ وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
+## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ · وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
 
 *Khalaqal-insāna min ṣalṣālin kal-fakhkhār · Wa khalaqal-jānna min mārijin min nār*
 
@@ -1321,7 +1321,7 @@ Dan yang menarik perhatian adalah ini: ayat tempat pengecualian ini berada justr
 
 ---
 
-## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ ۝ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
+## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ · بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
 
 *Marajal-baḥraini yaltaqiyān · Bainahumā barzakhun lā yabgiyān*
 
@@ -1644,7 +1644,7 @@ Kayu kapal itu, lautnya, anginnya, dan tangan yang membuatnya — tidak satu pun
 
 ---
 
-## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ ۝ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ · وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
 
 *Kullu man ʻalaihā fān · Wa yabqā wajhu Rabbika żul-jalāli wal-ikrām*
 
@@ -2327,7 +2327,7 @@ Dan saya tambahkan satu bacaan lagi, **sebagai bacaan saya sendiri**: ubun-ubun 
 
 ---
 
-## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ ۝ يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
+## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ · يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
 
 *Hāżihī jahannamullatī yukażżibu bihal-mujrimūn · Yaṭūfūna bainahā wa baina ḥamīmin ān*
 

@@ -100,9 +100,9 @@ Beradanya kedua nama ini pada pembukaan surah sejalan dengan isi surah. *ʻAzīz
 
 ---
 
-## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
+## 61/2-3 — لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ · كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
 
-*Yā ayyuhallażīna āmanū lima taqūlūna mā lā tafʻalūn ۝ Kabura maqtan ʻindallāhi an taqūlū mā lā tafʻalūn*
+*Yā ayyuhallażīna āmanū lima taqūlūna mā lā tafʻalūn · Kabura maqtan ʻindallāhi an taqūlū mā lā tafʻalūn*
 
 "Wahai orang-orang yang beriman! Mengapa kamu mengatakan apa yang tidak akan kamu kerjakan? Bahwa kamu mengatakan apa yang tidak akan kamu kerjakan adalah sebab kemurkaan/kejijikan yang besar di sisi Allah."
 

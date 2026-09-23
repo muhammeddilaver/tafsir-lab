@@ -29,7 +29,7 @@ Ve sorular tek bir kalıba oturur: **"Peki ya o olmasaydı, kim?"** Kim tutuyor 
 
 ## Bir ses gözlemi
 
-Sûrenin ilk yirmi bir ayetinin hepsi aynı sesle biter: uzun bir ünlü ve ardından **râ** — *kadîr, ğafûr, futûr, hasîr, se'îr, masîr, tefûr, nezîr, kebîr, se'îr, se'îr, kebîr, sudûr, habîr, nüşûr, temûr, nezîr, nekîr, basîr, ğurûr, nüfûr.* Yirmi bir ayet boyunca hiç kırılmayan bir kafiye.
+Sûrenin ilk yirmi bir ayetinin hepsi aynı sesle biter: uzun bir ünlü ve ardından **râ** — *kadîr, ğafûr, futûr, hasîr, se'îr, masîr, tefûr, nezîr, kebîr, se'îr, se'îr, kebîr, sudûr, habîr, nüşûr, temûr, nezîr, nekîr, basîr, ğurûr, nüfûr.* Yirmi bir ayet boyunca hiç kırılmayan bir kafiye.
 
 Ve tam yirmi ikinci ayette kırılıyor: **müstakîm.**
 
@@ -151,7 +151,7 @@ Sûre bir kez bile "sen sahip değilsin" demiyor. Sadece sorular soruyor. Ve sor
 
 ---
 
-## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
+## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
 
 *Ellezî halaka'l-mevte ve'l-hayâte li-yeblüveküm eyyüküm ahsenü amelâ, ve hüve'l-azîzü'l-ğafûr*
 "O ki ölümü ve hayatı, hanginizin daha güzel iş yapacağını denemek için yarattı. O üstündür, çok bağışlayandır."
@@ -294,7 +294,7 @@ Ve sûre, cevaplanamayanı ölçü olarak koyuyor.
 
 ---
 
-## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
+## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
 
 *Ellezî halaka seb'a semâvâtin tıbâkâ, mâ terâ fî halkı'r-rahmâni min tefâvüt, fe'rci'i'l-basara hel terâ min futûr*
 "O ki yedi göğü kat kat yarattı. Rahmân'ın yaratışında hiçbir uyumsuzluk göremezsin. Haydi gözü çevir de bak: bir çatlak görüyor musun?"
@@ -521,7 +521,7 @@ Bunun pratik bir sonucu var ve gündelik hayatta işler: **"bulamadım" ile "yok
 
 ---
 
-## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
+## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
 
 *Ve lekad zeyyenna's-semâe'd-dünyâ bi-mesâbîha ve cealnâhâ rucûmen li'ş-şeyâtîn, ve a'tednâ lehüm azâbe's-se'îr*
 "Andolsun, en yakın göğü kandillerle donattık; onları şeytanlar için atılacak şeyler yaptık. Onlara çılgın ateşin azabını hazırladık."
@@ -604,7 +604,7 @@ Bu kelime sûrede üç kez geçiyor (5, 10, 11) ve her üçünde de bir grubun s
 
 ---
 
-## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ ۝ إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
+## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ ٱلْمَصِيرُ · إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
 
 *Ve lillezîne keferû bi-rabbihim azâbü cehennem, ve bi'se'l-masîr — izâ ülkû fîhâ semi'û lehâ şehîkan ve hiye tefûr*
 "Rablerini inkâr edenler için cehennem azabı vardır; ne kötü bir varış yeri! Oraya atıldıklarında, onun kaynarken çıkardığı korkunç bir soluk sesi işitirler."
@@ -656,7 +656,7 @@ Kur'an'daki en bilinen kullanımı Nûh kıssasındadır: *"Nihayet emrimiz geli
 
 ---
 
-## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ ۝ قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
+## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ · قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
 
 *Tekâdü temeyyezü mine'l-ğayz, küllemâ ülkıye fîhâ fevcün seelehüm hazenetühâ elem ye'tiküm nezîr — kâlû belâ kad câenâ nezîrun fe-kezzebnâ ve kulnâ mâ nezzela'llâhü min şey'in in entüm illâ fî dalâlin kebîr*
 "Neredeyse öfkeden parçalanacak. Oraya her bir topluluk atıldığında bekçileri onlara sorar: 'Size bir uyarıcı gelmedi mi?' Derler: 'Evet, bize bir uyarıcı geldi; ama biz yalanladık ve dedik ki: Allah hiçbir şey indirmedi, siz büyük bir sapkınlık içindesiniz.'"
@@ -773,7 +773,7 @@ Sûre, itirafın değerini **zamanına** bağlıyor. Aynı cümle bir yerde kurt
 
 ---
 
-## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ ۝ فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
+## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ · فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
 
 *Ve kâlû lev künnâ nesme'u ev na'kılü mâ künnâ fî ashâbi's-se'îr — fa'terafû bi-zenbihim fe-suhkan li-ashâbi's-se'îr*
 "Ve derler ki: 'Eğer işitseydik ya da akletseydik, çılgın ateşin halkı arasında olmazdık.' Böylece günahlarını itiraf ederler. Uzak olsun çılgın ateşin halkı!"
@@ -954,7 +954,7 @@ Aynı kelimenin üç ayet arayla, biri suçlama biri mükâfat için kullanılma
 
 ---
 
-## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ ۝ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
+## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ · أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
 *Ve esirrû kavleküm evi'cherû bih, innehû alîmün bi-zâti's-sudûr — elâ ya'lemü men halaka ve hüve'l-latîfü'l-habîr*
 "Sözünüzü ister gizleyin ister açığa vurun; O göğüslerin özünü bilendir. Yaratan bilmez mi? O Latîf'tir, Habîr'dir."
@@ -1059,7 +1059,7 @@ Ve *el-Latîfü'l-Habîr* isim çifti, bu bilgiyi bir gözetim korkusundan çık
 
 ---
 
-## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ
+## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ
 
 *Hüve'llezî ceale lekümü'l-arda zelûlen fe'mşû fî menâkibihâ ve külû min rızkıh, ve ileyhi'n-nüşûr*
 "Yeri size boyun eğdirilmiş kılan O'dur. Öyleyse onun omuzlarında yürüyün ve O'nun rızkından yiyin. Diriliş O'nadır."
@@ -1183,7 +1183,7 @@ Ayet bunu söylemiyor; ben de ayetin söylemediği bir şeyi ona söyletmiyorum.
 
 ---
 
-## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ ۝ أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ ۝ وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ · أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ · وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
 
 *E-emintüm men fi's-semâi en yahsife bikümü'l-arda fe-izâ hiye temûr — em emintüm men fi's-semâi en yürsile aleyküm hâsıben fe-se-ta'lemûne keyfe nezîr — ve lekad kezzebe'llezîne min kablihim fe-keyfe kâne nekîr*
 "Göktekinin sizi yere geçirivermesinden emin mi oldunuz? O zaman yer birden sallanır. Yoksa göktekinin üzerinize taş savuran bir rüzgâr göndermesinden mi emin oldunuz? Uyarımın nasıl olduğunu yakında bileceksiniz. Andolsun, onlardan öncekiler de yalanladı; benim inkârım nasıl oldu!"
@@ -1291,7 +1291,7 @@ Bu, tehdidi soyut olmaktan çıkarıyor. Deprem kuşağında yaşayan bir insan 
 
 ---
 
-## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
 
 *Evelem yerav ile't-tayri fevkahüm sâffâtin ve yakbidn, mâ yümsikühünne ille'r-rahmân, innehû bi-külli şey'in basîr*
 "Üstlerinde kanat çırpan ve toplayan kuşlara bakmadılar mı? Onları Rahmân'dan başkası tutmuyor. O her şeyi görendir."
@@ -1392,7 +1392,7 @@ Bir insanın ayakta kalması, sağlığı, işinin yürümesi, ilişkilerinin s�
 
 ---
 
-## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ ۝ أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
+## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ · أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
 
 *Emmen hâze'llezî hüve cündün leküm yensuruküm min dûni'r-rahmân, ini'l-kâfirûne illâ fî ğurûr — emmen hâze'llezî yerzükuküm in emseke rızkah, bel leccû fî utüvvin ve nüfûr*
 "Rahmân'ın dışında size yardım edecek şu ordunuz da kim? İnkârcılar bir aldanış içindedirler. Yahut O rızkını tutuverse, size rızık verecek şu kimse de kim? Hayır, onlar bir azgınlık ve ürkeklik içinde direniyorlar."
@@ -1636,7 +1636,7 @@ Ve Ğâşiye bahsinde kaydedilen tespit burada tersinden işliyor: orada *huşû
 
 ---
 
-## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ ۝ قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ · قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
 *Kul hüve'llezî enşeeküm ve ceale lekümü's-sem'a ve'l-ebsâra ve'l-ef'ide, kalîlen mâ teşkürûn — kul hüve'llezî zeraeküm fi'l-ardı ve ileyhi tuhşerûn*
 "De ki: Sizi yaratıp geliştiren, size işitme, gözler ve gönüller veren O'dur. Ne kadar az şükrediyorsunuz! De ki: Sizi yeryüzünde çoğaltıp yayan O'dur; O'na toplanacaksınız."
@@ -1720,7 +1720,7 @@ Buradan şükrün tarifi çıkıyor ve Türkçedeki "teşekkür"den farklıdır:
 
 ---
 
-## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ ۝ قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ ۝ فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
+## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ · قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ · فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
 
 *Ve yekûlûne metâ hâze'l-va'dü in küntüm sâdikîn — kul innema'l-ilmü inda'llâhi ve innemâ ene nezîrun mübîn — fe-lemmâ raevhü zülfeten sîet vücûhü'llezîne keferû ve kîle hâze'llezî küntüm bihî tedde'ûn*
 "Derler ki: 'Doğru söylüyorsanız bu vaat ne zaman?' De ki: 'Bilgi ancak Allah katındadır; ben sadece apaçık bir uyarıcıyım.' Onu yakından gördüklerinde, inkâr edenlerin yüzleri kararır ve denir ki: 'İşte sizin isteyip durduğunuz şey bu.'"
@@ -1795,7 +1795,7 @@ Bu fiilin okunuşu ve anlamı üzerinde ihtilaf vardır:
 
 ---
 
-## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ ۝ قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
+## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ · قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
 
 *Kul eraeytüm in ehlekeniya'llâhü ve men ma'iye ev rahımenâ fe-men yücîru'l-kâfirîne min azâbin elîm — kul hüve'r-rahmânü âmennâ bihî ve aleyhi tevekkelnâ, fe-se-ta'lemûne men hüve fî dalâlin mübîn*
 "De ki: 'Söyleyin bakalım: Allah beni ve benimle beraber olanları helâk etse ya da bize merhamet etse, inkârcıları acı azaptan kim kurtaracak?' De ki: 'O Rahmân'dır; biz O'na inandık ve O'na dayandık. Kimin apaçık bir sapkınlık içinde olduğunu yakında bileceksiniz.'"

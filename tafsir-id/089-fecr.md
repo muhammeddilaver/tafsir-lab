@@ -1099,7 +1099,7 @@ Saya tidak mengubah hal ini menjadi sebuah klaim ilmu sosial dan saya tidak meny
 
 ---
 
-## 89/17-18 — كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+## 89/17-18 — كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ • وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
 
 *Kallā bal lā tukrimūnal-yatīm • Wa lā taḥāḍḍūna ʻalā ṭaʻāmil-miskīn*
 "Sekali-kali tidak! Yang sebenarnya, kamu tidak memuliakan anak yatim; dan kamu tidak saling menganjurkan pemberian makan kepada orang miskin."
@@ -1480,7 +1480,7 @@ Saya menyajikannya sebagai bacaan saya sendiri; tetapi bahwa kata kerja pada Asy
 
 ---
 
-## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
+## 89/23-24 — وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ • يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى
 
 *Wa jīʼa yaumaiżim bi-jahannama, yaumaiżiy yatażakkarul-insānu wa annā lahuż-żikrā • Yaqūlu yā laitanī qaddamtu liḥayātī*
 "Dan pada hari itu Jahanam didatangkan; pada hari itu manusia ingat — tetapi apa gunanya keteringatan itu baginya? Ia berkata: 'Alangkah baiknya sekiranya dahulu aku mengirimkan sesuatu lebih dahulu untuk hidupku.'"

@@ -459,7 +459,7 @@ And the fifth verse opens with a picture set directly opposite these four verses
 
 ---
 
-## 62/5 — مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+## 62/5 — مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 *Mathalu'lladhīna ḥummilu't-Tawrāta thumma lam yaḥmilūhā ka-mathali'l-ḥimāri yaḥmilu asfārā. Biʾsa mathalu'l-qawmi'lladhīna kadhdhabū bi-āyātillāh. Wallāhu lā yahdi'l-qawma'ẓ-ẓālimīn*
 
@@ -717,7 +717,7 @@ And this distinction will sit at the very centre in the first verse of Sūrat al
 
 ---
 
-## 62/7 — وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
+## 62/7 — وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
 
 *Wa lā yatamannawnahū abadan bimā qaddamat aydīhim, wallāhu ʿalīmun bi'ẓ-ẓālimīn*
 
@@ -771,7 +771,7 @@ The finding recorded at al-Baqara 2/9 for the hypocrites connects here: *"the on
 
 ---
 
-## 62/8 — قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+## 62/8 — قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
 
 *Qul inna'l-mawta'lladhī tafirrūna minhu fa-innahū mulāqīkum, thumma turaddūna ilā ʿālimi'l-ghaybi wa'sh-shahādati fa-yunabbiʾukum bimā kuntum taʿmalūn*
 
@@ -890,7 +890,7 @@ The ninth verse will open with a direct command, and the addressee will change: 
 
 ---
 
-## 62/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+## 62/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
 
 *Yā ayyuha'lladhīna āmanū idhā nūdiya li'ṣ-ṣalāti min yawmi'l-jumuʿati fa's-ʿaw ilā dhikrillāhi wa dharu'l-bayʿ. Dhālikum khayrun lakum in kuntum taʿlamūn*
 
@@ -1128,7 +1128,7 @@ And that the word should come in this verse immediately after the command **to s
 
 ---
 
-## 62/11 — وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ
+## 62/11 — وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ وَاللَّهُ خَيْرُ الرَّازِقِينَ
 
 *Wa idhā raʾaw tijāratan aw lahwan infaḍḍū ilayhā wa tarakūka qāʾimā. Qul mā ʿindallāhi khayrun mina'l-lahwi wa mina't-tijārati, wallāhu khayru'r-rāziqīn*
 

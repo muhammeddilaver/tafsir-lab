@@ -334,7 +334,7 @@ Saya mencatatnya begini: yang dipuji pada pembuka surah ini bukan kekuatan dan b
 
 ---
 
-## 37/6-10 — إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ · وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ · لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ · دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ · إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
+## 37/6-10 — إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ · وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ · لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ · دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌ · إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
 
 *Innā zayyannas-samāʼad-dunyā bi-zīnatinil-kawākib · Wa ḥifẓan min kulli syaiṭānin mārid · Lā yassammaʻūna ilal-malaʼil-aʻlā wa yuqżafūna min kulli jānib · Duḥūrā, wa lahum ʻażābun wāṣib · Illā man khaṭifal-khaṭfata fa-atbaʻahū syihābun ṡāqib*
 
@@ -492,7 +492,7 @@ Saya mencatatnya begini: yang dipuji pada pembuka surah ini bukan kekuatan dan b
 
 ---
 
-## 37/11-12 — فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍ لَّازِبٍ · بَلْ عَجِبْتَ وَيَسْخَرُونَ
+## 37/11-12 — فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ إِنَّا خَلَقْنَٰهُم مِّن طِينٍ لَّازِبٍ · بَلْ عَجِبْتَ وَيَسْخَرُونَ
 
 *Fastaftihim a-hum asyaddu khalqan am man khalaqnā. Innā khalaqnāhum min ṭīnin lāzib · Bal ʻajibta wa yaskharūn*
 
@@ -820,7 +820,7 @@ Makna yang diberikan para ahli bahasa: **yang melekat, yang saling berpegangan, 
 
 ---
 
-## 37/22-26 — ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ · مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ · وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ · مَا لَكُمْ لَا تَنَاصَرُونَ · بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
+## 37/22-26 — ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ · مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ · وَقِفُوهُمْ إِنَّهُم مَّسْـُٔولُونَ · مَا لَكُمْ لَا تَنَاصَرُونَ · بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ
 
 *Uḥsyurullażīna ẓalamū wa azwājahum wa mā kānū yaʻbudūn · Min dūnillāhi fahdūhum ilā ṣirāṭil-jaḥīm · Wa qifūhum, innahum masʼūlūn · Mā lakum lā tanāṣarūn · Bal humul-yauma mustaslimūn*
 
@@ -940,7 +940,7 @@ Makna yang diberikan para ahli bahasa: **yang melekat, yang saling berpegangan, 
 
 ---
 
-## 37/27-32 — وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ · قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ · قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ · وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍ ۖ بَلْ كُنتُمْ قَوْمًا طَٰغِينَ · فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ · فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
+## 37/27-32 — وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ · قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ · قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ · وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍ بَلْ كُنتُمْ قَوْمًا طَٰغِينَ · فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ إِنَّا لَذَآئِقُونَ · فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
 
 *Wa aqbala baʻḍuhum ʻalā baʻḍin yatasāʼalūn · Qālū innakum kuntum taʼtūnanā ʻanil-yamīn · Qālū bal lam takūnū muʼminīn · Wa mā kāna lanā ʻalaikum min sulṭān, bal kuntum qauman ṭāgīn · Fa-ḥaqqa ʻalainā qaulu rabbinā, innā la-żāʼiqūn · Fa-agwainākum innā kunnā gāwīn*
 
@@ -1155,7 +1155,7 @@ Pembatasan yang ditegakkan dengan ***illā*** memberitakan bahwa hukuman itu **t
 
 ---
 
-## 37/40-44 — إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ · فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ · فِى جَنَّٰتِ ٱلنَّعِيمِ · عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
+## 37/40-44 — إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ · فَوَٰكِهُ وَهُم مُّكْرَمُونَ · فِى جَنَّٰتِ ٱلنَّعِيمِ · عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
 
 *Illā ʻibādallāhil-mukhlaṣīn · Ulāʼika lahum rizqum maʻlūm · Fawākihu wa hum mukramūn · Fī jannātin naʻīm · ʻAlā sururim mutaqābilīn*
 
@@ -2423,7 +2423,7 @@ Para ahli nahwu menganggapnya sebuah *ḥażf* (pelesapan) dan melengkapi kata y
 
 ---
 
-## 37/102 — فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
+## 37/102 — فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ
 
 *Fa-lammā balaga maʻahus-saʻya qāla yā bunayya innī arā fil-manāmi annī ażbaḥuka fanẓur māżā tarā. Qāla yā abatifʻal mā tuʼmar, satajidunī in syāʼallāhu minaṣ-ṣābirīn*
 
@@ -2558,7 +2558,7 @@ Dan jawaban sang anak pun berada pada pola yang sama: *yā **abati*** — "ayahk
 
 ---
 
-## 37/103-107 — فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ · وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ · قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ · وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ
+## 37/103-107 — فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ · وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ · قَدْ صَدَّقْتَ ٱلرُّءْيَآ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ · وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ
 
 *Fa-lammā aslamā wa tallahū lil-jabīn · Wa nādaināhu ay yā Ibrāhīm · Qad ṣaddaqtar-ruʼyā, innā każālika najzil-muḥsinīn · Inna hāżā la-huwal-balāʼul-mubīn · Wa fadaināhu bi-żibḥin ʻaẓīm*
 
@@ -2787,7 +2787,7 @@ Pola itu biasanya datang di **akhir** kisah (80, 110, 121, 131). **Di sini ia da
 
 ---
 
-## 37/108-113 — وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ · سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ · كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ · وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ · وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
+## 37/108-113 — وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ · سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ · كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ · إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ · وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ · وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ
 
 *Wa taraknā ʻalaihi fil-ākhirīn · Salāmun ʻalā Ibrāhīm · Każālika najzil-muḥsinīn · Innahū min ʻibādinal-muʼminīn · Wa basysyarnāhu bi-Isḥāqa nabiyyam minaṣ-ṣāliḥīn · Wa bāraknā ʻalaihi wa ʻalā Isḥāq, wa min żurriyyatihimā muḥsinuw wa ẓālimul li-nafsihī mubīn*
 
@@ -3174,7 +3174,7 @@ Dan satu-satunya pengecualian adalah ayat keseratus enam belas: *wa naṣarnā**
 
 ---
 
-## 37/133-138 — وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ · إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ · إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ · ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ · وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ · وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ
+## 37/133-138 — وَإِنَّ لُوطًا لَّمِنَ ٱلْمُرْسَلِينَ · إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ · إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ · ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ · وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ · وَبِٱلَّيْلِ أَفَلَا تَعْقِلُونَ
 
 *Wa inna Lūṭal la-minal-mursalīn · Iż najjaināhu wa ahlahū ajmaʻīn · Illā ʻajūzan fil-gābirīn · Ṡumma dammarnal-ākharīn · Wa innakum la-tamurrūna ʻalaihim muṣbiḥīn · Wa bil-lail, a-falā taʻqilūn*
 
@@ -3632,7 +3632,7 @@ Dan jawab syaratnya patut dicatat: *ilā yaumi **yubʻaṡūn*** — "sampai har
 
 ---
 
-## 37/158-163 — وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ · سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ · إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَإِنَّكُمْ وَمَا تَعْبُدُونَ · مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ · إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
+## 37/158-163 — وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًا وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ · سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ · إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَإِنَّكُمْ وَمَا تَعْبُدُونَ · مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ · إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ
 
 *Wa jaʻalū bainahū wa bainal-jinnati nasaban, wa laqad ʻalimatil-jinnatu innahum la-muḥḍarūn · Subḥānallāhi ʻammā yaṣifūn · Illā ʻibādallāhil-mukhlaṣīn · Fa-innakum wa mā taʻbudūn · Mā antum ʻalaihi bi-fātinīn · Illā man huwa ṣālil-jaḥīm*
 
@@ -3832,7 +3832,7 @@ Jadi kalimat itu bukan "kami berbaris dalam saf", melainkan **"yang berbaris dal
 
 ---
 
-## 37/167-170 — وَإِن كَانُوا۟ لَيَقُولُونَ · لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ · لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ
+## 37/167-170 — وَإِن كَانُوا۟ لَيَقُولُونَ · لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ · لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ · فَكَفَرُوا۟ بِهِۦ فَسَوْفَ يَعْلَمُونَ
 
 *Wa in kānū la-yaqūlūn · Lau anna ʻindanā żikram minal-awwalīn · La-kunnā ʻibādallāhil-mukhlaṣīn · Fa-kafarū bihī fa-saufa yaʻlamūn*
 
@@ -3891,7 +3891,7 @@ Jadi kalimat itu bukan "kami berbaris dalam saf", melainkan **"yang berbaris dal
 
 **Saya catat ini sebagai bacaan saya sendiri:** surah ini meletakkan susunan yang empat kali ditunjukkannya sebagai alamat keselamatan, pada kali yang kelima ke dalam sebuah **klaim yang tidak pernah terwujud.** **Dan tepat sesudahnya ia mengatakan bagaimana klaim itu runtuh.** Susunan katanya sendiri tidak berubah; **yang berubah adalah keadaan orang yang mengucapkannya.**
 
-### فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ — dan ancaman
+### فَكَفَرُوا۟ بِهِۦ فَسَوْفَ يَعْلَمُونَ — dan ancaman
 
 ***Kafarū* — akar ك-ف-ر: menutupi, menyembunyikan.** *Kāfir* dalam bahasa Arab berarti pula **petani** (yang menutupi benih dengan tanah). **Akar ini telah diurai pada `002-bakara.md`.**
 

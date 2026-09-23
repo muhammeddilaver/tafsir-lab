@@ -437,9 +437,9 @@ Ayet, gruplamanın ölçüsünün değiştiği bir anı tarif ediyor: bir arada 
 
 ---
 
-## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝ بِأَىِّ ذَنۢبٍ قُتِلَتْ
+## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ · بِأَىِّ ذَنۢبٍ قُتِلَتْ
 
-*Ve ize'l-mev'ûdetü su'ilet ۝ Bi-eyyi zenbin kutilet*
+*Ve ize'l-mev'ûdetü su'ilet · Bi-eyyi zenbin kutilet*
 "Diri diri gömülen kıza sorulduğunda: hangi suçtan dolayı öldürüldün?"
 
 Sûrenin merkezi burada.
@@ -702,9 +702,9 @@ Bu, Abese sûresinin **س-ف-ر** kökü (açığa çıkarmak) etrafında dönme
 
 ---
 
-## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ ۝ وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
+## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ · وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
 
-*Ve ize'l-cahîmü su'iret ۝ Ve ize'l-cennetü üzlifet*
+*Ve ize'l-cahîmü su'iret · Ve ize'l-cennetü üzlifet*
 "Cehennem alevlendirildiğinde ve cennet yaklaştırıldığında."
 
 ### ٱلْجَحِيم — cahîm
@@ -854,9 +854,9 @@ Sûre bir bilgi zinciri kuruyor ve iki ucunu da gösteriyor: **kaynağında güv
 
 ---
 
-## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ ۝ ٱلْجَوَارِ ٱلْكُنَّسِ
+## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ · ٱلْجَوَارِ ٱلْكُنَّسِ
 
-*Fe-lâ uksimü bi'l-hunnes ۝ El-cevâri'l-künnes*
+*Fe-lâ uksimü bi'l-hunnes · El-cevâri'l-künnes*
 "Yemin ederim o geri çekilenlere — akıp giden, yuvalarına girenlere."
 
 ### فَلَا أُقْسِمُ — baştaki لا
@@ -940,9 +940,9 @@ Bu bağı kendi okumam olarak kaydediyorum. Ama Kur'an'ın yeminlerinin genellik
 
 ---
 
-## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ ۝ وَٱلصُّبْحِ إِذَا تَنَفَّسَ
+## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ · وَٱلصُّبْحِ إِذَا تَنَفَّسَ
 
-*Ve'l-leyli izâ as'ase ۝ Ve's-subhi izâ teneffes*
+*Ve'l-leyli izâ as'ase · Ve's-subhi izâ teneffes*
 "Ve geceye — döndüğünde; ve sabaha — nefes aldığında."
 
 Sûrenin en güzel iki ayeti.
@@ -1045,9 +1045,9 @@ Bunu bir okuma imkânı olarak sunuyorum: sûrenin bu iki yemini, yeminden fazla
 
 ---
 
-## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ ۝ ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ ۝ مُّطَاعٍ ثَمَّ أَمِينٍ
+## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ · ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ · مُّطَاعٍ ثَمَّ أَمِينٍ
 
-*İnnehû le-kavlü rasûlin kerîm ۝ Zî kuvvetin inde zi'l-arşi mekîn ۝ Mutâin semme emîn*
+*İnnehû le-kavlü rasûlin kerîm · Zî kuvvetin inde zi'l-arşi mekîn · Mutâin semme emîn*
 "Şüphesiz o, değerli bir elçinin sözüdür — güç sahibi, Arş sahibinin katında yeri sağlam; orada sözü dinlenen, güvenilir."
 
 ### Yeminin cevabı ve üç kat pekiştirme

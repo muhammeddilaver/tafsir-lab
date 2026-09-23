@@ -870,7 +870,7 @@ Ve dört ayetin fasılası da aynı: *benîh, ehîh, tü'vîh, yüncîh* — hep
 
 ---
 
-## 70/15-16 — كَلَّآ ۖ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
+## 70/15-16 — كَلَّآ إِنَّهَا لَظَىٰ · نَزَّاعَةً لِّلشَّوَىٰ
 
 *Kellâ innehâ lezâ · Nezzâaten li'ş-şevâ*
 "Hayır! O bir alevdir; derileri kavurup soyar."
@@ -2258,7 +2258,7 @@ Bunu bir okuma olarak kaydediyorum; iki ayetin muhtevası ve sonraki ayetle bağ
 
 ---
 
-## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
+## 70/38-39 — أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ · كَلَّآ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ
 
 *E-yatmau küllü'mriin minhüm en yüdhale cennete naîm · Kellâ innâ halaknâhum mimmâ ya'lemûn*
 "Onlardan her biri nimet cennetine sokulmayı mı umuyor? Hayır! Biz onları bildikleri şeyden yarattık."
@@ -2602,7 +2602,7 @@ Ve fiil **muzâri**dir: vaat sürüyor, tekrarlanıyor.
 
 ---
 
-## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
+## 70/43-44 — يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ
 
 *Yevme yahrucûne mine'l-ecdâsi sirâan keennehüm ilâ nusubin yûfidûn · Hâşiaten ebsâruhum terhakuhum zilleh; zâlike'l-yevmü'llezî kânû yûadûn*
 "O gün kabirlerden hızla çıkarlar; sanki dikili bir işarete koşuyorlarmış gibi. Gözleri düşkün, kendilerini bir zillet kaplamış halde. İşte bu, onlara vaat edilmiş olan gündür."

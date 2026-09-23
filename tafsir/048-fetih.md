@@ -429,7 +429,7 @@ Bu okumanın sûre içinde bir karşılığı var. Sûrenin anlattığı olay, d
 
 ---
 
-## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 
 *Hüve'llezî enzele's-sekînete fî kulûbi'l-mü'minîne li-yezdâdû îmânen mea îmânihim; ve lillâhi cünûdü's-semâvâti ve'l-ard; ve kâne'llâhu alîmen hakîmâ*
 
@@ -595,7 +595,7 @@ Bu, 27. ayetteki *fe-alime mâ lem ta'lemû* cümlesinin dördüncü ayetteki to
 
 ---
 
-## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
+## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
 
 *Li-yüdhile'l-mü'minîne ve'l-mü'minâti cennâtin tecrî min tahtihe'l-enhâru hâlidîne fîhâ ve yükeffira anhüm seyyiâtihim; ve kâne zâlike inda'llâhi fevzen azîmâ*
 
@@ -649,7 +649,7 @@ Ayet demiyor ki "bu, büyük bir kurtuluştur". Diyor ki: **"bu, Allah katında 
 
 ---
 
-## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
+## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Ve yuazzibe'l-münâfikîne ve'l-münâfikâti ve'l-müşrikîne ve'l-müşrikâti'z-zânnîne billâhi zanne's-sev'; aleyhim dâiratü's-sev'; ve ğadiba'llâhu aleyhim ve leanehüm ve eadde lehüm cehennem; ve sâet masîrâ*
 
@@ -721,7 +721,7 @@ Bunu bir ses ve anlam örgüsü olarak kaydediyorum; bir mucize iddiası olarak 
 
 ---
 
-## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Ve lillâhi cünûdü's-semâvâti ve'l-ard; ve kâne'llâhu azîzen hakîmâ*
 
@@ -750,10 +750,10 @@ Bu, Kur'an'da sık görülen bir kapanış tekniğidir ve `059-hasr.md`'de aynı
 Dört ile yedi arasındaki bölüm bir **çerçeve** oluşturuyor:
 
 ```
-4  — orduları Allah'ındır  →  müminler: sekîne
-5  —                            müminler: bahçeler
-6  —                            karşı taraf: azap
-7  — orduları Allah'ındır
+4 — orduları Allah'ındır → müminler: sekîne
+5 — müminler: bahçeler
+6 — karşı taraf: azap
+7 — orduları Allah'ındır
 ```
 
 Yani iki grubun ayrıldığı bölüm, aynı cümlenin iki tekrarı arasına konmuş. **Bu, sûrenin en düzenli yapısal örgüsüdür** ve şunu söyler: iki grup da aynı mülkün içindedir. Ayrışma, sahiplik değişikliği değildir.
@@ -889,7 +889,7 @@ Kur'an aynı çifti birkaç yerde kullanır: *"O'nu sabah akşam tesbih edin"* (
 
 ---
 
-## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
+## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 *İnne'llezîne yübâyiûneke innemâ yübâyiûna'llâh; yedu'llâhi fevka eydîhim; fe-men nekese fe-innemâ yenküsü alâ nefsih; ve men evfâ bimâ âhede aleyhu'llâhe fe-se-yü'tîhi ecran azîmâ*
 
@@ -1043,7 +1043,7 @@ Blok, "büyük bir karşılık" ile kapanıyor. Ve sûre de aynı ifadeyle kapan
 
 ---
 
-## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
+## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
 *Se-yekūlü leke'l-muhallefûne mine'l-a'râbi şeğaletnâ emvâlünâ ve ehlûnâ fe'stağfir lenâ; yekūlûne bi-elsinetihim mâ leyse fî kulûbihim; kul fe-men yemlikü leküm mine'llâhi şey'en in erâde biküm darran ev erâde biküm nef'â; bel kâne'llâhu bimâ ta'melûne habîrâ*
 
@@ -1356,7 +1356,7 @@ Fiil **mazi**dir: hazırlanmış, önceden. Bu, altıncı ayetteki *eadde* fiili
 
 ---
 
-## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
 *Ve lillâhi mülkü's-semâvâti ve'l-ard; yağfiru li-men yeşâü ve yuazzibü men yeşâ'; ve kâne'llâhu ğafûran rahîmâ*
 
@@ -1403,7 +1403,7 @@ Bu sıra dikkat çekicidir ve kendi okumam olarak kaydediyorum. Blok boyunca sö
 
 ---
 
-## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
+## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
 
 *Se-yekūlü'l-muhallefûne izentelektüm ilâ meğânime li-te'huzûhâ zerûnâ nettebi'küm; yürîdûne en yübeddilû kelâma'llâh; kul len tettebiûnâ kezâliküm kāle'llâhu min kabl; fe-se-yekūlûne bel tahsüdûnenâ; bel kânû lâ yefkahûne illâ kalîlâ*
 
@@ -1510,7 +1510,7 @@ Klasik tefsirlerde her iki okuma da bulunur; tercih dayatmıyorum. İkisi de ayn
 
 ---
 
-## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
+## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
 
 *Kul li'l-muhallefîne mine'l-a'râbi se-tüd'avne ilâ kavmin ulî be'sin şedîdin tükātilûnehüm ev yüslimûn; fe-in tutîû yü'tikümü'llâhu ecran hasenâ; ve in tetevellev kemâ tevelleytüm min kablü yuazzibküm azâben elîmâ*
 
@@ -1590,7 +1590,7 @@ Sûrede "karşılık" birkaç kez anılır ve sıfatları farklıdır:
 
 ---
 
-## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
+## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
 
 *Leyse ale'l-a'mâ haracün ve lâ ale'l-a'raci haracün ve lâ ale'l-marîdi harac; ve men yutii'llâhe ve rasûlehû yüdhilhü cennâtin tecrî min tahtihe'l-enhâr; ve men yetevelle yuazzibhü azâben elîmâ*
 
@@ -1724,9 +1724,9 @@ Yani ağaca *şecere* denmesi, **dallarının iç içe geçmesi** yüzündendir.
 
 ```
 biat ediyorlardı
-      ↓
+ ↓
 Allah kalplerindekini BİLDİ
-      ↓
+ ↓
 sekîne indirdi
 ```
 
@@ -1795,7 +1795,7 @@ Ve buradan doğan kelimeler dikkat çekicidir:
 
 ---
 
-## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Ve meğânime kesîraten ye'huzûnehâ; ve kâne'llâhu azîzen hakîmâ*
 
@@ -1882,7 +1882,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum: sûre, başta bir kişiye söyledi�
 
 ---
 
-## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
+## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
 
 *Ve uhrâ lem takdirû aleyhâ kad ehâta'llâhu bihâ; ve kâne'llâhu alâ külli şey'in kadîrâ*
 
@@ -1983,7 +1983,7 @@ Kur'an bu ikisini sık sık çift olarak kullanır (Bakara 2/107, 120; Tevbe 9/1
 
 ---
 
-## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
+## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
 
 *Sünnete'llâhi'lletî kad halet min kabl; ve len tecide li-sünnetillâhi tebdîlâ*
 
@@ -2089,7 +2089,7 @@ Kelime **mansûb** (üstün) gelmiştir: *sünnet**e**'llâh*. Bu, gramercilerin
 
 ---
 
-## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
+## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
 
 *Ve hüve'llezî keffe eydiyehüm anküm ve eydiyeküm anhüm bi-batni Mekkete min ba'di en ezferaküm aleyhim; ve kâne'llâhu bimâ ta'melûne basîrâ*
 
@@ -2100,8 +2100,8 @@ Kelime **mansûb** (üstün) gelmiştir: *sünnet**e**'llâh*. Bu, gramercilerin
 **Ayetin merkezinde tam bir simetri var:**
 
 ```
-eydiye-HÜM   an-KÜM     — onların elleri  sizden
-eydiye-KÜM   an-HÜM     — sizin elleriniz onlardan
+eydiye-HÜM an-KÜM — onların elleri sizden
+eydiye-KÜM an-HÜM — sizin elleriniz onlardan
 ```
 
 Aynı fiil (*keffe*), iki nesne, karşılıklı çapraz zamirler. **Ve iki tarafa da aynı şey yapılıyor.**
@@ -2160,7 +2160,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum.
 
 ---
 
-## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
+## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 
 *Hümü'llezîne keferû ve saddûküm ani'l-mescidi'l-harâmi ve'l-hedye ma'kûfen en yeblüğa mahilleh; ve levlâ ricâlün mü'minûne ve nisâün mü'minâtün lem ta'lemûhüm en tetaûhüm fe-tusîbeküm minhüm mearratün bi-ğayri ilm; li-yüdhile'llâhu fî rahmetihî men yeşâ'; lev tezeyyelû le-azzebne'llezîne keferû minhüm azâben elîmâ*
 
@@ -2290,7 +2290,7 @@ Ve sûrenin bu okumayı destekleyen bir devamı vardır: Nasr sûresinde insanla
 
 ---
 
-## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
+## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *İz cea'le'llezîne keferû fî kulûbihimü'l-hamiyyete hamiyyete'l-câhiliyyeti fe-enzela'llâhu sekînetehû alâ rasûlihî ve ale'l-mü'minîne ve elzemehüm kelimete't-takvâ ve kânû ehakka bihâ ve ehlehâ; ve kâne'llâhu bi-külli şey'in alîmâ*
 
@@ -2301,8 +2301,8 @@ Ve sûrenin bu okumayı destekleyen bir devamı vardır: Nasr sûresinde insanla
 **Bu ayet, bir karşılaştırma üzerine kuruludur ve karşılaştırmanın iki tarafı iki kelimedir:**
 
 ```
-Bir tarafta:  الحمية   —  hamiyye   —  ISINMA
-Öbür tarafta: السكينة  —  sekîne    —  DURULMA
+Bir tarafta: الحمية — hamiyye — ISINMA
+Öbür tarafta: السكينة — sekîne — DURULMA
 ```
 
 **Ve karşıtlık kök düzeyindedir**, kelime düzeyinde değil. Yani ayet "öfke" ile "sabır"ı ya da "kin" ile "merhamet"i karşı karşıya koymuyor. Karşı karşıya konan şey **hareketin iki hâli**dir: kızışma ve durulma.
@@ -2473,7 +2473,7 @@ Ve ayet, "her şeyi bilen" ismiyle kapanıyor. **بِكُلِّ شَىْءٍ** �
 
 ---
 
-## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
 
 *Lekad sadeka'llâhu rasûlehü'r-ru'yâ bi'l-hakk; le-tedhulünne'l-mescide'l-harâme in şâa'llâhu âminîne muhallikīne ruûseküm ve mukassirîne lâ tehâfûn; fe-alime mâ lem ta'lemû fe-ce'ale min dûni zâlike fethan karîbâ*
 
@@ -2677,8 +2677,8 @@ Ve bu, dördüncü ayetteki *sekîne*nin tamamlanmasıdır: orada korku varken g
 Şöyle bir tablo çıkıyor:
 
 ```
-RÜYA          →   [ FETİH (yakın) ]   →   RÜYANIN GERÇEKLEŞMESİ
-(vaad)             ARAYA KONAN               (Mescid-i Harâm)
+RÜYA → [ FETİH (yakın) ] → RÜYANIN GERÇEKLEŞMESİ
+(vaad) ARAYA KONAN (Mescid-i Harâm)
 ```
 
 **Araya bir aşama konmuştur.** Ve o aşamaya sûrenin adı verilmiştir: **fetih.**
@@ -2689,7 +2689,7 @@ RÜYA          →   [ FETİH (yakın) ]   →   RÜYANIN GERÇEKLEŞMESİ
 
 ---
 
-## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
+## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Hüve'llezî ersele rasûlehû bi'l-hüdâ ve dîni'l-hakkı li-yuzhirahû ale'd-dîni küllih; ve kefâ billâhi şehîdâ*
 
@@ -2775,7 +2775,7 @@ Klasik izahlarda bu ayrım şöyle açıklanır: *hüdâ* **bilgi** tarafıdır 
 
 ---
 
-## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
+## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
 
 *Muhammedün rasûlullâh; ve'llezîne meahû eşiddâü ale'l-küffâri ruhamâü beynehüm; terâhüm rukkean sücceden yebteğûne fadlen mine'llâhi ve rıdvânâ; sîmâhüm fî vücûhihim min eseri's-sücûd; zâlike meselühüm fi't-Tevrâh; ve meselühüm fi'l-İncîli ke-zer'in ahrace şat'ehû fe-âzerahû fe'stağleza fe'stevâ alâ sûkıhî yu'cibü'z-zürrâa li-yeğîza bihimü'l-küffâr; vaada'llâhu'llezîne âmenû ve amilü's-sâlihâti minhüm mağfiraten ve ecran azîmâ*
 
@@ -2924,7 +2924,7 @@ Bu ayet `059-hasr.md`'de de aynı işlevle anılmıştı ve burada da geçerlidi
 
 **Kendi okumam olarak kaydediyorum:** bir işaretin gösterilmek üzere üretilmesi, işareti işaret olmaktan çıkarır. Bu, Kur'an'ın başka yerlerde açıkça uyardığı bir konudur — gösteriş için yapılan ibadetin eleştirisi (`107-maun.md`'de işlendi). Ayetin cümlesi bir **tespit**tir: onlarda böyle bir iz vardır. Bir tavsiye değildir: "böyle bir iz edinin" demiyor.
 
-### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
+### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
 
 **مَثَل** — kök **م-ث-ل**: benzemek, bir şeyin dengi olmak. *Misâl*, *timsâl*, *temsîl*, *mümâsil*. Kelime Arapçada hem "benzetme" hem **"tasvir, betimleme"** anlamına gelir.
 
@@ -3044,7 +3044,7 @@ Klasik izahlarda iki okuma vardır:
 
 ```
 tohum → filiz → destek → kalınlaşma → dik duruş
-        (yandan) (karşılıklı) (dayanıklılık) (bağımsızlık)
+ (yandan) (karşılıklı) (dayanıklılık) (bağımsızlık)
 ```
 
 **Kendi okumam olarak kaydediyorum ve bunu bir nakil olarak sunmuyorum:**

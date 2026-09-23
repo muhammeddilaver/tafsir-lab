@@ -63,7 +63,7 @@ Huruf-huruf ini terhitung ayat, dibaca dalam salat, dan tertulis dalam mushaf. J
 
 ---
 
-## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+## 2/2 — ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ فِيهِ هُدًى لِّلْمُتَّقِينَ
 
 *Żālikal-kitābu lā raiba fīh, hudal lil-muttaqīn*
 "Itulah Kitab; tidak ada keraguan padanya; ia penunjuk jalan bagi orang-orang yang bertakwa."
@@ -105,7 +105,7 @@ Tidak. Perhatikanlah: ayat ini tidak mengatakan "tidak seorang pun meragukannya"
 
 ### Tanda kecil dalam mushaf
 
-Pada ayat ini, dalam mushaf-mushaf klasik terdapat dua tanda tiga titik berbentuk `ۛ` — satu sebelum "fīh", satu sesudahnya. Tanda itu disebut *muʻānaqah* (saling berpelukan) dan maknanya begini: **berhenti pada salah satu dari dua tempat itu, tidak pada keduanya sekaligus.** Sebab dua tempat berhenti yang berbeda memberikan dua makna yang berbeda:
+Pada ayat ini, dalam mushaf-mushaf klasik terdapat dua tanda tiga titik berbentuk `` — satu sebelum "fīh", satu sesudahnya. Tanda itu disebut *muʻānaqah* (saling berpelukan) dan maknanya begini: **berhenti pada salah satu dari dua tempat itu, tidak pada keduanya sekaligus.** Sebab dua tempat berhenti yang berbeda memberikan dua makna yang berbeda:
 
 - *"Tidak ada keraguan padanya. Ia penunjuk jalan bagi orang-orang yang bertakwa."*
 - *"Tidak ada keraguan padanya. Di dalamnya ada penunjukan jalan bagi orang-orang yang bertakwa."*
@@ -4534,7 +4534,7 @@ Pasangan sifat itu muncul beberapa kali lagi dalam surah ini, dan setiap kali ya
 
 **Pemilihan katanya layak dicatat.** Ayat ini tidak berkata "berilah" atau "belanjakanlah"; ia berkata **"berilah pinjaman"**. Pinjaman adalah sesuatu yang diberikan untuk diambil kembali. **Jadi infak diuraikan bukan sebagai sesuatu yang hilang, melainkan sebagai sesuatu yang dituliskan pada sisi piutang.**
 
-**وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ** — "Allah menyempitkan dan melapangkan." **Diletakkannya kalimat ini di sini adalah jawaban bagi kegelisahan akan berkurang yang dirasakan ketika memberi.**
+**وَٱللَّهُ يَقْبِضُ وَيَبْصُطُ** — "Allah menyempitkan dan melapangkan." **Diletakkannya kalimat ini di sini adalah jawaban bagi kegelisahan akan berkurang yang dirasakan ketika memberi.**
 
 ---
 

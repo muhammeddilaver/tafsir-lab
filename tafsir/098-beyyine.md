@@ -160,7 +160,7 @@ Bu, bu metnin bağlı olduğu usul kuralının doğrudan uygulandığı yerdir: 
 
 Ve bunun metin içi delili sadece bir harf değil. Kur'an, aynı topluluk hakkında dengeleyici hükmü açıkça kurar:
 
-> **لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
+> **لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
 > *"Hepsi bir değildir. Ehl-i kitaptan, gecenin saatlerinde secdeye kapanarak Allah'ın ayetlerini okuyan, dosdoğru (kāime) bir topluluk vardır."* (Âl-i İmrân 3/113)
 
 Bu ayetin ilk iki kelimesi — *leysû sevâen*, "hepsi bir değildir" — genelleme yapmayı doğrudan yasaklar. Devamı (3/114-115) o topluluğun Allah'a ve ahiret gününe inandığını, iyiliği emredip kötülükten sakındırdığını, hayırlarda yarıştığını söyler ve *"yaptıkları hiçbir hayrın karşılıksız bırakılmayacağını"* bildirir.
@@ -336,7 +336,7 @@ Bu izahlar birbirinin alternatifi değil, aynı temizliğin farklı yönleridir.
 
 **Kur'an'ın Kur'an'la tefsiri — Abese 80/13-16.** Aynı kelime, aynı tamlamayla orada geçer:
 
-> **فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ**
+> **فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ**
 > *"Değerli kılınmış sayfalarda; yüceltilmiş, arındırılmış; yazıcı elçilerin elleriyle; şerefli, iyilik sahibi olanların."* (Abese 80/13-16)
 
 Orada sayfaların üç sıfatı var: *mükerreme* (değerli kılınmış), *merfû'a* (yükseltilmiş), *mutahhera* (arındırılmış). Üçü de ism-i mef'ûl; üçü de edilgen. Sayfalar kendi değerini kendi kazanmıyor; kendini yüceltmiyor; kendini temizlemiyor. Üç işlem de dışarıdan yapılmış.
@@ -396,7 +396,7 @@ Burada yeni olan, kelimenin **kalıbı**dır.
 
 **1. Dosdoğru, eğrisiz olan.** Kendi içinde çarpıklık taşımayan. Bunun en temiz Kur'an içi delili şudur:
 
-> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا ۜ ۝ قَيِّمًا**
+> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا · قَيِّمًا**
 > *"Hamd, kuluna kitabı indiren ve onda hiçbir eğrilik bırakmayan Allah'a mahsustur; dosdoğru (kayyimen) olarak."* (Kehf 18/1-2)
 
 Orada *kayyim*, hemen öncesindeki *ıvec* (eğrilik) kelimesinin karşıtı olarak konuyor. Yani *kayyim* = eğriliksiz.
@@ -575,7 +575,7 @@ Ayetin işlevi teşhis, ithamdan önce gelir: **bilgi geldikten sonra bölünme,
 
 ---
 
-## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
 
 *Ve mâ umirû illâ li-ya'budü'llâhe muhlisîne lehü'd-dîne hunefâe ve yukīmü's-salâte ve yu'tü'z-zekâte; ve zâlike dînü'l-kayyimeh*
 
@@ -738,10 +738,10 @@ Bunu bir tercih değil, bir imkân olarak sunuyorum. Klasik kaynaklarda dört iz
 
 Bu ayetin en güçlü paraleli Rûm sûresindedir ve paralellik olağanüstü sıkıdır. Üç ayeti sırayla verip Beyyine ile karşılaştıralım:
 
-> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
+> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
 > *"Sen yüzünü hanîf olarak dine doğrult. Allah'ın insanları üzerinde yarattığı fıtrata [uy]. Allah'ın yaratışında değişme yoktur. İşte dosdoğru din (ed-dînü'l-kayyim) budur; fakat insanların çoğu bilmez."* (Rûm 30/30)
 
-> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ ۝ مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
+> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ · مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
 > *"O'na yönelenler olarak; O'ndan sakının, namazı ikame edin ve müşriklerden olmayın — dinlerini parçalayıp fırkalara ayrılanlardan. Her hizip, kendi elindekiyle sevinip duruyor."* (Rûm 30/31-32)
 
 Karşılaştırma tablosu:
@@ -767,7 +767,7 @@ Bu iki ayeti Beyyine 98/4-5 ile birlikte okumak, sûrenin teşhisini tamamlıyor
 
 ---
 
-## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
+## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
 
 *İnne'llezîne keferû min ehli'l-kitâbi ve'l-müşrikîne fî nâri cehenneme hâlidîne fîhâ; ulâike hüm şerru'l-beriyyeh*
 
@@ -934,7 +934,7 @@ Bu iki uçluluğun sebebi, sûrenin bütün konusudur: **beyyine.** Bilgi almı�
 
 ---
 
-## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
+## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
 
 *Cezâuhüm inde rabbihim cennâtü adnin tecrî min tahtihe'l-enhâru hâlidîne fîhâ ebedâ; radıya'llâhu anhüm ve radû anh; zâlike li-men haşiye rabbeh*
 
@@ -1068,7 +1068,7 @@ Ayet cenneti tarif etti: bahçeler, ırmaklar, ebedîlik. Sonra rızâyı ekledi
 
 Kur'an bu hiyerarşiyi bir yerde açıkça kurar. Tevbe sûresinde cennet tasvir edildikten hemen sonra şu cümle gelir:
 
-> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
+> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
 > *"Ve Allah'tan bir rıdvân (hoşnutluk) daha büyüktür. İşte büyük kurtuluş budur."* (Tevbe 9/72)
 
 **"Daha büyüktür"** — neyden? Az önce sayılan bahçelerden ve köşklerden. Ayet karşılaştırmayı kendisi yapıyor ve rızâyı üste koyuyor.
@@ -1083,7 +1083,7 @@ Bu, aynı zamanda dindarlığın alacaklılığa dönüşmesini engelleyen bir �
 
 Kur'an bu iki taraflı rızayı bir yerde daha, bu sefer iki *sıfat* halinde kurar:
 
-> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ ۝ ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
+> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ · ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
 > *"Ey huzura ermiş nefis! Razı olmuş ve kendisinden razı olunmuş olarak Rabbine dön."* (Fecr 89/27-28)
 
 Orada aynı kökün iki kalıbı yan yana geliyor: **رَاضِيَة** (ism-i fâil: razı olan) ve **مَّرْضِيَّة** (ism-i mef'ûl: kendisinden razı olunan). Beyyine'de iki *fiil* ile kurulan şey, Fecr'de iki *sıfat* ile kuruluyor.

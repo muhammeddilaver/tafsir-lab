@@ -66,7 +66,7 @@ Since the basmala was treated in earlier sections it is not taken up again here;
 
 ---
 
-## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+## 57/1 — سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 *Sabbaḥa li'llāhi mā fi's-samāwāti wa'l-arḍ, wa huwa'l-ʿAzīzu'l-Ḥakīm*
 "Whatever is in the heavens and the earth has declared God free of all imperfection. He is al-ʿAzīz, al-Ḥakīm."
@@ -148,7 +148,7 @@ And that this pair should stand at the head of the sūra is meaningful: in verse
 
 ---
 
-## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+## 57/2 — لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 *Lahu mulku's-samāwāti wa'l-arḍ, yuḥyī wa yumīt, wa huwa ʿalā kulli shayʾin qadīr*
 "To Him belongs the dominion of the heavens and the earth. He gives life and He gives death. He is powerful over everything."
@@ -187,7 +187,7 @@ I note this second verse; I shall return to it when we come to the question of *
 
 ---
 
-## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+## 57/3 — هُوَ ٱلْأَوَّلُ وَٱلْـَٔاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 
 *Huwa'l-Awwalu wa'l-Ākhiru wa'ẓ-Ẓāhiru wa'l-Bāṭin, wa huwa bi-kulli shayʾin ʿalīm*
 "He is the First, the Last, the Outermost, the Innermost. He is the Knower of everything."
@@ -327,7 +327,7 @@ The sūra shows the picture of *tawḥīd* once as a joining and once as a parti
 
 ---
 
-## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+## 57/4 — هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 
 *Huwa'lladhī khalaqa's-samāwāti wa'l-arḍa fī sittati ayyāmin thumma'stawā ʿala'l-ʿarsh; yaʿlamu mā yaliju fi'l-arḍi wa mā yakhruju minhā wa mā yanzilu mina's-samāʾi wa mā yaʿruju fīhā; wa huwa maʿakum ayna mā kuntum; wa'llāhu bimā taʿmalūna baṣīr*
 "It is He who created the heavens and the earth in six days, then took His place upon the Throne. He knows what enters the earth and what comes out of it, what comes down from the sky and what ascends into it. Wherever you may be, He is with you. God sees what you do."
@@ -438,7 +438,7 @@ This narrowing is an instance of the sūra's method: the large picture is built,
 
 ---
 
-## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+## 57/5 — لَّهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 
 *Lahu mulku's-samāwāti wa'l-arḍ, wa ila'llāhi turjaʿu'l-umūr*
 "To Him belongs the dominion of the heavens and the earth. And to God all affairs are returned."
@@ -472,7 +472,7 @@ And there is again a **fronting**: *ila'llāhi* (to God) has come before the ver
 
 ---
 
-## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۚ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 57/6 — يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Yūliju'l-layla fi'n-nahāri wa yūliju'n-nahāra fi'l-layl, wa huwa ʿalīmun bi-dhāti'ṣ-ṣudūr*
 "He makes the night enter into the day and makes the day enter into the night. He is the Knower of what is in the breasts."
@@ -544,7 +544,7 @@ A further link is also made with the third verse. There God was named *al-Bāṭ
 
 ---
 
-## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ ۖ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
+## 57/7 — ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
 
 *Āminū bi'llāhi wa rasūlih, wa anfiqū mimmā jaʿalakum mustakhlafīna fīh; fa'lladhīna āmanū minkum wa anfaqū lahum ajrun kabīr*
 "Believe in God and His Messenger, and spend of that in which He has made you successors. For those of you who believe and spend there is a great reward."
@@ -701,7 +701,7 @@ The adjective **كبير** states no measure, only greatness. In verses 11 and 1
 
 ---
 
-## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
+## 57/8 — وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
 *Wa mā lakum lā tuʾminūna bi'llāh, wa'r-rasūlu yadʿūkum li-tuʾminū bi-rabbikum wa qad akhadha mīthāqakum in kuntum muʾminīn*
 "What is the matter with you that you do not believe in God, when the Messenger calls you to believe in your Lord and He has taken your pledge — if you are going to believe?"
@@ -754,7 +754,7 @@ On this reading the tone of the sentence is: *"if you count yourselves believers
 
 ---
 
-## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
+## 57/9 — هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
 
 *Huwa'lladhī yunazzilu ʿalā ʿabdihi āyātin bayyinātin li-yukhrijakum mina'ẓ-ẓulumāti ila'n-nūr; wa inna'llāha bikum la-raʾūfun raḥīm*
 "It is He who sends down clear signs upon His servant, that He may bring you out of the darknesses into the light. God is indeed most kind to you, most merciful."
@@ -803,7 +803,7 @@ The coming together of the two names occurs in several places in the Qurʾān. A
 
 ---
 
-## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ ۚ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+## 57/10 — وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 
 *Wa mā lakum allā tunfiqū fī sabīli'llāhi wa lillāhi mīrāthu's-samāwāti wa'l-arḍ; lā yastawī minkum man anfaqa min qabli'l-fatḥi wa qātal; ulāʾika aʿẓamu darajatan mina'lladhīna anfaqū min baʿdu wa qātalū; wa kullan waʿada'llāhu'l-ḥusnā; wa'llāhu bimā taʿmalūna khabīr*
 "What is the matter with you that you do not spend in the way of God, when to God belongs the inheritance of the heavens and the earth? Those of you who spent and fought before the conquest are not equal to those who spent and fought afterwards; their degree is greater. Yet to all God has promised the best. God is aware of what you do."
@@ -1042,7 +1042,7 @@ And the nearest relative of this scene in the Qurʾān is verse 17 of Sūrat al-
 
 ---
 
-## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+## 57/12 — يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 *Yawma tara'l-muʾminīna wa'l-muʾmināti yasʿā nūruhum bayna aydīhim wa bi-aymānihim: bushrākumu'l-yawma jannātun tajrī min taḥtiha'l-anhāru khālidīna fīhā; dhālika huwa'l-fawzu'l-ʿaẓīm*
 "On the day you will see the believing men and the believing women, their light running before them and on their right: 'Your good news today is gardens beneath which rivers flow, in which you will abide for ever. That is the great triumph.'"
@@ -1248,7 +1248,7 @@ There the word is *ḥijāb* (screen), here *sūr* (wall). And there is a group 
 
 ---
 
-## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
+## 57/14 — يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ قَالُوا۟ بَلَىٰ وَلَٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
 
 *Yunādūnahum: a-lam nakun maʿakum? Qālū: balā, wa lākinnakum fatantum anfusakum wa tarabbaṣtum wa'rtabtum wa gharratkumu'l-amāniyyu ḥattā jāʾa amru'llāh, wa gharrakum bi'llāhi'l-gharūr*
 "They will call out to them: 'Were we not with you?' They will say: 'Yes, but you led yourselves into temptation, and you waited, and you doubted, and false hopes deceived you until God's command came; and the great deceiver deceived you about God.'"
@@ -1407,7 +1407,7 @@ This recalls the close of the sixth verse of the sūra: **وَهُوَ عَلِ�
 
 ---
 
-## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ ۚ مَأْوَىٰكُمُ ٱلنَّارُ ۖ هِىَ مَوْلَىٰكُمْ ۖ وَبِئْسَ ٱلْمَصِيرُ
+## 57/15 — فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ
 
 *Fa'l-yawma lā yuʾkhadhu minkum fidyatun wa lā mina'lladhīna kafarū; maʾwākumu'n-nār, hiya mawlākum, wa biʾsa'l-maṣīr*
 "Today no ransom will be taken from you, nor from those who denied. Your refuge is the Fire; it is your *mawlā*. And an evil destination it is!"
@@ -1454,7 +1454,7 @@ The three words of the verse (*maʾwā*, *mawlā*, *maṣīr*) thus do the same 
 
 ---
 
-## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/16 — أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *A-lam yaʾni lilladhīna āmanū an takhshaʿa qulūbuhum li-dhikri'llāhi wa mā nazala mina'l-ḥaqq, wa lā yakūnū ka'lladhīna ūtu'l-kitāba min qablu fa-ṭāla ʿalayhimu'l-amadu fa-qasat qulūbuhum; wa kathīrun minhum fāsiqūn*
 "Has the time not come for those who believe that their hearts should soften to the remembrance of God and to the truth that has come down? And let them not be like those who were given the Book before: a long time passed over them, and then their hearts hardened. Many of them are transgressors."
@@ -1623,7 +1623,7 @@ The reason for this is probably the following: cooling that comes with duration 
 
 ---
 
-## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+## 57/17 — ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْـَٔايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 
 *Iʿlamū anna'llāha yuḥyi'l-arḍa baʿda mawtihā; qad bayyannā lakumu'l-āyāti laʿallakum taʿqilūn*
 "Know that God gives life to the earth after its death. We have made the signs clear to you, that you may reason."
@@ -1758,7 +1758,7 @@ And the adjective of the return is the same: **أَجْرٌ كَرِيمٌ** —
 
 ---
 
-## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ ۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
+## 57/19 — وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ
 
 *Wa'lladhīna āmanū bi'llāhi wa rusulih, ulāʾika humu'ṣ-ṣiddīqūn; wa'sh-shuhadāʾu ʿinda rabbihim lahum ajruhum wa nūruhum; wa'lladhīna kafarū wa kadhdhabū bi-āyātinā ulāʾika aṣḥābu'l-jaḥīm*
 "And those who believe in God and His messengers — they are the *ṣiddīqūn*. And the witnesses are with their Lord; theirs is their reward and their light. And those who deny and reject Our signs — they are the companions of the blaze."
@@ -1812,7 +1812,7 @@ The sequence of the four occurrences marks out a path:
 
 ---
 
-## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+## 57/20 — ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 
 *Iʿlamū annama'l-ḥayātu'd-dunyā laʿibun wa lahwun wa zīnatun wa tafākhurun baynakum wa takāthurun fi'l-amwāli wa'l-awlād; ka-mathali ghaythin aʿjaba'l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāmā; wa fi'l-ākhirati ʿadhābun shadīdun wa maghfiratun mina'llāhi wa riḍwān; wa ma'l-ḥayātu'd-dunyā illā matāʿu'l-ghurūr*
 "Know that the life of this world is only a play, an amusement, an adornment, a boasting among yourselves and a rivalry in the multiplying of wealth and children. Like a rain whose growth delights the tillers; then it withers, and you see it turn yellow; then it becomes chaff. And in the hereafter there is a severe punishment, and forgiveness from God, and good pleasure. The life of this world is nothing but the enjoyment of delusion."
@@ -2071,7 +2071,7 @@ He cannot do the same for his own life — because he is inside it. What the sim
 
 ---
 
-## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/21 — سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Sābiqū ilā maghfiratin min rabbikum wa jannatin ʿarḍuhā ka-ʿarḍi's-samāʾi wa'l-arḍ, uʿiddat lilladhīna āmanū bi'llāhi wa rusulih; dhālika faḍlu'llāhi yuʾtīhi man yashāʾ; wa'llāhu dhu'l-faḍli'l-ʿaẓīm*
 "Race towards forgiveness from your Lord and a garden whose breadth is like the breadth of the sky and the earth, prepared for those who believe in God and His messengers. That is God's bounty; He gives it to whom He wills. God is the possessor of great bounty."
@@ -2136,7 +2136,7 @@ The word will occur three more times in the last verse of the sūra (29), and th
 
 ---
 
-## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+## 57/22-23 — مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ • لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 
 *Mā aṣāba min muṣībatin fi'l-arḍi wa lā fī anfusikum illā fī kitābin min qabli an nabraʾahā; inna dhālika ʿala'llāhi yasīr. Li-kaylā taʾsaw ʿalā mā fātakum wa lā tafraḥū bimā ātākum; wa'llāhu lā yuḥibbu kulla mukhtālin fakhūr*
 "No affliction befalls the earth or your own selves but that it is in a book before We bring it into being. That is easy for God. So that you may not grieve over what has escaped you nor exult over what He has given you. God does not love any conceited boaster."
@@ -2329,7 +2329,7 @@ What is sought is not the absence of feelings but **a right knowledge of whose t
 
 ---
 
-## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+## 57/24 — ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
 
 *Alladhīna yabkhalūna wa yaʾmurūna'n-nāsa bi'l-bukhl; wa man yatawalla fa-inna'llāha huwa'l-ghaniyyu'l-ḥamīd*
 "Those who are miserly and enjoin miserliness upon people. And whoever turns away — God is the Rich, the Praiseworthy."
@@ -2384,7 +2384,7 @@ The addition of the name **حميد** is meaningful as well. Had *ghanī* been s
 
 ---
 
-## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+## 57/25 — لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 
 *La-qad arsalnā rusulanā bi'l-bayyināti wa anzalnā maʿahumu'l-kitāba wa'l-mīzāna li-yaqūma'n-nāsu bi'l-qisṭ; wa anzalna'l-ḥadīda fīhi baʾsun shadīdun wa manāfiʿu li'n-nāsi wa li-yaʿlama'llāhu man yanṣuruhu wa rusulahu bi'l-ghayb; inna'llāha qawiyyun ʿazīz*
 "Assuredly We sent Our messengers with clear proofs, and We sent down with them the Book and the balance, that people might uphold justice. And We sent down iron, in which there is great force and benefits for people — and so that God might mark out those who help Him and His messengers unseen. God is indeed strong, mighty."
@@ -2727,7 +2727,7 @@ I record this not as a ruling but as the generality of the frame the verse sets 
 
 ---
 
-## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/26 — وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Wa la-qad arsalnā Nūḥan wa Ibrāhīma wa jaʿalnā fī dhurriyyatihima'n-nubuwwata wa'l-kitāb; fa-minhum muhtad, wa kathīrun minhum fāsiqūn*
 "Assuredly We sent Noah (Nūḥ) and Abraham (Ibrāhīm), and We placed prophethood and the Book in the offspring of the two. Among them there is one rightly guided; but many of them are transgressors."
@@ -2755,7 +2755,7 @@ And the second half of the verse already cuts this off: **"among them there is o
 
 This is the same measure as the one set up at al-Baqara 2/124: *"My covenant does not reach the wrongdoers."* That is the answer given when the question was asked about Abraham's line.
 
-### فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+### فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 **The word order itself sets up a balance** and must be read with care.
 
@@ -2776,7 +2776,7 @@ The text does this itself — three times, with the same word.
 
 ---
 
-## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+## 57/27 — ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 
 *Thumma qaffaynā ʿalā āthārihim bi-rusulinā wa qaffaynā bi-ʿĪsa'bni Maryama wa ātaynāhu'l-Injīla wa jaʿalnā fī qulūbi'lladhīna'ttabaʿūhu raʾfatan wa raḥmah; wa rahbāniyyatani'btadaʿūhā mā katabnāhā ʿalayhim illa'btighāʾa riḍwāni'llāhi fa-mā raʿawhā ḥaqqa riʿāyatihā; fa-ātayna'lladhīna āmanū minhum ajrahum; wa kathīrun minhum fāsiqūn*
 "Then We sent Our messengers one after another upon their traces, and We sent Jesus (ʿĪsā) son of Mary after them and gave him the Injīl. And We placed tenderness and mercy in the hearts of those who followed him. As for monasticism: they invented it themselves; We did not prescribe it for them — only the seeking of God's good pleasure. Yet they did not observe it as it should have been observed. So We gave those among them who believed their reward; but many of them are transgressors."
@@ -2947,7 +2947,7 @@ And the idea common to the two verses is: **beginning a thing and keeping it up 
 
 ---
 
-## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+## 57/28 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 
 *Yā ayyuha'lladhīna āmanu'ttaqu'llāha wa āminū bi-rasūlih, yuʾtikum kiflayni min raḥmatihi wa yajʿal lakum nūran tamshūna bihi wa yaghfir lakum; wa'llāhu ghafūrun raḥīm*
 "You who believe! Guard yourselves against God and believe in His messenger, and He will give you a double share of His mercy, and give you a light by which you will walk, and forgive you. God is forgiving, merciful."
@@ -3027,7 +3027,7 @@ This may be seen as an element supporting the first reading (that the addressee 
 
 ---
 
-## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ ۙ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+## 57/29 — لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 
 *Li-allā yaʿlama ahlu'l-kitābi allā yaqdirūna ʿalā shayʾin min faḍli'llāhi wa anna'l-faḍla bi-yadi'llāhi yuʾtīhi man yashāʾ; wa'llāhu dhu'l-faḍli'l-ʿaẓīm*
 "So that the People of the Book may know that they have no power over anything of God's bounty; that the bounty is in God's hand, and He gives it to whom He wills. God is the possessor of great bounty."

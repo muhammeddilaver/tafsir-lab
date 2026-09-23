@@ -429,7 +429,7 @@ This reading has a counterpart within the sūra. The event the sūra recounts is
 
 ---
 
-## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+## 48/4 — هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ إِيمَٰنِهِمْ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 
 *Huwa'lladhī anzala's-sakīnata fī qulūbi'l-muʾminīna li-yazdādū īmānan maʿa īmānihim; wa li'llāhi junūdu's-samāwāti wa'l-arḍ; wa kāna'llāhu ʿalīman ḥakīmā*
 
@@ -595,7 +595,7 @@ This is, in the fourth verse, the seed of the sentence *fa-ʿalima mā lam taʿl
 
 ---
 
-## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
+## 48/5 — لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا
 
 *Li-yudkhila'l-muʾminīna wa'l-muʾmināti jannātin tajrī min taḥtihā'l-anhāru khālidīna fīhā wa yukaffira ʿanhum sayyiʾātihim; wa kāna dhālika ʿinda'llāhi fawzan ʿaẓīmā*
 
@@ -649,7 +649,7 @@ The verse does not say "this is a great deliverance". It says: **"this, with God
 
 ---
 
-## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
+## 48/6 — وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ وَسَآءَتْ مَصِيرًا
 
 *Wa yuʿadhdhiba'l-munāfiqīna wa'l-munāfiqāti wa'l-mushrikīna wa'l-mushrikāti'ẓ-ẓānnīna bi'llāhi ẓanna's-sawʾ; ʿalayhim dāʾiratu's-sawʾ; wa ghaḍiba'llāhu ʿalayhim wa laʿanahum wa aʿadda lahum jahannam; wa sāʾat maṣīrā*
 
@@ -721,7 +721,7 @@ I record this as a weave of sound and sense, not as a claim of miracle.
 
 ---
 
-## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/7 — وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Wa li'llāhi junūdu's-samāwāti wa'l-arḍ; wa kāna'llāhu ʿazīzan ḥakīmā*
 
@@ -750,10 +750,10 @@ This is a closing technique often seen in the Qurʾān, and the same fact was dw
 The section between four and seven forms a **frame**:
 
 ```
-4  — the hosts belong to God  →  the believers: sakīna
-5  —                             the believers: gardens
-6  —                             the other side: punishment
-7  — the hosts belong to God
+4 — the hosts belong to God → the believers: sakīna
+5 — the believers: gardens
+6 — the other side: punishment
+7 — the hosts belong to God
 ```
 
 The section in which the two groups are separated, that is, has been set between two repetitions of the same sentence. **This is the most regular structural weave in the sūra**, and it says this: both groups are inside the same possession. The separation is not a change of ownership.
@@ -889,7 +889,7 @@ The Qurʾān uses the same pair in several places: *"Glorify Him morning and eve
 
 ---
 
-## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
+## 48/10 — إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 
 *Inna'lladhīna yubāyiʿūnaka innamā yubāyiʿūna'llāh; yadu'llāhi fawqa aydīhim; fa-man nakatha fa-innamā yankuthu ʿalā nafsih; wa man awfā bimā ʿāhada ʿalayhu'llāha fa-sa-yuʾtīhi ajran ʿaẓīmā*
 
@@ -1043,7 +1043,7 @@ The block closes with "a great reward". And the sūra too will close with the sa
 
 ---
 
-## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
+## 48/11 — سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا
 
 *Sa-yaqūlu laka'l-mukhallafūna mina'l-aʿrābi shaghalatnā amwālunā wa ahlūnā fa'staghfir lanā; yaqūlūna bi-alsinatihim mā laysa fī qulūbihim; qul fa-man yamliku lakum mina'llāhi shayʾan in arāda bikum ḍarran aw arāda bikum nafʿā; bal kāna'llāhu bimā taʿmalūna khabīrā*
 
@@ -1356,7 +1356,7 @@ The verb is in the **perfect**: prepared, beforehand. This answers to the verb *
 
 ---
 
-## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+## 48/14 — وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
 *Wa li'llāhi mulku's-samāwāti wa'l-arḍ; yaghfiru li-man yashāʾu wa yuʿadhdhibu man yashāʾ; wa kāna'llāhu ghafūran raḥīmā*
 
@@ -1403,7 +1403,7 @@ This order is striking, and I record it as my own reading. What is said through 
 
 ---
 
-## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
+## 48/15 — سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
 
 *Sa-yaqūlu'l-mukhallafūna idha'nṭalaqtum ilā maghānima li-taʾkhudhūhā dharūnā nattabiʿkum; yurīdūna an yubaddilū kalāma'llāh; qul lan tattabiʿūnā kadhālikum qāla'llāhu min qabl; fa-sa-yaqūlūna bal taḥsudūnanā; bal kānū lā yafqahūna illā qalīlā*
 
@@ -1510,7 +1510,7 @@ Both readings are found in the classical commentaries; I impose no preference. B
 
 ---
 
-## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
+## 48/16 — قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
 
 *Qul li'l-mukhallafīna mina'l-aʿrābi sa-tudʿawna ilā qawmin ulī baʾsin shadīdin tuqātilūnahum aw yuslimūn; fa-in tuṭīʿū yuʾtikumu'llāhu ajran ḥasanā; wa in tatawallaw kamā tawallaytum min qablu yuʿadhdhibkum ʿadhāban alīmā*
 
@@ -1590,7 +1590,7 @@ The "reward" is named several times in the sūra, and its adjectives differ:
 
 ---
 
-## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
+## 48/17 — لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
 
 *Laysa ʿalā'l-aʿmā ḥarajun wa lā ʿalā'l-aʿraji ḥarajun wa lā ʿalā'l-marīḍi ḥaraj; wa man yuṭiʿi'llāha wa rasūlahū yudkhilhu jannātin tajrī min taḥtihā'l-anhār; wa man yatawalla yuʿadhdhibhu ʿadhāban alīmā*
 
@@ -1724,9 +1724,9 @@ A tree is called *shajara*, then, because **its branches interlace**. And the sa
 
 ```
 they were pledging
-      ↓
+ ↓
 God KNEW what was in their hearts
-      ↓
+ ↓
 He sent down the sakīna
 ```
 
@@ -1795,7 +1795,7 @@ The same construction was treated at `061-saff.md`: *fatḥun qarīb* (al-Ṣaff
 
 ---
 
-## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+## 48/19 — وَمَغَانِمَ كَثِيرَةً يَأْخُذُونَهَا وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 
 *Wa maghānima kathīratan yaʾkhudhūnahā; wa kāna'llāhu ʿazīzan ḥakīmā*
 
@@ -1882,7 +1882,7 @@ I record this as an observation about the word order: what the sūra says to one
 
 ---
 
-## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
+## 48/21 — وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
 
 *Wa ukhrā lam taqdirū ʿalayhā qad aḥāṭa'llāhu bihā; wa kāna'llāhu ʿalā kulli shayʾin qadīrā*
 
@@ -1983,7 +1983,7 @@ It was recorded at `110-nasr.md` that the concrete sense of the root *naṣr* ha
 
 ---
 
-## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
+## 48/23 — سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
 
 *Sunnata'llāhi'llatī qad khalat min qabl; wa lan tajida li-sunnati'llāhi tabdīlā*
 
@@ -2089,7 +2089,7 @@ The word comes in the **accusative**: *sunnat**a**'llāh*. This is a point the g
 
 ---
 
-## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
+## 48/24 — وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
 
 *Wa huwa'lladhī kaffa aydiyahum ʿankum wa aydiyakum ʿanhum bi-baṭni Makkata min baʿdi an aẓfarakum ʿalayhim; wa kāna'llāhu bimā taʿmalūna baṣīrā*
 
@@ -2100,8 +2100,8 @@ The word comes in the **accusative**: *sunnat**a**'llāh*. This is a point the g
 **At the centre of the verse there is an exact symmetry:**
 
 ```
-aydiya-HUM   ʿan-KUM     — their hands  from you
-aydiya-KUM   ʿan-HUM     — your hands   from them
+aydiya-HUM ʿan-KUM — their hands from you
+aydiya-KUM ʿan-HUM — your hands from them
 ```
 
 The same verb (*kaffa*), two objects, pronouns crossing each other. **And the same thing is done to both sides.**
@@ -2160,7 +2160,7 @@ I record this as an observation about the word order.
 
 ---
 
-## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
+## 48/25 — هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 
 *Humu'lladhīna kafarū wa ṣaddūkum ʿani'l-masjidi'l-ḥarāmi wa'l-hadya maʿkūfan an yablugha maḥillah; wa lawlā rijālun muʾminūna wa nisāʾun muʾminātun lam taʿlamūhum an taṭaʾūhum fa-tuṣībakum minhum maʿarratun bi-ghayri ʿilm; li-yudkhila'llāhu fī raḥmatihī man yashāʾ; law tazayyalū la-ʿadhdhabnā'lladhīna kafarū minhum ʿadhāban alīmā*
 
@@ -2290,7 +2290,7 @@ And the sūra has a continuation that supports this reading: Sūrat al-Naṣr re
 
 ---
 
-## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
+## 48/26 — إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 
 *Idh jaʿala'lladhīna kafarū fī qulūbihimu'l-ḥamiyyata ḥamiyyata'l-jāhiliyyati fa-anzala'llāhu sakīnatahū ʿalā rasūlihī wa ʿalā'l-muʾminīna wa alzamahum kalimata't-taqwā wa kānū aḥaqqa bihā wa ahlahā; wa kāna'llāhu bi-kulli shayʾin ʿalīmā*
 
@@ -2301,8 +2301,8 @@ And the sūra has a continuation that supports this reading: Sūrat al-Naṣr re
 **This verse is built upon a comparison, and the two sides of the comparison are two words:**
 
 ```
-On the one side:  الحمية   —  ḥamiyya   —  HEATING UP
-On the other:     السكينة  —  sakīna    —  SETTLING DOWN
+On the one side: الحمية — ḥamiyya — HEATING UP
+On the other: السكينة — sakīna — SETTLING DOWN
 ```
 
 **And the contrast is at the level of the root**, not at the level of the word. The verse does not set "anger" against "patience", or "hatred" against "mercy". What is set against each other are **two states of motion**: growing hot and growing still.
@@ -2473,7 +2473,7 @@ And the verse closes with the name "knowing of all things". **بِكُلِّ ش�
 
 ---
 
-## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+## 48/27 — لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
 
 *Laqad ṣadaqa'llāhu rasūlahu'r-ruʾyā bi'l-ḥaqq; la-tadkhulunna'l-masjida'l-ḥarāma in shāʾa'llāhu āminīna muḥalliqīna ruʾūsakum wa muqaṣṣirīna lā takhāfūn; fa-ʿalima mā lam taʿlamū fa-jaʿala min dūni dhālika fatḥan qarībā*
 
@@ -2677,8 +2677,8 @@ The sentence *"He knew what you did not know"* is **an explanation looking back 
 The following picture emerges:
 
 ```
-THE DREAM     →   [ FATḤ (near) ]     →   THE DREAM FULFILLED
-(the promise)      SET IN BETWEEN            (the Sacred Mosque)
+THE DREAM → [ FATḤ (near) ] → THE DREAM FULFILLED
+(the promise) SET IN BETWEEN (the Sacred Mosque)
 ```
 
 **A stage has been set in between.** And that stage has been given the sūra's name: **fatḥ.**
@@ -2689,7 +2689,7 @@ THE DREAM     →   [ FATḤ (near) ]     →   THE DREAM FULFILLED
 
 ---
 
-## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
+## 48/28 — هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 
 *Huwa'lladhī arsala rasūlahū bi'l-hudā wa dīni'l-ḥaqqi li-yuẓhirahū ʿalā'd-dīni kullih; wa kafā bi'llāhi shahīdā*
 
@@ -2775,7 +2775,7 @@ The root analysis of the word **دِين** was made at `107-maun.md` (**د-ي-ن
 
 ---
 
-## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
+## 48/29 — مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
 
 *Muḥammadun rasūlu'llāh; wa'lladhīna maʿahū ashiddāʾu ʿalā'l-kuffāri ruḥamāʾu baynahum; tarāhum rukkaʿan sujjadan yabtaghūna faḍlan mina'llāhi wa riḍwānā; sīmāhum fī wujūhihim min athari's-sujūd; dhālika mathaluhum fi't-Tawrāh; wa mathaluhum fi'l-Injīli ka-zarʿin akhraja shaṭʾahū fa-āzarahū fa'staghlaẓa fa'stawā ʿalā sūqihī yuʿjibu'z-zurrāʿa li-yaghīẓa bihimu'l-kuffār; waʿada'llāhu'lladhīna āmanū wa ʿamilū'ṣ-ṣāliḥāti minhum maghfiratan wa ajran ʿaẓīmā*
 
@@ -2924,7 +2924,7 @@ This verse was cited at `059-hasr.md` for the same purpose, and it holds here to
 
 **I record this as my own reading:** producing a sign in order to display it stops the sign being a sign. This is something the Qurʾān warns of openly elsewhere — the criticism of worship performed for show (treated at `107-maun.md`). The sentence of the verse is a **statement of fact**: there is such a trace in them. It is not a recommendation: it does not say "acquire such a trace".
 
-### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
+### ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
 
 **مَثَل** — root **م-ث-ل**: to resemble, to be the equal of a thing. *Mithāl*, *timthāl*, *tamthīl*, *mumāthil*. In Arabic the word means both "simile" and **"description, portrayal"**.
 
@@ -3044,7 +3044,7 @@ In the classical explanations there are two readings:
 
 ```
 seed → shoot → support → thickening → standing upright
-       (at the side) (mutual) (durability) (independence)
+ (at the side) (mutual) (durability) (independence)
 ```
 
 **I record this as my own reading and do not present it as a transmitted report:**

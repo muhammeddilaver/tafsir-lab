@@ -2116,7 +2116,7 @@ I record this as an observation; the repetition of the word is a verifiable datu
 
 ---
 
-## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
 
 *Rabbi'l-samāwāti wa'l-arḍi wa mā baynahuma'l-Raḥmān · Lā yamlikūna minhu khiṭābā*
 "The Lord of the heavens and the earth and what is between them — al-Raḥmān. They have no power to address Him."
@@ -2206,7 +2206,7 @@ I record this as my own reading, but the sūra's weave of speech is in the text:
 
 ---
 
-## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
+## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
 
 *Yawma yaqūmu'l-rūḥu wa'l-malāʾikatu ṣaffā · Lā yatakallamūna illā man adhina lahu'l-Raḥmānu wa qāla ṣawābā*
 "On the day when the Spirit and the angels stand in ranks. They will not speak — except one whom al-Raḥmān permits and who says what is right."
@@ -2327,7 +2327,7 @@ What can be recorded is this: the verse by itself proves neither the existence n
 
 ---
 
-## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
+## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 
 *Dhālika'l-yawmu'l-ḥaqq · Fa-man shāʾa'ttakhadha ilā rabbihī maʾābā*
 "That is the true day. So let him who wills take a place of return to his Lord."

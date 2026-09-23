@@ -115,7 +115,7 @@ Dalam Al-Gasyiyah yang dipilih adalah yang kedua dan pilihan itu tepat: **yang d
 
 ---
 
-## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ ۝ عَامِلَةٌ نَّاصِبَةٌ
+## 88/2-3 — وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ · عَامِلَةٌ نَّاصِبَةٌ
 
 *Wujūhuy yaumaiżin khāsyiʻah — ʻāmilatun nāṣibah*
 "Pada hari itu ada wajah-wajah yang tertunduk; yang bekerja lagi kepayahan."
@@ -250,7 +250,7 @@ Surah ini menegakkan sebuah pola: setiap benda berada pada titik ujung dari sifa
 
 ---
 
-## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ ۝ لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ ۝ لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
+## 88/5-7 — تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ · لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ · لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ
 
 *Tusqā min ʻainin āniyah — laisa lahum ṭaʻāmun illā min ḍarīʻ — lā yusminu wa lā yugnī min jūʻ*
 "Ia diberi minum dari mata air yang mendidih. Bagi mereka tidak ada makanan kecuali dari duri yang kering; ia tidak menggemukkan dan tidak pula menghilangkan lapar."
@@ -385,7 +385,7 @@ Ada satu lagi pemakaian kata ini dan ia bermakna bagi surah ini: *"Tidaklah berg
 
 ---
 
-## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ ۝ لِّسَعْيِهَا رَاضِيَةٌ
+## 88/8-9 — وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ · لِّسَعْيِهَا رَاضِيَةٌ
 
 *Wujūhuy yaumaiżin nāʻimah — li-saʻyihā rāḍiyah*
 "Pada hari itu ada wajah-wajah yang melembut; yang rida terhadap usahanya sendiri."
@@ -490,7 +490,7 @@ Ketika ketiga surah itu dibaca bersama-sama, sebuah urutan menjadi terlihat: **r
 
 ---
 
-## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ ۝ لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
+## 88/10-11 — فِى جَنَّةٍ عَالِيَةٍ · لَّا تَسْمَعُ فِيهَا لَٰغِيَةً
 
 *Fī jannatin ʻāliyah — lā tasmaʻu fīhā lāgiyah*
 "Ia berada di dalam taman yang tinggi. Di sana ia tidak mendengar perkataan yang kosong."
@@ -589,7 +589,7 @@ Bedanya tampak kecil tetapi ia nyata: yang merusak ketenteraman seseorang bukanl
 
 ---
 
-## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ ۝ فِيهَا سُرُرٌ مَّرْفُوعَةٌ ۝ وَأَكْوَابٌ مَّوْضُوعَةٌ ۝ وَنَمَارِقُ مَصْفُوفَةٌ ۝ وَزَرَابِىُّ مَبْثُوثَةٌ
+## 88/12-16 — فِيهَا عَيْنٌ جَارِيَةٌ · فِيهَا سُرُرٌ مَّرْفُوعَةٌ · وَأَكْوَابٌ مَّوْضُوعَةٌ · وَنَمَارِقُ مَصْفُوفَةٌ · وَزَرَابِىُّ مَبْثُوثَةٌ
 
 *Fīhā ʻainun jāriyah — fīhā sururum marfūʻah — wa akwābum mauḍūʻah — wa namāriqu maṣfūfah — wa zarābiyyu mabṡūṡah*
 "Di sana ada mata air yang mengalir. Di sana ada takhta-takhta yang ditinggikan, gelas-gelas yang telah diletakkan, bantal-bantal yang tersusun berjajar, dan permadani-permadani yang terhampar."
@@ -733,7 +733,7 @@ Ayat ini adalah catatan Al-Qur'an sendiri tentang bagaimana pemerian-pemerian it
 
 ---
 
-## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ ۝ وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ ۝ وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ ۝ وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
+## 88/17-20 — أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ · وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ · وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ · وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
 
 *Afalā yanẓurūna ilal-ibili kaifa khuliqat — wa ilas-samāʼi kaifa rufiʻat — wa ilal-jibāli kaifa nuṣibat — wa ilal-arḍi kaifa suṭiḥat*
 "Tidakkah mereka memandang unta, bagaimana ia diciptakan? Dan langit, bagaimana ia ditinggikan? Dan gunung-gunung, bagaimana ia ditegakkan? Dan bumi, bagaimana ia dihamparkan?"
@@ -922,7 +922,7 @@ Saya menuliskannya dengan tenang dan jelas, sebab di sinilah ukuran yang diletak
 
 ---
 
-## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ ۝ لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
+## 88/21-22 — فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ · لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ
 
 *Fa-żakkir innamā anta mużakkir — lasta ʻalaihim bi-muṣaiṭir*
 "Maka ingatkanlah; engkau hanyalah orang yang mengingatkan. Engkau bukanlah orang yang berkuasa memaksa mereka."
@@ -1016,7 +1016,7 @@ Dan hal ini mengatakan sesuatu tentang batasan iman: **sesuatu yang dapat dipero
 
 ---
 
-## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ ۝ فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
+## 88/23-24 — إِلَّا مَن تَوَلَّىٰ وَكَفَرَ · فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ
 
 *Illā man tawallā wa kafar — fa-yuʻażżibuhullāhul-ʻażābal-akbar*
 "Kecuali orang yang berpaling dan menutupi; maka Allah akan mengazabnya dengan azab yang paling besar."
@@ -1099,7 +1099,7 @@ Dan ayat As-Sajdah punya satu catatan lagi yang tidak boleh dilewatkan: *"mudah-
 
 ---
 
-## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ ۝ ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
+## 88/25-26 — إِنَّ إِلَيْنَآ إِيَابَهُمْ · ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم
 
 *Inna ilainā iyābahum — ṡumma inna ʻalainā ḥisābahum*
 "Sesungguhnya kepada Kamilah kepulangan mereka. Kemudian sesungguhnya mengadakan perhitungan atas mereka pun menjadi tanggungan Kami."

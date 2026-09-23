@@ -1106,7 +1106,7 @@ So the sūra uses three roots having to do with writing, and two relate the reco
 
 ---
 
-## 83/14 — كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
+## 83/14 — كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
 
 *Kallā bal rāna ʿalā qulūbihim mā kānū yaksibūn*
 "No! Rather, what they were earning has coated over their hearts."

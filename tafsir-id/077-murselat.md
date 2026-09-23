@@ -48,7 +48,7 @@ Ada satu hal yang terlihat pada tabel itu dan ia menentukan cara surah ini dibac
 
 ## 77/1-5 — Lima sumpah
 
-وَٱلْمُرْسَلَٰتِ عُرْفًا ۝ فَٱلْعَٰصِفَٰتِ عَصْفًا ۝ وَٱلنَّٰشِرَٰتِ نَشْرًا ۝ فَٱلْفَٰرِقَٰتِ فَرْقًا ۝ فَٱلْمُلْقِيَٰتِ ذِكْرًا
+وَٱلْمُرْسَلَٰتِ عُرْفًا · فَٱلْعَٰصِفَٰتِ عَصْفًا · وَٱلنَّٰشِرَٰتِ نَشْرًا · فَٱلْفَٰرِقَٰتِ فَرْقًا · فَٱلْمُلْقِيَٰتِ ذِكْرًا
 
 *Wal-mursalāti ʻurfā · fal-ʻāṣifāti ʻaṣfā · wan-nāsyirāti nasyrā · fal-fāriqāti farqā · fal-mulqiyāti żikrā*
 
@@ -535,7 +535,7 @@ Saya catat ini sebagai sebuah bacaan; adapun makna akar katanya tidak diperdebat
 
 ## 77/8-11 — Empat keretakan
 
-فَإِذَا ٱلنُّجُومُ طُمِسَتْ ۝ وَإِذَا ٱلسَّمَآءُ فُرِجَتْ ۝ وَإِذَا ٱلْجِبَالُ نُسِفَتْ ۝ وَإِذَا ٱلرُّسُلُ أُقِّتَتْ
+فَإِذَا ٱلنُّجُومُ طُمِسَتْ · وَإِذَا ٱلسَّمَآءُ فُرِجَتْ · وَإِذَا ٱلْجِبَالُ نُسِفَتْ · وَإِذَا ٱلرُّسُلُ أُقِّتَتْ
 
 *Fa-iżan-nujūmu ṭumisat · wa iżas-samāʼu furijat · wa iżal-jibālu nusifat · wa iżar-rusulu uqqitat*
 
@@ -1157,7 +1157,7 @@ Dan memang seluruh struktur surah ini mendukung hal itu: tidak ada satu tempat p
 
 ## 77/16-18 — Dalil pertama dari tiga: sejarah
 
-أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ ۝ ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ ۝ كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
+أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ · ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ · كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ
 
 *A lam nuhlikil-awwalīn · Ṡumma nutbiʻuhumul-ākhirīn · Każālika nafʻalu bil-mujrimīn*
 
@@ -1293,7 +1293,7 @@ Yakni bagian itu berakhir dengan sebuah kaidah tanpa waktu, dan bait berulang it
 
 ## 77/20-23 — Dalil kedua dari tiga: tubuh
 
-أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ ۝ فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ ۝ إِلَىٰ قَدَرٍ مَّعْلُومٍ ۝ فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ
+أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ · فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ · إِلَىٰ قَدَرٍ مَّعْلُومٍ · فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ
 
 *A lam nakhluqkum mim māʼim mahīn · Fa-jaʻalnāhu fī qarārim makīn · Ilā qadarim maʻlūm · Fa-qadarnā fa-niʻmal-qādirūn*
 
@@ -1467,7 +1467,7 @@ Makna kedudukannya: bagian itu berakhir dengan *"sebaik-baik pengukur adalah Kam
 
 ## 77/25-26 — Dalil ketiga dari tiga: bumi
 
-أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا ۝ أَحْيَآءً وَأَمْوَٰتًا
+أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا · أَحْيَآءً وَأَمْوَٰتًا
 
 *A lam najʻalil-arḍa kifātā · Aḥyāʼan wa amwātā*
 "Bukankah Kami menjadikan bumi sebagai tempat berkumpul — bagi yang hidup dan bagi yang mati?"
@@ -1736,7 +1736,7 @@ Saya catat ini sebagai sebuah kesetangkupan lafal.
 
 ---
 
-## 77/30-31 — ٱنطَلِقُوٓاْ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ ۝ لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ
+## 77/30-31 — ٱنطَلِقُوٓاْ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ · لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ
 
 *Inṭaliqū ilā ẓillin żī ṡalāṡi syuʻab · Lā ẓalīlin wa lā yugnī minal-lahab*
 
@@ -1873,7 +1873,7 @@ Berlindung ke dalam asap api bukanlah melarikan diri dari api. Saya catat ini se
 
 ---
 
-## 77/32-33 — إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ ۝ كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ
+## 77/32-33 — إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ · كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ
 
 *Innahā tarmī bi-syararin kal-qaṣr · Ka-annahū jimālatun ṣufr*
 
@@ -1986,7 +1986,7 @@ Dan ia berada persis di tengah: yang kelima dari sepuluh bait berulang. Ia ayat 
 
 ---
 
-## 77/35-36 — هَٰذَا يَوْمُ لَا يَنطِقُونَ ۝ وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+## 77/35-36 — هَٰذَا يَوْمُ لَا يَنطِقُونَ · وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
 
 *Hāżā yaumu lā yanṭiqūn · Wa lā yuʼżanu lahum fa-yaʻtażirūn*
 
@@ -2163,7 +2163,7 @@ Pihak yang berbicara pada hari itu dan pihak yang tidak dapat berbicara terpisah
 
 ---
 
-## 77/38-39 — هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ ۝ فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
+## 77/38-39 — هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ · فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ
 
 *Hāżā yaumul-faṣl · Jamaʻnākum wal-awwalīn · Fa-in kāna lakum kaidun fa-kīdūn*
 
@@ -2277,7 +2277,7 @@ Bait berulang yang ketujuh. Sesudah adegan penghimpunan dan tantangan.
 
 ---
 
-## 77/41-42 — إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ ۝ وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
+## 77/41-42 — إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ · وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ
 
 *Innal-muttaqīna fī ẓilālin wa ʻuyūn · Wa fawākiha mimmā yasytahūn*
 
@@ -2375,7 +2375,7 @@ Hal ini menegakkan pertentangan dengan ukuran yang ada di tempat lain dalam sura
 
 ---
 
-## 77/43-44 — كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ ۝ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+## 77/43-44 — كُلُواْ وَٱشْرَبُواْ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ · إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
 
 *Kulū wasyrabū hanīʼan bimā kuntum taʻmalūn · Innā każālika najzil-muḥsinīn*
 

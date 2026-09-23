@@ -600,7 +600,7 @@ Saya catat ini sebagai bacaan saya sendiri; adapun datangnya kedua nama itu berd
 
 ---
 
-## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 
 *Allażī lahū mulkus-samāwāti wal-arḍ; wallāhu ʻalā kulli syai'in syahīd*
 "Yang bagi-Nya kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu."
@@ -774,7 +774,7 @@ Jadi surah ini menamai hukumannya dengan kata kejahatannya. Ini persis sama deng
 
 ---
 
-## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
+## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
 
 *Innallażīna āmanū wa ʻamiluṣ-ṣāliḥāti lahum jannātun tajrī min taḥtihal-anhār; żālikal-fauzul-kabīr*
 "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh, bagi mereka surga-surga yang mengalir di bawahnya sungai-sungai. Itulah keberuntungan yang besar."

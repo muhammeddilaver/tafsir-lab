@@ -318,7 +318,7 @@ Yang menarik perhatian pada tabel itu adalah: **satu-satunya benda langit dalam 
 Kalimat itu terdiri atas dua kata kerja *māḍī* (bentuk lampau) dan sebuah *wāw* di antara keduanya:
 
 ```
-ٱقْتَرَبَتِ ٱلسَّاعَةُ   وَ   ٱنشَقَّ ٱلْقَمَرُ
+ٱقْتَرَبَتِ ٱلسَّاعَةُ وَ ٱنشَقَّ ٱلْقَمَرُ
 ```
 
 Dan seluruh perbedaan pendapat lahir dari sini. Sebab dalam bahasa Arab **kata kerja *māḍī* dapat pula menceritakan sebuah peristiwa yang belum terjadi** — dan ia melakukannya dengan dua alasan yang berbeda:
@@ -469,7 +469,7 @@ Saya catat ini sebagai bacaan saya sendiri. Jalinan semacam "kembalinya sebuah k
 
 ---
 
-## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
+## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
 
 *Wa każżabū wattabaʻū ahwāʼahum; wa kullu amrin mustaqirr*
 "Mereka mendustakan dan mengikuti hawa nafsu mereka. Dan setiap urusan akan menemukan tempatnya."
@@ -527,7 +527,7 @@ Ayat ini memisahkan keduanya: **akibat yang tidak terlihat dan akibat yang tidak
 
 ---
 
-## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ
 
 *Wa laqad jāʼahum minal-anbāʼi mā fīhi muzdajar — ḥikmatun bāligatun fa-mā tugnin-nużur*
 "Sungguh, telah datang kepada mereka berita-berita yang di dalamnya terdapat daya cegah. Sebuah hikmah yang telah sampai. Tetapi peringatan-peringatan itu tidak berguna."
@@ -618,7 +618,7 @@ Jadi ayat kelima adalah **bentuk yang diucapkan lebih awal** dari bait berulang 
 
 ---
 
-## 54/6 — فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
+## 54/6 — فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
 
 *Fa-tawalla ʻanhum; yauma yadʻud-dāʻi ilā syaiʼin nukur*
 "Maka berpalinglah dari mereka. Pada hari penyeru menyeru kepada sesuatu yang tidak dikenali…"
@@ -786,7 +786,7 @@ Al-Qur'an sendiri menyebut belalang juga sebagai sebuah azab: *"Maka Kami kirimk
 
 ---
 
-## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
+## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
 
 *Muhṭiʻīna ilad-dāʻ; yaqūlul-kāfirūna hāżā yaumun ʻasir*
 "Mereka berlari kepada penyeru itu sambil menjulurkan leher. Orang-orang kafir berkata: 'Ini adalah hari yang sukar'."
@@ -1437,10 +1437,10 @@ Pada ketiga kisah yang lain urutannya adalah: nama kaum → kejahatan → azab �
 Hasilnya: kisah Ad menjadi tidak lebih daripada sebuah penggambaran sepanjang tiga ayat yang diletakkan pada dua sisi kalimat yang sama.
 
 ```
-18  كذبت عاد    فكيف كان عذابي ونذر
-19  إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
-20  تنزع الناس كأنهم أعجاز نخل منقعر
-21              فكيف كان عذابي ونذر
+18 كذبت عاد فكيف كان عذابي ونذر
+19 إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
+20 تنزع الناس كأنهم أعجاز نخل منقعر
+21 فكيف كان عذابي ونذر
 ```
 
 **Saya catat sebagai bacaan saya sendiri:** bangun ini menempatkan ayat kesembilan belas dan kedua puluh **di dalam sebuah kurung.** Pertanyaannya diajukan lalu dijawab, lalu pertanyaannya diajukan lagi. Yakni pembacanya membaca penggambaran itu sebagai jawaban bagi sebuah pertanyaan yang telah ditanyakan dua kali.
@@ -1800,7 +1800,7 @@ Perincian ini saya berikan dengan bersandar pada Hud 11/65; pada **`091-sems.md`
 
 ---
 
-## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
 
 *Innā mursilun-nāqati fitnatal-lahum fartaqibhum waṣṭabir — wa nabbiʼhum annal-māʼa qismatum bainahum; kullu syirbim muḥtaḍar*
 "Sesungguhnya Kami mengirimkan unta betina itu sebagai ujian bagi mereka. Maka awasilah mereka dan bersabarlah. Dan beritahukanlah kepada mereka bahwa air itu dibagi di antara mereka; setiap giliran minum dihadiri oleh yang berhak."
@@ -1955,8 +1955,8 @@ Kata sambung **فَ** dalam bahasa Arab memberitakan **taakib**: datang beruntun
 Yakni ayat itu memberikan tiga perbuatan sebagai **satu rangkaian gerak saja**:
 
 ```
-فَنَادَوْا    →  فَتَعَاطَىٰ  →  فَعَقَرَ
-mereka memanggil   ia menjangkau   ia menyembelih
+فَنَادَوْا → فَتَعَاطَىٰ → فَعَقَرَ
+mereka memanggil ia menjangkau ia menyembelih
 ```
 
 Tidak ada jeda di antaranya, tidak ada pemikiran, tidak ada keraguan. **Inilah ayat yang paling cepat dalam surah ini.**
@@ -2048,10 +2048,10 @@ Inilah penempatan yang paling menarik perhatian yang saya catat pada tabel bait 
 Urutannya begini:
 
 ```
-29  فنادوا صاحبهم فتعاطى فعقر          ← KEJAHATAN
-30  فكيف كان عذابي ونذر                ← PERTANYAAN
-31  إنا أرسلنا عليهم صيحة واحدة ...     ← JAWABAN
-32  ولقد يسرنا القرآن للذكر ...         ← BAIT BERULANG PERINGATAN
+29 فنادوا صاحبهم فتعاطى فعقر ← KEJAHATAN
+30 فكيف كان عذابي ونذر ← PERTANYAAN
+31 إنا أرسلنا عليهم صيحة واحدة ... ← JAWABAN
+32 ولقد يسرنا القرآن للذكر ... ← BAIT BERULANG PERINGATAN
 ```
 
 Pada ketiga kisah yang lain, bait berulang itu datang **sesudah** penggambaran azabnya. Di sini ia menyela **di antaranya.**
@@ -2166,7 +2166,7 @@ Kemunculan utuh yang **ketiga** dari bait berulang itu. Di belakangnya ada tiga 
 
 ## IV. Lut — 54/33-40
 
-## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَٰهُم بِسَحَرٍ
+## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
 
 *Każżabat qaumu Lūṭin bin-nużur — innā arsalnā ʻalaihim ḥāṣiban illā āla Lūṭin; najjaināhum bi-saḥar*
 "Kaum Lut pun mendustakan peringatan-peringatan itu. Sesungguhnya Kami kirimkan kepada mereka angin yang menghamburkan batu — kecuali keluarga Lut; mereka Kami selamatkan pada waktu sahur."
@@ -2259,7 +2259,7 @@ Dan ini adalah hal yang dikerjakan surah ini di tempat-tempat lain pula: **membe
 
 ---
 
-## 54/35 — نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ
+## 54/35 — نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ
 
 *Niʻmatam min ʻindinā; każālika najzī man syakar*
 "Sebagai nikmat dari sisi Kami. Demikianlah Kami membalas orang yang bersyukur."
@@ -3031,8 +3031,8 @@ Hal-hal itu tidak saya ulangi.
 Kalimat itu berbangun **isytigal** dan hal ini perlu dilihat:
 
 ```
-إِنَّا   كُلَّ شَىْءٍ   خَلَقْنَٰهُ   بِقَدَرٍ
-innā    kulla syaiʼin   khalaqnā-hu    bi-qadar
+إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+innā kulla syaiʼin khalaqnā-hu bi-qadar
 ```
 
 **كُلَّ شَىْءٍ** dibaca **manṣūb** (*kulla*, dengan fatah). Padahal objek kata kerjanya sudah ada: *khalaqnā-**hu*** — kata ganti *hu* di ujungnya.
@@ -3557,9 +3557,9 @@ Yakni *malīk* lebih berat daripada *malik*: **yang kerajaannya menetap dan semp
 **Dan sekarang mata rantai surah ini yang paling ketat menjadi lengkap.**
 
 ```
-42   فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
-49   إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
-55   فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
+42 فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
+49 إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+55 فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
 ```
 
 Tiga ayat, satu akar, tiga pekerjaan yang berbeda:

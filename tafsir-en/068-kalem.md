@@ -66,7 +66,7 @@ The basmala was treated in earlier sections; the verses are numbered without it.
 
 ---
 
-## 68/1 — نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
+## 68/1 — نٓ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
 
 *Nūn, wa'l-qalami wa mā yasṭurūn*
 "Nūn. By the pen and by what they write, line upon line."
@@ -158,7 +158,7 @@ The sūra opens with a pen a dispute that is being conducted over mental health 
 
 ---
 
-## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ ۝ وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
+## 68/2-3 — مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ · وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ
 
 *Mā anta bi-niʿmati rabbika bi-majnūn — wa inna laka la-ajran ghayra mamnūn*
 "You, by the favour of your Lord, are not possessed. And there is indeed for you a reward that is not cut off."
@@ -370,7 +370,7 @@ And the measure of *aḥsan* treated in the discussion of al-Mulk fits exactly h
 
 ---
 
-## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ ۝ بِأَييِّكُمُ ٱلْمَفْتُونُ ۝ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+## 68/5-7 — فَسَتُبْصِرُ وَيُبْصِرُونَ · بِأَييِّكُمُ ٱلْمَفْتُونُ · إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
 
 *Fa-sa-tubṣiru wa yubṣirūn — bi-ayyikumu'l-maftūn — inna rabbaka huwa aʿlamu bi-man ḍalla ʿan sabīlihī wa huwa aʿlamu bi'l-muhtadīn*
 "Soon you will see, and they will see: which of you it was that was stricken. Your Lord surely knows best who has strayed from His path; and He knows best those who are rightly guided."
@@ -468,7 +468,7 @@ What the sūra does is to turn the accusation into a **question**. The differenc
 
 ---
 
-## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ ۝ وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
+## 68/8-9 — فَلَا تُطِعِ ٱلْمُكَذِّبِينَ · وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ
 
 *Fa-lā tuṭiʿi'l-mukadhdhibīn — waddū law tudhinu fa-yudhinūn*
 "So do not yield to those who deny. They would like you to smear on the oil, so that they might smear too."
@@ -610,7 +610,7 @@ Softening an unnecessary argument in a meeting is useful. Reducing friction in a
 
 ---
 
-## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ ۝ هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ ۝ مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ ۝ عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
+## 68/10-13 — وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ · هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ · مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ · عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
 
 *Wa lā tuṭiʿ kulla ḥallāfin mahīn — hammāzin mashshāʾin bi-namīm — mannāʿin li'l-khayri muʿtadin athīm — ʿutullin baʿda dhālika zanīm*
 "And do not yield to any of these: the great swearer, the contemptible; the constant faultfinder, the one who goes about carrying tales; the withholder of good, the aggressor, the sinner; the coarse, and beyond that the base-born."
@@ -863,7 +863,7 @@ All the attributes of the man in the portrait gather around an **anxiety about p
 
 ---
 
-## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ ۝ إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ ۝ سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+## 68/14-16 — أَن كَانَ ذَا مَالٍ وَبَنِينَ · إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ · سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
 
 *An kāna dhā mālin wa banīn — idhā tutlā ʿalayhi āyātunā qāla asāṭīru'l-awwalīn — sa-nasimuhu ʿalā'l-khurṭūm*
 "Because he is a man of wealth and sons. When Our verses are recited to him he says, 'tales of the ancients'. Soon We shall brand him upon the snout."
@@ -1047,7 +1047,7 @@ Placing a view in a category without looking at its content and moving on is sti
 
 ---
 
-## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ ۝ وَلَا يَسْتَثْنُونَ ۝ فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ ۝ فَأَصْبَحَتْ كَٱلصَّرِيمِ
+## 68/17-20 — إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ · وَلَا يَسْتَثْنُونَ · فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ · فَأَصْبَحَتْ كَٱلصَّرِيمِ
 
 *Innā balawnāhum kamā balawnā aṣḥāba'l-jannati idh aqsamū la-yaṣrimunnahā muṣbiḥīn — wa lā yastathnūn — fa-ṭāfa ʿalayhā ṭāʾifun min rabbika wa hum nāʾimūn — fa-aṣbaḥat ka'l-ṣarīm*
 "We have tried them as We tried the owners of the garden, when they swore that they would harvest it in the morning and made no exception. While they slept, something from your Lord went round it, and by morning it was as though it had been reaped black."
@@ -1219,7 +1219,7 @@ And this was exactly what was missing in the eighteenth verse: they did not say 
 
 ---
 
-## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ ۝ أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ ۝ فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ ۝ أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ ۝ وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ ۝ فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ ۝ بَلْ نَحْنُ مَحْرُومُونَ
+## 68/21-27 — فَتَنَادَوْا۟ مُصْبِحِينَ · أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ · فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ · أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ · وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ · فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ · بَلْ نَحْنُ مَحْرُومُونَ
 
 *Fa-tanādaw muṣbiḥīn — ani'ghdū ʿalā ḥarthikum in kuntum ṣārimīn — fa'nṭalaqū wa hum yatakhāfatūn — an lā yadkhulannahā'l-yawma ʿalaykum miskīn — wa ghadaw ʿalā ḥardin qādirīn — fa-lammā raʾawhā qālū innā la-ḍāllūn — bal naḥnu maḥrūmūn*
 "In the morning they called out to one another: 'Go out early to your field, if you mean to harvest!' They set off, whispering together: 'Let no poor man enter it today upon you!' They went out early, judging themselves able to withhold. But when they saw it they said: 'We must have lost our way.' Then: 'No — we have been deprived.'"
@@ -1418,7 +1418,7 @@ That is, they lay claim to power over a thing that is no longer in their hands. 
 
 ---
 
-## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ ۝ قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ ۝ فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ ۝ قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ ۝ عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ ۝ كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+## 68/28-33 — قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ · قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ · فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَٰوَمُونَ · قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ · عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ · كَذَٰلِكَ ٱلْعَذَابُ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ لَوْ كَانُوا۟ يَعْلَمُونَ
 
 *Qāla awsaṭuhum a-lam aqul lakum lawlā tusabbiḥūn — qālū subḥāna rabbinā innā kunnā ẓālimīn — fa-aqbala baʿḍuhum ʿalā baʿḍin yatalāwamūn — qālū yā waylanā innā kunnā ṭāghīn — ʿasā rabbunā an yubdilanā khayran minhā innā ilā rabbinā rāghibūn — kadhālika'l-ʿadhāb, wa la-ʿadhābu'l-ākhirati akbar, law kānū yaʿlamūn*
 "The most balanced among them said: 'Did I not say to you, why do you not glorify God?' They said: 'Glory be to our Lord; we have indeed been wrongdoers.' Then they turned on one another, reproaching one another. They said: 'Woe to us! We have indeed been transgressors. It may be that our Lord will give us something better than it in exchange; to our Lord we now turn.' Such is the punishment. And the punishment of the hereafter is greater — if only they knew."
@@ -1778,7 +1778,7 @@ This conditional clause (*in kānū ṣādiqīn*) comes often in the Qurʾān at
 
 ---
 
-## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ ۝ خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
+## 68/42-43 — يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ · خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ
 
 *Yawma yukshafu ʿan sāqin wa yudʿawna ilā'l-sujūdi fa-lā yastaṭīʿūn — khāshiʿatan abṣāruhum tarhaquhum dhillah, wa qad kānū yudʿawna ilā'l-sujūdi wa hum sālimūn*
 "On the day when the matter is laid bare and they are called to prostrate but cannot; their eyes cast down, humiliation covering them. Yet they used to be called to prostrate while they were sound and whole."
@@ -1926,7 +1926,7 @@ A person's not doing something is mostly a choice. But as the choice is repeated
 
 ---
 
-## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ ۝ وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ ۝ أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ ۝ أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
+## 68/44-47 — فَذَرْنِى وَمَن يُكَذِّبُ بِهَٰذَا ٱلْحَدِيثِ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ · وَأُمْلِى لَهُمْ إِنَّ كَيْدِى مَتِينٌ · أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ · أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ
 
 *Fa-dharnī wa man yukadhdhibu bi-hādhā'l-ḥadīth, sa-nastadrijuhum min ḥaythu lā yaʿlamūn — wa umlī lahum, inna kaydī matīn — am tasʾaluhum ajran fa-hum min maghramin muthqalūn — am ʿindahumu'l-ghaybu fa-hum yaktubūn*
 "Leave Me and the one who denies this discourse. We shall draw them on by degrees, from where they do not know. I give them respite; My plan is firm. Or are you asking them for a fee, so that they are weighed down by a debt? Or is the unseen with them, so that they write from it?"
@@ -2088,7 +2088,7 @@ The forty-seventh verse: *fa-hum **yaktubūn*** — do they write?
 
 ---
 
-## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ ۝ لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ ۝ فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+## 68/48-50 — فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ · لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ · فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 
 *Fa'ṣbir li-ḥukmi rabbika wa lā takun ka-ṣāḥibi'l-ḥūt, idh nādā wa huwa makẓūm — lawlā an tadārakahu niʿmatun min rabbihī la-nubidha bi'l-ʿarāʾi wa huwa madhmūm — fa'jtabāhu rabbuhū fa-jaʿalahu mina'l-ṣāliḥīn*
 "So be patient for the judgement of your Lord; and be not like the man of the fish, when he called out while he was choked with grief. Had a favour from his Lord not reached him, he would have been cast onto the bare ground, blamed. But his Lord chose him and made him one of the righteous."
@@ -2293,7 +2293,7 @@ And the definition of patience stands in the root of the word: **to hold oneself
 
 ---
 
-## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ ۝ وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
+## 68/51-52 — وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ · وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ
 
 *Wa in yakādu'lladhīna kafarū la-yuzliqūnaka bi-abṣārihim lammā samiʿū'l-dhikra wa yaqūlūna innahu la-majnūn — wa mā huwa illā dhikrun li'l-ʿālamīn*
 "When they heard the Reminder, those who deny would almost have felled you with their looks, and they say, 'he is certainly possessed'. Yet it is nothing but a reminder for all beings."

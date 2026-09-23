@@ -318,7 +318,7 @@ What is striking in the table is this: **the only heavenly body on the list is t
 The sentence consists of two verbs in the perfect and a *wāw* between them:
 
 ```
-ٱقْتَرَبَتِ ٱلسَّاعَةُ   وَ   ٱنشَقَّ ٱلْقَمَرُ
+ٱقْتَرَبَتِ ٱلسَّاعَةُ وَ ٱنشَقَّ ٱلْقَمَرُ
 ```
 
 And the whole disagreement arises from this. For in Arabic **a perfect verb can also relate an event that has not yet happened** — and it does so on two different grounds:
@@ -469,7 +469,7 @@ I record this as my own reading. The sūra will weave this kind of "return of a 
 
 ---
 
-## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
+## 54/3 — وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ
 
 *Wa kadhdhabū wa'ttabaʿū ahwāʾahum; wa kullu amrin mustaqirr*
 "They denied and followed their own cravings. And every matter comes to rest."
@@ -527,7 +527,7 @@ The verse separates these two: **an outcome unseen and an outcome absent are not
 
 ---
 
-## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+## 54/4-5 — وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ · حِكْمَةٌۢ بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ
 
 *Wa-laqad jāʾahum mina'l-anbāʾi mā fīhi muzdajar — ḥikmatun bālighatun fa-mā tughni'l-nudhur*
 "There has indeed come to them of the tidings that in which there is deterrence. A wisdom that has reached its full. Yet the warnings do not avail."
@@ -618,7 +618,7 @@ That is, the fifth verse is the refrain that begins at verse seventeen **said in
 
 ---
 
-## 54/6 — فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
+## 54/6 — فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
 
 *Fa-tawalla ʿanhum; yawma yadʿu'l-dāʿi ilā shayʾin nukur*
 "So turn away from them. On the day the caller calls to a thing unrecognisable…"
@@ -786,7 +786,7 @@ The Qurʾān itself also names the locust as a punishment: *"So We sent upon the
 
 ---
 
-## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
+## 54/8 — مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
 
 *Muhṭiʿīna ila'l-dāʿ; yaqūlu'l-kāfirūna hādhā yawmun ʿasir*
 "Straining their necks towards the caller. The disbelievers say, 'This is a hard day.'"
@@ -1437,10 +1437,10 @@ In the other three accounts the order is: name of the people → offence → pun
 The result: the account of ʿĀd becomes nothing but a three-verse description with the same sentence set on either side of it.
 
 ```
-18  كذبت عاد    فكيف كان عذابي ونذر
-19  إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
-20  تنزع الناس كأنهم أعجاز نخل منقعر
-21              فكيف كان عذابي ونذر
+18 كذبت عاد فكيف كان عذابي ونذر
+19 إنا أرسلنا عليهم ريحا صرصرا في يوم نحس مستمر
+20 تنزع الناس كأنهم أعجاز نخل منقعر
+21 فكيف كان عذابي ونذر
 ```
 
 **I record this as my own reading:** this arrangement puts verses nineteen and twenty **inside a parenthesis.** The question is asked and answered, then the question is asked again. The reader therefore reads the description as the answer to a question asked twice.
@@ -1800,7 +1800,7 @@ I give this detail on the basis of Hūd 11/65; it was also recorded in **`091-se
 
 ---
 
-## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+## 54/27-28 — إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ · وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
 
 *Innā mursilū'l-nāqati fitnatan lahum fa'rtaqibhum wa'ṣṭabir — wa nabbiʾhum anna'l-māʾa qismatun baynahum; kullu shirbin muḥtaḍar*
 "We are sending the she-camel as a trial for them. So watch them and be steadfast. And tell them that the water is divided between them; at each turn of drinking the one whose turn it is shall be present."
@@ -1955,8 +1955,8 @@ The connective **فَ** conveys **immediate sequence** in Arabic: coming one aft
 The verse therefore gives the three acts as **a single sequence of movement**:
 
 ```
-فَنَادَوْا    →  فَتَعَاطَىٰ  →  فَعَقَرَ
-they called     he reached out    he hamstrung
+فَنَادَوْا → فَتَعَاطَىٰ → فَعَقَرَ
+they called he reached out he hamstrung
 ```
 
 No pause between them, no thinking, no hesitation. **This is the fastest verse in the sūra.**
@@ -2048,10 +2048,10 @@ This is the most striking placement I recorded in the table of refrains above, a
 The order is this:
 
 ```
-29  فنادوا صاحبهم فتعاطى فعقر          ← THE OFFENCE
-30  فكيف كان عذابي ونذر                ← THE QUESTION
-31  إنا أرسلنا عليهم صيحة واحدة ...     ← THE ANSWER
-32  ولقد يسرنا القرآن للذكر ...         ← THE REMEMBRANCE REFRAIN
+29 فنادوا صاحبهم فتعاطى فعقر ← THE OFFENCE
+30 فكيف كان عذابي ونذر ← THE QUESTION
+31 إنا أرسلنا عليهم صيحة واحدة ... ← THE ANSWER
+32 ولقد يسرنا القرآن للذكر ... ← THE REMEMBRANCE REFRAIN
 ```
 
 In the other three accounts the refrain comes **after** the description of the punishment. Here it comes **in between**.
@@ -2166,7 +2166,7 @@ The **third** full occurrence of the refrain. Behind it are three accounts: Noah
 
 ## IV. Lot — 54/33-40
 
-## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَٰهُم بِسَحَرٍ
+## 54/33-34 — كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ · إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
 
 *Kadhdhabat qawmu Lūṭin bi'l-nudhur — innā arsalnā ʿalayhim ḥāṣiban illā āla Lūṭin; najjaynāhum bi-saḥar*
 "The people of Lot too denied the warnings. We sent against them a stone-hurling wind — except the family of Lot; them We saved at daybreak."
@@ -2259,7 +2259,7 @@ And this is something the sūra does elsewhere too: **it gives durations.** The 
 
 ---
 
-## 54/35 — نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ
+## 54/35 — نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ
 
 *Niʿmatan min ʿindinā; kadhālika najzī man shakar*
 "As a favour from Us. Thus do We recompense the one who gives thanks."
@@ -3031,8 +3031,8 @@ I do not repeat these.
 The sentence has the *ishtighāl* structure, and this must be seen:
 
 ```
-إِنَّا   كُلَّ شَىْءٍ   خَلَقْنَٰهُ   بِقَدَرٍ
-inna    kulla shayʾin   khalaqnā-hu    bi-qadar
+إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+inna kulla shayʾin khalaqnā-hu bi-qadar
 ```
 
 **كُلَّ شَىْءٍ** is in the **accusative** (*kulla*, with *fatḥa*). Yet the verb already has an object: *khalaqnā-**hu*** — the pronoun *hu* at the end.
@@ -3557,9 +3557,9 @@ The **فَعِيل** pattern conveys in Arabic **intensity and the quasi-partici
 **And now the sūra's tightest circle is completed.**
 
 ```
-42   فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
-49   إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
-55   فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
+42 فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ
+49 إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+55 فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍ
 ```
 
 Three verses, one root, three separate jobs:

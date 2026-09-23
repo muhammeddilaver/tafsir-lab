@@ -2116,7 +2116,7 @@ Saya catat ini sebagai sebuah pengamatan; pengulangan katanya adalah data yang d
 
 ---
 
-## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+## 78/37 — رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
 
 *Rabbis-samāwāti wal-arḍi wa mā bainahumar-Raḥmān · Lā yamlikūna minhu khiṭābā*
 "Tuhan langit dan bumi serta apa yang ada di antara keduanya — Ar-Rahman. Mereka tidak kuasa berbicara kepada-Nya."
@@ -2206,7 +2206,7 @@ Saya catat ini sebagai bacaan saya sendiri, tetapi jalinan perkataan dalam surah
 
 ---
 
-## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
+## 78/38 — يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا
 
 *Yauma yaqūmur-rūḥu wal-malāʼikatu ṣaffā · Lā yatakallamūna illā man ażina lahur-Raḥmānu wa qāla ṣawābā*
 "Pada hari Ruh dan para malaikat berdiri bersaf. Mereka tidak dapat berbicara — kecuali orang yang diizinkan oleh Ar-Rahman dan yang mengucapkan perkataan yang tepat."
@@ -2327,7 +2327,7 @@ Yang perlu dicatat adalah: ayat itu, dengan sendirinya, tidak membuktikan adanya
 
 ---
 
-## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
+## 78/39 — ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا
 
 *Żālikal-yaumul-ḥaqq · Fa-man syāʼattakhaża ilā rabbihī maʼābā*
 "Itulah hari yang benar. Maka barangsiapa menghendaki, hendaklah ia mengambil tempat kembali kepada Tuhannya."

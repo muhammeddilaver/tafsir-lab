@@ -78,7 +78,7 @@ Analisis kata basmalah telah dikerjakan pada Surah Al-Fatihah; saya tidak mengul
 
 ---
 
-## 63/1 — إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
+## 63/1 — إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ
 
 *Iżā jāʼakal-munāfiqūna qālū nasyhadu innaka larasūlullāh. Wallāhu yaʻlamu innaka larasūluh, wallāhu yasyhadu innal-munāfiqīna lakāżibūn*
 
@@ -183,7 +183,7 @@ Ukuran yang diletakkan ayat ini bukanlah isi perkataan, melainkan **ikatan yang 
 
 ---
 
-## 63/2 — اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
+## 63/2 — اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ
 
 *Ittakhażū aimānahum junnatan fa-ṣaddū ʻan sabīlillāh. Innahum sāʼa mā kānū yaʻmalūn*
 
@@ -370,7 +370,7 @@ Dan ayat keempat akan menceritakan **bagaimana semua itu terlihat dari luar**. S
 
 ---
 
-## 63/4 — وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ
+## 63/4 — وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ قَاتَلَهُمُ اللَّهُ أَنَّىٰ يُؤْفَكُونَ
 
 *Wa iżā raʼaitahum tuʻjibuka ajsāmuhum, wa in yaqūlū tasmaʻ liqaulihim. Ka-annahum khusyubun musannadah, yaḥsabūna kulla ṣaiḥatin ʻalaihim. Humul-ʻaduwwu faḥżarhum, qātalahumullāh, annā yuʼfakūn*
 
@@ -714,7 +714,7 @@ Kesombongan persis menghalangi hal itu: pengakuan atas sebuah kebutuhan.
 
 ---
 
-## 63/6 — سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
+## 63/6 — سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ
 
 *Sawāʼun ʻalaihim astagfarta lahum am lam tastagfir lahum lan yagfirallāhu lahum. Innallāha lā yahdil-qaumal-fāsiqīn*
 
@@ -799,7 +799,7 @@ Dan di sini pun keseimbangan yang sama berlaku: tidak diberikannya petunjuk dile
 
 ---
 
-## 63/7 — هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
+## 63/7 — هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ
 
 *Humullażīna yaqūlūna lā tunfiqū ʻalā man ʻinda rasūlillāhi ḥattā yanfaḍḍū. Wa lillāhi khazāʼinus-samāwāti wal-arḍ, wa lākinnal-munāfiqīna lā yafqahūn*
 
@@ -920,7 +920,7 @@ Hal ini berkaitan pula dengan ayat surah ini yang berikutnya. Di sana pun akan a
 
 ---
 
-## 63/8 — يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
+## 63/8 — يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ
 
 *Yaqūlūna la-in rajaʻnā ilal-Madīnati layukhrijannal-aʻazzu minhal-ażall. Wa lillāhil-ʻizzatu wa lirasūlihī wa lil-muʼminīna wa lākinnal-munāfiqīna lā yaʻlamūn*
 
@@ -1039,7 +1039,7 @@ Sebagai cara menyusun argumen, hal ini menarik perhatian. Ayat ini tidak masuk k
 
 ---
 
-## 63/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
+## 63/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ
 
 *Yā ayyuhallażīna āmanū lā tulhikum amwālukum wa lā aulādukum ʻan żikrillāh. Wa man yafʻal żālika fa-ulāʼika humul-khāsirūn*
 
@@ -1311,7 +1311,7 @@ Untuk padanannya pada hari ini tidak diperlukan tafsiran khusus: kita baru menya
 
 ---
 
-## 63/11 — وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
+## 63/11 — وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ
 
 *Wa lan yuʼakhkhirallāhu nafsan iżā jāʼa ajaluhā, wallāhu khabīrun bimā taʻmalūn*
 

@@ -209,7 +209,7 @@ Bu, üçüncü ayetteki istiğfar emrini anlamak için gereken zeminlerden birid
 
 ---
 
-## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا
+## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا
 
 *Fe-sebbih bi-hamdi rabbike vestağfirh, innehû kâne tevvâbâ*
 "Rabbini hamd ile tesbih et ve O'ndan bağışlanma dile. Şüphesiz O, tevvâbdır (tövbeleri çokça kabul edendir)."

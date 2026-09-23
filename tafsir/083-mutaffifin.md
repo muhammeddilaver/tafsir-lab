@@ -1106,7 +1106,7 @@ Yani sûre, yazıyla ilgili üç kök kullanıyor ve ikisi kaydı, biri reddi an
 
 ---
 
-## 83/14 — كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
+## 83/14 — كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ
 
 *Kellâ bel râne alâ kulûbihim mâ kânû yeksibûn*
 "Hayır! Doğrusu, kazanmakta oldukları şeyler kalplerinin üzerini kaplamıştır."

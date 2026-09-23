@@ -43,7 +43,7 @@ Ve bir şey daha: **sûrenin merkezinde bir misafir sahnesi var.** Kıyamet sûr
 
 ## 51/1-4 — Dört yemin
 
-وَٱلذَّٰرِيَٰتِ ذَرْوًا ۝ فَٱلْحَٰمِلَٰتِ وِقْرًا ۝ فَٱلْجَٰرِيَٰتِ يُسْرًا ۝ فَٱلْمُقَسِّمَٰتِ أَمْرًا
+وَٱلذَّٰرِيَٰتِ ذَرْوًا · فَٱلْحَٰمِلَٰتِ وِقْرًا · فَٱلْجَٰرِيَٰتِ يُسْرًا · فَٱلْمُقَسِّمَٰتِ أَمْرًا
 
 *Ve'z-zâriyâti zervâ · fel-hâmilâti vikrâ · fel-câriyâti yüsrâ · fel-mukassimâti emrâ*
 
@@ -238,7 +238,7 @@ Bunu klasik tefsirlerde yaygın olarak kurulan bağın (yemin edilen şey delil 
 
 ---
 
-## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ ۝ وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
+## 51/5-6 — إِنَّمَا تُوعَدُونَ لَصَادِقٌ · وَإِنَّ ٱلدِّينَ لَوَٰقِعٌ
 
 *İnnemâ tûadûne le-sâdık · Ve inne'd-dîne le-vâkı'*
 "Size vaad edilen mutlaka doğrudur. Ve hesap mutlaka gerçekleşecektir."
@@ -382,7 +382,7 @@ Bunu kendi okumam olarak kaydediyorum. Ama iki ayetin lafızları yukarıda veri
 
 ---
 
-## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ ۝ يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
+## 51/8-9 — إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ · يُؤْفَكُ عَنْهُ مَنْ أُفِكَ
 
 *İnneküm le-fî kavlin muhtelif · Yü'fekü anhü men üfik*
 "Siz gerçekten çelişkili bir söz içindesiniz. Ondan çevrilen çevriliyor."
@@ -442,7 +442,7 @@ Birincisi daha yaygındır. **Bir tercih dayatmıyorum**; ama birinci okuyuşun 
 
 ---
 
-## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ ۝ ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
+## 51/10-11 — قُتِلَ ٱلْخَرَّٰصُونَ · ٱلَّذِينَ هُمْ فِى غَمْرَةٍ سَاهُونَ
 
 *Kutile'l-harrâsûn · Ellezîne hüm fî ğamratin sâhûn*
 "Kahrolsun o tahmincileri! Onlar ki bir boğuntu içinde dalgındırlar."
@@ -591,7 +591,7 @@ Soru "hangi gün?" diyor; cevap "şu gün" diyor ama günü takvimle değil, **o
 
 ---
 
-## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ ۝ ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+## 51/13-14 — يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ · ذُوقُوا۟ فِتْنَتَكُمْ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 
 *Yevme hüm ale'n-nâri yuftenûn · Zûkū fitneteküm; hâze'llezî küntüm bihî testa'cilûn*
 "O gün, ateş üzerinde sınanacakları gün. 'Tadın sınanmanızı! Acele isteyip durduğunuz şey buydu.'"
@@ -660,7 +660,7 @@ Bu, sûrenin son ayetiyle bir halka kuruyor. Elli dokuzuncu ayette aynı fiil ge
 
 ---
 
-## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ ۝ ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ ۚ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
+## 51/15-16 — إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَعُيُونٍ · ءَاخِذِينَ مَآ ءَاتَىٰهُمْ رَبُّهُمْ إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُحْسِنِينَ
 
 *İnne'l-müttekīne fî cennâtin ve uyûn · Âhizîne mâ âtâhüm rabbühüm; innehüm kânû kable zâlike muhsinîn*
 "Muttakîler bahçeler ve pınarlar içindedir — Rablerinin kendilerine verdiğini alarak. Onlar bundan önce iyilik edenlerdi."
@@ -742,7 +742,7 @@ Bu sûre o listeye bir yer daha ekliyor — ve buradaki ikili, namaz değil **ge
 
 ---
 
-## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ ۝ وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+## 51/17-18 — كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ · وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
 
 *Kânû kalîlen mine'l-leyli mâ yehce'ûn · Ve bi'l-eshâri hüm yestağfirûn*
 "Gecenin az bir kısmını uyurlardı. Ve seherlerde bağışlanma dilerlerdi."
@@ -947,7 +947,7 @@ Ve şu ayrıntı da metinde duruyor: üçüncü madde, verilen şeyi **verenin f
 
 ---
 
-## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ ۝ وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ
+## 51/20-21 — وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ · وَفِىٓ أَنفُسِكُمْ أَفَلَا تُبْصِرُونَ
 
 *Ve fi'l-ardı âyâtün li'l-mûkınîn · Ve fî enfüsiküm; efelâ tübsırûn*
 "Yeryüzünde, kesin bilgiye varanlar için işaretler vardır. Ve kendi içinizde de. Hâlâ görmüyor musunuz?"
@@ -1116,7 +1116,7 @@ Bunu bir uygulama olarak kaydediyorum; ayetin bir teşhis koyduğunu, benim yapt
 
 ---
 
-## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ ۝ فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
+## 51/22-23 — وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ · فَوَرَبِّ ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّهُۥ لَحَقٌّ مِّثْلَ مَآ أَنَّكُمْ تَنطِقُونَ
 
 *Ve fi's-semâi rizkuküm ve mâ tûadûn · Fe-ve-rabbi's-semâi ve'l-ardı innehû le-hakkun misle mâ enneküm tentıkūn*
 "Rızkınız da göktedir, size vaad edilen de. Göğün ve yerin Rabbine andolsun ki bu, sizin konuşmanız kadar gerçektir."
@@ -1216,7 +1216,7 @@ Bunu kendi okumam olarak kaydediyorum. Ama iki ayetin arasında yalnız bir ayet
 
 ---
 
-## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ ۝ إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا ۖ قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
+## 51/24-25 — هَلْ أَتَىٰكَ حَدِيثُ ضَيْفِ إِبْرَٰهِيمَ ٱلْمُكْرَمِينَ · إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ قَوْمٌ مُّنكَرُونَ
 
 *Hel etâke hadîsü dayfi İbrâhîme'l-mükramîn · İz dahalû aleyhi fe-kālû selâmâ; kāle selâmün kavmün münkerûn*
 "İbrâhim'in ağırlanan misafirlerinin haberi sana geldi mi? Hani yanına girmişler ve 'Selâm' demişlerdi. O da 'Selâm' demişti — 'tanınmayan bir topluluk.'"
@@ -1316,7 +1316,7 @@ Bunu bir dizim gözlemi olarak kaydediyorum; ayet bir kural koymuyor, bir sıra 
 
 ---
 
-## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ ۝ فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
+## 51/26-27 — فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ · فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ
 
 *Fe-râğa ilâ ehlihî fe-câe bi-iclin semîn · Fe-karrabehû ileyhim; kāle elâ te'külûn*
 "Sonra sessizce ailesinin yanına gitti ve semiz bir buzağı getirdi. Onu önlerine yaklaştırdı ve 'Yemiyor musunuz?' dedi."
@@ -1383,7 +1383,7 @@ Bunu tarihî arka plan olarak kaydediyorum; Arap misafirlik geleneğinin bu yön
 
 ---
 
-## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا۟ لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+## 51/28 — فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
 
 *Fe-evcese minhüm hîfe; kālû lâ tehaf; ve beşşerûhü bi-ğulâmin alîm*
 "İçine onlardan bir korku düştü. 'Korkma' dediler. Ve ona bilgin bir oğul müjdelediler."
@@ -1466,7 +1466,7 @@ Bunu iki metnin karşılaştırmasından çıkardığım bir okuma olarak kayded
 
 ---
 
-## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ ۝ قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ ۖ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+## 51/29-30 — فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ · قَالُوا۟ كَذَٰلِكِ قَالَ رَبُّكِ إِنَّهُۥ هُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 
 *Fe-akbeleti'mraetühû fî sarratin fe-sakket vecheha ve kālet acûzün akīm · Kālû kezâliki kāle rabbüki; innehû hüve'l-hakîmü'l-alîm*
 "Derken karısı bir çığlıkla ilerledi, yüzüne vurdu ve 'Kısır bir kocakarı!' dedi. 'Rabbin böyle buyurdu' dediler. 'Şüphesiz O hakîmdir, alîmdir.'"
@@ -1599,7 +1599,7 @@ Yani cevap, itirazın iki dayanağını iki isimle karşılıyor: "sen durumunu 
 
 ---
 
-## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ ۝ قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ ۝ لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ ۝ مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
+## 51/31-34 — قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ · قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ · لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِّن طِينٍ · مُّسَوَّمَةً عِندَ رَبِّكَ لِلْمُسْرِفِينَ
 
 *Kāle fe-mâ hatbüküm eyyühe'l-mürselûn · Kālû innâ ursilnâ ilâ kavmin mücrimîn · Li-nürsile aleyhim hicâraten min tîn · Müsevvemeten inde rabbike li'l-müsrifîn*
 "'Peki sizin işiniz ne, ey elçiler?' dedi. 'Biz suçlu bir topluluğa gönderildik' dediler — 'üzerlerine çamurdan taşlar salalım diye; haddi aşanlar için Rabbinin katında işaretlenmiş taşlar.'"
@@ -1709,7 +1709,7 @@ Bir hüküm çıkarmıyorum; kelimenin seçimini kaydediyorum.
 
 ---
 
-## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ ۝ فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ ۝ وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
+## 51/35-37 — فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ · فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ · وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ
 
 *Fe-ahracnâ men kâne fîhâ mine'l-mü'minîn · Fe-mâ vecednâ fîhâ ğayra beytin mine'l-müslimîn · Ve teraknâ fîhâ âyeten li'llezîne yehâfûne'l-azâbe'l-elîm*
 "Orada bulunan mü'minleri çıkardık. Zaten orada müslümanlardan bir ev dışında kimse bulmadık. Ve orada, acı azaptan korkanlar için bir işaret bıraktık."
@@ -1806,7 +1806,7 @@ Yani "bir işaret bıraktık" cümlesi, muhatabın doğrulayabileceği bir iddia
 
 ---
 
-## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ ۝ فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ ۝ فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
+## 51/38-40 — وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ · فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ · فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
 
 *Ve fî Mûsâ iz erselnâhü ilâ Fir'avne bi-sultânin mübîn · Fe-tevellâ bi-ruknihî ve kāle sâhirun ev mecnûn · Fe-ehaznâhü ve cünûdehû fe-nebeznâhüm fi'l-yemmi ve hüve mülîm*
 "Mûsâ'da da vardır — hani onu apaçık bir delille Firavun'a göndermiştik. O ise gücüne güvenip yüz çevirdi ve 'Bir büyücü ya da bir deli' dedi. Biz de onu ve ordularını yakalayıp denize attık; o kınanacak durumdaydı."
@@ -1944,7 +1944,7 @@ Aynı kök, iki karşıt konum. Bunu bir sûre içi bağ olarak kaydediyorum; ik
 
 ---
 
-## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ ۝ مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
+## 51/41-42 — وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ · مَا تَذَرُ مِن شَىْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَٱلرَّمِيمِ
 
 *Ve fî Âdin iz erselnâ aleyhimü'r-rîha'l-akīm · Mâ tezeru min şey'in etet aleyhi illâ cealethü ke'r-ramîm*
 "Âd'da da vardır — hani üzerlerine o kısır rüzgârı göndermiştik. Uğradığı hiçbir şeyi bırakmıyor, mutlaka onu çürümüş kemik gibi yapıyordu."
@@ -2010,7 +2010,7 @@ Bunu kendi okumam olarak kaydediyorum; ayet süreden söz etmiyor, ama Hâkka 69
 
 ---
 
-## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ ۝ فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ ۝ فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
+## 51/43-45 — وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ · فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ · فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ
 
 *Ve fî Semûde iz kīle lehüm temette'û hattâ hîn · Fe-atev an emri rabbihim fe-ehazethümü's-sâıkatü ve hüm yenzurûn · Fe-me'stetâû min kıyâmin ve mâ kânû müntasırîn*
 "Semûd'da da vardır — hani onlara 'Bir süreye kadar yararlanın' denmişti. Rablerinin emrine karşı büyüklendiler; derken bakıp dururlarken onları o yıldırım yakaladı. Ne ayağa kalkabildiler, ne de kendilerini kurtarabildiler."
@@ -2120,7 +2120,7 @@ Bu, otuz dokuzuncu ayetteki Firavun'la bir paralel kuruyor: orada *bi-ruknihî* 
 
 ---
 
-## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+## 51/46 — وَقَوْمَ نُوحٍ مِّن قَبْلُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
 
 *Ve kavme Nûhın min kabl; innehüm kânû kavmen fâsikīn*
 "Daha önce de Nûh kavmini. Onlar yoldan çıkmış bir topluluktu."
@@ -2485,7 +2485,7 @@ Bu, iddiaya karşı ayetin kendi içinden gelen bir kayıttır ve kaydedilmeye d
 
 ---
 
-## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ ۝ وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۖ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+## 51/50-51 — فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ · وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
 
 *Fefirrû ile'llâh; innî leküm minhü nezîrun mübîn · Ve lâ tec'alû maallâhi ilâhen âhar; innî leküm minhü nezîrun mübîn*
 "Öyleyse Allah'a kaçın. Ben O'ndan size gelen apaçık bir uyarıcıyım. Ve Allah ile birlikte başka bir ilah edinmeyin. Ben O'ndan size gelen apaçık bir uyarıcıyım."
@@ -2558,7 +2558,7 @@ Yani "apaçık uyarıcı" ifadesi iki şey söylüyor: uyarı anlaşılırdır, 
 
 ---
 
-## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ ۝ أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌ طَاغُونَ
+## 51/52-53 — كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ · أَتَوَاصَوْا۟ بِهِۦ بَلْ هُمْ قَوْمٌ طَاغُونَ
 
 *Kezâlike mâ ete'llezîne min kablihim min rasûlin illâ kālû sâhirun ev mecnûn · Etevâsav bih; bel hüm kavmün tâğūn*
 "İşte böyle: onlardan öncekilere hangi elçi geldiyse mutlaka 'büyücü ya da deli' dediler. Bunu birbirlerine mi tavsiye ettiler? Hayır, onlar azgın bir topluluktur."
@@ -2623,7 +2623,7 @@ Yani cümle şunu yapıyor: sorulan soruyu reddediyor ve **gerçek sebebi** koyu
 
 ---
 
-## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ ۝ وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
+## 51/54-55 — فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ · وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ
 
 *Fe-tevelle anhüm fe-mâ ente bi-melûm · Ve zekkir fe-inne'z-zikrâ tenfeu'l-mü'minîn*
 "Onlardan yüz çevir; sen kınanacak değilsin. Ve hatırlat; çünkü hatırlatma mü'minlere fayda verir."
@@ -2821,7 +2821,7 @@ Bunu ayetin bir uygulaması olarak kaydediyorum, ayetin iddiası olarak değil.
 
 ---
 
-## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ ۝ إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
+## 51/57-58 — مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ · إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ
 
 *Mâ ürîdü minhüm min rızkın ve mâ ürîdü en yut'ımûn · İnnallâhe hüve'r-Rezzâku zü'l-kuvveti'l-metîn*
 "Onlardan bir rızık istemiyorum; beni doyurmalarını da istemiyorum. Şüphesiz rızkı veren, sarsılmaz güç sahibi olan Allah'tır."
@@ -2916,7 +2916,7 @@ Sûre bir işle açılıyor, işin nesnesini ortada söylüyor, sonunda işi yap
 
 ---
 
-## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ ۝ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
+## 51/59-60 — فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ · فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ
 
 *Fe-inne li'llezîne zalemû zenûben misle zenûbi ashâbihim fe-lâ yesta'cilûn · Fe-veylün li'llezîne keferû min yevmihimü'llezî yûadûn*
 "Zulmedenler için, arkadaşlarının payı gibi bir pay vardır. Öyleyse acele etmesinler. Vaad edildikleri günlerinden dolayı, inkâr edenlerin vay haline!"

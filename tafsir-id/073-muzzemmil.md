@@ -1424,7 +1424,7 @@ Saya catat pertentangan ini sebagai sebuah pengamatan.
 
 ---
 
-## 73/18 — ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا
+## 73/18 — ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ كَانَ وَعْدُهُۥ مَفْعُولًا
 
 *As-samā'u munfaṭirun bih. Kāna waʻduhū mafʻūlā*
 "Langit terbelah karenanya. Janji-Nya telah terlaksana."
@@ -1500,7 +1500,7 @@ Keleluasaan kata ini memungkinkannya memikul makna yang berubah menurut siapa ya
 
 ---
 
-## 73/19 — إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا
+## 73/19 — إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا
 
 *Inna hāżihī tażkirah. Fa man syā'attakhaża ilā rabbihī sabīlā*
 "Sesungguhnya ini adalah sebuah peringatan. Maka barangsiapa menghendaki, ia mengambil jalan kepada Tuhannya."
@@ -1578,7 +1578,7 @@ Kerangka perdebatan tentang kehendak telah ditegakkan pada `002-bakara.md` 2/7 d
 
 ## 73/20 — Peringanan hukum
 
-إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
+إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
 
 "Sesungguhnya Tuhanmu mengetahui bahwa engkau berdiri kurang dari dua pertiga malam, seperduanya, dan sepertiganya — dan begitu pula segolongan orang dari mereka yang bersamamu. Allahlah yang mengukur malam dan siang. Dia mengetahui bahwa kalian tidak akan sanggup menghitungnya, maka Dia kembali kepada kalian. Maka bacalah apa yang mudah bagi kalian dari Al-Qur'an. Dia mengetahui bahwa di antara kalian akan ada orang-orang yang sakit; yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain lagi berperang di jalan Allah. Maka bacalah apa yang mudah bagi kalian darinya. Dan tegakkanlah salat, tunaikanlah zakat, dan berikanlah kepada Allah pinjaman yang baik. Dan kebaikan apa pun yang kalian kedepankan untuk diri kalian, kalian akan mendapatinya di sisi Allah sebagai sesuatu yang lebih baik dan lebih besar pahalanya. Dan mohonlah ampun kepada Allah. Sesungguhnya Allah Maha Pengampun, Maha Penyayang."
 
@@ -1794,7 +1794,7 @@ Pengulangan yang kedua tidak mengukuhkan yang pertama; **ia sampai ke tempat yan
 
 ### Bagian keempat: tiga uzur
 
-عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ
+عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ
 
 **Kalimat yang paling menarik perhatian dalam ayat ini, dan barangkali dalam seluruh surah ini.**
 
@@ -1964,7 +1964,7 @@ Dalam tafsir-tafsir klasik, apa yang dimaksud dengan "pinjaman yang baik" dijela
 
 ### Bagian keenam: penutup
 
-وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
+وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
 
 ### تُقَدِّمُوا۟ — mengirimkan lebih dahulu
 

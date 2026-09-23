@@ -160,7 +160,7 @@ Di sinilah aturan metode (`STYLE.md`) yang mengikat teks ini diterapkan secara l
 
 Dan bukti dari dalam teks bagi hal ini bukan hanya sebuah huruf. Al-Qur'an menegakkan secara terbuka putusan penyeimbang tentang kelompok yang sama:
 
-> **لَيْسُوا۟ سَوَآءً ۗ مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
+> **لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ**
 > *"Mereka tidak sama. Di antara Ahli Kitab ada golongan yang lurus (qāʼimah), yang membaca ayat-ayat Allah pada saat-saat malam sambil bersujud."* (Ali 'Imran 3/113)
 
 Dua kata pertama ayat ini — *laisū sawāʼan*, "mereka tidak sama" — secara langsung melarang penyamarataan. Lanjutannya (3/114-115) mengatakan bahwa golongan itu beriman kepada Allah dan hari akhir, menyuruh kepada yang makruf dan mencegah dari yang mungkar, serta berlomba dalam kebaikan, dan memberitakan bahwa *"kebaikan apa pun yang mereka kerjakan tidak akan dibiarkan tanpa balasan"*.
@@ -336,7 +336,7 @@ Penjelasan-penjelasan ini bukan alternatif satu bagi yang lain, melainkan sisi-s
 
 **Al-Qur'an ditafsirkan dengan Al-Qur'an — 'Abasa 80/13-16.** Kata yang sama, dengan rangkaian yang sama, muncul di sana:
 
-> **فِى صُحُفٍ مُّكَرَّمَةٍ ۝ مَّرْفُوعَةٍ مُّطَهَّرَةٍ ۝ بِأَيْدِى سَفَرَةٍ ۝ كِرَامٍۭ بَرَرَةٍ**
+> **فِى صُحُفٍ مُّكَرَّمَةٍ · مَّرْفُوعَةٍ مُّطَهَّرَةٍ · بِأَيْدِى سَفَرَةٍ · كِرَامٍۭ بَرَرَةٍ**
 > *"Di dalam lembaran-lembaran yang dimuliakan; yang ditinggikan lagi disucikan; di tangan para utusan penulis; yang mulia lagi berbakti."* ('Abasa 80/13-16)
 
 Di sana lembaran-lembaran itu punya tiga sifat: *mukarramah* (dimuliakan), *marfūʻah* (ditinggikan), *muṭahharah* (disucikan). Ketiganya isim maf'ul; ketiganya pasif. Lembaran-lembaran itu tidak memperoleh sendiri nilainya; tidak meninggikan dirinya sendiri; tidak menyucikan dirinya sendiri. Ketiga tindakan itu dikerjakan dari luar.
@@ -396,7 +396,7 @@ Kata *qayyim* dalam bahasa Arab memiliki makna yang terbuka ke tiga arah yang be
 
 **1. Yang lurus, yang tidak bengkok.** Yang tidak memikul kebengkokan di dalam dirinya sendiri. Bukti dari dalam Al-Qur'an yang paling bersih untuk hal ini adalah:
 
-> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا ۜ ۝ قَيِّمًا**
+> **ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجًا · قَيِّمًا**
 > *"Segala puji bagi Allah yang telah menurunkan Kitab kepada hamba-Nya dan Dia tidak menjadikan padanya kebengkokan; sebagai kitab yang lurus (qayyiman)."* (Al-Kahf 18/1-2)
 
 Di sana *qayyim* diletakkan sebagai lawan dari kata *ʻiwaj* (kebengkokan) yang berada persis sebelumnya. Jadi *qayyim* = tanpa kebengkokan.
@@ -575,7 +575,7 @@ Fungsi ayat ini adalah diagnosis, dan ia datang mendahului tuduhan: **perpecahan
 
 ---
 
-## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+## 98/5 — وَمَآ أُمِرُوٓاْ إِلَّا لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُواْ ٱلصَّلَوٰةَ وَيُؤْتُواْ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
 
 *Wa mā umirū illā liyaʻbudullāha mukhliṣīna lahud-dīna ḥunafāʼa wa yuqīmuṣ-ṣalāta wa yu'tuz-zakāh; wa żālika dīnul-qayyimah*
 
@@ -738,10 +738,10 @@ Saya sampaikan ini bukan sebagai sebuah pilihan, melainkan sebagai sebuah kemung
 
 Kesejajaran yang paling kuat bagi ayat ini ada dalam Surah Ar-Rum, dan kesejajaran itu luar biasa rapatnya. Marilah kita berikan ketiga ayatnya berurutan lalu membandingkannya dengan Al-Bayyinah:
 
-> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
+> **فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ**
 > *"Maka hadapkanlah wajahmu kepada agama sebagai orang yang hanif. [Ikutilah] fitrah Allah yang atasnya Dia menciptakan manusia. Tidak ada perubahan pada ciptaan Allah. Itulah agama yang lurus (ad-dīnul-qayyim); tetapi kebanyakan manusia tidak mengetahui."* (Ar-Rum 30/30)
 
-> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ ۝ مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
+> **مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلْمُشْرِكِينَ · مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمْ وَكَانُواْ شِيَعًا كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ**
 > *"Dengan kembali bertobat kepada-Nya; bertakwalah kepada-Nya, tegakkanlah salat, dan janganlah kamu termasuk kaum musyrik — yaitu orang-orang yang memecah belah agama mereka dan menjadi bergolong-golongan. Setiap golongan bergembira dengan apa yang ada pada mereka."* (Ar-Rum 30/31-32)
 
 Tabel perbandingan:
@@ -767,7 +767,7 @@ Membaca kedua ayat itu bersama Al-Bayyinah 98/4-5 melengkapi diagnosis surah ini
 
 ---
 
-## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
+## 98/6 — إِنَّ ٱلَّذِينَ كَفَرُواْ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أُوْلَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ
 
 *Innallażīna kafarū min ahlil-kitābi wal-musyrikīna fī nāri jahannama khālidīna fīhā; ulāʼika hum syarrul-bariyyah*
 
@@ -934,7 +934,7 @@ Sebab dari sifat dua ujung ini adalah seluruh pokok surah ini: **bayyinah.** Tel
 
 ---
 
-## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
+## 98/8 — جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُواْ عَنْهُ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ
 
 *Jazāʼuhum ʻinda rabbihim jannātu ʻadnin tajrī min taḥtihal-anhāru khālidīna fīhā abadā; raḍiyallāhu ʻanhum wa raḍū ʻanh; żālika liman khasyiya rabbah*
 
@@ -1068,7 +1068,7 @@ Karena **sebuah hadiah tidak menutup jarak antara yang memberi dan yang menerima
 
 Al-Qur'an menegakkan hierarki ini secara terbuka di satu tempat. Dalam Surah At-Taubah, persis sesudah surga diperikan, datanglah kalimat ini:
 
-> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
+> **وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ**
 > *"Dan keridaan (ridwan) dari Allah adalah lebih besar. Itulah kemenangan yang agung."* (At-Taubah 9/72)
 
 **"Lebih besar"** — daripada apa? Daripada taman-taman dan istana-istana yang baru saja dirinci. Ayat itu sendiri yang melakukan perbandingannya dan ia meletakkan rida di atas.
@@ -1083,7 +1083,7 @@ Pada saat yang sama, ini sebuah ukuran yang mencegah keberagamaan berubah menjad
 
 Al-Qur'an menegakkan rida dua pihak ini di satu tempat lagi, kali ini dalam bentuk dua *sifat*:
 
-> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ ۝ ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
+> **يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ · ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً**
 > *"Wahai jiwa yang tenang! Kembalilah kepada Tuhanmu dalam keadaan rida dan diridai."* (Al-Fajr 89/27-28)
 
 Di sana dua pola dari akar yang sama datang berdampingan: **رَاضِيَة** (isim fa'il: yang rida) dan **مَّرْضِيَّة** (isim maf'ul: yang diridai). Apa yang di dalam Al-Bayyinah ditegakkan dengan dua *kata kerja*, di dalam Al-Fajr ditegakkan dengan dua *sifat*.

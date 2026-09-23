@@ -472,9 +472,9 @@ Ada pula hubungan antara harta dan gambaran ini. Ketika orang yang membawa beban
 
 ---
 
-## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ ۝ وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
+## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ · وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
 
-*Inna ʻalainā lal-hudā ۝ Wa inna lanā lal-ākhirata wal-ūlā*
+*Inna ʻalainā lal-hudā · Wa inna lanā lal-ākhirata wal-ūlā*
 "Sesungguhnya kewajiban Kamilah memberi petunjuk. Dan sesungguhnya milik Kamilah akhirat dan dunia."
 
 Dua kalimat berisi prinsip yang datang di tengah surah, sesudah kedua belah pihak diperikan.
@@ -575,9 +575,9 @@ Hal ini selaras dengan logika umum surah ini. Pada ayat ketujuh dan kesepuluh, h
 
 ---
 
-## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى ۝ ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
+## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى · ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
 
-*Lā yaṣlāhā illal-asyqā ۝ Allażī każżaba wa tawallā*
+*Lā yaṣlāhā illal-asyqā · Allażī każżaba wa tawallā*
 "Tidak ada yang masuk ke dalamnya selain orang yang paling celaka — yang mendustakan dan berpaling."
 
 ### صَلِيَ — masuk, terpanggang
@@ -628,9 +628,9 @@ Dan perhatikan: pada ayat kesembilan pun ada kata kerja yang sama — *"wa każ�
 
 ---
 
-## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى ۝ ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى · ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
 
-*Wa sayujannabuhal-atqā ۝ Allażī yuʼtī mālahū yatazakkā*
+*Wa sayujannabuhal-atqā · Allażī yuʼtī mālahū yatazakkā*
 "Adapun orang yang paling memelihara diri akan dijauhkan darinya — yang memberikan hartanya, untuk menyucikan diri."
 
 ### جَنَّبَ — menjauhkan ke samping
@@ -699,9 +699,9 @@ Bacaan kedua yang lazim dan ia selaras dengan dua ayat berikutnya, sebab di sana
 
 ---
 
-## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ ۝ إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ · إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
 
-*Wa mā li-aḥadin ʻindahū min niʻmatin tujzā ۝ Illabtigāʼa wajhi Rabbihil-aʻlā*
+*Wa mā li-aḥadin ʻindahū min niʻmatin tujzā · Illabtigāʼa wajhi Rabbihil-aʻlā*
 "Padanya tidak ada nikmat seorang pun yang harus dibalas — melainkan (ia memberi) semata-mata karena mencari wajah Tuhannya Yang Mahatinggi."
 
 Batasan tentang memberi tanpa imbalan. Bentuk paling polos dari batasan itu di dalam Al-Qur'an ada di sini.
@@ -881,9 +881,9 @@ Kedua surah memakai kerangka yang sama:
 
 ```
 Untaian sumpah (kosmis)
-        ↓
+ ↓
 Dualitas akhlak (putusan)
-        ↓
+ ↓
 Diperlihatkannya dualitas itu
 ```
 

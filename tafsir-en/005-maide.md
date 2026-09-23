@@ -73,7 +73,7 @@ The sūra consists of nine blocks. The block boundaries are marked by shifts of 
 
 ---
 
-## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
+## 5/1 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ
 
 *Yā ayyuha'lladhīna āmanū awfū bi'l-ʿuqūd · Uḥillat lakum bahīmatu'l-anʿāmi illā mā yutlā ʿalaykum ghayra muḥilli'ṣ-ṣaydi wa antum ḥurum · Inna'llāha yaḥkumu mā yurīd*
 
@@ -151,7 +151,7 @@ The Turkish words **"akit", "akde", "akit yapmak", "münakit"** come from this r
 
 ---
 
-## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
+## 5/2 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ … وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
 
 *Yā ayyuha'lladhīna āmanū lā tuḥillū shaʿāʾira'llāhi wa la'sh-shahra'l-ḥarāma wa la'l-hadya wa la'l-qalāʾida wa lā āmmīna'l-bayta'l-ḥarāma yabtaghūna faḍlan min rabbihim wa riḍwānā · Wa idhā ḥalaltum fa'ṣṭādū · Wa lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani'l-Masjidi'l-Ḥarāmi an taʿtadū · Wa taʿāwanū ʿala'l-birri wa't-taqwā wa lā taʿāwanū ʿala'l-ithmi wa'l-ʿudwān · Wa'ttaqu'llāh · Inna'llāha shadīdu'l-ʿiqāb*
 
@@ -270,7 +270,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ---
 
-## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+## 5/3 — حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ … ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 
 *Ḥurrimat ʿalaykumu'l-maytatu wa'd-damu wa laḥmu'l-khinzīri wa mā uhilla li-ghayri'llāhi bihī wa'l-munkhaniqatu wa'l-mawqūdhatu wa'l-mutaraddiyatu wa'n-naṭīḥatu wa mā akala's-sabuʿu illā mā dhakkaytum wa mā dhubiḥa ʿala'n-nuṣubi wa an tastaqsimū bi'l-azlām · Dhālikum fisq · Al-yawma yaʾisa'lladhīna kafarū min dīnikum fa-lā takhshawhum wa'khshawn · Al-yawma akmaltu lakum dīnakum wa atmamtu ʿalaykum niʿmatī wa raḍītu lakumu'l-Islāma dīnā · Fa-mani'ḍṭurra fī makhmaṣatin ghayra mutajānifin li-ithmin fa-inna'llāha ghafūrun raḥīm*
 
@@ -449,7 +449,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ---
 
-## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
+## 5/4 — يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ
 
 *Yasʾalūnaka mādhā uḥilla lahum · Qul uḥilla lakumu'ṭ-ṭayyibātu wa mā ʿallamtum mina'l-jawāriḥi mukallibīna tuʿallimūnahunna mimmā ʿallamakumu'llāh · Fa-kulū mimmā amsakna ʿalaykum wa'dhkuru'sma'llāhi ʿalayh · Wa'ttaqu'llāh · Inna'llāha sarīʿu'l-ḥisāb*
 
@@ -508,7 +508,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ---
 
-## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
+## 5/5 — ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ
 
 *Al-yawma uḥilla lakumu'ṭ-ṭayyibāt · Wa ṭaʿāmu'lladhīna ūtu'l-kitāba ḥillun lakum wa ṭaʿāmukum ḥillun lahum · Wa'l-muḥṣanātu mina'l-muʾmināti wa'l-muḥṣanātu mina'lladhīna ūtu'l-kitāba min qablikum idhā ātaytumūhunna ujūrahunna muḥṣinīna ghayra musāfiḥīna wa lā muttakhidhī akhdān · Wa man yakfur bi'l-īmāni fa-qad ḥabiṭa ʿamaluh wa huwa fi'l-ākhirati mina'l-khāsirīn*
 
@@ -704,7 +704,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ---
 
-## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+## 5/7 — وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 
 *Wa'dhkurū niʿmata'llāhi ʿalaykum wa mīthāqahu'lladhī wāthaqakum bihī idh qultum samiʿnā wa aṭaʿnā · Wa'ttaqu'llāh · Inna'llāha ʿalīmun bi-dhāti'ṣ-ṣudūr*
 
@@ -753,7 +753,7 @@ In Arabic **Form VI conveys reciprocity** — an act two or more parties do **to
 
 ---
 
-## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+## 5/8 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 
 *Yā ayyuha'lladhīna āmanū kūnū qawwāmīna li'llāhi shuhadāʾa bi'l-qisṭ · Wa lā yajrimannakum shanaʾānu qawmin ʿalā allā taʿdilū · Iʿdilū huwa aqrabu li't-taqwā · Wa'ttaqu'llāh · Inna'llāha khabīrun bimā taʿmalūn*
 
@@ -943,7 +943,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
+## 5/12 — وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
 
 *Wa laqad akhadha'llāhu mīthāqa banī Isrāʾīla wa baʿathnā minhumu'thnay ʿashara naqībā · Wa qāla'llāhu innī maʿakum · La-in aqamtumu'ṣ-ṣalāta wa ātaytumu'z-zakāta wa āmantum bi-rusulī wa ʿazzartumūhum wa aqraḍtumu'llāha qarḍan ḥasanan la-ukaffiranna ʿankum sayyiʾātikum wa la-udkhilannakum jannātin tajrī min taḥtiha'l-anhār · Fa-man kafara baʿda dhālika minkum fa-qad ḍalla sawāʾa's-sabīl*
 
@@ -1012,7 +1012,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
+## 5/13 — فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
 
 *Fa-bimā naqḍihim mīthāqahum laʿannāhum wa jaʿalnā qulūbahum qāsiya · Yuḥarrifūna'l-kalima ʿan mawāḍiʿihī wa nasū ḥaẓẓan mimmā dhukkirū bih · Wa lā tazālu taṭṭaliʿu ʿalā khāʾinatin minhum illā qalīlan minhum · Fa'fu ʿanhum wa'ṣfaḥ · Inna'llāha yuḥibbu'l-muḥsinīn*
 
@@ -1110,7 +1110,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
+## 5/14 — وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 
 *Wa mina'lladhīna qālū innā naṣārā akhadhnā mīthāqahum fa-nasū ḥaẓẓan mimmā dhukkirū bih · Fa-aghraynā baynahumu'l-ʿadāwata wa'l-baghḍāʾa ilā yawmi'l-qiyāma · Wa sawfa yunabbiʾuhumu'llāhu bimā kānū yaṣnaʿūn*
 
@@ -1168,7 +1168,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ ۚ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
+## 5/15-16 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِّمَّا كُنتُمْ تُخْفُونَ مِنَ ٱلْكِتَٰبِ وَيَعْفُوا۟ عَن كَثِيرٍ قَدْ جَآءَكُم مِّنَ ٱللَّهِ نُورٌ وَكِتَٰبٌ مُّبِينٌ · يَهْدِى بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضْوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ
 
 *Yā ahla'l-kitābi qad jāʾakum rasūlunā yubayyinu lakum kathīran mimmā kuntum tukhfūna mina'l-kitābi wa yaʿfū ʿan kathīr · Qad jāʾakum mina'llāhi nūrun wa kitābun mubīn · Yahdī bihi'llāhu mani'ttabaʿa riḍwānahū subula's-salāmi wa yukhrijuhum mina'ẓ-ẓulumāti ila'n-nūri bi-idhnihī wa yahdīhim ilā ṣirāṭin mustaqīm*
 
@@ -1222,7 +1222,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
+## 5/17 — لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا
 
 *Laqad kafara'lladhīna qālū inna'llāha huwa'l-Masīḥu'bnu Maryam · Qul fa-man yamliku mina'llāhi shayʾan in arāda an yuhlika'l-Masīḥa'bna Maryama wa ummahū wa man fi'l-arḍi jamīʿā · Wa li'llāhi mulku's-samāwāti wa'l-arḍi wa mā baynahumā · Yakhluqu mā yashāʾ · Wa'llāhu ʿalā kulli shayʾin qadīr*
 
@@ -1252,7 +1252,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
+## 5/18 — وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ
 
 *Wa qālati'l-yahūdu wa'n-naṣārā naḥnu abnāʾu'llāhi wa aḥibbāʾuh · Qul fa-lima yuʿadhdhibukum bi-dhunūbikum · Bal antum basharun mimman khalaq · Yaghfiru li-man yashāʾu wa yuʿadhdhibu man yashāʾ · Wa li'llāhi mulku's-samāwāti wa'l-arḍi wa mā baynahumā · Wa ilayhi'l-maṣīr*
 
@@ -1289,7 +1289,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
+## 5/19 — يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ
 
 *Yā ahla'l-kitābi qad jāʾakum rasūlunā yubayyinu lakum ʿalā fatratin mina'r-rusuli an taqūlū mā jāʾanā min bashīrin wa lā nadhīr · Fa-qad jāʾakum bashīrun wa nadhīr · Wa'llāhu ʿalā kulli shayʾin qadīr*
 
@@ -1416,7 +1416,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
+## 5/25-26 — قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ · قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 
 *Qāla rabbi innī lā amliku illā nafsī wa akhī · Fa'fruq baynanā wa bayna'l-qawmi'l-fāsiqīn · Qāla fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fi'l-arḍ · Fa-lā taʾsa ʿala'l-qawmi'l-fāsiqīn*
 
@@ -1434,7 +1434,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ### The sign of *muʿānaqa* in the muṣḥaf
 
-**In the classical codices there are in this verse two three-dotted marks in the form `ۛ`: one before *arbaʿīna sanatan* and one after.**
+**In the classical codices there are in this verse two three-dotted marks in the form ``: one before *arbaʿīna sanatan* and one after.**
 
 **This is the mark of *muʿānaqa* (interlocking) treated at `002-bakara.md` 2/2, and it was recorded there:** **one may pause at either of the two places, but not at both.** I rely on that treatment.
 
@@ -1461,7 +1461,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
+## 5/27 — وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ
 
 *Wa'tlu ʿalayhim nabaʾa'bnay Ādama bi'l-ḥaqq · Idh qarrabā qurbānan fa-tuqubbila min aḥadihimā wa lam yutaqabbal mina'l-ākhar · Qāla la-aqtulannak · Qāla innamā yataqabbalu'llāhu mina'l-muttaqīn*
 
@@ -1505,7 +1505,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
+## 5/28 — لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ
 
 *La-in basaṭta ilayya yadaka li-taqtulanī mā ana bi-bāsiṭin yadiya ilayka li-aqtulak · Innī akhāfu'llāha rabba'l-ʿālamīn*
 
@@ -1611,7 +1611,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
+## 5/31 — فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 
 *Fa-baʿatha'llāhu ghurāban yabḥathu fi'l-arḍi li-yuriyahū kayfa yuwārī sawʾata akhīh · Qāla yā waylatā a-ʿajaztu an akūna mithla hādha'l-ghurābi fa-uwāriya sawʾata akhī · Fa-aṣbaḥa mina'n-nādimīn*
 
@@ -2156,7 +2156,7 @@ And it must be recorded that the word *qawm* comes indefinite: *shanaʾānu **qa
 
 ---
 
-## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
+## 5/64 — وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ
 
 "**They said, 'God's hand is tied.' Their own hands are tied, and they are cursed for what they said. No; both His hands are open; He gives as He wills.**"
 
@@ -2244,7 +2244,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ---
 
-## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
+## 5/70-71 — لَقَدْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
 
 **The tenses of the verbs should be recorded:** *farīqan **kadhdhabū*** (past) **/** *wa farīqan **yaqtulūn*** (imperfect).
 
@@ -2288,7 +2288,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **The sūra had set up this sequence twice before: 5/33-34 and 5/38-39.** **Ruling → the door of return → *ghafūrun raḥīm*.** **The third repetition is here.**
 
-### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
+### مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ (75)
 
 ***Kānā yaʾkulāni'ṭ-ṭaʿām* — "they both used to eat food".**
 
@@ -2310,7 +2310,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ---
 
-## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
+## 5/78-81 — كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ
 
 "**They did not restrain one another from the wrong they did. Evil indeed was what they used to do!**"
 
@@ -2330,7 +2330,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ---
 
-## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
+## 5/82-86 — لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ
 
 "**You will find the most violent of people in enmity towards the believers … And you will find the nearest of them in affection to the believers to be those who say 'we are Christians'. That is because among them are priests and monks, and because they are not arrogant.**"
 
@@ -2487,7 +2487,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **عَفَا ٱللَّهُ عَمَّا سَلَفَ** — **and pardon is declared for the past.** **The same expression occurs in other places in the Qurʾān besides `005-maide.md` 5/95; here it is announced plainly that the ruling is not applied retrospectively.**
 
-### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
+### 5/96 — أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا
 
 **The distinction is plain: game of the sea is permitted, game of the land is forbidden for the duration of consecration.** ***Mā dumtum ḥuruman* — a qualification of duration.**
 
@@ -2556,7 +2556,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ---
 
-## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
+## 5/105 — يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ
 
 "**O you who believe! Look to yourselves. The one who strays cannot harm you so long as you are rightly guided.**"
 
@@ -2609,7 +2609,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 ---
 
-## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
+## 5/109-110 — يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ قَالُوا۟ لَا عِلْمَ لَنَآ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ
 
 "**On the day God gathers the messengers He will say: 'What answer were you given?' They will say: 'We have no knowledge. You alone are the Knower of all that is hidden.'**"
 
@@ -2681,7 +2681,7 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **The root of *iṭmiʾnān* was treated at `013-rad.md` 13/28 (*alā bi-dhikri'llāhi taṭmaʾinnu'l-qulūb*) and at `002-bakara.md` 2/260 (in Abraham's request, *wa lākin li-yaṭmaʾinna qalbī*);** I rely on that treatment. **The same word, in a request of the same kind.**
 
-### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
+### 5/115 — قَالَ ٱللَّهُ إِنِّى مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّىٓ أُعَذِّبُهُۥ عَذَابًا لَّآ أُعَذِّبُهُۥٓ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
 
 **I record this as my own reading, and its ground is the condition in the sentence:** the request is granted, **but the responsibility grows heavier in return.** **That is, once the proof asked for is given, denial after the proof carries a different weight.**
 
@@ -2718,13 +2718,13 @@ The exegetes generally explain this phrase as **rain from the sky, plants from t
 
 **The same sentence twice, forty-five verses apart** — one as the counter-proof to a ruling, the other as the answer at the reckoning. **This repetition can be verified from the text.**
 
-**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
+**وَكُنتُ عَلَيْهِمْ شَهِيدًا مَّا دُمْتُ فِيهِمْ فَلَمَّا تَوَفَّيْتَنِى كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيْهِمْ**
 
 ***Mā dumtu fīhim* — a qualification of duration.** **Witness is limited to the time one is present.**
 
 **The exegetes differ on the sense of the word *tawaffī* (و-ف-ي) here** — **the primary sense of the root is "to take in full, to receive complete", and it has been debated in the context of `003-al-i-imran.md` 3/55 and `004-nisa.md` 4/157-158.** **No preference is adopted in this commentary.**
 
-### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+### 5/118 — إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 
 **The sentence contains two conditions and gives two grounds:**
 

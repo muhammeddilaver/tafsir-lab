@@ -475,10 +475,10 @@ Urutan ini telah diperdebatkan dan lebih dari satu penjelasan diajukan. Yang ben
 **Yang keempat — kesetangkupan dengan ayat-ayat berikutnya.** Ayat kesembilan berakhir dengan **keberuntungan**, ayat kesepuluh dengan **kerugian**: *aflaḥa* / *khāba*. Sedangkan ayat kedelapan berada pada urutan *fujūr*–takwa. Jadi urutan pengilhaman dan urutan hasilnya saling berkebalikan. Hal ini menegakkan sebuah struktur bersilang:
 
 ```
-fujūr  ————————\    /———————  aflaḥa (zakkāhā)
-                 \/
-                 /\
-taqwā  ————————/    \———————  khāba (dassāhā)
+fujūr ————————\ /——————— aflaḥa (zakkāhā)
+ \/
+ /\
+taqwā ————————/ \——————— khāba (dassāhā)
 ```
 
 Jadi teks ini menyebutkan belakangan pada hasil apa yang disebutkannya lebih dahulu pada ilham. Kesetangkupan bersilang semacam ini adalah salah satu pilihan struktur Al-Qur'an yang sudah dikenal.
@@ -654,8 +654,8 @@ Hal yang perlu diperhatikan: yang diperikan di sini bukanlah keburukan yang tera
 Kedua ayat itu berada pada pola yang persis sama:
 
 ```
-قَدْ أَفْلَحَ    مَن   زَكَّاهَا
-وَقَدْ خَابَ    مَن   دَسَّاهَا
+قَدْ أَفْلَحَ مَن زَكَّاهَا
+وَقَدْ خَابَ مَن دَسَّاهَا
 ```
 
 *qad + kata kerja + man + kata kerja + hā.* Jumlah katanya sama, polanya sama, rimanya sama. Satu-satunya bedanya ada pada dua pasang kata kerjanya.

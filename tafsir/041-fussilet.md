@@ -358,7 +358,7 @@
 
 **Aynı ikili, bu sûrenin 25. ayetinde de geçmişti** — orada *karînler* önlerindekini ve arkalarındakini **süslü gösteriyordu.** **Aynı terkip, iki ayrı yönde: biri süslemenin kapsamı, öteki korunmanın kapsamı.** Bu, sûre içinde doğrulanabilir bir tekrardır.
 
-### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ
+### وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَاعْجَمِىٌّ وَعَرَبِىٌّ
 
 "Onu **yabancı dilde** bir Kur'an yapsaydık, mutlaka: '**Âyetleri ayrıntılı kılınsaydı ya! Arap'a yabancı dilden mi?**' derlerdi."
 

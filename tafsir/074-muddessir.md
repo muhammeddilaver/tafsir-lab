@@ -992,7 +992,7 @@ Bu bağı kendi okumam olarak kuruyorum.
 
 ---
 
-## 74/16-17 — كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
+## 74/16-17 — كَلَّآ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا / سَأُرْهِقُهُۥ صَعُودًا
 
 *Kellâ innehû kâne li-âyâtinâ anîdâ / Se-urhikuhû suûdâ*
 "Hayır! O, ayetlerimize karşı inatçıydı. Onu sarp bir yokuşa süreceğim."
@@ -1786,7 +1786,7 @@ Kur'an'ın cehennem görevlileri hakkında verdiği diğer bilgiler: *"Üzerinde
 
 ## 74/31 — Sayının kendisinin imtihan olması
 
-وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
+وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ
 
 "Biz ateşin görevlilerini yalnızca meleklerden kıldık. Ve onların sayısını, inkâr edenler için bir imtihandan başka bir şey kılmadık — kendilerine kitap verilenler kesin olarak bilsinler, iman edenlerin imanı artsın, kendilerine kitap verilenler ve mü'minler kuşkuya düşmesin, kalplerinde hastalık olanlar ve kâfirler de 'Allah bununla ne demek istedi?' desinler diye. İşte böyle: Allah dilediğini saptırır, dilediğini doğru yola iletir. Rabbinin ordularını O'ndan başkası bilmez. Ve o, insanlar için bir hatırlatmadan başka bir şey değildir."
 
@@ -2623,7 +2623,7 @@ Bunu kendi okumam olarak kaydediyorum; ayetler bu bağı kurmuyor.
 
 ---
 
-## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
+## 74/52-53 — بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً / كَلَّا بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ
 
 *Bel yürîdü küllü'mriin minhüm en yü'tâ suhufen müneşşera / Kellâ bel lâ yehâfûne'l-âhira*
 
@@ -2727,7 +2727,7 @@ Bu bağı kuruyorum ve `107-maun.md`'nin kurduğu çerçeveyle de uyumlu olduğu
 
 ## 74/54-56 — Kapanış
 
-كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
+كَلَّآ إِنَّهُۥ تَذْكِرَةٌ / فَمَن شَآءَ ذَكَرَهُۥ / وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ
 
 *Kellâ innehû tezkira / Fe-men şâe zekerah / Ve mâ yezkürûne illâ en yeşâallâh. Hüve ehlü't-takvâ ve ehlü'l-mağfira*
 

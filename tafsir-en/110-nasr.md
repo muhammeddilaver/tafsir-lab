@@ -209,7 +209,7 @@ This is one of the grounds needed for understanding the command to seek forgiven
 
 ---
 
-## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا
+## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا
 
 *Fa-sabbiḥ bi-ḥamdi rabbika wa'staghfirh, innahu kāna tawwābā*
 "then glorify your Lord with praise and ask forgiveness of Him. He is indeed *tawwāb* (the one who accepts returning again and again)."

@@ -437,9 +437,9 @@ The verse describes a moment at which the measure of grouping changes: the reaso
 
 ---
 
-## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ ۝ بِأَىِّ ذَنۢبٍ قُتِلَتْ
+## 81/8-9 — وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ · بِأَىِّ ذَنۢبٍ قُتِلَتْ
 
-*Wa idhā'l-mawʾūdatu suʾilat ۝ Bi-ayyi dhanbin qutilat*
+*Wa idhā'l-mawʾūdatu suʾilat · Bi-ayyi dhanbin qutilat*
 "When the girl buried alive is questioned: for what sin were you killed?"
 
 The centre of the sūra is here.
@@ -702,9 +702,9 @@ This looks to the same place as Sūrat ʿAbasa's turning about the root **س-ف-
 
 ---
 
-## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ ۝ وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
+## 81/12-13 — وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ · وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ
 
-*Wa idhā'l-jaḥīmu suʿʿirat ۝ Wa idhā'l-jannatu uzlifat*
+*Wa idhā'l-jaḥīmu suʿʿirat · Wa idhā'l-jannatu uzlifat*
 "When the Fire is set blazing, and when the Garden is brought near."
 
 ### ٱلْجَحِيم — *jaḥīm*
@@ -854,9 +854,9 @@ The sūra builds a chain of knowledge and shows both its ends: **at its source a
 
 ---
 
-## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ ۝ ٱلْجَوَارِ ٱلْكُنَّسِ
+## 81/15-16 — فَلَآ أُقْسِمُ بِٱلْخُنَّسِ · ٱلْجَوَارِ ٱلْكُنَّسِ
 
-*Fa-lā uqsimu bi'l-khunnas ۝ Al-jawāri'l-kunnas*
+*Fa-lā uqsimu bi'l-khunnas · Al-jawāri'l-kunnas*
 "I swear by those that withdraw — that run their course, that go into their lairs."
 
 ### فَلَا أُقْسِمُ — the لا at the head
@@ -940,9 +940,9 @@ I record this connection as my own reading. But that the Qurʾān's oaths are ge
 
 ---
 
-## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ ۝ وَٱلصُّبْحِ إِذَا تَنَفَّسَ
+## 81/17-18 — وَٱلَّيْلِ إِذَا عَسْعَسَ · وَٱلصُّبْحِ إِذَا تَنَفَّسَ
 
-*Wa'l-layli idhā ʿasʿas ۝ Wa'ṣ-ṣubḥi idhā tanaffas*
+*Wa'l-layli idhā ʿasʿas · Wa'ṣ-ṣubḥi idhā tanaffas*
 "And by the night, when it turns away; and by the morning, when it breathes."
 
 The two most beautiful verses of the sūra.
@@ -1045,9 +1045,9 @@ I offer this as a possible reading: these two oaths of the sūra do more than sw
 
 ---
 
-## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ ۝ ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ ۝ مُّطَاعٍ ثَمَّ أَمِينٍ
+## 81/19-21 — إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ · ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ · مُّطَاعٍ ثَمَّ أَمِينٍ
 
-*Innahū la-qawlu rasūlin karīm ۝ Dhī quwwatin ʿinda dhi'l-ʿarshi makīn ۝ Muṭāʿin thamma amīn*
+*Innahū la-qawlu rasūlin karīm · Dhī quwwatin ʿinda dhi'l-ʿarshi makīn · Muṭāʿin thamma amīn*
 "Truly it is the speech of a noble messenger — possessed of strength, of firm standing with the Owner of the Throne; obeyed there, trustworthy."
 
 ### The answer to the oath, and a threefold reinforcement

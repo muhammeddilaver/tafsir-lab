@@ -209,7 +209,7 @@ Inilah salah satu landasan yang diperlukan untuk memahami perintah istigfar pada
 
 ---
 
-## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا
+## 110/3 — فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا
 
 *Fa sabbiḥ bi-ḥamdi rabbika wastagfirh, innahū kāna tawwābā*
 "Bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia adalah tawwāb (yang sangat banyak menerima tobat)."

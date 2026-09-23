@@ -151,7 +151,7 @@ Surah ini tidak sekali pun mengatakan "engkau bukan pemilik". Ia hanya mengajuka
 
 ---
 
-## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
+## 67/2 — ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ
 
 *Allażī khalaqal-mauta wal-ḥayāta li-yabluwakum ayyukum aḥsanu ʻamalā, wa huwal-ʻazīzul-gafūr*
 "Dia yang menciptakan kematian dan kehidupan untuk menguji kamu, siapa di antara kamu yang lebih baik amalnya. Dia Mahaperkasa, Maha Pengampun."
@@ -294,7 +294,7 @@ Dan surah ini meletakkan yang tidak terjawab itu sebagai ukuran.
 
 ---
 
-## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
+## 67/3 — ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ طِبَاقًا مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
 
 *Allażī khalaqa sabʻa samāwātin ṭibāqā, mā tarā fī khalqir-Raḥmāni min tafāwut, farjiʻil-baṣara hal tarā min fuṭūr*
 "Dia yang menciptakan tujuh langit berlapis-lapis. Kamu tidak akan melihat ketidakserasian apa pun dalam ciptaan Ar-Rahman. Ayo, palingkan kembali pandanganmu: adakah kamu melihat sebuah retakan?"
@@ -521,7 +521,7 @@ Sisi yang kedua: **memandang sambil mencari berbeda dari memandang sambil menont
 
 ---
 
-## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
+## 67/5 — وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
 
 *Wa laqad zayyannas-samāʼad-dunyā bi-maṣābīḥa wa jaʻalnāhā rujūmal lisy-syayāṭīn, wa aʻtadnā lahum ʻażābas-saʻīr*
 "Sungguh, Kami telah menghiasi langit yang terdekat dengan lampu-lampu; dan Kami menjadikannya benda-benda pelempar bagi setan-setan. Dan Kami sediakan bagi mereka azab api yang menyala-nyala."
@@ -604,7 +604,7 @@ Kata ini muncul tiga kali dalam surah ini (5, 10, 11), dan pada ketiganya ia men
 
 ---
 
-## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ ۝ إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
+## 67/6-7 — وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ وَبِئْسَ ٱلْمَصِيرُ · إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ
 
 *Wa lillażīna kafarū bi-rabbihim ʻażābu jahannam, wa biʼsal-maṣīr — iżā ulqū fīhā samiʻū lahā syahīqan wa hiya tafūr*
 "Bagi orang-orang yang mengingkari Tuhan mereka ada azab Jahanam; dan seburuk-buruk tempat kembali! Ketika mereka dilemparkan ke dalamnya, mereka mendengar suara tarikan napas yang mengerikan darinya sementara ia mendidih."
@@ -656,7 +656,7 @@ Pemakaiannya yang paling dikenal di dalam Al-Qur'an ada pada kisah Nuh: *"Hingga
 
 ---
 
-## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ ۝ قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
+## 67/8-9 — تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ · قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ
 
 *Takādu tamayyazu minal-gaiẓ, kullamā ulqiya fīhā faujun saʼalahum khazanatuhā alam yaʼtikum nażīr — qālū balā qad jāʼanā nażīrun fa-każżabnā wa qulnā mā nazzalallāhu min syaiʼin in antum illā fī ḍalālin kabīr*
 "Hampir-hampir ia terpecah karena marah. Setiap kali sekelompok orang dilemparkan ke dalamnya, para penjaganya bertanya kepada mereka: 'Tidakkah seorang pemberi peringatan datang kepada kamu?' Mereka menjawab: 'Benar, seorang pemberi peringatan telah datang kepada kami; tetapi kami mendustakannya dan kami berkata: Allah tidak menurunkan apa pun, kamu hanyalah berada dalam kesesatan yang besar.'"
@@ -773,7 +773,7 @@ Surah ini menyambungkan nilai sebuah pengakuan kepada **waktunya**. Kalimat yang
 
 ---
 
-## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ ۝ فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
+## 67/10-11 — وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ · فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ
 
 *Wa qālū lau kunnā nasmaʻu au naʻqilu mā kunnā fī aṣḥābis-saʻīr — faʻtarafū bi-żambihim fa-suḥqal li-aṣḥābis-saʻīr*
 "Dan mereka berkata: 'Seandainya dahulu kami mendengar atau berakal, niscaya kami tidak termasuk penghuni api yang menyala-nyala.' Maka mereka pun mengakui dosa mereka. Menjauhlah para penghuni api yang menyala-nyala!"
@@ -954,7 +954,7 @@ Dipakainya kata yang sama dengan jarak tiga ayat, yang satu untuk tuduhan dan ya
 
 ---
 
-## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ ۝ أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
+## 67/13-14 — وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ · أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 
 *Wa asirrū qaulakum awijharū bih, innahū ʻalīmum bi-żātiṣ-ṣudūr — alā yaʻlamu man khalaqa wa huwal-laṭīful-khabīr*
 "Rahasiakanlah perkataanmu atau nyatakanlah ia; sesungguhnya Dia mengetahui hakikat dada. Tidakkah Yang menciptakan itu mengetahui? Dialah Al-Latif, Al-Khabir."
@@ -1059,7 +1059,7 @@ Dan pasangan nama *al-Laṭīful-Khabīr* mengeluarkan pengetahuan ini dari rasa
 
 ---
 
-## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ
+## 67/15 — هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ
 
 *Huwallażī jaʻala lakumul-arḍa żalūlan famsyū fī manākibihā wa kulū mir rizqih, wa ilaihin-nusyūr*
 "Dialah yang menjadikan bumi tunduk bagi kamu. Maka berjalanlah di atas pundak-pundaknya dan makanlah dari rezeki-Nya. Dan kepada-Nyalah kebangkitan."
@@ -1183,7 +1183,7 @@ Ayat ini tidak mengatakan hal itu; dan saya pun tidak menyuruh ayat mengatakan s
 
 ---
 
-## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ ۝ أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ ۝ وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
+## 67/16-18 — ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ · أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ · وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ
 
 *A-amintum man fis-samāʼi ay yakhsifa bikumul-arḍa fa-iżā hiya tamūr — am amintum man fis-samāʼi ay yursila ʻalaikum ḥāṣibā, fa-sataʻlamūna kaifa nażīr — wa laqad każżaballażīna min qablihim fa-kaifa kāna nakīr*
 "Sudah merasa amankah kamu bahwa Dia yang di langit akan membenamkan kamu ke dalam bumi? Maka tiba-tiba bumi itu berguncang. Atau sudah merasa amankah kamu bahwa Dia yang di langit akan mengirimkan kepada kamu angin yang menghamburkan batu? Kelak kamu akan mengetahui bagaimana peringatan-Ku. Dan sungguh, orang-orang sebelum mereka pun telah mendustakan; maka bagaimana pengingkaran-Ku!"
@@ -1291,7 +1291,7 @@ Hal ini mengeluarkan ancaman tersebut dari keadaannya yang abstrak. Bagi seseora
 
 ---
 
-## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+## 67/19 — أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
 
 *Awalam yarau ilaṭ-ṭairi fauqahum ṣāffātiw wa yaqbiḍn, mā yumsikuhunna illar-Raḥmān, innahū bi-kulli syaiʼim baṣīr*
 "Tidakkah mereka memandang burung-burung di atas mereka yang mengepakkan dan mengatupkan sayapnya? Tidak ada yang menahannya selain Ar-Rahman. Sesungguhnya Dia Maha Melihat segala sesuatu."
@@ -1392,7 +1392,7 @@ Perbedaan antara kedua bahasa itu mengubah cara seseorang memandang dirinya send
 
 ---
 
-## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ ۚ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ ۝ أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
+## 67/20-21 — أَمَّنْ هَٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَٰنِ إِنِ ٱلْكَٰفِرُونَ إِلَّا فِى غُرُورٍ · أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ
 
 *Amman hāżallażī huwa jundul lakum yanṣurukum min dūnir-Raḥmān, inil-kāfirūna illā fī gurūr — amman hāżallażī yarzuqukum in amsaka rizqah, bal lajjū fī ʻutuwwiw wa nufūr*
 "Atau siapa gerangan bala tentara kamu itu yang akan menolong kamu selain Ar-Rahman? Orang-orang kafir itu tidak berada dalam apa pun selain tipuan. Atau siapa gerangan yang akan memberi kamu rezeki jika Dia menahan rezeki-Nya? Tidak, mereka justru bertahan di dalam keangkuhan dan lari menjauh."
@@ -1636,7 +1636,7 @@ Dan ketetapan yang dicatat pada pembahasan Al-Gasyiyah bekerja di sini dari arah
 
 ---
 
-## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ ۝ قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
+## 67/23-24 — قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ · قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ
 
 *Qul huwallażī ansyaʼakum wa jaʻala lakumus-samʻa wal-abṣāra wal-afʼidah, qalīlam mā tasykurūn — qul huwallażī żaraʼakum fil-arḍi wa ilaihi tuḥsyarūn*
 "Katakanlah: Dialah yang mengadakan dan menumbuhkan kamu, yang menjadikan bagi kamu pendengaran, mata, dan hati. Alangkah sedikitnya kamu bersyukur! Katakanlah: Dialah yang memperbanyak dan menyebarkan kamu di bumi; dan kepada-Nya kamu akan dikumpulkan."
@@ -1720,7 +1720,7 @@ Dari sini keluarlah rumusan syukur, dan ia berbeda dari "terima kasih" dalam bah
 
 ---
 
-## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ ۝ قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ ۝ فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
+## 67/25-27 — وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ · قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ · فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ
 
 *Wa yaqūlūna matā hāżal-waʻdu in kuntum ṣādiqīn — qul innamal-ʻilmu ʻindallāhi wa innamā ana nażīrum mubīn — fa-lammā raʼauhu zulfatan sīʼat wujūhullażīna kafarū wa qīla hāżallażī kuntum bihī taddaʻūn*
 "Mereka berkata: 'Kapan janji ini, jika kamu memang orang-orang yang benar?' Katakanlah: 'Pengetahuan itu hanya ada di sisi Allah; dan aku hanyalah seorang pemberi peringatan yang jelas.' Ketika mereka melihatnya dari dekat, wajah orang-orang yang ingkar menjadi buruk, dan dikatakan: 'Inilah yang dahulu selalu kamu minta.'"
@@ -1795,7 +1795,7 @@ Mengenai cara baca dan makna kata kerja ini ada perbedaan pendapat:
 
 ---
 
-## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ ۝ قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
+## 67/28-29 — قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ · قُلْ هُوَ ٱلرَّحْمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ
 
 *Qul araʼaitum in ahlakaniyallāhu wa mam maʻiya au raḥimanā fa-may yujīrul-kāfirīna min ʻażābin alīm — qul huwar-Raḥmānu āmannā bihī wa ʻalaihi tawakkalnā, fa-sataʻlamūna man huwa fī ḍalālim mubīn*
 "Katakanlah: 'Terangkanlah kepadaku: jika Allah membinasakan aku dan orang-orang yang bersamaku, atau Dia merahmati kami, siapakah yang akan melindungi orang-orang kafir dari azab yang pedih?' Katakanlah: 'Dialah Ar-Rahman; kami beriman kepada-Nya dan kepada-Nya kami bertawakal. Kelak kamu akan mengetahui siapa yang berada dalam kesesatan yang nyata.'"

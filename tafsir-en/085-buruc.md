@@ -600,7 +600,7 @@ I record this as my own reading; the coming together of the two names, however, 
 
 ---
 
-## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 
 *Alladhī lahū mulku'l-samāwāti wa'l-arḍ; wa'llāhu ʿalā kulli shayʾin shahīd*
 "He to whom belongs the dominion of the heavens and the earth. And God is witness over all things."
@@ -774,7 +774,7 @@ The sūra, that is, names the penalty with the word of the crime. This is the sa
 
 ---
 
-## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
+## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
 
 *Inna'lladhīna āmanū wa ʿamilu'l-ṣāliḥāti lahum jannātun tajrī min taḥtihā'l-anhār; dhālika'l-fawzu'l-kabīr*
 "For those who believe and do righteous deeds there are gardens beneath which rivers flow. That is the great triumph."

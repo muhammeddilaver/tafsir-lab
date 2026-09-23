@@ -472,9 +472,9 @@ There is also the relation between wealth and this image. When someone carrying 
 
 ---
 
-## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ ۝ وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
+## 92/12-13 — إِنَّ عَلَيْنَا لَلْهُدَىٰ · وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ
 
-*Inna ʿalaynā la'l-hudā ۝ Wa inna lanā la'l-ākhirata wa'l-ūlā*
+*Inna ʿalaynā la'l-hudā · Wa inna lanā la'l-ākhirata wa'l-ūlā*
 "The guidance is surely upon Us. The hereafter and this world are surely Ours."
 
 Two sentences of principle, coming in the middle of the sūra after the two sides have been described.
@@ -575,9 +575,9 @@ This agrees with the general logic of the sūra. In the seventh and tenth verses
 
 ---
 
-## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى ۝ ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
+## 92/15-16 — لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى · ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ
 
-*Lā yaṣlāhā illā'l-ashqā ۝ Alladhī kadhdhaba wa tawallā*
+*Lā yaṣlāhā illā'l-ashqā · Alladhī kadhdhaba wa tawallā*
 "None will enter it but the most wretched — he who gave the lie and turned away."
 
 ### صَلِيَ — to enter, to be roasted
@@ -628,9 +628,9 @@ And note: the same verb was there in the ninth verse too — *"wa kadhdhaba bi'l
 
 ---
 
-## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى ۝ ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+## 92/17-18 — وَسَيُجَنَّبُهَا ٱلْأَتْقَى · ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
 
-*Wa sayujannabuhā'l-atqā ۝ Alladhī yuʾtī mālahū yatazakkā*
+*Wa sayujannabuhā'l-atqā · Alladhī yuʾtī mālahū yatazakkā*
 "But the most guarded will be kept away from it — he who gives his wealth, to purify himself."
 
 ### جَنَّبَ — to move aside
@@ -699,9 +699,9 @@ The second reading is the widespread one and agrees with the two verses that fol
 
 ---
 
-## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ ۝ إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+## 92/19-20 — وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ · إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
 
-*Wa mā li-aḥadin ʿindahū min niʿmatin tujzā ۝ Illā'btighāʾa wajhi Rabbihi'l-aʿlā*
+*Wa mā li-aḥadin ʿindahū min niʿmatin tujzā · Illā'btighāʾa wajhi Rabbihi'l-aʿlā*
 "No one has with him a favour to be repaid — only seeking the good pleasure of his most high Lord (does he give)."
 
 The definition of giving without return. Its barest form in the Qurʾān is here.
@@ -881,9 +881,9 @@ The two sūras use the same skeleton:
 
 ```
 Series of oaths (cosmic)
-        ↓
+ ↓
 Moral duality (the ruling)
-        ↓
+ ↓
 The duality shown
 ```
 

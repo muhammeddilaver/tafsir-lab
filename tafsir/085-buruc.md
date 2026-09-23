@@ -600,7 +600,7 @@ Bunu kendi okumam olarak kaydediyorum; iki ismin bir arada gelmesi ise metnin ve
 
 ---
 
-## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+## 85/9 — ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 
 *Ellezî lehû mülkü's-semâvâti ve'l-ard; vallâhü alâ külli şey'in şehîd*
 "O ki, göklerin ve yerin mülkü O'nundur. Ve Allah her şeye şahittir."
@@ -774,7 +774,7 @@ Yani sûre, cezayı suçun kelimesiyle adlandırıyor. Bu, dördüncü ayetteki 
 
 ---
 
-## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
+## 85/11 — إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ
 
 *İnne'llezîne âmenû ve amilu's-sâlihâti lehüm cennâtün tecrî min tahtihe'l-enhâr; zâlike'l-fevzü'l-kebîr*
 "İman edip salih ameller işleyenler için, altlarından ırmaklar akan cennetler vardır. İşte büyük kurtuluş budur."

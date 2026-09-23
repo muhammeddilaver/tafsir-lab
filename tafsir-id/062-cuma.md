@@ -459,7 +459,7 @@ Dan ayat kelima dibuka dengan sebuah gambaran yang diletakkan persis berhadapan 
 
 ---
 
-## 62/5 — مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا ۚ بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ ۚ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
+## 62/5 — مَثَلُ الَّذِينَ حُمِّلُوا التَّوْرَاةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ الْحِمَارِ يَحْمِلُ أَسْفَارًا بِئْسَ مَثَلُ الْقَوْمِ الَّذِينَ كَذَّبُوا بِآيَاتِ اللَّهِ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ
 
 *Maṡalullażīna ḥummilut-Taurāta ṡumma lam yaḥmilūhā ka-maṡalil-ḥimāri yaḥmilu asfārā. Biʼsa maṡalul-qaumillażīna każżabū bi-āyātillāh. Wallāhu lā yahdil-qaumaẓ-ẓālimīn*
 
@@ -717,7 +717,7 @@ Dan pembedaan ini akan duduk tepat di pusat pada ayat pertama Surah Al-Munafiqun
 
 ---
 
-## 62/7 — وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
+## 62/7 — وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ
 
 *Wa lā yatamannaunahū abadan bimā qaddamat aidīhim, wallāhu ʻalīmun biẓ-ẓālimīn*
 
@@ -771,7 +771,7 @@ Catatan yang dibubuhkan pada Al-Baqarah 2/9 untuk orang-orang munafik bersambung
 
 ---
 
-## 62/8 — قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
+## 62/8 — قُلْ إِنَّ الْمَوْتَ الَّذِي تَفِرُّونَ مِنْهُ فَإِنَّهُ مُلَاقِيكُمْ ثُمَّ تُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
 
 *Qul innal-mautallażī tafirrūna minhu fa-innahū mulāqīkum, ṡumma turaddūna ilā ʻālimil-gaibi wasy-syahādati fa-yunabbiʼukum bimā kuntum taʻmalūn*
 
@@ -890,7 +890,7 @@ Adapun ayat kesembilan akan dibuka langsung dengan sebuah perintah, dan lawan bi
 
 ---
 
-## 62/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
+## 62/9 — يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
 
 *Yā ayyuhallażīna āmanū iżā nūdiya liṣ-ṣalāti min yaumil-jumuʻati fasʻau ilā żikrillāhi wa żarul-baiʻ. Żālikum khairul lakum in kuntum taʻlamūn*
 
@@ -1128,7 +1128,7 @@ Dan datangnya kata ini pada ayat tersebut persis sesudah perintah **mencari reze
 
 ---
 
-## 62/11 — وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ
+## 62/11 — وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ وَاللَّهُ خَيْرُ الرَّازِقِينَ
 
 *Wa iżā raʼau tijāratan au lahwanin-faḍḍū ilaihā wa tarakūka qāʼimā. Qul mā ʻindallāhi khairum minal-lahwi wa minat-tijārati, wallāhu khairur-rāziqīn*
 

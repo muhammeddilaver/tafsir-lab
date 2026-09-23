@@ -344,7 +344,7 @@ Akar **أ-و-ل**: **sampai kepada asal sesuatu, kepada tempat ia kembali.** *Ā
 
 ---
 
-## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
+## 12/11-14 — قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَنَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ · أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ
 
 *Qālū yā abānā mā laka lā taʼmannā ʻalā Yūsufa wa innā lahū lanāṣiḥūn · Arsilhu maʻanā gadan yartaʻ wa yalʻab wa innā lahū laḥāfiẓūn · Qāla innī la-yaḥzununī an tażhabū bihī wa akhāfu an yaʼkulahuż-żiʼbu wa antum ʻanhu gāfilūn · Qālū la-in akalahuż-żiʼbu wa naḥnu ʻuṣbatun innā iżan lakhāsirūn*
 
@@ -363,7 +363,7 @@ Akar **أ-و-ل**: **sampai kepada asal sesuatu, kepada tempat ia kembali.** *Ā
 
 **Dan hal ini menarik perhatian: dari dua alasan yang diberikan sang ayah, hanya satu yang dijawab.** Sang ayah berkata "aku sedih" dan "aku takut ia dimakan serigala"; saudara-saudaranya hanya menjawab soal serigala. **Kesedihan itu tinggal tanpa jawaban.** Saya catat ini sebagai bacaan saya sendiri; sandarannya adalah perbandingan ayat ke-13 dengan ayat ke-14.
 
-### لَا تَأْمَ۫نَّا — catatan qiraat dan penulisan
+### لَا تَأْمَنَّا — catatan qiraat dan penulisan
 
 **Kata kerjanya adalah *lā taʼmanunā*, dan dalam penulisan mushaf kedua *nūn*-nya ditulis menyatu.** **Dalam cara membaca kata ini terdapat perbedaan di antara para imam qiraat** — dua pengucapan yang disebut *isymām* dan *ikhtilās* diriwayatkan. **Perbedaannya ada pada pengucapan dan ia tidak mengubah makna; karena itu saya tidak masuk ke rinciannya.**
 

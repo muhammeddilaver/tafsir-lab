@@ -1000,7 +1000,7 @@ Ve sûrenin bütün mimarisi burada tamamlanıyor: gök hal değiştirdi (1), ye
 
 ---
 
-## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩
+## 84/20-21 — فَمَا لَهُمْ لَا يُؤْمِنُونَ · وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ 
 
 *Fe-mâ lehüm lâ yü'minûn · Ve izâ kurie aleyhimü'l-Kur'ânü lâ yescüdûn*
 "Öyleyse onlara ne oluyor da inanmıyorlar? Kendilerine Kur'an okunduğunda secde etmiyorlar?"
@@ -1047,7 +1047,7 @@ Ve dil düzeyinde bir ayrıntı daha var. İkinci ayetteki fiil **أَذِنَت
 
 ### Tilâvet secdesi
 
-**Bu ayette secde vardır.** Mushaflarda ayetin sonuna secde işareti (۩) konur.
+**Bu ayette secde vardır.** Mushaflarda ayetin sonuna secde işareti () konur.
 
 Dayanağı, hadis kaynaklarında yer alan rivayetlerdir: Peygamber'in *"İzâ's-semâü'nşakkat"* sûresinde secde ettiği nakledilir. Bu rivayet sahih hadis kaynaklarında bulunur; **râvi ve tam metin konusunda kesin bir nispet vermek yerine, rivayetin varlığını kaydetmekle yetiniyorum.**
 

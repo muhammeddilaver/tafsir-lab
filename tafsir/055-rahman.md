@@ -523,7 +523,7 @@ Ve bir kayıt daha: bu, **bir sayı hesabı değildir.** STYLE'da yasaklanan şe
 
 ## Ayet ayet
 
-## 55/1-4 — ٱلرَّحْمَٰنُ ۝ عَلَّمَ ٱلْقُرْءَانَ ۝ خَلَقَ ٱلْإِنسَٰنَ ۝ عَلَّمَهُ ٱلْبَيَانَ
+## 55/1-4 — ٱلرَّحْمَٰنُ · عَلَّمَ ٱلْقُرْءَانَ · خَلَقَ ٱلْإِنسَٰنَ · عَلَّمَهُ ٱلْبَيَانَ
 
 *Er-Rahmân · Alleme'l-Kur'ân · Halaka'l-insân · Allemehü'l-beyân*
 
@@ -705,7 +705,7 @@ Bunun somut karşılığı bulmakta zorlanılmaz: dilin en yaygın kötüye kull
 
 ---
 
-## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ ۝ وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+## 55/5-6 — ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ · وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
 
 *Eş-şemsü ve'l-kameru bi-husbân · Ve'n-necmü ve'ş-şeceru yescüdân*
 
@@ -789,7 +789,7 @@ Yani gök cisimleri için bir **durum**, bitkiler için bir **fiil** kullanılı
 
 ---
 
-## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ ۝ أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ ۝ وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+## 55/7-9 — وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ · أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ · وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
 
 *Ve's-semâe rafe'ahâ ve vada'a'l-mîzân · Ellâ tatğav fi'l-mîzân · Ve ekīmü'l-vezne bi'l-kıstı ve lâ tuhsirü'l-mîzân*
 
@@ -1020,7 +1020,7 @@ Ve kelime, o bir milimi Firavun'un cümlesiyle aynı kefeye koyuyor.
 
 ---
 
-## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ ۝ فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ ۝ وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+## 55/10-12 — وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ · فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ · وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
 
 *Ve'l-arda vada'ahâ li'l-enâm · Fîhâ fâkihetün ve'n-nahlü zâtü'l-ekmâm · Ve'l-habbü zü'l-asfi ve'r-reyhân*
 
@@ -1135,7 +1135,7 @@ Yani ilk soruşta muhatabın önünde **on dört kalemlik** bir liste var. Soru 
 
 ---
 
-## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ ۝ وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
+## 55/14-15 — خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ · وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
 
 *Halaka'l-insâne min salsâlin ke'l-fahhâr · Ve halaka'l-cânne min mâricin min nâr*
 
@@ -1321,7 +1321,7 @@ Ve dikkat çekici olan şu: bu istisnanın bulunduğu ayet, **konusu ikilik olan
 
 ---
 
-## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ ۝ بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
+## 55/19-20 — مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ · بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
 
 *Merace'l-bahreyni yeltekıyân · Beynehümâ berzahun lâ yebğıyân*
 
@@ -1644,7 +1644,7 @@ Geminin tahtası, denizi, rüzgârı ve onu yapan eli — hiçbiri insanın icad
 
 ---
 
-## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ ۝ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+## 55/26-27 — كُلُّ مَنْ عَلَيْهَا فَانٍ · وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
 
 *Küllü men aleyhâ fân · Ve yebkā vechü Rabbike zü'l-celâli ve'l-ikrâm*
 
@@ -2327,7 +2327,7 @@ Ve bir okuma daha ekliyorum, **kendi okumam olarak**: perçem, kibrin yeridir (A
 
 ---
 
-## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ ۝ يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
+## 55/43-44 — هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ · يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ
 
 *Hâzihî cehennemü'lletî yükezzibü bihe'l-mücrimûn · Yetûfûne beynehâ ve beyne hamîmin ân*
 
