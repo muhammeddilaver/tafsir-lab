@@ -75,7 +75,6 @@ export const LANG_NAME: Record<Lang, string> = {
   en: "English",
   id: "Indonesia",
 };
-export const LANG_ABBR: Record<Lang, string> = { tr: "TR", en: "EN", id: "ID" };
 
 export const SITE = "Tafsir Lab";
 
@@ -85,6 +84,8 @@ type Dict = {
   navAbout: string;
   navTerms: string;
   navPrivacy: string;
+  /** Label for the language control itself. */
+  langLabel: string;
   /** aria-label for one switcher link; `name` is the target language. */
   langSwitchLabel: (name: string) => string;
   footNote: string;
@@ -195,6 +196,7 @@ export const T: Record<Lang, Dict> = {
     navAbout: "Hakkında",
     navTerms: "Kullanım koşulları",
     navPrivacy: "Gizlilik",
+    langLabel: "Dil",
     langSwitchLabel: (name) => `${name} sürümüne geç`,
     footNote:
       "Metnin tamamı bir dil modeli (Claude, Anthropic) tarafından yazılmıştır. Dinî otoritesi yoktur; klasik kaynaklardan doğrulanmalıdır.",
@@ -296,6 +298,7 @@ export const T: Record<Lang, Dict> = {
     navAbout: "About",
     navTerms: "Terms of use",
     navPrivacy: "Privacy",
+    langLabel: "Language",
     langSwitchLabel: (name) => `Switch to ${name}`,
     footNote:
       "The whole text was written by a language model (Claude, Anthropic). It carries no religious authority and must be checked against the classical sources.",
@@ -397,6 +400,7 @@ export const T: Record<Lang, Dict> = {
     navAbout: "Tentang",
     navTerms: "Ketentuan penggunaan",
     navPrivacy: "Privasi",
+    langLabel: "Bahasa",
     langSwitchLabel: (name) => `Beralih ke versi ${name}`,
     footNote:
       "Seluruh teks ini ditulis oleh sebuah model bahasa (Claude, Anthropic). Teks ini tidak memiliki otoritas keagamaan dan harus diperiksa terhadap sumber-sumber klasik.",

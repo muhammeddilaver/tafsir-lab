@@ -59,6 +59,9 @@ export function SiteFooter({ lang }: { lang: Lang }) {
           <a className="foot-gh" href={REPO} target="_blank" rel="noopener noreferrer">
             GitHub
           </a>
+          {/* The same control as in the top bar: a reader who has come down
+              the page should not have to go back up to change language. */}
+          <LangSwitch lang={lang} have={have()} />
         </nav>
         <p className="foot-note">{t.footNote}</p>
       </div>

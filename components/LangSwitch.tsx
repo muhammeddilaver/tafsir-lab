@@ -3,7 +3,6 @@
 import { usePathname } from "next/navigation";
 import {
   LANGS,
-  LANG_ABBR,
   LANG_NAME,
   LANG_COOKIE,
   ROUTES,
@@ -53,40 +52,56 @@ function remember(to: Lang) {
 }
 
 /**
- * With a third language the switcher stopped being a toggle: it lists every
- * language but the one being read. Narrow screens show the two-letter form —
- * three full names would not fit beside the site name and the nav links.
+ * A select rather than a row of links: with three languages the row took as
+ * much of the bar as the nav did, and it had to hide the names behind
+ * two-letter codes to fit. The select shows the language being read — which
+ * the row could not — and stays one control wide whatever the list grows to.
+ *
+ * A select needs script to navigate, so the plain links are kept in
+ * `<noscript>`: without JavaScript the switcher still works, as it did
+ * before. (Search engines read the `hreflang` alternates from the document
+ * head, not from here.)
  */
 export default function LangSwitch({ lang, have = {} }: { lang: Lang; have?: Have }) {
   const path = usePathname() ?? ROUTES[lang].home;
   const t = T[lang];
 
+  const go = (to: Lang) => {
+    if (to === lang) return;
+    remember(to);
+    const href = counterpart(path, lang, to, have);
+    // Land on the same verse in the other language when the anchor carries.
+    const h = location.hash;
+    location.href = AYAH_HASH.test(decodeURIComponent(h)) ? href + h : href;
+  };
+
   return (
     <span className="langs">
-      {LANGS.filter((l) => l !== lang).map((other) => {
-        const href = counterpart(path, lang, other, have);
-        return (
+      <select
+        className="lang-select"
+        aria-label={t.langLabel}
+        value={lang}
+        onChange={(e) => go(e.target.value as Lang)}
+      >
+        {LANGS.map((l) => (
+          <option key={l} value={l} lang={l}>
+            {LANG_NAME[l]}
+          </option>
+        ))}
+      </select>
+      <noscript>
+        {LANGS.filter((l) => l !== lang).map((other) => (
           <a
             key={other}
             className="lang"
-            href={href}
+            href={counterpart(path, lang, other, have)}
             hrefLang={other}
             aria-label={t.langSwitchLabel(LANG_NAME[other])}
-            onClick={(e) => {
-              remember(other);
-              // Land on the same verse in the other language when the anchor
-              // carries.
-              const h = location.hash;
-              if (!AYAH_HASH.test(decodeURIComponent(h))) return;
-              e.preventDefault();
-              location.href = href + h;
-            }}
           >
-            <span className="lang-full">{LANG_NAME[other]}</span>
-            <span className="lang-ab">{LANG_ABBR[other]}</span>
+            {LANG_NAME[other]}
           </a>
-        );
-      })}
+        ))}
+      </noscript>
     </span>
   );
 }
